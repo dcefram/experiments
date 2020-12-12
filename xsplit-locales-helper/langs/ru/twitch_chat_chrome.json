@@ -1,0 +1,155 @@
+{
+	"twitch.chat.tabheader": {
+		"message": "Чат"
+	},
+	"twitch.chat.source": {
+		"message": "Источник"
+	},
+	"twitch.chat.account": {
+		"message": "Учетная запись"
+	},
+	"twitch.chat.authorize": {
+		"message": "Разрешить XSplit использовать Twitch"
+	},
+	"twitch.chat.remove_authorization": {
+		"message": "**%api%** Отозвать авторизацию"
+	},
+	"twitch.chat.switch_account": {
+		"message": "**%api%** Сменить учетную запись"
+	},
+	"twitch.chat.not_connected": {
+		"message": "Не подключен"
+	},
+	"twitch.chat.connected": {
+		"message": "Подключен"
+	},
+	"twitch.chat.connect": {
+		"message": "Подключение"
+	},
+	"twitch.chat.disconnect": {
+		"message": "Отсоединить"
+	},
+	"twitch.chat.channel": {
+		"message": "Канал"
+	},
+	"twitch.chat.error_channel_not_found": {
+		"message": "Пожалуйста, укажите существующий канал."
+	},
+	"twitch.chat.display": {
+		"message": "Дисплей"
+	},
+	"twitch.chat.chat_box": {
+		"message": "Окно чата"
+	},
+	"twitch.chat.opacity": {
+		"message": "Прозрачность"
+	},
+	"twitch.chat.viewers": {
+		"message": "Зрители"
+	},
+	"twitch.chat.message": {
+		"message": "Сообщение"
+	},
+	"twitch.chat.outline_text": {
+		"message": "Контур"
+	},
+	"twitch.chat.text_size": {
+		"message": "Размер текста"
+	},
+	"twitch.chat.hide_user_name": {
+		"message": "Скрыть имена пользователей"
+	},
+	"twitch.chat.hide_timestamp": {
+		"message": "Скрыть метки времени"
+	},
+	"twitch.chat.hide_user_icons": {
+		"message": "Скрыть иконки пользователей"
+	},
+	"twitch.chat.hide_on_idle": {
+		"message": "Скрывать чат в режиме простоя"
+	},
+	"twitch.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"twitch.chat.animation_text": {
+		"message": "Анимация"
+	},
+	"twitch.chat.animation_direction_text": {
+		"message": "Направление"
+	},
+	"twitch.chat.animation_randomize": {
+		"message": "Случайным образом"
+	},
+	"twitch.chat.animation_override_settings": {
+		"message": "Настройки этого раздела перекроют настройки экрана, заданные вручную."
+	},
+	"twitch.chat.animation_duration": {
+		"message": "Длительность"
+	},
+	"twitch.chat.animation_set_duration": {
+		"message": "Данный параметр установит продолжительность прокрутки анимации."
+	},
+	"twitch.chat.animation_text_size": {
+		"message": "Размер текста"
+	},
+	"twitch.chat.seconds": {
+		"message": "секунды"
+	},
+	"twitch.chat.animation_text_color": {
+		"message": "Цвет текста"
+	},
+	"twitch.chat.animation_none": {
+		"message": "Нет"
+	},
+	"twitch.chat.animation_scroll": {
+		"message": "Прокрутить"
+	},
+	"twitch.chat.animation_scroll_text": {
+		"message": "Данный параметр позволит динамически прокручивать сообщения чата пользователя на экране.[br] [br]Лучший способ отображения этого плагина - настроить ваш источник на полноэкранное отображение."
+	},
+	"twitch.chat.animation_direction_rightToLeft": {
+		"message": "Справа налево"
+	},
+	"twitch.chat.animation_direction_leftToRight": {
+		"message": "Слева направо"
+	},
+	"twitch.chat.animation_direction_randomize": {
+		"message": "Случайным образом"
+	},
+	"twitch.chat.outline_none": {
+		"message": "Нет"
+	},
+	"twitch.chat.outline_thin": {
+		"message": "Тонкий"
+	},
+	"twitch.chat.outline_thick": {
+		"message": "Толстый"
+	},
+	"twitch.chat.outline_thickest": {
+		"message": "Очень толстый"
+	},
+	"twitch.chat.blocking": {
+		"message": "Блокировка"
+	},
+	"twitch.chat.blockedlist": {
+		"message": "Список заблокированных"
+	},
+	"twitch.chat.block_help": {
+		"message": "Вы можете блокировать зрителей, добавляя их полное или имя пользователя (включая ботов, если это имеет место) в список заблокированных, после чего их сообщения не будут появятся в окне чата.[br][br]Этот список заблокированных не связан со списком заблокированных пользователей для вашего канала. Он имеет силу только для данного чата."
+	},
+	"twitch.chat.blocking_name": {
+		"message": "Введите полное имя или имя пользователя, которого хотите заблокировать."
+	},
+	"twitch.chat.block_name": {
+		"message": "По имени"
+	},
+	"twitch.chat.block_add": {
+		"message": "Добавить"
+	},
+	"twitch.chat.block_remove": {
+		"message": "Удалить"
+	},
+	"twitch.chat.preview": {
+		"message": "Предварительный просмотр"
+	}
+}

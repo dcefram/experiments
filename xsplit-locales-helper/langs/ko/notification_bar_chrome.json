@@ -1,0 +1,59 @@
+{
+  "COUNTER": {
+    "message": "(%count%/%total%)"
+  },
+  "IN_GAME_HUD.text": {
+    "message": "새로운 인게임 오버레이를 사용해보세요! 게임캡처 소스 추가 후 다시 게임으로 돌아가 단축키 ALT + ` 를 누르시면 됩니다."
+  },
+  "UI_UPDATE_ANNOUNCEMENT.text": {
+    "message": "**엑스플릿 3.9 에 오신걸 환영합니다!** 다양한 신규 기능을 체험해보세요."
+  },
+  "UI_UPDATE_ANNOUNCEMENT.link": {
+    "message": "[자세히](%url%)"
+  },
+  "REQUEST_PERMISSION.label": {
+    "message": "사용 권한"
+  },
+  "REQUEST_PERMISSION.text": {
+    "message": "특정 소스 혹은 확장 프로그램이 스크립트를 사용할 수 있는 권한을 요청합니다"
+  },
+  "REQUEST_PERMISSION.link": {
+    "message": "[권한 설정](editAccess)"
+  },
+  "PLUGINS_UPDATE.label": {
+    "message": "업데이트가 가능한 플러그인이 존재합니다!"
+  },
+  "PLUGINS_UPDATE.link": {
+    "message": "[업데이트 보기](PLUGINS_UPDATE)"
+  },
+  "NEW_CRISP_MESSAGE.label": {
+    "message": "고객지원"
+  },
+  "NEW_CRISP_MESSAGE.link": {
+    "message": "[메세지 열기](openCrispChat)"
+  },
+  "NEW_CRISP_MESSAGE.file": {
+    "message": "새로운 파일을 전송 받았습니다"
+  },
+  "NEW_CRISP_MESSAGE.single": {
+    "message": "%count% 개의 새 메시지가 있습니다"
+  },
+  "NEW_CRISP_MESSAGE.multiple": {
+    "message": "%count% 개의 새 메시지가 있습니다"
+  },
+  "IDENTIFY_GAMES.label": {
+    "message": "게임 추적"
+  },
+  "IDENTIFY_GAMES.text": {
+    "message": "캡처하시려는 게임의 정보를 자세히 알 수 있도록 도와주시면 고객지원팀에서 더욱 수월하게 문제를 해결해드릴 수 있습니다."
+  },
+  "IDENTIFY_GAMES.link": {
+    "message": "[게임 정보 등록](identifyGames)"
+  },
+  "WINDOWS_GAMEBAR.text": {
+    "message": "**윈도우 게임 모드** 가 사용자님 시스템에 활성화 되어 있습니다. 이 설정은 방송 송출에 문제를 일으킬수도 있습니다."
+  },
+  "EXTENSION_RUNNING_IN_BACKGROUND.text": {
+    "message": "%name% 은 이제 바탕화면에서 실행됩니다. 설정을 변경하시려면 익스텐션 메뉴에서 톱니바퀴 [GEAR](ICON-GEAR) 아이콘을 클릭해주세요."
+  }
+}

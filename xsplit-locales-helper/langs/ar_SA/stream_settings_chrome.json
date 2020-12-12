@@ -1,0 +1,41 @@
+{
+	"streamSettings.freeUserLimitationStreamReso": {
+		"message": "يمكن بث XSplit Broadcaster بدقة عالية تتجاوز٪ الدقة٪. ومع ذلك ، فإن هذه الميزة محجوزة لمستخدمي XSplit بترخيص مدفوع. [br] [br] يرجى تحديد الطريقة التي تريد المتابعة."
+	},
+	"streamSettings.freeUserLimitationRecordReso": {
+		"message": "بإمكان XSplit Broadcaster التسجيل بدقة عالية تتجاوز٪ الدقة٪. ومع ذلك ، فإن هذه الميزة محجوزة لمستخدمي XSplit بترخيص مدفوع. [br] [br] يرجى تحديد الطريقة التي تريد المتابعة."
+	},
+	"streamSettings.freeUserLimitationStreamFps": {
+		"message": "يمكن لـ XSplit Broadcaster البث في معدلات الإطارات أعلى من٪ fps٪. ومع ذلك ، فإن هذه الميزة محجوزة لمستخدمي XSplit بترخيص مدفوع. [br] [br] يرجى تحديد الطريقة التي تريد المتابعة."
+	},
+	"streamSettings.freeUserLimitationRecordFps": {
+		"message": "يمكن لـ XSplit Broadcaster التسجيل في معدلات الإطارات أعلى من٪ fps٪. ومع ذلك ، فإن هذه الميزة محجوزة لمستخدمي XSplit بترخيص مدفوع. [br] [br] يرجى تحديد الطريقة التي تريد المتابعة."
+	},
+	"streamSettings.freeUserLimitationStreamResoFps": {
+		"message": "بإمكان XSplit Broadcaster البث بدقة عالية تتجاوز٪ دقة٪ وبمعدلات إطارات أعلى من٪ fps٪. ومع ذلك ، فإن هذه الميزات محجوزة لمستخدمي XSplit بترخيص مدفوع. [br] [br] يرجى تحديد الطريقة التي تريد المتابعة."
+	},
+	"streamSettings.freeUserLimitationRecordResoFps": {
+		"message": "يمكن أن تسجل XSplit Broadcaster بدقة عالية تتجاوز٪ الدقة٪ وبمعدلات إطارات أعلى من٪ fps٪. ومع ذلك ، فإن هذه الميزات محجوزة لمستخدمي XSplit بترخيص مدفوع. [br] [br] يرجى تحديد الطريقة التي تريد المتابعة."
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonReso": {
+		"message": "٪ type٪ in٪ resolution٪ [br] بدون علامة [br] مائية"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonFps": {
+		"message": "٪ type٪ in٪ fps٪ [br] بدون علامة مائية [br]"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonResoFps": {
+		"message": "٪ type٪ بدقة٪ [br] @٪ fps٪ [br] بدون علامة مائية [br]"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonReso": {
+		"message": "٪ type٪ in٪ resolution٪ [br] مع [br] علامة مائية"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonFps": {
+		"message": "٪ type٪ in٪ fps٪ [br] مع [br] علامة مائية"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonResoFps": {
+		"message": "٪ type٪ بدقة٪ [br] @٪ fps٪ [br] مع علامة مائية [br]"
+	},
+	"streamSettings.buyLicenseButton": {
+		"message": "شراء ترخيص [br] لإزالة العلامة المائية [br]"
+	}
+}

@@ -1,0 +1,95 @@
+{
+	"mixer_source_alert.source": {
+		"message": "Fonte"
+	},
+	"mixer_source_alert.not_connected": {
+		"message": "Não conectado"
+	},
+	"mixer_source_alert.channel": {
+		"message": "Canal"
+	},
+	"mixer_source_alert.connect": {
+		"message": "Conectar-se"
+	},
+	"mixer_source_alert.invalid_channel": {
+		"message": "Por favor, forneça um canal válido."
+	},
+	"mixer_source_alert.alertLabel": {
+		"message": "Alerta"
+	},
+	"mixer_source_alert.type": {
+		"message": "Tipo"
+	},
+	"mixer_source_alert.theme": {
+		"message": "Tema"
+	},
+	"mixer_source_alert.color": {
+		"message": "Cor"
+	},
+	"mixer_source_alert.layout": {
+		"message": "Layout"
+	},
+	"mixer_source_alert.animation_text": {
+		"message": "Animação"
+	},
+	"mixer_source_alert.duration": {
+		"message": "Duração"
+	},
+	"mixer_source_alert.delay": {
+		"message": "Display Time"
+	},
+	"mixer_source_alert.animateIn": {
+		"message": "Animate in"
+	},
+	"mixer_source_alert.animateOut": {
+		"message": "Animate out"
+	},
+	"mixer_source_alert.nameStyleAndSettings": {
+		"message": "Name style and setting"
+	},
+	"mixer_source_alert.name": {
+		"message": "Nome"
+	},
+	"mixer_source_alert.minMonth": {
+		"message": "Min. months"
+	},
+	"mixer_source_alert.minViewers": {
+		"message": "Min. viewers"
+	},
+	"mixer_source_alert.audio": {
+		"message": "Áudio"
+	},
+	"mixer_source_alert.sound": {
+		"message": "Som"
+	},
+	"mixer_source_alert.show_alert": {
+		"message": "Pré-visualizar"
+	},
+	"mixer_source_alert.test_alert": {
+		"message": "Testar alerta"
+	},
+	"mixer_source_alert.connected": {
+		"message": "Conectado"
+	},
+	"mixer_source_alert.disconnect": {
+		"message": "Desconectar-se"
+	},
+	"mixer_source_alert.generalHeader": {
+		"message": "Geral"
+	},
+	"mixer_source_alert.customizeHeader": {
+		"message": "Customize"
+	},
+	"mixer_source_alert.hide_alert": {
+		"message": "Hide Preview"
+	},
+	"mixer_source_alert.account": {
+		"message": "Conta"
+	},
+	"mixer_source_alert.authorize": {
+		"message": "Authorize XSplit to use Mixer"
+	},
+	"mixer_source_alert.remove_authorization": {
+		"message": "**%api%** Remover autorização"
+	}
+}

@@ -1,0 +1,62 @@
+{
+	"youtube.html.tabheader": {
+		"message": "دردشة"
+	},
+	"youtube.html.source": {
+		"message": "مصدر"
+	},
+	"youtube.html.account": {
+		"message": "الحساب"
+	},
+	"youtube.html.preview": {
+		"message": "معاينة"
+	},
+	"youtube.html.not_connected": {
+		"message": "غير متصل"
+	},
+	"youtube.html.connected": {
+		"message": "متصل"
+	},
+	"youtube.html.error_channel_not_found": {
+		"message": "يرجى تقديم فيديو صالح."
+	},
+	"youtube.html.display": {
+		"message": "عرض"
+	},
+	"youtube.html.chat_box": {
+		"message": "صندوق الدردشه"
+	},
+	"youtube.html.opacity": {
+		"message": "الشفافيه"
+	},
+	"youtube.html.viewers": {
+		"message": "المشاهدين"
+	},
+	"youtube.html.message": {
+		"message": "رسالة"
+	},
+	"youtube.html.text_size": {
+		"message": "حجم الخط"
+	},
+	"youtube.html.hide_user_icons": {
+		"message": "إخفاء رموز المستخدم"
+	},
+	"youtube.html.hide_timestamps": {
+		"message": "إخفاء الطوابع الزمنية"
+	},
+	"youtube.html.hide_on_idle": {
+		"message": "إخفاء الدردشة عند الخمول"
+	},
+	"youtube.html.video_id": {
+		"message": "معرف الفيديو"
+	},
+	"youtube.html.video_id_help": {
+		"message": "للحصول على معرف فيديو YouTube المباشر الخاص بك في متصفحك ، انقر بزر الماوس الأيمن على الفيديو ، واختر \"نسخ عنوان URL للفيديو\". انسخ الأحرف في الجزء الأخير من عنوان URL للفيديو."
+	},
+	"youtube.html.connect": {
+		"message": "متصل"
+	},
+	"youtube.html.disconnect": {
+		"message": "قطع الاتصال"
+	}
+}

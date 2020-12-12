@@ -1,0 +1,89 @@
+{
+	"youtube.chat.tabheader": {
+		"message": "Chat"
+	},
+	"youtube.chat.source": {
+		"message": "Quelle"
+	},
+	"youtube.chat.account": {
+		"message": "Konto"
+	},
+	"youtube.chat.preview": {
+		"message": "Vorschau"
+	},
+	"youtube.chat.account_automatic": {
+		"message": "Automatisch"
+	},
+	"youtube.chat.authorize": {
+		"message": "XSplit autorisieren, YouTube Live zu verwenden"
+	},
+	"youtube.chat.remove_authorization": {
+		"message": "**%api%** Autorisierung entfernen"
+	},
+	"youtube.chat.switch_account": {
+		"message": "**%api%** Konto wechseln"
+	},
+	"youtube.chat.not_connected": {
+		"message": "Widget wird automatisch verbunden, sobald Stream live ist"
+	},
+	"youtube.chat.connected": {
+		"message": "Verbunden"
+	},
+	"youtube.chat.error_channel_not_found": {
+		"message": "Bitte geben Sie einen gültigen Kanal an."
+	},
+	"youtube.chat.display": {
+		"message": "Anzeige"
+	},
+	"youtube.chat.chat_box": {
+		"message": "Chat-Box"
+	},
+	"youtube.chat.opacity": {
+		"message": "Deckkraft"
+	},
+	"youtube.chat.viewers": {
+		"message": "Zuschauer"
+	},
+	"youtube.chat.message": {
+		"message": "Nachricht"
+	},
+	"youtube.chat.text_size": {
+		"message": "Textgröße"
+	},
+	"youtube.chat.hide_user_icons": {
+		"message": "Benutzer-Symbole verstecken"
+	},
+	"youtube.chat.hide_timestamps": {
+		"message": "Zeitstempel verstecken"
+	},
+	"youtube.chat.hide_on_idle": {
+		"message": "Chat im Leerlauf ausblenden, wenn Abwesend seit"
+	},
+	"youtube.chat.blocking": {
+		"message": "Blockierung"
+	},
+	"youtube.chat.blockedlist": {
+		"message": "Blockierliste"
+	},
+	"youtube.chat.block_help": {
+		"message": "Sie können Zuschauer blockieren, indem Sie deren Name oder Benutzername der Blockierliste hinzufügen (einschließlich Bots, falls zutreffend) und ihre Nachrichten werden dann im Chat-Viewer nicht mehr angezeigt.[br][br]Diese Blockierliste ist nicht mit der Blockierliste Ihres Kanals verbunden. Sie ist nur für diese Chat-Quelle vorgesehen."
+	},
+	"youtube.chat.blocking_name": {
+		"message": "Geben Sie Name oder Benutzername des Zuschauers ein, den Sie blockieren möchten."
+	},
+	"youtube.chat.block_name": {
+		"message": "Name"
+	},
+	"youtube.chat.block_add": {
+		"message": "Hinzufügen"
+	},
+	"youtube.chat.block_remove": {
+		"message": "Entfernen"
+	},
+	"youtube.chat.loggingInTo": {
+		"message": "Anmeldung bei YouTube..."
+	},
+	"youtube.chat.pleaseComplete": {
+		"message": "Bitte schliesse den Anmeldevorgang in Deinem Browser ab."
+	}
+}

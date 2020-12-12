@@ -1,0 +1,95 @@
+{
+	"title": {
+		"message": "Propriedades do Facebook Live"
+	},
+	"save_close": {
+		"message": "Salvar e fechar"
+	},
+	"start_streaming": {
+		"message": "Continuar"
+	},
+	"logged_in_as": {
+		"message": "Logado como: %fullname%"
+	},
+	"switch_account": {
+		"message": "[Mudar conta](switchAccount)"
+	},
+	"remove_auth": {
+		"message": "[Remover autorização](removeAuth)"
+	},
+	"stream_settings": {
+		"message": "Configurações de stream"
+	},
+	"stream_to.label": {
+		"message": "Transmitir para: "
+	},
+	"stream_to.values.timeline": {
+		"message": "Linha do tempo"
+	},
+	"stream_to.values.page": {
+		"message": "Página"
+	},
+	"stream_to.values.group": {
+		"message": "Grupo"
+	},
+	"stream_to.values.event": {
+		"message": "Evento"
+	},
+	"stream_to.pageauth": {
+		"message": "Página - precisa de permissão"
+	},
+	"stream_to.groupauth": {
+		"message": "Grupo - Precisa de permissão"
+	},
+	"stream_to.eventauth": {
+		"message": "Evento - Precisa de permissão"
+	},
+	"page": {
+		"message": "Página: "
+	},
+	"timeline": {
+		"message": "Linha do tempo: "
+	},
+	"group": {
+		"message": "Grupo: "
+	},
+	"event": {
+		"message": "Evento: "
+	},
+	"format.label": {
+		"message": "Formato: "
+	},
+	"encoder.label": {
+		"message": "Encoder: "
+	},
+	"bitrate": {
+		"message": "Velocidade de transmissão: "
+	},
+	"saveVideo": {
+		"message": "Salvar vídeo para Minhas Gravações"
+	},
+	"resolutionWarning": {
+		"message": "Seu hardware pode ter problemas de performance com esta resolução."
+	},
+	"bitrateWarning": {
+		"message": "Sua largura de banda pode não ser suficiente para transmitir a este bitrate."
+	},
+	"streamingWarning": {
+		"message": "Testes de hardware e largura de banda não podem ser executados devido ao stream estar ao vivo/em gravação."
+	},
+	"checkAgain": {
+		"message": "[Testar novamente?](testAgain)"
+	},
+	"authorize": {
+		"message": "Clique para autorizar XSplit a transmitir para sua conta Facebook"
+	},
+	"configuring": {
+		"message": "Ajustando suas configurações..."
+	},
+	"system_test": {
+		"message": "Último teste de sistema: %timestamp% [teste again](testAgain)"
+	},
+	"advanced_settings": {
+		"message": "[Advanced Settings](advancedSettings)"
+	}
+}

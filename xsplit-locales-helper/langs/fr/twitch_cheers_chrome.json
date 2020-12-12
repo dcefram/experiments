@@ -1,0 +1,77 @@
+{
+	"twitch.cheers.tabheader": {
+		"message": "Alerte"
+	},
+	"twitch.cheers.source": {
+		"message": "Source"
+	},
+	"twitch.cheers.account": {
+		"message": "Compte"
+	},
+	"twitch.cheers.authorize": {
+		"message": "Autoriser XSplit à utiliser Twitch"
+	},
+	"twitch.cheers.remove_authorization": {
+		"message": "**%api%** Retirer l'autorisation"
+	},
+	"twitch.cheers.switch_account": {
+		"message": "**%api%** Changer de compte"
+	},
+	"twitch.cheers.not_connected": {
+		"message": "Non connecté"
+	},
+	"twitch.cheers.connected": {
+		"message": "Connecté"
+	},
+	"twitch.cheers.error_channel_not_found": {
+		"message": "Veuillez saisir une chaîne valide."
+	},
+	"twitch.cheers.notification": {
+		"message": "Notification"
+	},
+	"twitch.cheers.lock_components": {
+		"message": "Vérrouiller les éléments"
+	},
+	"twitch.cheers.lock_components_help": {
+		"message": "Cocher cette option désactivera le curseur de la souris, le repositionnement et redimensionnement des éléments.[br]Cocher ceci si vous ne voulez pas afficher les effets de survolement de souris sur les éléments, particulièrement lorsque vous streamez ou enregistrez."
+	},
+	"twitch.cheers.show_stats": {
+		"message": "Afficher les Stats"
+	},
+	"twitch.cheers.show_stats_help": {
+		"message": "Ceci montrer le cheer le plus haut et le plus récent de votre chaine Twitch. Pour vider les stats, déconnectez votre chaine et reconnectez. Pour éviter de vider les données en changeant de scène, veuillez cocher \"Garder source en mémoire\"."
+	},
+	"twitch.cheers.opacity": {
+		"message": "Opacité"
+	},
+	"twitch.cheers.user_name": {
+		"message": "Nom d'utilisateur"
+	},
+	"twitch.cheers.labels": {
+		"message": "Labels"
+	},
+	"twitch.cheers.show_alert": {
+		"message": "Afficher alerte"
+	},
+	"twitch.cheers.message": {
+		"message": "Message"
+	},
+	"twitch.cheers.show_message": {
+		"message": "Afficher message"
+	},
+	"twitch.cheers.duration": {
+		"message": "Durée "
+	},
+	"twitch.cheers.millisecond_unit": {
+		"message": "ms"
+	},
+	"twitch.cheers.sound": {
+		"message": "Son"
+	},
+	"twitch.cheers.preview": {
+		"message": "Aperçu"
+	},
+	"twitch.cheers.test_alert": {
+		"message": "Test Alerte"
+	}
+}

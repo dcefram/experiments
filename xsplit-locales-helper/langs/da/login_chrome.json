@@ -1,0 +1,234 @@
+{
+	"email": {
+		"message": "Email"
+	},
+	"password": {
+		"message": "Password"
+	},
+	"rememberMe": {
+		"message": "Remember me"
+	},
+	"newXSplitUser": {
+		"message": "New XSplit User?"
+	},
+	"noAccount": {
+		"message": "Register now"
+	},
+	"forgotPassword": {
+		"message": "Forgot password"
+	},
+	"enterCode": {
+		"message": "Enter code"
+	},
+	"loginAutomatically": {
+		"message": "Log me in automatically"
+	},
+	"login": {
+		"message": "Log in"
+	},
+	"selectLanguage": {
+		"message": "SELECT LANGUAGE"
+	},
+	"agreement": {
+		"message": "I have read and accepted the [XSplit License Agreement](http://xspl.it/bc/terms) and [Privacy Policy](https://xspl.it/bc/privacy)."
+	},
+	"updates": {
+		"message": "Send me updates and special offers via e-mail."
+	},
+	"noEmailMessage": {
+		"message": "You have selected not to receive update emails. Press continue to confirm your selection."
+	},
+	"growl.warning": {
+		"message": "Advarsel"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.title": {
+		"message": "Caps Lock is On",
+		"type": "warning"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.message": {
+		"message": "Having Caps Lock on may cause you to enter your password incorrectly. Make sure to turn it off before entering your password."
+	},
+	"registration.message": {
+		"message": "New XSplit user? [Privacy Policy](https://xspl.it/bc/privacy)"
+	},
+	"screenName.placeholder": {
+		"message": "Choose a User Name"
+	},
+	"fullName.placeholder": {
+		"message": "Full name"
+	},
+	"emailInput.placeholder": {
+		"message": "Email"
+	},
+	"passwordInput.placeholder": {
+		"message": "Password"
+	},
+	"retypePassword.placeholder": {
+		"message": "Retype password"
+	},
+	"register.label": {
+		"message": "Register now"
+	},
+	"loginUsingExisting": {
+		"message": "**Already a user?** [Log in]() using an existing account"
+	},
+	"registration.confirm.message": {
+		"message": "**Please make sure your e-mail address below is correct and you have read the XSplit License Agreement and Privacy Policy before continuing.**"
+	},
+	"registration.confirm.continue": {
+		"message": "Continue"
+	},
+	"registration.confirm.goBack": {
+		"message": "Go back"
+	},
+	"registration.processing": {
+		"message": "Registering your new account..."
+	},
+	"registration.success": {
+		"message": "**Registration successful!**[br]\n[br]\nAn email has been sent to **%email%** with instructions on how to activate your account."
+	},
+	"continue.label": {
+		"message": "Continue to XSplit Broadcaster"
+	},
+	"screenName.hint": {
+		"message": "User Name must be 4-50 characters long. It will be used in the support forum."
+	},
+	"screenName.check": {
+		"message": "Checking if your User Name is available..."
+	},
+	"screenName.unavailable": {
+		"message": "User Name is already taken. Please choose another."
+	},
+	"fullName.hint": {
+		"message": "Full name must be 6-50 characters long."
+	},
+	"emailInput.hint": {
+		"message": "A valid e-mail is required for account activation."
+	},
+	"emailInput.notValid": {
+		"message": "Email might be taken or is invalid"
+	},
+	"passwordInput.hint": {
+		"message": "Password must be 6-50 characters. Make sure to turn off your CAPS LOCK as it may cause you to enter your password incorrectly."
+	},
+	"passwordInput.notMatch": {
+		"message": "Password and re-typed password must match and must be 6-50 characters"
+	},
+	"copyright": {
+		"message": "Copyright &copy; %dates%"
+	},
+	"oem.login.optimizedFor": {
+		"message": "Optimized for"
+	},
+	"oem.login.bannerMessage": {
+		"message": "FREE %license% XSplit Premium License! Sponsored by %oem%. Register or log in to redeem license."
+	},
+	"oem.redeemed.message": {
+		"message": "Congratulations! Your **%oem% Machine** ships with a **%oemfreelicense% Premium License** to use the full feature set of XSplit Broadcaster. The license has been applied to your account **(%email%)**."
+	},
+	"oem.redeemed.messageNewAccount": {
+		"message": "Congratulations! Your **%oem% Machine** ships with a **%oemfreelicense% Premium License** to use the full feature set of XSplit Broadcaster. The license has been applied to your new XSplit account **(%email%)**."
+	},
+	"oem.redeemed.letsGetStarted": {
+		"message": "Okay, let's get started"
+	},
+	"oem.redeem.emailSentMessage": {
+		"message": "An email has been sent to you with instructions on how to activate your account."
+	},
+	"oem.redeemed.newFail": {
+		"message": "Congratulations! Registration was successful. An email has been sent to you with instructions on how to activate your account. Make sure to activate within 24 hours."
+	},
+	"oem.redeemed.redeemError": {
+		"message": "There was an error in redeeming the license. Try redeeming the license again by restarting XSplit Broadcaster or contact **license@xsplit.com** if the error persists."
+	},
+	"REFURBISHED_REDEMPTION_NOT_ALLOWED_FOR_SAME_XSPLIT_ACCOUNT": {
+		"message": "There was an error in redeeming the license. Try redeeming the license again by restarting XSplit Broadcaster and by using another XSplit account. If the error persists, please contact **license@xsplit.com**."
+	},
+	"cannot_apply_with_recurring": {
+		"message": "Error: Gift certificate license cannot be applied while recurring license is active."
+	},
+	"oem.login.letsGetStarted": {
+		"message": "Okay, let's get started"
+	},
+	"oem.login.continueToXBC": {
+		"message": "Continue to XSplit Broadcaster"
+	},
+	"carousel.slide1.header": {
+		"message": "Simple yet Powerful Live Streaming and Recording Software"
+	},
+	"carousel.slide1.content": {
+		"message": "XSplit Broadcaster is a revolutionary audio/video mixing application that allows anyone to create professional quality live broadcasts and video recordings using a simple and intuitive interface that anyone can master."
+	},
+	"carousel.slide2.header": {
+		"message": "Custom Plugins and Integrations"
+	},
+	"carousel.slide2.content": {
+		"message": "XSplit Broadcaster features a wealth of customizations thanks to our plugin store, letting you further personalize your broadcast with donation alerts, music requests and more. You can even develop your own! The possibilities are endless."
+	},
+	"carousel.slide3.header": {
+		"message": "Edit and Upload Recordings"
+	},
+	"carousel.slide3.content": {
+		"message": "XSplit Broadcaster makes it easy to sort through and manage any recorded gameplay, letting you even assemble and edit together captures with inbuilt editor. Once finished simply upload your videos straight to YouTube and share them across your favorite social networks, all without leaving the application."
+	},
+	"carousel.slide4.header": {
+		"message": "Native support for all popular capture cards"
+	},
+	"carousel.slide4.content": {
+		"message": "XSplit Broadcaster has been fine tuned to support the widest range of capture card brands available today. - [supported capture card list in product page](https://xspl.it/bc/capture_card_list)"
+	},
+	"carousel.freeLicenseText": {
+		"message": "_**FREE** XSplit License_"
+	},
+	"carousel.sponsor": {
+		"message": "Sponsored by %oem%"
+	},
+	"carousel.lucky": {
+		"message": "Nice! This %oem% machine is gifted with a **%duration% XSplit License!**"
+	},
+	"carousel.continue": {
+		"message": "Continue"
+	},
+	"carousel.title": {
+		"message": "XSplit Broadcaster"
+	},
+	"label.default": {
+		"message": "Log in using %connect%"
+	},
+	"label.connect": {
+		"message": "or log in with"
+	},
+	"label.authorized": {
+		"message": "Authorized as"
+	},
+	"label.changeaccount": {
+		"message": "[Use a different account](changeAccount)"
+	},
+	"label.learnMore": {
+		"message": "New to live streaming? [Learn more here!](https://xspl.it/bc/tutorials)"
+	},
+	"label.otherOptions": {
+		"message": "[More login options](otherOptions)"
+	},
+	"label.welcome": {
+		"message": "Welcome to XSplit!"
+	},
+	"label.loggingInTo": {
+		"message": "Logging in to %service%..."
+	},
+	"label.pleaseComplete": {
+		"message": "Please complete the login process in your browser[br][br][br][Cancel](cancelLogin)[br][br][br][Having issues? Try in-app login instead](externalLogin)"
+	},
+	"label.somethingWrong": {
+		"message": "Something went wrong."
+	},
+	"label.retryAuth": {
+		"message": "Please retry the authorization or pick another[br]service to log in with."
+	},
+	"button.back": {
+		"message": "Back"
+	},
+	"button.retry": {
+		"message": "Retry"
+	}
+}

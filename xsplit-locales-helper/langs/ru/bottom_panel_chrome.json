@@ -1,0 +1,89 @@
+{
+  "scene_label": {
+    "message": "Сцена"
+  },
+  "add_source": {
+    "message": "Add Source"
+  },
+  "copy": {
+    "message": "Скопировать"
+  },
+  "paste": {
+    "message": "Вставить"
+  },
+  "remove": {
+    "message": "Удалить"
+  },
+  "rename": {
+    "message": "Переименовать"
+  },
+  "settings": {
+    "message": "Настройки"
+  },
+  "group": {
+    "message": "Group Sources"
+  },
+  "lock": {
+    "message": "Положение Lock"
+  },
+  "fit": {
+    "message": "Fit to Screen"
+  },
+  "restore": {
+    "message": "Восстановить значения по-умолчанию"
+  },
+  "move_up": {
+    "message": "Поднять источник"
+  },
+  "move_down": {
+    "message": "Опустить источник"
+  },
+  "mute_mic": {
+    "message": "Mutes/Unmutes Default Microphone"
+  },
+  "mute_spk": {
+    "message": "Mutes/Unmutes Default Speakers"
+  },
+  "open_mixer": {
+    "message": "Open Audio Mixer"
+  },
+  "transition_label": {
+    "message": "Транзакция"
+  },
+  "transition_menu": {
+    "message": "Задать стиль и скорость перехода"
+  },
+  "add_favorite": {
+    "message": "Set selected transition to favorite"
+  },
+  "open_favorite": {
+    "message": "Открыть избранные переходы"
+  },
+  "push_live": {
+    "message": "Перейти в онлайн"
+  },
+  "push_live_menu": {
+    "message": "Push Live Menu"
+  },
+  "stream": {
+    "message": "Поток"
+  },
+  "record": {
+    "message": "Запись"
+  },
+  "pause_recording": {
+    "message": "Pause Recording"
+  },
+  "resume_recording": {
+    "message": "Resume Recording"
+  },
+  "screenshot": {
+    "message": "Screenshot"
+  },
+  "empty_channel": {
+    "message": "There seems to be nothing here.<br/><br/>Click on the stream button to set up your first Streaming output."
+  },
+  "empty_list": {
+    "message": "It's pretty empty here.<br/>Click the button below to add your first source."
+  }
+}

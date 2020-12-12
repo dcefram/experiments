@@ -1,0 +1,89 @@
+{
+  "scene_label": {
+    "message": "crwdns124642:0crwdne124642:0"
+  },
+  "add_source": {
+    "message": "crwdns124644:0crwdne124644:0"
+  },
+  "copy": {
+    "message": "crwdns124646:0crwdne124646:0"
+  },
+  "paste": {
+    "message": "crwdns124648:0crwdne124648:0"
+  },
+  "remove": {
+    "message": "crwdns124650:0crwdne124650:0"
+  },
+  "rename": {
+    "message": "crwdns124652:0crwdne124652:0"
+  },
+  "settings": {
+    "message": "crwdns124654:0crwdne124654:0"
+  },
+  "group": {
+    "message": "crwdns124656:0crwdne124656:0"
+  },
+  "lock": {
+    "message": "crwdns124658:0crwdne124658:0"
+  },
+  "fit": {
+    "message": "crwdns124660:0crwdne124660:0"
+  },
+  "restore": {
+    "message": "crwdns124662:0crwdne124662:0"
+  },
+  "move_up": {
+    "message": "crwdns124664:0crwdne124664:0"
+  },
+  "move_down": {
+    "message": "crwdns124666:0crwdne124666:0"
+  },
+  "mute_mic": {
+    "message": "crwdns124668:0crwdne124668:0"
+  },
+  "mute_spk": {
+    "message": "crwdns124670:0crwdne124670:0"
+  },
+  "open_mixer": {
+    "message": "crwdns124672:0crwdne124672:0"
+  },
+  "transition_label": {
+    "message": "crwdns124674:0crwdne124674:0"
+  },
+  "transition_menu": {
+    "message": "crwdns124720:0crwdne124720:0"
+  },
+  "add_favorite": {
+    "message": "crwdns124676:0crwdne124676:0"
+  },
+  "open_favorite": {
+    "message": "crwdns124722:0crwdne124722:0"
+  },
+  "push_live": {
+    "message": "crwdns124678:0crwdne124678:0"
+  },
+  "push_live_menu": {
+    "message": "crwdns124724:0crwdne124724:0"
+  },
+  "stream": {
+    "message": "crwdns124680:0crwdne124680:0"
+  },
+  "record": {
+    "message": "crwdns124682:0crwdne124682:0"
+  },
+  "pause_recording": {
+    "message": "crwdns146508:0crwdne146508:0"
+  },
+  "resume_recording": {
+    "message": "crwdns146510:0crwdne146510:0"
+  },
+  "screenshot": {
+    "message": "crwdns124684:0crwdne124684:0"
+  },
+  "empty_channel": {
+    "message": "crwdns124726:0crwdne124726:0"
+  },
+  "empty_list": {
+    "message": "crwdns157758:0crwdne157758:0"
+  }
+}

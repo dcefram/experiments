@@ -1,0 +1,65 @@
+{
+  "video_playlist.audio_output": {
+    "message": "Saída de Áudio"
+  },
+  "video_playlist.playback": {
+    "message": "Reprodução"
+  },
+  "video_playlist.when_finished": {
+    "message": "Quando terminado"
+  },
+  "video_playlist.start_on_load": {
+    "message": "Iniciar na entrada da cena"
+  },
+  "video_playlist.remember_playback_position": {
+    "message": "Memorizar posição da reprodução"
+  },
+  "video_playlist.show_playback_position": {
+    "message": "Mostrar a posição de reprodução nos vídeos"
+  },
+  "video_playlist.start_at": {
+    "message": "Iniciar em"
+  },
+  "video_playlist.set": {
+    "message": "Definir"
+  },
+  "video_playlist.end_at": {
+    "message": "Terminar em"
+  },
+  "video_playlist.reset": {
+    "message": "Redefinir"
+  },
+  "video_playlist.force_deinterlace": {
+    "message": "Forçar função de desintrelaçar"
+  },
+  "video_playlist.videos": {
+    "message": "Vídeos"
+  },
+  "video_playlist.playlist": {
+    "message": "LISTA DE REPRODUÇÃO"
+  },
+  "video_playlist.add": {
+    "message": "Adicionar"
+  },
+  "video_playlist.remove": {
+    "message": "Remover"
+  },
+  "video_playlist.ok": {
+    "message": "Ok"
+  },
+  "video_playlist.cancel": {
+    "message": "Cancelar"
+  },
+  "video_playlist.hint.videos_section": {
+    "message": "Adicionar, remover e ordenar vídeos"
+  },
+  "video_playlist.hint.video_playback_section": {
+    "message": "Controlar a reprodução, configurar o volume do vídeo e definir o dispositivo de saída de áudio."
+  },
+  "video_playlist.hint.video_missing": {
+    "message": "O arquivo de origem está faltando. O nome pode ter sido alterado ou o arquivo pode ter sido apagado."
+  },
+  "video_playlist.processing": {
+    "message": "Processando vídeos..."
+  }
+}

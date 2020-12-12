@@ -1,0 +1,8 @@
+{
+  "elgatoStreamDeck.info": {
+    "message": "This extension allows your Elgato Stream Deck device to integrate with XSplit."
+  },
+  "elgatoStreamDeck.addtl_info": {
+    "message": "Note that this plugin simply runs in the background without additional configuration."
+  }
+}

@@ -1,0 +1,95 @@
+{
+	"mixer_source_alert.source": {
+		"message": "Source"
+	},
+	"mixer_source_alert.not_connected": {
+		"message": "Not Connected"
+	},
+	"mixer_source_alert.channel": {
+		"message": "Channel"
+	},
+	"mixer_source_alert.connect": {
+		"message": "Connect"
+	},
+	"mixer_source_alert.invalid_channel": {
+		"message": "Please provide a valid channel."
+	},
+	"mixer_source_alert.alertLabel": {
+		"message": "Alert"
+	},
+	"mixer_source_alert.type": {
+		"message": "Type"
+	},
+	"mixer_source_alert.theme": {
+		"message": "Theme"
+	},
+	"mixer_source_alert.color": {
+		"message": "Color"
+	},
+	"mixer_source_alert.layout": {
+		"message": "Layout"
+	},
+	"mixer_source_alert.animation_text": {
+		"message": "Animation"
+	},
+	"mixer_source_alert.duration": {
+		"message": "Duration"
+	},
+	"mixer_source_alert.delay": {
+		"message": "Display Time"
+	},
+	"mixer_source_alert.animateIn": {
+		"message": "Animate in"
+	},
+	"mixer_source_alert.animateOut": {
+		"message": "Animate out"
+	},
+	"mixer_source_alert.nameStyleAndSettings": {
+		"message": "Name style and setting"
+	},
+	"mixer_source_alert.name": {
+		"message": "Name"
+	},
+	"mixer_source_alert.minMonth": {
+		"message": "Min. months"
+	},
+	"mixer_source_alert.minViewers": {
+		"message": "Min. viewers"
+	},
+	"mixer_source_alert.audio": {
+		"message": "Audio"
+	},
+	"mixer_source_alert.sound": {
+		"message": "Sound"
+	},
+	"mixer_source_alert.show_alert": {
+		"message": "Preview"
+	},
+	"mixer_source_alert.test_alert": {
+		"message": "Test Alert"
+	},
+	"mixer_source_alert.connected": {
+		"message": "Connected"
+	},
+	"mixer_source_alert.disconnect": {
+		"message": "Disconnect"
+	},
+	"mixer_source_alert.generalHeader": {
+		"message": "General"
+	},
+	"mixer_source_alert.customizeHeader": {
+		"message": "Customize"
+	},
+	"mixer_source_alert.hide_alert": {
+		"message": "Hide Preview"
+	},
+	"mixer_source_alert.account": {
+		"message": "Account"
+	},
+	"mixer_source_alert.authorize": {
+		"message": "Authorize XSplit to use Mixer"
+	},
+	"mixer_source_alert.remove_authorization": {
+		"message": "**%api%** Remove authorization"
+	}
+}

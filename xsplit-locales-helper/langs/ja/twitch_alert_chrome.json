@@ -1,0 +1,95 @@
+{
+	"twitch.alert.tabheader": {
+		"message": "アラート"
+	},
+	"twitch.alert.source": {
+		"message": "ソース"
+	},
+	"twitch.alert.account": {
+		"message": "アカウント"
+	},
+	"twitch.alert.authorize": {
+		"message": "XSplitに対してTwitchの使用を許可します。"
+	},
+	"twitch.alert.remove_authorization": {
+		"message": "**%api%** 認証取り消し"
+	},
+	"twitch.alert.switch_account": {
+		"message": "**%api%** アカウントを切り替える"
+	},
+	"twitch.alert.not_connected": {
+		"message": "接続されていません。"
+	},
+	"twitch.alert.connected": {
+		"message": "接続しました。"
+	},
+	"twitch.alert.connect": {
+		"message": "接続"
+	},
+	"twitch.alert.disconnect": {
+		"message": "接続を切る"
+	},
+	"twitch.alert.alertLabel": {
+		"message": "アラート"
+	},
+	"twitch.alert.animation_text": {
+		"message": "アニメーション"
+	},
+	"twitch.alert.duration": {
+		"message": "期間"
+	},
+	"twitch.alert.delay": {
+		"message": "表示時間"
+	},
+	"twitch.alert.animateIn": {
+		"message": "入りアニメーション"
+	},
+	"twitch.alert.animateOut": {
+		"message": "出アニメーション"
+	},
+	"twitch.alert.audio": {
+		"message": "オーディオ"
+	},
+	"twitch.alert.generalHeader": {
+		"message": "一般"
+	},
+	"twitch.alert.customizeHeader": {
+		"message": "カスタマイズ"
+	},
+	"twitch.alert.theme": {
+		"message": "テーマ"
+	},
+	"twitch.alert.minMonth": {
+		"message": "最低月間"
+	},
+	"twitch.alert.minViewers": {
+		"message": "最低視聴者数"
+	},
+	"twitch.alert.minCheer": {
+		"message": "チア最低額"
+	},
+	"twitch.alert.type": {
+		"message": "種類"
+	},
+	"twitch.alert.nameStyleAndSettings": {
+		"message": "設定とスタイルの名前"
+	},
+	"twitch.alert.sound": {
+		"message": "音"
+	},
+	"twitch.alert.show_alert": {
+		"message": "プレビュー"
+	},
+	"twitch.alert.hide_alert": {
+		"message": "プレビューを非表示にする"
+	},
+	"twitch.alert.test_alert": {
+		"message": "アラートテスト"
+	},
+	"twitch.alert.Color": {
+		"message": "色"
+	},
+	"twitch.alert.layout": {
+		"message": "レイアウト"
+	}
+}

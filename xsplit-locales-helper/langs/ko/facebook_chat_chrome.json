@@ -1,0 +1,101 @@
+{
+  "facebook.chat.tabheader": {
+    "message": "채팅"
+  },
+  "facebook.chat.source": {
+    "message": "소스"
+  },
+  "facebook.chat.account": {
+    "message": "계정"
+  },
+  "facebook.chat.automatic": {
+    "message": "자동"
+  },
+  "facebook.chat.authorize": {
+    "message": "페이스북 라이브에 엑스플릿 권한 부여"
+  },
+  "facebook.chat.remove_authorization": {
+    "message": "**%api%** 권한 제거"
+  },
+  "facebook.chat.switch_account": {
+    "message": "**%api%** 계정 변경"
+  },
+  "facebook.chat.error_auth": {
+    "message": "권한 승인을 다시 시도해보시고 엑스플릿이 필요한 권한에 접근하도록 합니다."
+  },
+  "facebook.chat.not_connected": {
+    "message": "방송 송출중에는 댓글이 자동으로 표기됩니다."
+  },
+  "facebook.chat.connected": {
+    "message": "연결됨"
+  },
+  "facebook.chat.display": {
+    "message": "디스플레이"
+  },
+  "facebook.chat.preview": {
+    "message": "미리 보기"
+  },
+  "facebook.chat.chatbox": {
+    "message": "채팅 박스"
+  },
+  "facebook.chat.opacity": {
+    "message": "투명도"
+  },
+  "facebook.chat.viewers": {
+    "message": "시청자"
+  },
+  "facebook.chat.message": {
+    "message": "메시지"
+  },
+  "facebook.chat.text_size": {
+    "message": "글자 크기"
+  },
+  "facebook.chat.text_direction": {
+    "message": "문구 방향"
+  },
+  "facebook.chat.hide_user_icons": {
+    "message": "사용자 아이콘 숨기기"
+  },
+  "facebook.chat.one_line_entries": {
+    "message": "한 줄 항목"
+  },
+  "facebook.chat.hide_timestamps": {
+    "message": "시간 표기 숨기기"
+  },
+  "facebook.chat.hide_chat_when_idle": {
+    "message": "일정 시간동안 무반응시 채팅 숨기기"
+  },
+  "facebook.chat.blocking": {
+    "message": "차단"
+  },
+  "facebook.chat.blockedlist": {
+    "message": "차단 목록"
+  },
+  "facebook.chat.block_help": {
+    "message": "특정 시청자 또는 봇 등을 차단 목록에 추가하여 채팅방에서 차단할 수 있습니다. 사용자를 차단하게 되면 더이성 채팅창에 해당 사용자의 채팅이 보이지 않게 됩니다.[br][br]이 차단 목록은 방송 채널의 차단 목록과는 연관이 없습니다. 이러하여 실제 채팅이 등록되도 방송 표기에만 안보이도록 차단을 설정할 수 있습니다."
+  },
+  "facebook.chat.blocking_name": {
+    "message": "사용자의 아이디를 입력하여 차단할 수 있습니다."
+  },
+  "facebook.chat.block_name": {
+    "message": "이름"
+  },
+  "facebook.chat.block_add": {
+    "message": "추가"
+  },
+  "facebook.chat.block_remove": {
+    "message": "제거"
+  },
+  "facebook.chat.hide_connection_message": {
+    "message": "연결 상태 알림 숨기기"
+  },
+  "facebook.chat.not_seeing_videos": {
+    "message": "송출 화면이 나오지 않나요?"
+  },
+  "facebook.chat.not_seeing_videos_help": {
+    "message": "방송이 송출될 사용자님의 일부 페이지에는 접근할 권한이 없을 수 있습니다."
+  },
+  "facebook.chat.not_seeing_videos_link": {
+    "message": "이곳을 클릭하여 새로 인증하세요"
+  }
+}

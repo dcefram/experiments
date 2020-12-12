@@ -1,0 +1,83 @@
+{
+  "facebook.alerts.tabheader": {
+    "message": "เตือน"
+  },
+  "facebook.alerts.notification": {
+    "message": "การแจ้งเตือน"
+  },
+  "facebook.alerts.status": {
+    "message": "สถานะ"
+  },
+  "facebook.alerts.authorize": {
+    "message": "อนุญาตให้ XSplit ใช้งาน Facebook Live"
+  },
+  "facebook.alerts.remove_authorization": {
+    "message": "**%api%** ถอนการอนุญาต"
+  },
+  "facebook.alerts.type.stars": {
+    "message": "ดาว"
+  },
+  "facebook.alerts.type.share": {
+    "message": "แชร์"
+  },
+  "facebook.alerts.alert_type": {
+    "message": "ประเภทการเตือน"
+  },
+  "facebook.alerts.minimum_stars": {
+    "message": "ดาวขั้นต่ำ"
+  },
+  "facebook.alerts.relogin": {
+    "message": "เข้าใช้บัญชีอีกครั้ง"
+  },
+  "facebook.alerts.style": {
+    "message": "สไตล์"
+  },
+  "facebook.alerts.theme": {
+    "message": "ธีม"
+  },
+  "facebook.alerts.layout": {
+    "message": "เลย์เอ้าท์"
+  },
+  "facebook.alerts.color": {
+    "message": "สี"
+  },
+  "facebook.alerts.sound": {
+    "message": "เสียงเตือน"
+  },
+  "facebook.alerts.test_alert": {
+    "message": "ทดสอบการเตือน"
+  },
+  "facebook.alerts.hide_connection_message": {
+    "message": "ซ่อนข้อความการเชื่อมต่อ"
+  },
+  "facebook.alerts.source": {
+    "message": "ซอส"
+  },
+  "facebook.alerts.account": {
+    "message": "บัญชี"
+  },
+  "facebook.alerts.error_auth": {
+    "message": "โปรดลองอนุญาตให้ใช้ใหม่อีกครั้งและเพิ่มการเข้าถึงสิทธิ์การใช้งานที่ XSplit ต้องใช้สำหรับฟังก์ชั่นนี้"
+  },
+  "facebook.alerts.not_connected": {
+    "message": "การเตือนจะถูกโหลดโดยอัตโนมัติเมือสตรีมไลฟ์แล้ว"
+  },
+  "facebook.alerts.settings": {
+    "message": "การตั้งค่า"
+  },
+  "facebook.alerts.switch_account": {
+    "message": "**%api%** สลับบัญชี"
+  },
+  "facebook.alerts.connected": {
+    "message": "เชื่อมต่อแล้ว"
+  },
+  "facebook.alerts.not_seeing_videos": {
+    "message": "ไม่เห็นภาพการไลฟ์ของคุณเหรอ?"
+  },
+  "facebook.alerts.not_seeing_videos_help": {
+    "message": "เราอาจจะไม่มีสิทธิเข้าถึงหน้าเพจไลฟ์วิดีโอบางอัน"
+  },
+  "facebook.alerts.not_seeing_videos_link": {
+    "message": "คลิ๊กที่นี่เพื่อทำการอนุญาตอีกครั้ง"
+  }
+}

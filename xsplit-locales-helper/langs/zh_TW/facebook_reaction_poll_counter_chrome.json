@@ -1,0 +1,80 @@
+{
+  "facebook.reactions.counter.tabheader": {
+    "message": "反應"
+  },
+  "facebook.reactions.counter.source": {
+    "message": "資源"
+  },
+  "facebook.reactions.counter.account": {
+    "message": "帳戶"
+  },
+  "facebook.reactions.counter.automatic": {
+    "message": "自動"
+  },
+  "facebook.reactions.counter.authorize": {
+    "message": "授權XSplit使用 Facebook Live"
+  },
+  "facebook.reactions.counter.remove_authorization": {
+    "message": "**%api%** 刪除授權"
+  },
+  "facebook.reactions.counter.switch_account": {
+    "message": "**%api%** 切換帳戶"
+  },
+  "facebook.reactions.counter.error_auth": {
+    "message": "請再次嘗試授權, 並授予 XSplit 對此功能所需的所有權限的訪問權限"
+  },
+  "facebook.reactions.counter.not_connected": {
+    "message": "當直播生效時反饋將自動加載"
+  },
+  "facebook.reactions.counter.connected": {
+    "message": "連接"
+  },
+  "facebook.reactions.counter.display": {
+    "message": "顯示"
+  },
+  "facebook.reactions.counter.lock_components": {
+    "message": "鎖定組件"
+  },
+  "facebook.reactions.counter.lock_components_text": {
+    "message": "選中此選項將禁用鼠標懸停，重新定位和調整組件大小。[br][br]如果您不想在組件上顯示懸停效果，請檢查此項，尤其是在流式傳輸或錄製時。"
+  },
+  "facebook.reactions.counter.type": {
+    "message": "類型"
+  },
+  "facebook.reactions.counter.show_reactions_labels": {
+    "message": "顯示反應和標籤"
+  },
+  "facebook.reactions.counter.reset": {
+    "message": "重置"
+  },
+  "facebook.reactions.counter.counter_background": {
+    "message": "回饋 BG"
+  },
+  "facebook.reactions.counter.opacity": {
+    "message": "透明度"
+  },
+  "facebook.reactions.counter.counter": {
+    "message": "回饋"
+  },
+  "facebook.reactions.counter.label": {
+    "message": "标签"
+  },
+  "facebook.reactions.counter.dropdown.type.poll": {
+    "message": "反應調查"
+  },
+  "facebook.reactions.counter.dropdown.type.counter": {
+    "message": "反應計數器"
+  },
+  "facebook.reactions.hide_connection_message": {
+    "message": "隱藏連接消息"
+  },
+  "facebook.reactions.not_seeing_videos": {
+    "message": "沒有看到你的直播視頻？"
+  },
+  "facebook.reactions.not_seeing_videos_help": {
+    "message": "我們可能沒有許可權訪問您的某些網頁的即時視頻。"
+  },
+  "facebook.reactions.not_seeing_videos_link": {
+    "message": "點擊這裡重新授權"
+  }
+}

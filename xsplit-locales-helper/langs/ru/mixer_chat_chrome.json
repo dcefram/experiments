@@ -1,0 +1,95 @@
+{
+	"mixer.chat.tabheader": {
+		"message": "Чат"
+	},
+	"mixer.chat.source": {
+		"message": "Источник"
+	},
+	"mixer.chat.not_connected": {
+		"message": "Не подключен"
+	},
+	"mixer.chat.connected": {
+		"message": "Подключен"
+	},
+	"mixer.chat.channel": {
+		"message": "Канал"
+	},
+	"mixer.chat.connect": {
+		"message": "Подключение"
+	},
+	"mixer.chat.disconnect": {
+		"message": "Отсоединить"
+	},
+	"mixer.chat.invalid.channel": {
+		"message": "Пожалуйста, укажите существующий канал."
+	},
+	"mixer.chat.display": {
+		"message": "Дисплей"
+	},
+	"mixer.chat.preview": {
+		"message": "Предварительный просмотр"
+	},
+	"mixer.chat.chat_box": {
+		"message": "Окно чата"
+	},
+	"mixer.chat.opacity": {
+		"message": "Прозрачность"
+	},
+	"mixer.chat.viewers": {
+		"message": "Зрители"
+	},
+	"mixer.chat.message": {
+		"message": "Сообщение"
+	},
+	"mixer.chat.text_size": {
+		"message": "Размер текста"
+	},
+	"mixer.chat.pixel_unit": {
+		"message": "px"
+	},
+	"mixer.chat.default_color": {
+		"message": "Использовать в чате цвета Mixer"
+	},
+	"mixer.chat.hide_user_icons": {
+		"message": "Скрыть иконки пользователей"
+	},
+	"mixer.chat.hide_timestamp": {
+		"message": "Скрыть метки времени"
+	},
+	"mixer.chat.hide_on_idle": {
+		"message": "Скрывать чат в режиме простоя"
+	},
+	"mixer.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"mixer.chat.blocking": {
+		"message": "Блокировка"
+	},
+	"mixer.chat.blockedlist": {
+		"message": "Список заблокированных"
+	},
+	"mixer.chat.block_help": {
+		"message": "Вы можете блокировать зрителей, добавляя их полное или имя пользователя (включая ботов, если это имеет место) в список заблокированных, после чего их сообщения не будут появятся в окне чата.[br][br]Этот список заблокированных не связан со списком заблокированных пользователей для вашего канала. Она имеет силу только для данного чата."
+	},
+	"mixer.chat.blocking_name": {
+		"message": "Введите полное имя или имя пользователя, которого хотите заблокировать."
+	},
+	"mixer.chat.block_name": {
+		"message": "По имени"
+	},
+	"mixer.chat.block_add": {
+		"message": "Добавить"
+	},
+	"mixer.chat.block_remove": {
+		"message": "Удалить"
+	},
+	"mixer.chat.account": {
+		"message": "Учетная запись"
+	},
+	"mixer.chat.authorize": {
+		"message": "Разрешить XSplit использовать Mixer"
+	},
+	"mixer.chat.remove_authorization": {
+		"message": "**%api%** Отозвать авторизацию"
+	}
+}

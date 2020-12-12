@@ -1,0 +1,287 @@
+{
+	"socials.stream.label": {
+		"message": "选择直播分享"
+	},
+	"socials.facebook.tab": {
+		"message": "Facebook"
+	},
+	"socials.facebook.logged": {
+		"message": "作为**%username%**登入"
+	},
+	"socials.facebook.title": {
+		"message": "分享您的直播到Facebook"
+	},
+	"socials.facebook.messagePlaceholder": {
+		"message": "键入您的消息"
+	},
+	"socials.facebook.privacy.label": {
+		"message": "隐私"
+	},
+	"socials.facebook.privacy.values.EVERYONE": {
+		"message": "公开"
+	},
+	"socials.facebook.privacy.values.ALL_FRIENDS": {
+		"message": "朋友"
+	},
+	"socials.facebook.privacy.values.FRIENDS_OF_FRIENDS": {
+		"message": "朋友的朋友"
+	},
+	"socials.facebook.privacy.values.SELF": {
+		"message": "只有我"
+	},
+	"socials.facebook.share": {
+		"message": "共享"
+	},
+	"socials.facebook.cancel": {
+		"message": "取消"
+	},
+	"socials.facebook.authenticate": {
+		"message": "授权张贴在 Facebook 上"
+	},
+	"socials.facebook.unauthenticated": {
+		"message": "您需要登录到 facebook来共享您的广播."
+	},
+	"socials.twitter.tab": {
+		"message": "Twitter"
+	},
+	"socials.twitter.logged": {
+		"message": "作为**%username%**登入"
+	},
+	"socials.twitter.title": {
+		"message": "分享你的直播到 Twitter"
+	},
+	"socials.twitter.messagePlaceholder": {
+		"message": "键入您的消息"
+	},
+	"socials.twitter.tweet": {
+		"message": "共享"
+	},
+	"socials.twitter.cancel": {
+		"message": "取消"
+	},
+	"socials.twitter.authenticate": {
+		"message": "授权张贴在 Twitter 上"
+	},
+	"socials.twitter.unauthenticated": {
+		"message": "您需要登录到 Twitter来共享您的广播."
+	},
+	"socials.google.tab": {
+		"message": "Google+"
+	},
+	"socials.google.logged": {
+		"message": "作为登入**%用户名%**"
+	},
+	"socials.google.title": {
+		"message": "分享你的直播到 Google + "
+	},
+	"socials.google.share": {
+		"message": "共享"
+	},
+	"socials.google.cancel": {
+		"message": "取消"
+	},
+	"socials.google.authenticate": {
+		"message": "授权在 Google + 上张贴"
+	},
+	"socials.google.unauthenticated": {
+		"message": "您需要登录到 Google+来共享您的广播."
+	},
+	"socials.processing": {
+		"message": "处理中"
+	},
+	"facebookShare.addMessage": {
+		"message": "在这里输入信息"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "分享视频到Facebook"
+	},
+	"facebookShare.via": {
+		"message": "通过XSplit Broadcaster"
+	},
+	"facebookShare.privacy": {
+		"message": "隐私"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "公开"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "朋友"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "朋友的朋友"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "只有我"
+	},
+	"facebookShare.shareVideo": {
+		"message": "共享"
+	},
+	"facebookShare.cancel": {
+		"message": "CANCEL"
+	},
+	"facebookShare.processing": {
+		"message": "处理中"
+	},
+	"facebookShare.postAs": {
+		"message": "发布到"
+	},
+	"facebookShare.timeline": {
+		"message": "Facebook 时间线"
+	},
+	"facebookShare.managePage": {
+		"message": "你的管理页"
+	},
+	"twitterShare.addMessage": {
+		"message": "在这里输入信息"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "分享视频到Twitter"
+	},
+	"twitterShare.privacy": {
+		"message": "隐私"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "共享"
+	},
+	"twitterShare.cancel": {
+		"message": "CANCEL"
+	},
+	"twitterShare.processing": {
+		"message": "处理中"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "在这里输入信息"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "分享视频到Google+"
+	},
+	"googlePlusShare.via": {
+		"message": "通过XSplit Broadcaster"
+	},
+	"googlePlusShare.privacy": {
+		"message": "隐私"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "所有人"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "所有朋友"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "朋友的朋友"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "自身"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "共享"
+	},
+	"googlePlusShare.cancel": {
+		"message": "CANCEL"
+	},
+	"googlePlusShare.processing": {
+		"message": "处理中"
+	},
+	"vodShare.unauthorized": {
+		"message": "在您可以共享您的视频之前,您需要授权至少 1 个社交媒体帐户通过点击上面的图标."
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "共享直播"
+	},
+	"vodShare.processing": {
+		"message": "处理中"
+	},
+	"vodShare.addLink": {
+		"message": "添加流链接"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "隐私设置"
+	},
+	"vodShare.gameCheckin": {
+		"message": "游戏签入"
+	},
+	"vodShare.shareVideo": {
+		"message": "共享"
+	},
+	"vodShare.cancel": {
+		"message": "CANCEL"
+	},
+	"vodShare.shareTo.1": {
+		"message": "只共享到 %service1%"
+	},
+	"vodShare.shareTo.2": {
+		"message": "共享到 %service1% 和 %service2%"
+	},
+	"vodShare.shareTo.3": {
+		"message": "共享到 %service1%， %service2% 和 %service3%"
+	},
+	"vodShare.shareTo.4": {
+		"message": "共享到 %service1%，%service2%，%service3% 和 %service4%"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "TWITTER 消息计数器"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "所剩下的东西的字符计数可以发送到 Twitter.在邮件中而不仅仅是唯一的文字将过帐到 Twitter,你会发现蓝色的彩色的文本."
+	},
+	"vodShare.gameNameWarning": {
+		"message": "在 Player.me 数据库中不存在的游戏名称. 因此它不会显示在你的张贴上。"
+	},
+	"vodShare.loadMore": {
+		"message": "加载更多..."
+	},
+	"vodStatus.title": {
+		"message": "共享直播"
+	},
+	"vodStatus.facebook": {
+		"message": "Facebook"
+	},
+	"vodStatus.twitter": {
+		"message": "Twitter"
+	},
+	"vodStatus.playerme": {
+		"message": "Player.me"
+	},
+	"vodStatus.gplus": {
+		"message": "Google Plus"
+	},
+	"vodStatus.posting": {
+		"message": "发布到 %social%..."
+	},
+	"vodStatus.success": {
+		"message": "已成功发布在 %social%.[br][%message%](%url%) 上"
+	},
+	"vodStatus.message.facebook": {
+		"message": "查看帖子"
+	},
+	"vodStatus.message.twitter": {
+		"message": "查看微博"
+	},
+	"vodStatus.message.playerme": {
+		"message": "查看帖子"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "查看详细信息"
+	},
+	"vodStatus.error": {
+		"message": "未能在 %social% 上发布."
+	},
+	"vodStatus.failed": {
+		"message": "发布失败在 %social%.[br][%message%](%url%) 上"
+	},
+	"vodStatus.invalid": {
+		"message": "无法发送到 %social%."
+	},
+	"vodStatus.edit": {
+		"message": "编辑"
+	},
+	"vodStatus.retry": {
+		"message": "重试"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "正在寻找建议..."
+	},
+	"dialog.ok": {
+		"message": "关闭"
+	}
+}

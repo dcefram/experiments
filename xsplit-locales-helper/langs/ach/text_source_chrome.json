@@ -1,0 +1,122 @@
+{
+  "textSource.tabheader_content": {
+    "message": "crwdns162676:0crwdne162676:0"
+  },
+  "textSource.tabheader_style": {
+    "message": "crwdns162678:0crwdne162678:0"
+  },
+  "textSource.style_dropshadow": {
+    "message": "crwdns162680:0crwdne162680:0"
+  },
+  "textSource.style_dropshadow_color": {
+    "message": "crwdns162682:0crwdne162682:0"
+  },
+  "textSource.style_dropshadow_distance": {
+    "message": "crwdns162684:0crwdne162684:0"
+  },
+  "textSource.style_dropshadow_angle": {
+    "message": "crwdns162686:0crwdne162686:0"
+  },
+  "textSource.style_dropshadow_blur": {
+    "message": "crwdns162688:0crwdne162688:0"
+  },
+  "textSource.style_dropshadow_opacity": {
+    "message": "crwdns162690:0crwdne162690:0"
+  },
+  "textSource.style_animation": {
+    "message": "crwdns162692:0crwdne162692:0"
+  },
+  "textSource.style_animation_scroll": {
+    "message": "crwdns162694:0crwdne162694:0"
+  },
+  "textSource.style_animation_fade": {
+    "message": "crwdns162696:0crwdne162696:0"
+  },
+  "textSource.style_animation_enable_60fps": {
+    "message": "crwdns162698:0crwdne162698:0"
+  },
+  "textSource.style_animation_fade_delimeter": {
+    "message": "crwdns162700:0crwdne162700:0"
+  },
+  "textSource.style_animation_fade_interval": {
+    "message": "crwdns162702:0crwdne162702:0"
+  },
+  "textSource.style_animation_scroll_direction": {
+    "message": "crwdns162704:0crwdne162704:0"
+  },
+  "textSource.style_animation_scroll_direction_rightToLeft": {
+    "message": "crwdns162706:0crwdne162706:0"
+  },
+  "textSource.style_animation_scroll_direction_leftToRight": {
+    "message": "crwdns162708:0crwdne162708:0"
+  },
+  "textSource.style_animation_scroll_direction_bottomToTop": {
+    "message": "crwdns162710:0crwdne162710:0"
+  },
+  "textSource.style_animation_scroll_direction_topToBottom": {
+    "message": "crwdns162712:0crwdne162712:0"
+  },
+  "textSource.style_animation_scroll_speed": {
+    "message": "crwdns162714:0crwdne162714:0"
+  },
+  "textSource.style_animation_scroll_lineLimit": {
+    "message": "crwdns162716:0crwdne162716:0"
+  },
+  "textSource.content_text": {
+    "message": "crwdns162718:0crwdne162718:0"
+  },
+  "textSource.content_textFile": {
+    "message": "crwdns162720:0crwdne162720:0"
+  },
+  "textSource.content_script": {
+    "message": "crwdns162722:0crwdne162722:0"
+  },
+  "textSource.content_script_clock": {
+    "message": "crwdns162724:0crwdne162724:0"
+  },
+  "textSource.content_script_stopwatch": {
+    "message": "crwdns162726:0crwdne162726:0"
+  },
+  "textSource.content_script_timer": {
+    "message": "crwdns162728:0crwdne162728:0"
+  },
+  "textSource.content_script_load_url": {
+    "message": "crwdns162730:0crwdne162730:0"
+  },
+  "textSource.content_script_rss": {
+    "message": "crwdns162732:0crwdne162732:0"
+  },
+  "textSource.content_script_videoList": {
+    "message": "crwdns162734:0crwdne162734:0"
+  },
+  "textSource.content_script_custom": {
+    "message": "crwdns162736:0crwdne162736:0"
+  },
+  "textSource.content_header_formatting": {
+    "message": "crwdns162738:0crwdne162738:0"
+  },
+  "textSource.formatting_font": {
+    "message": "crwdns162740:0crwdne162740:0"
+  },
+  "textSource.formatting_outline": {
+    "message": "crwdns162742:0crwdne162742:0"
+  },
+  "textSource.formatting_style": {
+    "message": "crwdns162744:0crwdne162744:0"
+  },
+  "textSource.formatting_align": {
+    "message": "crwdns162746:0crwdne162746:0"
+  },
+  "textSource.formatting_sizing": {
+    "message": "crwdns162748:0crwdne162748:0"
+  },
+  "textSource.formatting_sizing_automatic": {
+    "message": "crwdns162750:0crwdne162750:0"
+  },
+  "textSource.formatting_sizing_fixed": {
+    "message": "crwdns162752:0crwdne162752:0"
+  },
+  "textSource.formatting_sizing_wordWrap": {
+    "message": "crwdns162754:0crwdne162754:0"
+  }
+}

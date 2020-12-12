@@ -1,0 +1,41 @@
+{
+  "googleSlide.presentation": {
+    "message": "Presentation"
+  },
+  "googleSlide.go_button": {
+    "message": "Go"
+  },
+  "googleSlide.url": {
+    "message": "URL"
+  },
+  "googleSlide.enter_google_slide_link": {
+    "message": "Enter your Google Slides share link"
+  },
+  "googleSlide.remove_controls_ui": {
+    "message": "Remove Controls UI"
+  },
+  "googleSlide.connected": {
+    "message": "Verbunden"
+  },
+  "googleSlide.valid_url_warning": {
+    "message": "Enter a valid Google Slides URL"
+  },
+  "googleSlide.slide_private_warning": {
+    "message": "Slide is private. Enable 'Anyone with the link can view'"
+  },
+  "googleSlide.playback": {
+    "message": "Wiedergabe"
+  },
+  "googleSlide.system_sound": {
+    "message": "Systemsound"
+  },
+  "googleSlide.stream_only": {
+    "message": "Nur streamen"
+  },
+  "googleSlide.stream_only_install": {
+    "message": "Nur streamen (installieren)"
+  },
+  "googleSlide.default_speakers": {
+    "message": "Standard-Lautsprecher"
+  }
+}

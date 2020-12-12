@@ -1,0 +1,38 @@
+{
+  "audioMixer.settings": {
+    "message": "장치 환경설정"
+  },
+  "audioMixer.device_unavailable": {
+    "message": "오디오 장치가 유효하지 않습니다"
+  },
+  "audioMixer.global_devices": {
+    "message": "전체 장치"
+  },
+  "audioMixer.playback_devices": {
+    "message": "재생 장치"
+  },
+  "audioMixer.recording_devices": {
+    "message": "녹음 장치"
+  },
+  "audioMixer.add_device": {
+    "message": "장치 추가"
+  },
+  "audioMixer.default_microphone": {
+    "message": "기본 마이크"
+  },
+  "audioMixer.default_speakers": {
+    "message": "기본 스피커"
+  },
+  "audioMixer.stream_only_audio": {
+    "message": "오직 방송 오디오"
+  },
+  "audioMixer.mic": {
+    "message": "마이크"
+  },
+  "audioMixer.system": {
+    "message": "시스템"
+  },
+  "audioMixer.stream_only": {
+    "message": "오직 방송"
+  }
+}

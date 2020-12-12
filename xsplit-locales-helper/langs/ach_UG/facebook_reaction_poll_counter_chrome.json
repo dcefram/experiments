@@ -1,0 +1,80 @@
+{
+  "facebook.reactions.counter.tabheader": {
+    "message": "crwdns14807:0crwdne14807:0"
+  },
+  "facebook.reactions.counter.source": {
+    "message": "crwdns14808:0crwdne14808:0"
+  },
+  "facebook.reactions.counter.account": {
+    "message": "crwdns14809:0crwdne14809:0"
+  },
+  "facebook.reactions.counter.automatic": {
+    "message": "crwdns18121:0crwdne18121:0"
+  },
+  "facebook.reactions.counter.authorize": {
+    "message": "crwdns14787:0crwdne14787:0"
+  },
+  "facebook.reactions.counter.remove_authorization": {
+    "message": "crwdns14788:0%api%crwdne14788:0"
+  },
+  "facebook.reactions.counter.switch_account": {
+    "message": "crwdns14789:0%api%crwdne14789:0"
+  },
+  "facebook.reactions.counter.error_auth": {
+    "message": "crwdns14790:0crwdne14790:0"
+  },
+  "facebook.reactions.counter.not_connected": {
+    "message": "crwdns14791:0crwdne14791:0"
+  },
+  "facebook.reactions.counter.connected": {
+    "message": "crwdns14792:0crwdne14792:0"
+  },
+  "facebook.reactions.counter.display": {
+    "message": "crwdns14793:0crwdne14793:0"
+  },
+  "facebook.reactions.counter.lock_components": {
+    "message": "crwdns14794:0crwdne14794:0"
+  },
+  "facebook.reactions.counter.lock_components_text": {
+    "message": "crwdns79228:0[br]crwdnd79228:0[br]crwdne79228:0"
+  },
+  "facebook.reactions.counter.type": {
+    "message": "crwdns14796:0crwdne14796:0"
+  },
+  "facebook.reactions.counter.show_reactions_labels": {
+    "message": "crwdns14797:0crwdne14797:0"
+  },
+  "facebook.reactions.counter.reset": {
+    "message": "crwdns14798:0crwdne14798:0"
+  },
+  "facebook.reactions.counter.counter_background": {
+    "message": "crwdns14799:0crwdne14799:0"
+  },
+  "facebook.reactions.counter.opacity": {
+    "message": "crwdns14800:0crwdne14800:0"
+  },
+  "facebook.reactions.counter.counter": {
+    "message": "crwdns14801:0crwdne14801:0"
+  },
+  "facebook.reactions.counter.label": {
+    "message": "crwdns14802:0crwdne14802:0"
+  },
+  "facebook.reactions.counter.dropdown.type.poll": {
+    "message": "crwdns14803:0crwdne14803:0"
+  },
+  "facebook.reactions.counter.dropdown.type.counter": {
+    "message": "crwdns14804:0crwdne14804:0"
+  },
+  "facebook.reactions.hide_connection_message": {
+    "message": "crwdns63998:0crwdne63998:0"
+  },
+  "facebook.reactions.not_seeing_videos": {
+    "message": "crwdns79230:0crwdne79230:0"
+  },
+  "facebook.reactions.not_seeing_videos_help": {
+    "message": "crwdns81462:0crwdne81462:0"
+  },
+  "facebook.reactions.not_seeing_videos_link": {
+    "message": "crwdns79234:0crwdne79234:0"
+  }
+}

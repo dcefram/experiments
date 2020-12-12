@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lblAuthorize" xml:space="preserve">
+    <value>crwdns13658:0crwdne13658:0</value>
+  </data>
+  <data name="lblChannelPageLink" xml:space="preserve">
+    <value>crwdns13659:0crwdne13659:0</value>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>crwdns13738:0crwdne13738:0</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>crwdns13661:0crwdne13661:0</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>crwdns13662:0crwdne13662:0</value>
+  </data>
+  <data name="msgAccountNotActivatedError" xml:space="preserve">
+    <value>crwdns13663:0crwdne13663:0</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>crwdns13664:0crwdne13664:0</value>
+  </data>
+  <data name="msgAuthorizeRequired" xml:space="preserve">
+    <value>crwdns13665:0crwdne13665:0</value>
+  </data>
+  <data name="msgInvalidCredentials" xml:space="preserve">
+    <value>crwdns14159:0crwdne14159:0</value>
+  </data>
+  <data name="msgInvalidPasswordError" xml:space="preserve">
+    <value>crwdns13666:0crwdne13666:0</value>
+  </data>
+  <data name="msgPasswordEmpty" xml:space="preserve">
+    <value>crwdns13667:0crwdne13667:0</value>
+  </data>
+  <data name="msgReauthorizeRequired" xml:space="preserve">
+    <value>crwdns13668:0crwdne13668:0</value>
+  </data>
+  <data name="msgUsernameEmpty" xml:space="preserve">
+    <value>crwdns13669:0crwdne13669:0</value>
+  </data>
+  <data name="fmtGameNameInvalidStartChar" xml:space="preserve">
+    <value>crwdns13670:0{0}crwdne13670:0</value>
+  </data>
+  <data name="lblTip" xml:space="preserve">
+    <value>crwdns13671:0{0}crwdne13671:0</value>
+  </data>
+  <data name="lblTipRequiredHw" xml:space="preserve">
+    <value>crwdns13672:0crwdne13672:0</value>
+  </data>
+  <data name="lblTipRequiredUpload" xml:space="preserve">
+    <value>crwdns13673:0crwdne13673:0</value>
+  </data>
+  <data name="lblTipRequiredUploadAndHw" xml:space="preserve">
+    <value>crwdns13674:0crwdne13674:0</value>
+  </data>
+  <data name="btnFinish" xml:space="preserve">
+    <value>crwdns13675:0crwdne13675:0</value>
+  </data>
+  <data name="fmtAutoBitrateResult" xml:space="preserve">
+    <value>crwdns13676:0{0}crwdne13676:0</value>
+  </data>
+  <data name="fmtAutoIngestAfter" xml:space="preserve">
+    <value>crwdns13677:0{0}crwdne13677:0</value>
+  </data>
+  <data name="SmashcastProps" xml:space="preserve">
+    <value>crwdns13678:0crwdne13678:0</value>
+  </data>
+  <data name="lblAutoIngestBefore" xml:space="preserve">
+    <value>crwdns13679:0crwdne13679:0</value>
+  </data>
+  <data name="lblAutoIngestName" xml:space="preserve">
+    <value>crwdns13680:0crwdne13680:0</value>
+  </data>
+  <data name="lblBwTestFailed" xml:space="preserve">
+    <value>crwdns13681:0crwdne13681:0</value>
+  </data>
+  <data name="linktip_datarate" xml:space="preserve">
+    <value>crwdns13682:0{0}crwdnd13682:0{1}crwdne13682:0</value>
+  </data>
+  <data name="linktip_datarate_over" xml:space="preserve">
+    <value>crwdns13683:0{0}crwdnd13683:0{1}crwdne13683:0</value>
+  </data>
+  <data name="linktip_datarate_under" xml:space="preserve">
+    <value>crwdns13684:0{0}crwdnd13684:0{1}crwdne13684:0</value>
+  </data>
+  <data name="linktip_datarate_under1" xml:space="preserve">
+    <value>crwdns13685:0{0}crwdnd13685:0{1}crwdne13685:0</value>
+  </data>
+  <data name="linktip_hardware" xml:space="preserve">
+    <value>crwdns13686:0crwdne13686:0</value>
+  </data>
+  <data name="linktip_ingest" xml:space="preserve">
+    <value>crwdns13687:0crwdne13687:0</value>
+  </data>
+  <data name="linktip_upload" xml:space="preserve">
+    <value>crwdns13688:0{0}crwdnd13688:0{1}crwdne13688:0</value>
+  </data>
+  <data name="lblServer" xml:space="preserve">
+    <value>crwdns13689:0crwdne13689:0</value>
+  </data>
+  <data name="btnBack" xml:space="preserve">
+    <value>crwdns13690:0crwdne13690:0</value>
+  </data>
+  <data name="btnNext" xml:space="preserve">
+    <value>crwdns13691:0crwdne13691:0</value>
+  </data>
+  <data name="btnSkipWizard" xml:space="preserve">
+    <value>crwdns13692:0crwdne13692:0</value>
+  </data>
+  <data name="lblHint0" xml:space="preserve">
+    <value>crwdns13693:0crwdne13693:0</value>
+  </data>
+  <data name="lblHint01" xml:space="preserve">
+    <value>crwdns13694:0crwdne13694:0</value>
+  </data>
+  <data name="lblUsername2" xml:space="preserve">
+    <value>crwdns13695:0crwdne13695:0</value>
+  </data>
+  <data name="neverShowAgain" xml:space="preserve">
+    <value>crwdns13696:0crwdne13696:0</value>
+  </data>
+  <data name="msgConfirmMixerResFpsAdjustment" xml:space="preserve">
+    <value>crwdns13697:0{0}crwdne13697:0</value>
+  </data>
+  <data name="msgAPIError1" xml:space="preserve">
+    <value>crwdns13698:0{0}crwdne13698:0</value>
+  </data>
+  <data name="msgFailedSettingGame" xml:space="preserve">
+    <value>crwdns13699:0crwdne13699:0</value>
+  </data>
+</root>

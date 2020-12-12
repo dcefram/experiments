@@ -1,0 +1,95 @@
+{
+	"mixer.chat.tabheader": {
+		"message": "แชท"
+	},
+	"mixer.chat.source": {
+		"message": "ซอส"
+	},
+	"mixer.chat.not_connected": {
+		"message": "ไม่ได้เชื่อมต่อ"
+	},
+	"mixer.chat.connected": {
+		"message": "เชื่อมต่อแล้ว"
+	},
+	"mixer.chat.channel": {
+		"message": "แชนแนล"
+	},
+	"mixer.chat.connect": {
+		"message": "เชื่อมต่อ"
+	},
+	"mixer.chat.disconnect": {
+		"message": "ตัดการเชื่อมต่อ"
+	},
+	"mixer.chat.invalid.channel": {
+		"message": "โปรดระบุแชนแนลที่ถูกต้อง"
+	},
+	"mixer.chat.display": {
+		"message": "แสดงผล"
+	},
+	"mixer.chat.preview": {
+		"message": "ตัวอย่าง"
+	},
+	"mixer.chat.chat_box": {
+		"message": "ช่องแชท"
+	},
+	"mixer.chat.opacity": {
+		"message": "ความทึบแสง"
+	},
+	"mixer.chat.viewers": {
+		"message": "ผู้ชม"
+	},
+	"mixer.chat.message": {
+		"message": "ข้อความ"
+	},
+	"mixer.chat.text_size": {
+		"message": "ขนาดข้อความ"
+	},
+	"mixer.chat.pixel_unit": {
+		"message": "px"
+	},
+	"mixer.chat.default_color": {
+		"message": "ใช้สีแชทของ Mixer"
+	},
+	"mixer.chat.hide_user_icons": {
+		"message": "ซ่อนไอค่อนผู้ใช้"
+	},
+	"mixer.chat.hide_timestamp": {
+		"message": "ซ่อนเวลา"
+	},
+	"mixer.chat.hide_on_idle": {
+		"message": "ซ่อนแชทเมื่อปล่อยว่างเป็นเวลา"
+	},
+	"mixer.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"mixer.chat.blocking": {
+		"message": "การบล็อค"
+	},
+	"mixer.chat.blockedlist": {
+		"message": "รายชื่อที่ถูกบล็อค"
+	},
+	"mixer.chat.block_help": {
+		"message": "คุณสามารถบล็อคผู้ชมได้โดยเพิ่มชื่อหรือชื่อผู้ใช้ (รวมทั้งบอท ถ้าต้องการ) ในช่องรายชื่อที่ถูกบล็อค โดยข้อความของพวกเขาจะไม่ปรากฏในช่องแชท[br][br]รายชื่อการบล็อคนี้จะไม่เชื่อโยงกับการบล็อคแชนแนลของคุณ รายชื่อนี้จะทำงานจากซอสของแชทนี้เท่านััน"
+	},
+	"mixer.chat.blocking_name": {
+		"message": "ป้อนชื่อหรือชื่อผู้ใช้ผู้ชมที่คุณต้องการจะบล็อค"
+	},
+	"mixer.chat.block_name": {
+		"message": "ชื่อ"
+	},
+	"mixer.chat.block_add": {
+		"message": "เพิ่มเติม"
+	},
+	"mixer.chat.block_remove": {
+		"message": "เอาออก"
+	},
+	"mixer.chat.account": {
+		"message": "บัญชี"
+	},
+	"mixer.chat.authorize": {
+		"message": "เชื่อมต่อ Xsplit เพื่อใช้ Mixer"
+	},
+	"mixer.chat.remove_authorization": {
+		"message": "**%api%** ถอนการอนุญาต"
+	}
+}

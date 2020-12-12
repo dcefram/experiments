@@ -1,0 +1,62 @@
+{
+	"twitch.html.tabheader": {
+		"message": "دردشة"
+	},
+	"twitch.html.source": {
+		"message": "مصدر"
+	},
+	"twitch.html.account": {
+		"message": "الحساب"
+	},
+	"twitch.html.preview": {
+		"message": "معاينة"
+	},
+	"twitch.html.not_connected": {
+		"message": "غير متصل"
+	},
+	"twitch.html.connected": {
+		"message": "متصل"
+	},
+	"twitch.html.error_channel_not_found": {
+		"message": "يرجى تقديم قناة صالحة."
+	},
+	"twitch.html.display": {
+		"message": "عرض"
+	},
+	"twitch.html.chat_box": {
+		"message": "صندوق الدردشه"
+	},
+	"twitch.html.opacity": {
+		"message": "الشفافيه"
+	},
+	"twitch.html.viewers": {
+		"message": "المشاهدين"
+	},
+	"twitch.html.message": {
+		"message": "رسالة"
+	},
+	"twitch.html.text_size": {
+		"message": "حجم الخط"
+	},
+	"twitch.html.hide_user_icons": {
+		"message": "إخفاء رموز المستخدم"
+	},
+	"twitch.html.hide_timestamps": {
+		"message": "إخفاء الطوابع الزمنية"
+	},
+	"twitch.html.hide_on_idle": {
+		"message": "إخفاء الدردشة عند الخمول"
+	},
+	"twitch.html.channel": {
+		"message": "قناة"
+	},
+	"twitch.html.connect": {
+		"message": "متصل"
+	},
+	"twitch.html.disconnect": {
+		"message": "قطع الاتصال"
+	},
+	"twitch.html.use_twitch_colors": {
+		"message": "استخدام ألوان الدردشة Twitch"
+	}
+}

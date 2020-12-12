@@ -1,0 +1,1304 @@
+{
+  "title": {
+    "message": "XSplit Broadcaster - 사용자 설정"
+  },
+  "tab.profile": {
+    "message": "프로필"
+  },
+  "tab.general": {
+    "message": "일반"
+  },
+  "tab.audio": {
+    "message": "오디오"
+  },
+  "tab.hotkeys": {
+    "message": "단축키"
+  },
+  "tab.sharing": {
+    "message": "공유"
+  },
+  "tab.advanced": {
+    "message": "고급"
+  },
+  "profile.fullName.label": {
+    "message": "이름"
+  },
+  "profile.screenName.label": {
+    "message": "사용자 이름"
+  },
+  "profile.country.label": {
+    "message": "국가"
+  },
+  "profile.gender.label": {
+    "message": "성별"
+  },
+  "profile.gender.male.label": {
+    "message": "남자"
+  },
+  "profile.gender.female.label": {
+    "message": "여자"
+  },
+  "profile.birthday.label": {
+    "message": "생년월일"
+  },
+  "profile.addImage.label": {
+    "message": "프로필 이미지 넣기"
+  },
+  "profile.changePassword.label": {
+    "message": "비밀번호 변경"
+  },
+  "profile.countries.af": {
+    "message": "아프가니스탄"
+  },
+  "profile.countries.ax": {
+    "message": "올란드 제도"
+  },
+  "profile.countries.al": {
+    "message": "알바니아"
+  },
+  "profile.countries.dz": {
+    "message": "알제리"
+  },
+  "profile.countries.as": {
+    "message": "미국령 사모아"
+  },
+  "profile.countries.ad": {
+    "message": "안도라"
+  },
+  "profile.countries.ao": {
+    "message": "앙골라"
+  },
+  "profile.countries.ai": {
+    "message": "앵귈라"
+  },
+  "profile.countries.aq": {
+    "message": "남극"
+  },
+  "profile.countries.ag": {
+    "message": "앤티가바부다"
+  },
+  "profile.countries.ar": {
+    "message": "아르헨티나"
+  },
+  "profile.countries.am": {
+    "message": "아르메니아"
+  },
+  "profile.countries.aw": {
+    "message": "아루바"
+  },
+  "profile.countries.au": {
+    "message": "오스트레일리아"
+  },
+  "profile.countries.at": {
+    "message": "오스트리아"
+  },
+  "profile.countries.az": {
+    "message": "아제르바이잔"
+  },
+  "profile.countries.bs": {
+    "message": "바하마"
+  },
+  "profile.countries.bh": {
+    "message": "바레인"
+  },
+  "profile.countries.bd": {
+    "message": "방글라데시"
+  },
+  "profile.countries.bb": {
+    "message": "바베이도스"
+  },
+  "profile.countries.by": {
+    "message": "벨로루시"
+  },
+  "profile.countries.be": {
+    "message": "벨기에"
+  },
+  "profile.countries.bz": {
+    "message": "벨리즈"
+  },
+  "profile.countries.bj": {
+    "message": "베냉"
+  },
+  "profile.countries.bm": {
+    "message": "버뮤다"
+  },
+  "profile.countries.bt": {
+    "message": "부탄"
+  },
+  "profile.countries.bo": {
+    "message": "볼리비아"
+  },
+  "profile.countries.ba": {
+    "message": "보스니아 헤르체고비나"
+  },
+  "profile.countries.bw": {
+    "message": "보츠와나"
+  },
+  "profile.countries.bv": {
+    "message": "부베 섬"
+  },
+  "profile.countries.br": {
+    "message": "브라질"
+  },
+  "profile.countries.io": {
+    "message": "영국령 인도양 지역"
+  },
+  "profile.countries.bn": {
+    "message": "브루나이"
+  },
+  "profile.countries.bg": {
+    "message": "불가리아"
+  },
+  "profile.countries.bf": {
+    "message": "부르키나파소"
+  },
+  "profile.countries.bi": {
+    "message": "부룬디"
+  },
+  "profile.countries.kh": {
+    "message": "캄보디아"
+  },
+  "profile.countries.cm": {
+    "message": "카메룬"
+  },
+  "profile.countries.ca": {
+    "message": "캐나다"
+  },
+  "profile.countries.cv": {
+    "message": "케이프 베르데"
+  },
+  "profile.countries.ky": {
+    "message": "케이맨 제도"
+  },
+  "profile.countries.cf": {
+    "message": "중앙 아프리카 공화국"
+  },
+  "profile.countries.td": {
+    "message": "차드"
+  },
+  "profile.countries.cl": {
+    "message": "칠레"
+  },
+  "profile.countries.cn": {
+    "message": "중국"
+  },
+  "profile.countries.cx": {
+    "message": "크리스마스 섬"
+  },
+  "profile.countries.cc": {
+    "message": "코코스 (킬링) 제도"
+  },
+  "profile.countries.co": {
+    "message": "콜롬비아"
+  },
+  "profile.countries.km": {
+    "message": "코모로"
+  },
+  "profile.countries.cg": {
+    "message": "콩고"
+  },
+  "profile.countries.cd": {
+    "message": "콩고 민주 공화국"
+  },
+  "profile.countries.ck": {
+    "message": "쿡 제도"
+  },
+  "profile.countries.cr": {
+    "message": "코스타리카"
+  },
+  "profile.countries.ci": {
+    "message": "코트디부아르"
+  },
+  "profile.countries.hr": {
+    "message": "크로아티아"
+  },
+  "profile.countries.cu": {
+    "message": "쿠바"
+  },
+  "profile.countries.cy": {
+    "message": "키프로스"
+  },
+  "profile.countries.cz": {
+    "message": "체코"
+  },
+  "profile.countries.dk": {
+    "message": "덴마크"
+  },
+  "profile.countries.dj": {
+    "message": "지부티"
+  },
+  "profile.countries.dm": {
+    "message": "도미니카"
+  },
+  "profile.countries.do": {
+    "message": "도미니카 공화국"
+  },
+  "profile.countries.ec": {
+    "message": "에콰도르"
+  },
+  "profile.countries.eg": {
+    "message": "이집트"
+  },
+  "profile.countries.sv": {
+    "message": "엘살바도르"
+  },
+  "profile.countries.gq": {
+    "message": "적도 기니"
+  },
+  "profile.countries.er": {
+    "message": "에리트레아"
+  },
+  "profile.countries.ee": {
+    "message": "에스토니아"
+  },
+  "profile.countries.et": {
+    "message": "에티오피아"
+  },
+  "profile.countries.fk": {
+    "message": "포클랜드 제도 (말비나스)"
+  },
+  "profile.countries.fo": {
+    "message": "페로 제도"
+  },
+  "profile.countries.fj": {
+    "message": "피지"
+  },
+  "profile.countries.fi": {
+    "message": "핀란드"
+  },
+  "profile.countries.fr": {
+    "message": "프랑스"
+  },
+  "profile.countries.gf": {
+    "message": "프랑스령 기아나"
+  },
+  "profile.countries.pf": {
+    "message": "프랑스령 폴리네시아"
+  },
+  "profile.countries.tf": {
+    "message": "프랑스 남부 지역"
+  },
+  "profile.countries.ga": {
+    "message": "가봉"
+  },
+  "profile.countries.gm": {
+    "message": "잠비아"
+  },
+  "profile.countries.ge": {
+    "message": "그루지아"
+  },
+  "profile.countries.de": {
+    "message": "독일"
+  },
+  "profile.countries.gh": {
+    "message": "가나"
+  },
+  "profile.countries.gi": {
+    "message": "지브롤터"
+  },
+  "profile.countries.gr": {
+    "message": "그리스"
+  },
+  "profile.countries.gl": {
+    "message": "그린란드"
+  },
+  "profile.countries.gd": {
+    "message": "그레나다"
+  },
+  "profile.countries.gp": {
+    "message": "과들루프"
+  },
+  "profile.countries.gu": {
+    "message": "괌"
+  },
+  "profile.countries.gt": {
+    "message": "과테말라"
+  },
+  "profile.countries.gg": {
+    "message": "건지"
+  },
+  "profile.countries.gn": {
+    "message": "기니"
+  },
+  "profile.countries.gw": {
+    "message": "기니 비사우"
+  },
+  "profile.countries.gy": {
+    "message": "가이아나"
+  },
+  "profile.countries.ht": {
+    "message": "아이티"
+  },
+  "profile.countries.hm": {
+    "message": "허드 섬 및 맥도날드 군도"
+  },
+  "profile.countries.va": {
+    "message": "바티칸"
+  },
+  "profile.countries.hn": {
+    "message": "온두라스"
+  },
+  "profile.countries.hk": {
+    "message": "홍콩"
+  },
+  "profile.countries.hu": {
+    "message": "헝가리"
+  },
+  "profile.countries.is": {
+    "message": "아이슬란드"
+  },
+  "profile.countries.in": {
+    "message": "인도"
+  },
+  "profile.countries.id": {
+    "message": "인도네시아"
+  },
+  "profile.countries.ir": {
+    "message": "이란"
+  },
+  "profile.countries.iq": {
+    "message": "이라크"
+  },
+  "profile.countries.ie": {
+    "message": "아일랜드"
+  },
+  "profile.countries.im": {
+    "message": "맨섬"
+  },
+  "profile.countries.il": {
+    "message": "이스라엘"
+  },
+  "profile.countries.it": {
+    "message": "이탈리아"
+  },
+  "profile.countries.jm": {
+    "message": "자메이카"
+  },
+  "profile.countries.jp": {
+    "message": "일본"
+  },
+  "profile.countries.je": {
+    "message": "저지"
+  },
+  "profile.countries.jo": {
+    "message": "요르단"
+  },
+  "profile.countries.kz": {
+    "message": "카자흐스탄"
+  },
+  "profile.countries.ke": {
+    "message": "케냐"
+  },
+  "profile.countries.ki": {
+    "message": "키리바시"
+  },
+  "profile.countries.kp": {
+    "message": "조선민주주의인민공화국(북한)"
+  },
+  "profile.countries.kr": {
+    "message": "대한민국"
+  },
+  "profile.countries.kw": {
+    "message": "쿠웨이트"
+  },
+  "profile.countries.kg": {
+    "message": "키르기스스탄"
+  },
+  "profile.countries.la": {
+    "message": "라오스"
+  },
+  "profile.countries.lv": {
+    "message": "라트비아"
+  },
+  "profile.countries.lb": {
+    "message": "레바논"
+  },
+  "profile.countries.ls": {
+    "message": "레소토"
+  },
+  "profile.countries.lr": {
+    "message": "라이베리아"
+  },
+  "profile.countries.ly": {
+    "message": "리비아"
+  },
+  "profile.countries.li": {
+    "message": "리히텐슈타인"
+  },
+  "profile.countries.lt": {
+    "message": "리투아니아"
+  },
+  "profile.countries.lu": {
+    "message": "룩셈부르크"
+  },
+  "profile.countries.mo": {
+    "message": "마카오"
+  },
+  "profile.countries.mk": {
+    "message": "마케도니아"
+  },
+  "profile.countries.mg": {
+    "message": "마다가스카르"
+  },
+  "profile.countries.mw": {
+    "message": "말라위"
+  },
+  "profile.countries.my": {
+    "message": "말레이시아"
+  },
+  "profile.countries.mv": {
+    "message": "몰디브"
+  },
+  "profile.countries.ml": {
+    "message": "말리"
+  },
+  "profile.countries.mt": {
+    "message": "몰타"
+  },
+  "profile.countries.mh": {
+    "message": "마샬 군도"
+  },
+  "profile.countries.mq": {
+    "message": "마르티니크"
+  },
+  "profile.countries.mr": {
+    "message": "모리타니"
+  },
+  "profile.countries.mu": {
+    "message": "모리셔스"
+  },
+  "profile.countries.yt": {
+    "message": "마요트"
+  },
+  "profile.countries.mx": {
+    "message": "멕시코"
+  },
+  "profile.countries.fm": {
+    "message": "미크로네시아"
+  },
+  "profile.countries.md": {
+    "message": "몰도바"
+  },
+  "profile.countries.mc": {
+    "message": "모나코"
+  },
+  "profile.countries.mn": {
+    "message": "몽골"
+  },
+  "profile.countries.me": {
+    "message": "몬테네그로"
+  },
+  "profile.countries.ms": {
+    "message": "몬트세라트"
+  },
+  "profile.countries.ma": {
+    "message": "모로코"
+  },
+  "profile.countries.mz": {
+    "message": "모잠비크"
+  },
+  "profile.countries.mm": {
+    "message": "미얀마"
+  },
+  "profile.countries.na": {
+    "message": "나미비아"
+  },
+  "profile.countries.nr": {
+    "message": "나우루"
+  },
+  "profile.countries.np": {
+    "message": "네팔"
+  },
+  "profile.countries.nl": {
+    "message": "네덜란드"
+  },
+  "profile.countries.an": {
+    "message": "네덜란드 앤틸리스 제도"
+  },
+  "profile.countries.nc": {
+    "message": "뉴 칼레도니아"
+  },
+  "profile.countries.nz": {
+    "message": "뉴질랜드"
+  },
+  "profile.countries.ni": {
+    "message": "니카라과"
+  },
+  "profile.countries.ne": {
+    "message": "니제르"
+  },
+  "profile.countries.ng": {
+    "message": "나이지리아"
+  },
+  "profile.countries.nu": {
+    "message": "니우"
+  },
+  "profile.countries.nf": {
+    "message": "노퍽 섬"
+  },
+  "profile.countries.mp": {
+    "message": "북마리아나 제도"
+  },
+  "profile.countries.no": {
+    "message": "노르웨이"
+  },
+  "profile.countries.om": {
+    "message": "오만"
+  },
+  "profile.countries.pk": {
+    "message": "파키스탄"
+  },
+  "profile.countries.pw": {
+    "message": "팔라우"
+  },
+  "profile.countries.ps": {
+    "message": "팔레스타인"
+  },
+  "profile.countries.pa": {
+    "message": "파나마"
+  },
+  "profile.countries.pg": {
+    "message": "파푸아뉴기니"
+  },
+  "profile.countries.py": {
+    "message": "파라과이"
+  },
+  "profile.countries.pe": {
+    "message": "페루"
+  },
+  "profile.countries.ph": {
+    "message": "필리핀"
+  },
+  "profile.countries.pn": {
+    "message": "핏케언 제도"
+  },
+  "profile.countries.pl": {
+    "message": "폴란드"
+  },
+  "profile.countries.pt": {
+    "message": "포르투갈"
+  },
+  "profile.countries.pr": {
+    "message": "푸에르토리코"
+  },
+  "profile.countries.qa": {
+    "message": "카타르"
+  },
+  "profile.countries.re": {
+    "message": "리유니언"
+  },
+  "profile.countries.ro": {
+    "message": "루마니아"
+  },
+  "profile.countries.ru": {
+    "message": "러시아"
+  },
+  "profile.countries.rw": {
+    "message": "르완다"
+  },
+  "profile.countries.sh": {
+    "message": "세인트 헬레나"
+  },
+  "profile.countries.kn": {
+    "message": "세인트 키츠 네비스"
+  },
+  "profile.countries.lc": {
+    "message": "세인트루시아"
+  },
+  "profile.countries.pm": {
+    "message": "세인트피에르 미퀠론"
+  },
+  "profile.countries.vc": {
+    "message": "세인트빈센트 그레나딘"
+  },
+  "profile.countries.ws": {
+    "message": "사모아"
+  },
+  "profile.countries.sm": {
+    "message": "산마리노"
+  },
+  "profile.countries.st": {
+    "message": "상투메 프린시페"
+  },
+  "profile.countries.sa": {
+    "message": "사우디아라비아"
+  },
+  "profile.countries.sn": {
+    "message": "세네갈"
+  },
+  "profile.countries.rs": {
+    "message": "세르비아"
+  },
+  "profile.countries.sc": {
+    "message": "세이셸"
+  },
+  "profile.countries.sl": {
+    "message": "시에라리온"
+  },
+  "profile.countries.sg": {
+    "message": "싱가포르"
+  },
+  "profile.countries.sk": {
+    "message": "슬로바키아"
+  },
+  "profile.countries.si": {
+    "message": "슬로베니아"
+  },
+  "profile.countries.sb": {
+    "message": "솔로몬 제도"
+  },
+  "profile.countries.so": {
+    "message": "소말리아"
+  },
+  "profile.countries.za": {
+    "message": "남아프리카 공화국"
+  },
+  "profile.countries.gs": {
+    "message": "사우스조지아 섬과 사우스샌드위치제도"
+  },
+  "profile.countries.es": {
+    "message": "스페인"
+  },
+  "profile.countries.lk": {
+    "message": "스리랑카"
+  },
+  "profile.countries.sd": {
+    "message": "수단"
+  },
+  "profile.countries.sr": {
+    "message": "수리남"
+  },
+  "profile.countries.sj": {
+    "message": "스발바르 및 얀마웬"
+  },
+  "profile.countries.sz": {
+    "message": "스와질랜드"
+  },
+  "profile.countries.se": {
+    "message": "스웨덴"
+  },
+  "profile.countries.ch": {
+    "message": "스위스"
+  },
+  "profile.countries.sy": {
+    "message": "시리아"
+  },
+  "profile.countries.tw": {
+    "message": "대만"
+  },
+  "profile.countries.tj": {
+    "message": "타지키스탄"
+  },
+  "profile.countries.tz": {
+    "message": "탄자니아"
+  },
+  "profile.countries.th": {
+    "message": "태국"
+  },
+  "profile.countries.tl": {
+    "message": "동티모르"
+  },
+  "profile.countries.tg": {
+    "message": "토고"
+  },
+  "profile.countries.tk": {
+    "message": "토켈라우"
+  },
+  "profile.countries.to": {
+    "message": "통가"
+  },
+  "profile.countries.tt": {
+    "message": "트리니다드 토바고"
+  },
+  "profile.countries.tn": {
+    "message": "튀니지"
+  },
+  "profile.countries.tr": {
+    "message": "터키"
+  },
+  "profile.countries.tm": {
+    "message": "투르크메니스탄"
+  },
+  "profile.countries.tc": {
+    "message": "터크스 케이커스 제도"
+  },
+  "profile.countries.tv": {
+    "message": "투발루"
+  },
+  "profile.countries.ug": {
+    "message": "우간다"
+  },
+  "profile.countries.ua": {
+    "message": "우크라이나"
+  },
+  "profile.countries.ae": {
+    "message": "아랍 에미리트 연방"
+  },
+  "profile.countries.gb": {
+    "message": "영국"
+  },
+  "profile.countries.us": {
+    "message": "미국"
+  },
+  "profile.countries.um": {
+    "message": "미국 소수 외부 제도"
+  },
+  "profile.countries.uy": {
+    "message": "우루과이"
+  },
+  "profile.countries.uz": {
+    "message": "우즈베키스탄"
+  },
+  "profile.countries.vu": {
+    "message": "바누아투"
+  },
+  "profile.countries.ve": {
+    "message": "베네수엘라"
+  },
+  "profile.countries.vn": {
+    "message": "베트남"
+  },
+  "profile.countries.vg": {
+    "message": "버진 아일랜드, 영국"
+  },
+  "profile.countries.vi": {
+    "message": "버진 아일랜드, 미국"
+  },
+  "profile.countries.wf": {
+    "message": "월리스 푸투나"
+  },
+  "profile.countries.eh": {
+    "message": "서 사하라"
+  },
+  "profile.countries.ye": {
+    "message": "예멘"
+  },
+  "profile.countries.zm": {
+    "message": "잠비아"
+  },
+  "profile.countries.zw": {
+    "message": "짐바브웨"
+  },
+  "profile.months.1": {
+    "message": "1월"
+  },
+  "profile.months.2": {
+    "message": "2월"
+  },
+  "profile.months.3": {
+    "message": "3월"
+  },
+  "profile.months.4": {
+    "message": "4월"
+  },
+  "profile.months.5": {
+    "message": "5월"
+  },
+  "profile.months.6": {
+    "message": "6월"
+  },
+  "profile.months.7": {
+    "message": "7월"
+  },
+  "profile.months.8": {
+    "message": "8월"
+  },
+  "profile.months.9": {
+    "message": "9월"
+  },
+  "profile.months.10": {
+    "message": "10월"
+  },
+  "profile.months.11": {
+    "message": "11월"
+  },
+  "profile.months.12": {
+    "message": "12월"
+  },
+  "profile.startYear": {
+    "message": "1920"
+  },
+  "general.disableAeroTheme.label": {
+    "message": "Aero 테마 비활성화"
+  },
+  "general.enableGPUPriority.label": {
+    "message": "그래픽카드 우선순위 활성화"
+  },
+  "general.enableVirtualCameraOutput.label": {
+    "message": "가상 카메라 아웃풋 실행"
+  },
+  "general.enableGameSource.label": {
+    "message": "게임 소스 활성화"
+  },
+  "general.hideXsplitFromDisplayCapture.label": {
+    "message": "화면 캡처시 엑스플릿 숨기기"
+  },
+  "general.hideXsplitFromDisplayCapture2.label": {
+    "message": "화면 캡처시 엑스플릿 숨기기 (기본설정: %default%)"
+  },
+  "general.hideXsplitFromDisplayCapture.tooltip": {
+    "message": "엑스플릿 브로드캐스터 프로그램창을 화면 캡처에서 숨기게 되면 동일한 디스플레이 캡처 방식의 프로그램들도 동시에 숨겨집니다."
+  },
+  "general.hideTopControlBar.label": {
+    "message": "상단 제어 바 숨기기"
+  },
+  "general.enableHUD.label": {
+    "message": "인게임 오버레이 활성화"
+  },
+  "general.enableCopyLink.label": {
+    "message": "방송을 시작시 방송 주소를 클립보드에 복사 합니다"
+  },
+  "general.hideViewerCount.label": {
+    "message": "방송중 시청자 수 숨기기"
+  },
+  "general.hideFromScreenRegion.label": {
+    "message": "화면 캡처에서 숨기기"
+  },
+  "general.logSystemInfo.label": {
+    "message": "시스템 정보 로그"
+  },
+  "general.scenePreview.label": {
+    "message": "썸네일 미리 보기"
+  },
+  "general.screenshotCapture.label": {
+    "message": "스크린샷 캡처"
+  },
+  "general.scenePreview.values.1": {
+    "message": "마우스 커서를 올려놨을 때 항상 미리보기 화면 띄우기"
+  },
+  "general.scenePreview.values.2": {
+    "message": "화면에 SHIFT를 눌렀을 때 미리보기 항상 띄우기"
+  },
+  "general.scenePreview.values.3": {
+    "message": "미리보기 띄우지 않기"
+  },
+  "general.screenshotCapture.values.JPEG": {
+    "message": "JPEG"
+  },
+  "general.screenshotCapture.values.BMP": {
+    "message": "BMP"
+  },
+  "general.optimizedTransition.label": {
+    "message": "장면 전환 최적화"
+  },
+  "general.optimizedTransition.tooltip": {
+    "message": "화면이 전환할 때 부드럽게 전환됩니다만, 더 좋은 그래픽 소스를 필요로 할 수 있습니다"
+  },
+  "audio.microphone.label": {
+    "message": "마이크"
+  },
+  "audio.audioDelay.label": {
+    "message": "딜레이 (ms)"
+  },
+  "audio.boost.label": {
+    "message": "볼륨 범위 (%)"
+  },
+  "audio.noiseSuppression.label": {
+    "message": "잡음 억제"
+  },
+  "audio.silenceDetection.label": {
+    "message": "음소거 탐지"
+  },
+  "audio.threshold.label": {
+    "message": "데시벨 임계값 (dB)"
+  },
+  "audio.hold.label": {
+    "message": "대기 (ms)"
+  },
+  "audio.attack.label": {
+    "message": "어택 값 (ms)"
+  },
+  "audio.release.label": {
+    "message": "릴리즈 값 (ms)"
+  },
+  "audio.silenceDetection.blogLink": {
+    "message": "자동 음소거 탐지 사용법"
+  },
+  "audio.systemSound.label": {
+    "message": "시스템 사운드"
+  },
+  "audio.monitor.label": {
+    "message": "오디오 프리뷰"
+  },
+  "audio.monitor.tooltip": {
+    "message": "오디오 프리뷰는 선택한 출력 장치를 통해 프레젠테이션에서 나오는 최종 오디오 출력을 관찰하는 데 사용됩니다."
+  },
+  "audio.monoMix.label": {
+    "message": "마이크 모노 믹스"
+  },
+  "audio.monoMix.values.0": {
+    "message": "비활성화 (기본 값)"
+  },
+  "audio.monoMix.values.1": {
+    "message": "왼쪽을 오른쪽으로 복사"
+  },
+  "audio.monoMix.values.2": {
+    "message": "오른쪽을 왼쪽으로 복사"
+  },
+  "audio.monoMix.values.3": {
+    "message": "좌 우 평균화"
+  },
+  "audio.audioMixingSampleRate.label": {
+    "message": "오디오 믹싱 샘플 비율"
+  },
+  "audio.audioMixingSampleRate.values.0": {
+    "message": "자동 (기본값)"
+  },
+  "audio.audioMixingSampleRate.values.44100": {
+    "message": "44.1 kHz"
+  },
+  "audio.audioMixingSampleRate.values.48000": {
+    "message": "48 kHz"
+  },
+  "hotkeys.category.scenes": {
+    "message": "장면"
+  },
+  "hotkeys.category.presets": {
+    "message": "장면 프리셋"
+  },
+  "hotkeys.category.audio": {
+    "message": "오디오"
+  },
+  "hotkeys.category.broadcast": {
+    "message": "방송"
+  },
+  "hotkeys.category.recording": {
+    "message": "녹화"
+  },
+  "hotkeys.category.playout": {
+    "message": "기타 송출"
+  },
+  "hotkeys.category.hud": {
+    "message": "HUD 오버레이"
+  },
+  "hotkeys.category.sources": {
+    "message": "소스"
+  },
+  "hotkeys.message": {
+    "message": "단축키를 이용해 게임 또는 다른 응용프로그램을 실행하는 중에도 장면 전환을 하거나 다른 명령을 할 수 있습니다."
+  },
+  "hotkeys.instruction": {
+    "message": "단축키를 입력하려면 더블 클릭하거나 수동으로 선택하세요"
+  },
+  "hotkeys.shift.label": {
+    "message": "SHIFT"
+  },
+  "hotkeys.ctrl.label": {
+    "message": "CTRL"
+  },
+  "hotkeys.alt.label": {
+    "message": "ALT"
+  },
+  "hotkeys.none": {
+    "message": "없음"
+  },
+  "hotkeys.hotkeymode.description": {
+    "message": "단축키 모드 선택"
+  },
+  "hotkeys.hotkeymode.label": {
+    "message": "단축키 모드 선택"
+  },
+  "hotkeys.hotkeymode.tooltip": {
+    "message": "단축키를 목록에서 선택하거나 원하는 키 조합을 직접 눌러서 설정합니다.[br][br] **기본** - 윈도우용 키보드의 모든 키를 사용할수 있으나 SHIFT, ALT, CTRL과 함께 설정되어야 합니다.[br] **고급** - MIDI장치의 버튼을 사용하거나 SHIFT, ALT, CTRL키와 관계없이 설정 가능합니다. [br][br] 고급 설정에서 기본 설정으로 전환할땐 모든 고급 단축키를 기본 단축키로 변경하여야 합니다."
+  },
+  "hotkeys.hotkeymode.basic.label": {
+    "message": "기본"
+  },
+  "hotkeys.hotkeymode.advanced.label": {
+    "message": "고급"
+  },
+  "hotkeys.hotkeybehavior.description": {
+    "message": "단축키의 유형 변경"
+  },
+  "hotkeys.hotkeybehavior.label": {
+    "message": "단축키의 유형 변경"
+  },
+  "hotkeys.hotkeybehavior.tooltip": {
+    "message": "이 페이지의 단축키들은 XSplit Broadcaster 에 영향을 줍니다. [br][br] **전체** - 단축키가 언제든 작동합니다. [br] **어플리케이션** - XSplit Broadcaster 가 활성화 하였을때에만 유효 합니다. [br] **비활성화** - 모든 단축키가 비활성화 됩니다."
+  },
+  "hotkeys.hotkeyBehavior.values.0": {
+    "message": "전체"
+  },
+  "hotkeys.hotkeyBehavior.values.1": {
+    "message": "어플리케이션"
+  },
+  "hotkeys.hotkeyBehavior.values.2": {
+    "message": "비활성화"
+  },
+  "accounts.videoSharing.label": {
+    "message": "비디오 공유"
+  },
+  "accounts.youtube.label": {
+    "message": "유튜브"
+  },
+  "accounts.youtube.authorize.label": {
+    "message": "유튜브에 동영상 업로드 권한 부여"
+  },
+  "accounts.socials.label": {
+    "message": "소셜 네트워크"
+  },
+  "accounts.facebook.label": {
+    "message": "페이스북"
+  },
+  "accounts.facebook.authorize.label": {
+    "message": "페이스북에 포스팅 하는 것을 승인합니다"
+  },
+  "accounts.twitter.label": {
+    "message": "트위터"
+  },
+  "accounts.twitter.authorize.label": {
+    "message": "트위터에 포스팅하는 것을 승인합니다"
+  },
+  "accounts.google.label": {
+    "message": "구글 플러스"
+  },
+  "accounts.google.authorize.label": {
+    "message": "구글 플러스에 포스팅할 수 있는 권한 받기"
+  },
+  "accounts.playerme.label": {
+    "message": "Player.me"
+  },
+  "accounts.playerme.authorize.label": {
+    "message": "Player.me 에 게시할 권한 부여"
+  },
+  "accounts.service.deauthorize.label": {
+    "message": "권한 삭제"
+  },
+  "accounts.service.switch.label": {
+    "message": "계정 변경"
+  },
+  "advanced.caution.label": {
+    "message": "고급 설정을 변경하기전에 꼭 주의해주세요. 불변의 사고를 방지하기 위해 항상 해당 사항을 검색해보신 뒤 설정을 변경 하실것을 추천합니다. 각 설정의 툴팁을 참고하시거나 정확하지 않은 부분은 엑스플릿 고객센터에 문의해주세요."
+  },
+  "advanced.enableOptimizedRender.label": {
+    "message": "Enhanced Video Renderer (EVR)"
+  },
+  "advanced.enableOptimizedRender2.label": {
+    "message": "Enhanced Video Renderer (EVR)를 사용"
+  },
+  "advanced.enableOptimizedRender.tooltip": {
+    "message": "**이 옵션은 현재 실험 중에 있으며 다음 버전에서는 변경될 수 있습니다.** [br][br] Enhanced Video Renderer은 XSplit Broadcaster의 대체 렌더러 입니다. 만약 프레젠테이션 중에 문제가 있고 이것을 해결하려한다면 이것이 도움이 될 수 있습니다."
+  },
+  "advanced.videoProcessingMode.label": {
+    "message": "동영상 처리 모드"
+  },
+  "advanced.videoProcessingMode2.label": {
+    "message": "동영상 처리 모드 (기본: 기존 동영상 처리 설정 사용)"
+  },
+  "advanced.videoProcessingMode.tooltip": {
+    "message": "**현재 프레젠테이션에 적용된 일부 소스들이 설정 변경후 자동적으로 새로고침 될 수 있습니다.**[br][br] CPU 모드를 사용하면 1컴 방송 환경에서 게임과 방송을 동시에 할때 게임 설정이 최적화 되도록 도와줍니다. GPU 모드를 사용하면 엑스플릿이 모든 리소스를 GPU에 우선시 하며 GPU 코덱과 동영상 프로세싱을 최적화 합니다. 윈도우 8 운영체제 이상에서만 효과를 볼 수 있습니다."
+  },
+  "advanced.videoProcessingMode.values.1": {
+    "message": "설정 기본값으로 동영상 소스 실행"
+  },
+  "advanced.videoProcessingMode.values.2": {
+    "message": "CPU 위주로 동영상 소스 실행"
+  },
+  "advanced.videoProcessingMode.values.3": {
+    "message": "GPU 위주로 동영상 소스 실행"
+  },
+  "advanced.enableGlobalScript.label": {
+    "message": "확장 프로그램 활성화"
+  },
+  "advanced.enableGlobalScript2.label": {
+    "message": "확장 프로그램 활성화 (기본값: %default%)"
+  },
+  "advanced.enabled.label": {
+    "message": "활성화"
+  },
+  "advanced.disabled.label": {
+    "message": "비활성화"
+  },
+  "advanced.enableGlobalScript.tooltip": {
+    "message": "이 버전의 엑스플릿 브로드캐스터는 개인 개발된 확장 프로그램을 지원하고 API 상호작용을 가능하게 합니다. 이 기능은 아직 실험 단계에 있음을 참고해주세요. [br][더 알아보기](https://xspl.it/bc/custom)"
+  },
+  "advanced.enableFlashSound.label": {
+    "message": "네이티브 플래시와 오디오 컨트롤 브라우저를 사용"
+  },
+  "advanced.enableFlashSound2.label": {
+    "message": "네이티브 플래시와 오디오 컨트롤 브라우저 활성화 (기본값: %default%)"
+  },
+  "advanced.enableFlashSound.tooltip": {
+    "message": "**현재 프레젠테이션에 적용된 일부 소스들이 설정 변경후 자동적으로 새로고침 될 수 있습니다.** [br][br] 이 설정을 적용하면 엑스플릿의 모든 플래시, 웹 브라우저 소스의 오디오를 음소거 합니다. 이 설정으로 오직 방송에만 오디오가 나오도록 적용할 수 있습니다."
+  },
+  "advanced.enableWasapi.label": {
+    "message": "WASAPI 오디오 렌더링 활성화"
+  },
+  "advanced.enableWasapi2.label": {
+    "message": "WASAPI 오디오 렌더링 활성화 (기본값: %default%)"
+  },
+  "advanced.enableWasapi.tooltip": {
+    "message": "이 설정은 Direct Show 기반의 프로그램 실행시 Direct Sound 대신 WASAPI 오디오 렌더링을 활성화합니다. 일부 소스에서는 끊김현상이 발생할수도 있습니다."
+  },
+  "advanced.enableMFEngine.label": {
+    "message": "동영상 재생 설정에 미디어 파운데이션 엔진을 적용"
+  },
+  "advanced.enableMFEngine2.label": {
+    "message": "동영상 프로세싱에  미디어 파운데이션 엔진을 적용 (기본설정: %default%)"
+  },
+  "advanced.enableMFEngine.tooltip": {
+    "message": "**적용 후 프레젠테이션 내의 일부 소스들이 새로고침 될 수 있습니다.** [br][br] 이 설정은 Microsoft 미디어 파운데이션 엔진을 가동하여 지원하는 동영상 포맷을 (MP4, WMV, AVI, ASF) 지원합니다. 미디어 파운데이션 엔진을 사용하면 DXVA2 하드웨어 가속을 활성화 하고 CPU 메모리를 최소화 하게 됩니다."
+  },
+  "advanced.enableHardwareAccelerateUSB2.label": {
+    "message": "하드웨어 가속을 사용하여 USB2 캡처 장치 사용"
+  },
+  "advanced.enableHardwareAccelerateUSB22.label": {
+    "message": "하드웨어 가속을 사용하여 USB2 캡처 장치 사용 (기본값: %default%)"
+  },
+  "advanced.enableHardwareAccelerateUSB2.tooltip": {
+    "message": "**적용 후 프레젠테이션 내의 일부 소스들이 새로고침 될 수 있습니다.** [br][br] 이 설정은 DXVA2  하드웨어 가속을 가동하여 USB 2.0 연결로 작동하는 캡처 장치를 (에버미디어 LGP, Happauge HDPVR, Elgato HD60 등) 지원합니다. "
+  },
+  "advanced.antiAliasing.label": {
+    "message": "GPU 안티 앨리어싱"
+  },
+  "advanced.antiAliasing.tooltip": {
+    "message": "**이 옵션은 현재 시험 중에 있으며 다음 버전에서는 사라지거나 변경될 수 있습니다.** [br][br] MSAA 를 사용하시려면 최고 샘플링 카운트를 4 로 지정하고 화질을 0로 하여 GPU 과부하를 최적화 하는것을 권장 합니다. MLAA 는 그래픽 처리 후 셰이딩을 추가하는 기법이라 메모리가 적게 들지만 예정된 그래픽 표기와는 다르게 표기될 수 있는 점 참고하세요."
+  },
+  "advanced.antiAliasing.values.1": {
+    "message": "비활성화 (기본 값)"
+  },
+  "advanced.antiAliasing.values.2": {
+    "message": "MLAA"
+  },
+  "advanced.antiAliasing.values.3": {
+    "message": "MSAA"
+  },
+  "advanced.antiAliasing.quality.label": {
+    "message": "화질"
+  },
+  "advanced.antiAliasing.sampleCount.label": {
+    "message": "샘플 개수"
+  },
+  "advanced.antiAliasing.stencilBuffer.label": {
+    "message": "스텐실 버퍼를 사용"
+  },
+  "advanced.antiAliasing.threshold.label": {
+    "message": "임계값"
+  },
+  "advanced.network.label": {
+    "message": "네트워크 연결"
+  },
+  "advanced.network.tooltip": {
+    "message": "라이브 스트림을 위한 활성화된 네트워크 어댑터를 선택하세요."
+  },
+  "advanced.customNetworkConnection.label": {
+    "message": "방송 플랫폼 각자의 네트워크 어댑터를 지정할 수 있도록 설정"
+  },
+  "advanced.customNetworkConnection.labelXbc5003": {
+    "message": "송출 플러그인 각자의 네트워크 어댑터를 지정할 수 있도록 설정"
+  },
+  "advanced.customNetworkConnection.tooltip": {
+    "message": "다수의 활성화된 네트워크 어댑터가 존재한다면 여럿 송출시 각 송출 플러그인에게 서로 다른 네트워크 어댑터를 지정할 수 있습니다."
+  },
+  "advanced.autoSelectNetworkAdapter.label": {
+    "message": "선택된 네트워크 어댑터가 유효하지 않을경우 자동으로 유효한 어댑터를 감지합니다"
+  },
+  "advanced.enableScriptSecurity.label": {
+    "message": "스크립트 보안을 사용하여 소스와 확장 프로그램 사용"
+  },
+  "advanced.enableScriptSecurity2.label": {
+    "message": "스크립트 보안을 사용하여 소스와 확장 프로그램 사용 (기본값: %default%)"
+  },
+  "advanced.enableScriptSecurity.tooltip": {
+    "message": "이 설정을 비활성화 하면 모든 스크립트와 확장 프로그램을 확인 절차 없이 허용 합니다."
+  },
+  "advanced.browserSourceOptimization.label": {
+    "message": "브라우저 소스 특수 최적화"
+  },
+  "advanced.browserSourceOptimization2.label": {
+    "message": "브라우저 소스 특수 최적화 (기본값: %default%)"
+  },
+  "advanced.browserSourceOptimization.tooltip": {
+    "message": "**적용 후 프레젠테이션 내의 일부 소스들이 새로고침 될 수 있습니다.** [br][br] 이 설정은 HTML을 사용하는 소스들에게 특수 최적화를 적용합니다. HTML소스의 애니메이션을 더욱 부드럽게 하며 30fps, 60fps 모두 지원합니다. 모든 시스템에서 적용되지는 않으며 일부 시스템에서는 검은색 화면이 표기될 수 있습니다. HTML소스는 기본적으로 30fps 이지만 자바스크립트를 옵션을 적용하면 60fps 가 가능합니다. [참고자료:](https://xspl.it/bc/svw6qh)"
+  },
+  "advanced.enableDeveloperMode.label": {
+    "message": "개발자 모드 활성화"
+  },
+  "advanced.enableDeveloperMode2.label": {
+    "message": "개발자 모드 활성화 (기본값: %default%)"
+  },
+  "advanced.enableDeveloperMode.tooltip": {
+    "message": "**적용 후 프레젠테이션 내의 일부 소스들이 새로고침 될 수 있습니다.** [br][br] 이 설정은 추가적인 정보 기록을 저장합니다. 플러그인 디버깅과 인증되지 않은 DLL 형식의 파일들이 플러그인으로 사용되도록 지원합니다."
+  },
+  "advanced.enhancedLogging.label": {
+    "message": "기록 작성 기능 향상"
+  },
+  "advanced.enhancedLogging2.label": {
+    "message": "기록 작성 기능 향상 (기본: %default%)"
+  },
+  "advanced.enhancedLogging.tooltip": {
+    "message": "이 설정은 엑스플릿의 오류 검사시 사용될 기록 작성 기능을 향상시킵니다. 엑스플릿이 실행 된 후 발생하는 모든 기록은 [기록 폴더](%path%) 에 저장 될 것입니다. 이 기록을 고객센터에 전달하여 검토를 요청 할 경우 해당 디렉토리에 있는 기록을 Dropbox 또는 Google Drive 같은 파일 업로드 서비스에 ZIP 파일 형식으로 압축하여 업로드 후 해당 다운로드 링크를 보내주시면 됩니다.[br][br] 이 기능은 엑스플릿을 재시작 할 경우 초기화 됩니다. 기록 작성이 굳이 필요로 하지 않을 때에는 비활성화 해두시는 것을 추천 합니다."
+  },
+  "advanced.dx12Capture.label": {
+    "message": "DX12 게임 캡처 활성화"
+  },
+  "advanced.dx12Capture2.label": {
+    "message": "DX12 게임 캡처를 활성화 합니다 (기본 설정: 활성화)"
+  },
+  "advanced.dx12Capture.tooltip": {
+    "message": "**적용 후 프레젠테이션 내의 일부 소스들이 새로고침 될 수 있습니다.** [br][br] 이 설정은 DX12 계열의 게임 캡처를 지원합니다. 일부 시스템과 드라이버는 DX12 를 지원하지 않으며 게임 실행에 오류가 발생한다면 이 설정을 비활성화 하도록 권장합니다. 이에 해당하는 게임이나 프로그램이 재시작 되어야 올바르게 적용됩니다."
+  },
+  "advanced.vulkan.label": {
+    "message": "Vulkan 게임 캡처 활성화"
+  },
+  "advanced.vulkan2.label": {
+    "message": "Vulkan 게임 캡처 활성화 (기본설정: 활성화)"
+  },
+  "advanced.vulkan.tooltip": {
+    "message": "이 설정을 활성화 하시면 Vulkan 기반의 게임을 캡처할 수 있습니다. 게임 및 관련 프로그램을 재시작 해야 올바르게 적용됩니다."
+  },
+  "advanced.projectorBorder.label": {
+    "message": "프로젝터 화면 테두리 영역"
+  },
+  "advanced.projectorBorder.values.always": {
+    "message": "화면 구별을 위한 테두리 영역 항상 보이기"
+  },
+  "advanced.projectorBorder.values.shift": {
+    "message": "SHIFT 키를 눌렀을때 화면의 테두리 영역 보이기"
+  },
+  "advanced.projectorBorder.values.never": {
+    "message": "화면 테두리 영역 절대 보이지 않기"
+  },
+  "advanced.gpuAdapter.label": {
+    "message": "그래픽카드 어댑터"
+  },
+  "advanced.gpuAdapter2.label": {
+    "message": "그래픽카드를 선택하세요 (기본설정: 자동)"
+  },
+  "advanced.gpuAdapter.tooltip": {
+    "message": "강제로 그래픽카드를 사용하여 엑스플릿 브로드캐스터를 작동하도록 적용합니다. 자동 설정을 하면 Windows 혹은 Nvidia 의 기본 그래픽카드를 선택하게 됩니다."
+  },
+  "advanced.gpuAdapter.values.0": {
+    "message": "자동"
+  },
+  "menu.mixerColorspace.label": {
+    "message": "엑스플릿 송출화면 색 공간"
+  },
+  "menu.mixerColorspace.ayuv.label": {
+    "message": "AYUV"
+  },
+  "menu.mixerColorspace.yuy2.label": {
+    "message": "YUY2"
+  },
+  "menu.mixerColorspace.rgb1624.label": {
+    "message": "RGB16/24"
+  },
+  "menu.mixerColorspace.rgb32.label": {
+    "message": "RGB32"
+  },
+  "menu.enableVirtualCameraWhileStreaming.label": {
+    "message": "스트리밍하는 동안 가상 카메라를 사용"
+  },
+  "button.restore": {
+    "message": "처음설정 복구하기"
+  },
+  "button.ok": {
+    "message": "OK"
+  },
+  "button.cancel": {
+    "message": "취소"
+  },
+  "button.apply": {
+    "message": "적용"
+  }
+}

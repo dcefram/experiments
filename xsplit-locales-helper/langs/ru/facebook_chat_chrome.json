@@ -1,0 +1,101 @@
+{
+  "facebook.chat.tabheader": {
+    "message": "Чат"
+  },
+  "facebook.chat.source": {
+    "message": "Источник"
+  },
+  "facebook.chat.account": {
+    "message": "Учетная запись"
+  },
+  "facebook.chat.automatic": {
+    "message": "Автоматически"
+  },
+  "facebook.chat.authorize": {
+    "message": "Авторизуйте XSplit чтобы использовать Facebook Live"
+  },
+  "facebook.chat.remove_authorization": {
+    "message": "**%api%** Удалить авторизацию"
+  },
+  "facebook.chat.switch_account": {
+    "message": "**%api%** Сменить учетную запись"
+  },
+  "facebook.chat.error_auth": {
+    "message": "Пожалуйста, попробуйте авторизоваться ещё раз и предоставить доступ для всех разрешений, необходимых для успешного функционирования XSplit"
+  },
+  "facebook.chat.not_connected": {
+    "message": "Комментарии будут появляться автоматически, как только трансляция станет активна"
+  },
+  "facebook.chat.connected": {
+    "message": "Подключен"
+  },
+  "facebook.chat.display": {
+    "message": "Дисплей"
+  },
+  "facebook.chat.preview": {
+    "message": "Предварительный просмотр"
+  },
+  "facebook.chat.chatbox": {
+    "message": "Окно чата"
+  },
+  "facebook.chat.opacity": {
+    "message": "Прозрачность"
+  },
+  "facebook.chat.viewers": {
+    "message": "Зрители"
+  },
+  "facebook.chat.message": {
+    "message": "Сообщение"
+  },
+  "facebook.chat.text_size": {
+    "message": "Размер текста"
+  },
+  "facebook.chat.text_direction": {
+    "message": "Направление текста"
+  },
+  "facebook.chat.hide_user_icons": {
+    "message": "Скрыть иконки пользователей"
+  },
+  "facebook.chat.one_line_entries": {
+    "message": "Однострочные комментарии"
+  },
+  "facebook.chat.hide_timestamps": {
+    "message": "Скрыть метки времени"
+  },
+  "facebook.chat.hide_chat_when_idle": {
+    "message": "Скрывать чат в режиме простоя"
+  },
+  "facebook.chat.blocking": {
+    "message": "Блокировка"
+  },
+  "facebook.chat.blockedlist": {
+    "message": "Список заблокированных"
+  },
+  "facebook.chat.block_help": {
+    "message": "Вы можете блокировать зрителей, добавляя их полное или имя пользователя (включая ботов, если это имеет место) в список заблокированных, после чего их сообщения не будут появятся в окне чата.[br][br]Этот список заблокированных не связан со списком заблокированных пользователей для вашего канала. Он имеет силу только для данного чата."
+  },
+  "facebook.chat.blocking_name": {
+    "message": "Введите полное имя, либо имя пользователя, которого хотите заблокировать."
+  },
+  "facebook.chat.block_name": {
+    "message": "По имени"
+  },
+  "facebook.chat.block_add": {
+    "message": "Добавить"
+  },
+  "facebook.chat.block_remove": {
+    "message": "Удалить"
+  },
+  "facebook.chat.hide_connection_message": {
+    "message": "Скрыть сообщения о процессе соединения"
+  },
+  "facebook.chat.not_seeing_videos": {
+    "message": "Не видите своё онлайн видео?"
+  },
+  "facebook.chat.not_seeing_videos_help": {
+    "message": "У нас может не быть разрешения на доступ к некоторым онлайн видео с вашей страницы."
+  },
+  "facebook.chat.not_seeing_videos_link": {
+    "message": "Нажмите сюда, чтобы авторизоваться повторно"
+  }
+}

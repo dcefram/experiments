@@ -1,0 +1,122 @@
+{
+  "textSource.tabheader_content": {
+    "message": "เนื้อหา"
+  },
+  "textSource.tabheader_style": {
+    "message": "สไตล์"
+  },
+  "textSource.style_dropshadow": {
+    "message": "ทิ้งเงา"
+  },
+  "textSource.style_dropshadow_color": {
+    "message": "สี"
+  },
+  "textSource.style_dropshadow_distance": {
+    "message": "ระยะ"
+  },
+  "textSource.style_dropshadow_angle": {
+    "message": "มุม"
+  },
+  "textSource.style_dropshadow_blur": {
+    "message": "เบลอ"
+  },
+  "textSource.style_dropshadow_opacity": {
+    "message": "ความทึบแสง"
+  },
+  "textSource.style_animation": {
+    "message": "อนิเมชั่น"
+  },
+  "textSource.style_animation_scroll": {
+    "message": "เลื่อน"
+  },
+  "textSource.style_animation_fade": {
+    "message": "จาง"
+  },
+  "textSource.style_animation_enable_60fps": {
+    "message": "เปิดการใช้งานจนถึง 60 FPS"
+  },
+  "textSource.style_animation_fade_delimeter": {
+    "message": "ตัวคั่น"
+  },
+  "textSource.style_animation_fade_interval": {
+    "message": "ระยะห่าง"
+  },
+  "textSource.style_animation_scroll_direction": {
+    "message": "ทิศทาง"
+  },
+  "textSource.style_animation_scroll_direction_rightToLeft": {
+    "message": "ขวาไปซ้าย"
+  },
+  "textSource.style_animation_scroll_direction_leftToRight": {
+    "message": "ซ้ายไปขวา"
+  },
+  "textSource.style_animation_scroll_direction_bottomToTop": {
+    "message": "ล่างขึ้นบน"
+  },
+  "textSource.style_animation_scroll_direction_topToBottom": {
+    "message": "บนลงล่าง"
+  },
+  "textSource.style_animation_scroll_speed": {
+    "message": "ความเร็ว"
+  },
+  "textSource.style_animation_scroll_lineLimit": {
+    "message": "จำกัดบรรทัด"
+  },
+  "textSource.content_text": {
+    "message": "ข้อความ/BBCode"
+  },
+  "textSource.content_textFile": {
+    "message": "ไฟล์ข้อความ"
+  },
+  "textSource.content_script": {
+    "message": "สคริปต์"
+  },
+  "textSource.content_script_clock": {
+    "message": "นาฬิกา"
+  },
+  "textSource.content_script_stopwatch": {
+    "message": "นาฬิกาจับเวลา"
+  },
+  "textSource.content_script_timer": {
+    "message": "จับเวลา"
+  },
+  "textSource.content_script_load_url": {
+    "message": "โหลดข้อความจาก Remote URL"
+  },
+  "textSource.content_script_rss": {
+    "message": "โปรแกรมอ่านฟีด"
+  },
+  "textSource.content_script_videoList": {
+    "message": "รายการวีดีโอ"
+  },
+  "textSource.content_script_custom": {
+    "message": "สคริปต์แบบกำหนดเอง"
+  },
+  "textSource.content_header_formatting": {
+    "message": "การจัดรูปแบบ"
+  },
+  "textSource.formatting_font": {
+    "message": "ฟ้อนต์"
+  },
+  "textSource.formatting_outline": {
+    "message": "เอาท์ไลน์"
+  },
+  "textSource.formatting_style": {
+    "message": "สไตล์"
+  },
+  "textSource.formatting_align": {
+    "message": "จัดเส้นตรง"
+  },
+  "textSource.formatting_sizing": {
+    "message": "ขนาด"
+  },
+  "textSource.formatting_sizing_automatic": {
+    "message": "อัตโนมัติ"
+  },
+  "textSource.formatting_sizing_fixed": {
+    "message": "แก้ไข"
+  },
+  "textSource.formatting_sizing_wordWrap": {
+    "message": "รวมคำ"
+  }
+}

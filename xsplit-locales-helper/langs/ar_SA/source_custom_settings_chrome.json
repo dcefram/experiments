@@ -1,0 +1,83 @@
+{
+	"button.ok": {
+		"message": "حسنا"
+	},
+	"button.cancel": {
+		"message": "Cancel"
+	},
+	"button.browse": {
+		"message": "تصفح..."
+	},
+	"resolution.width": {
+		"message": "Width"
+	},
+	"resolution.height": {
+		"message": "Height"
+	},
+	"resolution.desc": {
+		"message": "وصف"
+	},
+	"framerate.fps": {
+		"message": "FPS"
+	},
+	"rtsp.webpage.header": {
+		"message": "اكتب عنوان URL أو انقر فوق \"استعراض\" لتحديد ملف HTML."
+	},
+	"rtsp.url": {
+		"message": "URL"
+	},
+	"rtsp.protocol.label": {
+		"message": "بروتوكول"
+	},
+	"rtsp.protocol2.label": {
+		"message": "بروتوكول"
+	},
+	"rtsp.protocol.tooltip": {
+		"message": "يضبط بروتوكول نقل RTSP ذو المستوى المنخفض. [br] [br] إذا رأيت التأتأة أو desync ، فحاول تغيير البروتوكول من TCP إلى UDP. إذا تم حظره بواسطة جدار الحماية ، فحاول ضبط البروتوكول على HTTP."
+	},
+	"rtsp.protocoldd.values.tcp": {
+		"message": "TCP"
+	},
+	"rtsp.protocoldd.values.udp": {
+		"message": "UDP"
+	},
+	"rtsp.protocoldd.values.http": {
+		"message": "HTTP"
+	},
+	"rtsp.protocoldd.values.custom": {
+		"message": "Custom"
+	},
+	"rtmp.url": {
+		"message": "URL"
+	},
+	"rtmp.streamName": {
+		"message": "دفق الاسم"
+	},
+	"rtmp.buffer": {
+		"message": "العازلة (ثانية)"
+	},
+	"script_plugin.header": {
+		"message": "اكتب عنوان URL أو انقر فوق استعراض لتحديد ملف HTML أو PLG."
+	},
+	"locationCaption": {
+		"message": "حدد موقع لاستخراج ** ٪ موقع ٪ ** الملفات."
+	},
+	"locationLabel": {
+		"message": "موقعك"
+	},
+	"easingLabel": {
+		"message": "تخفيف"
+	},
+	"easing.none": {
+		"message": "None"
+	},
+	"easing.in": {
+		"message": "في"
+	},
+	"easing.out": {
+		"message": "خارج"
+	},
+	"easing.inout": {
+		"message": "في/خارج"
+	}
+}

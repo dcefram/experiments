@@ -1,0 +1,155 @@
+{
+	"twitch.chat.tabheader": {
+		"message": "Chat"
+	},
+	"twitch.chat.source": {
+		"message": "Source"
+	},
+	"twitch.chat.account": {
+		"message": "Compte"
+	},
+	"twitch.chat.authorize": {
+		"message": "Autoriser XSplit à utiliser Twitch"
+	},
+	"twitch.chat.remove_authorization": {
+		"message": "**%api%** Retirer l'autorisation"
+	},
+	"twitch.chat.switch_account": {
+		"message": "**%api%** Changer de compte"
+	},
+	"twitch.chat.not_connected": {
+		"message": "Non connecté"
+	},
+	"twitch.chat.connected": {
+		"message": "Connecté"
+	},
+	"twitch.chat.connect": {
+		"message": "Connexion"
+	},
+	"twitch.chat.disconnect": {
+		"message": "Déconnexion"
+	},
+	"twitch.chat.channel": {
+		"message": "Chaîne"
+	},
+	"twitch.chat.error_channel_not_found": {
+		"message": "Veuillez saisir une chaîne valide."
+	},
+	"twitch.chat.display": {
+		"message": "Affichage"
+	},
+	"twitch.chat.chat_box": {
+		"message": "Fenêtre de discussion"
+	},
+	"twitch.chat.opacity": {
+		"message": "Opacité"
+	},
+	"twitch.chat.viewers": {
+		"message": "Spectateurs"
+	},
+	"twitch.chat.message": {
+		"message": "Message"
+	},
+	"twitch.chat.outline_text": {
+		"message": "Contour"
+	},
+	"twitch.chat.text_size": {
+		"message": "Taille du texte"
+	},
+	"twitch.chat.hide_user_name": {
+		"message": "Masquer les noms d’utilisateur"
+	},
+	"twitch.chat.hide_timestamp": {
+		"message": "Masquer les horodateurs"
+	},
+	"twitch.chat.hide_user_icons": {
+		"message": "Masquer les icônes utilisateur"
+	},
+	"twitch.chat.hide_on_idle": {
+		"message": "Masquer le chat lors d'inactivité pendant"
+	},
+	"twitch.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"twitch.chat.animation_text": {
+		"message": "Animation"
+	},
+	"twitch.chat.animation_direction_text": {
+		"message": "Direction"
+	},
+	"twitch.chat.animation_randomize": {
+		"message": "Aléatoire"
+	},
+	"twitch.chat.animation_override_settings": {
+		"message": "Cette section outrepassera manuellement vos paramètres d'affichage."
+	},
+	"twitch.chat.animation_duration": {
+		"message": "Durée "
+	},
+	"twitch.chat.animation_set_duration": {
+		"message": "Cela définira la durée de l'animation de défilage."
+	},
+	"twitch.chat.animation_text_size": {
+		"message": "Taille du texte"
+	},
+	"twitch.chat.seconds": {
+		"message": "secondes"
+	},
+	"twitch.chat.animation_text_color": {
+		"message": "Couleur du texte"
+	},
+	"twitch.chat.animation_none": {
+		"message": "Aucun"
+	},
+	"twitch.chat.animation_scroll": {
+		"message": "Défilement"
+	},
+	"twitch.chat.animation_scroll_text": {
+		"message": "Cela défilera dynamiquement les messages de chat sur votre écran.[br][br]Le meilleur moyen d'afficher ce plugin est d'ajuster votre source en vue plein écran."
+	},
+	"twitch.chat.animation_direction_rightToLeft": {
+		"message": "Droite à gauche"
+	},
+	"twitch.chat.animation_direction_leftToRight": {
+		"message": "Gauche à droite"
+	},
+	"twitch.chat.animation_direction_randomize": {
+		"message": "Aléatoire"
+	},
+	"twitch.chat.outline_none": {
+		"message": "Aucun"
+	},
+	"twitch.chat.outline_thin": {
+		"message": "Fin"
+	},
+	"twitch.chat.outline_thick": {
+		"message": "Épais"
+	},
+	"twitch.chat.outline_thickest": {
+		"message": "Le plus épais"
+	},
+	"twitch.chat.blocking": {
+		"message": "Blocage"
+	},
+	"twitch.chat.blockedlist": {
+		"message": "Liste bloquée"
+	},
+	"twitch.chat.block_help": {
+		"message": "Vous pouvez bloquer vos spectateurs en ajoutant leur nom ou nomd'utilisateur (bots inclus, si applicable) dans la liste bloquée pour que leurs messages n'apparaissent pas dans le chat.[br][br]Cette liste bloquée n'est pas connectée à la liste bloquée de votre chaine. Cela marche seulement pour la source chat actuelle."
+	},
+	"twitch.chat.blocking_name": {
+		"message": "Entrez le nom ou le nom d’utilisateur du spectateur que vous souhaitez bloquer."
+	},
+	"twitch.chat.block_name": {
+		"message": "Nom"
+	},
+	"twitch.chat.block_add": {
+		"message": "Ajouter"
+	},
+	"twitch.chat.block_remove": {
+		"message": "Supprimer"
+	},
+	"twitch.chat.preview": {
+		"message": "Aperçu"
+	}
+}

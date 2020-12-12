@@ -1,0 +1,89 @@
+{
+    "loadingStatus.messages.splashScreenStatus_LoggingIn.message": {
+        "message": "ログイン中..."
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingBroadcastPlugins.message": {
+        "message": "ブロードキャストプラグインを読み込んでいます..."
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingBroadcastPluginsXbc5003.message": {
+        "message": "出力を読み込んでいます..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingBroadcastPlugins.message": {
+        "message": "ブロードキャストプラグインを確認しています"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingBroadcastPluginsXbc5003.message": {
+        "message": "出力を確認中..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingForUpdates.message": {
+        "message": "アップデートの確認中です..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingSourcePlugins.message": {
+        "message": "ソースプラグインを確認しています..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingSourcePluginsXbc5003.message": {
+        "message": "ソースを確認中..."
+    },
+    "loadingStatus.messages.splashScreenStatus_Initializing.message": {
+        "message": "初期化中です..."
+    },
+    "loadingStatus.messages.splashScreenStatus_InstallingBroadcastPlugins.message": {
+        "message": "ブロードキャストプラグインをインストールしています..."
+    },
+    "loadingStatus.messages.splashScreenStatus_InstallingBroadcastPluginsXbc5003.message": {
+        "message": "出力をインストール中..."
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingMainWindow.message": {
+        "message": "メインウィンドウを読み込んでいます..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingBroadcastPlugins.message": {
+        "message": "ブロードキャストプラグインをアップデートしています..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingBroadcastPluginsXbc5003.message": {
+        "message": "出力を更新中..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingSourcePlugins.message": {
+        "message": "ソースプラグインをアップデートしています..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingSourcePluginsXbc5003.message": {
+        "message": "ソースを更新中..."
+    },
+    "loadingStatus.messages.splashScreenStatus_VerifyingGCComponent.message": {
+        "message": "ゲームキャプチャコンポーネントを確認しています"
+    },
+    "loadingStatus.messages.splashScreenStatus_VerifyingGCComponentWithFilename.message": {
+        "message": "ゲームキャプチャコンポーネントを確認しています... %filename%"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingAppConflict.message": {
+        "message": "ゲームキャプチャコンポーネントを確認しています... アプリケーションの衝突を確認しています..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CleaningUp32.message": {
+        "message": "ゲームキャプチャコンポーネントを確認しています...クリーンアップ中(32bit)..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CleaningUp64.message": {
+        "message": "ゲームキャプチャコンポーネントを確認しています...クリーンアップ中(64bit)..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingAppComponentLoaded.message": {
+        "message": "ゲームキャプチャコンポーネントを確認しています...コンポーネントが読み込まれているアプリケーションを確認しています。"
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingGCComponent.message": {
+        "message": "ゲームキャプチャコンポーネントをアップデートしています... %filename%"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingExtensions.message": {
+        "message": "拡張機能を確認中..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingExtensions.message": {
+        "message": "拡張機能を更新中..."
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallSourcePluginsXbc5003.message": {
+        "message": "デフォルトソースをインストール中..."
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallExtensions.message": {
+        "message": "デフォルト拡張機能をインストール中..."
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallBroadcastPluginsXbc5003.message": {
+        "message": "デフォルト出力をインストール中..."
+    },
+    "oem.optimizedFor": {
+        "message": "こちらの為に最適化"
+    }
+}

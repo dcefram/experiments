@@ -1,0 +1,95 @@
+{
+	"title": {
+		"message": "اختيارات البث عبر فيسبوك"
+	},
+	"save_close": {
+		"message": "حفظ و إغلاق"
+	},
+	"start_streaming": {
+		"message": "استمرار"
+	},
+	"logged_in_as": {
+		"message": "تسجيل الدخول بإسم:"
+	},
+	"switch_account": {
+		"message": "(تبدبل الحساب)"
+	},
+	"remove_auth": {
+		"message": "(إزالة الإذن)"
+	},
+	"stream_settings": {
+		"message": "إعدادات البث"
+	},
+	"stream_to.label": {
+		"message": "البث لـ:"
+	},
+	"stream_to.values.timeline": {
+		"message": "الجدول الزمني"
+	},
+	"stream_to.values.page": {
+		"message": "الصفحة"
+	},
+	"stream_to.values.group": {
+		"message": "مجموعة"
+	},
+	"stream_to.values.event": {
+		"message": "Event"
+	},
+	"stream_to.pageauth": {
+		"message": "صفحة- تتطلب إذناً"
+	},
+	"stream_to.groupauth": {
+		"message": "مجموعة-تتطلب إذن"
+	},
+	"stream_to.eventauth": {
+		"message": "حدث- بتطلب الإذن"
+	},
+	"page": {
+		"message": "صفحة:"
+	},
+	"timeline": {
+		"message": "الجدول الزمني:"
+	},
+	"group": {
+		"message": "مجموعة:"
+	},
+	"event": {
+		"message": "حدث: "
+	},
+	"format.label": {
+		"message": "تهيئة: "
+	},
+	"encoder.label": {
+		"message": "تشفير: "
+	},
+	"bitrate": {
+		"message": "معدل نقل البيانات: "
+	},
+	"saveVideo": {
+		"message": "احفظ الفيديو في تسجيلاتي"
+	},
+	"resolutionWarning": {
+		"message": "قد يواجه جهازك مشاكل في الأداء عند هذه الدقة."
+	},
+	"bitrateWarning": {
+		"message": "إن حيز النطاق الخاص بك قد لايكون كافيا للبث بهذا المعدل من النقل."
+	},
+	"streamingWarning": {
+		"message": "إن تجارب النطاق الترددي والجهاز لا يمكن اجراءها نظرا لوجود بث/ تسجيل جاري."
+	},
+	"checkAgain": {
+		"message": "(التجربة مجدداً؟)"
+	},
+	"authorize": {
+		"message": "اضغط هنا للسماح لـ XSplit بالبث من حسابك على الفيسبوك"
+	},
+	"configuring": {
+		"message": "جاري تشكيل إعداداتك..."
+	},
+	"system_test": {
+		"message": "آخر تجريب للنظام: (التجريب مجددا)"
+	},
+	"advanced_settings": {
+		"message": "(الاعدادات المتقدمة)"
+	}
+}

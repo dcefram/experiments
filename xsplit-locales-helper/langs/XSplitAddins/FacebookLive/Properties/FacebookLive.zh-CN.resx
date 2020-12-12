@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="msgAuthExpiredOrInvalid" xml:space="preserve">
+    <value>访问卡缺失, 过期或失效. 请重新授权.
+
+如果问题仍然存在, 请联系客服.</value>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>授权XSplit使用 {0}</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>删除授权</value>
+  </data>
+  <data name="lblPageAudience" xml:space="preserve">
+    <value>页面观众</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>没有Facebook的帐户吗? 在这里注册.</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>与Facebook的服务器通信时出错. 请稍后再试.</value>
+  </data>
+  <data name="msgAuthorizeRequired" xml:space="preserve">
+    <value>首先你必须授权帐户.</value>
+  </data>
+  <data name="msgStreamTimeLimitReached" xml:space="preserve">
+    <value>已达到{0} 分钟 Facebook Live 时间限制. 现在已经停止广播.</value>
+  </data>
+  <data name="msgStreamTimeLimitUpdate" xml:space="preserve">
+    <value>你有{0} 分钟剩余为此Facebook Live广播.</value>
+  </data>
+  <data name="lblChannels" xml:space="preserve">
+    <value>频道:</value>
+  </data>
+  <data name="pbPageAudience_Tooltip" xml:space="preserve">
+    <value>当你在任何页面上张贴页面观众设置才会启动.</value>
+  </data>
+  <data name="pbContinuousLive_Tooltip" xml:space="preserve">
+    <value>此选项允许您播放超过 4 小时
+但不会生成记录在你的 Facebook 上的VOD.</value>
+  </data>
+  <data name="USER_WALL" xml:space="preserve">
+    <value>您的时间表</value>
+  </data>
+  <data name="GROUP_WALL" xml:space="preserve">
+    <value>一组</value>
+  </data>
+  <data name="PAGE_WALL" xml:space="preserve">
+    <value>你的管理页</value>
+  </data>
+  <data name="ALL" xml:space="preserve">
+    <value>所有</value>
+  </data>
+  <data name="MALE" xml:space="preserve">
+    <value>男</value>
+  </data>
+  <data name="FEMALE" xml:space="preserve">
+    <value>女</value>
+  </data>
+  <data name="EVERYONE" xml:space="preserve">
+    <value>公开</value>
+  </data>
+  <data name="ALL_FRIENDS" xml:space="preserve">
+    <value>朋友</value>
+  </data>
+  <data name="SELF" xml:space="preserve">
+    <value>只有我</value>
+  </data>
+  <data name="ALL_LOCATIONS" xml:space="preserve">
+    <value>所有位置</value>
+  </data>
+  <data name="SELECTED_LOCATIONS" xml:space="preserve">
+    <value>位置列表</value>
+  </data>
+  <data name="msgPostAsIsRequired" xml:space="preserve">
+    <value>张贴不能为空</value>
+  </data>
+  <data name="msgTitleLengthExceeded" xml:space="preserve">
+    <value>标题不能超过 255 个字符</value>
+  </data>
+  <data name="msgAgeRangeInvalid" xml:space="preserve">
+    <value>不正确的最小和最大年龄值.</value>
+  </data>
+  <data name="msgCountriesCountExceeded" xml:space="preserve">
+    <value>所选的位置必须 25 或更少.</value>
+  </data>
+  <data name="FacebookLiveProps" xml:space="preserve">
+    <value>Facebook Live属性</value>
+  </data>
+  <data name="lblLiveUsername" xml:space="preserve">
+    <value>用戶名</value>
+  </data>
+  <data name="msgBelowMinBitrate" xml:space="preserve">
+    <value>您已设置 {0} 的比特率. 这下面是Facebook推荐的最小比特率 {2} {1}. 请参阅帮助 (?) 图标. 是否继续?</value>
+  </data>
+  <data name="msgMinFriendsCountForStream" xml:space="preserve">
+    <value>用户少于 {0} 朋友不可以广播.</value>
+  </data>
+  <data name="msgNoPermissionToCreateLiveVideo" xml:space="preserve">
+    <value>此用户没有权限创建视频直播.</value>
+  </data>
+  <data name="msgEndContinuousLiveVideo" xml:space="preserve">
+    <value>您已经停止对Facebook Live的直播. 你想同时结束此视频吗?</value>
+  </data>
+  <data name="msgStartScheduledLiveAnyway" xml:space="preserve">
+    <value>还有, 预定现场视频将自动过渡到直播从预览视频的计划的开始时间. 它已预定在 {0} 开始, 您确定您想要现在开始直播吗?</value>
+  </data>
+  <data name="msgConfirmDeleteScheduledLive" xml:space="preserve">
+    <value>是否确实要删除此预定的视频?</value>
+  </data>
+  <data name="msgConfirmEndContinuouLive" xml:space="preserve">
+    <value>是否确实要结束此连续的视频?</value>
+  </data>
+  <data name="ContinuousLiveTextTemplate" xml:space="preserve">
+    <value>连续: 创建 {0}{1}</value>
+  </data>
+  <data name="ScheduledLiveTextTemplate" xml:space="preserve">
+    <value>计划: 开始 {0}{1}</value>
+  </data>
+  <data name="EventTextTemplate" xml:space="preserve">
+    <value>{0} 对事件 "{1}"</value>
+  </data>
+  <data name="GroupTextTemplate" xml:space="preserve">
+    <value>{0} 对组 "{1}"</value>
+  </data>
+  <data name="LiveTextTemplate" xml:space="preserve">
+    <value>直播: 等待自 {0}{1}</value>
+  </data>
+  <data name="ManualLiveTextTemplate" xml:space="preserve">
+    <value>手动: 启动 {0}{1}</value>
+  </data>
+  <data name="msgScheduledLiveCreated" xml:space="preserve">
+    <value>已成功创建新计划观看实时视频!</value>
+  </data>
+  <data name="msgScheduledLiveUpdated" xml:space="preserve">
+    <value>已成功上传新计划观看实时视频!</value>
+  </data>
+  <data name="EVENT" xml:space="preserve">
+    <value>活动</value>
+  </data>
+  <data name="btnManageScheduledLiveVideos" xml:space="preserve">
+    <value>管理计划现场视频</value>
+  </data>
+  <data name="msgAdBreakOnboardRequiredTitle" xml:space="preserve">
+    <value>加入所需的广告要求</value>
+  </data>
+  <data name="msgAdBreakFailTitle" xml:space="preserve">
+    <value>运行广告失败</value>
+  </data>
+  <data name="msgAdBreakFailBroadcasterViolations" xml:space="preserve">
+    <value>无法启动广告到 {0}.
+
+广告已被关闭. 您的一些视频可能含有内容您无权使用.
+
+&lt;a href="{1}"&gt;Learn more&lt;/a&gt; 在Facebook广告.</value>
+  </data>
+  <data name="msgAdBreakFailMinimumViewers" xml:space="preserve">
+    <value>无法启动广告到 {0}.
+
+需要更多观众. 您需要至少 {1} 人在同时观看.</value>
+  </data>
+  <data name="msgAdBreakFailTimeBetweenLastBreak" xml:space="preserve">
+    <value>无法启动广告到 {0}.
+
+时间不足从上次广告休息. 您需要等待至少 {1} 秒来开始下一次广告休息.</value>
+  </data>
+  <data name="msgAdBreakFailTimeSinceStart" xml:space="preserve">
+    <value>无法启动广告到 {0}.
+
+过早的广告休息. 您需要至少直播 {1} 秒.</value>
+  </data>
+  <data name="msgAdBreakFailNotOnboard" xml:space="preserve">
+    <value>您需要先加入在投放广告前 {0}. 点击 &lt;a href="{1}"&gt;here&lt;/a&gt; 来开始加入.
+
+一旦载入, 标题栏状态会提醒您当您准备好允许广告.
+
+&lt;a href="{2}"&gt;Learn more&lt;/a&gt; 在 Facebook广告休息.</value>
+  </data>
+  <data name="msgAdBreakReady" xml:space="preserve">
+    <value>(准备好广告, 按 {0} 开始)</value>
+  </data>
+  <data name="msgAdBreakReadyNoHotkey" xml:space="preserve">
+    <value>(准备好广告, 没有快捷键设置)</value>
+  </data>
+  <data name="msgAdBreakPreparing" xml:space="preserve">
+    <value>(准备广告: {0}%... 按 {1} 取消)</value>
+  </data>
+  <data name="msgAdBreakPrepared" xml:space="preserve">
+    <value>(准备好广告, 按 {0} 开始)</value>
+  </data>
+  <data name="msgAdBreakWaiting" xml:space="preserve">
+    <value>(广告开始在 {0}秒...按 {1} 取消)</value>
+  </data>
+  <data name="msgAdBreakPlaying" xml:space="preserve">
+    <value>(播放广告: {0}秒...)</value>
+  </data>
+  <data name="msgAdBreakPreparingNoHotkey" xml:space="preserve">
+    <value>(广告准备中: {0}%... 未设置快捷键)</value>
+  </data>
+  <data name="msgAdBreakPreparedNoHotkey" xml:space="preserve">
+    <value>(广告准备完成, 未设置快捷键)</value>
+  </data>
+  <data name="msgAdBreakWaitingNoHotkey" xml:space="preserve">
+    <value>(广告在 {0}秒开始... 未设置快捷键)</value>
+  </data>
+  <data name="msgManualStartWarning" xml:space="preserve">
+    <value>此视频直播的状态设置为手动. 一旦您开始使用手动的广播, 你将不再能够切换到 '计划' 的状态.
+
+要设置的直播的视频, 你将需要手动 '上线' 通过 Facebook 或重新 '直播' 广播和设置状态.
+
+你确定要继续吗?</value>
+  </data>
+  <data name="LoadMoreGroups" xml:space="preserve">
+    <value>加载更多组...</value>
+  </data>
+  <data name="LoadMorePageEvents" xml:space="preserve">
+    <value>加载更多事件...</value>
+  </data>
+  <data name="LoadMorePages" xml:space="preserve">
+    <value>加载更多页面...</value>
+  </data>
+  <data name="LoadMoreUserEvents" xml:space="preserve">
+    <value>加载更多用户事件...</value>
+  </data>
+  <data name="lblSwitchAccount" xml:space="preserve">
+    <value>更换账号</value>
+  </data>
+  <data name="lblRequiresPermission" xml:space="preserve">
+    <value>需要许可</value>
+  </data>
+  <data name="msgCurrentStageFormat" xml:space="preserve">
+    <value>现阶段格式</value>
+  </data>
+  <data name="msgBelowMinBitrate_EasyMode" xml:space="preserve">
+    <value>您已设置 {0} 的比特率. 这下面是Facebook推荐的最小比特率{1} 于{2}.</value>
+  </data>
+</root>

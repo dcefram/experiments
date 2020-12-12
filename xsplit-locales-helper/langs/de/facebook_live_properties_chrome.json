@@ -1,0 +1,95 @@
+{
+	"title": {
+		"message": "Facebook Live-Eigenschaften"
+	},
+	"save_close": {
+		"message": "Speichern & schließen"
+	},
+	"start_streaming": {
+		"message": "Weiter"
+	},
+	"logged_in_as": {
+		"message": "Angemeldet als: %fullname%"
+	},
+	"switch_account": {
+		"message": "[Konto wechseln](switchAccount)"
+	},
+	"remove_auth": {
+		"message": "[Autorisierung entfernen](removeAuth)"
+	},
+	"stream_settings": {
+		"message": "Stream-Einstellungen"
+	},
+	"stream_to.label": {
+		"message": "Streamen auf: "
+	},
+	"stream_to.values.timeline": {
+		"message": "Timeline"
+	},
+	"stream_to.values.page": {
+		"message": "Seite"
+	},
+	"stream_to.values.group": {
+		"message": "Gruppe"
+	},
+	"stream_to.values.event": {
+		"message": "Ereignis"
+	},
+	"stream_to.pageauth": {
+		"message": "Seite - Erfordert Berechtigung"
+	},
+	"stream_to.groupauth": {
+		"message": "Gruppe - Erfordert Berechtigung"
+	},
+	"stream_to.eventauth": {
+		"message": "Ereignis - Erfordert Berechtigung"
+	},
+	"page": {
+		"message": "Seite: "
+	},
+	"timeline": {
+		"message": "Timeline: "
+	},
+	"group": {
+		"message": "Gruppe: "
+	},
+	"event": {
+		"message": "Veranstaltung: "
+	},
+	"format.label": {
+		"message": "Format: "
+	},
+	"encoder.label": {
+		"message": "Codierer: "
+	},
+	"bitrate": {
+		"message": "Bitrate: "
+	},
+	"saveVideo": {
+		"message": "Video unter Meine Aufnahmen speichern"
+	},
+	"resolutionWarning": {
+		"message": "Ihre Hardware kann möglicherweise zu Leistungsprobleme bei dieser Auflösung führen."
+	},
+	"bitrateWarning": {
+		"message": "Ihre Bandbreite reicht möglicherweise nicht aus, um bei dieser Bitrate zu streamen."
+	},
+	"streamingWarning": {
+		"message": "Bandbreiten- und Hardwaretests können aufgrund laufender Streams/Aufnahmen nicht ausgeführt werden."
+	},
+	"checkAgain": {
+		"message": "[Erneut testen?](testAgain)"
+	},
+	"authorize": {
+		"message": "Klicken Sie auf Autorisieren, um auf Ihr Facebook-Konto zu streamen"
+	},
+	"configuring": {
+		"message": "Einstellungen werden konfiguriert..."
+	},
+	"system_test": {
+		"message": "Letzter Systemtest: %timestamp% [Erneut testen](testAgain)"
+	},
+	"advanced_settings": {
+		"message": "[Erweiterte Einstellungen](advancedSettings)"
+	}
+}

@@ -1,0 +1,107 @@
+{
+  "facebook.source_alert.tabheader": {
+    "message": "Warnung"
+  },
+  "facebook.source_alert.source": {
+    "message": "Quelle"
+  },
+  "facebook.source_alert.account": {
+    "message": "Konto"
+  },
+  "facebook.source_alert.authorize": {
+    "message": "XSplit autorisieren, Facebook zu verwenden"
+  },
+  "facebook.source_alert.remove_authorization": {
+    "message": "**%api%** Autorisierung entfernen"
+  },
+  "facebook.source_alert.switch_account": {
+    "message": "**%api%** Konto wechseln"
+  },
+  "facebook.source_alert.not_connected": {
+    "message": "Warnungen werden automatisch geladen, sobald der Stream live ist"
+  },
+  "facebook.source_alert.connected": {
+    "message": "Verbunden"
+  },
+  "facebook.source_alert.connect": {
+    "message": "Verbinden"
+  },
+  "facebook.source_alert.disconnect": {
+    "message": "Trennen"
+  },
+  "facebook.source_alert.error_auth": {
+    "message": "Bitte versuchen Sie erneut zu autorisieren und gewähren Sie den Zugriff auf alle Berechtigungen, die von XSplit für diese Funktionalität benötigt werden"
+  },
+  "facebook.source_alert.not_seeing_videos": {
+    "message": "Ihr Live-Video wird nicht angezeigt?"
+  },
+  "facebook.source_alert.not_seeing_videos_help": {
+    "message": "Sie haben uns eventuell keine Berechtigung für den Zugriff auf einige der Live-Videos Ihrer Seite erteilt."
+  },
+  "facebook.source_alert.not_seeing_videos_link": {
+    "message": "Klicken Sie hier, um erneut zu autorisieren"
+  },
+  "facebook.source_alert.hide_connection_message": {
+    "message": "Verbindungsmeldungen ausblenden"
+  },
+  "facebook.source_alert.alertLabel": {
+    "message": "Warnung"
+  },
+  "facebook.source_alert.animation_text": {
+    "message": "Animation"
+  },
+  "facebook.source_alert.duration": {
+    "message": "Dauer"
+  },
+  "facebook.source_alert.delay": {
+    "message": "Anzeigezeit"
+  },
+  "facebook.source_alert.animateIn": {
+    "message": "Animiert hereinfliegen"
+  },
+  "facebook.source_alert.animateOut": {
+    "message": "Animiert herausfliegen"
+  },
+  "facebook.source_alert.audio": {
+    "message": "Audio"
+  },
+  "facebook.source_alert.generalHeader": {
+    "message": "Allgemein"
+  },
+  "facebook.source_alert.customizeHeader": {
+    "message": "Personalisieren"
+  },
+  "facebook.source_alert.theme": {
+    "message": "Design"
+  },
+  "facebook.source_alert.minStars": {
+    "message": "Min. Sterne"
+  },
+  "facebook.source_alert.type": {
+    "message": "Typ"
+  },
+  "facebook.source_alert.nameStyleAndSettings": {
+    "message": "Name Stil und Einstellung"
+  },
+  "facebook.source_alert.sound": {
+    "message": "Ton"
+  },
+  "facebook.source_alert.show_alert": {
+    "message": "Vorschau"
+  },
+  "facebook.source_alert.hide_alert": {
+    "message": "Vorschau verbergen"
+  },
+  "facebook.source_alert.test_alert": {
+    "message": "Testwarnung"
+  },
+  "facebook.source_alert.Color": {
+    "message": "Farbe"
+  },
+  "facebook.source_alert.layout": {
+    "message": "Layout"
+  },
+  "facebook.source_alert.shareNote": {
+    "message": "Funktioniert nur bei Freigabe für die Öffentlichkeit"
+  }
+}

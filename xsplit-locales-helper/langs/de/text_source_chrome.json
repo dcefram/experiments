@@ -1,0 +1,122 @@
+{
+  "textSource.tabheader_content": {
+    "message": "Inhalt"
+  },
+  "textSource.tabheader_style": {
+    "message": "Styles"
+  },
+  "textSource.style_dropshadow": {
+    "message": "Drop shadow"
+  },
+  "textSource.style_dropshadow_color": {
+    "message": "Farbe"
+  },
+  "textSource.style_dropshadow_distance": {
+    "message": "Entfernung"
+  },
+  "textSource.style_dropshadow_angle": {
+    "message": "Winkel"
+  },
+  "textSource.style_dropshadow_blur": {
+    "message": "Weichzeichnung"
+  },
+  "textSource.style_dropshadow_opacity": {
+    "message": "Deckkraft"
+  },
+  "textSource.style_animation": {
+    "message": "Animation"
+  },
+  "textSource.style_animation_scroll": {
+    "message": "Scrollen"
+  },
+  "textSource.style_animation_fade": {
+    "message": "Überblenden"
+  },
+  "textSource.style_animation_enable_60fps": {
+    "message": "Bis zu 60 FPS aktivieren"
+  },
+  "textSource.style_animation_fade_delimeter": {
+    "message": "Trennzeichen"
+  },
+  "textSource.style_animation_fade_interval": {
+    "message": "Intervall"
+  },
+  "textSource.style_animation_scroll_direction": {
+    "message": "Richtung"
+  },
+  "textSource.style_animation_scroll_direction_rightToLeft": {
+    "message": "Rechts nach links"
+  },
+  "textSource.style_animation_scroll_direction_leftToRight": {
+    "message": "Links nach rechts"
+  },
+  "textSource.style_animation_scroll_direction_bottomToTop": {
+    "message": "Unten nach oben"
+  },
+  "textSource.style_animation_scroll_direction_topToBottom": {
+    "message": "Oben nach unten"
+  },
+  "textSource.style_animation_scroll_speed": {
+    "message": "Geschwindigkeit"
+  },
+  "textSource.style_animation_scroll_lineLimit": {
+    "message": "Zeilenbegrenzung"
+  },
+  "textSource.content_text": {
+    "message": "Text/BBCode"
+  },
+  "textSource.content_textFile": {
+    "message": "Text file"
+  },
+  "textSource.content_script": {
+    "message": "Skript"
+  },
+  "textSource.content_script_clock": {
+    "message": "Uhr"
+  },
+  "textSource.content_script_stopwatch": {
+    "message": "Stopwatch"
+  },
+  "textSource.content_script_timer": {
+    "message": "Timer"
+  },
+  "textSource.content_script_load_url": {
+    "message": "Load text from Remote URL"
+  },
+  "textSource.content_script_rss": {
+    "message": "RSS Feed Reader"
+  },
+  "textSource.content_script_videoList": {
+    "message": "Video List"
+  },
+  "textSource.content_script_custom": {
+    "message": "Benutzerdefiniertes Skript"
+  },
+  "textSource.content_header_formatting": {
+    "message": "Formatting"
+  },
+  "textSource.formatting_font": {
+    "message": "Schriftart"
+  },
+  "textSource.formatting_outline": {
+    "message": "Gliederung"
+  },
+  "textSource.formatting_style": {
+    "message": "Stil"
+  },
+  "textSource.formatting_align": {
+    "message": "Ausrichten"
+  },
+  "textSource.formatting_sizing": {
+    "message": "Sizing"
+  },
+  "textSource.formatting_sizing_automatic": {
+    "message": "Automatisch"
+  },
+  "textSource.formatting_sizing_fixed": {
+    "message": "Fixed"
+  },
+  "textSource.formatting_sizing_wordWrap": {
+    "message": "Word wrap"
+  }
+}

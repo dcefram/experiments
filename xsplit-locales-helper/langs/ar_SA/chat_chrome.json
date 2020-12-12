@@ -1,0 +1,71 @@
+{
+  "chat.title": {
+    "message": "%service% تكوين الدردشة"
+  },
+  "chat.source": {
+    "message": "مصدر"
+  },
+  "chat.account": {
+    "message": "الحساب"
+  },
+  "chat.authorize": {
+    "message": "اعطاء XSplit لاستخدام %service%"
+  },
+  "chat.deauthorize": {
+    "message": "(إلغاء اعتماد) %username%"
+  },
+  "chat.connected": {
+    "message": "متصل"
+  },
+  "chat.not_connected": {
+    "message": "غير متصل"
+  },
+  "chat.channel_text": {
+    "message": "اكتب قناة %service% الدردشة التي تريد عرضها."
+  },
+  "chat.channel": {
+    "message": "قناة "
+  },
+  "chat.channel_name": {
+    "message": "اسم القناة"
+  },
+  "chat.connect": {
+    "message": "متصل"
+  },
+  "chat.error_channel_not_found": {
+    "message": "%service% القناة غير موجودة. حاول مرة اخرى."
+  },
+  "chat.error_no_connection": {
+    "message": "يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى."
+  },
+  "chat.display": {
+    "message": "Display"
+  },
+  "chat.chat_box": {
+    "message": "صندوق الدردشه"
+  },
+  "chat.opacity": {
+    "message": "الشفافيه"
+  },
+  "chat.viewers": {
+    "message": "المشاهدين"
+  },
+  "chat.message": {
+    "message": "رسالة"
+  },
+  "chat.text_size": {
+    "message": "حجم الخط"
+  },
+  "chat.disconnect": {
+    "message": "قطع الاتصال"
+  },
+  "chat.connecting": {
+    "message": "متصل..."
+  },
+  "chat.connect_error": {
+    "message": "%service% لا يمكن الاتصال بالقناة. حاول مرة اخرى."
+  },
+  "chat.invalid_channel": {
+    "message": "يرجى تقديم قناة %service% صالحة."
+  }
+}

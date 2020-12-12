@@ -1,0 +1,41 @@
+{
+	"streamSettings.freeUserLimitationStreamReso": {
+		"message": "crwdns11627:0%resolution%crwdnd11627:0[br]crwdnd11627:0[br]crwdne11627:0"
+	},
+	"streamSettings.freeUserLimitationRecordReso": {
+		"message": "crwdns11628:0%resolution%crwdnd11628:0[br]crwdnd11628:0[br]crwdne11628:0"
+	},
+	"streamSettings.freeUserLimitationStreamFps": {
+		"message": "crwdns11629:0%fps%crwdnd11629:0[br]crwdnd11629:0[br]crwdne11629:0"
+	},
+	"streamSettings.freeUserLimitationRecordFps": {
+		"message": "crwdns11630:0%fps%crwdnd11630:0[br]crwdnd11630:0[br]crwdne11630:0"
+	},
+	"streamSettings.freeUserLimitationStreamResoFps": {
+		"message": "crwdns11631:0%resolution%crwdnd11631:0%fps%crwdnd11631:0[br]crwdnd11631:0[br]crwdne11631:0"
+	},
+	"streamSettings.freeUserLimitationRecordResoFps": {
+		"message": "crwdns11632:0%resolution%crwdnd11632:0%fps%crwdnd11632:0[br]crwdnd11632:0[br]crwdne11632:0"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonReso": {
+		"message": "crwdns11620:0%type%crwdnd11620:0%resolution%crwdnd11620:0[br]crwdnd11620:0[br]crwdne11620:0"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonFps": {
+		"message": "crwdns11633:0%type%crwdnd11633:0%fps%crwdnd11633:0[br]crwdnd11633:0[br]crwdne11633:0"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonResoFps": {
+		"message": "crwdns11622:0%type%crwdnd11622:0%resolution%crwdnd11622:0[br]crwdnd11622:0%fps%crwdnd11622:0[br]crwdnd11622:0[br]crwdne11622:0"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonReso": {
+		"message": "crwdns11623:0%type%crwdnd11623:0%resolution%crwdnd11623:0[br]crwdnd11623:0[br]crwdne11623:0"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonFps": {
+		"message": "crwdns11634:0%type%crwdnd11634:0%fps%crwdnd11634:0[br]crwdnd11634:0[br]crwdne11634:0"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonResoFps": {
+		"message": "crwdns11625:0%type%crwdnd11625:0%resolution%crwdnd11625:0[br]crwdnd11625:0%fps%crwdnd11625:0[br]crwdnd11625:0[br]crwdne11625:0"
+	},
+	"streamSettings.buyLicenseButton": {
+		"message": "crwdns5575:0[br]crwdnd5575:0[br]crwdne5575:0"
+	}
+}

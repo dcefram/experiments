@@ -1,0 +1,234 @@
+{
+	"email": {
+		"message": "crwdns4187:0crwdne4187:0"
+	},
+	"password": {
+		"message": "crwdns4188:0crwdne4188:0"
+	},
+	"rememberMe": {
+		"message": "crwdns4189:0crwdne4189:0"
+	},
+	"newXSplitUser": {
+		"message": "crwdns4190:0crwdne4190:0"
+	},
+	"noAccount": {
+		"message": "crwdns4191:0crwdne4191:0"
+	},
+	"forgotPassword": {
+		"message": "crwdns4192:0crwdne4192:0"
+	},
+	"enterCode": {
+		"message": "crwdns4193:0crwdne4193:0"
+	},
+	"loginAutomatically": {
+		"message": "crwdns4194:0crwdne4194:0"
+	},
+	"login": {
+		"message": "crwdns80924:0crwdne80924:0"
+	},
+	"selectLanguage": {
+		"message": "crwdns4196:0crwdne4196:0"
+	},
+	"agreement": {
+		"message": "crwdns14656:0crwdne14656:0"
+	},
+	"updates": {
+		"message": "crwdns14657:0crwdne14657:0"
+	},
+	"noEmailMessage": {
+		"message": "crwdns14658:0crwdne14658:0"
+	},
+	"growl.warning": {
+		"message": "crwdns4197:0crwdne4197:0"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.title": {
+		"message": "crwdns4199:0crwdne4199:0",
+		"type": "warning"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.message": {
+		"message": "crwdns4200:0crwdne4200:0"
+	},
+	"registration.message": {
+		"message": "crwdns6207:0crwdne6207:0"
+	},
+	"screenName.placeholder": {
+		"message": "crwdns6208:0crwdne6208:0"
+	},
+	"fullName.placeholder": {
+		"message": "crwdns6209:0crwdne6209:0"
+	},
+	"emailInput.placeholder": {
+		"message": "crwdns6210:0crwdne6210:0"
+	},
+	"passwordInput.placeholder": {
+		"message": "crwdns6211:0crwdne6211:0"
+	},
+	"retypePassword.placeholder": {
+		"message": "crwdns6212:0crwdne6212:0"
+	},
+	"register.label": {
+		"message": "crwdns6213:0crwdne6213:0"
+	},
+	"loginUsingExisting": {
+		"message": "crwdns80926:0crwdne80926:0"
+	},
+	"registration.confirm.message": {
+		"message": "crwdns14659:0crwdne14659:0"
+	},
+	"registration.confirm.continue": {
+		"message": "crwdns14660:0crwdne14660:0"
+	},
+	"registration.confirm.goBack": {
+		"message": "crwdns14661:0crwdne14661:0"
+	},
+	"registration.processing": {
+		"message": "crwdns6218:0crwdne6218:0"
+	},
+	"registration.success": {
+		"message": "crwdns12751:0[br]crwdnd12751:0[br]crwdnd12751:0%email%crwdne12751:0"
+	},
+	"continue.label": {
+		"message": "crwdns6220:0crwdne6220:0"
+	},
+	"screenName.hint": {
+		"message": "crwdns6221:0crwdne6221:0"
+	},
+	"screenName.check": {
+		"message": "crwdns6222:0crwdne6222:0"
+	},
+	"screenName.unavailable": {
+		"message": "crwdns6223:0crwdne6223:0"
+	},
+	"fullName.hint": {
+		"message": "crwdns6224:0crwdne6224:0"
+	},
+	"emailInput.hint": {
+		"message": "crwdns12752:0crwdne12752:0"
+	},
+	"emailInput.notValid": {
+		"message": "crwdns6226:0crwdne6226:0"
+	},
+	"passwordInput.hint": {
+		"message": "crwdns11867:0crwdne11867:0"
+	},
+	"passwordInput.notMatch": {
+		"message": "crwdns6228:0crwdne6228:0"
+	},
+	"copyright": {
+		"message": "crwdns7777:0%dates%crwdne7777:0"
+	},
+	"oem.login.optimizedFor": {
+		"message": "crwdns9761:0crwdne9761:0"
+	},
+	"oem.login.bannerMessage": {
+		"message": "crwdns80928:0%license%crwdnd80928:0%oem%crwdne80928:0"
+	},
+	"oem.redeemed.message": {
+		"message": "crwdns11746:0%oem%crwdnd11746:0%oemfreelicense%crwdnd11746:0%email%crwdne11746:0"
+	},
+	"oem.redeemed.messageNewAccount": {
+		"message": "crwdns11747:0%oem%crwdnd11747:0%oemfreelicense%crwdnd11747:0%email%crwdne11747:0"
+	},
+	"oem.redeemed.letsGetStarted": {
+		"message": "crwdns9765:0crwdne9765:0"
+	},
+	"oem.redeem.emailSentMessage": {
+		"message": "crwdns12753:0crwdne12753:0"
+	},
+	"oem.redeemed.newFail": {
+		"message": "crwdns9767:0crwdne9767:0"
+	},
+	"oem.redeemed.redeemError": {
+		"message": "crwdns9808:0crwdne9808:0"
+	},
+	"REFURBISHED_REDEMPTION_NOT_ALLOWED_FOR_SAME_XSPLIT_ACCOUNT": {
+		"message": "crwdns11434:0crwdne11434:0"
+	},
+	"cannot_apply_with_recurring": {
+		"message": "crwdns12539:0crwdne12539:0"
+	},
+	"oem.login.letsGetStarted": {
+		"message": "crwdns9769:0crwdne9769:0"
+	},
+	"oem.login.continueToXBC": {
+		"message": "crwdns9770:0crwdne9770:0"
+	},
+	"carousel.slide1.header": {
+		"message": "crwdns11417:0crwdne11417:0"
+	},
+	"carousel.slide1.content": {
+		"message": "crwdns11418:0crwdne11418:0"
+	},
+	"carousel.slide2.header": {
+		"message": "crwdns12983:0crwdne12983:0"
+	},
+	"carousel.slide2.content": {
+		"message": "crwdns12984:0crwdne12984:0"
+	},
+	"carousel.slide3.header": {
+		"message": "crwdns12985:0crwdne12985:0"
+	},
+	"carousel.slide3.content": {
+		"message": "crwdns12986:0crwdne12986:0"
+	},
+	"carousel.slide4.header": {
+		"message": "crwdns11427:0crwdne11427:0"
+	},
+	"carousel.slide4.content": {
+		"message": "crwdns11435:0crwdne11435:0"
+	},
+	"carousel.freeLicenseText": {
+		"message": "crwdns11429:0crwdne11429:0"
+	},
+	"carousel.sponsor": {
+		"message": "crwdns11430:0%oem%crwdne11430:0"
+	},
+	"carousel.lucky": {
+		"message": "crwdns14257:0%oem%crwdnd14257:0%duration%crwdne14257:0"
+	},
+	"carousel.continue": {
+		"message": "crwdns11432:0crwdne11432:0"
+	},
+	"carousel.title": {
+		"message": "crwdns11433:0crwdne11433:0"
+	},
+	"label.default": {
+		"message": "crwdns80930:0%connect%crwdne80930:0"
+	},
+	"label.connect": {
+		"message": "crwdns80932:0crwdne80932:0"
+	},
+	"label.authorized": {
+		"message": "crwdns11750:0crwdne11750:0"
+	},
+	"label.changeaccount": {
+		"message": "crwdns11751:0crwdne11751:0"
+	},
+	"label.learnMore": {
+		"message": "crwdns14662:0crwdne14662:0"
+	},
+	"label.otherOptions": {
+		"message": "crwdns107644:0crwdne107644:0"
+	},
+	"label.welcome": {
+		"message": "crwdns14664:0crwdne14664:0"
+	},
+	"label.loggingInTo": {
+		"message": "crwdns96296:0%service%crwdne96296:0"
+	},
+	"label.pleaseComplete": {
+		"message": "crwdns121552:0[br]crwdnd121552:0[br]crwdnd121552:0[br]crwdnd121552:0[Cancel]crwdnd121552:0[br]crwdnd121552:0[br]crwdnd121552:0[br]crwdne121552:0"
+	},
+	"label.somethingWrong": {
+		"message": "crwdns96300:0crwdne96300:0"
+	},
+	"label.retryAuth": {
+		"message": "crwdns96302:0[br]crwdne96302:0"
+	},
+	"button.back": {
+		"message": "crwdns96304:0crwdne96304:0"
+	},
+	"button.retry": {
+		"message": "crwdns96306:0crwdne96306:0"
+	}
+}

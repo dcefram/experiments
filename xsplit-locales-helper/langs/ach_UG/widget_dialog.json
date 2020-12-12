@@ -1,0 +1,23 @@
+{
+  "dontShowAgain": {
+    "message": "crwdns18068:0crwdne18068:0"
+  },
+  "button.goToPluginStore": {
+    "message": "crwdns18069:0crwdne18069:0"
+  },
+  "button.maybeLater": {
+    "message": "crwdns18070:0crwdne18070:0"
+  },
+  "title": {
+    "message": "crwdns18071:0crwdne18071:0"
+  },
+  "facebook.description": {
+    "message": "crwdns18072:0[br]crwdnd18072:0[br]crwdne18072:0"
+  },
+  "twitch.description": {
+    "message": "crwdns18073:0[br]crwdnd18073:0[br]crwdne18073:0"
+  },
+  "youtube.description": {
+    "message": "crwdns18560:0[br]crwdnd18560:0[br]crwdne18560:0"
+  }
+}

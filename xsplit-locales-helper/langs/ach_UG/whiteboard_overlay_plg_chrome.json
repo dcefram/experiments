@@ -1,0 +1,50 @@
+{
+  "whiteboard_overlay.drawing": {
+    "message": "crwdns6979:0crwdne6979:0"
+  },
+  "whiteboard_overlay.reminder": {
+    "message": "crwdns6980:0crwdne6980:0"
+  },
+  "whiteboard_overlay.tool": {
+    "message": "crwdns6981:0crwdne6981:0"
+  },
+  "whiteboard_overlay.size": {
+    "message": "crwdns6982:0crwdne6982:0"
+  },
+  "whiteboard_overlay.color": {
+    "message": "crwdns6983:0crwdne6983:0"
+  },
+  "whiteboard_overlay.clear_whiteboard": {
+    "message": "crwdns6984:0crwdne6984:0"
+  },
+  "whiteboard_overlay.hotkeys": {
+    "message": "crwdns6985:0crwdne6985:0"
+  },
+  "whiteboard_overlay.hotkey_header": {
+    "message": "crwdns6986:0crwdne6986:0"
+  },
+  "whiteboard_overlay.hotkey_s": {
+    "message": "crwdns6987:0crwdne6987:0"
+  },
+  "whiteboard_overlay.hotkey_shift": {
+    "message": "crwdns6988:0[br]crwdne6988:0"
+  },
+  "whiteboard_overlay.hotkey_d": {
+    "message": "crwdns6989:0crwdne6989:0"
+  },
+  "whiteboard_overlay.hotkey_esc": {
+    "message": "crwdns6990:0crwdne6990:0"
+  },
+  "whiteboard_overlay.tool_options_freehand": {
+    "message": "crwdns13078:0crwdne13078:0"
+  },
+  "whiteboard_overlay.size_options_thin": {
+    "message": "crwdns13079:0crwdne13079:0"
+  },
+  "whiteboard_overlay.size_options_normal": {
+    "message": "crwdns13080:0crwdne13080:0"
+  },
+  "whiteboard_overlay.size_options_thick": {
+    "message": "crwdns13081:0crwdne13081:0"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "menu.language": {
+    "message": "言語を変更する"
+  },
+  "menu.calibrate": {
+    "message": "較正"
+  },
+  "menu.account": {
+    "message": "アカウント"
+  },
+  "menu.help": {
+    "message": "ヘルプ"
+  },
+  "menu.signin": {
+    "message": "ログインする:"
+  },
+  "menu.logout": {
+    "message": "サインアウト"
+  },
+  "menu.about": {
+    "message": "概要"
+  },
+  "menu.source": {
+    "message": "ソース"
+  },
+  "menu.filter": {
+    "message": "フィルタ"
+  },
+  "menu.bgFilter.og": {
+    "message": "元の背景"
+  },
+  "menu.bgFilter.replace": {
+    "message": "背景置換"
+  },
+  "menu.bgFilter.remove": {
+    "message": "背景除去"
+  },
+  "menu.bgImage": {
+    "message": "背景画像"
+  },
+  "menu.bgBlur": {
+    "message": "背景ぼかし"
+  },
+  "menu.filterMenu.automatic": {
+    "message": "自動"
+  },
+  "menu.filterMenu.accel": {
+    "message": "ハードウェアアクセラレーション"
+  },
+  "menu.filterMenu.quality": {
+    "message": "クォリティコントロール"
+  },
+  "menu.filterMenu.quality.low": {
+    "message": "低"
+  },
+  "menu.filterMenu.quality.med": {
+    "message": "スタンダード"
+  },
+  "menu.filterMenu.quality.high": {
+    "message": "高"
+  },
+  "menu.filterMenu.addtl": {
+    "message": "その他のオプション"
+  },
+  "menu.filterMenu.addtl.chair": {
+    "message": "椅子除去"
+  },
+  "menu.browse.local": {
+    "message": "ローカルのファイルを参照する"
+  },
+  "menu.browse.online": {
+    "message": "オンラインウェブページ"
+  },
+  "calibrate.title": {
+    "message": "XSplit VCamを較正する"
+  },
+  "calibrate.subtitle": {
+    "message": "XSplit VCamを較正する事で、あなたの環境とカメラを参考にパフォーマンスを向上させます。"
+  },
+  "calibrate.source": {
+    "message": "カメラソースを選択する:"
+  },
+  "calibrate.vidConsent": {
+    "message": "Upload a 15s video and calibration data for improving performance"
+  },
+  "calibrate.title2": {
+    "message": "較正中..."
+  },
+  "calibrate.subtitle2": {
+    "message": "カメラの前に15秒立って、両側を向き、手を上げたり、配信中にカメラの前でやる行動を行ってください。"
+  },
+  "calibrate.title3": {
+    "message": "終了しました！"
+  },
+  "calibrate.subtitle3": {
+    "message": "XSplit VCamの準備が整いました。「XSplit VCam」をSkype、OBS、XSplit Broadcasterやその他のカメラを使用するアプリにて選択してください。"
+  },
+  "calibrate.denyConsent": {
+    "message": "Are you sure you don't want to upload your calibration data? We will ONLY use your data to improve the background removal AI, without it we cannot improve your experience."
+  },
+  "feedback.ask": {
+    "message": "このアプリを使用して、如何ですか？"
+  },
+  "feedback.rating.low": {
+    "message": "不都合をお掛けして、申し訳ありません。"
+  },
+  "feedback.rating.med": {
+    "message": "どの様に改善すればいいでしょうか？"
+  },
+  "feedback.rating.high": {
+    "message": "5つ星評価、ありがとうございます！"
+  },
+  "feedback.vidConsent": {
+    "message": "サンプル動画を録画をさせてください"
+  },
+  "feedback.question": {
+    "message": "他にも向上できる機能などございますか？追加してほしい機能はありますか？"
+  },
+  "feedback.comments": {
+    "message": "コメントは必須ではありません"
+  },
+  "feedback.thanks": {
+    "message": "フィードバックありがとうございます！"
+  },
+  "feedback.assurance": {
+    "message": "更に使用経験を向上させる為、努力しております。"
+  },
+  "purchase.buy": {
+    "message": "今すぐ購入する!"
+  },
+  "window.continue": {
+    "message": "続行"
+  },
+  "window.close": {
+    "message": "閉じる"
+  },
+  "window.cancel": {
+    "message": "キャンセル"
+  },
+  "window.redo": {
+    "message": "やり直し"
+  },
+  "window.submit": {
+    "message": "送信"
+  }
+}

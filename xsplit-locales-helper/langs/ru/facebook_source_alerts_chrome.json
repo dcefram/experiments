@@ -1,0 +1,107 @@
+{
+  "facebook.source_alert.tabheader": {
+    "message": "оповещение"
+  },
+  "facebook.source_alert.source": {
+    "message": "Источник"
+  },
+  "facebook.source_alert.account": {
+    "message": "Учетная запись"
+  },
+  "facebook.source_alert.authorize": {
+    "message": "Разрешить XSplit использовать Facebook"
+  },
+  "facebook.source_alert.remove_authorization": {
+    "message": "**%api%** Отозвать авторизацию"
+  },
+  "facebook.source_alert.switch_account": {
+    "message": "**%api%** Сменить учетную запись"
+  },
+  "facebook.source_alert.not_connected": {
+    "message": "Оповещения будут появляться автоматически, как только трансляция станет активна"
+  },
+  "facebook.source_alert.connected": {
+    "message": "Подключен"
+  },
+  "facebook.source_alert.connect": {
+    "message": "Подключение"
+  },
+  "facebook.source_alert.disconnect": {
+    "message": "Отсоединить"
+  },
+  "facebook.source_alert.error_auth": {
+    "message": "Пожалуйста, попробуйте авторизоваться ещё раз и предоставить доступ для всех разрешений, необходимых для успешного функционирования XSplit"
+  },
+  "facebook.source_alert.not_seeing_videos": {
+    "message": "Не видите своё онлайн видео?"
+  },
+  "facebook.source_alert.not_seeing_videos_help": {
+    "message": "У нас может не быть разрешения на доступ к некоторым онлайн видео с вашей страницы."
+  },
+  "facebook.source_alert.not_seeing_videos_link": {
+    "message": "Нажмите сюда, чтобы авторизоваться повторно"
+  },
+  "facebook.source_alert.hide_connection_message": {
+    "message": "Скрыть сообщения о процессе соединения"
+  },
+  "facebook.source_alert.alertLabel": {
+    "message": "Оповещение"
+  },
+  "facebook.source_alert.animation_text": {
+    "message": "Анимация"
+  },
+  "facebook.source_alert.duration": {
+    "message": "Длительность"
+  },
+  "facebook.source_alert.delay": {
+    "message": "Время показа"
+  },
+  "facebook.source_alert.animateIn": {
+    "message": "Добавить анимацию"
+  },
+  "facebook.source_alert.animateOut": {
+    "message": "Убрать анимацию"
+  },
+  "facebook.source_alert.audio": {
+    "message": "Аудио"
+  },
+  "facebook.source_alert.generalHeader": {
+    "message": "Общие"
+  },
+  "facebook.source_alert.customizeHeader": {
+    "message": "Настроить"
+  },
+  "facebook.source_alert.theme": {
+    "message": "Тема"
+  },
+  "facebook.source_alert.minStars": {
+    "message": "Минимум звёзд"
+  },
+  "facebook.source_alert.type": {
+    "message": "По типу"
+  },
+  "facebook.source_alert.nameStyleAndSettings": {
+    "message": "Задайте имя стилю и настройке"
+  },
+  "facebook.source_alert.sound": {
+    "message": "Звук"
+  },
+  "facebook.source_alert.show_alert": {
+    "message": "Предварительный просмотр"
+  },
+  "facebook.source_alert.hide_alert": {
+    "message": "Скрыть предварительный просмотр"
+  },
+  "facebook.source_alert.test_alert": {
+    "message": "Тестовое оповещение"
+  },
+  "facebook.source_alert.Color": {
+    "message": "Цвет"
+  },
+  "facebook.source_alert.layout": {
+    "message": "Макет"
+  },
+  "facebook.source_alert.shareNote": {
+    "message": "Работает только при совместном использовании"
+  }
+}

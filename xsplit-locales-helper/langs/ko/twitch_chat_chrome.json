@@ -1,0 +1,155 @@
+{
+	"twitch.chat.tabheader": {
+		"message": "채팅"
+	},
+	"twitch.chat.source": {
+		"message": "소스"
+	},
+	"twitch.chat.account": {
+		"message": "계정"
+	},
+	"twitch.chat.authorize": {
+		"message": "트위치 에게 XSplit 인증 권한을 부여합니다."
+	},
+	"twitch.chat.remove_authorization": {
+		"message": "**%api%** 권한 제거"
+	},
+	"twitch.chat.switch_account": {
+		"message": "**%api%** 계정 변경"
+	},
+	"twitch.chat.not_connected": {
+		"message": "연결 안됨"
+	},
+	"twitch.chat.connected": {
+		"message": "연결됨"
+	},
+	"twitch.chat.connect": {
+		"message": "연결"
+	},
+	"twitch.chat.disconnect": {
+		"message": "연결 끊기"
+	},
+	"twitch.chat.channel": {
+		"message": "채널"
+	},
+	"twitch.chat.error_channel_not_found": {
+		"message": "유효한 채널을 제공해주세요."
+	},
+	"twitch.chat.display": {
+		"message": "디스플레이"
+	},
+	"twitch.chat.chat_box": {
+		"message": "채팅 박스"
+	},
+	"twitch.chat.opacity": {
+		"message": "투명도"
+	},
+	"twitch.chat.viewers": {
+		"message": "시청자"
+	},
+	"twitch.chat.message": {
+		"message": "메시지"
+	},
+	"twitch.chat.outline_text": {
+		"message": "테두리"
+	},
+	"twitch.chat.text_size": {
+		"message": "글자 크기"
+	},
+	"twitch.chat.hide_user_name": {
+		"message": "사용자 이름 숨기기"
+	},
+	"twitch.chat.hide_timestamp": {
+		"message": "시간 표기 숨기기"
+	},
+	"twitch.chat.hide_user_icons": {
+		"message": "사용자 아이콘 숨기기"
+	},
+	"twitch.chat.hide_on_idle": {
+		"message": "일정 시간동안 무반응시 채팅 숨기기"
+	},
+	"twitch.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"twitch.chat.animation_text": {
+		"message": "애니메이션"
+	},
+	"twitch.chat.animation_direction_text": {
+		"message": "방향"
+	},
+	"twitch.chat.animation_randomize": {
+		"message": "무작위"
+	},
+	"twitch.chat.animation_override_settings": {
+		"message": "이 설정은 수동으로 모든 디스플레이 설정을 재정의 합니다."
+	},
+	"twitch.chat.animation_duration": {
+		"message": "기간"
+	},
+	"twitch.chat.animation_set_duration": {
+		"message": "이 설정은 스크롤 애니메이션의 지속 시간을 설정합니다."
+	},
+	"twitch.chat.animation_text_size": {
+		"message": "글자 크기"
+	},
+	"twitch.chat.seconds": {
+		"message": "초"
+	},
+	"twitch.chat.animation_text_color": {
+		"message": "텍스트 색상"
+	},
+	"twitch.chat.animation_none": {
+		"message": "없음"
+	},
+	"twitch.chat.animation_scroll": {
+		"message": "스크롤"
+	},
+	"twitch.chat.animation_scroll_text": {
+		"message": "이 설정은 사용자 채팅이 화면에서 이동하도록 설정합니다.[br][br]이 설정을 표기하는 가장 좋은 방법은 소스 크기를 전체 화면으로 변경하시면 됩니다."
+	},
+	"twitch.chat.animation_direction_rightToLeft": {
+		"message": "오른쪽에서 왼쪽"
+	},
+	"twitch.chat.animation_direction_leftToRight": {
+		"message": "왼쪽에서 오른쪽"
+	},
+	"twitch.chat.animation_direction_randomize": {
+		"message": "무작위"
+	},
+	"twitch.chat.outline_none": {
+		"message": "없음"
+	},
+	"twitch.chat.outline_thin": {
+		"message": "얇음"
+	},
+	"twitch.chat.outline_thick": {
+		"message": "굵음"
+	},
+	"twitch.chat.outline_thickest": {
+		"message": "제일 굵음"
+	},
+	"twitch.chat.blocking": {
+		"message": "차단"
+	},
+	"twitch.chat.blockedlist": {
+		"message": "차단 목록"
+	},
+	"twitch.chat.block_help": {
+		"message": "특정 시청자 또는 봇 등을 차단 목록에 추가하여 채팅방에서 차단할 수 있습니다. 사용자를 차단하게 되면 더이성 채팅창에 해당 사용자의 채팅이 보이지 않게 됩니다.[br][br]이 차단 목록은 방송 채널의 차단 목록과는 연관이 없습니다. 이러하여 실제 채팅이 등록되도 방송 표기에만 안보이도록 차단을 설정할 수 있습니다."
+	},
+	"twitch.chat.blocking_name": {
+		"message": "사용자의 아이디를 입력하여 차단할 수 있습니다."
+	},
+	"twitch.chat.block_name": {
+		"message": "이름"
+	},
+	"twitch.chat.block_add": {
+		"message": "추가"
+	},
+	"twitch.chat.block_remove": {
+		"message": "제거"
+	},
+	"twitch.chat.preview": {
+		"message": "미리 보기"
+	}
+}

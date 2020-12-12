@@ -1,0 +1,26 @@
+{
+  "perSceneLighting.default": {
+    "message": "默认"
+  },
+  "perSceneLighting.manage_text": {
+    "message": "Manage the individual lighting settings here."
+  },
+  "perSceneLighting.add_scene": {
+    "message": "Add scene"
+  },
+  "perSceneLighting.devices": {
+    "message": "Devices"
+  },
+  "perSceneLighting.no_devices": {
+    "message": "No devices found"
+  },
+  "perSceneLighting.not_connected": {
+    "message": "Make sure the device is connected to power."
+  },
+  "perSceneLighting.default_tooltip": {
+    "message": "Scenes that don't have specific light configuration will use these values."
+  },
+  "perSceneLighting.default_light_settings": {
+    "message": "Use default light setting"
+  }
+}

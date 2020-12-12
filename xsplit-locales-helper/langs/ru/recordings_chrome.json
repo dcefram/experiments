@@ -1,0 +1,674 @@
+{
+	"title": {
+		"message": "XSplit вещатель - мои записи"
+	},
+	"myRecordings.back": {
+		"message": "Назад..."
+	},
+	"myRecordings.processing": {
+		"message": "Загрузка записей..."
+	},
+	"myRecordings.openWith": {
+		"message": "ОТКРЫТЬ С ПОМОЩЬЮ"
+	},
+	"myRecordings.edit": {
+		"message": "РЕДАКТИРОВАТЬ ВИДЕО"
+	},
+	"myRecordings.CONVERT_TO_MP4": {
+		"message": "КОНВЕРТИРОВАТЬ В MP4"
+	},
+	"myRecordings.REPAIR_FILE": {
+		"message": "Восстановить файл"
+	},
+	"myRecordings.FIX_MOV_FILE": {
+		"message": "ОПТИМИЗИРОВАТЬ ДЛЯ WEB"
+	},
+	"myRecordings.FIX_MOV_FILE_TOOLTIP": {
+		"message": "Эта опция уменьшает время обработки, необходимое после загрузки файла на такие сервисы видео on demand, как YouTube. По сути происходит перемешение всей информации видео файла с начала к концу с оптимизацией его под онлайн просмотр. Для более подробной технической информации нажмите кнопку [here](https://xspl.it/j5hfit)."
+	},
+	"myRecordings.openFileLocation": {
+		"message": "ОТКРЫТЬ МЕСТОПОЛОЖЕНИЕ ФАЙЛА"
+	},
+	"myRecordings.openFolderLocation": {
+		"message": "ОТКРЫТЬ МЕСТОПОЛОЖЕНИЕ ПАПКИ"
+	},
+	"myRecordings.sortBy": {
+		"message": "СОРТИРОВАТЬ ПО"
+	},
+	"myRecordings.orderBy": {
+		"message": "ПОРЯДОК СОРТИРОВКИ"
+	},
+	"myRecordings.ascending": {
+		"message": "По возрастанию"
+	},
+	"myRecordings.descending": {
+		"message": "По убыванию"
+	},
+	"myRecordings.header.name": {
+		"message": "По имени"
+	},
+	"myRecordings.header.date": {
+		"message": "По дате"
+	},
+	"myRecordings.header.type": {
+		"message": "По типу"
+	},
+	"myRecordings.header.videoLength": {
+		"message": "По длине"
+	},
+	"myRecordings.header.size": {
+		"message": "По размеру"
+	},
+	"myRecordings.details.recordedOn": {
+		"message": "Записано на"
+	},
+	"myRecordings.details.deleteRecordings": {
+		"message": "Выбранные объекты"
+	},
+	"myRecordings.details.files": {
+		"message": "объекты"
+	},
+	"myRecordings.details.selected": {
+		"message": "выбранные"
+	},
+	"myRecordings.details.total": {
+		"message": "Итого"
+	},
+	"myRecordings.details.uploading": {
+		"message": "Загрузка видео. %percent% завершена."
+	},
+	"myRecordings.details.rename": {
+		"message": "Переименовать"
+	},
+	"myRecordings.details.delete": {
+		"message": "Удалить локальное видео"
+	},
+	"myRecordings.details.editSettings": {
+		"message": "Изменить настройки"
+	},
+	"myRecordings.details.link": {
+		"message": "Ссылка"
+	},
+	"myRecordings.details.open": {
+		"message": "Перейти по ссылке"
+	},
+	"myRecordings.details.copy": {
+		"message": "Скопировать ссылку"
+	},
+	"myRecordings.details.deleteVideoFromYoutube": {
+		"message": "Удалить видео из YouTube"
+	},
+	"myRecordings.details.deleteVideoFromDailymotion": {
+		"message": "Удалить видео из Dailymotion"
+	},
+	"myRecordings.details.filename.errors.FILE_ALREADY_EXISTS": {
+		"message": "Файл с таким именем уже существует."
+	},
+	"myRecordings.details.filename.errors.INVALID_FILENAME": {
+		"message": "Неверный символ в новом имени файла"
+	},
+	"myRecordings.details.filename.hoverMessage": {
+		"message": "Щелкните правой кнопкой мыши чтобы увидеть больше опций"
+	},
+	"myRecordings.youtube.error.upload": {
+		"message": "Ошибка загрузки видео"
+	},
+	"myRecordings.youtube.error.tryAgain": {
+		"message": "Повторить?"
+	},
+	"myRecordings.youtube.error.cancel": {
+		"message": "Отменить"
+	},
+	"myRecordings.youtube.link.copy": {
+		"message": "Скопировать ссылку"
+	},
+	"myRecordings.youtube.link.open": {
+		"message": "Открыть в браузере"
+	},
+	"myRecordings.youtube.privacy.unlisted": {
+		"message": "непосчитанные"
+	},
+	"myRecordings.youtube.privacy.private": {
+		"message": "частные"
+	},
+	"myRecordings.youtube.privacy.public": {
+		"message": "общие"
+	},
+	"myRecordings.youtube.cancelUpload": {
+		"message": "Отменить загрузку?"
+	},
+	"myRecordings.location.label": {
+		"message": "МЕСТОПОЛОЖЕНИЕ"
+	},
+	"myRecordings.location.open": {
+		"message": "ОТКРЫТЬ ПАПКУ"
+	},
+	"uploadVideoDialog.dialogTitle": {
+		"message": "Загрузить на YouTube"
+	},
+	"uploadVideoDialog.edit": {
+		"message": "Редактировать настройки видео"
+	},
+	"uploadVideoDialog.title": {
+		"message": "НАЗВАНИЕ"
+	},
+	"uploadVideoDialog.description": {
+		"message": "ОПИСАНИЕ"
+	},
+	"uploadVideoDialog.category": {
+		"message": "КАТЕГОРИЯ"
+	},
+	"uploadVideoDialog.categoryValues.Autos": {
+		"message": "Транспорт и Автомобили"
+	},
+	"uploadVideoDialog.categoryValues.Comedy": {
+		"message": "Комедия"
+	},
+	"uploadVideoDialog.categoryValues.Education": {
+		"message": "Образование"
+	},
+	"uploadVideoDialog.categoryValues.Entertainment": {
+		"message": "Развлекательная программа"
+	},
+	"uploadVideoDialog.categoryValues.Film": {
+		"message": "Фильмы и Анимация"
+	},
+	"uploadVideoDialog.categoryValues.Gaming": {
+		"message": "Гейминг"
+	},
+	"uploadVideoDialog.categoryValues.Howto": {
+		"message": "Руководство и Стиль"
+	},
+	"uploadVideoDialog.categoryValues.Music": {
+		"message": "Музыка"
+	},
+	"uploadVideoDialog.categoryValues.News": {
+		"message": "Новости и Политика"
+	},
+	"uploadVideoDialog.categoryValues.Nonprofit": {
+		"message": "Некоммерческие организации и активная деятельность"
+	},
+	"uploadVideoDialog.categoryValues.People": {
+		"message": "Люди и Блоги"
+	},
+	"uploadVideoDialog.categoryValues.Pets&Animals": {
+		"message": "Различные животные"
+	},
+	"uploadVideoDialog.categoryValues.Tech": {
+		"message": "Наука и Технологии"
+	},
+	"uploadVideoDialog.categoryValues.Sports": {
+		"message": "Спорт"
+	},
+	"uploadVideoDialog.categoryValues.Travel": {
+		"message": "Поездки и Мероприятия"
+	},
+	"uploadVideoDialog.gameName": {
+		"message": "НАЗВАНИЕ ИГРЫ"
+	},
+	"uploadVideoDialog.tags.label": {
+		"message": "ТЕГИ"
+	},
+	"uploadVideoDialog.tags.tooltip": {
+		"message": "Используйте запятые для разделения тегов. Дважды щелкните тег для редактирования текста."
+	},
+	"uploadVideoDialog.privacy": {
+		"message": "КОНФИДЕНЦИАЛЬНОСТЬ"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Unlisted": {
+		"message": "Непосчитанные"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Private": {
+		"message": "Частные"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Public": {
+		"message": "Общие"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Private": {
+		"message": "Частные"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Public": {
+		"message": "Общие"
+	},
+	"uploadVideoDialog.applyClose": {
+		"message": "ПРИМЕНИТЬ И ЗАКРЫТЬ"
+	},
+	"uploadVideoDialog.uploadNow": {
+		"message": "ЗАГРУЗИТЬ СЕЙЧАС"
+	},
+	"uploadVideoDialog.title-youtube": {
+		"message": "Загрузить видео на YouTube"
+	},
+	"uploadVideoDialog.title-dailymotion": {
+		"message": "Загрузить видео на Dailymotion"
+	},
+	"uploadVideoDialog.editVideo-youtube": {
+		"message": "Изменить настройки видео YouTube"
+	},
+	"uploadVideoDialog.cancel": {
+		"message": "ОТМЕНА"
+	},
+	"uploadVideoDialog.allowEmbed": {
+		"message": "Разрешить"
+	},
+	"uploadVideoDialog.embed.label": {
+		"message": "ВСТРОИТЬ"
+	},
+	"uploadVideoDialog.processing": {
+		"message": "Обработка"
+	},
+	"uploadVideoDialog.uploadNotification": {
+		"message": "Нажав кнопку «Загрузить сейчас», вы подтверждаете, что содержимое, которое вы загружаете соответствует [Условиям использования YouTube](https://xspl.it/ox4uyd) (включая рекомендации сообщества YouTube). Убедитесь, пожалуйста, чтобы вы не нарушаете авторские права или права на неприкосновенность частной жизни."
+	},
+	"youtubeUpload.dialogTitle": {
+		"message": "Загрузить на YouTube"
+	},
+	"youtubeUpload.edit": {
+		"message": "Редактировать настройки видео"
+	},
+	"youtubeUpload.title": {
+		"message": "НАЗВАНИЕ"
+	},
+	"youtubeUpload.description": {
+		"message": "ОПИСАНИЕ"
+	},
+	"youtubeUpload.category": {
+		"message": "КАТЕГОРИЯ"
+	},
+	"youtubeUpload.categoryValues.Autos": {
+		"message": "Транспорт и Автомобили"
+	},
+	"youtubeUpload.categoryValues.Comedy": {
+		"message": "Комедия"
+	},
+	"youtubeUpload.categoryValues.Education": {
+		"message": "Образование"
+	},
+	"youtubeUpload.categoryValues.Entertainment": {
+		"message": "Развлекательная программа"
+	},
+	"youtubeUpload.categoryValues.Film": {
+		"message": "Фильмы и Анимация"
+	},
+	"youtubeUpload.categoryValues.Gaming": {
+		"message": "Гейминг"
+	},
+	"youtubeUpload.categoryValues.Howto": {
+		"message": "Руководство и Стиль"
+	},
+	"youtubeUpload.categoryValues.Music": {
+		"message": "Музыка"
+	},
+	"youtubeUpload.categoryValues.News": {
+		"message": "Новости и Политика"
+	},
+	"youtubeUpload.categoryValues.Nonprofit": {
+		"message": "Некоммерческие организации и активная деятельность"
+	},
+	"youtubeUpload.categoryValues.People": {
+		"message": "Люди и Блоги"
+	},
+	"youtubeUpload.categoryValues.Pets&Animals": {
+		"message": "Различные животные"
+	},
+	"youtubeUpload.categoryValues.Tech": {
+		"message": "Наука и Технологии"
+	},
+	"youtubeUpload.categoryValues.Sports": {
+		"message": "Спорт"
+	},
+	"youtubeUpload.categoryValues.Travel": {
+		"message": "Поездки и Мероприятия"
+	},
+	"youtubeUpload.tags.label": {
+		"message": "ТЕГИ"
+	},
+	"youtubeUpload.tags.tooltip": {
+		"message": "Используйте запятые для разделения тегов"
+	},
+	"youtubeUpload.privacy": {
+		"message": "КОНФИДЕНЦИАЛЬНОСТЬ"
+	},
+	"youtubeUpload.privacyValues.Unlisted": {
+		"message": "Непосчитанные"
+	},
+	"youtubeUpload.privacyValues.Private": {
+		"message": "Частные"
+	},
+	"youtubeUpload.privacyValues.Public": {
+		"message": "Общие"
+	},
+	"youtubeUpload.applyClose": {
+		"message": "ПРИМЕНИТЬ И ЗАКРЫТЬ"
+	},
+	"youtubeUpload.uploadNow": {
+		"message": "ЗАГРУЗИТЬ СЕЙЧАС"
+	},
+	"youtubeUpload.uploadVideo": {
+		"message": "Загрузить видео на YouTube"
+	},
+	"youtubeUpload.editVideo": {
+		"message": "Изменить настройки видео YouTube"
+	},
+	"youtubeUpload.cancel": {
+		"message": "ОТМЕНА"
+	},
+	"youtubeUpload.allowEmbed": {
+		"message": "Разрешить"
+	},
+	"youtubeUpload.embed.label": {
+		"message": "ВСТРОИТЬ"
+	},
+	"youtubeUpload.processing": {
+		"message": "Обработка"
+	},
+	"facebookShare.addMessage": {
+		"message": "Введите ваше сообщение"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "Поделиться видео на Facebook"
+	},
+	"facebookShare.via": {
+		"message": "через XSplit Broadcaster"
+	},
+	"facebookShare.privacy": {
+		"message": "Конфиденциальность"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "Общие"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "Друзья"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "Друзья друзей"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "Только я"
+	},
+	"facebookShare.shareVideo": {
+		"message": "Поделиться"
+	},
+	"facebookShare.cancel": {
+		"message": "Отменить"
+	},
+	"facebookShare.processing": {
+		"message": "Обработка"
+	},
+	"facebookShare.postAs": {
+		"message": "Разместить в"
+	},
+	"facebookShare.timeline": {
+		"message": "Ленте Facebook"
+	},
+	"facebookShare.managePage": {
+		"message": "Страницы, которыми вы управляете"
+	},
+	"twitterShare.addMessage": {
+		"message": "Введите ваше сообщение"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "Поделиться видео в Twitter"
+	},
+	"twitterShare.privacy": {
+		"message": "Конфиденциальность"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "Поделиться"
+	},
+	"twitterShare.cancel": {
+		"message": "Отменить"
+	},
+	"twitterShare.processing": {
+		"message": "Обработка"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "Введите ваше сообщение"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "Поделиться видео в Google+"
+	},
+	"googlePlusShare.via": {
+		"message": "через XSplit Broadcaster"
+	},
+	"googlePlusShare.privacy": {
+		"message": "Конфиденциальность"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "Каждый"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "Все друзья"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "Друзья друзей"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "Личные"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "Поделиться"
+	},
+	"googlePlusShare.cancel": {
+		"message": "Отменить"
+	},
+	"googlePlusShare.processing": {
+		"message": "Обработка"
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "Поделиться видео"
+	},
+	"vodShare.processing": {
+		"message": "Обработка"
+	},
+	"vodShare.addLink": {
+		"message": "Добавить ссылку"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "Настройки конфиденциальности Facebook"
+	},
+	"vodShare.gameCheckin": {
+		"message": "Регистрация игры"
+	},
+	"vodShare.gameCheckin.placeholder": {
+		"message": "Регистрация игры"
+	},
+	"vodShare.shareVideo": {
+		"message": "ПОДЕЛИТЬСЯ"
+	},
+	"vodShare.cancel": {
+		"message": "ОТМЕНА"
+	},
+	"vodShare.shareTo.1": {
+		"message": "Поделиться только на %service1%"
+	},
+	"vodShare.shareTo.2": {
+		"message": "Поделиться только на %service1% и %service2%"
+	},
+	"vodShare.shareTo.3": {
+		"message": "Поделиться только на %service1%, %service2% и %service3%"
+	},
+	"vodShare.shareTo.4": {
+		"message": "Поделиться только на %service1%, %service2%, %service3% и %service4%"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "СЧЁТЧИК СООБЩЕНИЙ TWITTER"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "Считает, сколько ещё символов можно разместить в Twitter. Вы найдёте текст синего цвета в сообщении, и именно он будет опубликован в Twitter."
+	},
+	"vodShare.gameNameWarning": {
+		"message": "Название игры не обнаружено в базе данных Player.me. По этой причине информация о ней не будет отображена в вашей публикации."
+	},
+	"vodShare.loadMore": {
+		"message": "Загрузить больше..."
+	},
+	"vodStatus.title": {
+		"message": "Поделиться статусом"
+	},
+	"vodStatus.facebook": {
+		"message": "Facebook"
+	},
+	"vodStatus.twitter": {
+		"message": "Twitter"
+	},
+	"vodStatus.playerme": {
+		"message": "Player.Me"
+	},
+	"vodStatus.gplus": {
+		"message": "Google Plus"
+	},
+	"vodStatus.posting": {
+		"message": "Размещение в %social%..."
+	},
+	"vodStatus.success": {
+		"message": "Успешно размещено в %social%.[br][%message%](%url%)"
+	},
+	"vodStatus.message.facebook": {
+		"message": "Просмотреть публикацию"
+	},
+	"vodStatus.message.twitter": {
+		"message": "Просмотреть твит"
+	},
+	"vodStatus.message.playerme": {
+		"message": "Просмотреть публикацию"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "Просмотреть подробности"
+	},
+	"vodStatus.error": {
+		"message": "Не удалось выполнить публикацию в %social%."
+	},
+	"vodStatus.failed": {
+		"message": "Не удалось выполнить публикацию в %social%.[br][%message%](%url%)"
+	},
+	"vodStatus.invalid": {
+		"message": "Не удалось выполнить публикацию в %social%."
+	},
+	"vodStatus.edit": {
+		"message": "Изменить"
+	},
+	"vodStatus.retry": {
+		"message": "Повторить"
+	},
+	"dialog.ok": {
+		"message": "ЗАКРЫТЬ"
+	},
+	"myRecordings.shareupload.loading": {
+		"message": "Подключаемся к YouTube... [br]Продолжаем подключение YouTube к XSplit в вашем браузере"
+	},
+	"growl.yes": {
+		"message": "ДА"
+	},
+	"growl.no": {
+		"message": "НЕТ"
+	},
+	"growl.error": {
+		"message": "Ошибка"
+	},
+	"growl.info": {
+		"message": "Информация"
+	},
+	"growl.warning": {
+		"message": "Предупреждение"
+	},
+	"growl.question": {
+		"message": "Вопрос"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.title": {
+		"message": "Ошибка подтверждения",
+		"type": "error"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.message": {
+		"message": " Имя файла который вы ввели является ограниченным в использовании словом и не допускается. Слова, ограниченные в использовании Windows, нельзя использовать для имен папок и файлов."
+	},
+	"growl.messages.BLANK_FILENAME.title": {
+		"message": "Ошибка подтверждения",
+		"type": "error"
+	},
+	"growl.messages.BLANK_FILENAME.message": {
+		"message": "Имя файла не может быть пустым."
+	},
+	"growl.messages.INVALID_FILENAME.title": {
+		"message": "Ошибка подтверждения",
+		"type": "error"
+	},
+	"growl.messages.INVALID_FILENAME.message": {
+		"message": "Имя файла не может содержать следующие символы:  \\ / : * ? \" < > |"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.title": {
+		"message": "Ошибка подтверждения",
+		"type": "error"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.message": {
+		"message": "Имя файла уже существует."
+	},
+	"growl.messages.TOO_LONG_FILENAME.title": {
+		"message": "Слишком длинный целевой путь",
+		"type": "error"
+	},
+	"growl.messages.TOO_LONG_FILENAME.message": {
+		"message": "Имя файла слишком длинное для папки назначения. Сократите имя файла или попробуйте использовать папку с более коротким путём."
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.title": {
+		"message": "Ошибка подтверждения",
+		"type": "error"
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.message": {
+		"message": "Возможно, файл заблокирован или используется."
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.title": {
+		"message": "Необходим видеоканал",
+		"type": "warning"
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.message": {
+		"message": "Перед тем как поделиться ссылкой на видео на странице вашей социальной сети, загрузите его на YouTube с помощью специальной кнопки."
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.title": {
+		"message": "Не удаётся поделиться в Twitter",
+		"type": "error"
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.message": {
+		"message": "Ваше сообщение превысило максимально допустимое для Twitter количество символов. По этой причине оно не будет там размещено, но вы всё ещё можете поделиться им в Facebook."
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.title": {
+		"message": "Не удаётся поделиться в Twitter",
+		"type": "error"
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.message": {
+		"message": "Размер файла с изображением превышает максимально допустимый размер приложенного файла в Twitter (3 Мб)."
+	},
+	"myScreenshots.emptyMessage": {
+		"message": "Здесь ничего нет"
+	},
+	"myScreenshots.watchTutorial": {
+		"message": "Для того чтобы узнать больше, ознакомьтесь с этими [обучающими материалами](https://xspl.it/bc/tutorials)!"
+	},
+	"myRecordings.title": {
+		"message": "Запись"
+	},
+	"myRecordings.emptyFileLocation": {
+		"message": "Запишите вашу великолепную трансляцию, загрузите её на видео сервис и мгновенно сделайте её социальным вирусом!"
+	},
+	"imgShare.unauthorized": {
+		"message": "Прежде чем поделиться изображением, вам необходимо авторизовать по крайней мере 1 аккаунт в социальной сети, щелкнув на иконку выше."
+	},
+	"imgShare.shareImageTitle": {
+		"message": "Поделиться изображением"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "Поиск предложений..."
+	},
+	"myScreenshots.title": {
+		"message": "Скриншоты"
+	},
+	"myScreenshots.processing": {
+		"message": "Загрузка скриншотов..."
+	},
+	"myScreenshots.details.takenon": {
+		"message": "Принято"
+	},
+	"myScreenshots.emptyFileLocation": {
+		"message": "Используйте соответствующие горячие клавиши (из меню Инструменты -> Параметры -> Горячие клавиши) для захвата скриншотов и мгновенно обменивайтесь изображениями ваших сцен!"
+	}
+}

@@ -1,0 +1,234 @@
+{
+	"email": {
+		"message": "E-mail"
+	},
+	"password": {
+		"message": "Mot de passe"
+	},
+	"rememberMe": {
+		"message": "Se souvenir de moi"
+	},
+	"newXSplitUser": {
+		"message": "Nouvel utilisateur de XSplit ?"
+	},
+	"noAccount": {
+		"message": "Inscrivez-vous dès maintenant"
+	},
+	"forgotPassword": {
+		"message": "Mot de passe oublié"
+	},
+	"enterCode": {
+		"message": "Entrer le code"
+	},
+	"loginAutomatically": {
+		"message": "Me connecter automatiquement"
+	},
+	"login": {
+		"message": "Connexion"
+	},
+	"selectLanguage": {
+		"message": "Sélectionner une langue"
+	},
+	"agreement": {
+		"message": "J'ai lu et accepté les [Termes de Licence XSplit](http://xspl.it/bc/terms) et [Politique de Confidentialité](https://xspl.it/bc/privacy)."
+	},
+	"updates": {
+		"message": "Recevoir les nouveautés et offres spéciales par mail."
+	},
+	"noEmailMessage": {
+		"message": "Vous avez choisi de ne pas recevoir de mail d'actualités. Cliquez continuer pour confirmer votre choix."
+	},
+	"growl.warning": {
+		"message": "Attention"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.title": {
+		"message": "Le verrouillage des majuscules est activé",
+		"type": "warning"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.message": {
+		"message": "La touche Verr Maj peut vous amener à entrer votre mot de passe incorrectement. Veillez à la désactiver avant d'entrer votre mot de passe."
+	},
+	"registration.message": {
+		"message": "Nouvel utilisateur de XSplit ? [Politique de confidentialité](https://xspl.it/bc/privacy)"
+	},
+	"screenName.placeholder": {
+		"message": "Choisir un nom d'utilisateur"
+	},
+	"fullName.placeholder": {
+		"message": "Nom et prenom"
+	},
+	"emailInput.placeholder": {
+		"message": "E-mail"
+	},
+	"passwordInput.placeholder": {
+		"message": "Mot de passe"
+	},
+	"retypePassword.placeholder": {
+		"message": "Retaper le mot de passe"
+	},
+	"register.label": {
+		"message": "Inscrivez-vous dès maintenant"
+	},
+	"loginUsingExisting": {
+		"message": "**Déjà un utilisateur?** [Connectez-vous]() à l'aide d'un compte existant"
+	},
+	"registration.confirm.message": {
+		"message": "**Veuillez vérifier que votre adresse mail ci-dessous soit correcte et que vous ayez lu les Termes de License Xsplit ainsi que la Politique de Confidentialité avant de continuer.**"
+	},
+	"registration.confirm.continue": {
+		"message": "Continuer"
+	},
+	"registration.confirm.goBack": {
+		"message": "Retour"
+	},
+	"registration.processing": {
+		"message": "Enregistrement de votre nouveau compte..."
+	},
+	"registration.success": {
+		"message": "**Inscription réussie !**[br] [br] Un message a été envoyé à **%email%** avec des instructions sur la façon d’activer votre compte."
+	},
+	"continue.label": {
+		"message": "Continuer vers XSplit Broadcaster"
+	},
+	"screenName.hint": {
+		"message": "Le nom d'utilisateur doit comporter 4 à 50 caractères. Il sera utilisé dans le forum de support."
+	},
+	"screenName.check": {
+		"message": "Vérification de disponibilité de votre nom d'utilisateur..."
+	},
+	"screenName.unavailable": {
+		"message": "Nom d'utilisateur déjà pris. Veuillez en choisir un autre."
+	},
+	"fullName.hint": {
+		"message": "Le nom complet doit comporter 6 à 50 caractères."
+	},
+	"emailInput.hint": {
+		"message": "Une adresse e-mail valide est requise pour l’activation du compte."
+	},
+	"emailInput.notValid": {
+		"message": "L'e-mail est peut-être être déjà pris ou n'est pas valide"
+	},
+	"passwordInput.hint": {
+		"message": "Le mot de passe doit contenir 6 à 50 caractères. Veillez à désactiver votre touche VERR. MAJ, car elle peut causer la mauvaise saisie de votre mot de passe."
+	},
+	"passwordInput.notMatch": {
+		"message": "Le mot de passe et le mot de passe retapé doivent correspondre et doivent être de 6 à 50 caractères"
+	},
+	"copyright": {
+		"message": "Copyright &copy; %dates%"
+	},
+	"oem.login.optimizedFor": {
+		"message": "Optimisé pour"
+	},
+	"oem.login.bannerMessage": {
+		"message": "Licence XSplit premium %license% GRATUITE ! Sponsorisé par %oem%. Inscrivez-vous ou connectez-vous pour échanger la licence."
+	},
+	"oem.redeemed.message": {
+		"message": "Félicitations ! Votre **appareil %oem%** est livré avec une **Licence Premium %oemfreelicense%** pour utiliser l'ensemble de fonctionnalités complet de XSplit Broadcaster. La licence a été appliquée à votre compte **(%email%)**."
+	},
+	"oem.redeemed.messageNewAccount": {
+		"message": "Félicitations ! Votre **appareil %oem%** est livré avec une **Licence Premium %oemfreelicense%** pour utiliser l'ensemble de fonctionnalités complet de XSplit Broadcaster. La licence a été appliquée à votre nouveau compte XSplit **(%email%)**."
+	},
+	"oem.redeemed.letsGetStarted": {
+		"message": "OK, c'est parti"
+	},
+	"oem.redeem.emailSentMessage": {
+		"message": "Un e-mail vous a été envoyé avec des instructions sur la façon d’activer votre compte."
+	},
+	"oem.redeemed.newFail": {
+		"message": "Félicitations ! L'inscription a réussi. Un e-mail vous a été envoyé avec des instructions sur l'activation de votre compte. Veuillez valider votre compte dans les 24 heures."
+	},
+	"oem.redeemed.redeemError": {
+		"message": "Une erreur est survenue lors de l'obtention de la licence. Essayez de l'obtenir à nouveau en redémarrant XSplit Broadcaster, ou contactez **license@xsplit.com** si l'erreur persiste."
+	},
+	"REFURBISHED_REDEMPTION_NOT_ALLOWED_FOR_SAME_XSPLIT_ACCOUNT": {
+		"message": "Une erreur est survenue lors de la récupération de la licence. Essayez de récupérer la licence à nouveau en redémarrant XSplit Broadcaster et en utilisant un autre compte XSplit. Si l'erreur persiste, veuillez contacter **license@xsplit.com**."
+	},
+	"cannot_apply_with_recurring": {
+		"message": "Erreur : la licence du code cadeau ne peut être appliquée alors qu'une licence avec récurrence est active."
+	},
+	"oem.login.letsGetStarted": {
+		"message": "OK, c'est parti"
+	},
+	"oem.login.continueToXBC": {
+		"message": "Continuer vers XSplit Broadcaster"
+	},
+	"carousel.slide1.header": {
+		"message": "Logiciel de diffusion en direct et d'enregistrement simple mais puissant"
+	},
+	"carousel.slide1.content": {
+		"message": "XSplit Broadcaster est une application de mixage audio/vidéo révolutionnaire qui permet à n'importe qui de créer des diffusions en direct et des enregistrements vidéo de qualité professionnelle en utilisant une interface simple et intuitive que n'importe qui peut maîtriser."
+	},
+	"carousel.slide2.header": {
+		"message": "Intégrations et plugins personnalisés"
+	},
+	"carousel.slide2.content": {
+		"message": "XSplit Broadcaster propose des tonnes de personnalisations grâce à notre boutique de plugins, pour personnaliser encore davantage votre diffusion avec des alertes de dons, des demandes de musique et bien plus. Vous pouvez même développer les vôtres ! Les possibilités sont illimitées."
+	},
+	"carousel.slide3.header": {
+		"message": "Modifier et télécharger des enregistrements"
+	},
+	"carousel.slide3.content": {
+		"message": "XSplit Broadcaster permet de trier et gérer facilement n'importe quelle vidéo de jeu enregistrée. Vous pouvez même assembler et modifier vos captures ensemble avec l'éditeur intégré. Quand vous avez terminé, téléchargez simplement vos vidéos directement sur YouTube et partagez-les sur vos réseaux sociaux préférés, le tout sans quitter l'application."
+	},
+	"carousel.slide4.header": {
+		"message": "Prise en charge native pour toutes les cartes de capture populaires"
+	},
+	"carousel.slide4.content": {
+		"message": "XSplit Broadcaster a été optimisé pour prendre en charge la plus grande diversité de marques de cartes d'acquisition à ce jour. - [liste de cartes de capture prises en charge sur la page produit](https://xspl.it/bc/capture_card_list)"
+	},
+	"carousel.freeLicenseText": {
+		"message": "_Licence XSplit **GRATUITE**_"
+	},
+	"carousel.sponsor": {
+		"message": "Sponsorisé par %oem%"
+	},
+	"carousel.lucky": {
+		"message": "Félicitations! Cet appareil %oem% est proposé avec une **Licence XSplit de %duration% !**"
+	},
+	"carousel.continue": {
+		"message": "Continuer"
+	},
+	"carousel.title": {
+		"message": "XSplit Broadcaster"
+	},
+	"label.default": {
+		"message": "Connexion avec %connect%"
+	},
+	"label.connect": {
+		"message": "ou connectez-vous avec"
+	},
+	"label.authorized": {
+		"message": "Autorisé en tant que"
+	},
+	"label.changeaccount": {
+		"message": "[Utiliser un compte différent](changeAccount)"
+	},
+	"label.learnMore": {
+		"message": "Nouveau dans le live streaming? [Commencez ici!](https://xspl.it/bc/tutorials)"
+	},
+	"label.otherOptions": {
+		"message": "[Plus d'options de connexion](otherOptions)"
+	},
+	"label.welcome": {
+		"message": "Bienvenue chez XSplit!"
+	},
+	"label.loggingInTo": {
+		"message": "Connexion à %service%..."
+	},
+	"label.pleaseComplete": {
+		"message": "Please complete the login process in your browser[br][br][br][Cancel](cancelLogin)[br][br][br][Having issues? Try in-app login instead](externalLogin)"
+	},
+	"label.somethingWrong": {
+		"message": "Oops, une erreur est survenue."
+	},
+	"label.retryAuth": {
+		"message": "Veuillez essayer de ré-autoriser ou choisissez un autre service pour vous identifier avec."
+	},
+	"button.back": {
+		"message": "Retour"
+	},
+	"button.retry": {
+		"message": "Réessayer"
+	}
+}

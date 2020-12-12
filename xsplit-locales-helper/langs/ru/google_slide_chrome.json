@@ -1,0 +1,41 @@
+{
+  "googleSlide.presentation": {
+    "message": "Presentation"
+  },
+  "googleSlide.go_button": {
+    "message": "Go"
+  },
+  "googleSlide.url": {
+    "message": "URL-адрес"
+  },
+  "googleSlide.enter_google_slide_link": {
+    "message": "Enter your Google Slides share link"
+  },
+  "googleSlide.remove_controls_ui": {
+    "message": "Remove Controls UI"
+  },
+  "googleSlide.connected": {
+    "message": "Подключен"
+  },
+  "googleSlide.valid_url_warning": {
+    "message": "Enter a valid Google Slides URL"
+  },
+  "googleSlide.slide_private_warning": {
+    "message": "Slide is private. Enable 'Anyone with the link can view'"
+  },
+  "googleSlide.playback": {
+    "message": "Воспроизведение"
+  },
+  "googleSlide.system_sound": {
+    "message": "Аудиосистема"
+  },
+  "googleSlide.stream_only": {
+    "message": "Stream Only (Только стрим)"
+  },
+  "googleSlide.stream_only_install": {
+    "message": "Stream Only (Установить)"
+  },
+  "googleSlide.default_speakers": {
+    "message": "Спикеры по умолчанию"
+  }
+}

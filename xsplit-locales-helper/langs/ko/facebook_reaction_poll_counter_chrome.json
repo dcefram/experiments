@@ -1,0 +1,80 @@
+{
+  "facebook.reactions.counter.tabheader": {
+    "message": "실시간 반응"
+  },
+  "facebook.reactions.counter.source": {
+    "message": "소스"
+  },
+  "facebook.reactions.counter.account": {
+    "message": "계정"
+  },
+  "facebook.reactions.counter.automatic": {
+    "message": "자동"
+  },
+  "facebook.reactions.counter.authorize": {
+    "message": "페이스북 라이브에 엑스플릿 권한 부여"
+  },
+  "facebook.reactions.counter.remove_authorization": {
+    "message": "**%api%** 권한 제거"
+  },
+  "facebook.reactions.counter.switch_account": {
+    "message": "**%api%** 계정 변경"
+  },
+  "facebook.reactions.counter.error_auth": {
+    "message": "권한 승인을 다시 시도해보시고 엑스플릿이 필요한 권한에 접근하도록 합니다."
+  },
+  "facebook.reactions.counter.not_connected": {
+    "message": "방송 송출중에는 반응 이모티콘이 자동으로 표기됩니다."
+  },
+  "facebook.reactions.counter.connected": {
+    "message": "연결됨"
+  },
+  "facebook.reactions.counter.display": {
+    "message": "디스플레이"
+  },
+  "facebook.reactions.counter.lock_components": {
+    "message": "구성 요소 잠금"
+  },
+  "facebook.reactions.counter.lock_components_text": {
+    "message": "이 설정을 활성화 하면 소스 위 마우스 커서 위치, 구성 요소들의 위치와 크기 조절을 잠그게 됩니다.[br][br]방송 송출이나 녹화 도중 마우스 움직임 표기를 숨길때 사용하세요."
+  },
+  "facebook.reactions.counter.type": {
+    "message": "종류"
+  },
+  "facebook.reactions.counter.show_reactions_labels": {
+    "message": "반응 과 레이블 표기"
+  },
+  "facebook.reactions.counter.reset": {
+    "message": "재설정"
+  },
+  "facebook.reactions.counter.counter_background": {
+    "message": "카운터 배경"
+  },
+  "facebook.reactions.counter.opacity": {
+    "message": "투명도"
+  },
+  "facebook.reactions.counter.counter": {
+    "message": "카운터"
+  },
+  "facebook.reactions.counter.label": {
+    "message": "레이블"
+  },
+  "facebook.reactions.counter.dropdown.type.poll": {
+    "message": "실시간 반응 설문조사"
+  },
+  "facebook.reactions.counter.dropdown.type.counter": {
+    "message": "실시간 반응 카운터"
+  },
+  "facebook.reactions.hide_connection_message": {
+    "message": "연결 상태 알림 숨기기"
+  },
+  "facebook.reactions.not_seeing_videos": {
+    "message": "송출 화면이 나오지 않나요?"
+  },
+  "facebook.reactions.not_seeing_videos_help": {
+    "message": "방송이 송출될 사용자님의 일부 페이지에는 접근할 권한이 없을 수 있습니다."
+  },
+  "facebook.reactions.not_seeing_videos_link": {
+    "message": "이곳을 클릭하여 새로 인증하세요"
+  }
+}

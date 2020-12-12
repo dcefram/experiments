@@ -1,0 +1,74 @@
+{
+  "webm_encoder.info_text": {
+    "message": "แปลงไฟล์ MOV หรือ PNG ตามลำดับเป็นรูปแบบ WebM และใช้มันเพื่อเป็นดั่งการวางตำแหน่งวีดีโอแบบโปร่งใส การใช้เอ้าพุทตั้งต้นจะเพิ่มไฟล์อัตโนมัติไปในสติงเกอร์ของคุณหรือเพิ่มโดยตรงภายใต้เมนู Transitions หรือการปรับเปลี่ยน"
+  },
+  "webm_encoder.source": {
+    "message": "ไฟล์แหล่งที่มา"
+  },
+  "webm_encoder.source_description": {
+    "message": "ไฟล์ที่ใช้งานได้คือ MOV และ PNG ตามลำดับไฟล์<br><br>สำหรับลำดับ PNG ชื่อไฟล์ควรมีตัวเลข 2 หลักหรือมากกว่าโดยเริ่มจาก 0 ยกตัวอย่างเช่น <span>image_00.png</span> หรือ <span>sequence000000.png</span>"
+  },
+  "webm_encoder.destination": {
+    "message": "ไฟล์เอาต์พุต"
+  },
+  "webm_encoder.reset_output_folder": {
+    "message": "รีเซ็ตเป็นไฟล์เอาต์พุตตั้งต้น"
+  },
+  "webm_encoder.show_advanced_settings": {
+    "message": "แสดงการตั้งค่าขั้นสูง"
+  },
+  "webm_encoder.frame_rate_settings": {
+    "message": "เฟรมเรต (fps)"
+  },
+  "webm_encoder.video_bit_rate": {
+    "message": "บิตเรตของวิดีโอ (kbps)"
+  },
+  "webm_encoder.audio_bit_rate": {
+    "message": "บิตเรตของเสียง (kbps)"
+  },
+  "webm_encoder.key_frame_interval": {
+    "message": "ช่วงคีย์เฟรม"
+  },
+  "webm_encoder.transition_point": {
+    "message": "จุดเปลี่ยน (ms)"
+  },
+  "webm_encoder.disable_audio": {
+    "message": "ปิดเสียง"
+  },
+  "webm_encoder.convert_webm": {
+    "message": "แปลงเป็น WebM"
+  },
+  "webm_encoder.close": {
+    "message": "ปิด"
+  },
+  "webm_encoder.converting": {
+    "message": "กำลังแปลง"
+  },
+  "webm_encoder.cancel": {
+    "message": "ยกเลิก"
+  },
+  "webm_encoder.checking_video": {
+    "message": "กำลังตรวจสอบวีดีโอ..."
+  },
+  "webm_encoder.ok": {
+    "message": "ตกลง"
+  },
+  "webm_encoder.title": {
+    "message": "ตัวสร้าง Stinger"
+  },
+  "webm_encoder.alert_yes": {
+    "message": "ใช่"
+  },
+  "webm_encoder.alert_no": {
+    "message": "ไม่ใช่"
+  },
+  "webm_encoder.save_as": {
+    "message": "บันทึกเป็น..."
+  },
+  "webm_encoder.try_again": {
+    "message": "ลองใหม่อีกครั้ง"
+  },
+  "webm_encoder.dll_permission": {
+    "message": "ต้องการสิทธิ์เข้าถึง Dll โปรดไปที่ <span id='goToPermissions'>Permissions/การอนุญาต</span> และมอบสิทธิ์สำหรับส่วนเสริมนี้เพื่อดำเนินการต่อไป"
+  }
+}

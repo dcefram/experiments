@@ -1,0 +1,83 @@
+{
+	"button.ok": {
+		"message": "ตกลง"
+	},
+	"button.cancel": {
+		"message": "ยกเลิก"
+	},
+	"button.browse": {
+		"message": "เรียกดู..."
+	},
+	"resolution.width": {
+		"message": "ความกว้าง"
+	},
+	"resolution.height": {
+		"message": "ความสูง"
+	},
+	"resolution.desc": {
+		"message": "รายละเอียด"
+	},
+	"framerate.fps": {
+		"message": "FPS"
+	},
+	"rtsp.webpage.header": {
+		"message": "พิมพ์ URL หรือคลิ๊กเรียกดูเพื่อที่จะเลือกไฟล์ HTML"
+	},
+	"rtsp.url": {
+		"message": "URL"
+	},
+	"rtsp.protocol.label": {
+		"message": "Protocol"
+	},
+	"rtsp.protocol2.label": {
+		"message": "PROTOCOL"
+	},
+	"rtsp.protocol.tooltip": {
+		"message": "ตั้งค่าเป็น สื่อสาร low level RTSP โปรโตคอล[br][br] ถ้าคุณพบการกระตุกหรือไม่ Sync ลองเปลี่ยนโปรโตคอลจาก TCP เป็น UDP ถ้าถูกบล็อคโดย ไฟร์วอลล์ ให้ลองใช้ Protocal HTTP"
+	},
+	"rtsp.protocoldd.values.tcp": {
+		"message": "TCP"
+	},
+	"rtsp.protocoldd.values.udp": {
+		"message": "UDP"
+	},
+	"rtsp.protocoldd.values.http": {
+		"message": "HTTP"
+	},
+	"rtsp.protocoldd.values.custom": {
+		"message": "กำหนดเอง"
+	},
+	"rtmp.url": {
+		"message": "URL"
+	},
+	"rtmp.streamName": {
+		"message": "ชื่อสตีม"
+	},
+	"rtmp.buffer": {
+		"message": "บัฟเฟอร์ (วินาที)"
+	},
+	"script_plugin.header": {
+		"message": "พิมพ์ URL หรือคลิ๊กเรียกดูเพื่อที่จะเลือกไฟล์ HTML หรือ ไฟล์ PLG"
+	},
+	"locationCaption": {
+		"message": "เลือกตำแหน่งที่จะขยายไฟล์ **%location%**"
+	},
+	"locationLabel": {
+		"message": "ตำแหน่ง"
+	},
+	"easingLabel": {
+		"message": "การทำให้สบาย"
+	},
+	"easing.none": {
+		"message": "ว่าง"
+	},
+	"easing.in": {
+		"message": "เข้า"
+	},
+	"easing.out": {
+		"message": "ออก"
+	},
+	"easing.inout": {
+		"message": "เข้า/ออก"
+	}
+}

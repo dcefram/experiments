@@ -1,0 +1,287 @@
+{
+	"socials.stream.label": {
+		"message": "Selecione a transmissão para compartilhar"
+	},
+	"socials.facebook.tab": {
+		"message": "Facebook"
+	},
+	"socials.facebook.logged": {
+		"message": "logado como **%username%**"
+	},
+	"socials.facebook.title": {
+		"message": "Compartilhar a transmissão via Facebook"
+	},
+	"socials.facebook.messagePlaceholder": {
+		"message": "Digite sua mensagem aqui"
+	},
+	"socials.facebook.privacy.label": {
+		"message": "Privacidade"
+	},
+	"socials.facebook.privacy.values.EVERYONE": {
+		"message": "Público"
+	},
+	"socials.facebook.privacy.values.ALL_FRIENDS": {
+		"message": "Amigos"
+	},
+	"socials.facebook.privacy.values.FRIENDS_OF_FRIENDS": {
+		"message": "Amigos de Amigos"
+	},
+	"socials.facebook.privacy.values.SELF": {
+		"message": "Apenas Eu"
+	},
+	"socials.facebook.share": {
+		"message": "Compartilhar"
+	},
+	"socials.facebook.cancel": {
+		"message": "Cancelar"
+	},
+	"socials.facebook.authenticate": {
+		"message": "Autorizar publicações no Facebook"
+	},
+	"socials.facebook.unauthenticated": {
+		"message": "You need to log in to share your broadcast to Facebook."
+	},
+	"socials.twitter.tab": {
+		"message": "Twitter"
+	},
+	"socials.twitter.logged": {
+		"message": "logado como **%username%**"
+	},
+	"socials.twitter.title": {
+		"message": "Compartilhar a transmissão via Twitter"
+	},
+	"socials.twitter.messagePlaceholder": {
+		"message": "Digite sua mensagem aqui"
+	},
+	"socials.twitter.tweet": {
+		"message": "Compartilhar"
+	},
+	"socials.twitter.cancel": {
+		"message": "Cancelar"
+	},
+	"socials.twitter.authenticate": {
+		"message": "Autorizar publicações no Twitter"
+	},
+	"socials.twitter.unauthenticated": {
+		"message": "You need to log in to share your broadcast to Twitter."
+	},
+	"socials.google.tab": {
+		"message": "Google+"
+	},
+	"socials.google.logged": {
+		"message": "logado como **%username%**"
+	},
+	"socials.google.title": {
+		"message": "Compartilhar a transmissão via Google+"
+	},
+	"socials.google.share": {
+		"message": "Compartilhar"
+	},
+	"socials.google.cancel": {
+		"message": "Cancelar"
+	},
+	"socials.google.authenticate": {
+		"message": "Autorizar a publicação no Google +"
+	},
+	"socials.google.unauthenticated": {
+		"message": "You need to log in to share your broadcast to Google+."
+	},
+	"socials.processing": {
+		"message": "Processando"
+	},
+	"facebookShare.addMessage": {
+		"message": "Digite sua mensagem aqui"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "Compartilhar Vídeo no Facebook"
+	},
+	"facebookShare.via": {
+		"message": "através do XSplit Broadcaster"
+	},
+	"facebookShare.privacy": {
+		"message": "Privacidade"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "Público"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "Amigos"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "Amigos de Amigos"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "Apenas Eu"
+	},
+	"facebookShare.shareVideo": {
+		"message": "COMPARTILHAR"
+	},
+	"facebookShare.cancel": {
+		"message": "CANCELAR"
+	},
+	"facebookShare.processing": {
+		"message": "Processando"
+	},
+	"facebookShare.postAs": {
+		"message": "Postar para"
+	},
+	"facebookShare.timeline": {
+		"message": "Linha do tempo do Facebook"
+	},
+	"facebookShare.managePage": {
+		"message": "Páginas que você gerencia"
+	},
+	"twitterShare.addMessage": {
+		"message": "Digite sua mensagem aqui"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "Compartilhar Vídeo no Twitter"
+	},
+	"twitterShare.privacy": {
+		"message": "Privacidade"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "COMPARTILHAR"
+	},
+	"twitterShare.cancel": {
+		"message": "CANCELAR"
+	},
+	"twitterShare.processing": {
+		"message": "Processando"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "Digite sua mensagem aqui"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "Compartilhar Vídeo no Google+"
+	},
+	"googlePlusShare.via": {
+		"message": "através do XSplit Broadcaster"
+	},
+	"googlePlusShare.privacy": {
+		"message": "Privacidade"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "Todos"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "Todos os amigos"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "Amigos de Amigos"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "Eu"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "COMPARTILHAR"
+	},
+	"googlePlusShare.cancel": {
+		"message": "CANCELAR"
+	},
+	"googlePlusShare.processing": {
+		"message": "Processando"
+	},
+	"vodShare.unauthorized": {
+		"message": "Antes de poder compartilhar a sua transmissão você tem que autorizar pelo menos uma conta de rede social clicando no ícone acima."
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "Compartilhar transmissão"
+	},
+	"vodShare.processing": {
+		"message": "Processando"
+	},
+	"vodShare.addLink": {
+		"message": "Adicionar link de transmissão"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "Configuração de privacidade"
+	},
+	"vodShare.gameCheckin": {
+		"message": "Acessar Jogo"
+	},
+	"vodShare.shareVideo": {
+		"message": "COMPARTILHAR"
+	},
+	"vodShare.cancel": {
+		"message": "CANCELAR"
+	},
+	"vodShare.shareTo.1": {
+		"message": "Compartilhar somente para %service1%"
+	},
+	"vodShare.shareTo.2": {
+		"message": "Compartilhar para %service1% e %service2%"
+	},
+	"vodShare.shareTo.3": {
+		"message": "Compartilhar para %service1%, %service2% e %service3%"
+	},
+	"vodShare.shareTo.4": {
+		"message": "Compartilhar para %service1%, %service2%, %service3% e %service4%"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "CONTADOR DE MENSAGENS DO TWITTER"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "Conta os caracteres restantes que podem ser publicados no Twitter. O texto apresentado na cor azul corresponde à extensão de texto que será publicada no Twitter."
+	},
+	"vodShare.gameNameWarning": {
+		"message": "O nome do jogo não existe no banco de dados Player.me. Como resultado, não aparecerá no seu post."
+	},
+	"vodShare.loadMore": {
+		"message": "Carregar mais..."
+	},
+	"vodStatus.title": {
+		"message": "Compartilhar transmissão"
+	},
+	"vodStatus.facebook": {
+		"message": "Facebook"
+	},
+	"vodStatus.twitter": {
+		"message": "Twitter"
+	},
+	"vodStatus.playerme": {
+		"message": "Player.me"
+	},
+	"vodStatus.gplus": {
+		"message": "Google Plus"
+	},
+	"vodStatus.posting": {
+		"message": "Postando em %social%..."
+	},
+	"vodStatus.success": {
+		"message": "Postado com sucesso em %social%.[br][%message%](%url%)"
+	},
+	"vodStatus.message.facebook": {
+		"message": "Visualizar o post"
+	},
+	"vodStatus.message.twitter": {
+		"message": "Visualizar o tweet"
+	},
+	"vodStatus.message.playerme": {
+		"message": "Visualizar o post"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "Exibir detalhes"
+	},
+	"vodStatus.error": {
+		"message": "Falha ao publicar em %social%."
+	},
+	"vodStatus.failed": {
+		"message": "Falha ao postar no %social%.[br][%message%](%url%)"
+	},
+	"vodStatus.invalid": {
+		"message": "Não é possível publicar em %social%."
+	},
+	"vodStatus.edit": {
+		"message": "Editar"
+	},
+	"vodStatus.retry": {
+		"message": "Tentar novamente"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "À procura de sugestões..."
+	},
+	"dialog.ok": {
+		"message": "FECHAR"
+	}
+}

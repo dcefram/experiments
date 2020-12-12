@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="frmTwitchProps" xml:space="preserve">
+    <value>Twitch属性</value>
+  </data>
+  <data name="label5" xml:space="preserve">
+    <value>为了编辑您的频道状态您必须单击下面的"登录"按钮登录Twitch。</value>
+  </data>
+  <data name="lblStreamKey" xml:space="preserve">
+    <value>或直播密码:</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>还没有Twitch帐号吗？单击这里注册。</value>
+  </data>
+  <data name="msgCantAuthorizeDifferentUser" xml:space="preserve">
+    <value>您不能授权与不同的用户.</value>
+  </data>
+  <data name="msgAuthorizeToPost" xml:space="preserve">
+    <value>您必须授权XSplit向Twitch的频道发布直播。</value>
+  </data>
+  <data name="msgNotAuthorized" xml:space="preserve">
+    <value>您无权使用Twitch。</value>
+  </data>
+  <data name="msgStreamKeyOrPasswordEmpty" xml:space="preserve">
+    <value>密码或直播钥无效或服务器可能已关闭.请尝试重新输入您的用户信息.</value>
+  </data>
+  <data name="StreamChannelIsEmpty" xml:space="preserve">
+    <value>您的频道尚不可用或受保护的访问代码. 请确保您已正确输入您的用户信息, 您的频道不具有访问代码和在{0} 的网站正确配置您的频道.</value>
+  </data>
+  <data name="InvalidIngestLocationPrompt" xml:space="preserve">
+    <value>无法连接到首选接收服务器. 你想要继续使用默认接收服务器吗?</value>
+  </data>
+  <data name="InvalidIngestLocationTitle" xml:space="preserve">
+    <value>无效的服务器</value>
+  </data>
+  <data name="msgIngestLocationUnavailable" xml:space="preserve">
+    <value>选择接收服务器不再可用.</value>
+  </data>
+  <data name="btnNext" xml:space="preserve">
+    <value>下一個</value>
+  </data>
+  <data name="btnFinish" xml:space="preserve">
+    <value>完成</value>
+  </data>
+  <data name="msgDataRateAdjusted" xml:space="preserve">
+    <value>您的数据率调整基于带宽到 Twitch服务器测试的结果.</value>
+  </data>
+  <data name="msgBwTestSuccess" xml:space="preserve">
+    <value>您的网络连接成功通过 {0} kbps 的带宽测试.</value>
+  </data>
+  <data name="msgBwTestFailedOrCancelled" xml:space="preserve">
+    <value>未完成测试到Twitch服务器的带宽.</value>
+  </data>
+  <data name="msgNoBwTestWarning" xml:space="preserve">
+    <value>你所需的数据率尚未经过测试对你实际的上传速度. 是否继续?</value>
+  </data>
+  <data name="lblStreamKey2" xml:space="preserve">
+    <value>直播密码:</value>
+  </data>
+  <data name="msgAuthorizeDifferentUser1" xml:space="preserve">
+    <value>你有一个不同的用户授权. 你想要设置您的频道到"{0}"吗?</value>
+  </data>
+  <data name="lblHint1" xml:space="preserve">
+    <value>请输入您的Twitch用户信息.</value>
+  </data>
+  <data name="lnkSignInViaOAuth" xml:space="preserve">
+    <value>请求授权</value>
+  </data>
+  <data name="msgAuthorizeToPost1" xml:space="preserve">
+    <value>您需要授权 XSplit 来访问您的Twitch 频道.</value>
+  </data>
+  <data name="lblHint0" xml:space="preserve">
+    <value>XSplit 检测目前没有媒体频道安装在您的帐户上. 当你注册了 XSplit 时, 您的帐户是与Twitch连结的.</value>
+  </data>
+  <data name="rtbAutoIngestResult0" xml:space="preserve">
+    <value>正在确定最佳服务器...</value>
+  </data>
+  <data name="rtbAutoIngestResult" xml:space="preserve">
+    <value>试图直播到 {0} (?)</value>
+  </data>
+  <data name="lblAutoBitrateResultHighestRes" xml:space="preserve">
+    <value>推荐的直播分辨率在Twitch是从 {0} 到 {1}. 您的带宽和硬件已经过测试足以直播推荐的最高分辨率. 建议的设置是:</value>
+  </data>
+  <data name="lblAutoBitrateResultMaxRes" xml:space="preserve">
+    <value>推荐的直播分辨率在Twitch是从 {0} 到 {1}. 您的带宽和硬件已经过测试足以直播{0} 分辨率. 建议的设置是:</value>
+  </data>
+  <data name="lblAutoBitrateResultInsufficient" xml:space="preserve">
+    <value>推荐的直播分辨率在Twitch是从 {0} 到 {1}. 您 {3} 可能无法满足直播 {2}.建议的设置是:</value>
+  </data>
+  <data name="lblHint5" xml:space="preserve">
+    <value>你 Twitch通道准备好创建.
+请单击完成以继续或单击返回更改您的条目.</value>
+  </data>
+  <data name="lblHint5_Mode0" xml:space="preserve">
+    <value>你 Twitch通道即将完成.
+请单击完成以继续或单击返回更改您的条目.</value>
+  </data>
+  <data name="chkRecordStream" xml:space="preserve">
+    <value>自动保存广播视频</value>
+  </data>
+  <data name="PasswordOrStreamKeyMustBeSpecified" xml:space="preserve">
+    <value>必须填写密码或直播密码.</value>
+  </data>
+  <data name="StreamKeyMustBeSpecified" xml:space="preserve">
+    <value>必须指定直播密码.</value>
+  </data>
+  <data name="StreamChannelIsEmpty2" xml:space="preserve">
+    <value>不可用或,受访问代码保护. 改用直播密码.</value>
+  </data>
+  <data name="InvalidChannelCredentials" xml:space="preserve">
+    <value>您的用户信息进行身份验证时出现问题.请检查您的用户名和密码正确,您的频道不是被访问代码保护,和Twitch连接正常.</value>
+  </data>
+  <data name="InvalidChannelCredentials2" xml:space="preserve">
+    <value>验证您的帐户时出现问题. 请检查您的帐户是否正确授权和您连接到Twitch没有问题.</value>
+  </data>
+  <data name="UsernameIsUnknown" xml:space="preserve">
+    <value>您的频道尚不可用或受保护的访问代码.请确保您已正确输入您的用户信息,您的频道不具有访问代码和在Twitch的网站正确配置您的频道.</value>
+  </data>
+  <data name="neverShowAgain" xml:space="preserve">
+    <value>我不再想要链接到 Twitch.</value>
+  </data>
+  <data name="msgApiLimitExceeded" xml:space="preserve">
+    <value>超过了 API 的请求限制. 请稍后再试.</value>
+  </data>
+  <data name="lblHint01" xml:space="preserve">
+    <value>此向导将帮助您设置您的 Twitch通道.</value>
+  </data>
+  <data name="rtbTip" xml:space="preserve">
+    <value>{0} 可能不足够选择分辨率.</value>
+  </data>
+  <data name="rtbTip_ReqUpload" xml:space="preserve">
+    <value>所需的带宽 (?)</value>
+  </data>
+  <data name="rtbTip_ReqHw" xml:space="preserve">
+    <value>推荐使用的硬件 (?)</value>
+  </data>
+  <data name="rtbTip_ReqUploadAndHw" xml:space="preserve">
+    <value>所需的带宽 (?) 和推荐使用的硬件 (?)</value>
+  </data>
+  <data name="rtbAutoBitrateResult" xml:space="preserve">
+    <value>能够到目标服务器的吞吐量是 {0} kbps (?)</value>
+  </data>
+  <data name="lblLegendText" xml:space="preserve">
+    <value>推荐设置</value>
+  </data>
+  <data name="linktip_upload" xml:space="preserve">
+    <value>观众感兴趣的是通顺和优质的视频.
+大多数观众宁愿看到好的 {0},
+而不是延长和滞后的 {1} 直播.</value>
+  </data>
+  <data name="linktip_hardware" xml:space="preserve">
+    <value>如果你正在玩一个游戏设备
+或通过捕获卡连接另一台计算机
+那么尽情尝试吧 :-)</value>
+  </data>
+  <data name="linktip_ingest" xml:space="preserve">
+    <value>由 Twitch 提供的可用目标服务器,
+此服务器是目前最佳的响应时间.
+服务器可能会有所不同取决于路由,  线路问题, 
+一天的时间和发生在互联网上其他外部因素</value>
+  </data>
+  <data name="linktip_datarate_under" xml:space="preserve">
+    <value>您的计算机和目标服务器之间的
+带宽是 {0} kbps 
+是充足的为 {1}.</value>
+  </data>
+  <data name="linktip_datarate_under1" xml:space="preserve">
+    <value>您的计算机和目标服务器之间的
+带宽是 {0} kbps
+可能未必足够为 {1}.</value>
+  </data>
+  <data name="linktip_datarate_over" xml:space="preserve">
+    <value>您的计算机和目标服务器
+之间的带宽高于是 {0} kbps 的
+推荐 {1} 的比特率的最大的能力.</value>
+  </data>
+  <data name="linktip_datarate" xml:space="preserve">
+    <value>您的计算机和目标服务器
+之间的带宽是 {0} kbps 的
+推荐 {1} 的比特率的最大的能力.</value>
+  </data>
+  <data name="AutoIngestName" xml:space="preserve">
+    <value>自动</value>
+  </data>
+  <data name="lblAutoBitrateResult" xml:space="preserve">
+    <value>基于下面的选择, 该向导将预配置您的通道设置以匹配所需的分辨率. 你推荐的分辨率是:</value>
+  </data>
+  <data name="StreamPopup_AutoIngestStatus" xml:space="preserve">
+    <value>确定直播目标服务器</value>
+  </data>
+  <data name="StreamPopup_AutoIngestStatus1" xml:space="preserve">
+    <value>目标服务器发现: {0}</value>
+  </data>
+  <data name="StreamPopup_AutoIngestStatus2" xml:space="preserve">
+    <value>建议的直播目标服务器:</value>
+  </data>
+  <data name="msgSetToAutomatic" xml:space="preserve">
+    <value>选择接收位置需要设置为自动服务器. 你想要设置吗?</value>
+  </data>
+  <data name="msgApiError" xml:space="preserve">
+    <value>{0} 请稍后再试.</value>
+  </data>
+  <data name="PasswordMustBeSpecified" xml:space="preserve">
+    <value>请指定密码。</value>
+  </data>
+  <data name="chkConfirmAutoIngestOnBroadcast" xml:space="preserve">
+    <value>确认接收服务器在播放之前</value>
+  </data>
+  <data name="lblNote" xml:space="preserve">
+    <value>注: 某些编码的设置可能会禁用与Twitch的兼容性.</value>
+  </data>
+  <data name="msgLicenseOffer_AAC" xml:space="preserve">
+    <value>启动高质量 AAC 音频仅提供给 XSplit 证书用户.
+
+现在升级您的证书吗?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="lnkVbrWarning" xml:space="preserve">
+    <value>您当前的设置不匹配Twitch推荐设置. 更多细节.</value>
+  </data>
+  <data name="msgBroadcastTerminated" xml:space="preserve">
+    <value>您的 {0} 广播被终止了.
+请检查您用户信息, 如你的直播密码, 并确认这些正确单击"{1}"按钮.</value>
+  </data>
+  <data name="msgConfirmMixerResFpsAdjustment" xml:space="preserve">
+    <value>混频器现在将被设置为 {0}. 申请吗?</value>
+  </data>
+  <data name="lblAuth" xml:space="preserve">
+    <value>凭据:</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="rbAuthToken" xml:space="preserve">
+    <value>Web 身份验证 (推荐)</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="rbAuthStreamKey" xml:space="preserve">
+    <value>直播密码:</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="lblUsername2" xml:space="preserve">
+    <value>帐户:</value>
+    <comment>Properties; Wizard</comment>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>授权XSplit使用 {0}</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>删除授权</value>
+  </data>
+  <data name="lblSwitchAccount" xml:space="preserve">
+    <value>更换账号</value>
+  </data>
+  <data name="msgSwitchToStreamKeyAuthWarning" xml:space="preserve">
+    <value>选择此选项将取消授权当前帐户.</value>
+  </data>
+  <data name="msg403OnGetChannel" xml:space="preserve">
+    <value>您的Twitch帐户需要启用双因素身份验证才能开始直播。 [了解更多]（https://xspl.it/bc/twitch2fa）</value>
+  </data>
+  <data name="btnSetup2FA" xml:space="preserve">
+    <value>设置 2FA</value>
+  </data>
+  <data name="lblStreamName2" xml:space="preserve">
+    <value>直播密码:</value>
+  </data>
+</root>

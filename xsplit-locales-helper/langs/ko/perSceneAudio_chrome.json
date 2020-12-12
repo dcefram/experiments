@@ -1,0 +1,29 @@
+{
+  "perSceneAudio.header_text": {
+    "message": "장면당 오디오 관리를 하려면, 아래 목록에 장면을 추가하세요. 밝게 표시된 장면은 현재 활성화 되어있는 장면입니다."
+  },
+  "perSceneAudio.sync_volume": {
+    "message": "모든 장면 오디오 레벨을 일정하게"
+  },
+  "perSceneAudio.scene_crossfade": {
+    "message": "장면 전환시 크로스페이드 활성화"
+  },
+  "perSceneAudio.scene_crossfade_tooltip": {
+    "message": "다른 장면으로 전환하면 현재 장면과 다음 장면의 오디오를 더 자연스럽게 전환시킵니다."
+  },
+  "perSceneAudio.scene_selector_default": {
+    "message": "- 장면 선택 -"
+  },
+  "perSceneAudio.default": {
+    "message": "기본값"
+  },
+  "perSceneAudio.default_tooltip_header": {
+    "message": "기본 장면 오디오"
+  },
+  "perSceneAudio.default_tooltip": {
+    "message": "특정 오디오 조절이 필요없는 장면은 이 설정이 적용됩니다."
+  },
+  "perSceneAudio.add_button": {
+    "message": "추가"
+  }
+}

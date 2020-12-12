@@ -1,0 +1,101 @@
+{
+  "facebook.chat.tabheader": {
+    "message": "แชท"
+  },
+  "facebook.chat.source": {
+    "message": "ซอส"
+  },
+  "facebook.chat.account": {
+    "message": "บัญชี"
+  },
+  "facebook.chat.automatic": {
+    "message": "อัตโนมัติ"
+  },
+  "facebook.chat.authorize": {
+    "message": "อนุญาตให้ XSplit ใช้งาน Facebook Live"
+  },
+  "facebook.chat.remove_authorization": {
+    "message": "**%api%** ถอนการอนุญาต"
+  },
+  "facebook.chat.switch_account": {
+    "message": "**%api%** สลับบัญชี"
+  },
+  "facebook.chat.error_auth": {
+    "message": "โปรดลองอนุญาตให้ใช้ใหม่อีกครั้งและเพิ่มการเข้าถึงสิทธิ์การใช้งานที่ XSplit ต้องใช้สำหรับฟังก์ชั่นนี้"
+  },
+  "facebook.chat.not_connected": {
+    "message": "คอมเม้นต์จะถูกโหลดโดยอัตโนมัติเมือสตรีมไลฟ์แล้ว"
+  },
+  "facebook.chat.connected": {
+    "message": "เชื่อมต่อแล้ว"
+  },
+  "facebook.chat.display": {
+    "message": "แสดงผล"
+  },
+  "facebook.chat.preview": {
+    "message": "ตัวอย่าง"
+  },
+  "facebook.chat.chatbox": {
+    "message": "ช่องแชท"
+  },
+  "facebook.chat.opacity": {
+    "message": "ความทึบแสง"
+  },
+  "facebook.chat.viewers": {
+    "message": "ผู้ชม"
+  },
+  "facebook.chat.message": {
+    "message": "ข้อความ"
+  },
+  "facebook.chat.text_size": {
+    "message": "ขนาดข้อความ"
+  },
+  "facebook.chat.text_direction": {
+    "message": "ทิศทางของข้อความ"
+  },
+  "facebook.chat.hide_user_icons": {
+    "message": "ซ่อนไอค่อนผู้ใช้"
+  },
+  "facebook.chat.one_line_entries": {
+    "message": "รายการบรรทัดเดียว"
+  },
+  "facebook.chat.hide_timestamps": {
+    "message": "ซ่อนเวลา"
+  },
+  "facebook.chat.hide_chat_when_idle": {
+    "message": "ซ่อนแชทเมื่อปล่อยว่างเป็นเวลา"
+  },
+  "facebook.chat.blocking": {
+    "message": "บล็อค"
+  },
+  "facebook.chat.blockedlist": {
+    "message": "รายชื่อที่ถูกบล็อค"
+  },
+  "facebook.chat.block_help": {
+    "message": "คุณสามารถบล็อคผู้ชมได้โดยเพิ่มชื่อหรือชื่อผู้ใช้ (รวมทั้งบอท ถ้าต้องการ) ในช่องรายชื่อที่ถูกบล็อค โดยข้อความของพวกเขาจะไม่ปรากฏในช่องแชท[br][br]รายชื่อการบล็อคนี้จะไม่เชื่อโยงกับการบล็อคแชนแนลของคุณ รายชื่อนี้จะทำงานจากซอสของแชทนี้เท่านััน"
+  },
+  "facebook.chat.blocking_name": {
+    "message": "ป้อนชื่อ หรือชื่อผู้ใช้ ผู้ชมที่คุณต้องการจะบล็อค"
+  },
+  "facebook.chat.block_name": {
+    "message": "ชื่อ"
+  },
+  "facebook.chat.block_add": {
+    "message": "เพิ่มเติม"
+  },
+  "facebook.chat.block_remove": {
+    "message": "เอาออก"
+  },
+  "facebook.chat.hide_connection_message": {
+    "message": "ซ่อนข้อความการเชื่อมต่อ"
+  },
+  "facebook.chat.not_seeing_videos": {
+    "message": "ไม่เห็นภาพการไลฟ์ของคุณเหรอ?"
+  },
+  "facebook.chat.not_seeing_videos_help": {
+    "message": "เราอาจจะไม่มีสิทธิเข้าถึงหน้าเพจไลฟ์วิดีโอบางอัน"
+  },
+  "facebook.chat.not_seeing_videos_link": {
+    "message": "คลิ๊กที่นี่เพื่อทำการอนุญาตอีกครั้ง"
+  }
+}

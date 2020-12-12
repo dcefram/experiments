@@ -1,0 +1,98 @@
+{
+  "title.source": {
+    "message": "資源"
+  },
+  "subtitle.account": {
+    "message": "帳戶"
+  },
+  "link.authorize": {
+    "message": "授權XSplit使用 Facebook Live"
+  },
+  "subtitle2.authorize.error": {
+    "message": "請再次嘗試授權, 並授予 XSplit 對此功能所需的所有權限的訪問權限"
+  },
+  "subtitle.connect": {
+    "message": "發布 URL"
+  },
+  "chat.disconnected": {
+    "message": "未連接"
+  },
+  "chat.connected": {
+    "message": "連接"
+  },
+  "help.post.title": {
+    "message": "發布 URL"
+  },
+  "help.post.text": {
+    "message": "允許url 是公開的， 你管理的信息 (視頻, 圖像等) 在您的時間線, 或圖片和視頻的網頁。"
+  },
+  "chat.connect": {
+    "message": "連接"
+  },
+  "chat.disconnect": {
+    "message": "斷開連接"
+  },
+  "subtitle2.connect.error": {
+    "message": "請提供有效的視頻或 URL。"
+  },
+  "title.display": {
+    "message": "顯示"
+  },
+  "label.lock": {
+    "message": "鎖定組件"
+  },
+  "help.lock.title": {
+    "message": "鎖定組件"
+  },
+  "help.lock.text": {
+    "message": "選中此選項將禁用鼠標懸停，重新定位和調整組件大小。[br]如果您不想在組件上顯示懸停效果，請檢查此項，尤其是在流式傳輸或錄製時。"
+  },
+  "label.reactions": {
+    "message": "顯示反應和標籤"
+  },
+  "button.reset": {
+    "message": "重置"
+  },
+  "label.bg": {
+    "message": "回饋 BG"
+  },
+  "label.counter": {
+    "message": "回饋"
+  },
+  "label.label": {
+    "message": "标签"
+  },
+  "label.opacity": {
+    "message": "透明度"
+  },
+  "label.hide_connection_message": {
+    "message": "隱藏連接消息"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** 切換帳戶"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** 刪除授權"
+  },
+  "input.like": {
+    "message": "贊"
+  },
+  "input.love": {
+    "message": "喜愛"
+  },
+  "input.haha": {
+    "message": "哈哈"
+  },
+  "input.sad": {
+    "message": "傷心"
+  },
+  "input.wow": {
+    "message": "哇"
+  },
+  "input.angry": {
+    "message": "生氣"
+  },
+  "tabheader.title": {
+    "message": "後期反應"
+  }
+}

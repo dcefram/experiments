@@ -1,0 +1,122 @@
+{
+  "textSource.tabheader_content": {
+    "message": "Contenido"
+  },
+  "textSource.tabheader_style": {
+    "message": "Styles"
+  },
+  "textSource.style_dropshadow": {
+    "message": "Drop shadow"
+  },
+  "textSource.style_dropshadow_color": {
+    "message": "Color"
+  },
+  "textSource.style_dropshadow_distance": {
+    "message": "Distancia"
+  },
+  "textSource.style_dropshadow_angle": {
+    "message": "Ángulo de"
+  },
+  "textSource.style_dropshadow_blur": {
+    "message": "Desenfoque"
+  },
+  "textSource.style_dropshadow_opacity": {
+    "message": "Opacidad"
+  },
+  "textSource.style_animation": {
+    "message": "Animación"
+  },
+  "textSource.style_animation_scroll": {
+    "message": "Desplazamiento"
+  },
+  "textSource.style_animation_fade": {
+    "message": "Desvanecer"
+  },
+  "textSource.style_animation_enable_60fps": {
+    "message": "Permite hasta 60 FPS"
+  },
+  "textSource.style_animation_fade_delimeter": {
+    "message": "Delimitador"
+  },
+  "textSource.style_animation_fade_interval": {
+    "message": "Intervalo"
+  },
+  "textSource.style_animation_scroll_direction": {
+    "message": "Dirección"
+  },
+  "textSource.style_animation_scroll_direction_rightToLeft": {
+    "message": "De derecha a izquierda"
+  },
+  "textSource.style_animation_scroll_direction_leftToRight": {
+    "message": "De izquierda a derecha"
+  },
+  "textSource.style_animation_scroll_direction_bottomToTop": {
+    "message": "De abajo hacia arriba"
+  },
+  "textSource.style_animation_scroll_direction_topToBottom": {
+    "message": "De arriba a abajo"
+  },
+  "textSource.style_animation_scroll_speed": {
+    "message": "Velocidad"
+  },
+  "textSource.style_animation_scroll_lineLimit": {
+    "message": "Línea límite"
+  },
+  "textSource.content_text": {
+    "message": "Text/BBCode"
+  },
+  "textSource.content_textFile": {
+    "message": "Text file"
+  },
+  "textSource.content_script": {
+    "message": "Script"
+  },
+  "textSource.content_script_clock": {
+    "message": "Reloj"
+  },
+  "textSource.content_script_stopwatch": {
+    "message": "Stopwatch"
+  },
+  "textSource.content_script_timer": {
+    "message": "Timer"
+  },
+  "textSource.content_script_load_url": {
+    "message": "Load text from Remote URL"
+  },
+  "textSource.content_script_rss": {
+    "message": "RSS Feed Reader"
+  },
+  "textSource.content_script_videoList": {
+    "message": "Video List"
+  },
+  "textSource.content_script_custom": {
+    "message": "Script personalizado"
+  },
+  "textSource.content_header_formatting": {
+    "message": "Formatting"
+  },
+  "textSource.formatting_font": {
+    "message": "Fuente"
+  },
+  "textSource.formatting_outline": {
+    "message": "Esquema"
+  },
+  "textSource.formatting_style": {
+    "message": "Estilo"
+  },
+  "textSource.formatting_align": {
+    "message": "Alinear"
+  },
+  "textSource.formatting_sizing": {
+    "message": "Sizing"
+  },
+  "textSource.formatting_sizing_automatic": {
+    "message": "Automático"
+  },
+  "textSource.formatting_sizing_fixed": {
+    "message": "Fixed"
+  },
+  "textSource.formatting_sizing_wordWrap": {
+    "message": "Word wrap"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "facebook.alerts.tabheader": {
+    "message": "Оповещение"
+  },
+  "facebook.alerts.notification": {
+    "message": "Уведомление"
+  },
+  "facebook.alerts.status": {
+    "message": "Статус"
+  },
+  "facebook.alerts.authorize": {
+    "message": "Авторизуйте XSplit чтобы использовать Facebook Live"
+  },
+  "facebook.alerts.remove_authorization": {
+    "message": "**%api%** Удалить авторизацию"
+  },
+  "facebook.alerts.type.stars": {
+    "message": "Звёзды"
+  },
+  "facebook.alerts.type.share": {
+    "message": "Поделиться"
+  },
+  "facebook.alerts.alert_type": {
+    "message": "Тип оповещения"
+  },
+  "facebook.alerts.minimum_stars": {
+    "message": "Минимум звёзд"
+  },
+  "facebook.alerts.relogin": {
+    "message": "Зайти заново"
+  },
+  "facebook.alerts.style": {
+    "message": "Стиль"
+  },
+  "facebook.alerts.theme": {
+    "message": "Тема"
+  },
+  "facebook.alerts.layout": {
+    "message": "Макет"
+  },
+  "facebook.alerts.color": {
+    "message": "Цвет"
+  },
+  "facebook.alerts.sound": {
+    "message": "Звуковое оповещение"
+  },
+  "facebook.alerts.test_alert": {
+    "message": "Тестовое оповещение"
+  },
+  "facebook.alerts.hide_connection_message": {
+    "message": "Скрыть сообщения о процессе соединения"
+  },
+  "facebook.alerts.source": {
+    "message": "Источник"
+  },
+  "facebook.alerts.account": {
+    "message": "Учетная запись"
+  },
+  "facebook.alerts.error_auth": {
+    "message": "Пожалуйста, попробуйте авторизоваться ещё раз и предоставить доступ для всех разрешений, необходимых для успешного функционирования XSplit"
+  },
+  "facebook.alerts.not_connected": {
+    "message": "Оповещения будут появляться автоматически, как только трансляция станет активна"
+  },
+  "facebook.alerts.settings": {
+    "message": "Настройки"
+  },
+  "facebook.alerts.switch_account": {
+    "message": "**%api%** Сменить учетную запись"
+  },
+  "facebook.alerts.connected": {
+    "message": "Подключен"
+  },
+  "facebook.alerts.not_seeing_videos": {
+    "message": "Не видите своё онлайн видео?"
+  },
+  "facebook.alerts.not_seeing_videos_help": {
+    "message": "У нас может не быть разрешения на доступ к некоторым онлайн видео с вашей страницы."
+  },
+  "facebook.alerts.not_seeing_videos_link": {
+    "message": "Нажмите здесь, чтобы авторизоваться заново"
+  }
+}

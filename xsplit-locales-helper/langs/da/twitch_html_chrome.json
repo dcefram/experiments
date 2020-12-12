@@ -1,0 +1,62 @@
+{
+	"twitch.html.tabheader": {
+		"message": "Chat"
+	},
+	"twitch.html.source": {
+		"message": "Source"
+	},
+	"twitch.html.account": {
+		"message": "Account"
+	},
+	"twitch.html.preview": {
+		"message": "Preview"
+	},
+	"twitch.html.not_connected": {
+		"message": "Not Connected"
+	},
+	"twitch.html.connected": {
+		"message": "Connected"
+	},
+	"twitch.html.error_channel_not_found": {
+		"message": "Please provide a valid channel."
+	},
+	"twitch.html.display": {
+		"message": "Display"
+	},
+	"twitch.html.chat_box": {
+		"message": "Chat Box"
+	},
+	"twitch.html.opacity": {
+		"message": "Opacity"
+	},
+	"twitch.html.viewers": {
+		"message": "Viewers"
+	},
+	"twitch.html.message": {
+		"message": "Message"
+	},
+	"twitch.html.text_size": {
+		"message": "Text Size"
+	},
+	"twitch.html.hide_user_icons": {
+		"message": "Hide user icons"
+	},
+	"twitch.html.hide_timestamps": {
+		"message": "Hide timestamps"
+	},
+	"twitch.html.hide_on_idle": {
+		"message": "Hide chat when idle for"
+	},
+	"twitch.html.channel": {
+		"message": "Channel"
+	},
+	"twitch.html.connect": {
+		"message": "Connect"
+	},
+	"twitch.html.disconnect": {
+		"message": "Disconnect"
+	},
+	"twitch.html.use_twitch_colors": {
+		"message": "Use Twitch chat colors"
+	}
+}

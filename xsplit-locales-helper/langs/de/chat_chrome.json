@@ -1,0 +1,71 @@
+{
+  "chat.title": {
+    "message": "%service%-Chat-Konfiguration"
+  },
+  "chat.source": {
+    "message": "Quelle"
+  },
+  "chat.account": {
+    "message": "Konto"
+  },
+  "chat.authorize": {
+    "message": "XSplit autorisieren, %service% zu verwenden"
+  },
+  "chat.deauthorize": {
+    "message": "%username% (deautorisieren)"
+  },
+  "chat.connected": {
+    "message": "Verbunden"
+  },
+  "chat.not_connected": {
+    "message": "Nicht verbunden"
+  },
+  "chat.channel_text": {
+    "message": "Geben Sie den Kanal des %service%-Chats ein, den Sie anzeigen möchten."
+  },
+  "chat.channel": {
+    "message": "Kanal"
+  },
+  "chat.channel_name": {
+    "message": "Kanalname"
+  },
+  "chat.connect": {
+    "message": "Verbinden"
+  },
+  "chat.error_channel_not_found": {
+    "message": "%service%-Kanal nicht gefunden. Bitte versuchen Sie es erneut."
+  },
+  "chat.error_no_connection": {
+    "message": "Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut."
+  },
+  "chat.display": {
+    "message": "Anzeige"
+  },
+  "chat.chat_box": {
+    "message": "Chat-Box"
+  },
+  "chat.opacity": {
+    "message": "Deckkraft"
+  },
+  "chat.viewers": {
+    "message": "Zuschauer"
+  },
+  "chat.message": {
+    "message": "Nachricht"
+  },
+  "chat.text_size": {
+    "message": "Textgröße"
+  },
+  "chat.disconnect": {
+    "message": "Trennen"
+  },
+  "chat.connecting": {
+    "message": "Verbinden..."
+  },
+  "chat.connect_error": {
+    "message": "%service% kann keine Verbindung zum Kanal herstellen. Bitte versuchen Sie es erneut."
+  },
+  "chat.invalid_channel": {
+    "message": "Bitte geben Sie einen gültigen %service%-Kanal an."
+  }
+}

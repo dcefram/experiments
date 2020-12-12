@@ -1,0 +1,104 @@
+{
+  "image_slideshow.images": {
+    "message": "圖像"
+  },
+  "image_slideshow.add": {
+    "message": "添加"
+  },
+  "image_slideshow.remove": {
+    "message": "移除"
+  },
+  "image_slideshow.preview": {
+    "message": "預覽"
+  },
+  "image_slideshow.transition_preview": {
+    "message": "過渡預覽"
+  },
+  "image_slideshow.browser_60_fps": {
+    "message": "啟用高達 60 幀/秒"
+  },
+  "image_slideshow.effects": {
+    "message": "過濾"
+  },
+  "image_slideshow.transition": {
+    "message": "過濾"
+  },
+  "image_slideshow.loop": {
+    "message": "迴圈"
+  },
+  "image_slideshow.interval": {
+    "message": "時間間隔"
+  },
+  "image_slideshow.seconds": {
+    "message": "秒"
+  },
+  "image_slideshow.shuffle_images": {
+    "message": "隨機播放的圖像"
+  },
+  "image_slideshow.auto_refresh_images": {
+    "message": "自動刷新圖像"
+  },
+  "image_slideshow.remember_playback_position": {
+    "message": "記住回放位置"
+  },
+  "image_slideshow.ok": {
+    "message": "Ok"
+  },
+  "image_slideshow.cancel": {
+    "message": "取消"
+  },
+  "image_slideshow.hint.images_section": {
+    "message": "添加, 刪除和組合圖像"
+  },
+  "image_slideshow.hint.effects_section": {
+    "message": "應用過渡效果, 啟用循環, 以及設置間隔時間"
+  },
+  "image_slideshow.hint.browser_60_fps_title": {
+    "message": "啟用高達 60 幀/秒"
+  },
+  "image_slideshow.hint.browser_60_fps_message": {
+    "message": "可能需要額外的 GPU/CPU 資源. 注意切換此選項將觸髮刷新源. 為了獲得最佳性能, 使您能夠瀏覽器源特別優化下工具-設置-高級 >."
+  },
+  "image_slideshow.hint.auto_refresh_images_message": {
+    "message": "啟用此選項將自動在每個循環之後刷新圖像. 但是, 選中此選項可能減慢您的圖像幻燈片源."
+  },
+  "image_slideshow.hotkeys": {
+    "message": "快捷鍵"
+  },
+  "image_slideshow.hotkey_header": {
+    "message": "使用快捷鍵當資源被選擇:"
+  },
+  "image_slideshow.hotkey_p": {
+    "message": "按&quot;**P**&quot; 來暫停/恢復幻燈片(幻燈片顯示模式)"
+  },
+  "image_slideshow.hotkey_s": {
+    "message": "按&quot;**S**&quot; 停止幻燈片(幻燈片顯示模式)"
+  },
+  "image_slideshow.hotkey_r": {
+    "message": "按&quot;**R**&quot; 重啟幻燈片(幻燈片顯示模式)"
+  },
+  "image_slideshow.hotkey_n": {
+    "message": "按&quot;**N**&quot; 可轉到下一個幻燈片圖像(幻燈片顯示模式)"
+  },
+  "image_slideshow.hotkey_b": {
+    "message": "按&quot;**B**&quot; 可轉到前一幻燈片圖像(幻燈片顯示模式)"
+  },
+  "image_slideshow.double_click_main": {
+    "message": "按兩下来顯示縮略圖(幻燈片顯示模式)的主要圖像"
+  },
+  "image_slideshow.double_click_thumbnail": {
+    "message": "雙重點擊縮略圖以顯示主要的圖像(幻燈片顯示模式)"
+  },
+  "image_slideshow.browse": {
+    "message": "瀏覽縮略圖上加載的圖像拖動縮略圖條.&quot;鎖定位置&quot;源屬性必須進行檢查.(鎖位按鍵位於&quot;Layout&quot;選項卡)"
+  },
+  "image_slideshow.loop_select_options_hide": {
+    "message": "一次然後隱藏"
+  },
+  "image_slideshow.loop_select_options_nothing": {
+    "message": "一次"
+  },
+  "image_slideshow.loop_select_options_loop": {
+    "message": "永遠"
+  }
+}

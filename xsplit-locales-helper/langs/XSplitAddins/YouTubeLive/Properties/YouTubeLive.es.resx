@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="NoAuthenticationExists" xml:space="preserve">
+    <value>No se encuentra el token de acceso. Vuelve a autorizarte.
+Si el problema continúa, contacta con el equipo de servicio.</value>
+  </data>
+  <data name="msgAuthExpiredOrInvalid" xml:space="preserve">
+    <value>El token de acceso no está, no es válido y ha expirado. Vuelve a autorizar.
+Si el problema persiste, contacta con el equipo de servicio.</value>
+  </data>
+  <data name="cbBackupServer_Tooltip" xml:space="preserve">
+    <value>Elija si para transmitir a los valores predeterminados o el servidor de copia de seguridad. Si tiene problemas en el servidor, intente otro.</value>
+  </data>
+  <data name="msgLicenseOffer_StartStream" xml:space="preserve">
+    <value>{0} no ofrece un servicio público gratuito de streaming. Transmissión de {0}, por tanto, sólo está disponible para los usuarios XSplit con licencia. Actualiza su licencia ahora?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="lblLiveUsername" xml:space="preserve">
+    <value>ID:</value>
+  </data>
+  <data name="msgNotAllowedToReconfigureVec" xml:space="preserve">
+    <value>No se permite la reconfiguración de otros ajustes de codificación de vídeo durante la transmisión en vivo.</value>
+  </data>
+  <data name="msgAdjustmentTitle" xml:space="preserve">
+    <value>Ajuste para compatibilidad con YouTube Live</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>Se produjo un error en la comunicación con YouTube Live.</value>
+  </data>
+  <data name="msgCategoryIsEmpty" xml:space="preserve">
+    <value>Se debe especificar la categoría.</value>
+  </data>
+  <data name="msgDescriptionHasInvalidChars" xml:space="preserve">
+    <value>La descripción no puede contener los caracteres '&lt;' ni '&gt;'.</value>
+  </data>
+  <data name="msgDescriptionMaxLength" xml:space="preserve">
+    <value>La descripción no puede contener más de 5000 caracteres (actualmente en {0}).</value>
+  </data>
+  <data name="msgEmailAddressIsInvalid" xml:space="preserve">
+    <value>Introduce una dirección válida de e-mail.</value>
+  </data>
+  <data name="msgEndContinuousLiveVideo" xml:space="preserve">
+    <value>Detuviste el streaming en un evento de YouTube Live.
+
+  ¿Quieres finalizar también este evento en vivo?</value>
+  </data>
+  <data name="msgNotAuthenticated" xml:space="preserve">
+    <value>Por favor autenticar un usuario primero.</value>
+  </data>
+  <data name="msgStageFramerateAdjusted" xml:space="preserve">
+    <value>Su velocidad de fotogramas se ha cambiado a {0} FPS.</value>
+  </data>
+  <data name="msgStageFramerateNotAdjusted" xml:space="preserve">
+    <value>No se puede ajustar la velocidad de fotogramas porque actualmente está transmitiendo otro canal. Puede tener problemas con su stream.</value>
+  </data>
+  <data name="msgStageResolutionAdjusted" xml:space="preserve">
+    <value>Su etapa de resolución se ha cambiado a {0} p.</value>
+  </data>
+  <data name="msgStageResolutionAdjusted1" xml:space="preserve">
+    <value>Su etapa de resolución se ha cambiado a {0}p para que coincida con la resolución del evento.</value>
+  </data>
+  <data name="msgStreamResolutionAdjusted" xml:space="preserve">
+    <value>La resolución de emisión se ha cambiado a {0}p.</value>
+  </data>
+  <data name="msgStreamResolutionAdjusted1" xml:space="preserve">
+    <value>Su etapa de resolución se ha cambiado a {0}p para que coincida con la resolución del evento.</value>
+  </data>
+  <data name="msgStreamResolutionAdjustedXbc5003" xml:space="preserve">
+    <value>Se ha cambiado la resolución de salida a {0}p.</value>
+  </data>
+  <data name="msgStreamResolutionAdjusted1Xbc5003" xml:space="preserve">
+    <value>Su resolución se ha cambiado a {0}p para que coincida con la resolución del evento.</value>
+  </data>
+  <data name="msgTagMaxLength" xml:space="preserve">
+    <value>La etiqueta '{0}' es superior al límite de 100 caracteres determinado por YouTube.</value>
+  </data>
+  <data name="msgTagsHasInvalidChars" xml:space="preserve">
+    <value>Las etiquetas no pueden contener los caracteres '&lt;' ni '&gt;'.</value>
+  </data>
+  <data name="msgTagsMaxLength" xml:space="preserve">
+    <value>El total de etiquetas no puede tener más de 100 caracteres (Ahora tiene {0}).</value>
+  </data>
+  <data name="msgTitleHasInvalidChars" xml:space="preserve">
+    <value>El título no puede contener los caracteres '&lt;' ni '&gt;'.</value>
+  </data>
+  <data name="msgTitleIsEmpty" xml:space="preserve">
+    <value>El título no puede estar en blanco.</value>
+  </data>
+  <data name="msgTitleMaxLength" xml:space="preserve">
+    <value>El título no puede ser más de 100 caracteres (actualmente en {0}).</value>
+  </data>
+  <data name="msgTOSNotAccepted" xml:space="preserve">
+    <value>Aún no ha aceptado los términos de YouTube en vivo de servicio.
+
+Por favor, haga clic en [here](https://xspl.it/ytltos) para aceptar los términos y reinicie la autenticación una vez que haya terminado.</value>
+  </data>
+  <data name="msgVideoBitrateAdjusted" xml:space="preserve">
+    <value>La tasa de transferencia de tu vídeo ha cambiado a {0}.</value>
+  </data>
+  <data name="txtTags_Tooltip" xml:space="preserve">
+    <value>Usa comas para separar etiquetas.</value>
+  </data>
+  <data name="msgAPIError1" xml:space="preserve">
+    <value>Se ha encontrado un problema al comunicarse con los servidores de YouTube Live. Puede tratarse de un problema de la red o puede que no tengas accceso a YouTube Live.</value>
+  </data>
+  <data name="msgBelowMinBitrate" xml:space="preserve">
+    <value>Ha establecido una velocidad de bits de {0}. Esto es por debajo del mínimo recomendado por YouTube para bitrate de {1} para {2}. Por favor, consulte la ayuda (?) icono.
+¿De todas maneras, continúe?</value>
+  </data>
+  <data name="lblNote" xml:space="preserve">
+    <value>Nota: Algunos ajustes de codificación se pueden desactivar para compatibilidad con YouTube.</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>¿Tienes problemas de streaming en YouTube? Aprender cómo comenzar aquí.</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="cbDetails" xml:space="preserve">
+    <value>Defina detalles antes de cada emisión</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="msgDailyLimitExceeded" xml:space="preserve">
+    <value>Se ha excedido el límite diario para la API de YouTube. La cuota se restablecerá a la medianoche hora del Pacífico (PT). Por favor Inténtalo más tarde.</value>
+  </data>
+  <data name="msgAPIError2" xml:space="preserve">
+    <value>Se ha producido error de API de YouTube.</value>
+  </data>
+  <data name="frmYouTubeLive" xml:space="preserve">
+    <value>Propiedades de YouTube Live</value>
+  </data>
+  <data name="lblEvents" xml:space="preserve">
+    <value>Evento:</value>
+  </data>
+  <data name="btnStartBroadcast" xml:space="preserve">
+    <value>Inicio difusión</value>
+  </data>
+  <data name="cbAllowEmbed" xml:space="preserve">
+    <value>Permitir integración</value>
+  </data>
+  <data name="cbBackupServer" xml:space="preserve">
+    <value>Servidor de copia de seguridad de uso</value>
+  </data>
+  <data name="cbEnableDvr" xml:space="preserve">
+    <value>Activar DVR</value>
+  </data>
+  <data name="cbEnableLowLat" xml:space="preserve">
+    <value>Activar baja latencia</value>
+  </data>
+  <data name="cbRecordFromStart" xml:space="preserve">
+    <value>Grabar desde el principio</value>
+  </data>
+  <data name="lblCategory" xml:space="preserve">
+    <value>Categoría:</value>
+  </data>
+  <data name="lblDescription" xml:space="preserve">
+    <value>Descripción:</value>
+  </data>
+  <data name="lblDuration" xml:space="preserve">
+    <value>Duración:</value>
+  </data>
+  <data name="lblHrs" xml:space="preserve">
+    <value>Horas</value>
+  </data>
+  <data name="lblLiveEvent" xml:space="preserve">
+    <value>En vivo: {0:d} - {1}</value>
+  </data>
+  <data name="lblMin" xml:space="preserve">
+    <value>Min</value>
+  </data>
+  <data name="lblNewLiveEvent" xml:space="preserve">
+    <value>Nuevo Evento en vivo</value>
+  </data>
+  <data name="lblPrivacy" xml:space="preserve">
+    <value>Privacidad:</value>
+  </data>
+  <data name="lblScheduledLiveEvent" xml:space="preserve">
+    <value>Programado: {0:d} - {1}</value>
+  </data>
+  <data name="lblStreamNow" xml:space="preserve">
+    <value>Stream ahora</value>
+  </data>
+  <data name="lblTags" xml:space="preserve">
+    <value>Etiquetas:</value>
+  </data>
+  <data name="lblTitle" xml:space="preserve">
+    <value>Título:</value>
+  </data>
+  <data name="lblStreamNowHasNoSchedule" xml:space="preserve">
+    <value>Corriente no tiene ahora horario</value>
+  </data>
+  <data name="lblLiveEventHasNoEndTime" xml:space="preserve">
+    <value>Sin tiempo final</value>
+  </data>
+  <data name="cbManualTransition" xml:space="preserve">
+    <value>Transición manual</value>
+  </data>
+  <data name="cbManualTransition_Tooltip" xml:space="preserve">
+    <value>Selecciona esta opción para controlar el estado de tu transmisión desde el Panel de control en vivo de YouTube. 
+Si no está marcada esta opción, XSplit cambiará automáticamente al estado "en vivo" después de comenzar la transmisión y dará la opción de "completada" después de suspender la transmisión.</value>
+  </data>
+  <data name="cbManualTransitionDisabled_Tooltip" xml:space="preserve">
+    <value>Monitor de transmisión está deshabilitado para este evento. Transición manual no está disponible.</value>
+  </data>
+  <data name="cbManualTransitionDisabledForDefaultStream_Tooltip" xml:space="preserve">
+    <value>Transición manual no está disponible para este evento.</value>
+  </data>
+  <data name="msgStreamNowIsMissing" xml:space="preserve">
+    <value>Parece que la transmisión predeterminada (Stream Now) en tu canal de YouTube no está configurada todavía.
+
+Ve a tu [panel de control de transmisión en vivo](https://xspl.it/ytldashboard) o ponte en contacto con el servicio de asistencia técnica de YouTube Live.</value>
+  </data>
+  <data name="msgStreamNowIsMissingUseAdhoc" xml:space="preserve">
+    <value>Parece que la transmisión predeterminada (Stream Now) en tu canal de YouTube no está configurada todavía.
+
+Ve a tu [panel de control de transmisión en vivo](https://xspl.it/ytldashboard) o ponte en contacto con el servicio de asistencia técnica de YouTube Live.
+
+¿Quieres continuar con un nuevo evento en vivo en su lugar?</value>
+  </data>
+  <data name="msgUltraLowLatencyResolutionDownscale" xml:space="preserve">
+    <value>La configuración de latencia ultra baja no admite una resolución de 1440p o superior.
+
+Tu resolución de salida cambió a 1080p.</value>
+  </data>
+  <data name="lblAuthorize" xml:space="preserve">
+    <value>Autorizar a XSplit para utilizar {0}</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>Revocar la autorización</value>
+  </data>
+  <data name="lblSwitchAccount" xml:space="preserve">
+    <value>Cambiar de cuenta</value>
+  </data>
+</root>

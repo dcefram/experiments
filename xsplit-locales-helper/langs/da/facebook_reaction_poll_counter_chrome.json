@@ -1,0 +1,80 @@
+{
+  "facebook.reactions.counter.tabheader": {
+    "message": "Reactions"
+  },
+  "facebook.reactions.counter.source": {
+    "message": "Source"
+  },
+  "facebook.reactions.counter.account": {
+    "message": "Account"
+  },
+  "facebook.reactions.counter.automatic": {
+    "message": "Automatic"
+  },
+  "facebook.reactions.counter.authorize": {
+    "message": "Authorize XSplit to use Facebook Live"
+  },
+  "facebook.reactions.counter.remove_authorization": {
+    "message": "**%api%** Remove authorization"
+  },
+  "facebook.reactions.counter.switch_account": {
+    "message": "**%api%** Switch account"
+  },
+  "facebook.reactions.counter.error_auth": {
+    "message": "Please try authorizing again and grant access to all permission required by XSplit for this functionality"
+  },
+  "facebook.reactions.counter.not_connected": {
+    "message": "Reactions will automatically load once stream is live"
+  },
+  "facebook.reactions.counter.connected": {
+    "message": "Connected"
+  },
+  "facebook.reactions.counter.display": {
+    "message": "Display"
+  },
+  "facebook.reactions.counter.lock_components": {
+    "message": "Lock Components"
+  },
+  "facebook.reactions.counter.lock_components_text": {
+    "message": "Checking this option will disable mouse hover, repositioning and resizing of the components.[br][br]Check this if you don't want to display hover effects on the components, especially while streaming or recording."
+  },
+  "facebook.reactions.counter.type": {
+    "message": "Type"
+  },
+  "facebook.reactions.counter.show_reactions_labels": {
+    "message": "Show Reactions and Labels"
+  },
+  "facebook.reactions.counter.reset": {
+    "message": "Reset"
+  },
+  "facebook.reactions.counter.counter_background": {
+    "message": "Counter BG"
+  },
+  "facebook.reactions.counter.opacity": {
+    "message": "Opacity"
+  },
+  "facebook.reactions.counter.counter": {
+    "message": "Counter"
+  },
+  "facebook.reactions.counter.label": {
+    "message": "Label"
+  },
+  "facebook.reactions.counter.dropdown.type.poll": {
+    "message": "Reaction Poll"
+  },
+  "facebook.reactions.counter.dropdown.type.counter": {
+    "message": "Reaction Counter"
+  },
+  "facebook.reactions.hide_connection_message": {
+    "message": "Hide connection messages"
+  },
+  "facebook.reactions.not_seeing_videos": {
+    "message": "Not seeing your live video?"
+  },
+  "facebook.reactions.not_seeing_videos_help": {
+    "message": "We might not have permission to access some of your pages' live videos."
+  },
+  "facebook.reactions.not_seeing_videos_link": {
+    "message": "Click here to re-authorize"
+  }
+}

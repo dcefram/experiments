@@ -1,0 +1,62 @@
+{
+	"twitch.html.tabheader": {
+		"message": "Chat"
+	},
+	"twitch.html.source": {
+		"message": "Fonte"
+	},
+	"twitch.html.account": {
+		"message": "Conta"
+	},
+	"twitch.html.preview": {
+		"message": "Pré-visualizar"
+	},
+	"twitch.html.not_connected": {
+		"message": "Não conectado"
+	},
+	"twitch.html.connected": {
+		"message": "Conectado"
+	},
+	"twitch.html.error_channel_not_found": {
+		"message": "Por favor, forneça um canal válido."
+	},
+	"twitch.html.display": {
+		"message": "Tela"
+	},
+	"twitch.html.chat_box": {
+		"message": "Caixa do chat"
+	},
+	"twitch.html.opacity": {
+		"message": "Opacidade"
+	},
+	"twitch.html.viewers": {
+		"message": "Espectadores"
+	},
+	"twitch.html.message": {
+		"message": "Mensagem"
+	},
+	"twitch.html.text_size": {
+		"message": "Tamanho do texto"
+	},
+	"twitch.html.hide_user_icons": {
+		"message": "Ocultar ícones de usuário"
+	},
+	"twitch.html.hide_timestamps": {
+		"message": "Ocultar horário"
+	},
+	"twitch.html.hide_on_idle": {
+		"message": "Esconder o bate-papo quando ocioso por"
+	},
+	"twitch.html.channel": {
+		"message": "Canal"
+	},
+	"twitch.html.connect": {
+		"message": "Conectar-se"
+	},
+	"twitch.html.disconnect": {
+		"message": "Desconectar-se"
+	},
+	"twitch.html.use_twitch_colors": {
+		"message": "Usar cores de chat do Twitch"
+	}
+}

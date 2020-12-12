@@ -1,0 +1,77 @@
+{
+	"twitch.cheers.tabheader": {
+		"message": "crwdns60656:0crwdne60656:0"
+	},
+	"twitch.cheers.source": {
+		"message": "crwdns60658:0crwdne60658:0"
+	},
+	"twitch.cheers.account": {
+		"message": "crwdns60660:0crwdne60660:0"
+	},
+	"twitch.cheers.authorize": {
+		"message": "crwdns60662:0crwdne60662:0"
+	},
+	"twitch.cheers.remove_authorization": {
+		"message": "crwdns60664:0%api%crwdne60664:0"
+	},
+	"twitch.cheers.switch_account": {
+		"message": "crwdns60666:0%api%crwdne60666:0"
+	},
+	"twitch.cheers.not_connected": {
+		"message": "crwdns60668:0crwdne60668:0"
+	},
+	"twitch.cheers.connected": {
+		"message": "crwdns63228:0crwdne63228:0"
+	},
+	"twitch.cheers.error_channel_not_found": {
+		"message": "crwdns60670:0crwdne60670:0"
+	},
+	"twitch.cheers.notification": {
+		"message": "crwdns60672:0crwdne60672:0"
+	},
+	"twitch.cheers.lock_components": {
+		"message": "crwdns60674:0crwdne60674:0"
+	},
+	"twitch.cheers.lock_components_help": {
+		"message": "crwdns60676:0[br]crwdne60676:0"
+	},
+	"twitch.cheers.show_stats": {
+		"message": "crwdns60678:0crwdne60678:0"
+	},
+	"twitch.cheers.show_stats_help": {
+		"message": "crwdns60680:0crwdne60680:0"
+	},
+	"twitch.cheers.opacity": {
+		"message": "crwdns60682:0crwdne60682:0"
+	},
+	"twitch.cheers.user_name": {
+		"message": "crwdns60684:0crwdne60684:0"
+	},
+	"twitch.cheers.labels": {
+		"message": "crwdns60686:0crwdne60686:0"
+	},
+	"twitch.cheers.show_alert": {
+		"message": "crwdns60688:0crwdne60688:0"
+	},
+	"twitch.cheers.message": {
+		"message": "crwdns60690:0crwdne60690:0"
+	},
+	"twitch.cheers.show_message": {
+		"message": "crwdns60692:0crwdne60692:0"
+	},
+	"twitch.cheers.duration": {
+		"message": "crwdns60694:0crwdne60694:0"
+	},
+	"twitch.cheers.millisecond_unit": {
+		"message": "crwdns60696:0crwdne60696:0"
+	},
+	"twitch.cheers.sound": {
+		"message": "crwdns60698:0crwdne60698:0"
+	},
+	"twitch.cheers.preview": {
+		"message": "crwdns60700:0crwdne60700:0"
+	},
+	"twitch.cheers.test_alert": {
+		"message": "crwdns60702:0crwdne60702:0"
+	}
+}

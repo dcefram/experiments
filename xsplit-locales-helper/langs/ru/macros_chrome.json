@@ -1,0 +1,485 @@
+{
+  "permission_header": {
+    "message": "Требуется разрешение"
+  },
+  "permission_body": {
+    "message": "Необходим доступ к DLL. Для продолжения перейдите в раздел [Инструменты -> Права доступа]() и предоставьте доступ данному расширению."
+  },
+  "permission_button": {
+    "message": "Перейти к правам доступа"
+  },
+  "macro_exceeded_header": {
+    "message": "Не удается добавить или скопировать макрос"
+  },
+  "macro_exceeded_body": {
+    "message": "Вы достигли предела в 100 макросов."
+  },
+  "macro_executor_header": {
+    "message": "Создайте макрос для того чтобы настроить последовательное выполнение автоматических действий в XSplit Broadcaster. Эта последовательность будет запускаться автоматически при возникновении установленного набора событий."
+  },
+  "note_title": {
+    "message": "Для этой версии:"
+  },
+  "warning_note": {
+    "message": "Если некоторые значения не обновились (например названия сцен), перезагрузите расширение Macros.[br]Некоторые события и действия могут работать неправильно в режиме монтажа или редакторе просмотра, поэтому в момент запуска макросов рекомендуется использовать классический режим."
+  },
+  "button_ok": {
+    "message": "Ok"
+  },
+  "button_cancel": {
+    "message": "Отменить"
+  },
+  "delete_confirmation_header": {
+    "message": "Удалить макрос"
+  },
+  "delete_confirmation_body": {
+    "message": "Вы уверены что хотите удалить **%macroName%**?"
+  },
+  "add_macro": {
+    "message": "Добавить макрос"
+  },
+  "continue_on_error": {
+    "message": "Продолжать выполнение макросов при ошибках"
+  },
+  "stop_macro": {
+    "message": "Остановить"
+  },
+  "test_macro": {
+    "message": "Тест"
+  },
+  "event_label": {
+    "message": "Событие"
+  },
+  "action_label": {
+    "message": "Действие"
+  },
+  "condition_label": {
+    "message": "Состояние"
+  },
+  "add_action": {
+    "message": "Добавить действие"
+  },
+  "add_condition": {
+    "message": "Добавить состояние"
+  },
+  "enable_event_listener": {
+    "message": "Включить прослушиватель событий"
+  },
+  "enable_event_listener_help_title_description": {
+    "message": "[по умолчанию: не отмечено]"
+  },
+  "enable_event_listener_help_message": {
+    "message": "При активации данного параметра начнётся непрерывная проверка возникновения определённых событий. После возникновения каждого из таких событий будет запускаться соответствующий макрос (будет выполняться некоторая последовательность действий). Если событие[br]= «Нажатие клавиши», мы рекомендуем отключить данный параметр при переназначении горячих клавиш, так как в противном случае макрос будет автоматически запускаться при установке каждого нового значения горячей клавиши."
+  },
+  "script_copied_to_clipboard": {
+    "message": "Скрипт скопирован в буфер обмена"
+  },
+  "enable_condition_check_per_action": {
+    "message": "Включить проверку состояния для каждого действия"
+  },
+  "no_options": {
+    "message": "Нет доступных вариантов"
+  },
+  "macro_tooltip": {
+    "message": "### **%macroName%** [br] %triggerName%"
+  },
+  "key_stroke_placeholder": {
+    "message": "Выберите комбинацию клавиш или щелчок мыши..."
+  },
+  "select_action_placeholder": {
+    "message": "Выберите действие..."
+  },
+  "select_condition_placeholder": {
+    "message": "Выберите состояние..."
+  },
+  "select_trigger_placeholder": {
+    "message": "Выберите триггер..."
+  },
+  "select_scene_placeholder": {
+    "message": "Выберите сцену..."
+  },
+  "select_stream_source_placeholder": {
+    "message": "Выберите источник стрима..."
+  },
+  "select_status_placeholder": {
+    "message": "Выберите статус..."
+  },
+  "select_media_source_placeholder": {
+    "message": "Выберите источник мультимедиа..."
+  },
+  "select_output_placeholder": {
+    "message": "Выберите выход/канал..."
+  },
+  "select_function_placeholder": {
+    "message": "Выберите функцию..."
+  },
+  "select_transition_placeholder": {
+    "message": "Выберите переход..."
+  },
+  "select_source_placeholder": {
+    "message": "Выберите источник..."
+  },
+  "select_visibility_placeholder": {
+    "message": "Выберите видимость..."
+  },
+  "select_playback_state_placeholder": {
+    "message": "Выберите состояние воспроизведения..."
+  },
+  "select_source_with_audio_placeholder": {
+    "message": "Выберите источник с аудио..."
+  },
+  "select_mute_state_placeholder": {
+    "message": "Выберите состояние отключения звука..."
+  },
+  "select_macro_placeholder": {
+    "message": "Выберите макрос..."
+  },
+  "select_media_state_placeholder": {
+    "message": "Выберите состояние мультимедиа..."
+  },
+  "select_macro_state_placeholder": {
+    "message": "Выберите состояние макроса..."
+  },
+  "edit_macro_name_placeholder": {
+    "message": "Укажите название макроса"
+  },
+  "disabled_trigger_display_name": {
+    "message": "(Отключенный прослушиватель) %displayName%"
+  },
+  "trigger_display_name": {
+    "message": "%displayName%"
+  },
+  "new_action": {
+    "message": "Новое действие"
+  },
+  "trigger_display_name_manual_run": {
+    "message": "Нет событий"
+  },
+  "trigger_display_name_on_key_press": {
+    "message": "На **%keyInput% **"
+  },
+  "trigger_display_name_every_interval": {
+    "message": "Каждые **%time%** мс"
+  },
+  "trigger_display_name_on_scheduled_time": {
+    "message": "К **%timeSchedule%**"
+  },
+  "trigger_display_name_on_scene_switch": {
+    "message": "При переключении сцены на **%scene%**"
+  },
+  "trigger_display_name_stream_source_state_change": {
+    "message": "Когда **%stream%** переходит в состояние **%state% **"
+  },
+  "trigger_display_name_after_media_playback": {
+    "message": "Когда **%id%** останавливается"
+  },
+  "trigger_display_name_custom_function": {
+    "message": "Пользовательский скрипт"
+  },
+  "trigger_display_name_default_manual_run": {
+    "message": "Нет событий"
+  },
+  "trigger_display_name_default_on_key_press": {
+    "message": "При нажатии клавиши [?]"
+  },
+  "trigger_display_name_default_every_interval": {
+    "message": "С интервалом [?]"
+  },
+  "trigger_display_name_default_on_scheduled_time": {
+    "message": "В запланированное время [?]"
+  },
+  "trigger_display_name_default_on_scene_switch": {
+    "message": "При переключении сцены [?]"
+  },
+  "trigger_display_name_default_stream_source_state_change": {
+    "message": "Когда источник трансляции становится онлайн/оффлайн [?]"
+  },
+  "trigger_display_name_default_after_media_playback": {
+    "message": "Когда источник трансляции останавливается [?]"
+  },
+  "trigger_display_name_default_custom_function": {
+    "message": "Пользовательский скрипт [?]"
+  },
+  "trigger_option_display_manual_run": {
+    "message": "Нет событий"
+  },
+  "trigger_option_display_on_key_press": {
+    "message": "При нажатии клавиши"
+  },
+  "trigger_option_display_every_interval": {
+    "message": "С интервалом"
+  },
+  "trigger_option_display_on_scheduled_time": {
+    "message": "В запланированное время"
+  },
+  "trigger_option_display_on_scene_switch": {
+    "message": "При переключении сцены"
+  },
+  "trigger_option_display_stream_source_state_change": {
+    "message": "Когда источник трансляции становится онлайн/оффлайн"
+  },
+  "trigger_option_display_after_media_playback": {
+    "message": "Когда источник трансляции останавливается"
+  },
+  "trigger_option_display_custom_function": {
+    "message": "Пользовательский скрипт"
+  },
+  "trigger_presets_time": {
+    "message": "время"
+  },
+  "trigger_presets_time_schedule": {
+    "message": "Запланировано"
+  },
+  "trigger_presets_state_online": {
+    "message": "онлайн"
+  },
+  "trigger_presets_state_offline": {
+    "message": "оффлайн"
+  },
+  "trigger_presets_custom_function_placeholder": {
+    "message": "Напишите или скопируйте ваш скрипт сюда...[br]Скрипты имеют следующие параметры (callFunctionArray, xjs).[br]Скрипт события должны возвращать функцию для очистки/удаления слушателя события."
+  },
+  "action_display_name_wait": {
+    "message": "Ждать %time% мс"
+  },
+  "action_display_name_start_stop_broadcast": {
+    "message": "%broadcastState% транслируется в %output%"
+  },
+  "action_display_name_scene_change": {
+    "message": "Переключить на %scene%"
+  },
+  "action_display_name_scene_transition_change": {
+    "message": "Сделать монтажный переход %transition% длительностью %time% мс"
+  },
+  "action_display_name_set_source_visibilty": {
+    "message": "%visibility% %videoItem%"
+  },
+  "action_display_name_playback_media": {
+    "message": "%newPlaybackState% %id%"
+  },
+  "action_display_name_toggle_mute": {
+    "message": "%mute% %itemAudio%"
+  },
+  "action_display_name_run_macro": {
+    "message": "Запустить %macro%"
+  },
+  "action_display_name_stop_macro": {
+    "message": "Остановить %stopMacroId%"
+  },
+  "action_display_name_push_to_live": {
+    "message": "Сделать онлайн"
+  },
+  "action_display_name_enable_disable_macro": {
+    "message": "%toggle% слушателя события %macro%"
+  },
+  "action_display_name_go_to_action": {
+    "message": "Перейти к %action%"
+  },
+  "action_display_name_custom_function": {
+    "message": "Пользовательский скрипт (%customFunctionAction% ...)"
+  },
+  "action_display_name_default_wait": {
+    "message": "Ждать [?]"
+  },
+  "action_display_name_default_start_stop_broadcast": {
+    "message": "Запустить/остановить трансляцию [?]"
+  },
+  "action_display_name_default_scene_change": {
+    "message": "Перейти к сцене [?]"
+  },
+  "action_display_name_default_scene_transition_change": {
+    "message": "Задать переход между сценами [?]"
+  },
+  "action_display_name_default_set_source_visibilty": {
+    "message": "Установить видимость источника [?]"
+  },
+  "action_display_name_default_playback_media": {
+    "message": "Установить состояние воспроизведения источника [?]"
+  },
+  "action_display_name_default_toggle_mute": {
+    "message": "Задать состояние источника звука [?]"
+  },
+  "action_display_name_default_run_macro": {
+    "message": "Запустить макрос [?]"
+  },
+  "action_display_name_default_stop_macro": {
+    "message": "Остановить макрос [?]"
+  },
+  "action_display_name_default_push_to_live": {
+    "message": "Сделать онлайн"
+  },
+  "action_display_name_default_enable_disable_macro": {
+    "message": "Включить/отключить прослушивателя событий макроса [?]"
+  },
+  "action_display_name_default_go_to_action": {
+    "message": "Перейти к действию [?]"
+  },
+  "action_display_name_default_custom_function": {
+    "message": "Пользовательский скрипт [?]"
+  },
+  "action_option_display_wait": {
+    "message": "Ждать"
+  },
+  "action_option_display_start_stop_broadcast": {
+    "message": "Запустить/остановить трансляцию"
+  },
+  "action_option_display_scene_change": {
+    "message": "Перейти к сцене"
+  },
+  "action_option_display_scene_transition_change": {
+    "message": "Установить переход для сцены"
+  },
+  "action_option_display_set_source_visibilty": {
+    "message": "Установить видимость источника"
+  },
+  "action_option_display_playback_media": {
+    "message": "Установить состояние воспроизведения источника"
+  },
+  "action_option_display_toggle_mute": {
+    "message": "Установить состояние источника звука"
+  },
+  "action_option_display_run_macro": {
+    "message": "Запустить макрос"
+  },
+  "action_option_display_stop_macro": {
+    "message": "Остановить макрос"
+  },
+  "action_option_display_push_to_live": {
+    "message": "Сделать онлайн"
+  },
+  "action_option_display_enable_disable_macro": {
+    "message": "Включить/отключить слушателя событий макроса"
+  },
+  "action_option_display_go_to_action": {
+    "message": "Перейти к действию"
+  },
+  "action_option_display_custom_function": {
+    "message": "Пользовательский скрипт"
+  },
+  "action_presets_time": {
+    "message": "время"
+  },
+  "action_presets_wait_until_done": {
+    "message": "ждать завершения"
+  },
+  "action_presets_custom_function_placeholder": {
+    "message": "Напишите или скопируйте ваш скрипт сюда...[br]Скрипты имеют следующие параметры (resolve, reject, xjs).[br]Любой скрипт должен в итоге вызывать либо resolve (при успехе), либо reject (при ошибке)."
+  },
+  "action_presets_start": {
+    "message": "Запуск"
+  },
+  "action_presets_stop": {
+    "message": "Остановить"
+  },
+  "action_presets_show": {
+    "message": "Показать"
+  },
+  "action_presets_hide": {
+    "message": "Скрыть"
+  },
+  "action_presets_toggle_visibility": {
+    "message": "Переключить видимость"
+  },
+  "action_presets_play": {
+    "message": "Воспроизвести"
+  },
+  "action_presets_pause": {
+    "message": "Пауза"
+  },
+  "action_presets_mute": {
+    "message": "Отключить звук"
+  },
+  "action_presets_unmute": {
+    "message": "Вернуть звук"
+  },
+  "action_presets_toggle_audio": {
+    "message": "Переключить состояние аудио"
+  },
+  "action_presets_enable": {
+    "message": "Включить"
+  },
+  "action_presets_disable": {
+    "message": "Отключить"
+  },
+  "condition_display_name_active_scene": {
+    "message": "Если активна сцена %scene%"
+  },
+  "condition_display_name_stream_source": {
+    "message": "Если %stream% в состоянии %state%"
+  },
+  "condition_display_name_source_visibility": {
+    "message": "Если %videoItem% в состоянии %visibility%"
+  },
+  "condition_display_name_media_state": {
+    "message": "Если %id% это идентификатор %mediaState%"
+  },
+  "condition_display_name_macro_state": {
+    "message": "Если %macro% в состоянии %state%"
+  },
+  "condition_display_name_custom_function": {
+    "message": "Настраиваемое состояние (%customFunctionCondition%)"
+  },
+  "condition_display_name_default_active_scene": {
+    "message": "Проверить активную сцену [?]"
+  },
+  "condition_display_name_default_stream_source": {
+    "message": "Проверить источник стрима [?]"
+  },
+  "condition_display_name_default_source_visibility": {
+    "message": "Проверить видимость источника [?]"
+  },
+  "condition_display_name_default_media_state": {
+    "message": "Проверить состояние мультимедиа [?]"
+  },
+  "condition_display_name_default_macro_state": {
+    "message": "Проверить состояние макроса [?]"
+  },
+  "condition_display_name_default_custom_function": {
+    "message": "Настраиваемое состояние [?]"
+  },
+  "condition_option_display_active_scene": {
+    "message": "Проверить активную сцену"
+  },
+  "condition_option_display_stream_source": {
+    "message": "Проверить источник стрима"
+  },
+  "condition_option_display_source_visibility": {
+    "message": "Проверить видимость источника"
+  },
+  "condition_option_display_media_state": {
+    "message": "Проверить состояние мультимедиа"
+  },
+  "condition_option_display_macro_state": {
+    "message": "Проверить состояние макроса"
+  },
+  "condition_option_display_custom_function": {
+    "message": "Настраиваемое состояние"
+  },
+  "condition_presets_online": {
+    "message": "онлайн"
+  },
+  "condition_presets_offline": {
+    "message": "оффлайн"
+  },
+  "condition_presets_visible": {
+    "message": "видимый"
+  },
+  "condition_presets_hidden": {
+    "message": "скрытый"
+  },
+  "condition_presets_playing": {
+    "message": "воспроизводится"
+  },
+  "condition_presets_not_playing": {
+    "message": "не воспроизводится"
+  },
+  "condition_presets_enabled": {
+    "message": "включено"
+  },
+  "condition_presets_disabled": {
+    "message": "отключено"
+  },
+  "condition_presets_custom_function_placeholder": {
+    "message": "Напишите или скопируйте ваш скрипт сюда...[br]Скрипты имеют следующие параметры (resolve, reject, xjs, args, callFunctionArray).[br]Скрипты этого типа должны в итоге всегда вызывать resolve."
+  }
+}

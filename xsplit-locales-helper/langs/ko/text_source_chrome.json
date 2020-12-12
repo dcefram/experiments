@@ -1,0 +1,122 @@
+{
+  "textSource.tabheader_content": {
+    "message": "내용"
+  },
+  "textSource.tabheader_style": {
+    "message": "Styles"
+  },
+  "textSource.style_dropshadow": {
+    "message": "Drop shadow"
+  },
+  "textSource.style_dropshadow_color": {
+    "message": "색상"
+  },
+  "textSource.style_dropshadow_distance": {
+    "message": "거리"
+  },
+  "textSource.style_dropshadow_angle": {
+    "message": "각도"
+  },
+  "textSource.style_dropshadow_blur": {
+    "message": "흐림"
+  },
+  "textSource.style_dropshadow_opacity": {
+    "message": "투명도"
+  },
+  "textSource.style_animation": {
+    "message": "애니메이션"
+  },
+  "textSource.style_animation_scroll": {
+    "message": "스크롤"
+  },
+  "textSource.style_animation_fade": {
+    "message": "흐려지기"
+  },
+  "textSource.style_animation_enable_60fps": {
+    "message": "최대 초당 프레임 60까지 활성화"
+  },
+  "textSource.style_animation_fade_delimeter": {
+    "message": "Delimeter"
+  },
+  "textSource.style_animation_fade_interval": {
+    "message": "간격"
+  },
+  "textSource.style_animation_scroll_direction": {
+    "message": "방향"
+  },
+  "textSource.style_animation_scroll_direction_rightToLeft": {
+    "message": "오른쪽에서 왼쪽"
+  },
+  "textSource.style_animation_scroll_direction_leftToRight": {
+    "message": "왼쪽에서 오른쪽"
+  },
+  "textSource.style_animation_scroll_direction_bottomToTop": {
+    "message": "아래서 위로"
+  },
+  "textSource.style_animation_scroll_direction_topToBottom": {
+    "message": "위에서 아래로"
+  },
+  "textSource.style_animation_scroll_speed": {
+    "message": "속도"
+  },
+  "textSource.style_animation_scroll_lineLimit": {
+    "message": "라인 한계"
+  },
+  "textSource.content_text": {
+    "message": "Text/BBCode"
+  },
+  "textSource.content_textFile": {
+    "message": "Text file"
+  },
+  "textSource.content_script": {
+    "message": "스크립트"
+  },
+  "textSource.content_script_clock": {
+    "message": "시계 방향"
+  },
+  "textSource.content_script_stopwatch": {
+    "message": "Stopwatch"
+  },
+  "textSource.content_script_timer": {
+    "message": "Timer"
+  },
+  "textSource.content_script_load_url": {
+    "message": "Load text from Remote URL"
+  },
+  "textSource.content_script_rss": {
+    "message": "RSS Feed Reader"
+  },
+  "textSource.content_script_videoList": {
+    "message": "Video List"
+  },
+  "textSource.content_script_custom": {
+    "message": "사용자 지정 스크립트"
+  },
+  "textSource.content_header_formatting": {
+    "message": "Formatting"
+  },
+  "textSource.formatting_font": {
+    "message": "글꼴"
+  },
+  "textSource.formatting_outline": {
+    "message": "테두리"
+  },
+  "textSource.formatting_style": {
+    "message": "스타일"
+  },
+  "textSource.formatting_align": {
+    "message": "정렬"
+  },
+  "textSource.formatting_sizing": {
+    "message": "Sizing"
+  },
+  "textSource.formatting_sizing_automatic": {
+    "message": "자동"
+  },
+  "textSource.formatting_sizing_fixed": {
+    "message": "Fixed"
+  },
+  "textSource.formatting_sizing_wordWrap": {
+    "message": "Word wrap"
+  }
+}

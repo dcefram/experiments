@@ -1,0 +1,77 @@
+{
+	"youtube.superchat.tabheader": {
+		"message": "إنذار"
+	},
+	"youtube.superchat.source": {
+		"message": "مصدر"
+	},
+	"youtube.superchat.account": {
+		"message": "الحساب"
+	},
+	"youtube.superchat.preview": {
+		"message": "معاينة"
+	},
+	"youtube.superchat.account_automatic": {
+		"message": "تلقائي"
+	},
+	"youtube.superchat.authorize": {
+		"message": "اعطاء XSplit لاستخدام YouTube Live"
+	},
+	"youtube.superchat.remove_authorization": {
+		"message": "**٪ api٪ ** أزل التفويض"
+	},
+	"youtube.superchat.switch_account": {
+		"message": "**٪ api٪ ** تبديل الحساب"
+	},
+	"youtube.superchat.not_connected": {
+		"message": "سيتم توصيل القطعة تلقائيًا بمجرد بث مباشر"
+	},
+	"youtube.superchat.connected": {
+		"message": "متصل"
+	},
+	"youtube.superchat.error_channel_not_found": {
+		"message": "يرجى تقديم قناة صالحة."
+	},
+	"youtube.superchat.notification": {
+		"message": "اشعار"
+	},
+	"youtube.superchat.lock_components": {
+		"message": "مكونات قفل"
+	},
+	"youtube.superchat.lock_components_help": {
+		"message": "سيؤدي تحديد هذا الخيار إلى تعطيل تحريك الماوس وإعادة تحديد موضع المكونات وتغيير حجمها. [br] حدد هذا الخيار إذا كنت لا تريد عرض تأثيرات التحويم على المكونات ، خاصة أثناء البث أو التسجيل."
+	},
+	"youtube.superchat.show_ticker": {
+		"message": "عرض شريط"
+	},
+	"youtube.superchat.show_alert": {
+		"message": "عرض تنبيه"
+	},
+	"youtube.superchat.opacity": {
+		"message": "الشفافيه"
+	},
+	"youtube.superchat.font": {
+		"message": "الخط"
+	},
+	"youtube.superchat.text_size": {
+		"message": "حجم الخط"
+	},
+	"youtube.superchat.hide_message": {
+		"message": "إخفاء رسالة Super Chat"
+	},
+	"youtube.superchat.duration": {
+		"message": "المدة الزمنية"
+	},
+	"youtube.superchat.sound": {
+		"message": "الصوت"
+	},
+	"youtube.superchat.test_alert": {
+		"message": "اختبار الانذار"
+	},
+	"youtube.superchat.loggingInTo": {
+		"message": "Logging in to YouTube..."
+	},
+	"youtube.superchat.pleaseComplete": {
+		"message": "Please complete the login process in your browser"
+	}
+}

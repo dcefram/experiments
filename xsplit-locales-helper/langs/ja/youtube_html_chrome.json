@@ -1,0 +1,62 @@
+{
+	"youtube.html.tabheader": {
+		"message": "チャット"
+	},
+	"youtube.html.source": {
+		"message": "ソース"
+	},
+	"youtube.html.account": {
+		"message": "アカウント"
+	},
+	"youtube.html.preview": {
+		"message": "プレビュー"
+	},
+	"youtube.html.not_connected": {
+		"message": "接続されていません。"
+	},
+	"youtube.html.connected": {
+		"message": "接続しました。"
+	},
+	"youtube.html.error_channel_not_found": {
+		"message": "有効なビデオIDを入力してください。"
+	},
+	"youtube.html.display": {
+		"message": "ディスプレイ"
+	},
+	"youtube.html.chat_box": {
+		"message": "チャットボックス"
+	},
+	"youtube.html.opacity": {
+		"message": "透明度"
+	},
+	"youtube.html.viewers": {
+		"message": "閲覧者"
+	},
+	"youtube.html.message": {
+		"message": "メッセージ"
+	},
+	"youtube.html.text_size": {
+		"message": "テキストサイズ"
+	},
+	"youtube.html.hide_user_icons": {
+		"message": "ユーザーアイコンを隠す"
+	},
+	"youtube.html.hide_timestamps": {
+		"message": "タイムスタンプを隠す"
+	},
+	"youtube.html.hide_on_idle": {
+		"message": "無反応時にチャットを隠す"
+	},
+	"youtube.html.video_id": {
+		"message": "ビデオID"
+	},
+	"youtube.html.video_id_help": {
+		"message": "YouTube LiveビデオのIDをブラウザで手に入れるには、動画に右クリックし、「ビデオURLをコピー」をクリックしてください。URLの最後の部分をコピーしてください。"
+	},
+	"youtube.html.connect": {
+		"message": "接続"
+	},
+	"youtube.html.disconnect": {
+		"message": "接続を切る"
+	}
+}

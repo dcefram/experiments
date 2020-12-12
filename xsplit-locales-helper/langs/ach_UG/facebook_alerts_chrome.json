@@ -1,0 +1,83 @@
+{
+  "facebook.alerts.tabheader": {
+    "message": "crwdns18107:0crwdne18107:0"
+  },
+  "facebook.alerts.notification": {
+    "message": "crwdns18108:0crwdne18108:0"
+  },
+  "facebook.alerts.status": {
+    "message": "crwdns25698:0crwdne25698:0"
+  },
+  "facebook.alerts.authorize": {
+    "message": "crwdns25699:0crwdne25699:0"
+  },
+  "facebook.alerts.remove_authorization": {
+    "message": "crwdns76132:0%api%crwdne76132:0"
+  },
+  "facebook.alerts.type.stars": {
+    "message": "crwdns18109:0crwdne18109:0"
+  },
+  "facebook.alerts.type.share": {
+    "message": "crwdns18110:0crwdne18110:0"
+  },
+  "facebook.alerts.alert_type": {
+    "message": "crwdns18111:0crwdne18111:0"
+  },
+  "facebook.alerts.minimum_stars": {
+    "message": "crwdns18112:0crwdne18112:0"
+  },
+  "facebook.alerts.relogin": {
+    "message": "crwdns18113:0crwdne18113:0"
+  },
+  "facebook.alerts.style": {
+    "message": "crwdns18114:0crwdne18114:0"
+  },
+  "facebook.alerts.theme": {
+    "message": "crwdns18115:0crwdne18115:0"
+  },
+  "facebook.alerts.layout": {
+    "message": "crwdns18116:0crwdne18116:0"
+  },
+  "facebook.alerts.color": {
+    "message": "crwdns63956:0crwdne63956:0"
+  },
+  "facebook.alerts.sound": {
+    "message": "crwdns18118:0crwdne18118:0"
+  },
+  "facebook.alerts.test_alert": {
+    "message": "crwdns18119:0crwdne18119:0"
+  },
+  "facebook.alerts.hide_connection_message": {
+    "message": "crwdns63958:0crwdne63958:0"
+  },
+  "facebook.alerts.source": {
+    "message": "crwdns76134:0crwdne76134:0"
+  },
+  "facebook.alerts.account": {
+    "message": "crwdns76136:0crwdne76136:0"
+  },
+  "facebook.alerts.error_auth": {
+    "message": "crwdns76138:0crwdne76138:0"
+  },
+  "facebook.alerts.not_connected": {
+    "message": "crwdns76140:0crwdne76140:0"
+  },
+  "facebook.alerts.settings": {
+    "message": "crwdns76142:0crwdne76142:0"
+  },
+  "facebook.alerts.switch_account": {
+    "message": "crwdns76144:0%api%crwdne76144:0"
+  },
+  "facebook.alerts.connected": {
+    "message": "crwdns76146:0crwdne76146:0"
+  },
+  "facebook.alerts.not_seeing_videos": {
+    "message": "crwdns79216:0crwdne79216:0"
+  },
+  "facebook.alerts.not_seeing_videos_help": {
+    "message": "crwdns79218:0crwdne79218:0"
+  },
+  "facebook.alerts.not_seeing_videos_link": {
+    "message": "crwdns79220:0crwdne79220:0"
+  }
+}

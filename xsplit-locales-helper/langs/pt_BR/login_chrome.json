@@ -1,0 +1,234 @@
+{
+	"email": {
+		"message": "E-mail"
+	},
+	"password": {
+		"message": "Senha"
+	},
+	"rememberMe": {
+		"message": "Lembre-me"
+	},
+	"newXSplitUser": {
+		"message": "Novo usuário XSplit?"
+	},
+	"noAccount": {
+		"message": "Registre-se"
+	},
+	"forgotPassword": {
+		"message": "Esqueci a senha"
+	},
+	"enterCode": {
+		"message": "Introduzir código"
+	},
+	"loginAutomatically": {
+		"message": "Iniciar sessão automaticamente"
+	},
+	"login": {
+		"message": "Fazer login"
+	},
+	"selectLanguage": {
+		"message": "SELECIONAR IDIOMA"
+	},
+	"agreement": {
+		"message": "Eu li e aceito os [Termos de licença XSplit](http://xspl.it/bc/terms) e [política de privacidade](https://xspl.it/bc/privacy)."
+	},
+	"updates": {
+		"message": "Envie-me atualizações e ofertas especiais por e-mail."
+	},
+	"noEmailMessage": {
+		"message": "Você optou por não para receber e-mails de atualização. Pressiona continuar e confirme sua escolha."
+	},
+	"growl.warning": {
+		"message": "Aviso"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.title": {
+		"message": "Caps Lock está ativo",
+		"type": "warning"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.message": {
+		"message": "A ativação do Caps Lock pode fazer com que você escreva uma senha incorreta. Certifique-se de que está desativado antes de introduzir a senha."
+	},
+	"registration.message": {
+		"message": "Novo usuário XSplit? [Consulte a política de privacidade](https://xspl.it/gc/privacy)"
+	},
+	"screenName.placeholder": {
+		"message": "Escolha um Nome de Usuário"
+	},
+	"fullName.placeholder": {
+		"message": "Nome completo"
+	},
+	"emailInput.placeholder": {
+		"message": "E-mail"
+	},
+	"passwordInput.placeholder": {
+		"message": "Senha"
+	},
+	"retypePassword.placeholder": {
+		"message": "Redigitar Senha"
+	},
+	"register.label": {
+		"message": "Registre-se"
+	},
+	"loginUsingExisting": {
+		"message": "**Já é um usuário?** [Login]() utilizando uma conta existente"
+	},
+	"registration.confirm.message": {
+		"message": "** Por favor, certifique-se que seu endereço de e-mail está correto e de ler o contrato de licença e política de privacidade de XSplit antes de prosseguir.**"
+	},
+	"registration.confirm.continue": {
+		"message": "Continuar"
+	},
+	"registration.confirm.goBack": {
+		"message": "Voltar"
+	},
+	"registration.processing": {
+		"message": "Registrando sua nova conta..."
+	},
+	"registration.success": {
+		"message": "**Registro bem sucedido!**[br] [br], foi enviado um e-mail para **%email%** com instruções sobre como ativar sua conta."
+	},
+	"continue.label": {
+		"message": "Continuar para o XSplit Broadcaster"
+	},
+	"screenName.hint": {
+		"message": "O nome de usuário deve possuir de 4-50 caracteres de comprimento. Será utilizado também no fórum de suporte."
+	},
+	"screenName.check": {
+		"message": "Verificando se o Nome de Usuário está disponível..."
+	},
+	"screenName.unavailable": {
+		"message": "O nome de usuário já existe. Por favor, escolha outro."
+	},
+	"fullName.hint": {
+		"message": "O nome completo deve ter entre 6-50 caracteres."
+	},
+	"emailInput.hint": {
+		"message": "Um email válido é necessário para ativação de conta."
+	},
+	"emailInput.notValid": {
+		"message": "O e-mail já existe ou é inválido"
+	},
+	"passwordInput.hint": {
+		"message": "Senha deve conter de 6-50 caracteres. Certifique-se de desligar o CAPS LOCK pois causar a digitação errônea da sua senha."
+	},
+	"passwordInput.notMatch": {
+		"message": "A senha e a confirmação de senha devem ser iguais e ter entre 6-50 caracteres"
+	},
+	"copyright": {
+		"message": "Copyright &copy; %dates%"
+	},
+	"oem.login.optimizedFor": {
+		"message": "Otimizado para"
+	},
+	"oem.login.bannerMessage": {
+		"message": "Licença XSplit Premium %license% GRÁTIS! Patrocinado pela %oem%. Registre-se ou faça login para obter a licença."
+	},
+	"oem.redeemed.message": {
+		"message": "Parabéns! A sua **Máquina %oem%** inclui uma **Licença Premium %oemfreelicense%** para usufruir de todos os recursos do XSplit Broadcaster. A licença foi aplicada a sua conta **(%email%)**."
+	},
+	"oem.redeemed.messageNewAccount": {
+		"message": "Parabéns! O seu **Máquina %oem%** inclui uma **Licença Premium %oemfreelicense%** para usufruir de todos os recursos do XSplit Broadcaster. A licença foi aplicada na sua nova conta XSplit **(%email%)**."
+	},
+	"oem.redeemed.letsGetStarted": {
+		"message": "Muito bem, vamos começar"
+	},
+	"oem.redeem.emailSentMessage": {
+		"message": "Um e-mail foi enviado para você com instruções sobre como ativar sua conta."
+	},
+	"oem.redeemed.newFail": {
+		"message": "Parabéns! Registro foi bem sucedido. Um e-mail foi enviado para você com instruções sobre como ativar sua conta. Certifique-se de ativar dentro de 24 horas."
+	},
+	"oem.redeemed.redeemError": {
+		"message": "Ocorreu um erro ao resgatar a licença. Tente resgatar a licença novamente reiniciando o XSplit Broadcaster ou contate **license@xsplit.com** se o erro persistir."
+	},
+	"REFURBISHED_REDEMPTION_NOT_ALLOWED_FOR_SAME_XSPLIT_ACCOUNT": {
+		"message": "Houve um erro em resgatar a licença. Tente resgatar a licença novamente reiniciando o XSplit Broadcaster e usando outra conta do XSplit. Se o erro persistir, entre em contato **license@xsplit.com**."
+	},
+	"cannot_apply_with_recurring": {
+		"message": "Erro: certificado de licença não pode ser aplicado enquanto a licença atual está ativa."
+	},
+	"oem.login.letsGetStarted": {
+		"message": "Muito bem, vamos começar"
+	},
+	"oem.login.continueToXBC": {
+		"message": "Continuar para o XSplit Broadcaster"
+	},
+	"carousel.slide1.header": {
+		"message": "Simples mas poderoso Software de Transmissão ao vivo e Gravação de Vídeos"
+	},
+	"carousel.slide1.content": {
+		"message": "O XSplit Broadcaster é uma revolucionária aplicação que mistura áudio/vídeo e permite que qualquer pessoa crie gravações de vídeo e transmissões ao vivo com qualidade profissional utilizando uma interface simples, intuitiva e fácil de utilizar."
+	},
+	"carousel.slide2.header": {
+		"message": "Integrações e Plugins personalizados"
+	},
+	"carousel.slide2.content": {
+		"message": "Características de emissora XSplit uma riqueza de personalizações graças a nossa loja de plugin, deixá-lo ainda mais personalizar sua transmissão com alertas de doação, pedidos de música e muito mais. Você pode até mesmo desenvolver a sua própria! As possibilidades são infinitas."
+	},
+	"carousel.slide3.header": {
+		"message": "Editar e fazer Upload de gravações"
+	},
+	"carousel.slide3.content": {
+		"message": "O XSplit Broadcaster torna mais fácil organizar e administrar suas jogatinas gravadas. Você pode ainda carregar os seus vídeos diretamente para o YouTube e compartilhar em suas redes sociais favoritas, tudo através da aplicação."
+	},
+	"carousel.slide4.header": {
+		"message": "Suporte nativo para todas as placas de capturas populares"
+	},
+	"carousel.slide4.content": {
+		"message": "O XSplit Broadcaster foi ajustado para oferecer suporte a mais ampla gama de marcas de placas de captura disponíveis hoje. -[supported capture card list in product page](https://xspl.it/bc/capture_card_list)"
+	},
+	"carousel.freeLicenseText": {
+		"message": "_Licença XSplit **GRÁTIS**_"
+	},
+	"carousel.sponsor": {
+		"message": "Patrocinado por %oem%"
+	},
+	"carousel.lucky": {
+		"message": "Que legal! Esta máquina %oem% inclui a oferta de uma **Licença XSplit de %duration%!**"
+	},
+	"carousel.continue": {
+		"message": "Continuar"
+	},
+	"carousel.title": {
+		"message": "XSplit Broadcaster"
+	},
+	"label.default": {
+		"message": "Login usando %connect%"
+	},
+	"label.connect": {
+		"message": "ou faça login com"
+	},
+	"label.authorized": {
+		"message": "Autorizado como"
+	},
+	"label.changeaccount": {
+		"message": "[Utilizar uma conta diferente](changeAccount)"
+	},
+	"label.learnMore": {
+		"message": "Novo em streamings ao vivo? [Saiba mais aqui!](https://xspl.it/bc/tutorials)"
+	},
+	"label.otherOptions": {
+		"message": "[More login options](otherOptions)"
+	},
+	"label.welcome": {
+		"message": "Bem-vindo ao XSplit!"
+	},
+	"label.loggingInTo": {
+		"message": "Logging in to %service%..."
+	},
+	"label.pleaseComplete": {
+		"message": "Please complete the login process in your browser[br][br][br][Cancel](cancelLogin)[br][br][br][Having issues? Try in-app login instead](externalLogin)"
+	},
+	"label.somethingWrong": {
+		"message": "Something went wrong."
+	},
+	"label.retryAuth": {
+		"message": "Please retry the authorization or pick another[br]service to log in with."
+	},
+	"button.back": {
+		"message": "Voltar"
+	},
+	"button.retry": {
+		"message": "Tentar novamente"
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"copyright": {
+		"message": "crwdns7776:0%dates%crwdne7776:0"
+	},
+	"terms": {
+		"message": "crwdns106480:0%termslink%crwdne106480:0"
+	},
+	"licenseBenefitsLine": {
+		"message": "crwdns7380:0crwdne7380:0"
+	},
+	"licenseWillExpire": {
+		"message": "crwdns4165:0%expiry_date%crwdne4165:0"
+	},
+	"license-named": {
+		"message": "crwdns12424:0%name%crwdne12424:0"
+	},
+	"license-scoped": {
+		"message": "crwdns12425:0%name%crwdnd12425:0%date%crwdne12425:0"
+	},
+	"license-outsourced": {
+		"message": "crwdns12426:0%source%crwdne12426:0"
+	},
+	"license-complimentary": {
+		"message": "crwdns12427:0%name%crwdne12427:0"
+	},
+	"upgrade": {
+		"message": "crwdns12428:0crwdne12428:0"
+	},
+	"extend": {
+		"message": "crwdns12429:0crwdne12429:0"
+	},
+	"buy": {
+		"message": "crwdns4167:0crwdne4167:0"
+	},
+	"steam-header": {
+		"message": "crwdns12529:0crwdne12529:0"
+	}
+}

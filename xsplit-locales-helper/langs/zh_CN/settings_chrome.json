@@ -1,0 +1,1304 @@
+{
+  "title": {
+    "message": "XSplit Broadcaster-用户设置"
+  },
+  "tab.profile": {
+    "message": "个人资料"
+  },
+  "tab.general": {
+    "message": "常规"
+  },
+  "tab.audio": {
+    "message": "音频"
+  },
+  "tab.hotkeys": {
+    "message": "快捷键"
+  },
+  "tab.sharing": {
+    "message": "共享"
+  },
+  "tab.advanced": {
+    "message": "高级"
+  },
+  "profile.fullName.label": {
+    "message": "全名"
+  },
+  "profile.screenName.label": {
+    "message": "用户名"
+  },
+  "profile.country.label": {
+    "message": "国家"
+  },
+  "profile.gender.label": {
+    "message": "性別"
+  },
+  "profile.gender.male.label": {
+    "message": "男"
+  },
+  "profile.gender.female.label": {
+    "message": "女"
+  },
+  "profile.birthday.label": {
+    "message": "出生日期"
+  },
+  "profile.addImage.label": {
+    "message": "添加个人资料图像"
+  },
+  "profile.changePassword.label": {
+    "message": "点此修改密码"
+  },
+  "profile.countries.af": {
+    "message": "阿富汗"
+  },
+  "profile.countries.ax": {
+    "message": "奥兰群岛"
+  },
+  "profile.countries.al": {
+    "message": "阿尔巴尼亚"
+  },
+  "profile.countries.dz": {
+    "message": "阿尔及利亚"
+  },
+  "profile.countries.as": {
+    "message": "美属萨摩亚"
+  },
+  "profile.countries.ad": {
+    "message": "安道尔"
+  },
+  "profile.countries.ao": {
+    "message": "安哥拉"
+  },
+  "profile.countries.ai": {
+    "message": "安圭拉"
+  },
+  "profile.countries.aq": {
+    "message": "南极洲"
+  },
+  "profile.countries.ag": {
+    "message": "安提瓜和巴布达"
+  },
+  "profile.countries.ar": {
+    "message": "阿根廷"
+  },
+  "profile.countries.am": {
+    "message": "亚美尼亚"
+  },
+  "profile.countries.aw": {
+    "message": "阿鲁巴"
+  },
+  "profile.countries.au": {
+    "message": "澳大利亚"
+  },
+  "profile.countries.at": {
+    "message": "奥地利"
+  },
+  "profile.countries.az": {
+    "message": "阿塞拜疆"
+  },
+  "profile.countries.bs": {
+    "message": "巴哈马"
+  },
+  "profile.countries.bh": {
+    "message": "巴林"
+  },
+  "profile.countries.bd": {
+    "message": "孟加拉国"
+  },
+  "profile.countries.bb": {
+    "message": "巴巴多斯"
+  },
+  "profile.countries.by": {
+    "message": "白俄罗斯"
+  },
+  "profile.countries.be": {
+    "message": "比利时"
+  },
+  "profile.countries.bz": {
+    "message": "伯利兹"
+  },
+  "profile.countries.bj": {
+    "message": "贝宁"
+  },
+  "profile.countries.bm": {
+    "message": "百慕大"
+  },
+  "profile.countries.bt": {
+    "message": "不丹"
+  },
+  "profile.countries.bo": {
+    "message": "玻利维亚"
+  },
+  "profile.countries.ba": {
+    "message": "波斯尼亚和黑塞哥维那"
+  },
+  "profile.countries.bw": {
+    "message": "博茨瓦纳"
+  },
+  "profile.countries.bv": {
+    "message": "布维岛"
+  },
+  "profile.countries.br": {
+    "message": "巴西"
+  },
+  "profile.countries.io": {
+    "message": "英属印度洋领地"
+  },
+  "profile.countries.bn": {
+    "message": "文莱达鲁萨兰国"
+  },
+  "profile.countries.bg": {
+    "message": "保加利亚"
+  },
+  "profile.countries.bf": {
+    "message": "布吉纳法索"
+  },
+  "profile.countries.bi": {
+    "message": "布隆迪"
+  },
+  "profile.countries.kh": {
+    "message": "柬埔寨"
+  },
+  "profile.countries.cm": {
+    "message": "喀麦隆"
+  },
+  "profile.countries.ca": {
+    "message": "加拿大"
+  },
+  "profile.countries.cv": {
+    "message": "佛得角"
+  },
+  "profile.countries.ky": {
+    "message": "开曼群岛"
+  },
+  "profile.countries.cf": {
+    "message": "中非共和国"
+  },
+  "profile.countries.td": {
+    "message": "乍得"
+  },
+  "profile.countries.cl": {
+    "message": "智利"
+  },
+  "profile.countries.cn": {
+    "message": "中国"
+  },
+  "profile.countries.cx": {
+    "message": "圣诞岛"
+  },
+  "profile.countries.cc": {
+    "message": "科科斯 (基灵) 群岛"
+  },
+  "profile.countries.co": {
+    "message": "哥伦比亚"
+  },
+  "profile.countries.km": {
+    "message": "科摩罗"
+  },
+  "profile.countries.cg": {
+    "message": "刚果"
+  },
+  "profile.countries.cd": {
+    "message": "刚果民主共和国"
+  },
+  "profile.countries.ck": {
+    "message": "库克群岛"
+  },
+  "profile.countries.cr": {
+    "message": "哥斯达黎加"
+  },
+  "profile.countries.ci": {
+    "message": "科特迪瓦"
+  },
+  "profile.countries.hr": {
+    "message": "克罗地亚"
+  },
+  "profile.countries.cu": {
+    "message": "古巴"
+  },
+  "profile.countries.cy": {
+    "message": "塞浦路斯"
+  },
+  "profile.countries.cz": {
+    "message": "捷克共和国"
+  },
+  "profile.countries.dk": {
+    "message": "丹麦"
+  },
+  "profile.countries.dj": {
+    "message": "吉布提"
+  },
+  "profile.countries.dm": {
+    "message": "多米尼克"
+  },
+  "profile.countries.do": {
+    "message": "多米尼加共和国"
+  },
+  "profile.countries.ec": {
+    "message": "厄瓜多尔"
+  },
+  "profile.countries.eg": {
+    "message": "埃及"
+  },
+  "profile.countries.sv": {
+    "message": "萨尔瓦多"
+  },
+  "profile.countries.gq": {
+    "message": "赤道几内亚"
+  },
+  "profile.countries.er": {
+    "message": "厄立特里亚"
+  },
+  "profile.countries.ee": {
+    "message": "爱沙尼亚"
+  },
+  "profile.countries.et": {
+    "message": "埃塞俄比亚"
+  },
+  "profile.countries.fk": {
+    "message": "福克兰群岛 (马尔维纳斯群岛)"
+  },
+  "profile.countries.fo": {
+    "message": "法罗群岛"
+  },
+  "profile.countries.fj": {
+    "message": "斐济"
+  },
+  "profile.countries.fi": {
+    "message": "芬兰"
+  },
+  "profile.countries.fr": {
+    "message": "法国"
+  },
+  "profile.countries.gf": {
+    "message": "法属圭亚那"
+  },
+  "profile.countries.pf": {
+    "message": "法属波利尼西亚"
+  },
+  "profile.countries.tf": {
+    "message": "法国南部地区"
+  },
+  "profile.countries.ga": {
+    "message": "加蓬"
+  },
+  "profile.countries.gm": {
+    "message": "冈比亚"
+  },
+  "profile.countries.ge": {
+    "message": "格鲁吉亚"
+  },
+  "profile.countries.de": {
+    "message": "德国"
+  },
+  "profile.countries.gh": {
+    "message": "加纳"
+  },
+  "profile.countries.gi": {
+    "message": "直布罗陀"
+  },
+  "profile.countries.gr": {
+    "message": "希腊"
+  },
+  "profile.countries.gl": {
+    "message": "格陵兰岛"
+  },
+  "profile.countries.gd": {
+    "message": "格林纳达"
+  },
+  "profile.countries.gp": {
+    "message": "瓜德罗普岛"
+  },
+  "profile.countries.gu": {
+    "message": "关岛"
+  },
+  "profile.countries.gt": {
+    "message": "危地马拉"
+  },
+  "profile.countries.gg": {
+    "message": "耿西金融岛"
+  },
+  "profile.countries.gn": {
+    "message": "几内亚"
+  },
+  "profile.countries.gw": {
+    "message": "几内亚比绍"
+  },
+  "profile.countries.gy": {
+    "message": "圭亚那"
+  },
+  "profile.countries.ht": {
+    "message": "海地"
+  },
+  "profile.countries.hm": {
+    "message": "赫德岛和麦克唐纳群岛"
+  },
+  "profile.countries.va": {
+    "message": "教廷 (梵蒂冈城国)"
+  },
+  "profile.countries.hn": {
+    "message": "洪都拉斯"
+  },
+  "profile.countries.hk": {
+    "message": "香港"
+  },
+  "profile.countries.hu": {
+    "message": "匈牙利"
+  },
+  "profile.countries.is": {
+    "message": "冰岛"
+  },
+  "profile.countries.in": {
+    "message": "印度"
+  },
+  "profile.countries.id": {
+    "message": "印度尼西亚"
+  },
+  "profile.countries.ir": {
+    "message": "伊朗，伊斯兰共和国"
+  },
+  "profile.countries.iq": {
+    "message": "伊拉克"
+  },
+  "profile.countries.ie": {
+    "message": "爱尔兰"
+  },
+  "profile.countries.im": {
+    "message": "马恩岛"
+  },
+  "profile.countries.il": {
+    "message": "以色列"
+  },
+  "profile.countries.it": {
+    "message": "意大利"
+  },
+  "profile.countries.jm": {
+    "message": "牙买加"
+  },
+  "profile.countries.jp": {
+    "message": "日本"
+  },
+  "profile.countries.je": {
+    "message": "泽西岛"
+  },
+  "profile.countries.jo": {
+    "message": "约旦"
+  },
+  "profile.countries.kz": {
+    "message": "哈萨克斯坦"
+  },
+  "profile.countries.ke": {
+    "message": "肯尼亚"
+  },
+  "profile.countries.ki": {
+    "message": "基里巴斯"
+  },
+  "profile.countries.kp": {
+    "message": "朝鲜民主主义人民共和国"
+  },
+  "profile.countries.kr": {
+    "message": "韩国"
+  },
+  "profile.countries.kw": {
+    "message": "科威特"
+  },
+  "profile.countries.kg": {
+    "message": "吉尔吉斯斯坦"
+  },
+  "profile.countries.la": {
+    "message": "老挝人民民主共和国"
+  },
+  "profile.countries.lv": {
+    "message": "拉托维亚"
+  },
+  "profile.countries.lb": {
+    "message": "黎巴嫩"
+  },
+  "profile.countries.ls": {
+    "message": "莱索托"
+  },
+  "profile.countries.lr": {
+    "message": "利比里亚"
+  },
+  "profile.countries.ly": {
+    "message": "阿拉伯利比亚民众国"
+  },
+  "profile.countries.li": {
+    "message": "列支敦士登"
+  },
+  "profile.countries.lt": {
+    "message": "立陶宛"
+  },
+  "profile.countries.lu": {
+    "message": "卢森堡"
+  },
+  "profile.countries.mo": {
+    "message": "澳门"
+  },
+  "profile.countries.mk": {
+    "message": "前南斯拉夫的马其顿共和国"
+  },
+  "profile.countries.mg": {
+    "message": "马达加斯加"
+  },
+  "profile.countries.mw": {
+    "message": "马拉维"
+  },
+  "profile.countries.my": {
+    "message": "马来西亚"
+  },
+  "profile.countries.mv": {
+    "message": "马尔代夫"
+  },
+  "profile.countries.ml": {
+    "message": "马里"
+  },
+  "profile.countries.mt": {
+    "message": "马耳他"
+  },
+  "profile.countries.mh": {
+    "message": "马绍尔群岛"
+  },
+  "profile.countries.mq": {
+    "message": "马提尼克岛"
+  },
+  "profile.countries.mr": {
+    "message": "毛里塔尼亚"
+  },
+  "profile.countries.mu": {
+    "message": "毛里求斯"
+  },
+  "profile.countries.yt": {
+    "message": "马约特岛"
+  },
+  "profile.countries.mx": {
+    "message": "墨西哥"
+  },
+  "profile.countries.fm": {
+    "message": "密克罗尼西亚联邦国"
+  },
+  "profile.countries.md": {
+    "message": "摩尔多瓦共和国"
+  },
+  "profile.countries.mc": {
+    "message": "摩纳哥"
+  },
+  "profile.countries.mn": {
+    "message": "蒙古"
+  },
+  "profile.countries.me": {
+    "message": "黑山"
+  },
+  "profile.countries.ms": {
+    "message": "蒙特塞拉特"
+  },
+  "profile.countries.ma": {
+    "message": "摩洛哥"
+  },
+  "profile.countries.mz": {
+    "message": "莫桑比克"
+  },
+  "profile.countries.mm": {
+    "message": "缅甸"
+  },
+  "profile.countries.na": {
+    "message": "纳米比亚"
+  },
+  "profile.countries.nr": {
+    "message": "瑙鲁"
+  },
+  "profile.countries.np": {
+    "message": "尼泊尔"
+  },
+  "profile.countries.nl": {
+    "message": "荷兰"
+  },
+  "profile.countries.an": {
+    "message": "荷属安地列斯群岛"
+  },
+  "profile.countries.nc": {
+    "message": "新喀里多尼亚"
+  },
+  "profile.countries.nz": {
+    "message": "新西兰"
+  },
+  "profile.countries.ni": {
+    "message": "尼加拉瓜"
+  },
+  "profile.countries.ne": {
+    "message": "尼日尔"
+  },
+  "profile.countries.ng": {
+    "message": "尼日利亚"
+  },
+  "profile.countries.nu": {
+    "message": "纽埃"
+  },
+  "profile.countries.nf": {
+    "message": "诺福克岛"
+  },
+  "profile.countries.mp": {
+    "message": "北马里亚纳群岛"
+  },
+  "profile.countries.no": {
+    "message": "挪威"
+  },
+  "profile.countries.om": {
+    "message": "阿曼"
+  },
+  "profile.countries.pk": {
+    "message": "巴基斯坦"
+  },
+  "profile.countries.pw": {
+    "message": "帕劳"
+  },
+  "profile.countries.ps": {
+    "message": "被占领的巴勒斯坦领土"
+  },
+  "profile.countries.pa": {
+    "message": "巴拿马"
+  },
+  "profile.countries.pg": {
+    "message": "巴布亚新几内亚"
+  },
+  "profile.countries.py": {
+    "message": "巴拉圭"
+  },
+  "profile.countries.pe": {
+    "message": "秘鲁"
+  },
+  "profile.countries.ph": {
+    "message": "菲律宾"
+  },
+  "profile.countries.pn": {
+    "message": "皮特凯恩"
+  },
+  "profile.countries.pl": {
+    "message": "波兰"
+  },
+  "profile.countries.pt": {
+    "message": "葡萄牙"
+  },
+  "profile.countries.pr": {
+    "message": "波多黎各"
+  },
+  "profile.countries.qa": {
+    "message": "卡塔尔"
+  },
+  "profile.countries.re": {
+    "message": "留尼旺岛"
+  },
+  "profile.countries.ro": {
+    "message": "罗马尼亚"
+  },
+  "profile.countries.ru": {
+    "message": "俄罗斯联邦"
+  },
+  "profile.countries.rw": {
+    "message": "卢旺达"
+  },
+  "profile.countries.sh": {
+    "message": "圣海伦娜"
+  },
+  "profile.countries.kn": {
+    "message": "圣基茨和尼维斯"
+  },
+  "profile.countries.lc": {
+    "message": "圣卢西亚"
+  },
+  "profile.countries.pm": {
+    "message": "圣皮埃尔和密克隆"
+  },
+  "profile.countries.vc": {
+    "message": "圣文森特和格林纳丁斯"
+  },
+  "profile.countries.ws": {
+    "message": "萨摩亚"
+  },
+  "profile.countries.sm": {
+    "message": "圣马利诺"
+  },
+  "profile.countries.st": {
+    "message": "圣多美和普林西比"
+  },
+  "profile.countries.sa": {
+    "message": "沙特阿拉伯"
+  },
+  "profile.countries.sn": {
+    "message": "塞内加尔"
+  },
+  "profile.countries.rs": {
+    "message": "塞尔维亚"
+  },
+  "profile.countries.sc": {
+    "message": "塞舌尔"
+  },
+  "profile.countries.sl": {
+    "message": "塞拉利昂"
+  },
+  "profile.countries.sg": {
+    "message": "新加坡"
+  },
+  "profile.countries.sk": {
+    "message": "斯洛伐克"
+  },
+  "profile.countries.si": {
+    "message": "斯洛文尼亚"
+  },
+  "profile.countries.sb": {
+    "message": "索罗门群岛"
+  },
+  "profile.countries.so": {
+    "message": "索马里"
+  },
+  "profile.countries.za": {
+    "message": "南非"
+  },
+  "profile.countries.gs": {
+    "message": "南乔治亚岛和南桑威奇群岛"
+  },
+  "profile.countries.es": {
+    "message": "西班牙"
+  },
+  "profile.countries.lk": {
+    "message": "斯里兰卡"
+  },
+  "profile.countries.sd": {
+    "message": "苏丹"
+  },
+  "profile.countries.sr": {
+    "message": "苏里南"
+  },
+  "profile.countries.sj": {
+    "message": "斯瓦尔巴特和扬马延岛"
+  },
+  "profile.countries.sz": {
+    "message": "斯威士兰"
+  },
+  "profile.countries.se": {
+    "message": "瑞典"
+  },
+  "profile.countries.ch": {
+    "message": "瑞士"
+  },
+  "profile.countries.sy": {
+    "message": "阿拉伯叙利亚共和国"
+  },
+  "profile.countries.tw": {
+    "message": "台湾"
+  },
+  "profile.countries.tj": {
+    "message": "塔吉克斯坦"
+  },
+  "profile.countries.tz": {
+    "message": "坦桑尼亚联合共和国"
+  },
+  "profile.countries.th": {
+    "message": "泰国"
+  },
+  "profile.countries.tl": {
+    "message": "东帝汶"
+  },
+  "profile.countries.tg": {
+    "message": "多哥"
+  },
+  "profile.countries.tk": {
+    "message": "托克劳"
+  },
+  "profile.countries.to": {
+    "message": "汤加"
+  },
+  "profile.countries.tt": {
+    "message": "特立尼达和多巴哥"
+  },
+  "profile.countries.tn": {
+    "message": "突尼斯"
+  },
+  "profile.countries.tr": {
+    "message": "土耳其"
+  },
+  "profile.countries.tm": {
+    "message": "土库曼斯坦"
+  },
+  "profile.countries.tc": {
+    "message": "特克斯和凯科斯群岛"
+  },
+  "profile.countries.tv": {
+    "message": "图瓦卢"
+  },
+  "profile.countries.ug": {
+    "message": "乌干达"
+  },
+  "profile.countries.ua": {
+    "message": "乌克兰"
+  },
+  "profile.countries.ae": {
+    "message": "阿拉伯联合酋长国"
+  },
+  "profile.countries.gb": {
+    "message": "英国"
+  },
+  "profile.countries.us": {
+    "message": "美国"
+  },
+  "profile.countries.um": {
+    "message": "美国小离岛"
+  },
+  "profile.countries.uy": {
+    "message": "乌拉圭"
+  },
+  "profile.countries.uz": {
+    "message": "乌兹别克斯坦"
+  },
+  "profile.countries.vu": {
+    "message": "瓦努阿图"
+  },
+  "profile.countries.ve": {
+    "message": "委内瑞拉"
+  },
+  "profile.countries.vn": {
+    "message": "越南"
+  },
+  "profile.countries.vg": {
+    "message": "英属维京群岛"
+  },
+  "profile.countries.vi": {
+    "message": "美属维京群岛"
+  },
+  "profile.countries.wf": {
+    "message": "瓦利斯群岛和富图纳群岛"
+  },
+  "profile.countries.eh": {
+    "message": "西撒哈拉"
+  },
+  "profile.countries.ye": {
+    "message": "也门"
+  },
+  "profile.countries.zm": {
+    "message": "赞比亚"
+  },
+  "profile.countries.zw": {
+    "message": "津巴布韦"
+  },
+  "profile.months.1": {
+    "message": "一月"
+  },
+  "profile.months.2": {
+    "message": "二月"
+  },
+  "profile.months.3": {
+    "message": "三月"
+  },
+  "profile.months.4": {
+    "message": "四月"
+  },
+  "profile.months.5": {
+    "message": "五月"
+  },
+  "profile.months.6": {
+    "message": "六月"
+  },
+  "profile.months.7": {
+    "message": "七月"
+  },
+  "profile.months.8": {
+    "message": "八月"
+  },
+  "profile.months.9": {
+    "message": "九月"
+  },
+  "profile.months.10": {
+    "message": "十月"
+  },
+  "profile.months.11": {
+    "message": "十一月"
+  },
+  "profile.months.12": {
+    "message": "十二月"
+  },
+  "profile.startYear": {
+    "message": "1920"
+  },
+  "general.disableAeroTheme.label": {
+    "message": "禁用 Aero 主题"
+  },
+  "general.enableGPUPriority.label": {
+    "message": "启用GPU优先级"
+  },
+  "general.enableVirtualCameraOutput.label": {
+    "message": "启用虚拟摄像机输出"
+  },
+  "general.enableGameSource.label": {
+    "message": "启用游戏源"
+  },
+  "general.hideXsplitFromDisplayCapture.label": {
+    "message": "Hide XSplit Broadcaster from display capture"
+  },
+  "general.hideXsplitFromDisplayCapture2.label": {
+    "message": "Hide XSplit Broadcaster from display capture (Default: %default%)"
+  },
+  "general.hideXsplitFromDisplayCapture.tooltip": {
+    "message": "从显示捕获中删除XSplit Broadcaster也会使其对使用显示捕获方法的其他应用程序隐藏。"
+  },
+  "general.hideTopControlBar.label": {
+    "message": "隐藏顶部控制栏"
+  },
+  "general.enableHUD.label": {
+    "message": "启动游戏HUD"
+  },
+  "general.enableCopyLink.label": {
+    "message": "开始广播时将链接复制到剪贴板"
+  },
+  "general.hideViewerCount.label": {
+    "message": "隐藏观众数在直播状态"
+  },
+  "general.hideFromScreenRegion.label": {
+    "message": "从屏幕区域隐藏"
+  },
+  "general.logSystemInfo.label": {
+    "message": "记录系统信息"
+  },
+  "general.scenePreview.label": {
+    "message": "缩略图预览"
+  },
+  "general.screenshotCapture.label": {
+    "message": "截图捕获"
+  },
+  "general.scenePreview.values.1": {
+    "message": "总是显示预览场景悬停按键"
+  },
+  "general.scenePreview.values.2": {
+    "message": "按下 shift 键时显示预览场景按钮悬停"
+  },
+  "general.scenePreview.values.3": {
+    "message": "总是不显示预览场景悬停按键"
+  },
+  "general.screenshotCapture.values.JPEG": {
+    "message": "JPEG"
+  },
+  "general.screenshotCapture.values.BMP": {
+    "message": "BMP"
+  },
+  "general.optimizedTransition.label": {
+    "message": "优化场景过渡"
+  },
+  "general.optimizedTransition.tooltip": {
+    "message": "提供平滑过渡之间的场面,但可能需要一点更多的图形资源"
+  },
+  "audio.microphone.label": {
+    "message": "麦克风"
+  },
+  "audio.audioDelay.label": {
+    "message": "延迟(毫秒)"
+  },
+  "audio.boost.label": {
+    "message": "容量范围  (%)"
+  },
+  "audio.noiseSuppression.label": {
+    "message": "噪声抑制"
+  },
+  "audio.silenceDetection.label": {
+    "message": "静音检测"
+  },
+  "audio.threshold.label": {
+    "message": "阈值 (dB)"
+  },
+  "audio.hold.label": {
+    "message": "暂停(ms)"
+  },
+  "audio.attack.label": {
+    "message": "攻击 (ms)"
+  },
+  "audio.release.label": {
+    "message": "发布 (ms)"
+  },
+  "audio.silenceDetection.blogLink": {
+    "message": "了解如何使用静音检测"
+  },
+  "audio.systemSound.label": {
+    "message": "系统声音"
+  },
+  "audio.monitor.label": {
+    "message": "音频预览"
+  },
+  "audio.monitor.tooltip": {
+    "message": "音频控制器用于监视从演示文稿的最后的音频输出选定的输出设备."
+  },
+  "audio.monoMix.label": {
+    "message": "麦克风单声道混音"
+  },
+  "audio.monoMix.values.0": {
+    "message": "无 (默认值)"
+  },
+  "audio.monoMix.values.1": {
+    "message": "从左到右的复制"
+  },
+  "audio.monoMix.values.2": {
+    "message": "从右到左复制"
+  },
+  "audio.monoMix.values.3": {
+    "message": "平衡左和右"
+  },
+  "audio.audioMixingSampleRate.label": {
+    "message": "音频混合采样速率"
+  },
+  "audio.audioMixingSampleRate.values.0": {
+    "message": "自动 (默认)"
+  },
+  "audio.audioMixingSampleRate.values.44100": {
+    "message": "44.1 kHz"
+  },
+  "audio.audioMixingSampleRate.values.48000": {
+    "message": "48 kHz"
+  },
+  "hotkeys.category.scenes": {
+    "message": "场景"
+  },
+  "hotkeys.category.presets": {
+    "message": "场景预设"
+  },
+  "hotkeys.category.audio": {
+    "message": "音频"
+  },
+  "hotkeys.category.broadcast": {
+    "message": "广播"
+  },
+  "hotkeys.category.recording": {
+    "message": "录制"
+  },
+  "hotkeys.category.playout": {
+    "message": "播出"
+  },
+  "hotkeys.category.hud": {
+    "message": "HUD"
+  },
+  "hotkeys.category.sources": {
+    "message": "资源"
+  },
+  "hotkeys.message": {
+    "message": "您可以使用您的键盘快捷键来触发场景切换和其他命令甚至在游戏或其他应用程序中"
+  },
+  "hotkeys.instruction": {
+    "message": "双击此处键入您的快捷键或手动选择快捷键"
+  },
+  "hotkeys.shift.label": {
+    "message": "Shift 键"
+  },
+  "hotkeys.ctrl.label": {
+    "message": "Ctrl 键"
+  },
+  "hotkeys.alt.label": {
+    "message": "Alt"
+  },
+  "hotkeys.none": {
+    "message": "None"
+  },
+  "hotkeys.hotkeymode.description": {
+    "message": "选择快捷键模式"
+  },
+  "hotkeys.hotkeymode.label": {
+    "message": "选择快捷键模式"
+  },
+  "hotkeys.hotkeymode.tooltip": {
+    "message": "你可以手动选择你的快捷键或直接按关键按钮在您的设备上. [br][br] **基本**- 允许从只有Windows 键盘键和需要结合以下修饰符[br] **高级* * - 允许键从MIDI 设备和钥匙已无以下修饰符[br][br]当从高级切换到基本模式的支援, 您将需要更改所有高级的键到基本键."
+  },
+  "hotkeys.hotkeymode.basic.label": {
+    "message": "基本"
+  },
+  "hotkeys.hotkeymode.advanced.label": {
+    "message": "高级"
+  },
+  "hotkeys.hotkeybehavior.description": {
+    "message": "更改快捷键行为"
+  },
+  "hotkeys.hotkeybehavior.label": {
+    "message": "更改快捷键行为"
+  },
+  "hotkeys.hotkeybehavior.tooltip": {
+    "message": "指定如何 XSplit Broadcaster 听从快捷键分配在此页中. [br][br] **全球**-可以在任何地方触发快捷键 [br] **应用程序**-快捷键只有当 XSplit Broadcaster 关注 [br] **关闭** - 所有快捷键失效"
+  },
+  "hotkeys.hotkeyBehavior.values.0": {
+    "message": "全球"
+  },
+  "hotkeys.hotkeyBehavior.values.1": {
+    "message": "应用程序"
+  },
+  "hotkeys.hotkeyBehavior.values.2": {
+    "message": "已禁用"
+  },
+  "accounts.videoSharing.label": {
+    "message": "视频分享"
+  },
+  "accounts.youtube.label": {
+    "message": "YouTube"
+  },
+  "accounts.youtube.authorize.label": {
+    "message": "授权视频上传到 YouTube"
+  },
+  "accounts.socials.label": {
+    "message": "社交网络"
+  },
+  "accounts.facebook.label": {
+    "message": "Facebook"
+  },
+  "accounts.facebook.authorize.label": {
+    "message": "授权张贴在 Facebook 上"
+  },
+  "accounts.twitter.label": {
+    "message": "Twitter"
+  },
+  "accounts.twitter.authorize.label": {
+    "message": "授权张贴在 Twitter 上"
+  },
+  "accounts.google.label": {
+    "message": "Google+"
+  },
+  "accounts.google.authorize.label": {
+    "message": "授权在 Google + 上张贴"
+  },
+  "accounts.playerme.label": {
+    "message": "Player.me"
+  },
+  "accounts.playerme.authorize.label": {
+    "message": "授权张贴在Player.me 上"
+  },
+  "accounts.service.deauthorize.label": {
+    "message": "删除授权"
+  },
+  "accounts.service.switch.label": {
+    "message": "更换账号"
+  },
+  "advanced.caution.label": {
+    "message": "小心使用这些高级功能时.我们无法为任何可能造成的伤害负责.请参阅更多的信息的提示."
+  },
+  "advanced.enableOptimizedRender.label": {
+    "message": "增强视频渲染器 (EVR)"
+  },
+  "advanced.enableOptimizedRender2.label": {
+    "message": "使用增强的视频渲染器 (EVR)"
+  },
+  "advanced.enableOptimizedRender.tooltip": {
+    "message": "**此选项是试验性的并可能会更改或删除在未来版本.**[br][br] 增强视频渲染器交替呈现XSplit Broadcaster. 您可以尝试启用此选项,如果你有问题,看看是否它有助于演示."
+  },
+  "advanced.videoProcessingMode.label": {
+    "message": "视频处理模式"
+  },
+  "advanced.videoProcessingMode2.label": {
+    "message": "视频处理模式 (默认: 使用旧版视频处理选项)"
+  },
+  "advanced.videoProcessingMode.tooltip": {
+    "message": "**您的演示文稿中的来源可能会由于应用更改而刷新.** [br][br] 在同一硬件上玩游戏时使用CPU模式，以尽量减少对游戏的影响。如果您希望XSplit利用GPU功能进行加速视频解码和处理，请使用GPU模式。适用于Windows 8+。"
+  },
+  "advanced.videoProcessingMode.values.1": {
+    "message": "使用旧式视频处理选项"
+  },
+  "advanced.videoProcessingMode.values.2": {
+    "message": "偏向的视频处理 CPU"
+  },
+  "advanced.videoProcessingMode.values.3": {
+    "message": "偏向的视频处理 GPU"
+  },
+  "advanced.enableGlobalScript.label": {
+    "message": "启用扩展"
+  },
+  "advanced.enableGlobalScript2.label": {
+    "message": "启用扩展 (默认值: %default%)"
+  },
+  "advanced.enabled.label": {
+    "message": "启用"
+  },
+  "advanced.disabled.label": {
+    "message": "禁用"
+  },
+  "advanced.enableGlobalScript.tooltip": {
+    "message": "此版本的XSplit Broadcaster 支持用户生成扩展是能够与 XSplit Broadcaster API 进行交互. 目前这是实验性的. [br][阅读这里!](https://xspl.it/bc/custom)"
+  },
+  "advanced.enableFlashSound.label": {
+    "message": "启用本机 Flash 和浏览器的音频控制"
+  },
+  "advanced.enableFlashSound2.label": {
+    "message": "启用本机 Flash 和浏览器的音频控制 (默认值: %default%)"
+  },
+  "advanced.enableFlashSound.tooltip": {
+    "message": "**由于应用了更改，因此演示文稿中的源可能会刷新.** [br] [br] 启用此选项将允许XSplit在XSplit预览中自动静音来自Flash和浏览器源的音频。 此选项还允许您将“仅流”音频选项用于Flash和浏览器源。"
+  },
+  "advanced.enableWasapi.label": {
+    "message": "启用 WASAPI 音频渲染"
+  },
+  "advanced.enableWasapi2.label": {
+    "message": "启用 WASAPI 音频渲染 (默认值: %default%)"
+  },
+  "advanced.enableWasapi.tooltip": {
+    "message": "此选项将强制直接显示到使用 WASAPI 音频来源呈现而不是直接的声音. 该功能可以解决一些源音频噼啪声."
+  },
+  "advanced.enableMFEngine.label": {
+    "message": "使用Media Foundation Engine进行视频播放"
+  },
+  "advanced.enableMFEngine2.label": {
+    "message": "使用Media Foundation Engine进行视频播放（默认：%default%）"
+  },
+  "advanced.enableMFEngine.tooltip": {
+    "message": "**由于应用了更改，因此演示文稿中的源可能会刷新。** [br][br] 此选项使Microsoft MF引擎可以播放受支持的视频文件（MP4，WMV，AVI，ASF）。 使用MF引擎将启用DXVA2硬件加速，并使用较少的CPU资源。"
+  },
+  "advanced.enableHardwareAccelerateUSB2.label": {
+    "message": "为 USB2 捕获设备使用硬件加速"
+  },
+  "advanced.enableHardwareAccelerateUSB22.label": {
+    "message": "为 USB2 捕获设备使用硬件加速 (默认值: %default%)"
+  },
+  "advanced.enableHardwareAccelerateUSB2.tooltip": {
+    "message": "**由于应用了更改，因此演示文稿中的源可能会刷新。** [br][br] 此选项使用DXVA2硬件加速来解码USB 2捕获设备（如AverMedia LGP，Happauge HDPVR，Elgato HD和HD60）中的视频 。"
+  },
+  "advanced.antiAliasing.label": {
+    "message": "GPU 抗锯齿效果"
+  },
+  "advanced.antiAliasing.tooltip": {
+    "message": "**此选项是试验性的和可能会更改或删除在未来版本.** [br][br] 为 MSAA,我们推荐使用的样本数 4 和质量 0 的最大设置以避免过度的 GPU 使用.MLAA 开机自检过程着色器和可能需要更少的资源,但可能也有视觉上不同的效果."
+  },
+  "advanced.antiAliasing.values.1": {
+    "message": "无 (默认值)"
+  },
+  "advanced.antiAliasing.values.2": {
+    "message": "MLAA"
+  },
+  "advanced.antiAliasing.values.3": {
+    "message": "MSAA"
+  },
+  "advanced.antiAliasing.quality.label": {
+    "message": "质量"
+  },
+  "advanced.antiAliasing.sampleCount.label": {
+    "message": "样本数"
+  },
+  "advanced.antiAliasing.stencilBuffer.label": {
+    "message": "使用模具缓冲区"
+  },
+  "advanced.antiAliasing.threshold.label": {
+    "message": "阈值"
+  },
+  "advanced.network.label": {
+    "message": "网络连接"
+  },
+  "advanced.network.tooltip": {
+    "message": "选择为您直播的主动网络适配器."
+  },
+  "advanced.customNetworkConnection.label": {
+    "message": "允许广播的插件指定自己的网络适配器"
+  },
+  "advanced.customNetworkConnection.labelXbc5003": {
+    "message": "允许输出指定自己的网络适配器"
+  },
+  "advanced.customNetworkConnection.tooltip": {
+    "message": "启用此选项将允许您选择主动网络适配器为每个您同步直播."
+  },
+  "advanced.autoSelectNetworkAdapter.label": {
+    "message": "自动选择另一个网络适配器如果选择的那一个不可用"
+  },
+  "advanced.enableScriptSecurity.label": {
+    "message": "启用脚本安全源和扩展"
+  },
+  "advanced.enableScriptSecurity2.label": {
+    "message": "启用脚本安全源和扩展 (默认值: %default%)"
+  },
+  "advanced.enableScriptSecurity.tooltip": {
+    "message": "禁用此选项是指您允许完全访问所有脚本的来源和扩展没有确认."
+  },
+  "advanced.browserSourceOptimization.label": {
+    "message": "浏览器源特别优化"
+  },
+  "advanced.browserSourceOptimization2.label": {
+    "message": "浏览器源特别优化 (默认值: %default%)"
+  },
+  "advanced.browserSourceOptimization.tooltip": {
+    "message": "**由于应用了更改，因此演示文稿中的源可能会刷新。** [br][br]此选项对HTML源的捕获管道使用了特殊的优化。 此选项应提供30 FPS和60 FPS的HTML源的更平滑动画，但可能不适用于所有系统（在某些系统上，HTML可能仅显示黑色）。 HTML源的默认FPS是30 FPS，JavaScript可以选择请求60 FPS（有关更多信息，请参见[这篇文章]（https://xspl.it/bc/svw6qh）"
+  },
+  "advanced.enableDeveloperMode.label": {
+    "message": "启动开发人员模式"
+  },
+  "advanced.enableDeveloperMode2.label": {
+    "message": "启动开发人员模式 (默认值: %default%)"
+  },
+  "advanced.enableDeveloperMode.tooltip": {
+    "message": "**由于应用了更改，因此演示文稿中的源可能会刷新。** [br][br] 此选项将执行其他日志记录，启用插件调试并允许插件加载未签名的DLL。"
+  },
+  "advanced.enhancedLogging.label": {
+    "message": "启用增强的日志记录"
+  },
+  "advanced.enhancedLogging2.label": {
+    "message": "启用增强日志记录 (默认值: %default%)"
+  },
+  "advanced.enhancedLogging.tooltip": {
+    "message": "此选项允许 XSplit 执行综合登录用于查找和排除故障的错误. 所有日志将被都收集在[文件夹](%path%). 我们建议您发送自动关闭上载的 zip 压缩文件的整个日志文件.[br][br]该选项 Dropbox 或 Google Drive 链接, 当重新启动 XSplit. 我们建议您关闭此选项, 当你完成日志收集."
+  },
+  "advanced.dx12Capture.label": {
+    "message": "启用 DX12 游戏捕获"
+  },
+  "advanced.dx12Capture2.label": {
+    "message": "启用 DX12 游戏捕获 (默认: 启用)"
+  },
+  "advanced.dx12Capture.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  Enable this option to capture DX12 games. There may be incompatibility with some systems/drivers which may prevent capture of any game - even non-DX12 games, this option may be disabled should such issue arise. Game/application may need to be restarted for option change to take effect."
+  },
+  "advanced.vulkan.label": {
+    "message": "启用 Vulkan 游戏捕获"
+  },
+  "advanced.vulkan2.label": {
+    "message": "启用 Vulkan 游戏捕获 (默认: 启用)"
+  },
+  "advanced.vulkan.tooltip": {
+    "message": "Enable this option to capture Vulkan games. Game/application may need to be restarted for option change to take effect."
+  },
+  "advanced.projectorBorder.label": {
+    "message": "投影仪屏幕选择边框"
+  },
+  "advanced.projectorBorder.values.always": {
+    "message": "总是显示边框屏幕选择悬停时"
+  },
+  "advanced.projectorBorder.values.shift": {
+    "message": "按住 SHIFT 键时屏幕选择悬停时显示边框"
+  },
+  "advanced.projectorBorder.values.never": {
+    "message": "永远不显示边框屏幕选择悬停时"
+  },
+  "advanced.gpuAdapter.label": {
+    "message": "GPU Adapter"
+  },
+  "advanced.gpuAdapter2.label": {
+    "message": "Select GPU Adapter (Default: Automatic)"
+  },
+  "advanced.gpuAdapter.tooltip": {
+    "message": "This will force XSplit Broadcaster to run on the selected graphics adapter (GPU). If set to automatic, XSplit Broadcaster will run on your primary graphics adapter set in Windows or your GPU control panel."
+  },
+  "advanced.gpuAdapter.values.0": {
+    "message": "自动"
+  },
+  "menu.mixerColorspace.label": {
+    "message": "混合彩色空间"
+  },
+  "menu.mixerColorspace.ayuv.label": {
+    "message": "AYUV"
+  },
+  "menu.mixerColorspace.yuy2.label": {
+    "message": "YUY2"
+  },
+  "menu.mixerColorspace.rgb1624.label": {
+    "message": "RGB16/24"
+  },
+  "menu.mixerColorspace.rgb32.label": {
+    "message": "RGB32"
+  },
+  "menu.enableVirtualCameraWhileStreaming.label": {
+    "message": "直播时开启虚拟摄影机"
+  },
+  "button.restore": {
+    "message": "还原默认值"
+  },
+  "button.ok": {
+    "message": "OK"
+  },
+  "button.cancel": {
+    "message": "取消"
+  },
+  "button.apply": {
+    "message": "应用"
+  }
+}

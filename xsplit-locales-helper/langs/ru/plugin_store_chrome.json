@@ -1,0 +1,395 @@
+{
+    "home_newToStore": {
+        "message": "Откройте для себя наши мощные плагины и разгоните вашу трансляцию!"
+    },
+    "home_search": {
+        "message": "Щёлкните на иконки сверху или снизу для начала просмотра."
+    },
+    "home_sourceTip": {
+        "message": "Показать источники"
+    },
+    "home_extensionTip": {
+        "message": "Показать расширения"
+    },
+    "home_outputTip": {
+        "message": "Показать устройства вывода"
+    },
+    "home_libraryTip": {
+        "message": "Показать Мои плагины"
+    },
+    "home_sourceTipIn": {
+        "message": "Скрыть источники"
+    },
+    "home_outputTipIn": {
+        "message": "Скрыть устройства вывода"
+    },
+    "home_extensionTipIn": {
+        "message": "Скрыть расширения"
+    },
+    "home_tooltipToggle": {
+        "message": "Вы можете скрыть все иконки, пока находитесь в режиме поиска."
+    },
+    "plugin_developer": {
+        "message": "Разработчик:"
+    },
+    "plugin_publicVersion": {
+        "message": "Публичная версия:"
+    },
+    "plugin_updated": {
+        "message": "Обновлено:"
+    },
+    "plugin_dllDownloadWarning": {
+        "message": "Эта загрузка может включать в себя небезопасные файлы, которые могут нанести вред вашему компьютеру."
+    },
+    "plugin_install": {
+        "message": "УСТАНОВИТЬ"
+    },
+    "plugin_uninstall": {
+        "message": "УДАЛИТЬ"
+    },
+    "plugin_update": {
+        "message": "ОБНОВИТЬ"
+    },
+    "plugin_published": {
+        "message": "Опубликовано"
+    },
+    "plugin_size": {
+        "message": "По размеру"
+    },
+    "plugin_currentVersion": {
+        "message": "Текущая версия"
+    },
+    "plugin_installs": {
+        "message": "Установщики"
+    },
+    "plugin_minimumXBCLabel": {
+        "message": "Минимально требуется XBC версии"
+    },
+    "plugin_minimumXBC": {
+        "message": "%version% или более новой"
+    },
+    "plugin_report": {
+        "message": "Плагин отчётов"
+    },
+    "plugin_developerLabel": {
+        "message": "Разработчик"
+    },
+    "plugin_developerVisit": {
+        "message": "Посетить веб-сайт"
+    },
+    "plugin_developerMail": {
+        "message": "Отправить письмо"
+    },
+    "plugin_readMore": {
+        "message": "Подробнее"
+    },
+    "plugin_rateThisplugin": {
+        "message": "ОЦЕНИТЕ ЭТОТ ПЛАГИН"
+    },
+    "plugin_rating": {
+        "message": "Вы должны установить это плагин прежде чем отправить отзыв"
+    },
+    "plugin_reviews": {
+        "message": "Отзывы"
+    },
+    "plugin_votes": {
+        "message": "Голоса"
+    },
+    "plugin_filter-recent": {
+        "message": "Недавние"
+    },
+    "plugin_filter-rating": {
+        "message": "Рейтинг"
+    },
+    "plugin_viewAllReviews": {
+        "message": "Посмотреть все отзывы"
+    },
+    "plugin_warning": {
+        "message": "Этот плагин подпадает под действие Политики конфиденциальности XSplit не полностью, поскольку использует внешние или сторонние библиотеки и сервисы. Плагин может включать функции, которые собирают личную информацию, включая, но не ограничиваясь, информацией об операционной системе вашего ПК и использовании Вами различного программного обеспечения."
+    },
+    "plugin_myReview": {
+        "message": "МОЙ ОТЗЫВ"
+    },
+    "plugin_empty-search": {
+        "message": "В результате вашего поиска ничего не найдено. Попробуйте поискать что-то другое или просмотреть доступные плагины."
+    },
+    "plugin_back": {
+        "message": "< Назад к подробной информации о плагине"
+    },
+    "plugin_tag": {
+        "message": "Теги"
+    },
+    "plugin_minimum": {
+        "message": "Минимальные требования к операционной системе:"
+    },
+    "plugin_windows": {
+        "message": "Windows 10"
+    },
+    "plugin_windows-warning": {
+        "message": "Невозможно установит данный плагин. Не соблюдены минимальные требования к операционной системе."
+    },
+    "plugin_local-recording": {
+        "message": "Это плагин необходим и не может быть удалён."
+    },
+    "myPlugins_myPlugins": {
+        "message": "Мои плагины"
+    },
+    "myPlugins_updateAll": {
+        "message": "Обновить всё"
+    },
+    "myPlugins_cancelAll": {
+        "message": "Отменить всё"
+    },
+    "myPlugins_update": {
+        "message": "Обновить"
+    },
+    "myPlugins_uninstall": {
+        "message": "Удалить"
+    },
+    "myPlugins_size": {
+        "message": "По размеру"
+    },
+    "search_results": {
+        "message": "Результаты поиска "
+    },
+    "search_searching": {
+        "message": "Поиск..."
+    },
+    "search_zero-search1": {
+        "message": "В результате вашего поиска ничего не найдено."
+    },
+    "search_zero-search2": {
+        "message": "Предложения:"
+    },
+    "search_zero-search3": {
+        "message": "Убедитесь, что все слова написаны правильно."
+    },
+    "search_zero-search4": {
+        "message": "Попробуйте другие ключевые слова."
+    },
+    "search_zero-search5": {
+        "message": "Попробуйте использовать больше слов."
+    },
+    "search_name": {
+        "message": "По имени"
+    },
+    "search_downloads": {
+        "message": "# из загрузок"
+    },
+    "search_rating": {
+        "message": "Рейтинг"
+    },
+    "search_updated": {
+        "message": "Дата обновлена"
+    },
+    "search_installed": {
+        "message": "УСТАНОВЛЕНО"
+    },
+    "search_clear-search": {
+        "message": "Очистить поиск"
+    },
+    "search_download-all": {
+        "message": "Скачать всё"
+    },
+    "search_download": {
+        "message": "Скачать (%count%)"
+    },
+    "help_what": {
+        "message": "Что это за плагины?"
+    },
+    "help_source": {
+        "message": "**ИСТОЧНИКИ** это плагины, размещаемые на сцене. Правый клик на источнике в основном окне открывает окно их свойств."
+    },
+    "help_extension": {
+        "message": "**Расширения** это плагины глобального уровня, которые могут контролировать ваши сцены. У них есть все возможности источников и даже больше."
+    },
+    "help_output": {
+        "message": "**УСТРОЙСТВА ВЫВОДА** поддерживают наиболее популярные стриминговые ресурсы, такие как Twitch, YouTube Live, Smashcast и Ustream."
+    },
+    "help_installed": {
+        "message": "Вы можете просмотреть на установленные плагины, обновить или удалить их на странице Мои Плагины. Чтобы открыть Мои Плагины, щелкните на значок справа от строки поиска или перейдите в меню Сервис и выберите пункт Мои Плагины."
+    },
+    "help_developer": {
+        "message": "Вы разработчик?"
+    },
+    "help_buildYourOwn": {
+        "message": "Вы можете создать свой собственный плагин для Xsplit Broadcaster! У нас есть несколько способов помочь вам, просто перейдите [сюда.](https://xspl.it/developers)"
+    },
+    "overlay_uninstall": {
+        "message": "Удаление завершено!"
+    },
+    "overlay_uninstallMessage": {
+        "message": "%name% был удалён. \n Мы были бы признательны вам за предоставление обратной связи и то что вы поделились с нами своим опытом"
+    },
+    "overlay_rateThisPlugin": {
+        "message": "ОЦЕНИТЕ ЭТОТ ПЛАГИН"
+    },
+    "overlay_yourRating": {
+        "message": "Ваш рейтинг: "
+    },
+    "overlay_rating-0": {
+        "message": "Нет рейтинга"
+    },
+    "overlay_rating-1": {
+        "message": "Требуется улучшение"
+    },
+    "overlay_rating-2": {
+        "message": "Неплохо"
+    },
+    "overlay_rating-3": {
+        "message": "Хорошо"
+    },
+    "overlay_rating-4": {
+        "message": "Понравилось"
+    },
+    "overlay_rating-5": {
+        "message": "Превосходно"
+    },
+    "overlay_placeholder": {
+        "message": "Написать отзыв (не обязательно)"
+    },
+    "overlay_charlimit": {
+        "message": "Осталось %action% символов"
+    },
+    "overlay_submit": {
+        "message": "ОТПРАВИТЬ"
+    },
+    "overlay_cancel": {
+        "message": "ОТМЕНА"
+    },
+    "overlay_skip": {
+        "message": "ПРОПУСТИТЬ ЭТО"
+    },
+    "overlay_ratingError": {
+        "message": "Упс! При отправке вашей оценки и комментария произошла ошибка. Попробуйте ещё раз."
+    },
+    "overlay_action-error": {
+        "message": "В процессе %action% произошла ошибка. Попробуйте ещё раз или обратитесь в службу поддержки XSplit."
+    },
+    "overlay_action-error-download": {
+        "message": "Не удалось скачать плагин. Проверьте ваше подключение к Интернету и повторите попытку."
+    },
+    "overlay_action-error-multiple": {
+        "message": "%count% плагинов нуждаются в обновлении"
+    },
+    "overlay_action-rating": {
+        "message": ""
+    },
+    "overlay_action-searching": {
+        "message": "Поиск..."
+    },
+    "overlay_action-loading": {
+        "message": "Загрузка..."
+    },
+    "overlay_action-downloading": {
+        "message": "Загрузка..."
+    },
+    "overlay_action-installing": {
+        "message": "Установка..."
+    },
+    "overlay_action-updating": {
+        "message": "Обновление..."
+    },
+    "overlay_action-uninstalling": {
+        "message": "Удаление..."
+    },
+    "overlay_action-updating-multiple": {
+        "message": "Скачивание %count%/%total% плагинов..."
+    },
+    "overlay_complete-installing": {
+        "message": "%name% было добавлено к вашему %type% меню и в Мои Плагины."
+    },
+    "overlay_complete-updating": {
+        "message": "%name% обновлён."
+    },
+    "overlay_complete-updating-multiple": {
+        "message": "Все плагины успешно скачаны."
+    },
+    "overlay_complete-uninstalling": {
+        "message": "%name% удалён."
+    },
+    "overlay_title-complete-installing": {
+        "message": "Установка завершена!"
+    },
+    "overlay_title-complete-uninstalling": {
+        "message": "Удаление завершено!"
+    },
+    "overlay_title-complete-updating": {
+        "message": "Обновление завершено!"
+    },
+    "overlay_title-complete-updating-multiple": {
+        "message": "Загрузки завершены!"
+    },
+    "overlay_button-downloading": {
+        "message": "СКАЧАТЬ"
+    },
+    "overlay_button-installing": {
+        "message": "УСТАНОВИТЬ"
+    },
+    "overlay_button-updating": {
+        "message": "ОБНОВИТЬ"
+    },
+    "overlay_button-updating-multiple": {
+        "message": "ОБНОВИТЬ ВСЁ"
+    },
+    "overlay_button-uninstalling": {
+        "message": "УДАЛИТЬ"
+    },
+    "overlay_button-ok": {
+        "message": "ОК"
+    },
+    "overlay_button-loading": {
+        "message": "ОК"
+    },
+    "overlay_toClose": {
+        "message": "Хотите закрыть магазин плагинов?"
+    },
+    "overlay_cancel-action": {
+        "message": "Это приведет к отмене %action%"
+    },
+    "overlay_generic-error-header": {
+        "message": "Не получено никаких данных!"
+    },
+    "overlay_generic-internet-fail": {
+        "message": "Упс! Произошла ошибка. Проверьте ваше подключение к Интернету и повторите попытку."
+    },
+    "overlay_generic-error-text": {
+        "message": "При получении данных произошла ошибка. Попробуйте еще раз"
+    },
+    "overlay_install-restart-now": {
+        "message": "ПЕРЕЗАПУСТИТЬ СЕЙЧАС"
+    },
+    "overlay_install-restart-later": {
+        "message": "ПЕРЕЗАПУСТИТЬ ПОЗЖЕ"
+    },
+    "overlay_needs-restart-info": {
+        "message": "Для того чтобы изменения вступили в силу, необходимо перезапустить XSplit."
+    },
+    "extension_label": {
+        "message": "Расширения"
+    },
+    "source_label": {
+        "message": "Источники"
+    },
+    "output_label": {
+        "message": "Устройства вывода"
+    },
+    "myPlugins_plugin_types": {
+        "message": "Все типы плагинов"
+    },
+    "myPlugins_show_plugins_with_update": {
+        "message": "Показать только плагины с обновлениями"
+    },
+    "search_ascending": {
+        "message": "По возрастанию"
+    },
+    "search_descending": {
+        "message": "По убыванию"
+    },
+    "search_and_separator": {
+        "message": "и"
+    },
+    "home_search_placeholder": {
+        "message": "Искать в магазине..."
+    }
+}

@@ -1,0 +1,1415 @@
+{
+	"main.pin": {
+		"message": "고정"
+	},
+	"main.refresh": {
+		"message": "새로고침"
+	},
+	"main.keep_in_memory": {
+		"message": "메모리에 소스 유지"
+	},
+	"main.see_linked_sources": {
+		"message": "연결된 소스"
+	},
+	"main.unlink": {
+		"message": "연결 해제"
+	},
+	"main.linked_sources": {
+		"message": "연결된 소스들:"
+	},
+	"main.none": {
+		"message": "`-` None -"
+	},
+	"main.error_details_source": {
+		"message": "소스 파일이 비어있습니다. 이름이 수정되었거나 삭제되었을 것입니다."
+	},
+	"main.go_to_store": {
+		"message": "소스 플러그인 저장소로 이동"
+	},
+	"main.or": {
+		"message": " 또는 "
+	},
+	"main.browse_file": {
+		"message": "파일 찾기"
+	},
+	"main.add_loading": {
+		"message": "불러오는 중..."
+	},
+	"main.add_text": {
+		"message": "텍스트 추가"
+	},
+	"main.add_image_slideshow": {
+		"message": "이미지 슬라이드쇼 추가"
+	},
+	"main.add_video_playlist": {
+		"message": "비디오 재생 목록 추가"
+	},
+	"main.add_skype_ndi": {
+		"message": "스카이프 NDI 소스 추가"
+	},
+	"main.add_plugin": {
+		"message": "%plugin_name% 추가"
+	},
+	"main.ok": {
+		"message": "Ok"
+	},
+	"main.cancel": {
+		"message": "취소"
+	},
+	"main.disable_audio_wrapper_warning": {
+		"message": "\"Native Flash 사운드 컨트롤\"을 사용할 때에는 [br]오디오 wrapper를 잠깐 꺼두는 것을 추천해드립니다."
+	},
+	"main.win7_aero_desktop_capture_warning": {
+		"message": "Aero 테마는 데스크탑 캡처를 지원하지 않으며 동시에 XSplit 성능에 영향을 미칠 수 있습니다. 데스크탑 캡처를 반드시 써야한다면 윈도우7 기본 테마로 바꿔주세요. [여기](https://xspl.it/bc/jn2qeo)에서 더 자세히 알아보세요."
+	},
+	"main.ndi_in_beta": {
+		"message": "NDI 소스는 아직 베타 버전 입니다. 오디오 렌더링은 아직 지원되지 않습니다."
+	},
+	"main.ndi_in_beta_audio_supported": {
+		"message": "NDI 소스는 아직 베타버전 입니다."
+	},
+	"main.ndi_audio_not_supported": {
+		"message": "오디오 렌더링은 아직 지원하지 않습니다."
+	},
+	"main.file_contains_ac3": {
+		"message": "이 파일은 AC3 오디오 인코딩으로 구성되었습니다. Microsoft 와 XSplit 은 AC3 오디오를 디코딩할 라이센스를 부여하지 않습니다. AC3 디코딩을 위해서 [해당 필터](https://xspl.it/orsexj) 를 다운로드 하고 설치하실수 있습니다. 그후 소스를 새로고침 하세요. \n[br]참고: 해당 오디오에 관한 책임과 저작권이 있을 경우에만 사용 하시기를 권장합니다. (해당 오디오 관련 사용 권한서 참조)."
+	},
+	"main.flash_player_not_installed_outdated": {
+		"message": "플래시 플레이어가 없거나 오래된 버전입니다. [최신 버전의 플래시 플레이어 다운로드 받기.](https://xspl.it/getflash)"
+	},
+	"main.sync_with_elgato": {
+		"message": "%device% 장치(같은 장면에 있는) 의 추가된 지연과 현재 소스를 동기화 하기 위해 %elgatodelay% ms 값의 지연을 추가하셔야 합니다."
+	},
+	"main.stream_only_unsupported": {
+		"message": "오직 방송에만 오디오 출력은 윈도우 10 이상의 운영체제에서만 가능합니다."
+	},
+	"main.help.linked_sources_title": {
+		"message": "연결된 소스"
+	},
+	"main.help.linked_sources_message": {
+		"message": "메모리 유지가 된 소스들은 모든 장면에 해당됩니다. 항상 같은 소스 이름과 같은 해상도에 설정되어 있습니다. 구성 요소에서 \"메모리 유지\" 를 활성화 하여 모든 같은 소스들을 연결하게 됩니다."
+	},
+	"main.audio_output_options_system_sound": {
+		"message": "시스템 사운드"
+	},
+	"main.audio_output_options_stream_only": {
+		"message": "오직 방송에만"
+	},
+	"main.audio_output_options_stream_only_unsupported": {
+		"message": "오직 방송에만"
+	},
+	"main.audio_output_options_stream_only_install": {
+		"message": "오직 방송에만 (설치)"
+	},
+	"main.audio_output_options_default_speakers": {
+		"message": "기본 스피커"
+	},
+	"main.when_finished_options_nothing": {
+		"message": "아무것도 안함"
+	},
+	"main.when_finished_options_rewind": {
+		"message": "되감기"
+	},
+	"main.when_finished_options_loop": {
+		"message": "반복"
+	},
+	"main.when_finished_options_hide": {
+		"message": "숨기기"
+	},
+	"main.when_finished_options_transparent": {
+		"message": "투명"
+	},
+	"tabheader.color": {
+		"message": "색"
+	},
+	"tabheader.layout": {
+		"message": "레이아웃"
+	},
+	"tabheader.transition": {
+		"message": "효과"
+	},
+	"tabheader.debug": {
+		"message": "디버그"
+	},
+	"tabheader.video_playlist": {
+		"message": "재생 목록"
+	},
+	"tabheader.ip_cam": {
+		"message": "IP Cam"
+	},
+	"tabheader.media": {
+		"message": "미디어"
+	},
+	"tabheader.audio": {
+		"message": "오디오"
+	},
+	"tabheader.cam": {
+		"message": "카메라"
+	},
+	"tabheader.title": {
+		"message": "제목"
+	},
+	"tabheader.screen": {
+		"message": "화면"
+	},
+	"tabheader.stream": {
+		"message": "스트림"
+	},
+	"tabheader.swf": {
+		"message": "SWF"
+	},
+	"tabheader.skype": {
+		"message": "스카이프"
+	},
+	"tabheader.game": {
+		"message": "게임"
+	},
+	"tabheader.text": {
+		"message": "텍스트"
+	},
+	"tabheader.slideshow": {
+		"message": "슬라이드쇼"
+	},
+	"tabheader.hotkeys": {
+		"message": "단축키"
+	},
+	"tabheader.whiteboard": {
+		"message": "화이트 보드"
+	},
+	"tabheader.html": {
+		"message": "Html"
+	},
+	"tabheader.rtmp": {
+		"message": "RTMP"
+	},
+	"tabheader.ndi": {
+		"message": "NDI"
+	},
+	"tabheader.tobii": {
+		"message": "Tobii"
+	},
+	"tabheader.replay": {
+		"message": "리플레이"
+	},
+	"tabheader.scene": {
+		"message": "장면"
+	},
+	"colortab.picture": {
+		"message": "사진"
+	},
+	"colortab.keying": {
+		"message": "키"
+	},
+	"colortab.reset": {
+		"message": "리셋"
+	},
+	"colortab.none": {
+		"message": "없음"
+	},
+	"colortab.chroma_key": {
+		"message": "크로마 키"
+	},
+	"colortab.color_key": {
+		"message": "색상 키"
+	},
+	"colortab.quality": {
+		"message": "화질"
+	},
+	"colortab.real_sense": {
+		"message": "Intel&reg; RealSense&trade;"
+	},
+	"colortab.realsense_info": {
+		"message": "Your Intel&reg; RealSense&trade; 3D 카메라를 작동하여 녹색 배경 없이 뒷 배경을 제거해주는 기능."
+	},
+	"colortab.realsense_not_installed": {
+		"message": "Intel&reg; RealSense&trade; 뒷 배경 제거 필수 구성 요소가 감지 되지 않았습니다 [Intel RealSence SDK Runtime 인스톨러 실행](%link%) (XSplit 에 필요한 요소들은 자동으로 선택되었습니다.)"
+	},
+	"colortab.realsense_error": {
+		"message": "Intel&reg; RealSense&trade; 뒷 배경 제거 필수 요소가 제대로 설치 되지 않을 수 있습니다. 더 많은 정보를 위해 [읽어보기](https://xspl.it/realsense)"
+	},
+	"colortab.legacy": {
+		"message": "레거시 모드"
+	},
+	"colortab.keycolor": {
+		"message": "키 색상"
+	},
+	"colortab.anti_aliasing": {
+		"message": "앤티 앨리어싱"
+	},
+	"colortab.eyedrop": {
+		"message": "Eyedrop 도구"
+	},
+	"colortab.copy_color_settings": {
+		"message": "크로마 키 설정 복사"
+	},
+	"colortab.paste_color_settings": {
+		"message": "크로마 키 설정 붙여넣기"
+	},
+	"colortab.help.full_dynamic_range_title": {
+		"message": "전체 동적 범위"
+	},
+	"colortab.help.full_dynamic_range_message": {
+		"message": "Full dynamic range는 모든 카메라 장치 및 캡처 보드가 소스로 적용될 수 있게 만드는 설정입니다."
+	},
+	"colortab.enable_full_dynamic_range": {
+		"message": "전체 동적 범위"
+	},
+	"colortab.apply_globally": {
+		"message": "모든 연결된 소스들에 적용"
+	},
+	"colortab.help.smartcam_quality_title": {
+		"message": "화질"
+	},
+	"colortab.help.smartcam_quality_message": {
+		"message": "화질이 높을수록 CPU 사용량이 증가합니다 (1 - 낮음/5 - 높음)"
+	},
+	"colortab.key_color_options_green": {
+		"message": "녹색"
+	},
+	"colortab.key_color_options_red": {
+		"message": "붉은색"
+	},
+	"colortab.key_color_options_blue": {
+		"message": "파란색"
+	},
+	"colortab.anti_aliasing_options_high": {
+		"message": "높음"
+	},
+	"colortab.anti_aliasing_options_low": {
+		"message": "낮음"
+	},
+	"colortab.anti_aliasing_options_none": {
+		"message": "없음"
+	},
+	"colortab.no_greenscreen": {
+		"message": "크로마 키 장비가 없으신가요?"
+	},
+	"colortab.try_vcam": {
+		"message": "엑스플릿 브이캠을 사용해보세요!"
+	},
+	"layouttab.position": {
+		"message": "위치"
+	},
+	"layouttab.3d": {
+		"message": "2D/3D 변환"
+	},
+	"layouttab.cropping": {
+		"message": "사진/삽화의 불필요한 부분 다듬기"
+	},
+	"layouttab.source_rotate": {
+		"message": "3D 모드로 회전하려면 Shift 키를 누르고 드래그하세요."
+	},
+	"layouttab.x": {
+		"message": "X"
+	},
+	"layouttab.y": {
+		"message": "Y"
+	},
+	"layouttab.z": {
+		"message": "Z"
+	},
+	"layouttab.rotate": {
+		"message": "회전"
+	},
+	"layouttab.flip": {
+		"message": "플립"
+	},
+	"layouttab.counter_clockwise": {
+		"message": "시계 반대 방향으로"
+	},
+	"layouttab.clockwise": {
+		"message": "시계 방향으로"
+	},
+	"layouttab.width": {
+		"message": "폭"
+	},
+	"layouttab.height": {
+		"message": "고도"
+	},
+	"layouttab.reset": {
+		"message": "리셋"
+	},
+	"layouttab.crop_alt_key": {
+		"message": "ALT 키를 눌러 윤곽선을 끌어당겨 보세요"
+	},
+	"layouttab.top": {
+		"message": "상단"
+	},
+	"layouttab.bottom": {
+		"message": "아래"
+	},
+	"layouttab.left": {
+		"message": "왼쪽"
+	},
+	"layouttab.right": {
+		"message": "오른쪽"
+	},
+	"layouttab.autocrop": {
+		"message": "자동으로 크로핑"
+	},
+	"layouttab.keep_aspect_ratio": {
+		"message": "가로 세로 비율 유지"
+	},
+	"layouttab.lock_position": {
+		"message": "화면 유지"
+	},
+	"layouttab.enhance_resize": {
+		"message": "리사이즈 강화"
+	},
+	"layouttab.pan_360": {
+		"message": "360도 프로젝터"
+	},
+	"layouttab.help.pan_360_message": {
+		"message": "\"위치 고정\" 을 사용 합니다. 마우스 휠로 줌인/줌아웃 하고 클릭 후 드래그로 크기조절을 할 수 있습니다."
+	},
+	"transitiontab.masking": {
+		"message": "마스킹"
+	},
+	"transitiontab.none": {
+		"message": "없음"
+	},
+	"transitiontab.shape": {
+		"message": "모양"
+	},
+	"transitiontab.file": {
+		"message": "파일"
+	},
+	"transitiontab.filters": {
+		"message": "필터"
+	},
+	"transitiontab.effects": {
+		"message": "장면 전환"
+	},
+	"transitiontab.shadow": {
+		"message": "그림자"
+	},
+	"transitiontab.size": {
+		"message": "사이즈"
+	},
+	"transitiontab.radius": {
+		"message": "반지름"
+	},
+	"transitiontab.opacity": {
+		"message": "투명도"
+	},
+	"transitiontab.border": {
+		"message": "테두리"
+	},
+	"transitiontab.color": {
+		"message": "색상"
+	},
+	"transitiontab.reset": {
+		"message": "재설정"
+	},
+	"transitiontab.offset_x": {
+		"message": "오프셋 X"
+	},
+	"transitiontab.blur": {
+		"message": "흐림"
+	},
+	"transitiontab.offset_y": {
+		"message": "오프셋 Y"
+	},
+	"transitiontab.mask_source": {
+		"message": "소스에 마스킹"
+	},
+	"transitiontab.mask_stage": {
+		"message": "스테이지에 마스킹"
+	},
+	"transitiontab.image_mask_file": {
+		"message": "이미지 마스킹 파일"
+	},
+	"transitiontab.show_masking_guide": {
+		"message": "마스킹 가이드 보기"
+	},
+	"transitiontab.re2_mode": {
+		"message": "RE2 모드에서는 소스 전환이 지원되지 않습니다."
+	},
+	"transitiontab.config_text": {
+		"message": "기본 설정은 전환 애니메이션이 소스를 보이거나 숨길때 적용됩니다. (체크박스의 체크 유무). 또는 장면 자체가 다른 장면으로 전환 될때로 적용됩니다. 그러나 '소스 전환 애니메이션' 은 '장면 전환 애니메이션' 설정이 '없음' 으로 설정되어있으면 적용되지 않습니다. 소스 전환 애니메이션을 정상적으로 적용하시려면 장면 전환도 같이 설정해 주시기 바랍니다."
+	},
+	"transitiontab.transition": {
+		"message": "장면 전환"
+	},
+	"transitiontab.speed": {
+		"message": "속도"
+	},
+	"transitiontab.speed_unit": {
+		"message": "ms"
+	},
+	"transitiontab.preview_label": {
+		"message": "미리 보기"
+	},
+	"transitiontab.no_available_preview": {
+		"message": "미리보기 사용 불가"
+	},
+	"transitiontab.on_scene_exit": {
+		"message": "장면 벗어날시"
+	},
+	"transitiontab.on_scene_enter": {
+		"message": "장면 들어갈시"
+	},
+	"transitiontab.lut_file": {
+		"message": "LUT 파일"
+	},
+	"transitiontab.browse": {
+		"message": "탐색"
+	},
+	"transitiontab.intensity": {
+		"message": "효과 강도"
+	},
+	"transitiontab.bloom_intensity": {
+		"message": "빛 발산 강도"
+	},
+	"transitiontab.magnify_amount": {
+		"message": "돋보기 강도"
+	},
+	"transitiontab.blur_amount": {
+		"message": "흐리기 강도"
+	},
+	"transitiontab.filters_none": {
+		"message": "필터 없음"
+	},
+	"transitiontab.filters_sharpen": {
+		"message": "선명도"
+	},
+	"transitiontab.filters_smoothen": {
+		"message": "부드러움"
+	},
+	"transitiontab.filters_cool": {
+		"message": "시원한"
+	},
+	"transitiontab.filters_warm": {
+		"message": "따뜻한"
+	},
+	"transitiontab.filters_bloom": {
+		"message": "빛 발산"
+	},
+	"transitiontab.filters_mono": {
+		"message": "흑백"
+	},
+	"transitiontab.filters_color_tint": {
+		"message": "색 틴트"
+	},
+	"transitiontab.filters_invert": {
+		"message": "색 반전"
+	},
+	"transitiontab.filters_old_movie": {
+		"message": "옛날 영화"
+	},
+	"transitiontab.filters_sketch": {
+		"message": "스케치"
+	},
+	"transitiontab.filters_magnify": {
+		"message": "돋보기"
+	},
+	"transitiontab.filters_blur": {
+		"message": "흐림"
+	},
+	"transitiontab.filters_custom": {
+		"message": "사용지 지정 LUT"
+	},
+	"transitiontab.luts_article": {
+		"message": "LUT 란?"
+	},
+	"transitiontab.transition_select_options_none": {
+		"message": "없음"
+	},
+	"transitiontab.transition_select_options_clock": {
+		"message": "시계 방향"
+	},
+	"transitiontab.transition_select_options_collapse": {
+		"message": "밖에서 안으로"
+	},
+	"transitiontab.transition_select_options_ease_in_out_back": {
+		"message": "서서히 등장/물러남"
+	},
+	"transitiontab.transition_select_options_ease_out_bounce": {
+		"message": "서서히 튕기며"
+	},
+	"transitiontab.transition_select_options_ease_out_elastic": {
+		"message": "서서히 탄력있게"
+	},
+	"transitiontab.transition_select_options_fade": {
+		"message": "흐려지기"
+	},
+	"transitiontab.transition_select_options_fan": {
+		"message": "선풍기"
+	},
+	"transitiontab.transition_select_options_hole": {
+		"message": "홀"
+	},
+	"transitiontab.transition_select_options_move_left": {
+		"message": "왼쪽으로 이동"
+	},
+	"transitiontab.transition_select_options_move_right": {
+		"message": "오른쪽으로 이동"
+	},
+	"transitiontab.transition_select_options_move_left_right": {
+		"message": "좌 우로 이동"
+	},
+	"transitiontab.transition_select_options_move_top": {
+		"message": "위로 이동"
+	},
+	"transitiontab.transition_select_options_move_bottom": {
+		"message": "아래로 이동"
+	},
+	"transitiontab.transition_select_options_move_top_bottom": {
+		"message": "상 하로 이동"
+	},
+	"transitiontab.transition_select_options_wave": {
+		"message": "웨이브"
+	},
+	"transitiontab.transition_select_options_zoom": {
+		"message": "줌"
+	},
+	"debugtab.title": {
+		"message": "디버그"
+	},
+	"debugtab.videoitem_id": {
+		"message": "비디오아이템ID"
+	},
+	"debugtab.src_id": {
+		"message": "소스ID"
+	},
+	"debugtab.src_type": {
+		"message": "소스 종류"
+	},
+	"debugtab.copy": {
+		"message": "복사"
+	},
+	"debugtab.type_undefined": {
+		"message": "불확실"
+	},
+	"debugtab.type_file": {
+		"message": "파일"
+	},
+	"debugtab.type_live": {
+		"message": "라이브"
+	},
+	"debugtab.type_text": {
+		"message": "텍스트"
+	},
+	"debugtab.type_image": {
+		"message": "이미지"
+	},
+	"debugtab.type_screen": {
+		"message": "화면"
+	},
+	"debugtab.type_swf": {
+		"message": "SWF"
+	},
+	"debugtab.type_game": {
+		"message": "게임"
+	},
+	"debugtab.type_html": {
+		"message": "Html"
+	},
+	"debugtab.type_3ds": {
+		"message": "3DS"
+	},
+	"debugtab.type_ppt": {
+		"message": "프레젠테이션"
+	},
+	"debugtab.type_scene": {
+		"message": "장면"
+	},
+	"debugtab.type_group": {
+		"message": "그룹"
+	},
+	"debugtab.type_replay": {
+		"message": "리플레이"
+	},
+	"debugtab.type_view": {
+		"message": "보기"
+	},
+	"camtab.processing": {
+		"message": "소스를 전환..."
+	},
+	"camtab.updating_settings": {
+		"message": "설정 업데이트 중..."
+	},
+	"camtab.playback": {
+		"message": "다시 재생"
+	},
+	"camtab.device_configuration": {
+		"message": "장치 구성요소"
+	},
+	"camtab.delay": {
+		"message": "딜레이 (ms)"
+	},
+	"camtab.audio_input": {
+		"message": "오디오 입력"
+	},
+	"camtab.audio_output": {
+		"message": "오디오 출력"
+	},
+	"camtab.offset": {
+		"message": "오프셋 (ms)"
+	},
+	"camtab.offset_text": {
+		"message": "(오디오 비디오 동기화)"
+	},
+	"camtab.silence_detection": {
+		"message": "음소거 탐지"
+	},
+	"camtab.threshold": {
+		"message": "임계값"
+	},
+	"camtab.silence_period": {
+		"message": "음소거 탐지 (ms)"
+	},
+	"camtab.camera_source": {
+		"message": "카메라 소스"
+	},
+	"camtab.camera_source_audio": {
+		"message": "오디오 소스"
+	},
+	"camtab.configure_text": {
+		"message": "%device_name% 설정을 변경하려면 환경설정 버튼을 누르세요. "
+	},
+	"camtab.auto_logitech": {
+		"message": "일반 설정 사용"
+	},
+	"camtab.manual_logitech": {
+		"message": "수동으로 구성"
+	},
+	"camtab.configure": {
+		"message": "환경설정"
+	},
+	"camtab.priority": {
+		"message": "우선시"
+	},
+	"camtab.frame_rate_priority_logitech": {
+		"message": "초당 프레임률"
+	},
+	"camtab.exposure_priority_logitech": {
+		"message": "노출"
+	},
+	"camtab.field_of_view": {
+		"message": "시야각"
+	},
+	"camtab.orientation": {
+		"message": "화면구성"
+	},
+	"camtab.orientation_disabled": {
+		"message": "비활성화"
+	},
+	"camtab.orientation_portrait": {
+		"message": "세로"
+	},
+	"camtab.orientation_landscape": {
+		"message": "가로"
+	},
+	"camtab.orientation_auto": {
+		"message": "자동 구성"
+	},
+	"camtab.enable_hdr": {
+		"message": "활성화"
+	},
+	"camtab.hdr": {
+		"message": "HDR (고동적 범위)"
+	},
+	"camtab.help.hdr": {
+		"message": "이 설정을 활성화 하면 모든 조명 관련 상황의 녹화 품질을 향상합니다 - 어두움, 밝음, 고대비, 역광. 초당30프레임률 이하 에서 가능"
+	},
+	"camtab.video_source": {
+		"message": "비디오 입력"
+	},
+	"camtab.video_capture_pin": {
+		"message": "비디오 출력"
+	},
+	"camtab.tv_tuner": {
+		"message": "TV 튜너"
+	},
+	"camtab.video_cross_bar1": {
+		"message": "크로스 바"
+	},
+	"camtab.video_cross_bar2": {
+		"message": "크로스 바 2"
+	},
+	"camtab.vfw_capture_source": {
+		"message": "VFW 입력"
+	},
+	"camtab.vfw_capture_format": {
+		"message": "VFW 포맷"
+	},
+	"camtab.vfw_capture_display": {
+		"message": "VFW 디스플레이"
+	},
+	"camtab.hw_video_encoder": {
+		"message": "HW 비디오 인코더"
+	},
+	"camtab.hw_audio_encoder": {
+		"message": "HW 오디오 인코더"
+	},
+	"camtab.hw_mux": {
+		"message": "HW MUX"
+	},
+	"camtab.audio_source": {
+		"message": "오디오 입력"
+	},
+	"camtab.audio_capture_pin": {
+		"message": "오디오 출력"
+	},
+	"camtab.tv_audio": {
+		"message": "TV 오디오"
+	},
+	"camtab.video_renderer": {
+		"message": "동영상 렌더러"
+	},
+	"camtab.audio_renderer": {
+		"message": "오디오 렌더러"
+	},
+	"camtab.force_deinterlace": {
+		"message": "디인터레이스 실행"
+	},
+	"camtab.auto_configure": {
+		"message": "XSplit 자동 구성 허용"
+	},
+	"camtab.use_black_magic_wdm": {
+		"message": "Blackmagic WDM 캡처 사용"
+	},
+	"camtab.description": {
+		"message": "XSplit에 대해 배우고 싶으시면 여기를 방문하세요:"
+	},
+	"camtab.avermedia.partnersite1_description": {
+		"message": "AVerMedia Live Gamer HD C985 페이지"
+	},
+	"camtab.avermedia.partnersite2_description": {
+		"message": "AVerMedia C875 라이브 게이머 휴대용 페이지"
+	},
+	"camtab.elgato.partnersite1_description": {
+		"message": "Elgato 게임 캡처 웹사이트"
+	},
+	"camtab.elgato.partnersite2_description": {
+		"message": "Elgato 지원 페이지"
+	},
+	"camtab.roxio.partnersite1_description": {
+		"message": "Roxio 웹사이트"
+	},
+	"camtab.roxio.partnersite2_description": {
+		"message": "Roxio 게임 캡처 페이지"
+	},
+	"camtab.xsplit_support_page": {
+		"message": "XSplit 고객 지원 페이지"
+	},
+	"camtab.youtube": {
+		"message": "%name% 유튜브"
+	},
+	"camtab.audio_input_options_builtin": {
+		"message": "내장 오디오 장치"
+	},
+	"camtab.audio_input_options_none": {
+		"message": "없음"
+	},
+	"gametab.game_source": {
+		"message": "게임 소스"
+	},
+	"gametab.show_mouse": {
+		"message": "마우스 커서 보이기"
+	},
+	"gametab.enable_special_optimization": {
+		"message": "특별 최적화"
+	},
+	"gametab.unable_to_set": {
+		"message": "(최적화 설정 불가)"
+	},
+	"gametab.special_optimization_hint": {
+		"message": "(Crossfire/SLI 사용시 발생할 오류를 예방하려면 특별 최적화 비활성화)"
+	},
+	"gametab.enable_playback_smoothness": {
+		"message": "자연스러운 프레임 활성화"
+	},
+	"gametab.allow_transparency": {
+		"message": "투명도 활성화"
+	},
+	"gametab.playback_smoothness": {
+		"message": "FPS 양 (%)"
+	},
+	"gametab.limit_game_fps": {
+		"message": "게임 FPS 한계치:"
+	},
+	"gametab.offline_image": {
+		"message": "오프라인 이미지"
+	},
+	"gametab.offline_image_description": {
+		"message": "공식 이미지는 게임이나 소스가 감지되지 않았을때 보여집니다 (게임소스가 반영되도록 빈 공간으로 두어도 됩니다)"
+	},
+	"mediatab.playback": {
+		"message": "다시 재생"
+	},
+	"mediatab.audio_output": {
+		"message": "오디오 출력"
+	},
+	"mediatab.start_at": {
+		"message": "시작점"
+	},
+	"mediatab.set": {
+		"message": "설정"
+	},
+	"mediatab.end_at": {
+		"message": "종료점"
+	},
+	"mediatab.reset": {
+		"message": "리셋"
+	},
+	"mediatab.play": {
+		"message": "재생"
+	},
+	"mediatab.play_options_once": {
+		"message": "한번만"
+	},
+	"mediatab.play_options_forever": {
+		"message": "평생"
+	},
+	"mediatab.play_options_custom": {
+		"message": "사용자 지정..."
+	},
+	"mediatab.loop_times": {
+		"message": "횟 수"
+	},
+	"mediatab.when_finished": {
+		"message": "종료시"
+	},
+	"mediatab.start_on_load": {
+		"message": "장면 등장시 재생"
+	},
+	"mediatab.play_on_show": {
+		"message": "소스 활성화시 강제 재생"
+	},
+	"mediatab.remember_playback_position": {
+		"message": "되감기 지점 기억하기"
+	},
+	"mediatab.force_deinterlace": {
+		"message": "디인터레이스 실행"
+	},
+	"mediatab.show_playback_position": {
+		"message": "재생 타임라인 위치 표시"
+	},
+	"mediatab.cuepoints": {
+		"message": "큐 시점"
+	},
+	"mediatab.add_to_cuepoints": {
+		"message": "큐 포인트를 추가"
+	},
+	"mediatab.add": {
+		"message": "추가"
+	},
+	"mediatab.saved_cue_points": {
+		"message": "저장된 큐 포인트"
+	},
+	"mediatab.cue_point_type.cue_point": {
+		"message": "큐 포인트"
+	},
+	"mediatab.cue_point_type.start": {
+		"message": "시작"
+	},
+	"mediatab.cue_point_type.end": {
+		"message": "끝"
+	},
+	"mediatab.cue_point_type.cut": {
+		"message": "컷"
+	},
+	"mediatab.cue_point_type.pause": {
+		"message": "정지"
+	},
+	"mediatab.cue_point_type.resume": {
+		"message": "다시 시작"
+	},
+	"mediatab.change": {
+		"message": "변경..."
+	},
+	"mediatab.cue_point_options_resume": {
+		"message": "다시 시작"
+	},
+	"mediatab.cue_point_options_pause": {
+		"message": "정지"
+	},
+	"mediatab.cue_point_options_cut": {
+		"message": "컷"
+	},
+	"mediatab.help.loop_times_title": {
+		"message": "사용자 지정 재생"
+	},
+	"mediatab.help.loop_times_message": {
+		"message": "새로운 사용자 지정 재생 값을 설정할 경우 재생 카운터가 1로 설정됩니다."
+	},
+	"picturetab.mediasource": {
+		"message": "미디어 소스"
+	},
+	"screentab.processing": {
+		"message": "소스를 전환..."
+	},
+	"screentab.window_capture": {
+		"message": "실행 프로그램 캡처"
+	},
+	"screentab.desktop_capture": {
+		"message": "바탕 화면 캡처"
+	},
+	"screentab.area": {
+		"message": "위치"
+	},
+	"screentab.capture_options": {
+		"message": "캡처 설정"
+	},
+	"screentab.x": {
+		"message": "X"
+	},
+	"screentab.y": {
+		"message": "Y"
+	},
+	"screentab.width": {
+		"message": "폭"
+	},
+	"screentab.height": {
+		"message": "높이"
+	},
+	"screentab.client_area": {
+		"message": "클라이언트 영역"
+	},
+	"screentab.track_window_title": {
+		"message": "타이틀 자동 감지"
+	},
+	"screentab.window_source": {
+		"message": "윈도우 소스"
+	},
+	"screentab.desktop_source": {
+		"message": "데스크탑 소스"
+	},
+	"screentab.screen_capture": {
+		"message": "스크린 캡처"
+	},
+	"screentab.exclude_xsplit_window": {
+		"message": "화면 캡처에서 엑스플릿 보이지 않기"
+	},
+	"screentab.optimize_window_capture": {
+		"message": "독점 윈도우 창 캡처"
+	},
+	"screentab.capture_layered_windows": {
+		"message": "Capture Layered Windows[br] (마우스 깜빡임을 피하려면 이 체크박스를 취소해 주세요)"
+	},
+	"screentab.not_supported": {
+		"message": "(현 시스템에는 지원 하지 않음)"
+	},
+	"screentab.gpu_optimized": {
+		"message": "GPU 최적화"
+	},
+	"screentab.show_mouse": {
+		"message": "마우스 커서 보이기"
+	},
+	"screentab.show_mouse_clicks": {
+		"message": "마우스 클릭 보이기"
+	},
+	"screentab.fix_black_capture": {
+		"message": "검은 화면 수정하기"
+	},
+	"screentab.reset": {
+		"message": "리셋"
+	},
+	"skytab.skype": {
+		"message": "스카이프"
+	},
+	"skytab.offline_image": {
+		"message": "오프라인 이미지"
+	},
+	"skytab.offline_image_description": {
+		"message": "오프라인 이미지는 스카이프 비디오 피드가 감지 되지 않았을 때 보여집니다 (스카이프 소스가 반영될 것이라면 빈 공간으로 두세요)"
+	},
+	"skytab.source_flicker": {
+		"message": "Skype 소스가 불안정 할 수 있습니다:"
+	},
+	"skytab.multiple_calls": {
+		"message": "다수의 통화 (홀드 상태 포함)"
+	},
+	"skytab.skype_show_call_cotrols": {
+		"message": "&quot;Skype 가 배경화면에서 실행중에도 제어 버튼 표기&quot; 활성화 되었습니다. Skype 설정 -> 통화 설정 -> 고급"
+	},
+	"skytab.ndi_skype_enable": {
+		"message": "스카이프 NDI 사용하는 방법:"
+	},
+	"skytab.ndi_multiple_calls": {
+		"message": "최소 필요 버전 - 스카이프 프리뷰 8.28.76.42"
+	},
+	"skytab.ndi_skype_show_call_cotrols": {
+		"message": "스카이프 설정에서 &quot;NDI 허용&quot; 활성화 > 통화 설정 > 고급 통화 설정"
+	},
+	"skytab.skypeId": {
+		"message": "스카이프 ID:"
+	},
+	"skytab.computerName": {
+		"message": "컴퓨터 이름:"
+	},
+	"skytab.skypeNdiLink": {
+		"message": "스카이프 NDI 에 대해서 더 알아보기"
+	},
+	"skytab.apply": {
+		"message": "적용"
+	},
+	"skytab.search.help.message": {
+		"message": "본인의 스카이프 NDI 소스에 컴퓨터 이름과 스카이프 ID 를 입력하세요. 또는 돋보기 아이콘을 클릭하여 사용 가능한 스카이프 NDI 소스를 검색하세요. 적용 을 클릭하여 소스에 연결할수 있습니다."
+	},
+	"skytab.search.help.title": {
+		"message": "스카이프 NDI 소스"
+	},
+	"skytab.skype_available_ndi_sources": {
+		"message": "사용 가능한 스카이프 NDI 소스"
+	},
+	"skytab.no_ndi_label": {
+		"message": "탐지된 스카이프 NDI 통화가 없습니다"
+	},
+	"streamtab.playback": {
+		"message": "다시 재생"
+	},
+	"streamtab.audio_output": {
+		"message": "오디오 출력"
+	},
+	"streamtab.use_rtmp_flash": {
+		"message": "재생시 플래시 사용"
+	},
+	"streamtab.stream_source": {
+		"message": "방송 소스"
+	},
+	"streamtab.stream_name": {
+		"message": "스트림 이름"
+	},
+	"streamtab.delay": {
+		"message": "스트림 버퍼링 (초)"
+	},
+	"streamtab.protocol": {
+		"message": "프로토콜"
+	},
+	"streamtab.protocol_tooltip": {
+		"message": "낮은 레벨의 RTSP 프로토콜을 설정합니다.[br][br] 끊김 현상이나 동기화가 불안정적일때 TCP 에서 UDP 로 프로토콜을 변경 해보십시오. 만약 방화벽에 의해 제한된다면 HTTP 로 설정 하실 수 있습니다."
+	},
+	"streamtab.apply": {
+		"message": "적용"
+	},
+	"nditab.playback": {
+		"message": "재생 설정"
+	},
+	"nditab.audio_output": {
+		"message": "오디오 출력"
+	},
+	"nditab.ndi_source": {
+		"message": "방송 소스"
+	},
+	"nditab.quality": {
+		"message": "화질"
+	},
+	"nditab.standard": {
+		"message": "일반"
+	},
+	"nditab.maximum": {
+		"message": "최대"
+	},
+	"nditab.apply": {
+		"message": "적용"
+	},
+	"replaytab.saveToDisk": {
+		"message": "하드디스크에 저장"
+	},
+	"replaytab.saveToDiskOnPlayback": {
+		"message": "활성화 될 시 하드디스크에 저장"
+	},
+	"replaytab.source": {
+		"message": "소스"
+	},
+	"replaytab.no_output": {
+		"message": "선택된 송출 없음"
+	},
+	"replaytab.output_live": {
+		"message": "방송 송출중 입니다."
+	},
+	"replaytab.output_offline": {
+		"message": "방송이 아직 송출되지 않았습니다."
+	},
+	"replaytab.connect_to": {
+		"message": "연결"
+	},
+	"replaytab.help.connect_to_title": {
+		"message": "연결"
+	},
+	"replaytab.help.connect_to_message": {
+		"message": "해당 리플레이 소스가 연결될 송출을 선택하세요. 자동 설정 사용시 다음 송출되는 방송에 리플레이 연결이 됩니다."
+	},
+	"replaytab.help.save_playback_title": {
+		"message": "활성화 될 시 리플레이를 하드디스크에 저장"
+	},
+	"replaytab.help.save_playback_message": {
+		"message": "리플레이 사본을 기존 녹화 폴더 경로에 저장합니다."
+	},
+	"replaytab.help.saveToDisk_title": {
+		"message": "하드디스크에 저장"
+	},
+	"replaytab.help.saveToDisk_message": {
+		"message": "리플레이를 송출하지 않고 하드디스크에만 저장합니다."
+	},
+	"replaytab.replay": {
+		"message": "리플레이"
+	},
+	"replaytab.hotkey": {
+		"message": "단축키"
+	},
+	"replaytab.replayTime": {
+		"message": "리플레이 시간"
+	},
+	"replaytab.bufferLength": {
+		"message": "리플레이 기억 길이"
+	},
+	"replaytab.playback": {
+		"message": "재생 설정"
+	},
+	"replaytab.seconds": {
+		"message": "초"
+	},
+	"replaytab.start_on_load": {
+		"message": "장면 등장시 재생"
+	},
+	"replaytab.audio_output": {
+		"message": "오디오 출력"
+	},
+	"replaytab.display": {
+		"message": "디스플레이"
+	},
+	"scenetab.display": {
+		"message": "디스플레이"
+	},
+	"scenetab.scene": {
+		"message": "장면 소스"
+	},
+	"scenetab.scene_description": {
+		"message": "해당 장면 소스를 편집하시려면 원본 소스를 확인하세요.[br][br] 장면을 변경하지 않고 편집을 하기 위해 '스플릿 모드' 를 사용하시거나 '미리보기 편집기' 를 사용해보세요. 편집 후 저장을 하시려면 '생방송 송출' 버튼을 꼭 클릭하시기 바랍니다."
+	},
+	"swftab.playback": {
+		"message": "다시 재생"
+	},
+	"swftab.disable_audio_wrapper": {
+		"message": "오디오 wrapper 정지"
+	},
+	"swftab.swf_source": {
+		"message": "SWF 소스"
+	},
+	"swftab.resolution": {
+		"message": "해상도"
+	},
+	"swftab.original_resolution": {
+		"message": "원본 소스"
+	},
+	"swftab.custom_resolution": {
+		"message": "커스텀"
+	},
+	"swftab.configuration": {
+		"message": "구성"
+	},
+	"swftab.configure_text": {
+		"message": "SWF 소스를 구성하려면 아래 버튼을 클릭합니다."
+	},
+	"swftab.configure": {
+		"message": "환경설정"
+	},
+	"swftab.audio_output": {
+		"message": "오디오 출력"
+	},
+	"swfhotkeystab.hotkeys": {
+		"message": "단축키"
+	},
+	"titletab.title": {
+		"message": "제목"
+	},
+	"titletab.configure_text": {
+		"message": "타이틀 소스를 구성하려면 아래 버튼을 클릭합니다."
+	},
+	"titletab.configure": {
+		"message": "환경설정"
+	},
+	"tobiitab.title": {
+		"message": "Tobii Eye Tracker 환경설정"
+	},
+	"tobiitab.cursor_color": {
+		"message": "커서 색상"
+	},
+	"tobiitab.enable": {
+		"message": "추적 사용"
+	},
+	"tobiitab.shape": {
+		"message": "모양"
+	},
+	"tobiitab.solid": {
+		"message": "일정"
+	},
+	"tobiitab.bubble": {
+		"message": "버블"
+	},
+	"tobiitab.size": {
+		"message": "사이즈"
+	},
+	"tobiitab.trail": {
+		"message": "길"
+	},
+	"tobiitab.filtering": {
+		"message": "필터링"
+	},
+	"htmltab.playback": {
+		"message": "다시 재생"
+	},
+	"htmltab.audio_output": {
+		"message": "오디오 출력"
+	},
+	"htmltab.apply": {
+		"message": "적용"
+	},
+	"htmltab.invalid_url": {
+		"message": "알맞는 URL 주소를 입력하세요."
+	},
+	"htmltab.html_source": {
+		"message": "HTML 소스"
+	},
+	"htmltab.reload_on_scene_enter": {
+		"message": "장면 등장시 갱신"
+	},
+	"htmltab.reload_on_source_show": {
+		"message": "소스 활성화시 갱신"
+	},
+	"htmltab.resolution": {
+		"message": "해상도"
+	},
+	"htmltab.resolution_tooltip": {
+		"message": "웹 소스의 해상도를 지정하여 특정 해상도의 화면에서 설정합니다. 원본 소스는 설정된 필셀 크기에 따라 맞춰지며 일반 브라우저에 적용 된 것 처럼 설정 됩니다. 연결된 소스는 항상 고정된 해상도로 적용 됩니다."
+	},
+	"htmltab.display": {
+		"message": "디스플레이"
+	},
+	"htmltab.original_resolution": {
+		"message": "원본 소스"
+	},
+	"htmltab.custom_resolution": {
+		"message": "커스텀"
+	},
+	"htmltab.css_overwrite": {
+		"message": "사용자 지정 코드"
+	},
+	"htmltab.custom_css": {
+		"message": "커스텀 CSS 사용하기"
+	},
+	"htmltab.edit_css": {
+		"message": "CSS 편집"
+	},
+	"htmltab.custom_js": {
+		"message": "커스텀 JS 사용"
+	},
+	"htmltab.edit_js": {
+		"message": "JS 편집"
+	},
+	"htmltab.appearance": {
+		"message": "외관"
+	},
+	"htmltab.disable_transparency": {
+		"message": "투명도 사용하지 않도록 설정"
+	},
+	"htmltab.disable_scrollbars": {
+		"message": "스크롤바를 사용하지 않도록 설정"
+	},
+	"htmltab.enable_60_fps": {
+		"message": "최대 초당 프레임 60까지 활성화"
+	},
+	"htmltab.enable_60_fps_tooltip": {
+		"message": "추가적인 GPU 또는 CPU 리소스를 필요로 합니다. 해당 설정을 변경하면 소스가 새로고침이 됩니다. 최적의 성능을 위해서 도구 메뉴의 환경설정 > 고급 탭에서 '브라우저 소스 최적화' 기능을 활성화 하시기 바랍니다."
+	},
+	"htmltab.configuration": {
+		"message": "구성"
+	},
+	"htmltab.configure_text": {
+		"message": "HTML 소스를 구성하려면 아래 버튼을 클릭합니다."
+	},
+	"htmltab.configure": {
+		"message": "환경설정"
+	},
+	"htmlhotkeystab.hotkeys": {
+		"message": "단축키"
+	},
+	"presentationtab.playback": {
+		"message": "재생 설정"
+	},
+	"presentationtab.audio_output": {
+		"message": "오디오 출력"
+	},
+	"presentationtab.remember_playback_position": {
+		"message": "되감기 지점 기억하기"
+	},
+	"presentationtab.current_slide": {
+		"message": "현재 슬라이드"
+	},
+	"presentationtab.hotkeys": {
+		"message": "다른 방법으로, 화살표 키를 사용하여 다음 또는 이전 슬라이드로 전환할 수 있습니다."
+	},
+	"presentationtab.pptSource": {
+		"message": "프레젠테이션 소스"
+	},
+	"presentationtab.change": {
+		"message": "변경..."
+	},
+	"css_editor.edit_css": {
+		"message": "편집 CSS- "
+	},
+	"css_editor.css": {
+		"message": "CSS"
+	},
+	"css_editor.overwrite_css": {
+		"message": "CSS 덮어쓰기"
+	},
+	"css_editor.back": {
+		"message": "뒤로"
+	},
+	"js_editor.edit_js": {
+		"message": "편집 JS- "
+	},
+	"js_editor.js": {
+		"message": "JS"
+	},
+	"js_editor.add_custom_js": {
+		"message": "커스텀 JS 추가"
+	},
+	"js_editor.back": {
+		"message": "뒤로"
+	},
+	"hints.picture_section": {
+		"message": "여기에서 사용자의 소스 색을 조정할 수 있습니다."
+	},
+	"hints.keying_section": {
+		"message": "여기에서 배경 제거를 위한 크로마키를 적용할 수 있습니다."
+	},
+	"hints.position_section": {
+		"message": "여기에서 사용자의 뷰포트에 있는 소스의 위치와 크기를 조절할 수 있습니다."
+	},
+	"hints.threed_section": {
+		"message": "여기에서 3D 평면의 사용자 소스를 수정할 수 있습니다. HTML과 SWF 소스는 마우스 이벤트 소스가 회전/대칭 이동할 때 등록되지 않습니다."
+	},
+	"hints.media_playback_section": {
+		"message": "재생, 미디어 볼륨, 그리고 미디어 오디오 출력 장치를 제어할 수 있습니다."
+	},
+	"hints.cue_points_section": {
+		"message": "정지, 끊음 또는 미디어 파일 재생에 관한 다양한 포인트를 설정할 수 있습니다."
+	},
+	"hints.game_source_section": {
+		"message": "마으스 보이기/숨기기와 표면 공유 표시/숨기기"
+	},
+	"hints.camera_playback_section": {
+		"message": "USB 2.0 장치에는 오디오 출력은 스트림만 하는 것이 좋습니다"
+	},
+	"hints.rtsp_rtmp_playback_section": {
+		"message": "지연 오디오를 피하기 위해, 오디오 출력을 스트림만 하세요"
+	},
+	"hints.configuration_section": {
+		"message": "소스 업데이트에 사용되는 컨트롤 패널/구성창을 열려면 클릭하세요."
+	},
+	"hints.masking_section": {
+		"message": "마스킹은 원하시는 모양을 잘라내어서 소스에 반영 할 수 있습니다. 모양 혹은 원하는 파일을 선택하십시오."
+	},
+	"hints.transition_section": {
+		"message": "기본 설정은 전환 애니메이션이 소스를 보이거나 숨길때 적용됩니다. (체크박스의 체크 유무). 또는 장면 자체가 다른 장면으로 전환 될때로 적용됩니다. 그러나 '소스 전환 애니메이션' 은 '장면 전환 애니메이션' 설정이 '없음' 으로 설정되어있으면 적용되지 않습니다. 소스 전환 애니메이션을 정상적으로 적용하시려면 장면 전환도 같이 설정해 주시기 바랍니다."
+	},
+	"hints.ndi_playback_section": {
+		"message": "오디오 출력 장치 볼륨 조절"
+	}
+}

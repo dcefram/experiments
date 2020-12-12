@@ -1,0 +1,77 @@
+{
+	"twitch.cheers.tabheader": {
+		"message": "Alerta"
+	},
+	"twitch.cheers.source": {
+		"message": "Fonte"
+	},
+	"twitch.cheers.account": {
+		"message": "Conta"
+	},
+	"twitch.cheers.authorize": {
+		"message": "Autorizar o XSplit para usar Twitch"
+	},
+	"twitch.cheers.remove_authorization": {
+		"message": "**%api%** Remover autorização"
+	},
+	"twitch.cheers.switch_account": {
+		"message": "**%api%** alternar conta"
+	},
+	"twitch.cheers.not_connected": {
+		"message": "Não conectado"
+	},
+	"twitch.cheers.connected": {
+		"message": "Conectado"
+	},
+	"twitch.cheers.error_channel_not_found": {
+		"message": "Por favor, forneça um canal válido."
+	},
+	"twitch.cheers.notification": {
+		"message": "Notificação"
+	},
+	"twitch.cheers.lock_components": {
+		"message": "Travar componentes"
+	},
+	"twitch.cheers.lock_components_help": {
+		"message": "Ao marcar esta opção você irá desativar o hover do mouse, reposicionamento e redimensionamento dos componentes.[br]Marque se você não deseja exibir efeitos de hover sobre os componentes, especialmente durante a transmissão ou gravação."
+	},
+	"twitch.cheers.show_stats": {
+		"message": "Mostrar estatísticas"
+	},
+	"twitch.cheers.show_stats_help": {
+		"message": "Isto irá mostrar o maior e mais recente cheer em seu canal no Twitch. Para limpar os dados de estatísticas, desconecte o canal e conecte novamente. Para evitar a limpeza dos dados ao alternar cenas, verifique se você tem a opção 'Manter fonte na memória' marcada."
+	},
+	"twitch.cheers.opacity": {
+		"message": "Opacidade"
+	},
+	"twitch.cheers.user_name": {
+		"message": "Usuário"
+	},
+	"twitch.cheers.labels": {
+		"message": "Etiquetas"
+	},
+	"twitch.cheers.show_alert": {
+		"message": "Mostrar alerta"
+	},
+	"twitch.cheers.message": {
+		"message": "Mensagem"
+	},
+	"twitch.cheers.show_message": {
+		"message": "Mostrar mensagem"
+	},
+	"twitch.cheers.duration": {
+		"message": "Duração"
+	},
+	"twitch.cheers.millisecond_unit": {
+		"message": "ms"
+	},
+	"twitch.cheers.sound": {
+		"message": "Som"
+	},
+	"twitch.cheers.preview": {
+		"message": "Pré-visualizar"
+	},
+	"twitch.cheers.test_alert": {
+		"message": "Testar alerta"
+	}
+}

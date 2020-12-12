@@ -1,0 +1,35 @@
+{
+	"title": {
+		"message": "XSplit Broadcaster - アクセス権"
+	},
+	"header": {
+		"message": "これらのソースと拡張機能が悪質かもしれないスクリプトを実行する許可を求めています、このスクリプトによりお使いのコンピューターに害を及ぼす可能性があります。"
+	},
+	"hide_permission_alerts": {
+		"message": "許可アラートを非表示にする"
+	},
+	"column1": {
+		"message": "新しくアクセス権を要求されている物はハイライトされています。"
+	},
+	"column2": {
+		"message": "チェックされた物にアクセス権を与える"
+	},
+	"sources": {
+		"message": "ソース"
+	},
+	"extensions": {
+		"message": "拡張"
+	},
+	"footer": {
+		"message": "信頼できるソースのみにアクセス権を与えるようご注意願います。悪質なスクリプトを使用すると、お使いのコンピューターに色々な害を及ぼす可能性があります。"
+	},
+	"button.ok": {
+		"message": "OK"
+	},
+	"button.cancel": {
+		"message": "キャンセル"
+	},
+	"button.apply": {
+		"message": "適用"
+	}
+}

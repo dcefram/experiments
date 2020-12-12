@@ -1,0 +1,38 @@
+{
+	"copyright": {
+		"message": "حق النشر &copy; %dates%"
+	},
+	"terms": {
+		"message": "تستخدم أجزاء من هذا البرنامج مكتبات البرامج مفتوحة المصدر ، يرجى الرجوع إلى [شروط الترخيص العامة هنا.](%termslink%)"
+	},
+	"licenseBenefitsLine": {
+		"message": "شراء XSplit للحصول على Simulcast ، 1080px + أكثر!"
+	},
+	"licenseWillExpire": {
+		"message": "ستنتهي صلاحية الترخيص الخاص بك في**%expiry_date%**"
+	},
+	"license-named": {
+		"message": "لديك ترخيص **%name%**"
+	},
+	"license-scoped": {
+		"message": "لديك ترخيص **%name%** ينتهي في **%date% **"
+	},
+	"license-outsourced": {
+		"message": "لديك ترخيص من **%source%**"
+	},
+	"license-complimentary": {
+		"message": "لديك امتداد مجاني لترخيصك **%name%** لهذا اليوم"
+	},
+	"upgrade": {
+		"message": "انقر هنا لترقية الترخيص الخاص بك"
+	},
+	"extend": {
+		"message": "انقر هنا لتمديد الترخيص الخاص بك"
+	},
+	"buy": {
+		"message": "انقر هنا لترقية الآن!"
+	},
+	"steam-header": {
+		"message": "اختر التطبيق الذي ترغب في تشغيله."
+	}
+}

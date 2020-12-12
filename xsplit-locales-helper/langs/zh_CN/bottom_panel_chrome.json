@@ -1,0 +1,89 @@
+{
+  "scene_label": {
+    "message": "场景"
+  },
+  "add_source": {
+    "message": "添加资源"
+  },
+  "copy": {
+    "message": "复制"
+  },
+  "paste": {
+    "message": "粘贴"
+  },
+  "remove": {
+    "message": "移除"
+  },
+  "rename": {
+    "message": "重命名"
+  },
+  "settings": {
+    "message": "设置"
+  },
+  "group": {
+    "message": "组源"
+  },
+  "lock": {
+    "message": "锁定位置"
+  },
+  "fit": {
+    "message": "适应屏幕"
+  },
+  "restore": {
+    "message": "还原默认值"
+  },
+  "move_up": {
+    "message": "向上移动资源"
+  },
+  "move_down": {
+    "message": "向下移动资源"
+  },
+  "mute_mic": {
+    "message": "静音/取消静音默认麦克风"
+  },
+  "mute_spk": {
+    "message": "静音/取消静音默认扬声器"
+  },
+  "open_mixer": {
+    "message": "打開混音器"
+  },
+  "transition_label": {
+    "message": "过渡效果"
+  },
+  "transition_menu": {
+    "message": "设置过渡样式和速度"
+  },
+  "add_favorite": {
+    "message": "将选定的过渡设置为收藏"
+  },
+  "open_favorite": {
+    "message": "开放最喜爱过渡"
+  },
+  "push_live": {
+    "message": "推送实况"
+  },
+  "push_live_menu": {
+    "message": "推送实时菜单"
+  },
+  "stream": {
+    "message": "直播流"
+  },
+  "record": {
+    "message": "录制"
+  },
+  "pause_recording": {
+    "message": "Pause Recording"
+  },
+  "resume_recording": {
+    "message": "Resume Recording"
+  },
+  "screenshot": {
+    "message": "屏幕截图"
+  },
+  "empty_channel": {
+    "message": "这里似乎没有任何内容。<br/><br/>单击直播按钮以设置您的第一个直播输出。"
+  },
+  "empty_list": {
+    "message": "It's pretty empty here.<br/>Click the button below to add your first source."
+  }
+}

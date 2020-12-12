@@ -1,0 +1,35 @@
+{
+	"title": {
+		"message": "XSplit Broadcaster - 权限"
+	},
+	"header": {
+		"message": "以下的来源和扩展请求您的许可才能执行脚本, 可能对您的计算机有害."
+	},
+	"hide_permission_alerts": {
+		"message": "隐藏权限警报"
+	},
+	"column1": {
+		"message": "突出显示新的权限请求"
+	},
+	"column2": {
+		"message": "在选中允许访问"
+	},
+	"sources": {
+		"message": "资源"
+	},
+	"extensions": {
+		"message": "扩展"
+	},
+	"footer": {
+		"message": "请注意, 仅允许来自受信任来源的访问. 一个恶意脚本可以损害您的计算机中以各种方式."
+	},
+	"button.ok": {
+		"message": "OK"
+	},
+	"button.cancel": {
+		"message": "取消"
+	},
+	"button.apply": {
+		"message": "应用"
+	}
+}

@@ -1,0 +1,65 @@
+{
+  "video_playlist.audio_output": {
+    "message": "เอาท์พุตเสียง"
+  },
+  "video_playlist.playback": {
+    "message": "เล่น:"
+  },
+  "video_playlist.when_finished": {
+    "message": "เมื่อเสร็จสิ้น"
+  },
+  "video_playlist.start_on_load": {
+    "message": "เล่นเมื่อฉากเข้ามา"
+  },
+  "video_playlist.remember_playback_position": {
+    "message": "จำตำแหน่งการเล่น"
+  },
+  "video_playlist.show_playback_position": {
+    "message": "แสดงตำแหน่งที่เล่นในวิดีโอ"
+  },
+  "video_playlist.start_at": {
+    "message": "เริ่มที่"
+  },
+  "video_playlist.set": {
+    "message": "ตั้งค่า"
+  },
+  "video_playlist.end_at": {
+    "message": "จบที่"
+  },
+  "video_playlist.reset": {
+    "message": "รีเซ็ต"
+  },
+  "video_playlist.force_deinterlace": {
+    "message": "ใช้ deinterlace"
+  },
+  "video_playlist.videos": {
+    "message": "วิดีโอ"
+  },
+  "video_playlist.playlist": {
+    "message": "เพลย์ลิสต์"
+  },
+  "video_playlist.add": {
+    "message": "เพิ่มเติม"
+  },
+  "video_playlist.remove": {
+    "message": "เอาออก"
+  },
+  "video_playlist.ok": {
+    "message": "โอเค"
+  },
+  "video_playlist.cancel": {
+    "message": "ยกเลิก"
+  },
+  "video_playlist.hint.videos_section": {
+    "message": "เพิ่ม ลบ และเรียงลำดับวิดีโอ"
+  },
+  "video_playlist.hint.video_playback_section": {
+    "message": "ควบคุมการเล่น, ตั้งค่าความดังเสียงของวิดีโอ, และตั้งค่าเอ้าพุทอุปกรณ์เสียง"
+  },
+  "video_playlist.hint.video_missing": {
+    "message": "ไม่พบไฟล์ต้นฉบับ ไฟล์อาจจะถูกเปลี่ยนชื่อหรือถูกลบ"
+  },
+  "video_playlist.processing": {
+    "message": "กำลังประมวลผลวิดีโอ"
+  }
+}

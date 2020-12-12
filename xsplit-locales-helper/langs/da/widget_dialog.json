@@ -1,0 +1,23 @@
+{
+  "dontShowAgain": {
+    "message": "Don't show again"
+  },
+  "button.goToPluginStore": {
+    "message": "Go to Plugin Store"
+  },
+  "button.maybeLater": {
+    "message": "Maybe Later"
+  },
+  "title": {
+    "message": "Level up your stream with widgets!"
+  },
+  "facebook.description": {
+    "message": "We have some awesome widgets to go with your broadcast output that's guaranteed to level up your live stream. Display all your stream's comments or even have Reactions fly through the screen![br][br]Download them for free from the Plugin Store!"
+  },
+  "twitch.description": {
+    "message": "We have some awesome widgets to go with your broadcast output that's guaranteed to level up your live stream. Show your Twitch chat on screen or have an alert pop-up everytime someone Cheers![br][br]Download them for free from the Plugin Store!"
+  },
+  "youtube.description": {
+    "message": "We have some awesome widgets to go with your broadcast output that's guaranteed to level up your live stream. Show your Live Chat on screen or have an alert pop-up for every Super Chat![br][br]Download them for free from the Plugin Store!"
+  }
+}

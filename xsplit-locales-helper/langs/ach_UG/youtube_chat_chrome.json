@@ -1,0 +1,89 @@
+{
+	"youtube.chat.tabheader": {
+		"message": "crwdns61176:0crwdne61176:0"
+	},
+	"youtube.chat.source": {
+		"message": "crwdns61178:0crwdne61178:0"
+	},
+	"youtube.chat.account": {
+		"message": "crwdns61180:0crwdne61180:0"
+	},
+	"youtube.chat.preview": {
+		"message": "crwdns61182:0crwdne61182:0"
+	},
+	"youtube.chat.account_automatic": {
+		"message": "crwdns61184:0crwdne61184:0"
+	},
+	"youtube.chat.authorize": {
+		"message": "crwdns61186:0crwdne61186:0"
+	},
+	"youtube.chat.remove_authorization": {
+		"message": "crwdns61188:0%api%crwdne61188:0"
+	},
+	"youtube.chat.switch_account": {
+		"message": "crwdns61190:0%api%crwdne61190:0"
+	},
+	"youtube.chat.not_connected": {
+		"message": "crwdns61192:0crwdne61192:0"
+	},
+	"youtube.chat.connected": {
+		"message": "crwdns61194:0crwdne61194:0"
+	},
+	"youtube.chat.error_channel_not_found": {
+		"message": "crwdns61196:0crwdne61196:0"
+	},
+	"youtube.chat.display": {
+		"message": "crwdns61198:0crwdne61198:0"
+	},
+	"youtube.chat.chat_box": {
+		"message": "crwdns61200:0crwdne61200:0"
+	},
+	"youtube.chat.opacity": {
+		"message": "crwdns61202:0crwdne61202:0"
+	},
+	"youtube.chat.viewers": {
+		"message": "crwdns61204:0crwdne61204:0"
+	},
+	"youtube.chat.message": {
+		"message": "crwdns61206:0crwdne61206:0"
+	},
+	"youtube.chat.text_size": {
+		"message": "crwdns61208:0crwdne61208:0"
+	},
+	"youtube.chat.hide_user_icons": {
+		"message": "crwdns61210:0crwdne61210:0"
+	},
+	"youtube.chat.hide_timestamps": {
+		"message": "crwdns61212:0crwdne61212:0"
+	},
+	"youtube.chat.hide_on_idle": {
+		"message": "crwdns61214:0crwdne61214:0"
+	},
+	"youtube.chat.blocking": {
+		"message": "crwdns63604:0crwdne63604:0"
+	},
+	"youtube.chat.blockedlist": {
+		"message": "crwdns63606:0crwdne63606:0"
+	},
+	"youtube.chat.block_help": {
+		"message": "crwdns63608:0[br]crwdnd63608:0[br]crwdne63608:0"
+	},
+	"youtube.chat.blocking_name": {
+		"message": "crwdns63610:0crwdne63610:0"
+	},
+	"youtube.chat.block_name": {
+		"message": "crwdns63612:0crwdne63612:0"
+	},
+	"youtube.chat.block_add": {
+		"message": "crwdns63614:0crwdne63614:0"
+	},
+	"youtube.chat.block_remove": {
+		"message": "crwdns63616:0crwdne63616:0"
+	},
+	"youtube.chat.loggingInTo": {
+		"message": "crwdns115377:0crwdne115377:0"
+	},
+	"youtube.chat.pleaseComplete": {
+		"message": "crwdns115379:0crwdne115379:0"
+	}
+}

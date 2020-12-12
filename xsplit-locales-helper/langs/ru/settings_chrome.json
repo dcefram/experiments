@@ -1,0 +1,1304 @@
+{
+  "title": {
+    "message": "XSplit Broadcaster - настройки пользователя"
+  },
+  "tab.profile": {
+    "message": "Профиль"
+  },
+  "tab.general": {
+    "message": "Общие"
+  },
+  "tab.audio": {
+    "message": "Аудио"
+  },
+  "tab.hotkeys": {
+    "message": "Горячие клавиши"
+  },
+  "tab.sharing": {
+    "message": "Совместное использование"
+  },
+  "tab.advanced": {
+    "message": "Дополнительные"
+  },
+  "profile.fullName.label": {
+    "message": "Полное имя"
+  },
+  "profile.screenName.label": {
+    "message": "Имя пользователя"
+  },
+  "profile.country.label": {
+    "message": "Страна"
+  },
+  "profile.gender.label": {
+    "message": "Пол"
+  },
+  "profile.gender.male.label": {
+    "message": "Мужской"
+  },
+  "profile.gender.female.label": {
+    "message": "Женский"
+  },
+  "profile.birthday.label": {
+    "message": "День рождения"
+  },
+  "profile.addImage.label": {
+    "message": "Добавить изображение профиля"
+  },
+  "profile.changePassword.label": {
+    "message": "Изменить свой пароль"
+  },
+  "profile.countries.af": {
+    "message": "Афганистан"
+  },
+  "profile.countries.ax": {
+    "message": "Аландские острова"
+  },
+  "profile.countries.al": {
+    "message": "Албания"
+  },
+  "profile.countries.dz": {
+    "message": "Алжир"
+  },
+  "profile.countries.as": {
+    "message": "Американское Самоа"
+  },
+  "profile.countries.ad": {
+    "message": "Андорра"
+  },
+  "profile.countries.ao": {
+    "message": "Ангола"
+  },
+  "profile.countries.ai": {
+    "message": "Ангилья"
+  },
+  "profile.countries.aq": {
+    "message": "Антарктида"
+  },
+  "profile.countries.ag": {
+    "message": "Антигуа и Барбуда"
+  },
+  "profile.countries.ar": {
+    "message": "Аргентина"
+  },
+  "profile.countries.am": {
+    "message": "Армения"
+  },
+  "profile.countries.aw": {
+    "message": "Аруба"
+  },
+  "profile.countries.au": {
+    "message": "Австралия"
+  },
+  "profile.countries.at": {
+    "message": "Австрия"
+  },
+  "profile.countries.az": {
+    "message": "Азербайджан"
+  },
+  "profile.countries.bs": {
+    "message": "Багамские острова"
+  },
+  "profile.countries.bh": {
+    "message": "Бахрейн"
+  },
+  "profile.countries.bd": {
+    "message": "Бангладеш"
+  },
+  "profile.countries.bb": {
+    "message": "Барбадос"
+  },
+  "profile.countries.by": {
+    "message": "Республика Беларусь"
+  },
+  "profile.countries.be": {
+    "message": "Бельгия"
+  },
+  "profile.countries.bz": {
+    "message": "Белиз"
+  },
+  "profile.countries.bj": {
+    "message": "Бенин"
+  },
+  "profile.countries.bm": {
+    "message": "Бермудские острова"
+  },
+  "profile.countries.bt": {
+    "message": "Бутан"
+  },
+  "profile.countries.bo": {
+    "message": "Боливия"
+  },
+  "profile.countries.ba": {
+    "message": "Босния и Герцеговина"
+  },
+  "profile.countries.bw": {
+    "message": "Ботсвана"
+  },
+  "profile.countries.bv": {
+    "message": "Остров Буве"
+  },
+  "profile.countries.br": {
+    "message": "Бразилия"
+  },
+  "profile.countries.io": {
+    "message": "Британская территория в Индийском океане"
+  },
+  "profile.countries.bn": {
+    "message": "Бруней-Даруссалам"
+  },
+  "profile.countries.bg": {
+    "message": "Болгария"
+  },
+  "profile.countries.bf": {
+    "message": "Буркина-Фасо"
+  },
+  "profile.countries.bi": {
+    "message": "Бурунди"
+  },
+  "profile.countries.kh": {
+    "message": "Камбоджа"
+  },
+  "profile.countries.cm": {
+    "message": "Камерун"
+  },
+  "profile.countries.ca": {
+    "message": "Канада"
+  },
+  "profile.countries.cv": {
+    "message": "Кабо-Верде"
+  },
+  "profile.countries.ky": {
+    "message": "Каймановы острова"
+  },
+  "profile.countries.cf": {
+    "message": "Центральноафриканская Республика"
+  },
+  "profile.countries.td": {
+    "message": "Чад"
+  },
+  "profile.countries.cl": {
+    "message": "Чили"
+  },
+  "profile.countries.cn": {
+    "message": "Китай"
+  },
+  "profile.countries.cx": {
+    "message": "Остров Рождества"
+  },
+  "profile.countries.cc": {
+    "message": "Кокосовые острова (Килинг)"
+  },
+  "profile.countries.co": {
+    "message": "Колумбия"
+  },
+  "profile.countries.km": {
+    "message": "Коморские острова"
+  },
+  "profile.countries.cg": {
+    "message": "Конго"
+  },
+  "profile.countries.cd": {
+    "message": "Демократическая Республика Конго"
+  },
+  "profile.countries.ck": {
+    "message": "Острова Кука"
+  },
+  "profile.countries.cr": {
+    "message": "Коста-Рика"
+  },
+  "profile.countries.ci": {
+    "message": "Кот-д'Ивуар"
+  },
+  "profile.countries.hr": {
+    "message": "Хорватия"
+  },
+  "profile.countries.cu": {
+    "message": "Куба"
+  },
+  "profile.countries.cy": {
+    "message": "Кипр"
+  },
+  "profile.countries.cz": {
+    "message": "Чешская Республика"
+  },
+  "profile.countries.dk": {
+    "message": "Дания"
+  },
+  "profile.countries.dj": {
+    "message": "Джибути"
+  },
+  "profile.countries.dm": {
+    "message": "Доминика"
+  },
+  "profile.countries.do": {
+    "message": "Доминиканская Республика"
+  },
+  "profile.countries.ec": {
+    "message": "Эквадор"
+  },
+  "profile.countries.eg": {
+    "message": "Египет"
+  },
+  "profile.countries.sv": {
+    "message": "Сальвадор"
+  },
+  "profile.countries.gq": {
+    "message": "Экваториальная Гвинея"
+  },
+  "profile.countries.er": {
+    "message": "Эритрея"
+  },
+  "profile.countries.ee": {
+    "message": "Эстония"
+  },
+  "profile.countries.et": {
+    "message": "Эфиопия"
+  },
+  "profile.countries.fk": {
+    "message": "Фолклендские (Мальвинские) острова"
+  },
+  "profile.countries.fo": {
+    "message": "Фарерские острова"
+  },
+  "profile.countries.fj": {
+    "message": "Фиджи"
+  },
+  "profile.countries.fi": {
+    "message": "Финляндия"
+  },
+  "profile.countries.fr": {
+    "message": "Франция"
+  },
+  "profile.countries.gf": {
+    "message": "Французская Гвиана"
+  },
+  "profile.countries.pf": {
+    "message": "Французская Полинезия"
+  },
+  "profile.countries.tf": {
+    "message": "Французские Южные Территории"
+  },
+  "profile.countries.ga": {
+    "message": "Габон"
+  },
+  "profile.countries.gm": {
+    "message": "Гамбия"
+  },
+  "profile.countries.ge": {
+    "message": "Грузия"
+  },
+  "profile.countries.de": {
+    "message": "Германия"
+  },
+  "profile.countries.gh": {
+    "message": "Гана"
+  },
+  "profile.countries.gi": {
+    "message": "Гибралтар"
+  },
+  "profile.countries.gr": {
+    "message": "Греция"
+  },
+  "profile.countries.gl": {
+    "message": "Гренландия"
+  },
+  "profile.countries.gd": {
+    "message": "Гренада"
+  },
+  "profile.countries.gp": {
+    "message": "Гваделупа"
+  },
+  "profile.countries.gu": {
+    "message": "Гуам"
+  },
+  "profile.countries.gt": {
+    "message": "Гватемала"
+  },
+  "profile.countries.gg": {
+    "message": "Гернси"
+  },
+  "profile.countries.gn": {
+    "message": "Гвинея"
+  },
+  "profile.countries.gw": {
+    "message": "Гвинея-Бисау"
+  },
+  "profile.countries.gy": {
+    "message": "Гайана"
+  },
+  "profile.countries.ht": {
+    "message": "Гаити"
+  },
+  "profile.countries.hm": {
+    "message": "Остров Херд и острова Макдональд"
+  },
+  "profile.countries.va": {
+    "message": "Святейший Престол (Ватикан)"
+  },
+  "profile.countries.hn": {
+    "message": "Гондурас"
+  },
+  "profile.countries.hk": {
+    "message": "Гонконг"
+  },
+  "profile.countries.hu": {
+    "message": "Венгрия"
+  },
+  "profile.countries.is": {
+    "message": "Исландия"
+  },
+  "profile.countries.in": {
+    "message": "Индия"
+  },
+  "profile.countries.id": {
+    "message": "Индонезия"
+  },
+  "profile.countries.ir": {
+    "message": "Иран, Исламская Республика"
+  },
+  "profile.countries.iq": {
+    "message": "Ирак"
+  },
+  "profile.countries.ie": {
+    "message": "Ирландия"
+  },
+  "profile.countries.im": {
+    "message": "Остров Мэн"
+  },
+  "profile.countries.il": {
+    "message": "Израиль"
+  },
+  "profile.countries.it": {
+    "message": "Италия"
+  },
+  "profile.countries.jm": {
+    "message": "Ямайка"
+  },
+  "profile.countries.jp": {
+    "message": "Япония"
+  },
+  "profile.countries.je": {
+    "message": "Джерси"
+  },
+  "profile.countries.jo": {
+    "message": "Иордания"
+  },
+  "profile.countries.kz": {
+    "message": "Казахстан"
+  },
+  "profile.countries.ke": {
+    "message": "Кения"
+  },
+  "profile.countries.ki": {
+    "message": "Кирибати"
+  },
+  "profile.countries.kp": {
+    "message": "Корея, Демократическая Народная Республика"
+  },
+  "profile.countries.kr": {
+    "message": "Республика Корея"
+  },
+  "profile.countries.kw": {
+    "message": "Кувейт"
+  },
+  "profile.countries.kg": {
+    "message": "Киргизия"
+  },
+  "profile.countries.la": {
+    "message": "Лаосская Народно-Демократическая Республика"
+  },
+  "profile.countries.lv": {
+    "message": "Латвия"
+  },
+  "profile.countries.lb": {
+    "message": "Ливан"
+  },
+  "profile.countries.ls": {
+    "message": "Лесото"
+  },
+  "profile.countries.lr": {
+    "message": "Либерия"
+  },
+  "profile.countries.ly": {
+    "message": "Ливийская Арабская Джамахирия"
+  },
+  "profile.countries.li": {
+    "message": "Лихтенштейн"
+  },
+  "profile.countries.lt": {
+    "message": "Литва"
+  },
+  "profile.countries.lu": {
+    "message": "Люксембург"
+  },
+  "profile.countries.mo": {
+    "message": "Макао"
+  },
+  "profile.countries.mk": {
+    "message": "Македония, бывшая югославская Республика"
+  },
+  "profile.countries.mg": {
+    "message": "Мадагаскар"
+  },
+  "profile.countries.mw": {
+    "message": "Малави"
+  },
+  "profile.countries.my": {
+    "message": "Малайзия"
+  },
+  "profile.countries.mv": {
+    "message": "Мальдивские острова"
+  },
+  "profile.countries.ml": {
+    "message": "Мали"
+  },
+  "profile.countries.mt": {
+    "message": "Мальта"
+  },
+  "profile.countries.mh": {
+    "message": "Маршалловы острова"
+  },
+  "profile.countries.mq": {
+    "message": "Мартиника"
+  },
+  "profile.countries.mr": {
+    "message": "Мавритания"
+  },
+  "profile.countries.mu": {
+    "message": "Маврикий"
+  },
+  "profile.countries.yt": {
+    "message": "Майотта"
+  },
+  "profile.countries.mx": {
+    "message": "Мексика"
+  },
+  "profile.countries.fm": {
+    "message": "Микронезия, Федеративные Штаты"
+  },
+  "profile.countries.md": {
+    "message": "Молдова, Республика"
+  },
+  "profile.countries.mc": {
+    "message": "Монако"
+  },
+  "profile.countries.mn": {
+    "message": "Монголия"
+  },
+  "profile.countries.me": {
+    "message": "Черногория"
+  },
+  "profile.countries.ms": {
+    "message": "Монтсеррат"
+  },
+  "profile.countries.ma": {
+    "message": "Марокко"
+  },
+  "profile.countries.mz": {
+    "message": "Мозамбик"
+  },
+  "profile.countries.mm": {
+    "message": "Мьянма"
+  },
+  "profile.countries.na": {
+    "message": "Намибия"
+  },
+  "profile.countries.nr": {
+    "message": "Науру"
+  },
+  "profile.countries.np": {
+    "message": "Непал"
+  },
+  "profile.countries.nl": {
+    "message": "Нидерланды"
+  },
+  "profile.countries.an": {
+    "message": "Нидерландские Антильские острова"
+  },
+  "profile.countries.nc": {
+    "message": "Новая Каледония"
+  },
+  "profile.countries.nz": {
+    "message": "Новая Зеландия"
+  },
+  "profile.countries.ni": {
+    "message": "Никарагуа"
+  },
+  "profile.countries.ne": {
+    "message": "Нигер"
+  },
+  "profile.countries.ng": {
+    "message": "Нигерия"
+  },
+  "profile.countries.nu": {
+    "message": "Ниуэ"
+  },
+  "profile.countries.nf": {
+    "message": "Остров Норфолк"
+  },
+  "profile.countries.mp": {
+    "message": "Северные Марианские острова"
+  },
+  "profile.countries.no": {
+    "message": "Норвегия"
+  },
+  "profile.countries.om": {
+    "message": "Оман"
+  },
+  "profile.countries.pk": {
+    "message": "Пакистан"
+  },
+  "profile.countries.pw": {
+    "message": "Палау"
+  },
+  "profile.countries.ps": {
+    "message": "Палестинская территория, оккупированная"
+  },
+  "profile.countries.pa": {
+    "message": "Панама"
+  },
+  "profile.countries.pg": {
+    "message": "Папуа-Новая Гвинея"
+  },
+  "profile.countries.py": {
+    "message": "Парагвай"
+  },
+  "profile.countries.pe": {
+    "message": "Перу"
+  },
+  "profile.countries.ph": {
+    "message": "Филиппины"
+  },
+  "profile.countries.pn": {
+    "message": "Питкэрн"
+  },
+  "profile.countries.pl": {
+    "message": "Польша"
+  },
+  "profile.countries.pt": {
+    "message": "Португалия"
+  },
+  "profile.countries.pr": {
+    "message": "Пуэрто-Рико"
+  },
+  "profile.countries.qa": {
+    "message": "Катар"
+  },
+  "profile.countries.re": {
+    "message": "Реюньон"
+  },
+  "profile.countries.ro": {
+    "message": "Румыния"
+  },
+  "profile.countries.ru": {
+    "message": "Российская Федерация"
+  },
+  "profile.countries.rw": {
+    "message": "Руанда"
+  },
+  "profile.countries.sh": {
+    "message": "Остров Святой Елены"
+  },
+  "profile.countries.kn": {
+    "message": "Сент-Китс и Невис"
+  },
+  "profile.countries.lc": {
+    "message": "Сент-Люсия"
+  },
+  "profile.countries.pm": {
+    "message": "Сен-Пьер и Микелон"
+  },
+  "profile.countries.vc": {
+    "message": "Сент-Винсент и Гренадины"
+  },
+  "profile.countries.ws": {
+    "message": "Самоа"
+  },
+  "profile.countries.sm": {
+    "message": "Сан-Марино"
+  },
+  "profile.countries.st": {
+    "message": "Сан-Томе и Принсипи"
+  },
+  "profile.countries.sa": {
+    "message": "Саудовская Аравия"
+  },
+  "profile.countries.sn": {
+    "message": "Сенегал"
+  },
+  "profile.countries.rs": {
+    "message": "Сербия"
+  },
+  "profile.countries.sc": {
+    "message": "Сейшельские острова"
+  },
+  "profile.countries.sl": {
+    "message": "Сьерра-Леоне"
+  },
+  "profile.countries.sg": {
+    "message": "Сингапур"
+  },
+  "profile.countries.sk": {
+    "message": "Словакия"
+  },
+  "profile.countries.si": {
+    "message": "Словения"
+  },
+  "profile.countries.sb": {
+    "message": "Соломоновы острова"
+  },
+  "profile.countries.so": {
+    "message": "Сомали"
+  },
+  "profile.countries.za": {
+    "message": "Южная Африка"
+  },
+  "profile.countries.gs": {
+    "message": "Южная Георгия и Южные Сандвичевы острова"
+  },
+  "profile.countries.es": {
+    "message": "Испания"
+  },
+  "profile.countries.lk": {
+    "message": "Шри-Ланка"
+  },
+  "profile.countries.sd": {
+    "message": "Судан"
+  },
+  "profile.countries.sr": {
+    "message": "Суринам"
+  },
+  "profile.countries.sj": {
+    "message": "Шпицберген и Ян-Майен"
+  },
+  "profile.countries.sz": {
+    "message": "Свазиленд"
+  },
+  "profile.countries.se": {
+    "message": "Швеция"
+  },
+  "profile.countries.ch": {
+    "message": "Швейцария"
+  },
+  "profile.countries.sy": {
+    "message": "Сирийская Арабская Республика"
+  },
+  "profile.countries.tw": {
+    "message": "Тайвань, провинция Китайской Республики"
+  },
+  "profile.countries.tj": {
+    "message": "Таджикистан"
+  },
+  "profile.countries.tz": {
+    "message": "Танзания, Объединенная Республика"
+  },
+  "profile.countries.th": {
+    "message": "Таиланд"
+  },
+  "profile.countries.tl": {
+    "message": "Восточный Тимор"
+  },
+  "profile.countries.tg": {
+    "message": "Того"
+  },
+  "profile.countries.tk": {
+    "message": "Токелау"
+  },
+  "profile.countries.to": {
+    "message": "Тонга"
+  },
+  "profile.countries.tt": {
+    "message": "Тринидад и Тобаго"
+  },
+  "profile.countries.tn": {
+    "message": "Тунис"
+  },
+  "profile.countries.tr": {
+    "message": "Турция"
+  },
+  "profile.countries.tm": {
+    "message": "Туркменистан"
+  },
+  "profile.countries.tc": {
+    "message": "Острова Теркс и Кайкос"
+  },
+  "profile.countries.tv": {
+    "message": "Тувалу"
+  },
+  "profile.countries.ug": {
+    "message": "Уганда"
+  },
+  "profile.countries.ua": {
+    "message": "Украина"
+  },
+  "profile.countries.ae": {
+    "message": "Объединенные Арабские Эмираты"
+  },
+  "profile.countries.gb": {
+    "message": "Великобритания"
+  },
+  "profile.countries.us": {
+    "message": "США"
+  },
+  "profile.countries.um": {
+    "message": "Внешние Малые Острова США"
+  },
+  "profile.countries.uy": {
+    "message": "Уругвай"
+  },
+  "profile.countries.uz": {
+    "message": "Узбекистан"
+  },
+  "profile.countries.vu": {
+    "message": "Вануату"
+  },
+  "profile.countries.ve": {
+    "message": "Венесуэла"
+  },
+  "profile.countries.vn": {
+    "message": "Вьетнам"
+  },
+  "profile.countries.vg": {
+    "message": "Британские Виргинские острова"
+  },
+  "profile.countries.vi": {
+    "message": "Виргинские Острова (США)"
+  },
+  "profile.countries.wf": {
+    "message": "Уоллис и Футуна"
+  },
+  "profile.countries.eh": {
+    "message": "Западная Сахара"
+  },
+  "profile.countries.ye": {
+    "message": "Йемен"
+  },
+  "profile.countries.zm": {
+    "message": "Замбия"
+  },
+  "profile.countries.zw": {
+    "message": "Зимбабве"
+  },
+  "profile.months.1": {
+    "message": "Январь"
+  },
+  "profile.months.2": {
+    "message": "Февраль"
+  },
+  "profile.months.3": {
+    "message": "Март"
+  },
+  "profile.months.4": {
+    "message": "Апрель"
+  },
+  "profile.months.5": {
+    "message": "Май"
+  },
+  "profile.months.6": {
+    "message": "Июнь"
+  },
+  "profile.months.7": {
+    "message": "Июль"
+  },
+  "profile.months.8": {
+    "message": "Август"
+  },
+  "profile.months.9": {
+    "message": "Сентябрь"
+  },
+  "profile.months.10": {
+    "message": "Октябрь"
+  },
+  "profile.months.11": {
+    "message": "Ноябрь"
+  },
+  "profile.months.12": {
+    "message": "Декабрь"
+  },
+  "profile.startYear": {
+    "message": "1920"
+  },
+  "general.disableAeroTheme.label": {
+    "message": "Отключить Aero"
+  },
+  "general.enableGPUPriority.label": {
+    "message": "Включить приоритет графического процессора"
+  },
+  "general.enableVirtualCameraOutput.label": {
+    "message": "Включить вывод виртуальной камеры"
+  },
+  "general.enableGameSource.label": {
+    "message": "Включить источник игры"
+  },
+  "general.hideXsplitFromDisplayCapture.label": {
+    "message": "Hide XSplit Broadcaster from display capture"
+  },
+  "general.hideXsplitFromDisplayCapture2.label": {
+    "message": "Hide XSplit Broadcaster from display capture (Default: %default%)"
+  },
+  "general.hideXsplitFromDisplayCapture.tooltip": {
+    "message": "Удаление XSplit Broadcater из захвата экрана также удалит его из других приложений, которые используют захват экрана."
+  },
+  "general.hideTopControlBar.label": {
+    "message": "Hide top control bar"
+  },
+  "general.enableHUD.label": {
+    "message": "Активировать встроенный HUD"
+  },
+  "general.enableCopyLink.label": {
+    "message": "Скопировать ссылку в буфер обмена при запуске трансляции"
+  },
+  "general.hideViewerCount.label": {
+    "message": "Скрыть число зрителей в статусе стрима"
+  },
+  "general.hideFromScreenRegion.label": {
+    "message": "Скрыть из области экрана"
+  },
+  "general.logSystemInfo.label": {
+    "message": "Журналировать системную информацию"
+  },
+  "general.scenePreview.label": {
+    "message": "Просмотр эскизов"
+  },
+  "general.screenshotCapture.label": {
+    "message": "Снимок экрана"
+  },
+  "general.scenePreview.values.1": {
+    "message": "Всегда отображать превью на кнопке наведения сцены"
+  },
+  "general.scenePreview.values.2": {
+    "message": "Показать предварительный просмотр кнопки наведения сцены при нажатии SHIFT"
+  },
+  "general.scenePreview.values.3": {
+    "message": "Никогда не показать превью на кнопке наведения сцены"
+  },
+  "general.screenshotCapture.values.JPEG": {
+    "message": "JPEG"
+  },
+  "general.screenshotCapture.values.BMP": {
+    "message": "BMP"
+  },
+  "general.optimizedTransition.label": {
+    "message": "Оптимизировать переход между сценами"
+  },
+  "general.optimizedTransition.tooltip": {
+    "message": "Обеспечивает плавный переход между сценами, но может потребоваться немного больше графических ресурсов"
+  },
+  "audio.microphone.label": {
+    "message": "Микрофон"
+  },
+  "audio.audioDelay.label": {
+    "message": "Задержка (МС)"
+  },
+  "audio.boost.label": {
+    "message": "Диапазон громкости (%)"
+  },
+  "audio.noiseSuppression.label": {
+    "message": "Подавление шума"
+  },
+  "audio.silenceDetection.label": {
+    "message": "Определение тишины"
+  },
+  "audio.threshold.label": {
+    "message": "Threshold (dB)"
+  },
+  "audio.hold.label": {
+    "message": "Hold (ms)"
+  },
+  "audio.attack.label": {
+    "message": "Attack (ms)"
+  },
+  "audio.release.label": {
+    "message": "Release (ms)"
+  },
+  "audio.silenceDetection.blogLink": {
+    "message": "Узнайте, как использовать обнаружение тишины"
+  },
+  "audio.systemSound.label": {
+    "message": "Аудиосистема"
+  },
+  "audio.monitor.label": {
+    "message": "Аудио Предварительный просмотр"
+  },
+  "audio.monitor.tooltip": {
+    "message": "Аудио превью используется для наблюдения за окончательным выходом аудио из презентации через выбранное выходное устройство."
+  },
+  "audio.monoMix.label": {
+    "message": "Микс с моно микрофона"
+  },
+  "audio.monoMix.values.0": {
+    "message": "Нет (по умолчанию)"
+  },
+  "audio.monoMix.values.1": {
+    "message": "Копировать слева направо"
+  },
+  "audio.monoMix.values.2": {
+    "message": "Копировать справа налево"
+  },
+  "audio.monoMix.values.3": {
+    "message": "Среднее слева и справа"
+  },
+  "audio.audioMixingSampleRate.label": {
+    "message": "Частота дискретизации аудио микшера"
+  },
+  "audio.audioMixingSampleRate.values.0": {
+    "message": "Автоматически (по умолчанию)"
+  },
+  "audio.audioMixingSampleRate.values.44100": {
+    "message": "44,1 кГц"
+  },
+  "audio.audioMixingSampleRate.values.48000": {
+    "message": "48 кГц"
+  },
+  "hotkeys.category.scenes": {
+    "message": "Сцены"
+  },
+  "hotkeys.category.presets": {
+    "message": "Предварительные настройки сцены"
+  },
+  "hotkeys.category.audio": {
+    "message": "Аудио"
+  },
+  "hotkeys.category.broadcast": {
+    "message": "Трансляция"
+  },
+  "hotkeys.category.recording": {
+    "message": "Запись"
+  },
+  "hotkeys.category.playout": {
+    "message": "Воспроизведение"
+  },
+  "hotkeys.category.hud": {
+    "message": "Худ (HUD)"
+  },
+  "hotkeys.category.sources": {
+    "message": "Источники"
+  },
+  "hotkeys.message": {
+    "message": "Используя клавиатуру вы можете пользоваться горячими клавишами для запуска переключателей сцены и других команд, даже находясь в игре или в другом приложении."
+  },
+  "hotkeys.instruction": {
+    "message": "Дважды щелкните, чтобы ввести вашу горячую клавишу или выберите горячую клавишу вручную"
+  },
+  "hotkeys.shift.label": {
+    "message": "Shift"
+  },
+  "hotkeys.ctrl.label": {
+    "message": "Ctrl"
+  },
+  "hotkeys.alt.label": {
+    "message": "Alt"
+  },
+  "hotkeys.none": {
+    "message": "Нет"
+  },
+  "hotkeys.hotkeymode.description": {
+    "message": "Выберите режим работы горячих клавиш"
+  },
+  "hotkeys.hotkeymode.label": {
+    "message": "Выберите режим работы горячих клавиш"
+  },
+  "hotkeys.hotkeymode.tooltip": {
+    "message": "Вы можете выбрать желаемый режим работы горячих клавиш вручную или просто нажать кнопку на вашем устройстве. [br][br] **Основной** - Доступен только для клавиатур для системы Windows и работает в комбинации с модификатором(-ами) [br]к **Расширенный** - Подходит для клавиш от MIDI-устройств и не требует модификатора(-ов)[br][br]При переходе из расширенного режима в базовый вам придётся перенастроить систему с работы с дополнительными клавишами на работу с основными."
+  },
+  "hotkeys.hotkeymode.basic.label": {
+    "message": "Основной"
+  },
+  "hotkeys.hotkeymode.advanced.label": {
+    "message": "Дополнительные"
+  },
+  "hotkeys.hotkeybehavior.description": {
+    "message": "Изменить поведение горячих клавиш"
+  },
+  "hotkeys.hotkeybehavior.label": {
+    "message": "Изменить поведение горячих клавиш"
+  },
+  "hotkeys.hotkeybehavior.tooltip": {
+    "message": "Определяет режим того, как XSplit Broadcaster отлавливает нажатие на горячие клавиши на данной странице. [br][br] **Глобально** - Нажатие на горячие клавиши срабатывает везде [br] **Приложение** - Горячие клавиши работают только когда XSplit Broadcaster находится в фокусе [br] **Отключено** - Нажатия на горячие клавиши игнорируются"
+  },
+  "hotkeys.hotkeyBehavior.values.0": {
+    "message": "Глобально"
+  },
+  "hotkeys.hotkeyBehavior.values.1": {
+    "message": "Приложение"
+  },
+  "hotkeys.hotkeyBehavior.values.2": {
+    "message": "Отключено"
+  },
+  "accounts.videoSharing.label": {
+    "message": "Видео"
+  },
+  "accounts.youtube.label": {
+    "message": "YouTube"
+  },
+  "accounts.youtube.authorize.label": {
+    "message": "Разрешить загружать видео на YouTube"
+  },
+  "accounts.socials.label": {
+    "message": "Социальные сети"
+  },
+  "accounts.facebook.label": {
+    "message": "Facebook"
+  },
+  "accounts.facebook.authorize.label": {
+    "message": "Разрешить размещать на Facebook"
+  },
+  "accounts.twitter.label": {
+    "message": "Twitter"
+  },
+  "accounts.twitter.authorize.label": {
+    "message": "Разрешить размещать на Twitter"
+  },
+  "accounts.google.label": {
+    "message": "Google+"
+  },
+  "accounts.google.authorize.label": {
+    "message": "Разрешить разместить на Google +"
+  },
+  "accounts.playerme.label": {
+    "message": "Player.Me"
+  },
+  "accounts.playerme.authorize.label": {
+    "message": "Разрешить размещать на Player.me"
+  },
+  "accounts.service.deauthorize.label": {
+    "message": "Отозвать авторизацию"
+  },
+  "accounts.service.switch.label": {
+    "message": "Сменить учетную запись"
+  },
+  "advanced.caution.label": {
+    "message": "Соблюдайте осторожность при использовании этих дополнительных функций. Мы не можем нести ответственность за любого котёнка, который может пострадать, если будет возиться тут. Пожалуйста, обратитесь к подсказкам для получения дополнительной информации."
+  },
+  "advanced.enableOptimizedRender.label": {
+    "message": "Улучшенный обработчик видео (EVR)"
+  },
+  "advanced.enableOptimizedRender2.label": {
+    "message": "Используйте улучшенный обработчик видео (EVR)"
+  },
+  "advanced.enableOptimizedRender.tooltip": {
+    "message": "**Этот параметр носит экспериментальный характер и может быть изменены или удален в будущих релизах** [br][br] Расширение видео рендерер является альтернативным рендерером для XSplit Broadcaster. Вы можете попробовать использовать эту опцию, если у вас есть проблемы с презентацией, чтобы увидеть, поможет ли это."
+  },
+  "advanced.videoProcessingMode.label": {
+    "message": "Режим обработки видео"
+  },
+  "advanced.videoProcessingMode2.label": {
+    "message": "Режим обработки видео (По умолчанию: использовать параметры обработки видео из предыдущих установок)"
+  },
+  "advanced.videoProcessingMode.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  Use CPU mode when you play games on the same hardware to minimize impact on the game. Use GPU mode if you want XSplit to take advantage of GPU functions for accelerated video decoding and processing. Available on Windows 8+."
+  },
+  "advanced.videoProcessingMode.values.1": {
+    "message": "Использовать параметры обработки видео из предыдущих установок"
+  },
+  "advanced.videoProcessingMode.values.2": {
+    "message": "По возможности использовать CPU для обработки видео"
+  },
+  "advanced.videoProcessingMode.values.3": {
+    "message": "По возможности использовать GPU для обработки видео"
+  },
+  "advanced.enableGlobalScript.label": {
+    "message": "Включить расширения"
+  },
+  "advanced.enableGlobalScript2.label": {
+    "message": "Включить расширения (по умолчанию: %default%)"
+  },
+  "advanced.enabled.label": {
+    "message": "включено"
+  },
+  "advanced.disabled.label": {
+    "message": "отключено"
+  },
+  "advanced.enableGlobalScript.tooltip": {
+    "message": "Эта версия XSplit Broadcaster поддерживает созданные пользователем расширения, которые способны взаимодействовать с API XSplit Broadcaster. В настоящее время это экспериментальная функция.[br][Узнать подробности здесь!](https://xspl.it/bc/custom)"
+  },
+  "advanced.enableFlashSound.label": {
+    "message": "включить системный Flash и настройку аудио в браузере"
+  },
+  "advanced.enableFlashSound2.label": {
+    "message": "Включить системный Flash и настройку аудио в браузере (По умолчанию: %default%)"
+  },
+  "advanced.enableFlashSound.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  Enabling this option will allow XSplit to automatically mute audio from flash and browser sources in XSplit preview. This option will also allow you to use Stream Only audio option for flash and browser sources."
+  },
+  "advanced.enableWasapi.label": {
+    "message": "Включить аудио интерфейс WASAPI"
+  },
+  "advanced.enableWasapi2.label": {
+    "message": "Включить аудио визуализацию от WASAPI (По умолчанию: %default%)"
+  },
+  "advanced.enableWasapi.tooltip": {
+    "message": "Этот параметр вынудит источники использовать визуализатор аудио от WASAPI вместо прямой передачи звука. Это может привести к появлению треска при использовании некоторых источников."
+  },
+  "advanced.enableMFEngine.label": {
+    "message": "Use Media Foundation Engine for video playback"
+  },
+  "advanced.enableMFEngine2.label": {
+    "message": "Use Media Foundation Engine for video playback (Default: %default%)"
+  },
+  "advanced.enableMFEngine.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  This option enables Microsoft MF engine for playback of supported video files (MP4, WMV, AVI, ASF). Using the MF engine will enable DXVA2 hardware acceleration and uses less CPU resources."
+  },
+  "advanced.enableHardwareAccelerateUSB2.label": {
+    "message": "Использовать аппаратное ускорение для устройств захвата работающих по USB2"
+  },
+  "advanced.enableHardwareAccelerateUSB22.label": {
+    "message": "Использовать аппаратное ускорение для устройств захвата работающих по USB2 (По умолчанию: %default%)"
+  },
+  "advanced.enableHardwareAccelerateUSB2.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  This option uses DXVA2 hardware acceleration to decode video from USB 2 capture devices such as AverMedia LGP, Happauge HDPVR, Elgato HD and HD60."
+  },
+  "advanced.antiAliasing.label": {
+    "message": "Анти-алиасинг GPU"
+  },
+  "advanced.antiAliasing.tooltip": {
+    "message": "**Этот параметр носит экспериментальный характер и может быть изменен или удален в будущих релизах** [br][br] Для MSAA мы рекомендуем использовать максимум параметров Sample Count 4 и Quality 0, чтобы избежать использования GPU. MLAA - шейдер постобработки и может потребовать меньшее количество ресурсов, но визуальный эффект также может отличаться."
+  },
+  "advanced.antiAliasing.values.1": {
+    "message": "Нет (по умолчанию)"
+  },
+  "advanced.antiAliasing.values.2": {
+    "message": "MLAA"
+  },
+  "advanced.antiAliasing.values.3": {
+    "message": "MSAA"
+  },
+  "advanced.antiAliasing.quality.label": {
+    "message": "Качество"
+  },
+  "advanced.antiAliasing.sampleCount.label": {
+    "message": "Количество образцов"
+  },
+  "advanced.antiAliasing.stencilBuffer.label": {
+    "message": "Использование буфера шаблона"
+  },
+  "advanced.antiAliasing.threshold.label": {
+    "message": "Порог"
+  },
+  "advanced.network.label": {
+    "message": "Сетевое подключение"
+  },
+  "advanced.network.tooltip": {
+    "message": "Выберите для трансляции действующие сетевые адаптеры."
+  },
+  "advanced.customNetworkConnection.label": {
+    "message": "Разрешить плагинам для трансляций указывать их собственный сетевой адаптер"
+  },
+  "advanced.customNetworkConnection.labelXbc5003": {
+    "message": "Разрешить выходам указывать их собственный сетевой адаптер"
+  },
+  "advanced.customNetworkConnection.tooltip": {
+    "message": "Включение этого позволит вам выбирать активные сетевые адаптеры для каждого из ваших стримов."
+  },
+  "advanced.autoSelectNetworkAdapter.label": {
+    "message": "Автоматически выбирать другой сетевой адаптер если выбранный недоступен"
+  },
+  "advanced.enableScriptSecurity.label": {
+    "message": "Активировать проверку безопасности скриптов для источников и расширений"
+  },
+  "advanced.enableScriptSecurity2.label": {
+    "message": "Активировать проверку безопасности скриптов для источников и расширений (По умолчанию: %default%)"
+  },
+  "advanced.enableScriptSecurity.tooltip": {
+    "message": "Отключение этого параметра означает, что вы предоставляете полный доступ всем скриптам источников и расширений без подтверждения."
+  },
+  "advanced.browserSourceOptimization.label": {
+    "message": "Особая оптимизация для браузерного источника"
+  },
+  "advanced.browserSourceOptimization2.label": {
+    "message": "Особая оптимизация для браузерного источника (По умолчанию: %default%)"
+  },
+  "advanced.browserSourceOptimization.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  This option uses a special optimization for the capture pipeline of HTML sources. This option should provide for smoother animation of HTML sources in both 30 and 60 FPS, but may not work on all systems (on some systems, the HTML may show only black). Default FPS for HTML sources is 30 FPS, with option for JavaScript to request 60 FPS (see [this post](https://xspl.it/bc/svw6qh) for more information)."
+  },
+  "advanced.enableDeveloperMode.label": {
+    "message": "Включить режим разработки"
+  },
+  "advanced.enableDeveloperMode2.label": {
+    "message": "Включить режим разработки (По умолчанию: %default%)"
+  },
+  "advanced.enableDeveloperMode.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  This option will perform additional logging, enable plugin debugging and allow unsigned DLLs to be loaded by plugins."
+  },
+  "advanced.enhancedLogging.label": {
+    "message": "Включить расширенное журналирование (логирование)"
+  },
+  "advanced.enhancedLogging2.label": {
+    "message": "Включить расширенное журналирование (По умолчанию: %default%)"
+  },
+  "advanced.enhancedLogging.tooltip": {
+    "message": "Эта опция позволяет XSplit выполнять всестороннее журналирование при поиске и устранении неполадок. Все журналы будут собраны в [одной папке](%path%). Мы рекомендуем вам настроить Dropbox или Google диск на работу с файлами в этой папке.[br][br]Данный параметр выключается автоматически при перезагрузке XSplit. Мы рекомендуем вам отключить этот параметр самостоятельно, когда вы закончите отладку и работу с журналами."
+  },
+  "advanced.dx12Capture.label": {
+    "message": "Включить захват игр использующих DirectX12"
+  },
+  "advanced.dx12Capture2.label": {
+    "message": "Включить захват игры на базе DirectX12 (По умолчанию: включено)"
+  },
+  "advanced.dx12Capture.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  Enable this option to capture DX12 games. There may be incompatibility with some systems/drivers which may prevent capture of any game - even non-DX12 games, this option may be disabled should such issue arise. Game/application may need to be restarted for option change to take effect."
+  },
+  "advanced.vulkan.label": {
+    "message": "Включить захват игр на базе Vulkan"
+  },
+  "advanced.vulkan2.label": {
+    "message": "Включить захват игр на базе Vulkan (По умолчанию: включено)"
+  },
+  "advanced.vulkan.tooltip": {
+    "message": "Enable this option to capture Vulkan games. Game/application may need to be restarted for option change to take effect."
+  },
+  "advanced.projectorBorder.label": {
+    "message": "Граница области выделения экрана"
+  },
+  "advanced.projectorBorder.values.always": {
+    "message": "Всегда показывать границы области выделения"
+  },
+  "advanced.projectorBorder.values.shift": {
+    "message": "Показывать границы области выделения при зажатой клавише SHIFT"
+  },
+  "advanced.projectorBorder.values.never": {
+    "message": "Никогда не показывать границы области выделения"
+  },
+  "advanced.gpuAdapter.label": {
+    "message": "GPU Adapter"
+  },
+  "advanced.gpuAdapter2.label": {
+    "message": "Select GPU Adapter (Default: Automatic)"
+  },
+  "advanced.gpuAdapter.tooltip": {
+    "message": "This will force XSplit Broadcaster to run on the selected graphics adapter (GPU). If set to automatic, XSplit Broadcaster will run on your primary graphics adapter set in Windows or your GPU control panel."
+  },
+  "advanced.gpuAdapter.values.0": {
+    "message": "Автоматически"
+  },
+  "menu.mixerColorspace.label": {
+    "message": "Микширование цветового пространства"
+  },
+  "menu.mixerColorspace.ayuv.label": {
+    "message": "AYUV"
+  },
+  "menu.mixerColorspace.yuy2.label": {
+    "message": "YUY2"
+  },
+  "menu.mixerColorspace.rgb1624.label": {
+    "message": "RGB16/24"
+  },
+  "menu.mixerColorspace.rgb32.label": {
+    "message": "RGB32"
+  },
+  "menu.enableVirtualCameraWhileStreaming.label": {
+    "message": "Включать виртуальную камеру при потоковой передаче"
+  },
+  "button.restore": {
+    "message": "Восстановить значения по умолчанию"
+  },
+  "button.ok": {
+    "message": "ОК"
+  },
+  "button.cancel": {
+    "message": "Отменить"
+  },
+  "button.apply": {
+    "message": "Применить"
+  }
+}

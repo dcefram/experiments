@@ -1,0 +1,89 @@
+{
+    "loadingStatus.messages.splashScreenStatus_LoggingIn.message": {
+        "message": "Вход в систему..."
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingBroadcastPlugins.message": {
+        "message": "Загрузка плагинов трансляции..."
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingBroadcastPluginsXbc5003.message": {
+        "message": "Загрузка выходов..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingBroadcastPlugins.message": {
+        "message": "Проверка плагинов трансляции..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingBroadcastPluginsXbc5003.message": {
+        "message": "Проверка выходов..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingForUpdates.message": {
+        "message": "Проверка обновлений..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingSourcePlugins.message": {
+        "message": "Проверка источника плагинов..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingSourcePluginsXbc5003.message": {
+        "message": "Проверка источников..."
+    },
+    "loadingStatus.messages.splashScreenStatus_Initializing.message": {
+        "message": "Установка..."
+    },
+    "loadingStatus.messages.splashScreenStatus_InstallingBroadcastPlugins.message": {
+        "message": "Установка плагинов трансляции..."
+    },
+    "loadingStatus.messages.splashScreenStatus_InstallingBroadcastPluginsXbc5003.message": {
+        "message": "Установка выходов..."
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingMainWindow.message": {
+        "message": "Загрузка главного окна..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingBroadcastPlugins.message": {
+        "message": "Обновление плагинов трансляции..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingBroadcastPluginsXbc5003.message": {
+        "message": "Обновление выходов..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingSourcePlugins.message": {
+        "message": "Обновление плагинов трансляции..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingSourcePluginsXbc5003.message": {
+        "message": "Обновление источников..."
+    },
+    "loadingStatus.messages.splashScreenStatus_VerifyingGCComponent.message": {
+        "message": "Проверка компонента захвата игры..."
+    },
+    "loadingStatus.messages.splashScreenStatus_VerifyingGCComponentWithFilename.message": {
+        "message": "Проверка компонента захвата игры... %filename%"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingAppConflict.message": {
+        "message": "Не удается обновить компонент захвата игры... Проверка конфликта приложения..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CleaningUp32.message": {
+        "message": "Не удается обновить компонент захвата игры... Очистка (32 бита)..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CleaningUp64.message": {
+        "message": "Не удается обновить компонент захвата игры... Очистка (64 бита)..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingAppComponentLoaded.message": {
+        "message": "Не удается обновить компонент захвата игры... Проверка приложений, в которых загружается компонент..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingGCComponent.message": {
+        "message": "Обновление компонента захвата игры захват... %filename%"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingExtensions.message": {
+        "message": "Проверка расширений..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingExtensions.message": {
+        "message": "Обновление расширений..."
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallSourcePluginsXbc5003.message": {
+        "message": "Установка источников по умолчанию..."
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallExtensions.message": {
+        "message": "Установка расширений по умолчанию..."
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallBroadcastPluginsXbc5003.message": {
+        "message": "Установка выходов по умолчанию..."
+    },
+    "oem.optimizedFor": {
+        "message": "Оптимизирован для"
+    }
+}

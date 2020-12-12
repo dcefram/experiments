@@ -1,0 +1,1176 @@
+{
+  "messageDialog.okButton": {
+    "message": "OK"
+  },
+  "messageDialog.yesButton": {
+    "message": "Ja"
+  },
+  "messageDialog.noButton": {
+    "message": "Nein"
+  },
+  "messageDialog.helpButton": {
+    "message": "Hilfe"
+  },
+  "messageDialog.cancelButton": {
+    "message": "Abbrechen"
+  },
+  "messageDialog.abortButton": {
+    "message": "Abbrechen"
+  },
+  "messageDialog.retryButton": {
+    "message": "Wiederholen"
+  },
+  "messageDialog.ignoreButton": {
+    "message": "Ignorieren"
+  },
+  "messageDialog.copyButton": {
+    "message": "Link kopieren"
+  },
+  "messageDialog.error": {
+    "message": "Fehler"
+  },
+  "messageDialog.question": {
+    "message": "Bestätigung"
+  },
+  "messageDialog.info": {
+    "message": "Info"
+  },
+  "messageDialog.warning": {
+    "message": "Warnung"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_GOOGLE_PLUS.title": {
+    "message": "Erfolgreich auf Google+ veröffentlicht"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_GOOGLE_PLUS.message": {
+    "message": "Erfolgreich auf Google+ veröffentlicht.[br]%url%(%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_FACEBOOK.title": {
+    "message": "Erfolgreich auf Facebook veröffentlicht"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_FACEBOOK.message": {
+    "message": "Erfolgreich auf Facebook veröffentlicht.[br][Beitrag ansehen](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_TWITTER.title": {
+    "message": "Erfolgreich auf Twitter veröffentlicht"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_TWITTER.message": {
+    "message": "Erfolgreich auf Twitter veröffentlicht.[br][Beitrag ansehen](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_SENT_MESSAGE_ON_TWITTER.title": {
+    "message": "Erfolgreich auf Twitter veröffentlicht"
+  },
+  "messageDialog.messages.SUCCESSFULLY_SENT_MESSAGE_ON_TWITTER.message": {
+    "message": "Erfolgreich auf Twitter veröffentlicht.",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_PLAYERME.title": {
+    "message": "Erfolgreich auf Player.me veröffentlicht"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_PLAYERME.message": {
+    "message": "Erfolgreich auf Player.me veröffentlicht.[br][Beitrag ansehen](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhileStreaming.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhileStreaming.message": {
+    "message": "Sie können die Bandbreite nicht während des Streamens oder Aufnehmens testen.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAacLicenseOffer.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgAacLicenseOffer.message": {
+    "message": "AAC LC-Unterstützung ist nur für lizenzierte Benutzer verfügbar.[br][br]Möchten Sie jetzt eine Lizenz erwerben?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver.message": {
+    "message": "Mit der auf Ihrem Arbeitsplatz installierten AVerMedia c985 Live Gamer Aufnahme-Karte, ist es jetzt für XSplit möglich den integrierten Hardware-Codierer zu verwenden. Diese Funktion ist nur für Premium-Lizenz-Kunden verfügbar. Bitte ziehen Sie die Erweiterung Ihrer aktuellen Lizenz auf eine Premium-Lizenz in Betracht.[br][br]Möchten Sie jetzt Ihre Lizenz erweitern?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver1.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver1.message": {
+    "message": "Ihre Lizenz gestattet nicht die Verwendung des in der AVerMedia c985 Live Gamer-Aufnahme-Karte eingebauten Codierers. XSplit schaltet nun auf den standard X264-Codierer um.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qs.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qs.message": {
+    "message": "QuickSync-Encoder ist nur für %licensetype%-lizenzierte Benutzer verfügbar. Bitte überdenken Sie die Erweiterung Ihrer aktuellen Lizenz.[br][br]Ihre Lizenz jetzt erweitern?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qsext.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qsext.message": {
+    "message": "QuickSync-Codierer ist nur für %licensetype%-lizenzierte Benutzer verfügbar. Bitte überdenken Sie die Erweiterung Ihrer aktuellen Lizenz.[br][br]Ihre Lizenz jetzt erweitern?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_AAC.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_AAC.message": {
+    "message": "Das Aktivieren der höheren AAC-Audio-Qualität ist nur für lizenzierte XSplit-Benutzer verfügbar.[br][br]Ihre Lizenz jetzt erweitern?",
+    "type": "question"
+  },
+  "messageDialog.messages.UsernameIsEmpty.message": {
+    "message": "Benutzername muss angegeben werden.",
+    "type": "warning"
+  },
+  "messageDialog.messages.PasswordIsEmpty.message": {
+    "message": "Passwort muss angegeben werden.",
+    "type": "warning"
+  },
+  "messageDialog.messages.StreamChannelIsEmpty.message": {
+    "message": "Ihr Kanal ist noch nicht verfügbar. Bitte vergewissern Sie sich, dass Sie Ihre Anmeldeinformationen korrekt eingegeben haben, und dass Ihr Kanal auf der %service%-Website richtig konfiguriert wurde.",
+    "type": "warning"
+  },
+  "messageDialog.messages.UsernameIsUnknown.message": {
+    "message": "Benutzername ist unbekannt.",
+    "type": "warning"
+  },
+  "messageDialog.messages.InvalidChannelCredentials.message": {
+    "message": "Ein Problem ist während der Authentifizierung Ihrer Anmeldeinformationen aufgetreten. Bitte überprüfen Sie, ob Ihr Benutzername und Kennwort korrekt sind und Ihre Netzwerkverbindung in Ordnung ist.",
+    "type": "warning"
+  },
+  "messageDialog.messages.PresetDoesNotExist.message": {
+    "message": "Voreinstellung %preset% ist nicht vorhanden.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow.message": {
+    "message": "Max Bitrate darf %bitrate% Kbit/s nicht unterschreiten.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow_VBR.message": {
+    "message": "Max Bitrate darf %bitrate% Kbit/s nicht unterschreiten.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow_CBR.message": {
+    "message": "Bitrate darf %bitrate% Kbit/s nicht unterschreiten.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSaveBeforeCloseConfirmation.message": {
+    "message": "Möchten Sie Änderungen speichern, bevor Sie dieses Dialogfeld schließen?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgDefaultStageResolutionWarning AVerMedia H.264 Encoder.message": {
+    "message": "Diese Einstellung wird auf Ihrem Konto nicht erhalten und muss bei jeder Anmeldung festgelegt werden.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDefaultStageResolutionWarning.message": {
+    "message": "Indem die Auflösung eines bestimmten Streams auf eine niedrigere Auflösung als die aktuelle Bühnenauflösung festgelegt wird, ist es möglich, mehrere Datenströme gleichzeitig in verschiedenen Auflösungen zu streamen.[br][br]Daher können Sie einen Stream mit der Standardbühnenauflösung streamen und dann einen anderen Stream einrichten, der eine kleinere Auflösung als die standardmäßige erzwingt.[br][br]Diese Einstellung wird nicht auf Ihrem Konto beibehalten und muss für jede Anmeldung festgelegt werden.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgChannelResolutionLicenseOffer.message": {
+    "message": "Einstellen der Kanalausgabeauflösung ist nur für lizenzierte Benutzer verfügbar.[br][br]Möchten Sie jetzt eine Lizenz erwerben?",
+    "type": "question"
+  },
+  "messageDialog.messages.LivestreamUrlIsEmpty.title": {
+    "message": "IP-Kamera/RTSP-Stream hinzufügen"
+  },
+  "messageDialog.messages.LivestreamUrlIsEmpty.message": {
+    "message": "Bitte geben Sie die URL an.",
+    "type": "warning"
+  },
+  "messageDialog.messages.LivestreamUrlIsInvalid.title": {
+    "message": "IP-Kamera/RTSP-Stream hinzufügen"
+  },
+  "messageDialog.messages.LivestreamUrlIsInvalid.message": {
+    "message": "Die URL ist ungültig.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhenAlreadyStreaming.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhenAlreadyStreaming.message": {
+    "message": "Bandbreite kann während des Streamens nicht getestet werden.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgErrorSavingSettings.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.msgErrorSavingSettings.message": {
+    "message": "Problem beim Speichern der Einstellungen festgestellt.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCreateYouTubeChannel.title": {
+    "message": "YouTube-Kanal erstellen?"
+  },
+  "messageDialog.messages.msgCreateYouTubeChannel.message": {
+    "message": "Sie sind bereits bei YouTube angemeldet aber es existiert noch kein Kanal, möchten Sie Ihren Kanal jetzt erstellen?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgEnsureNotSuspended.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgEnsureNotSuspended.message": {
+    "message": "Keine ordnungsgemäßen Kontoinformationen erhalten, stellen Sie sicher, dass das Konto nicht gesperrt ist.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGamesourceBuyXSplitOffer.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgGamesourceBuyXSplitOffer.message": {
+    "message": "XSplit Game Source erlaubt Benutzern, DirectX- oder OpenGL-Spiele direkt aufzunehmen, ohne dass Bildschirmaufnahme verwendet wird.[br]Diese Funktion ist nur für lizenzierte Benutzer verfügbar.[br][br]Klicken Sie auf OK, um Ihre eigene XSplit-Lizenz zu bekommen und die Wiedergabe von Media-Playern oder Videospielen direkt aufzunehmen.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUsernameIsInvalid.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.msgUsernameIsInvalid.message": {
+    "message": "Der in der Profil-Registerkarte angegebene Benutzername muss mindestens 4 Zeichen (alphanumerisch, Punkt, Bindestrich) enthalten.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidScreenName.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.msgInvalidScreenName.message": {
+    "message": "Benutzername ist ungültig. Nur Buchstaben, Bindestriche (-) und Punkte (.) sind erlaubt. Unterstützung für andere Zeichensätze ist in Arbeit. Bindestriche oder Punkte können nicht am Anfang oder Ende stehen.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation5.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.msgRegistrationValidation5.message": {
+    "message": "Das in der Profil-Registerkarte angegebene Geburtsdatum ist ungültig.",
+    "type": "warning"
+  },
+  "messageDialog.messages.FeatureIsNotSupportedByOS.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.FeatureIsNotSupportedByOS.message": {
+    "message": "Diese Option wird von Ihrem Betriebssystem nicht unterstützt.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDisallowDisableAeroTheme.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.msgDisallowDisableAeroTheme.message": {
+    "message": "Unter Windows 7 und Vista werden überlappende Fenster immer mit aufgenommen werden, wenn Aero-Design aktiviert ist. XSplit das Deaktivieren vom Aero-Design nicht zu erlauben, kann dazu führen, dass einige Bildschirmaufnahmequelle-Optionen nicht die erwartete Wirkung erzielen.[br][br]Fortfahren?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgVideoUploading.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.msgVideoUploading.message": {
+    "message": "Aktion während dem Video-Upload nicht verfügbar, bitte später nochmal versuchen.",
+    "type": "error"
+  },
+  "messageDialog.messages.MicIsStereoMixCapable.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.MicIsStereoMixCapable.message": {
+    "message": "Das Mikrofon, das Sie ausgewählt haben ist möglicherweise bereits in der Lage die Lautsprecherausgabe aufzunehmen, was zu Sound-Problemen in Ihrem Broadcast führen kann. In diesem Fall schalten Sie bitte den Lautsprecher in Broadcaster auf stumm.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSaveAV_Failed.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.msgSaveAV_Failed.message": {
+    "message": "Fehler beim Speichern Ihrer Audio/Video-Einstellungen.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRegistrationValidation1.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.msgRegistrationValidation1.message": {
+    "message": "Ihre vorherige Anfrage, den Anzeigenamen zu ändern, wurde verweigert, weil der Name, den Sie angegeben haben, leer ist.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation7.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.msgRegistrationValidation7.message": {
+    "message": "Lassen Sie Ihren vollständigen Namen bitte nicht unausgefüllt.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation9.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.msgRegistrationValidation9.message": {
+    "message": "Lassen Sie Ihr Land bitte nicht unausgefüllt.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation4.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.msgRegistrationValidation4.message": {
+    "message": "Bitte wählen als Geburtstag ein Datum früher als das Datum Heute.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSettingsValidation7.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.msgSettingsValidation7.message": {
+    "message": "Ihre Einstellungen sind ungültig.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSettingsSaved_SyncFailed.title": {
+    "message": "XSplit Broadcaster - Allgemeine Einstellungen"
+  },
+  "messageDialog.messages.msgSettingsSaved_SyncFailed.message": {
+    "message": "Fehler ist beim Synchronisieren Ihrer Einstellungen mit dem Server aufgetreten. %serverResponse% Ihre Einstellungen wurden lokal gespeichert.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDuplicateUsername.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgDuplicateUsername.message": {
+    "message": "Ihre vorherige Anfrage, den Anzeigenamen zu ändern, wurde verweigert, weil der Name bereits vergeben ist.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgProfileSyncFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgProfileSyncFailed.message": {
+    "message": "Ihre vorige Anfrage an Profileinstellungen wurde verweigert.[br][br]%exception%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCurrentResolutionIsNotSupported3.title": {
+    "message": "Benutzerdefinierte Auflösung"
+  },
+  "messageDialog.messages.msgCurrentResolutionIsNotSupported3.message": {
+    "message": "XSplit unterstützt keine Bühnenauflösungen kleiner als %resolution% pixel.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgShareFailed.title": {
+    "message": "Teilen fehlgeschlagen"
+  },
+  "messageDialog.messages.msgShareFailed.message": {
+    "message": "Ihr Stream wurde nicht erfolgreich auf %service% geteilt.[br][br]%reason%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgNoNetHasLocal.title": {
+    "message": "Anmelden"
+  },
+  "messageDialog.messages.msgNoNetHasLocal.message": {
+    "message": "XSplit hat keine Internetverbindung erkannt. Sie können sich zwar weiterhin anmelden, jedoch werden einige Funktionen, die eine Internetverbindung benötigen, möglicherweise nicht funktionieren.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSrvFailedHasLocal.title": {
+    "message": "Anmelden"
+  },
+  "messageDialog.messages.msgSrvFailedHasLocal.message": {
+    "message": "XSplit konnte nicht mit den XSplit-Servern verbinden. XSplit wird die Anmeldung im Offline-Modus fortsetzen, welcher Ihnen erlaubt die meisten Funktionen zu verwenden, die keine direkte XSplit-Serververbindung benötigen.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSrvFailedNoLocal.title": {
+    "message": "Anmelden"
+  },
+  "messageDialog.messages.msgSrvFailedNoLocal.message": {
+    "message": "XSplit konnte nicht mit den XSplit-Servern verbinden. Eine Verbindung zu den XSplit-Servern ist erforderlich, wenn Sie sich das erste Mal an diesem Computer anmelden. Bitte versuchen Sie es später erneut.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLoginToServerException.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLoginToServerException.message": {
+    "message": "Es tut uns Leid. Sie müssen online sein, um sich bei XSplit anzumelden.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgLoginToServerException1.message": {
+    "message": "Es tut uns Leid. Ihr Passwort wurde auf diesem Computer als ungültig erkannt. Bitte versuchen Sie Ihr Passwort erneut einzugeben. Sie haben Ihr Passwort für dieses Konto möglicherweise an einem anderen Computer oder online geändert. Für diesen Fall bitten wir Sie sicherzustellen, dass Ihre Internetverbindung funktioniert, damit die Anwendung sicherstellen kann, dass Ihr Passwort mit dem Passwort, welches wir auf dem XSplits-Server registriert haben, synchronisiert ist.",
+    "type": "info"
+  },
+  "messageDialog.messages.activationReminderText.title": {
+    "message": "Erinnerung"
+  },
+  "messageDialog.messages.activationReminderText.message": {
+    "message": "Vergessen Sie nicht, Ihr Konto zu aktivieren. Eine e-Mail mit einem Aktivierungslink wurde an Ihr E-Mail-Konto versandt.[br][br]Sollen wir Ihnen den Aktivierungs-Link erneut zusenden?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgUpdateCheckNone.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgUpdateCheckNone.message": {
+    "message": "Keine Updates erkannt. Bitte melden Sie sich mit Ihrem Konto an.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedPlugins.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgUpdatedPlugins.message": {
+    "message": "XSplit hat entdeckt, dass aktualisierte Plugins zur Verfügung stehen:[br][br]%pluginlist%[br][br]Klicken Sie OK, um diese aktualisierten Plugins zu installieren.",
+    "type": "question"
+  },
+  "messageDialog.messages.msgAddinInstallationFailed.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgAddinInstallationFailed.message": {
+    "message": "Plugin-Installation wurde vorzeitig beendet. Starten Sie XSplit neu, um unerwünschtes Verhalten zu vermeiden.[br][br]XSplit wird jetzt geschlossen.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAddinInstallRestartFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgAddinInstallRestartFailed.message": {
+    "message": "Kann nicht XSplit neustarten. Bitte öffnen Sie den Task-Manager und beenden Sie XSplit, wenn es noch ausgeführt wird.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdateCheckFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgUpdateCheckFailed.message": {
+    "message": "Konnte nicht nach Aktualisierungen suchen. Programm wird bei Ihrem nächsten Login erneut versuchen.",
+    "type": "warning"
+  },
+  "messageDialog.messages.FailureCreatingNonExistingFolder.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.FailureCreatingNonExistingFolder.message": {
+    "message": "Konnte Ordner %folder% nicht erstellen. %exception%.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAddinLoadedFromPreviousSession.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgAddinLoadedFromPreviousSession.message": {
+    "message": "Einige der bereits in der aktuellen XSplit-Sitzung geladenen Plugins, sind in Ihrem Benutzerkonto nicht verfügbar. Um die mit Ihrem Account verbundenen Plugins neu zu laden, muss XSplit neu gestartet werden.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgD3DGearInstalled.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgD3DGearInstalled.message": {
+    "message": "Sie haben derzeit D3DGear auf Ihrem System installiert. XSplit kann nicht starten, solange diese Anwendung installiert ist.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgD3DGearRunning.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgD3DGearRunning.message": {
+    "message": "D3DGear wird ausgeführt. XSplit kann nicht starten, solange diese Anwendung ausgeführt wird. Wir empfehlen im Allgemeinen keine anderen Anwendungen, die Spiele aufzeichnen, zur selben Zeit auszuführen, in der Sie XSplit ausführen.",
+    "type": "error"
+  },
+  "messageDialog.messages.NicoProps.UsernameIsEmpty.title": {
+    "message": "Niconico"
+  },
+  "messageDialog.messages.NicoProps.UsernameIsEmpty.message": {
+    "message": "E-Mail muss angegeben werden.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.StreamChannelIsEmpty.title": {
+    "message": "Twitch-Eigenschaften"
+  },
+  "messageDialog.messages.frmTwitchProps.StreamChannelIsEmpty.message": {
+    "message": "Ihr Kanal ist noch nicht verfügbar, oder durch Zugangscode geschützt. Bitte stellen Sie sicher, dass Sie Ihre Anmeldeinformationen korrekt eingegeben haben, Ihr Kanal keinen Zugriffscode hat, und dass Sie Ihren Kanal auf der Twitch-Website richtig konfiguriert haben.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmFc2.StreamChannelIsEmpty.title": {
+    "message": "FC2 Live-Eigenschaften"
+  },
+  "messageDialog.messages.frmFc2.StreamChannelIsEmpty.message": {
+    "message": "Ihr Kanal ist noch nicht verfügbar. Bitte stellen Sie sicher, dass Sie den FC2 Live-Dienst zu Ihrem Konto hinzugefügt haben.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustinTVProps.StreamChannelIsEmpty.title": {
+    "message": "Justin.tv-Eigenschaften"
+  },
+  "messageDialog.messages.frmJustinTVProps.StreamChannelIsEmpty.message": {
+    "message": "Ihr Kanal ist noch nicht verfügbar, oder durch Zugangscode geschützt. Bitte stellen Sie sicher, dass Sie Ihre Anmeldeinformationen korrekt eingegeben haben, Ihr Kanal keinen Zugriffscode hat, und dass Sie Ihren Kanal auf der Twitch-Website richtig konfiguriert haben.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmhitboxProps.StreamChannelIsEmpty.title": {
+    "message": "Hitbox"
+  },
+  "messageDialog.messages.frmhitboxProps.StreamChannelIsEmpty.message": {
+    "message": "Ihr Kanal ist noch nicht verfügbar, oder durch Zugangscode geschützt. Bitte stellen Sie sicher, dass Sie Ihren Livestream korrekt eingerichtet haben, Ihr Kanal keine Streamschlüssel/authorisierung hat und dass Sie Ihren Kanal auf der Hitbox-Website richtig konfiguriert haben.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmhitboxProps.UsernameAndPasswordMismatch.title": {
+    "message": "Hitbox"
+  },
+  "messageDialog.messages.frmhitboxProps.UsernameAndPasswordMismatch.message": {
+    "message": "Benutzername und Passwort stimmen nicht überein.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidUsername.title": {
+    "message": "Twitch-Eigenschaften"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidUsername.message": {
+    "message": "Ein gültiger Twitch-Benutzername muss angegeben werden. Der Benutzername dient zur Benennung von Kanal und Teilen-Link.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAuthorizeAccountFirst.message": {
+    "message": "Bitte autorisieren Sie zuerst ein Konto.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgConfirmAccountDeauthorization.message": {
+    "message": "Bei Auswahl dieser Option wird die Autorisierung des aktuellen Kontos aufgehoben.",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_StartStream.message": {
+    "message": "%service% bietet keinen öffentlichen und kostenlosen Streaming-Dienst an. Streamen auf %service% steht daher nur lizenzierten XSplit-Benutzern zur Verfügung.[br][br]Ihre Lizenz jetzt aktualisieren?",
+    "type": "question"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleMaxCharsExceeded.title": {
+    "message": "YouTube Live-Eigenschaften"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleMaxCharsExceeded.message": {
+    "message": "Der Titel kann nicht länger als 100 Zeichen sein (derzeit bei %length%).",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleHasInvalidChars.title": {
+    "message": "YouTube Live-Eigenschaften"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleHasInvalidChars.message": {
+    "message": "Der Titel kann nicht die Zeichen '<' und ' >' enthalten.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescMaxCharsExceeded.title": {
+    "message": "YouTube Live-Eigenschaften"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescMaxCharsExceeded.message": {
+    "message": "Die Beschreibung kann nicht länger als 5000 Zeichen sein (derzeit bei %length%).",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescHasInvalidChars.title": {
+    "message": "YouTube Live-Eigenschaften"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescHasInvalidChars.message": {
+    "message": "Die Beschreibung kann nicht die Zeichen '<' und ' >' enthalten.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsMaxCharsExceeded.title": {
+    "message": "YouTube Live-Eigenschaften"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsMaxCharsExceeded.message": {
+    "message": "Die Summe aller Tags kann nicht mehr als 500 Zeichen betragen (derzeit bei %length%).",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsHasInvalidChars.title": {
+    "message": "YouTube Live-Eigenschaften"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsHasInvalidChars.message": {
+    "message": "Tags können nicht die Zeichen '<' und ' >' enthalten.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagMaxCharsExceeded.title": {
+    "message": "YouTube Live-Eigenschaften"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagMaxCharsExceeded.message": {
+    "message": "Das Tag '%tag%' überschreitet die Grenze von 30 Zeichen, die von YouTube vorgeschrieben ist.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.EmailIsInvalid.title": {
+    "message": "YouTube Live-Eigenschaften"
+  },
+  "messageDialog.messages.frmYouTubeLive.EmailIsInvalid.message": {
+    "message": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgApiError.title": {
+    "message": "YouTube Live-Eigenschaften"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgApiError.message": {
+    "message": "Beim Zugriff auf die YouTube Live-API ist ein Fehler aufgetreten. Sie haben möglicherweise keinen Zugriff auf YouTube Live.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgServerError.title": {
+    "message": "YouTube Live-Eigenschaften"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgServerError.message": {
+    "message": "Es gab ein Problem bei der Kommunikation mit den YouTube Live-Servern. Möglicherweise ist dies ein Netzwerkproblem, oder Sie haben keinen Zugriff auf YouTube Live.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleIsEmpty.title": {
+    "message": "YouTube Live-Eigenschaften"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleIsEmpty.message": {
+    "message": "Titel darf nicht leer sein.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustTVProps.UsernameIsUnknown.message": {
+    "message": "Ihr Kanal ist noch nicht verfügbar, oder durch Zugangscode geschützt. Bitte stellen Sie sicher, dass Sie Ihre Anmeldeinformationen korrekt eingegeben haben, Ihr Kanal keinen Zugriffscode hat, und dass Sie Ihren Kanal auf der Justin.tv-Website richtig konfiguriert haben.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.UsernameIsUnknown.title": {
+    "message": "Twitch-Eigenschaften"
+  },
+  "messageDialog.messages.frmTwitchProps.UsernameIsUnknown.message": {
+    "message": "Ihr Kanal ist noch nicht verfügbar, oder durch Zugangscode geschützt. Bitte stellen Sie sicher, dass Sie Ihre Anmeldeinformationen korrekt eingegeben haben, Ihr Kanal keinen Zugriffscode hat, und dass Sie Ihren Kanal auf der Twitch-Website richtig konfiguriert haben.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustinTVProps.InvalidChannelCredentials.title": {
+    "message": "Justin.tv-Eigenschaften"
+  },
+  "messageDialog.messages.frmJustinTVProps.InvalidChannelCredentials.message": {
+    "message": "Ein Problem ist während der Authentifizierung Ihrer Anmeldeinformationen aufgetreten. Der Justin.tv-Authentifizierungsdienst arbeitet möglicherweise ein wenig langsamer als normal. Bitte wiederholen Sie ein paar Mal, oder überprüfen Sie, ob Ihr Benutzernamen und Passwort korrekt sind und Ihre Internetverbindung zu Justin.tv zuverlässig ist.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidChannelCredentials.title": {
+    "message": "Twitch-Eigenschaften"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidChannelCredentials.message": {
+    "message": "Ein Problem ist während der Authentifizierung Ihrer Anmeldeinformationen aufgetreten. Bitte überprüfen Sie, ob Ihr Benutzername und Kennwort korrekt sind, Ihr Kanal nicht durch einen Zugriffscode geschützt ist, und ob die Netzwerkverbindung in Ordnung ist.",
+    "type": "warning"
+  },
+  "messageDialog.messages.RECORDING_FILE_DELETE.title": {
+    "message": "XSplit Broadcaster - Aufnahmen"
+  },
+  "messageDialog.messages.RECORDING_FILE_DELETE.message": {
+    "message": "Sind Sie sicher, das Sie **%file%** löschen möchten?",
+    "type": "question"
+  },
+  "messageDialog.messages.REPAIR_FILE.title": {
+    "message": "Beschädigte Datei reparieren"
+  },
+  "messageDialog.messages.REPAIR_FILE.message": {
+    "message": "Sind Sie sicher, das Sie **%file%** reparieren möchten?",
+    "type": "question"
+  },
+  "messageDialog.messages.CONVERT_VIDEO_TO_MP4.title": {
+    "message": "Video in MP4 konvertieren",
+    "type": "question"
+  },
+  "messageDialog.messages.CONVERT_VIDEO_TO_MP4.message": {
+    "message": "Sind Sie sicher, dass Sie **%filename%** in eine MP4-Datei konvertieren möchten?",
+    "type": "question"
+  },
+  "messageDialog.messages.RECORDING_FILE_UNABLE_TO_DELETE.title": {
+    "message": "XSplit Broadcaster - Aufnahmen"
+  },
+  "messageDialog.messages.RECORDING_FILE_UNABLE_TO_DELETE.message": {
+    "message": "Kann %file% nicht löschen, weil es verwendet wird.",
+    "type": "warning"
+  },
+  "messageDialog.messages.FUNCTION_NOT_AVAIL_NOINTERNET.title": {
+    "message": "Funktion nicht verfügbar",
+    "type": "error"
+  },
+  "messageDialog.messages.FUNCTION_NOT_AVAIL_NOINTERNET.message": {
+    "message": "Funktion wegen fehlender Internetverbindung nicht verfügbar."
+  },
+  "messageDialog.messages.msgLoginValidation1.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLoginValidation1.message": {
+    "message": "Lassen Sie Ihre e-Mail-Adresse bitte nicht unausgefüllt.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidEmail.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgInvalidEmail.message": {
+    "message": "E-Mail-Format ungültig. Nur Buchstaben, Zahlen, Punkt, Bindestrich und Unterstrich sind zulässig.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLoginValidation2.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLoginValidation2.message": {
+    "message": "Lassen Sie Ihr Passwort bitte nicht unausgefüllt.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxFailedLogin.title": {
+    "message": "Maximale Anzahl fehlgeschlagener Login-Versuche erreicht"
+  },
+  "messageDialog.messages.msgMaxFailedLogin.message": {
+    "message": "Bitte starten Sie XSplit Broadcaster neu und versuchen Sie sich erneut einzuloggen.",
+    "type": "error"
+  },
+  "messageDialog.messages.servermessage_fdisdesc.message": {
+    "message": "Ihr Konto war an einen anderen Computer angemeldet. Dieser Client wurde abgemeldet, da Ihre Lizenz die Anmeldung nur auf einem Computer zur gleichen Zeit erlaubt. Wenn Sie sich wieder anmelden möchten, geben Sie bitte erneut Ihre Anmeldeinformationen ein. Beachten Sie, dass diese Aktion Ihr Konto auf dem anderen Computer abmelden wird, was alle dort derzeit laufenden Streams unterbricht.",
+    "type": "error"
+  },
+  "messageDialog.messages.servermessage_dlogdesc.message": {
+    "message": "Ihr Konto ist derzeit an einen anderen Computer angemeldet. Wenn Sie sich immer noch anmelden möchten, geben Sie bitte erneut Ihre Anmeldeinformationen ein. Beachten Sie, dass diese Aktion Ihr Konto auf dem anderen Computer abmelden wird, was alle dort derzeit laufenden Streams unterbricht.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantRegisterOffline.message": {
+    "message": "Im Offline-Modus kann nicht registriert werden.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgLoginFailedRecentAccount.message": {
+    "message": "Kann kürzlich registriertes Konto nicht anmelden. Bitte versuchen Sie es erneut.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgSavePresentation.message": {
+    "message": "Möchten Sie Änderungen an der aktuellen Präsentation speichern?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgSavePresentationBeforeLoad.message": {
+    "message": "Möchten Sie Änderungen an der aktuellen Präsentation vor dem Laden aus Datei speichern?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgMaxFps.message": {
+    "message": "Maximal zulässige Framerate ist %maxfps% FPS.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgVeryHighFps.message": {
+    "message": "Diese FPS-Einstellung erfordert einen Extrem-Hochleistungs-Computer. Bitte fahren Sie auf Ihr eigenes Risiko fort.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgGameComponentUpdate.message": {
+    "message": "XSplit Broadcaster muss sich neustarten, um das Update der Spiel-Aufnahme-Komponente abzuschließen.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgGameComponentUpdateFailed.message": {
+    "message": "XSplit Broadcaster muss die Spielerfassungskomponente aktualisieren, jedoch ist eine ältere Komponente derzeit in Ihrem System geladen und verhindert die Aktualisierung. Bitte starten Sie Ihren Computer neu und führen Sie erneut XSplit Broadcaster aus.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGameComponentUpdateUnusualBehaviour.message": {
+    "message": "XSplit Broadcaster hat ein ungewöhnliches Verhalten beim Laden der Spielerfassungs-Komponente entdeckt. Bitte wiederholen Sie noch einmal oder starten Sie Ihren Computer neu, um den Systemspeicher zurückzusetzen.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGameComponentUpdateTerminateXGCQuestion.message": {
+    "message": "XSplit Broadcaster muss die Spiel-Aufnahme-Komponente aktualisieren, kann jedoch nicht fortfahren solange XSplit Gamecaster läuft. Wenn Sie fortfahren wird XSplit Gamecaster beendet. Möchten Sie fortfahren?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgGameComponentUpdateRestart.message": {
+    "message": "XSplit Broadcaster muss die Spiel-Aufnahme-Komponente aktualisieren, kann jedoch nicht fortfahren solange XSplit Gamecaster läuft. Schließen Sie bitte XSplit Gamecaster und starten Sie XSplit Broadcaster erneut.",
+    "type": "error"
+  },
+  "messageDialog.messages.RtmpUrlIsEmpty.message": {
+    "message": "RTMP-URL muss angegeben werden.",
+    "type": "warning"
+  },
+  "messageDialog.messages.RtmpUrlIsInvalid.message": {
+    "message": "RTMP-URL ist ungültig.",
+    "type": "warning"
+  },
+  "messageDialog.messages.ChannelNameIsEmpty.message": {
+    "message": "Kanalname muss angegeben werden.",
+    "type": "warning"
+  },
+  "messageDialog.messages.InvalidCharactersInChannelName.message": {
+    "message": "Kanalname enthält ungültiges Zeichen.",
+    "type": "warning"
+  },
+  "messageDialog.messages.StreamNameIsEmpty.message": {
+    "message": "Streamname muss angegeben werden.",
+    "type": "warning"
+  },
+  "messageDialog.messages.ShareLinkIsInvalid.message": {
+    "message": "Teilen-Link ist ungültig.",
+    "type": "warning"
+  },
+  "messageDialog.messages.CloseDelay.message": {
+    "message": "Schließen des Delay-Servers stoppt alle Proxy-Streams. Fortfahren?",
+    "type": "question"
+  },
+  "messageDialog.messages.EnableEVR.message": {
+    "message": "Diese Option wird normalerweise nicht empfohlen und kann Nebenwirkungen haben. Einige Benutzer haben berichtet, dass die Verwendung von EVR (Microsoft Enhanced Video Renderer) Slow-Motion-Probleme mit bestimmten Aufnahme-Karten, einschließlich Roxio Game Capture HD, gelöst hat. Bitte starten Sie nach Änderung dieser Einstellung XSplit Broadcaster neu. EVR aktivieren?",
+    "type": "question"
+  },
+  "messageDialog.messages.SystemSoundNotDefaultSpeakers.message": {
+    "message": "Wenn Sie den Systemklang nicht auf %defaultSpeakers% festlegen, können Sie möglicherweise den Klang aus Ihren Anwendungen oder Spielen nicht mehr in Ihrem Stream oder Aufnahmen hören.",
+    "type": "warning"
+  },
+  "messageDialog.messages.PostRegisterFailed.message": {
+    "message": "Fehler nach erfolgreichem Registrieren eines neuen Benutzer-Kontos.",
+    "type": "error"
+  },
+  "messageDialog.messages.RegisterFailed.message": {
+    "message": "Kann neues Benutzer-Konto nicht registrieren.",
+    "type": "error"
+  },
+  "messageDialog.messages.RestartLogin.message": {
+    "message": "Bitte starten Sie XSplit Broadcaster neu und versuchen Sie sich erneut einzuloggen.",
+    "type": "error"
+  },
+  "messageDialog.messages.LogoutWhileRecording.message": {
+    "message": "Eine Aufnahme wird derzeit hochgeladen. Sind Sie sicher, dass Sie Abmelden/Verlassen möchten?",
+    "type": "question"
+  },
+  "messageDialog.messages.PortBlocked.message": {
+    "message": "XSplit Broadcaster hat festgestellt, dass Port TCP/443 blockiert ist. Authentifizierung bei %serviceName% erfordert die Freigabe des Ports TCP/443. Bitte klicken Sie [hier](http://xspl.it/how-to-unblock-port-443), um mehr zu erfahren.[br][br]Wenn die Freigabe von Port TCP/443 nicht möglich ist, können Sie möglicherweise trotzdem streamen, indem Sie 'CustomRTMP' und Stream-Schlüssel verwenden.",
+    "type": "warning"
+  },
+  "messageDialog.messages.NoInternetPortBlocked.message": {
+    "message": "XSplit Broadcaster scheint keine Verbindung mit %serviceName% herstellen zu können. Authentifizierung bei %serviceName% erfordert eine Internet-Verbindung und Freigabe des Ports TCP/443.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgEnableD3D.message": {
+    "message": "Kann Fenster nicht erzeugen. Bitte aktivieren Sie Direct3D-Beschleunigung.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgAmdEnduroWarning.message": {
+    "message": "Sie haben XSplit Broadcaster eingestellt im 'High Performance'-Modus zu laufen mit AMD Enduro&trade; umschaltbarer Grafik-Technologie. Aufgrund von Treiberbeschränkungen wird dieser Modus nicht unterstützt. Es wird empfohlen, stattdessen 'Energiesparmodus' zu verwenden.[br]Erfahren Sie mehr: [im Blog](https://xspl.it/ktvgqc)",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantRemoveResolution.message": {
+    "message": "Eingestellte Auflösung kann nicht entfernt werden. Wählen Sie zuerst eine andere Auflösung.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRecordingsAbortedOnInsufficientDiskSpace.message": {
+    "message": "Ihre Aufnahme konnte nicht gestartet werden. Bitte prüfen Sie, ob Sie mindestens %minFreeSpace% verfügbaren freien Speicherplatz haben.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantCreateRecordingFile.message": {
+    "message": "Aufnahmedatei in '%folder%' kann nicht erstellt werden. Bitte stellen Sie sicher, dass Sie die erforderlichen Berechtigungen besitzen, um in diesem Ordner aufzuzeichnen.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantCreateRecordingOutDir.message": {
+    "message": "Aufnahme-Verzeichnis '%folder%' kann nicht erstellt werden. Versuchen Sie es selbst zu erstellen, und wiederholen Sie die Aufnahme.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgMp4requiresAac.message": {
+    "message": "Nur der AAC-Codec ist für MP4 zulässig.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRecordingPathIsTooLong.message": {
+    "message": "Der Aufnahme-Pfad %path% ist zu lang. Bitte legen Sie einen kürzeren Pfad für Aufnahmen fest.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStreamingIsPrevented.message": {
+    "message": "Kann im Augenblick nicht streamen. Bitte neu einloggen.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgStreamingWhileOfflineIsNotAllowed.message": {
+    "message": "Sie haben sich offline angemeldet, aber scheinen online zu sein. Bitte neu anmelden, um fortzufahren.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgMixerFpsNotSupportedByVideoCodec.message": {
+    "message": "%codec% unterstützt nur die Codierung in die folgenden FPS: [br][br]%fpslist%.[br][br]Bitte passen Sie die Ausgabe-Framerate im Frameraten-Menü an",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgVideoCodecMaxEncodeLimited.message": {
+    "message": "%codec% unterstützt nur bis zu %maxEncode% simultane Codierungen zur gleichen Zeit.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgPausedRecordingWarning1.message": {
+    "message": "Eine laufende Aufnahme ist pausiert. Wenn Sie die Aufnahme fortsetzen möchten, klicken Sie '%resumeRecording%' im '%broadcast%'-Menü.[br][br]Möchten Sie die Aufnahme stoppen?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgPausedRecordingWarning.message": {
+    "message": "Eine laufende Aufnahme ist pausiert. Wenn Sie die Aufnahme fortsetzen möchten, drücken Sie %hotkey%.[br][br]Möchten Sie die Aufnahme stoppen?",
+    "type": "question"
+  },
+  "messageDialog.messages.ResolutionAlreadyExists.message": {
+    "message": "Auflösung %width% x %height% ist bereits vorhanden.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidFramerate.message": {
+    "message": "Ungültige framerate.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgHighFps.message": {
+    "message": "Diese FPS-Einstellung erfordert einen Hochleistungs-Computer. Bitte fahren Sie auf Ihr eigenes Risiko fort.",
+    "type": "warning"
+  },
+  "messageDialog.messages.ChannelNameAlreadyExists.message": {
+    "message": "%channel% existiert bereits.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantDeleteChannel.message": {
+    "message": "Kann den Kanal nicht löschen.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedSourcePlugins.message": {
+    "message": "XSplit hat entdeckt, dass aktualisierte Quellen-Plugins zur Verfügung stehen:[br][br]%pluginlist%[br][br]Möglicherweise müssen Sie die Berechtigungen für betroffene Plugins erneut aktivieren.[br][br]Klicken Sie OK, um diese aktualisierten Plugins zu installieren. Ein Neustart von XSplit ist nicht notwendig.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePlugins_npw.message": {
+    "message": "XSplit hat entdeckt, dass aktualisierte Quellen-Plugins zur Verfügung stehen:[br][br]%pluginlist%[br][br]Klicken Sie OK, um diese aktualisierten Plugins zu installieren. Ein Neustart von XSplit ist nicht notwendig.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePluginsXbc5003.message": {
+    "message": "XSplit hat entdeckt, dass aktualisierte Quellen zur Verfügung stehen:[br][br]%pluginlist%[br][br]Möglicherweise müssen Sie die Berechtigungen für betroffene Plugins erneut aktivieren.[br][br]Klicken Sie OK, um diese Aktualisierungen zu installieren. Ein Neustart von XSplit ist nicht notwendig.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePluginsXbc5003_npw.message": {
+    "message": "XSplit hat entdeckt, dass aktualisierte Quellen zur Verfügung stehen:[br][br]%pluginlist%[br][br]Klicken Sie OK, um diese Aktualisierungen zu installieren. Ein Neustart von XSplit ist nicht notwendig.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePlugins.message": {
+    "message": "XSplit hat entdeckt, dass die folgenden installierten Quellen-Plugins nicht kompatibel mit dieser Version von XSplit sind:[br][br]%pluginlist%[br][br]Möglicherweise müssen Sie die Berechtigungen für betroffene Plugins erneut aktivieren.[br][br]Klicken Sie OK, um kompatible Versionen dieser Plugins zu installieren. Ein Neustart von XSplit ist nicht erforderlich.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePlugins_npw.message": {
+    "message": "XSplit hat entdeckt, dass die folgenden installierten Quellen-Plugins nicht kompatibel mit dieser Version von XSplit sind:[br][br]%pluginlist%[br][br]Klicken Sie OK, um kompatible Versionen dieser Plugins zu installieren. Ein Neustart von XSplit ist nicht erforderlich.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsXbc5003.message": {
+    "message": "XSplit hat entdeckt, dass die folgenden installierten Quellen nicht kompatibel mit dieser Version von XSplit sind:[br][br]%pluginlist%[br][br]Möglicherweise müssen Sie die Berechtigungen für betroffene Plugins erneut aktivieren.[br][br]Klicken Sie OK, um kompatible Versionen dieser Quellen zu installieren. Ein Neustart von XSplit ist nicht erforderlich.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsXbc5003_npw.message": {
+    "message": "XSplit hat entdeckt, dass die folgenden installierten Quellen nicht kompatibel mit dieser Version von XSplit sind:[br][br]%pluginlist%[br][br]Klicken Sie OK, um kompatible Versionen dieser Quellen zu installieren. Ein Neustart von XSplit ist nicht erforderlich.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsInStage.message": {
+    "message": "XSplit hat entdeckt, dass sich die folgenden Quellen-Plugins zwar in Ihrer aktuellen Präsentation befinden, jedoch nicht kompatibel mit dieser Version von XSplit sind:[br][br]%pluginlist%[br][br]Klicken Sie OK, um diese Elemente von Ihrer aktuellen Präsentation zu entfernen. Sie haben außerdem die Möglichkeit, die aktuelle Präsentation zu sichern, bevor Sie diese Elemente entfernen.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsInStageXbc5003.message": {
+    "message": "XSplit hat entdeckt, dass sich die folgenden Quellen zwar in Ihrer aktuellen Präsentation befinden, jedoch nicht kompatibel mit dieser Version von XSplit sind:[br][br]%pluginlist%[br][br]Klicken Sie OK, um diese Elemente von Ihrer aktuellen Präsentation zu entfernen. Sie haben außerdem die Möglichkeit, die aktuelle Präsentation zu sichern, bevor Sie diese Elemente entfernen.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgInvalidTransitionTime.message": {
+    "message": "Ungültige Übergangsgeschwindigkeit.",
+    "type": "error"
+  },
+  "messageDialog.messages.PreviewMain_unableToCreateWindow.message": {
+    "message": "Kann Vorschau-Fenster nicht erstellen",
+    "type": "error"
+  },
+  "messageDialog.messages.msgHotKeyRegException6.message": {
+    "message": "Die folgende Tastenkürzel können nur in Kombination mit Zusatztasten (Strg, Shift, Alt) zugewiesen werden.[br][br]%hotkeys%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgHotKeyRegException5.message": {
+    "message": "Die folgenden Tastenkürzel können nicht den gleichen Tasten zugeordnet werden.[br][br]%hotkeys%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantEditActiveRecording.message": {
+    "message": "Sie können während der lokalen Aufnahme keine Einstellungen bearbeiten."
+  },
+  "messageDialog.messages.msgFlashConfigLoadFailure.message": {
+    "message": "Laden des Konfigurationsdialogs fehlgeschlagen: %exceptionMessage%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgFlashAxFailure.message": {
+    "message": "Fehler im Betrieb mit Flash Player für Windows Internet Explorer: %failMessage%"
+  },
+  "messageDialog.messages.msgFlashAxNotInstalled.message": {
+    "message": "Flash Player für Windows Internet Explorer ist erforderlich, damit dieses Feature funktioniert."
+  },
+  "messageDialog.messages.msgSourceHandlerIsMissing.message": {
+    "message": "Quellenbehandlungsroutine fehlt."
+  },
+  "messageDialog.messages.msgSourceConfigurationHandlerIsMissing.message": {
+    "message": "Konfigurationsbehandlungsroutine fehlt."
+  },
+  "messageDialog.messages.msgCantEditActiveStream.message": {
+    "message": "Sie können während des Streamens keine Einstellungen bearbeiten."
+  },
+  "messageDialog.messages.msgLogSystemInformation.message": {
+    "message": "Es wird empfohlen, XSplit das Protokollieren von Systeminformationen zu erlauben, was BS, Prozessor und Grafikkartentyp mit einschließt. Dies wird unserem Entwicklungsteam bei der Lösung technischer Probleme helfen und unterstützt das Support-Team bei der Beantwortung von Bug-Reports oder Foren-Posts.[br][br]Diese Option aktiviert lassen?"
+  },
+  "messageDialog.messages.msgGlobalScriptWarning.message": {
+    "message": "Bitte denken Sie daran, nur Skripte aus vertrauenswürdigen Quellen hinzuzufügen. Ein bösartiges Skript kann Ihrem PC auf vielfältige Weise schaden. Klick auf \"OK\" bedeutet, dass Sie dieses Risiko verstehen und dem Fortfahren zustimmen."
+  },
+  "messageDialog.messages.msgEVRWarning.message": {
+    "message": "Sie verwenden benutzerdefinierte und experimentelle Exe-Parameter, was für die Inszenierung nicht empfohlen ist."
+  },
+  "messageDialog.messages.INVALID_USER_TOKEN.message": {
+    "message": "Funktion aufgrund ungültigem Token nicht verfügbar, bitte versuchen Sie sich erneut anzumelden."
+  },
+  "messageDialog.messages.DATABASE_ERROR_WAIT_TIMEOUT.title": {
+    "message": "Fehler"
+  },
+  "messageDialog.messages.DATABASE_ERROR_WAIT_TIMEOUT.message": {
+    "message": "Die gemeinsam genutzte XSplit-Datenbank-Datei konnte nicht aufgerufen werden und wird eventuell von einer anderen XSplit-Instanz verwendet. Bitte warten Sie bis Operationen auf der Datei durch die andere Instanz abgeschlossen sind, oder schließen Sie die andere(n) Instanz(en) und melden Sie sich erneut an.",
+    "type": "error"
+  },
+  "messageDialog.messages.DATABASE_ERROR_INITIALIZATION.title": {
+    "message": "Fehler"
+  },
+  "messageDialog.messages.DATABASE_ERROR_INITIALIZATION.message": {
+    "message": "Die Initialisierung der gemeinsam genutzen XSplit-Datenbank ist unerwartet ins Stocken geraten. Bitte versuchen Sie sich erneut anzumelden.",
+    "type": "error"
+  },
+  "messageDialog.messages.ENABLE_SCRIPT_SECURITY.title": {
+    "message": "Bitte lesen Sie sorgfältig, bevor Sie fortfahren."
+  },
+  "messageDialog.messages.ENABLE_SCRIPT_SECURITY.message": {
+    "message": "Bitte denken Sie daran, diese Option nur zu deaktivieren, wenn Sie sicher sind, dass alle Quellen und Erweiterungen, die Sie verwenden aus vertrauenswürdigen Quellen stammen. Ein bösartiges Skript kann Ihrem Computer auf vielfältige Weise schaden. Klick auf \"OK\" bedeutet, dass Sie dieses Risiko verstehen und dem Fortfahren zustimmen.",
+    "type": "warning"
+  },
+  "messageDialog.messages.ALLOW_EXECUTE_SCRIPT.message": {
+    "message": "Bitte denken Sie daran, nur Zugriff von vertrauenswürdigen Quellen zuzulassen. Ein bösartiges Skript kann Ihrem Computer auf vielfältige Weise schaden. Klick auf \"OK\" bedeutet, dass Sie dieses Risiko verstehen und dem Fortfahren zustimmen.",
+    "type": "warning"
+  },
+  "messageDialog.checkbox.faststart": {
+    "message": "Für Web optimieren"
+  },
+  "messageDialog.messages.msgFullnameIsInvalid.message": {
+    "message": "Vollständiger Name muss 6-50 Zeichen lang sein."
+  },
+  "messageDialog.messages.msgSocialLoginIsTemporarilyDisabled.message": {
+    "message": "Anmeldung über die Anmeldeinformationen sozialer Medien wird in der öffentlichen Release-Version v2.7 verfügbar sein.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgNoLogoutFromSteam.message": {
+    "message": "Das Abmelden ist bei Nutzung des Steam-Kontos nicht möglich.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgInvalidSteamAccountInfo.message": {
+    "message": "Die aktuellen Login-Informationen für das Steam-Konto sind nicht mehr gültig, bitte melde Dich erneut an.%message2%",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdateUsingSteamClientApp.message": {
+    "message": "Bitte aktualisiere die Anwendung mithilfe der Steam-Client-Software.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUnableToLoginAccount_Social.message": {
+    "message": "Kann Ihr soziales Konto nicht anmelden.%message2%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUnableToLoginAccount_Steam.message": {
+    "message": "Du kannst Dich nicht bei Deinem Steam-Konto anmelden.%message2%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgOutdatedExtensions.message": {
+    "message": "XSplit hat entdeckt, dass die folgenden installierten Erweiterungen nicht kompatibel mit dieser Version von XSplit sind:[br][br]%pluginlist%[br][br]Möglicherweise müssen Sie die Berechtigungen für betroffene Plugins erneut aktivieren.[br][br]Klicken Sie OK, um kompatible Versionen dieser Erweiterungen zu installieren. Ein Neustart von XSplit ist nicht erforderlich.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgOutdatedExtensions_npw.message": {
+    "message": "XSplit hat entdeckt, dass die folgenden installierten Erweiterungen nicht kompatibel mit dieser Version von XSplit sind:[br][br]%pluginlist%[br][br]Klicken Sie OK, um kompatible Versionen dieser Erweiterungen zu installieren. Ein Neustart von XSplit ist nicht erforderlich.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedExtensions.message": {
+    "message": "XSplit hat entdeckt, dass aktualisierte Erweiterungen zur Verfügung stehen:[br][br]%pluginlist%[br][br]Möglicherweise müssen Sie die Berechtigungen für betroffene Plugins erneut aktivieren.[br][br]Klicken Sie OK, um diese Aktualisierungen zu installieren. Ein Neustart von XSplit ist nicht notwendig.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedExtensions_npw.message": {
+    "message": "XSplit hat entdeckt, dass aktualisierte Erweiterungen zur Verfügung stehen:[br][br]%pluginlist%[br][br]Klicken Sie OK, um diese Aktualisierungen zu installieren. Ein Neustart von XSplit ist nicht notwendig.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCoreDllNotRegistered.message": {
+    "message": "XSplit hat entdeckt, dass einige wichtige Windows-DLLs nicht mehr registriert sind. Erfahren Sie [hier](https://xspl.it/3lcf8n) mehr über dieses Problem.[br][br]XSplit hat bereits versucht das Problem zu beheben, es wird dennoch empfohlen, dies zu überprüfen und falsch zugeordnete oder ersetzte System-Dateien zu reparieren.[br][br]Drücken Sie OK, um XSplit das Ausführen des Windows-Systemdatei-Überprüfungsprogramms zu erlauben.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCoreDllNotRegistered2.message": {
+    "message": "XSplit hat entdeckt, dass einige wichtige Windows-DLLs nicht mehr registriert sind. Erfahren Sie [hier](https://xspl.it/3lcf8n) mehr über dieses Problem.[br][br]XSplit hat bereits versucht das Problem zu beheben, es wird dennoch empfohlen, dies zu überprüfen und falsch zugeordnete oder ersetzte System-Dateien mithilfe des Windows-Systemdatei-Überprüfungsprogramms zu reparieren. Lesen sie [hier](https://xspl.it/1rte7x) mehr.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCoreDllNotOK.message": {
+    "message": "XSplit hat entdeckt, dass bei einigen wichtigen Windows-DLLs die Integritätsprüfung fehlschlägt, was Probleme wie [dieses](https://xspl.it/3lcf8n) verursachen kann.[br][br]Es wird empfohlen, dies zu überprüfen und falsch zugeordnete oder ersetzte System-Dateien mithilfe des Windows-Systemdatei-Überprüfungsprogramms zu reparieren. Lesen sie [hier](https://xspl.it/1rte7x) mehr.",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_CANNOT_OPEN_MULTIPLE_XVE.title": {
+    "message": "Fehler",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_CANNOT_OPEN_MULTIPLE_XVE.message": {
+    "message": "Nur eine Instanz des Express-Video-Editor wird unterstützt. Bitte schließen Sie die bereits ausgeführte, von XSplit Gamecaster geöffnete Instanz."
+  },
+  "messageDialog.messages.ERROR_MISSING_REQUIRED_PREREQ.title": {
+    "message": "Fehler",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_REQUIRED_PREREQ.message": {
+    "message": "Fehlende erforderliche Voraussetzung(en):[br][br]%value%[br]XSplit Broadcaster wird sich nun schließen, bitte Neustarten, nachdem diese Voraussetzungen installiert wurden."
+  },
+  "messageDialog.messages.ERROR_MISSING_VCE_PREREQ.title": {
+    "message": "Fehler",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_VCE_PREREQ.message": {
+    "message": "VCE erfordert:[br][br]%value%"
+  },
+  "messageDialog.messages.ERROR_MISSING_NET45_PREREQ.title": {
+    "message": "Fehler",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_NET45_PREREQ.message": {
+    "message": "Player.me-Funktionalität benötigt folgendes für TLS 1.2:[br][br]%value%"
+  },
+  "messageDialog.messages.DELETE_SCENE.message": {
+    "message": "Sind Sie sicher, dass Sie diese Szene löschen möchten - **%scene%**?",
+    "type": "question"
+  },
+  "messageDialog.messages.DUPLICATE_HOTKEY.message": {
+    "message": "Die folgenden Tastenkürzel können nicht den gleichen Tasten zugeordnet werden.&nbsp; [br][br]%value%[br]",
+    "type": "warning"
+  },
+  "messageDialog.messages.REMOVE_OUTPUT_ENTRY.message": {
+    "message": "Sind Sie sicher, dass Sie diesen Ausgabe-Eintrag entfernen möchten - **%value%**",
+    "type": "question"
+  },
+  "messageDialog.messages.INVALID_PATH.message": {
+    "message": "\"%path%\" ist ein ungültiger Pfad",
+    "type": "error"
+  },
+  "messageDialog.messages.PATH_ACCESS_ERROR.message": {
+    "message": "Ein Fehler ist beim Zugriffsversuch auf **\"%path%\"** aufgetreten.",
+    "type": "error"
+  },
+  "messageDialog.messages.CREATE_NON_EXISTING_PATH.message": {
+    "message": "\"%path%\" ist nicht vorhanden. Möchten Sie es erstellen?",
+    "type": "question"
+  },
+  "messageDialog.messages.PATH_DOES_NOT_EXIST.message": {
+    "message": "\"%path%\" ist nicht vorhanden.",
+    "type": "warning"
+  },
+  "messageDialog.messages.INVALID_URL.message": {
+    "message": "Bitte geben Sie eine gültige URL ein.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgPasteInfo.message": {
+    "message": "Wählen Sie, wie Sie die Quelle einfügen möchten.[radio]pasteAsNewSource[/radio][radio]pasteAsLinkedSource[/radio][br]**Verknüpfte Quellen** sind Quellen, welche zwischen einer oder mehrerer Quellen global sind. Dies ist bspw. nützlich, wenn Sie einen Lauftext, welcher kontinuierlich zwischen zwei Szenen rollt, oder ein starres unteres Drittel auf zwei Szenen, erreichen wollen. [Lesen Sie diesen Beitrag](https://xspl.it/bc/uv65wd) für weitere Informationen.",
+    "type": "info"
+  },
+  "messageDialog.radio.msgPasteInfo.pasteAsNewSource.message": {
+    "message": "**Als neue Quelle einfügen** (Strg + Shift + V)"
+  },
+  "messageDialog.radio.msgPasteInfo.pasteAsLinkedSource.message": {
+    "message": "**Als verknüpfte Quelle einfügen** (Strg + Alt + V)"
+  },
+  "messageDialog.messages.msgPlayoutFormat.message": {
+    "message": "Wiedergabeformat[radio]noAlpha[/radio][radio]withAlpha[/radio][br][Erfahre mehr über NewTek NDI&trade;](https://xspl.it/06s8kq) **%version%**"
+  },
+  "messageDialog.radio.msgPlayoutFormat.noAlpha.message": {
+    "message": "Ohne Alpha-Transparenz (weniger CPU-Last)"
+  },
+  "messageDialog.radio.msgPlayoutFormat.withAlpha.message": {
+    "message": "Mit Alpha-Transparenz (Höhere CPU Last)"
+  },
+  "messageDialog.checkbox.dontAskAgain": {
+    "message": "Frag nicht nochmal"
+  },
+  "messageDialog.messages.YOUTUBE_STOPPED_STREAMING.message": {
+    "message": "Sie haben das Streamen auf ein YouTube Live-Ereignis angehalten. Möchten Sie dieses Live-Ereignis ebenfalls beenden?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgInvalidXSplitAccountInfo2.message": {
+    "message": "Bitte melden Sie sich erneut an, um fortzusetzen. Aus Sicherheitsgründen wird ein Token anstelle eines Passworts gemerkt. Wenn ein Token entzogen wurde oder abgelaufen ist, wird eine erneute Anmeldung erforderlich.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidSteamAccountInfo2.message": {
+    "message": "Bitte melden Sie sich erneut an, um fortzusetzen. Aus Sicherheitsgründen wird ein Token anstelle eines Passworts gemerkt. Wenn ein Token entzogen wurde oder abgelaufen ist, wird eine erneute Anmeldung erforderlich.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidSocialAccountInfo2.message": {
+    "message": "Bitte melden Sie sich erneut an, um fortzusetzen. Aus Sicherheitsgründen wird ein Token anstelle eines Passworts gemerkt. Wenn ein Token entzogen wurde oder abgelaufen ist, wird eine erneute Anmeldung erforderlich.",
+    "type": "warning"
+  },
+  "messageDialog.messages.YOUTUBE_ULTRALOW_LATENCY_INFO.message": {
+    "message": "Einstellung für übermäßig niedrige Latenz unterstützt kein 1440p und höhere Auflösung[br][br]Ihre Ausgabeauflösung wurde auf 1080p geändert.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgStingerNameIsEmpty.message": {
+    "message": "Bitte geben Sie einen Stinger-Namen an.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStingerAlreadyExists.message": {
+    "message": "Ein Stinger mit selben Namen und Übergangspunkt existiert bereits.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStingerNameIsInvalid.message": {
+    "message": "Ein Stinger-Name darf keines der folgenden Zeichen enthalten: \\ / : * ? \" < > |",
+    "type": "error"
+  },
+  "messageDialog.messages.PRESENTATION_FOLDER_ALREADY_EXISTS.message": {
+    "message": "Der Ordner **'%foldername%'** ist im Zielordner bereits vorhanden.&nbsp; [br]&nbsp; [br]Möchtest Du den Ordner und die darin enthaltenen Dateien überschreiben und mit dem Laden der Präsentation fortfahren?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgPluginLoadError.message": {
+    "message": "Konnte das Plugin nicht laden.",
+    "type": "warning"
+  },
+  "messageDialog.dropdown.projectorBorder.label.message": {
+    "message": "Projektor-Bildschirm-Auswahlrahmen anzeigen"
+  },
+  "messageDialog.dropdown.projectorBorder.values.always.message": {
+    "message": "Immer Rahmen beim Bewegen der Maus über die Bildschirm-Auswahl zeigen"
+  },
+  "messageDialog.dropdown.projectorBorder.values.shift.message": {
+    "message": "Rahmen beim Bewegen der Maus über die Bildschirm-Auswahl zeigen, wenn SHIFT gedrückt ist"
+  },
+  "messageDialog.dropdown.projectorBorder.values.never.message": {
+    "message": "Niemals Rahmen beim Bewegen der Maus über die Bildschirm-Auswahl zeigen"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "spotify.tabheader": {
+    "message": "crwdns162094:0crwdne162094:0"
+  },
+  "spotify.content": {
+    "message": "crwdns162096:0crwdne162096:0"
+  },
+  "spotify.auth": {
+    "message": "crwdns162098:0crwdne162098:0"
+  },
+  "spotify.log_out": {
+    "message": "crwdns162100:0crwdne162100:0"
+  },
+  "spotify.appearance": {
+    "message": "crwdns162102:0crwdne162102:0"
+  },
+  "spotify.dark_mode": {
+    "message": "crwdns162104:0crwdne162104:0"
+  },
+  "spotify.light_mode": {
+    "message": "crwdns162106:0crwdne162106:0"
+  },
+  "spotify.opacity": {
+    "message": "crwdns162108:0crwdne162108:0"
+  },
+  "spotify.show_album": {
+    "message": "crwdns162110:0crwdne162110:0"
+  },
+  "spotify.now_playing": {
+    "message": "crwdns162112:0crwdne162112:0"
+  },
+  "spotify.not_connected": {
+    "message": "crwdns162114:0crwdne162114:0"
+  },
+  "spotify.right_click_login": {
+    "message": "crwdns162116:0crwdne162116:0"
+  }
+}

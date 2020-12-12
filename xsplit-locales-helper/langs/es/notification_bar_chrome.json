@@ -1,0 +1,59 @@
+{
+  "COUNTER": {
+    "message": "(%count%/%total%)"
+  },
+  "IN_GAME_HUD.text": {
+    "message": "¡Prueba el nuevo HUD dentro del juego! Simplemente presiona ALT+` cuando juegues cualquier juego agregado a su escena a través de Game Capture."
+  },
+  "UI_UPDATE_ANNOUNCEMENT.text": {
+    "message": "**¡Bienvenido a XBC 3.9!** Tenemos un montón de nuevas funciones para que pruebes."
+  },
+  "UI_UPDATE_ANNOUNCEMENT.link": {
+    "message": "[MÁS INFORMACIÓN](%url%)"
+  },
+  "REQUEST_PERMISSION.label": {
+    "message": "Permisos"
+  },
+  "REQUEST_PERMISSION.text": {
+    "message": "Una o más de tus fuentes o extensiones solicita permiso para ejecutar los scripts"
+  },
+  "REQUEST_PERMISSION.link": {
+    "message": "[EDITAR PERMISOS](editAccess)"
+  },
+  "PLUGINS_UPDATE.label": {
+    "message": "Updates for your plugins are available!"
+  },
+  "PLUGINS_UPDATE.link": {
+    "message": "[SHOW UPDATES](PLUGINS_UPDATE)"
+  },
+  "NEW_CRISP_MESSAGE.label": {
+    "message": "Soporte"
+  },
+  "NEW_CRISP_MESSAGE.link": {
+    "message": "[ABRIR MENSAJE](openCrispChat)"
+  },
+  "NEW_CRISP_MESSAGE.file": {
+    "message": "You've been sent a new file"
+  },
+  "NEW_CRISP_MESSAGE.single": {
+    "message": "Tienes %count% nuevo mensaje"
+  },
+  "NEW_CRISP_MESSAGE.multiple": {
+    "message": "Tienes %count% nuevos mensajes"
+  },
+  "IDENTIFY_GAMES.label": {
+    "message": "Seguimiento del juego"
+  },
+  "IDENTIFY_GAMES.text": {
+    "message": "Ayúdanos a identificar los juegos que has capturado para que podamos brindarte un mejor soporte."
+  },
+  "IDENTIFY_GAMES.link": {
+    "message": "[ETIQUETAS DE JUEGOS](identifyGames)"
+  },
+  "WINDOWS_GAMEBAR.text": {
+    "message": "**Modo de Juego** de Windows está habilitado en tu sistema. Esto puede causar problemas de rendimiento en su transmisión."
+  },
+  "EXTENSION_RUNNING_IN_BACKGROUND.text": {
+    "message": "%name% is now running in the background. You may reconfigure its settings by clicking its gear [GEAR](ICON-GEAR) icon in the Extensions menu."
+  }
+}

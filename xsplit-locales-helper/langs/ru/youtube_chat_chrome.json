@@ -1,0 +1,89 @@
+{
+	"youtube.chat.tabheader": {
+		"message": "Чат"
+	},
+	"youtube.chat.source": {
+		"message": "Источник"
+	},
+	"youtube.chat.account": {
+		"message": "Учетная запись"
+	},
+	"youtube.chat.preview": {
+		"message": "Предварительный просмотр"
+	},
+	"youtube.chat.account_automatic": {
+		"message": "Автоматически"
+	},
+	"youtube.chat.authorize": {
+		"message": "Авторизуйте XSplit чтобы использовать YouTube Live"
+	},
+	"youtube.chat.remove_authorization": {
+		"message": "**%api%** Отозвать авторизацию"
+	},
+	"youtube.chat.switch_account": {
+		"message": "**%api%** Сменить учетную запись"
+	},
+	"youtube.chat.not_connected": {
+		"message": "Виджеты будут включены автоматически сразу же после вывода стрима в онлайн"
+	},
+	"youtube.chat.connected": {
+		"message": "Подключен"
+	},
+	"youtube.chat.error_channel_not_found": {
+		"message": "Пожалуйста, укажите существующий канал."
+	},
+	"youtube.chat.display": {
+		"message": "Дисплей"
+	},
+	"youtube.chat.chat_box": {
+		"message": "Окно чата"
+	},
+	"youtube.chat.opacity": {
+		"message": "Прозрачность"
+	},
+	"youtube.chat.viewers": {
+		"message": "Зрители"
+	},
+	"youtube.chat.message": {
+		"message": "Сообщение"
+	},
+	"youtube.chat.text_size": {
+		"message": "Размер текста"
+	},
+	"youtube.chat.hide_user_icons": {
+		"message": "Скрыть иконки пользователей"
+	},
+	"youtube.chat.hide_timestamps": {
+		"message": "Скрыть метки времени"
+	},
+	"youtube.chat.hide_on_idle": {
+		"message": "Скрывать чат в режиме простоя"
+	},
+	"youtube.chat.blocking": {
+		"message": "Блокировка"
+	},
+	"youtube.chat.blockedlist": {
+		"message": "Список заблокированных"
+	},
+	"youtube.chat.block_help": {
+		"message": "Вы можете блокировать зрителей, добавляя их полное или имя пользователя (включая ботов, если это имеет место) в список заблокированных, после чего их сообщения не будут появятся в окне чата.[br][br]Этот список заблокированных не связан со списком заблокированных пользователей для вашего канала. Он имеет силу только для данного чата."
+	},
+	"youtube.chat.blocking_name": {
+		"message": "Введите полное имя или имя пользователя, которого хотите заблокировать."
+	},
+	"youtube.chat.block_name": {
+		"message": "По имени"
+	},
+	"youtube.chat.block_add": {
+		"message": "Добавить"
+	},
+	"youtube.chat.block_remove": {
+		"message": "Удалить"
+	},
+	"youtube.chat.loggingInTo": {
+		"message": "Вход на YouTube..."
+	},
+	"youtube.chat.pleaseComplete": {
+		"message": "Пожалуйста, завершите процесс авторизации в браузере"
+	}
+}

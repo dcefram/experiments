@@ -1,0 +1,65 @@
+{
+  "sceneSwitcher.inactive": {
+    "message": "활성화 중인 장면"
+  },
+  "sceneSwitcher.start_scene_switcher": {
+    "message": "장면 스위처 시작"
+  },
+  "sceneSwitcher.stop_scene_switcher": {
+    "message": "장면 스위처 정지"
+  },
+  "sceneSwitcher.general_info": {
+    "message": "특정 프로그램이 활성화되고 해당 프로그램이 장면에 소스로 추가되어있다면 자동적으로 해당 소스가 적용된 장면으로 전환됩니다. 해당 소스가 여러 장면에 있다면 가장 먼저 적용된 장면으로 전환됩니다."
+  },
+  "sceneSwitcher.start_stop_hotkey": {
+    "message": "장면 스위처 활성화/비활성화 단축키"
+  },
+  "sceneSwitcher.start_stop_hotkey_tooltip": {
+    "message": "이 단축키는 반드시 다른 단축키와 중첩되지 않는지 확인하세요. 기본 단축키 설정은 도구 >> 환경설정 >> 단축키 메뉴에서 확인하세요."
+  },
+  "sceneSwitcher.hotkey_permission": {
+    "message": "단축키는 추가적 권한이 승인되어야 합니다 (도구 >> 확장 프로그램 권한)"
+  },
+  "sceneSwitcher.hotkey_warning": {
+    "message": "장면 스위처 단축키의 일부는 다른 단축키와 중첩되어 사용되고 있습니다. 도구 >> 환경설정 >> 단축키 메뉴에서 확인하세요."
+  },
+  "sceneSwitcher.no_window_match": {
+    "message": "활성화된 프로그램이나 브라우저 제목이 없을경우"
+  },
+  "sceneSwitcher.dont_switch_radio": {
+    "message": "장면 전환 하지 않기"
+  },
+  "sceneSwitcher.switch_to_radio": {
+    "message": "특정 장면으로 전환"
+  },
+  "sceneSwitcher.none": {
+    "message": "없음"
+  },
+  "sceneSwitcher.switch_period": {
+    "message": "장면 전환 대기시간 (ms 단위)"
+  },
+  "sceneSwitcher.switch_period_tooltip": {
+    "message": "The time before a scene switches to another scene. If the newly focused application switched back to the previous application before the duration is met, no scene change will occur."
+  },
+  "sceneSwitcher.advance_mode": {
+    "message": "Advanced Mode"
+  },
+  "sceneSwitcher.advance_mode_header": {
+    "message": "ADVANCED MODE"
+  },
+  "sceneSwitcher.advance_mode_details": {
+    "message": "In Advanced Mode, you can set any application to switch to any of your scenes."
+  },
+  "sceneSwitcher.custom_rules": {
+    "message": "Custom Rules"
+  },
+  "sceneSwitcher.custom_rules_add": {
+    "message": "추가"
+  },
+  "sceneSwitcher.custom_rules_remove": {
+    "message": "제거"
+  },
+  "sceneSwitcher.custom_rules_edit": {
+    "message": "수정"
+  }
+}

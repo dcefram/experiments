@@ -1,0 +1,167 @@
+{
+	"title": {
+		"message": "XSplitライセンスを購入し、様々な機能を開放して下さい"
+	},
+	"purchasePoint.header": {
+		"message": "XSplitのライセンスは月額5ドルから購入する事ができます。"
+	},
+	"purchasePoint.tagLine": {
+		"message": "ライセンスを購入し、XSplit Broadcasterの機能へのアクセスをすぐに入手して下さい"
+	},
+	"purchasePoint.discountTag": {
+		"message": "最大**50%**オフ"
+	},
+	"purchasePoint.buyNow": {
+		"message": "購入する"
+	},
+	"purchasePoint.upgradeNow": {
+		"message": "今すぐアップグレードする"
+	},
+	"purchasePoint.upgradeLicenseNow": {
+		"message": "あなたのライセンスをアップグレードしよう！"
+	},
+	"purchasePoint.personalLicense": {
+		"message": "パーソナルライセンス"
+	},
+	"purchasePoint.premiumLicense": {
+		"message": "プレミアムライセンス"
+	},
+	"purchasePoint.gameSource.label": {
+		"message": "ゲームソース-ハイパフォーマンス[br]\nゲームキャプチャー"
+	},
+	"purchasePoint.noWatermark.label": {
+		"message": "XSplit-高解像度でのウォータマーク無し"
+	},
+	"purchasePoint.gameCard.label": {
+		"message": "Hauppauge HD PVR2/GE/GE+[br]\nおよびRoxio Game Capture HD Pro"
+	},
+	"purchasePoint.encodingOffload.label": {
+		"message": "NVidia® NVENCのサポート,[br]\nIntel® Quick Sync and AMD® VCE"
+	},
+	"purchasePoint.maxFPS.label": {
+		"message": "高FPS設定"
+	},
+	"purchasePoint.projector.label": {
+		"message": "プロジェクター"
+	},
+	"purchasePoint.localStreaming.label": {
+		"message": "ローカルストリーミング"
+	},
+	"purchasePoint.videoEditor.label": {
+		"message": "Express Video Editor"
+	},
+	"purchasePoint.streamDelay.label": {
+		"message": "放送の遅延"
+	},
+	"purchasePoint.commercialUse.label": {
+		"message": "商業利用"
+	},
+	"purchasePoint.andManyMore.label": {
+		"message": "もっと"
+	},
+	"purchasePoint.previewEditor.label": {
+		"message": "プレビューエディタ"
+	},
+	"purchasePoint.audioPreview.label": {
+		"message": "オーディオミックスプレビュー"
+	},
+	"purchasePoint.AMDVCE.label": {
+		"message": "AMD® VCEサポート"
+	},
+	"purchasePoint.NVidiaNVENC.label": {
+		"message": "NVidia® NVENCサポート"
+	},
+	"purchasePoint.intelQuickSync.label": {
+		"message": "Intel® Quick Syncサポート"
+	},
+	"purchasePoint.gameSource.description": {
+		"message": "窓やフルスクリーンモードでのPCゲームのキャプチャーを有効にする。XSplitゲームソースはゲームのパフォーマンスにほとんど影響を与えません"
+	},
+	"purchasePoint.noWatermark.description": {
+		"message": "全てのユーザーは%resolution%までの解像度で、XSplitのマークを表示する事無く使用できます。無料ユーザーは高解像度ではウォーターマークが表示されます"
+	},
+	"purchasePoint.gameCard.description": {
+		"message": "これらのキャプチャ カードは無料版のXSplit Broadcasterでは使用できません。利用するにはプレミアムユーザーになって下さい"
+	},
+	"purchasePoint.encodingOffload.description": {
+		"message": "Nvidia® NVENC, Intel® Quick Sync, AMD® Video Codec Engine (VCE)  を有効にして、GPUへエンコードする作業の要求パフォーマンスを軽減する為に使用して下さい"
+	},
+	"purchasePoint.maxFPS.description": {
+		"message": "%fps%以上のFPSを有効にします。XSplit Broadcasterは120FPSでの出力も滑らかにブロードキャスト可能です"
+	},
+	"purchasePoint.projector.description": {
+		"message": "XSplit Broadcasterのプレビューを利用可能なモニターにフルスクリーンでプロジェクトします。マルチタスクのプレビューモニターと組み合わせて使用出来ます"
+	},
+	"purchasePoint.localStreaming.description": {
+		"message": "ストリーミングをLAN設定へのブロードキャストや2つのストリーミングを結合することが出来ます(VONsでも作動します)。オーディエンスがローカルならば、インターネットのアップロード/ダウンロードの帯域幅は必要ありません"
+	},
+	"purchasePoint.videoEditor.description": {
+		"message": "XSplitのシンプルで分かりやすいビデオエディタを使用してあなたのレコーディングを編集しましょう！アプリ内でビデオをカットやつなげたりする事ができます。"
+	},
+	"purchasePoint.streamDelay.description": {
+		"message": "選択する任意の秒数だけ、ストリーミングを遅らせることが出来ます。ストリーミングのスナイピングや不正を防ぐことが出来ます"
+	},
+	"purchasePoint.commercialUse.description": {
+		"message": "XSplitプレミアムライセンスではソフトウェアを商業利用することが出来ます。広告を実行することで、ストリーミングサービスプロバイダー等から収益を受け取ることが出来ます"
+	},
+	"purchasePoint.andManyMore.description": {
+		"message": "このダイアログに収まらないほどたくさんの機能がXSplit Broadcasterのプレミアムライセンスでは利用可能です。プレビューをスカイプや他のソフトウェアに出力する為のフレキシブルな仮想カメラ等が使用可能になります。スカイプビデオソースを利用して、ビデオ通話のストリーミングも可能になります。機能のリストはウェブサイト[www.xsplit.com](https://xspl.it/bc/broadcaster)を参照して下さい"
+	},
+	"purchasePoint.previewEditor.description": {
+		"message": "生放送中にシーンを編集できます。シーンをセーブかロードするを選び、編集内容の適用や破棄を選択する事ができます。"
+	},
+	"purchasePoint.audioPreview.description": {
+		"message": "この機能はオーディオの視聴をする事ができます - あなたの視聴者とまったく同じの音声を視聴する事ができます。"
+	},
+	"purchasePoint.paymentMethods": {
+		"message": "以下のお支払い方法を受け付けています"
+	},
+	"purchasePoint.visitOurWebsite": {
+		"message": " [website](https://xspl.it/bc/website)から製品機能の詳細を入手する。"
+	},
+	"purchasePoint.getTwo.header": {
+		"message": "2つの製品を手に入れることが出来ます！"
+	},
+	"purchasePoint.getTwo.description": {
+		"message": "XSplitのライセンスはGamecaster、Broadcasterの両方に対応しています[詳細はこちら](https://xspl.it/bc/website)"
+	},
+	"purchasePoint.doNotShow": {
+		"message": "次からは表示しない"
+	},
+	"purchasePoint.wait": {
+		"message": "お待ちください....%count%"
+	},
+	"purchasePoint.continue": {
+		"message": "続ける"
+	},
+	"purchasePoint.maybeLater": {
+		"message": "後で"
+	},
+	"purchasePoint.licenseAgreement": {
+		"message": "**続ける**ボタンをクリックすることで、[XSplitライセンス契約](https://xspl.it/bc/terms)に記載されている条項を読み、理解し、同意したことを確認します"
+	},
+	"purchasePoint.advertisment.label": {
+		"message": "Friends of XSplit"
+	},
+	"purchasePoint.advertisment.paid.label": {
+		"message": "XSplitへようこそ"
+	},
+	"purchasePoint.buyxsplitnow": {
+		"message": "XSplitのライセンスは月額5ドルから購入する事ができます。"
+	},
+	"purchasePoint.newsandupdates": {
+		"message": "COMMUNITY NEWS AND UPDATES"
+	},
+	"purchasePoint.news.previous": {
+		"message": "[Previous](previousClick)"
+	},
+	"purchasePoint.news.next": {
+		"message": "[Next](nextClick)"
+	},
+	"purchasePoint.tutorials": {
+		"message": "XSplit Tutorials"
+	},
+	"purchasePoint.upgrade": {
+		"message": "アップグレード"
+	}
+}

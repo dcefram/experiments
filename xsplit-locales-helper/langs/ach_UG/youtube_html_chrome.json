@@ -1,0 +1,62 @@
+{
+	"youtube.html.tabheader": {
+		"message": "crwdns63010:0crwdne63010:0"
+	},
+	"youtube.html.source": {
+		"message": "crwdns63012:0crwdne63012:0"
+	},
+	"youtube.html.account": {
+		"message": "crwdns63014:0crwdne63014:0"
+	},
+	"youtube.html.preview": {
+		"message": "crwdns63016:0crwdne63016:0"
+	},
+	"youtube.html.not_connected": {
+		"message": "crwdns63018:0crwdne63018:0"
+	},
+	"youtube.html.connected": {
+		"message": "crwdns63020:0crwdne63020:0"
+	},
+	"youtube.html.error_channel_not_found": {
+		"message": "crwdns63022:0crwdne63022:0"
+	},
+	"youtube.html.display": {
+		"message": "crwdns63024:0crwdne63024:0"
+	},
+	"youtube.html.chat_box": {
+		"message": "crwdns63026:0crwdne63026:0"
+	},
+	"youtube.html.opacity": {
+		"message": "crwdns63028:0crwdne63028:0"
+	},
+	"youtube.html.viewers": {
+		"message": "crwdns63030:0crwdne63030:0"
+	},
+	"youtube.html.message": {
+		"message": "crwdns63032:0crwdne63032:0"
+	},
+	"youtube.html.text_size": {
+		"message": "crwdns63034:0crwdne63034:0"
+	},
+	"youtube.html.hide_user_icons": {
+		"message": "crwdns63036:0crwdne63036:0"
+	},
+	"youtube.html.hide_timestamps": {
+		"message": "crwdns63038:0crwdne63038:0"
+	},
+	"youtube.html.hide_on_idle": {
+		"message": "crwdns63040:0crwdne63040:0"
+	},
+	"youtube.html.video_id": {
+		"message": "crwdns63042:0crwdne63042:0"
+	},
+	"youtube.html.video_id_help": {
+		"message": "crwdns63044:0crwdne63044:0"
+	},
+	"youtube.html.connect": {
+		"message": "crwdns63046:0crwdne63046:0"
+	},
+	"youtube.html.disconnect": {
+		"message": "crwdns63048:0crwdne63048:0"
+	}
+}

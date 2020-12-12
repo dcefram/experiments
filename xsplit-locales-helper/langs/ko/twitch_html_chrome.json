@@ -1,0 +1,62 @@
+{
+	"twitch.html.tabheader": {
+		"message": "채팅"
+	},
+	"twitch.html.source": {
+		"message": "소스"
+	},
+	"twitch.html.account": {
+		"message": "계정"
+	},
+	"twitch.html.preview": {
+		"message": "미리 보기"
+	},
+	"twitch.html.not_connected": {
+		"message": "연결 안됨"
+	},
+	"twitch.html.connected": {
+		"message": "연결됨"
+	},
+	"twitch.html.error_channel_not_found": {
+		"message": "유효한 채널을 제공해주세요."
+	},
+	"twitch.html.display": {
+		"message": "디스플레이"
+	},
+	"twitch.html.chat_box": {
+		"message": "채팅 박스"
+	},
+	"twitch.html.opacity": {
+		"message": "투명도"
+	},
+	"twitch.html.viewers": {
+		"message": "시청자"
+	},
+	"twitch.html.message": {
+		"message": "메시지"
+	},
+	"twitch.html.text_size": {
+		"message": "글자 크기"
+	},
+	"twitch.html.hide_user_icons": {
+		"message": "사용자 아이콘 숨기기"
+	},
+	"twitch.html.hide_timestamps": {
+		"message": "시간 표기 숨기기"
+	},
+	"twitch.html.hide_on_idle": {
+		"message": "일정 시간동안 무반응시 채팅 숨기기"
+	},
+	"twitch.html.channel": {
+		"message": "채널"
+	},
+	"twitch.html.connect": {
+		"message": "연결"
+	},
+	"twitch.html.disconnect": {
+		"message": "연결 끊기"
+	},
+	"twitch.html.use_twitch_colors": {
+		"message": "트위치 채팅 색상 사용"
+	}
+}

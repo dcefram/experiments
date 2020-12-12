@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="btnAuthorize" xml:space="preserve">
+    <value>Autorizar</value>
+  </data>
+  <data name="btnCancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="btnStartBroadcast" xml:space="preserve">
+    <value>Começar a transmissão</value>
+  </data>
+  <data name="cbTweet" xml:space="preserve">
+    <value>Transmitir este tweet</value>
+  </data>
+  <data name="lblChannels" xml:space="preserve">
+    <value>Região:</value>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>Clique em Autorizar para associar a sua conta Periscope</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>Desautorizar</value>
+  </data>
+  <data name="lblLiveVideo" xml:space="preserve">
+    <value>Vídeo ao vivo</value>
+  </data>
+  <data name="lblTitle" xml:space="preserve">
+    <value>Título</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>Não tem uma conta Periscope? Registre-se aqui.</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>Ocorreu um problema de comunicação com o servidor da Periscope. Por favor, tente novamente mais tarde.</value>
+  </data>
+  <data name="msgAuthExpiredOrInvalid" xml:space="preserve">
+    <value>Está faltando o token de acesso, expirado ou inválido. Por favor, autorize novamente. 
+
+Se o problema persistir, contate o suporte.</value>
+  </data>
+  <data name="msgAuthorizeRequired" xml:space="preserve">
+    <value>Você deve autorizar uma conta primeiro.</value>
+  </data>
+  <data name="msgEndLiveVideo" xml:space="preserve">
+    <value>Você agora parou de transmitir para o Periscope. Deseja finalizar sua transmissão também?</value>
+  </data>
+  <data name="msgTitleTooLong" xml:space="preserve">
+    <value>Título não pode ter mais de 120 caracteres.</value>
+  </data>
+  <data name="PeriscopeProps" xml:space="preserve">
+    <value>Propriedades Periscope</value>
+  </data>
+  <data name="pbVideoEncoding_Tooltip" xml:space="preserve">
+    <value>Twitter recomenda as seguintes configurações:
+- 800kbps vídeo bitrate 
+- resolução de vídeo 960 por 540 
+- 30fps framerate 
+- 96kbps bitrate de áudio.</value>
+  </data>
+  <data name="rbExisting" xml:space="preserve">
+    <value>Continuar anterior</value>
+  </data>
+  <data name="rbNew" xml:space="preserve">
+    <value>Novo</value>
+  </data>
+  <data name="StreamPopup" xml:space="preserve">
+    <value>Opções de transmissão do Periscope</value>
+  </data>
+</root>

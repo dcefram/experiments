@@ -1,0 +1,83 @@
+{
+  "facebook.alerts.tabheader": {
+    "message": "إنذار"
+  },
+  "facebook.alerts.notification": {
+    "message": "اشعار"
+  },
+  "facebook.alerts.status": {
+    "message": "الحالة"
+  },
+  "facebook.alerts.authorize": {
+    "message": "اعطاء XSplit لاستخدام  Facebook Live"
+  },
+  "facebook.alerts.remove_authorization": {
+    "message": "أزل التفويض"
+  },
+  "facebook.alerts.type.stars": {
+    "message": "نجوم"
+  },
+  "facebook.alerts.type.share": {
+    "message": "شارك"
+  },
+  "facebook.alerts.alert_type": {
+    "message": "نوع الانذار"
+  },
+  "facebook.alerts.minimum_stars": {
+    "message": "الحد الأدنى من النجوم"
+  },
+  "facebook.alerts.relogin": {
+    "message": "إعادة تسجيل الدخول"
+  },
+  "facebook.alerts.style": {
+    "message": "المظهر"
+  },
+  "facebook.alerts.theme": {
+    "message": "الخلفيات"
+  },
+  "facebook.alerts.layout": {
+    "message": "نسق"
+  },
+  "facebook.alerts.color": {
+    "message": "اللون"
+  },
+  "facebook.alerts.sound": {
+    "message": "تنبيه صوتي"
+  },
+  "facebook.alerts.test_alert": {
+    "message": "اختبار الانذار"
+  },
+  "facebook.alerts.hide_connection_message": {
+    "message": "إخفاء رسائل الاتصال"
+  },
+  "facebook.alerts.source": {
+    "message": "مصدر"
+  },
+  "facebook.alerts.account": {
+    "message": "الحساب"
+  },
+  "facebook.alerts.error_auth": {
+    "message": "يرجى محاولة التفويض مرة أخرى ومنح حق الوصول إلى جميع الأذونات المطلوبة بواسطة XSplit لهذه الوظيفة"
+  },
+  "facebook.alerts.not_connected": {
+    "message": "سيتم توصيل القطعة تلقائيًا بمجرد بث مباشر"
+  },
+  "facebook.alerts.settings": {
+    "message": "الإعدادات"
+  },
+  "facebook.alerts.switch_account": {
+    "message": " تبديل الحساب"
+  },
+  "facebook.alerts.connected": {
+    "message": "متصل"
+  },
+  "facebook.alerts.not_seeing_videos": {
+    "message": "ألا تشاهد الفيديو المباشر؟"
+  },
+  "facebook.alerts.not_seeing_videos_help": {
+    "message": "قد لا يكون لدينا إذن لبعض مقاطع الفيديو المباشرة لصفحاتك."
+  },
+  "facebook.alerts.not_seeing_videos_link": {
+    "message": "انقر هنا لإعادة الترخيص"
+  }
+}

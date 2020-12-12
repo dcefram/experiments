@@ -1,0 +1,83 @@
+{
+	"button.ok": {
+		"message": "crwdns7381:0crwdne7381:0"
+	},
+	"button.cancel": {
+		"message": "crwdns7382:0crwdne7382:0"
+	},
+	"button.browse": {
+		"message": "crwdns8016:0crwdne8016:0"
+	},
+	"resolution.width": {
+		"message": "crwdns7383:0crwdne7383:0"
+	},
+	"resolution.height": {
+		"message": "crwdns7384:0crwdne7384:0"
+	},
+	"resolution.desc": {
+		"message": "crwdns7385:0crwdne7385:0"
+	},
+	"framerate.fps": {
+		"message": "crwdns7386:0crwdne7386:0"
+	},
+	"rtsp.webpage.header": {
+		"message": "crwdns13581:0crwdne13581:0"
+	},
+	"rtsp.url": {
+		"message": "crwdns7387:0crwdne7387:0"
+	},
+	"rtsp.protocol.label": {
+		"message": "crwdns13846:0crwdne13846:0"
+	},
+	"rtsp.protocol2.label": {
+		"message": "crwdns13847:0crwdne13847:0"
+	},
+	"rtsp.protocol.tooltip": {
+		"message": "crwdns13848:0[br]crwdnd13848:0[br]crwdne13848:0"
+	},
+	"rtsp.protocoldd.values.tcp": {
+		"message": "crwdns13849:0crwdne13849:0"
+	},
+	"rtsp.protocoldd.values.udp": {
+		"message": "crwdns13850:0crwdne13850:0"
+	},
+	"rtsp.protocoldd.values.http": {
+		"message": "crwdns13851:0crwdne13851:0"
+	},
+	"rtsp.protocoldd.values.custom": {
+		"message": "crwdns13929:0crwdne13929:0"
+	},
+	"rtmp.url": {
+		"message": "crwdns7388:0crwdne7388:0"
+	},
+	"rtmp.streamName": {
+		"message": "crwdns7389:0crwdne7389:0"
+	},
+	"rtmp.buffer": {
+		"message": "crwdns7390:0crwdne7390:0"
+	},
+	"script_plugin.header": {
+		"message": "crwdns54268:0crwdne54268:0"
+	},
+	"locationCaption": {
+		"message": "crwdns91618:0%location%crwdne91618:0"
+	},
+	"locationLabel": {
+		"message": "crwdns91616:0crwdne91616:0"
+	},
+	"easingLabel": {
+		"message": "crwdns98512:0crwdne98512:0"
+	},
+	"easing.none": {
+		"message": "crwdns98514:0crwdne98514:0"
+	},
+	"easing.in": {
+		"message": "crwdns98516:0crwdne98516:0"
+	},
+	"easing.out": {
+		"message": "crwdns98518:0crwdne98518:0"
+	},
+	"easing.inout": {
+		"message": "crwdns98520:0crwdne98520:0"
+	}
+}

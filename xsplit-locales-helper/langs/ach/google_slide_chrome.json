@@ -1,0 +1,41 @@
+{
+  "googleSlide.presentation": {
+    "message": "crwdns162444:0crwdne162444:0"
+  },
+  "googleSlide.go_button": {
+    "message": "crwdns162446:0crwdne162446:0"
+  },
+  "googleSlide.url": {
+    "message": "crwdns162448:0crwdne162448:0"
+  },
+  "googleSlide.enter_google_slide_link": {
+    "message": "crwdns162450:0crwdne162450:0"
+  },
+  "googleSlide.remove_controls_ui": {
+    "message": "crwdns162452:0crwdne162452:0"
+  },
+  "googleSlide.connected": {
+    "message": "crwdns162454:0crwdne162454:0"
+  },
+  "googleSlide.valid_url_warning": {
+    "message": "crwdns162456:0crwdne162456:0"
+  },
+  "googleSlide.slide_private_warning": {
+    "message": "crwdns162458:0crwdne162458:0"
+  },
+  "googleSlide.playback": {
+    "message": "crwdns162460:0crwdne162460:0"
+  },
+  "googleSlide.system_sound": {
+    "message": "crwdns162462:0crwdne162462:0"
+  },
+  "googleSlide.stream_only": {
+    "message": "crwdns162464:0crwdne162464:0"
+  },
+  "googleSlide.stream_only_install": {
+    "message": "crwdns162466:0crwdne162466:0"
+  },
+  "googleSlide.default_speakers": {
+    "message": "crwdns162468:0crwdne162468:0"
+  }
+}

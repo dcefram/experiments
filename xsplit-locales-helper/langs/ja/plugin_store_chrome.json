@@ -1,0 +1,395 @@
+{
+    "home_newToStore": {
+        "message": "プラグインであなたの配信をパワーアップさせましょう！"
+    },
+    "home_search": {
+        "message": "上記か下部のアイコンをクリックし、色々検索してみましょう。"
+    },
+    "home_sourceTip": {
+        "message": "ソースを見せる"
+    },
+    "home_extensionTip": {
+        "message": "拡張機能を見せる"
+    },
+    "home_outputTip": {
+        "message": "出力を見せる"
+    },
+    "home_libraryTip": {
+        "message": "マイプラグインを見せる"
+    },
+    "home_sourceTipIn": {
+        "message": "ソースを隠す"
+    },
+    "home_outputTipIn": {
+        "message": "出力を隠す"
+    },
+    "home_extensionTipIn": {
+        "message": "拡張機能を隠す"
+    },
+    "home_tooltipToggle": {
+        "message": "検索モードの時は全てのアイコンを隠す事は出来ません。"
+    },
+    "plugin_developer": {
+        "message": "開発者："
+    },
+    "plugin_publicVersion": {
+        "message": "パブリック版："
+    },
+    "plugin_updated": {
+        "message": "更新："
+    },
+    "plugin_dllDownloadWarning": {
+        "message": "このダウンロードは保護されていないファイルをあなたのＰＣにダウンロードする可能性があります。"
+    },
+    "plugin_install": {
+        "message": "インストール"
+    },
+    "plugin_uninstall": {
+        "message": "アンインストール"
+    },
+    "plugin_update": {
+        "message": "更新"
+    },
+    "plugin_published": {
+        "message": "公開完了"
+    },
+    "plugin_size": {
+        "message": "サイズ"
+    },
+    "plugin_currentVersion": {
+        "message": "現バージョン"
+    },
+    "plugin_installs": {
+        "message": "インストールされた物"
+    },
+    "plugin_minimumXBCLabel": {
+        "message": "XBCに最低必要"
+    },
+    "plugin_minimumXBC": {
+        "message": "%version% かそれ以降のバージョン"
+    },
+    "plugin_report": {
+        "message": "プラグインを報告する"
+    },
+    "plugin_developerLabel": {
+        "message": "開発者"
+    },
+    "plugin_developerVisit": {
+        "message": "ウェブサイトを閲覧する"
+    },
+    "plugin_developerMail": {
+        "message": "メールを送る"
+    },
+    "plugin_readMore": {
+        "message": "詳しく読む"
+    },
+    "plugin_rateThisplugin": {
+        "message": "プラグインを評価"
+    },
+    "plugin_rating": {
+        "message": "レビューする前にこのプラグインをインストールしてください"
+    },
+    "plugin_reviews": {
+        "message": "レビュー"
+    },
+    "plugin_votes": {
+        "message": "票"
+    },
+    "plugin_filter-recent": {
+        "message": "最近"
+    },
+    "plugin_filter-rating": {
+        "message": "評価"
+    },
+    "plugin_viewAllReviews": {
+        "message": "全てのレビューを見る"
+    },
+    "plugin_warning": {
+        "message": "こちらのプラグインはサードパーティのサービスやライブラリを使用する為、XSplitのプライバシーポリシーで保護されておりません。こちらのプラグインにはあなたのパソコン情報やソフトの使用頻度などのデータが集められる可能性がございます。"
+    },
+    "plugin_myReview": {
+        "message": "私のレビュー"
+    },
+    "plugin_empty-search": {
+        "message": "検査結果は０です。他の検索を行うかプラグインんを参照してください。"
+    },
+    "plugin_back": {
+        "message": "< プラグイン詳細に戻る"
+    },
+    "plugin_tag": {
+        "message": "タグ"
+    },
+    "plugin_minimum": {
+        "message": "必要最低限のOS："
+    },
+    "plugin_windows": {
+        "message": "Windows 10"
+    },
+    "plugin_windows-warning": {
+        "message": "プラグインがインストールできません。ＯＳが未対応です。"
+    },
+    "plugin_local-recording": {
+        "message": "こちらのプラグインは必要不可欠でアンインストールする事ができません。"
+    },
+    "myPlugins_myPlugins": {
+        "message": "マイプラグイン"
+    },
+    "myPlugins_updateAll": {
+        "message": "全て更新する"
+    },
+    "myPlugins_cancelAll": {
+        "message": "全てキャンセルする"
+    },
+    "myPlugins_update": {
+        "message": "更新"
+    },
+    "myPlugins_uninstall": {
+        "message": "アンインストール"
+    },
+    "myPlugins_size": {
+        "message": "サイズ"
+    },
+    "search_results": {
+        "message": "検索: "
+    },
+    "search_searching": {
+        "message": "検索中..."
+    },
+    "search_zero-search1": {
+        "message": "何も見つかりませんでした。"
+    },
+    "search_zero-search2": {
+        "message": "提案："
+    },
+    "search_zero-search3": {
+        "message": "綴りがあっているか確認してください。"
+    },
+    "search_zero-search4": {
+        "message": "別のキーワードを使用ください。"
+    },
+    "search_zero-search5": {
+        "message": "簡単なキーワードを使用してください。"
+    },
+    "search_name": {
+        "message": "名前"
+    },
+    "search_downloads": {
+        "message": "ダウンロード数"
+    },
+    "search_rating": {
+        "message": "評価"
+    },
+    "search_updated": {
+        "message": "更新日"
+    },
+    "search_installed": {
+        "message": "インストール済"
+    },
+    "search_clear-search": {
+        "message": "検査結果を削除"
+    },
+    "search_download-all": {
+        "message": "全てダウンロード"
+    },
+    "search_download": {
+        "message": "ダウンロード中 (%count%)"
+    },
+    "help_what": {
+        "message": "このプラグインは何？"
+    },
+    "help_source": {
+        "message": "**ソース** はステージに追加出来るプラグインです。メインウィンドウで右クリックする事でソースのプロパティを表示する事が出来ます。"
+    },
+    "help_extension": {
+        "message": "**拡張機能** はグローバルレベルであなたのシーンを操作できます。ソースやそれ以上の可能性を秘めております。"
+    },
+    "help_output": {
+        "message": "**出力** は配信先のプラットフォームを意味しており、Twitch、YouTubeLive、ニコニコなどの事を意味します。"
+    },
+    "help_installed": {
+        "message": "マイプラグインページでインストールされたプラグインを確認、更新、更にアンインストールする事が出来ます。マイプラグインを表示させるには、検索バーの右にあるアイコンをクリックするかツールメニューからマイプラグインを選択してください。"
+    },
+    "help_developer": {
+        "message": "あなたは開発者ですか？"
+    },
+    "help_buildYourOwn": {
+        "message": "XSplit Broadcasterのプラグインを個人でも開発可能です！開発に興味がある方は [こちらをクリック](https://xspl.it/developers)"
+    },
+    "overlay_uninstall": {
+        "message": "アンインストール完了！"
+    },
+    "overlay_uninstallMessage": {
+        "message": "%name% はアンインストールされました。\n このプラグインに関してフィードバックなどありましたら是非共有してください。"
+    },
+    "overlay_rateThisPlugin": {
+        "message": "プラグインを評価"
+    },
+    "overlay_yourRating": {
+        "message": "あなたの評価："
+    },
+    "overlay_rating-0": {
+        "message": "評価無し"
+    },
+    "overlay_rating-1": {
+        "message": "改善必須"
+    },
+    "overlay_rating-2": {
+        "message": "悪くない"
+    },
+    "overlay_rating-3": {
+        "message": "普通"
+    },
+    "overlay_rating-4": {
+        "message": "良い"
+    },
+    "overlay_rating-5": {
+        "message": "最高"
+    },
+    "overlay_placeholder": {
+        "message": "レビューを付ける"
+    },
+    "overlay_charlimit": {
+        "message": "残り文字数 %action% "
+    },
+    "overlay_submit": {
+        "message": "送信"
+    },
+    "overlay_cancel": {
+        "message": "キャンセル"
+    },
+    "overlay_skip": {
+        "message": "スキップする"
+    },
+    "overlay_ratingError": {
+        "message": "おっと！評価とコメントを投稿中にエラーが起こりました。もう一度お送り下さい。"
+    },
+    "overlay_action-error": {
+        "message": "%action% 中にエラーが起こりました。もう一度お試しになるか、XSplit サポートにご連絡ください。"
+    },
+    "overlay_action-error-download": {
+        "message": "プラグインをダウンロードする事に失敗しました。ネット環境を確認し、もう一度お試しください。"
+    },
+    "overlay_action-error-multiple": {
+        "message": "更新必要なプラグイン %count% 個"
+    },
+    "overlay_action-rating": {
+        "message": ""
+    },
+    "overlay_action-searching": {
+        "message": "検索中..."
+    },
+    "overlay_action-loading": {
+        "message": "読み込み中..."
+    },
+    "overlay_action-downloading": {
+        "message": "ダウンロード中..."
+    },
+    "overlay_action-installing": {
+        "message": "インストール中..."
+    },
+    "overlay_action-updating": {
+        "message": "更新中..."
+    },
+    "overlay_action-uninstalling": {
+        "message": "アンインストール中..."
+    },
+    "overlay_action-updating-multiple": {
+        "message": "ダウンロード中のプラグイン %count%/%total% "
+    },
+    "overlay_complete-installing": {
+        "message": "%type% メニューとマイプラグインに %name% が追加されました。"
+    },
+    "overlay_complete-updating": {
+        "message": "%name% が更新されました。"
+    },
+    "overlay_complete-updating-multiple": {
+        "message": "全てのプラグインがダウンロード完了しました。"
+    },
+    "overlay_complete-uninstalling": {
+        "message": "%name% がアンインストールされました。"
+    },
+    "overlay_title-complete-installing": {
+        "message": "インストール完了！"
+    },
+    "overlay_title-complete-uninstalling": {
+        "message": "アンインストール完了！"
+    },
+    "overlay_title-complete-updating": {
+        "message": "更新完了！"
+    },
+    "overlay_title-complete-updating-multiple": {
+        "message": "ダウンロード完了！"
+    },
+    "overlay_button-downloading": {
+        "message": "ダウンロード"
+    },
+    "overlay_button-installing": {
+        "message": "インストール"
+    },
+    "overlay_button-updating": {
+        "message": "更新"
+    },
+    "overlay_button-updating-multiple": {
+        "message": "全て更新"
+    },
+    "overlay_button-uninstalling": {
+        "message": "アンインストール"
+    },
+    "overlay_button-ok": {
+        "message": "OK"
+    },
+    "overlay_button-loading": {
+        "message": "OK"
+    },
+    "overlay_toClose": {
+        "message": "プラグインストアを閉じますか？"
+    },
+    "overlay_cancel-action": {
+        "message": "%action% をキャンセルします"
+    },
+    "overlay_generic-error-header": {
+        "message": "データを受け取っておりません！"
+    },
+    "overlay_generic-internet-fail": {
+        "message": "おっと！エラーが起こりました。ネット環境を確認しもう一度お試しください。"
+    },
+    "overlay_generic-error-text": {
+        "message": "データ習得中にエラーが起こりました。もう一度お試しください。"
+    },
+    "overlay_install-restart-now": {
+        "message": "今すぐ再起動する"
+    },
+    "overlay_install-restart-later": {
+        "message": "後で再起動する"
+    },
+    "overlay_needs-restart-info": {
+        "message": "変更が反映されるにはXSplitを再起動しなくてはいけません。"
+    },
+    "extension_label": {
+        "message": "拡張"
+    },
+    "source_label": {
+        "message": "ソース"
+    },
+    "output_label": {
+        "message": "出力"
+    },
+    "myPlugins_plugin_types": {
+        "message": "全てのプラグイン"
+    },
+    "myPlugins_show_plugins_with_update": {
+        "message": "更新が必要なプラグインのみ表示"
+    },
+    "search_ascending": {
+        "message": "昇順"
+    },
+    "search_descending": {
+        "message": "降順"
+    },
+    "search_and_separator": {
+        "message": "および"
+    },
+    "home_search_placeholder": {
+        "message": "ストアを検索..."
+    }
+}

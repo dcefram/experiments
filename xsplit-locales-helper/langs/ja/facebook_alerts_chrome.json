@@ -1,0 +1,83 @@
+{
+  "facebook.alerts.tabheader": {
+    "message": "アラート"
+  },
+  "facebook.alerts.notification": {
+    "message": "通知"
+  },
+  "facebook.alerts.status": {
+    "message": "ステータス"
+  },
+  "facebook.alerts.authorize": {
+    "message": "XSplitに対してFacebook Liveの使用を許可します。"
+  },
+  "facebook.alerts.remove_authorization": {
+    "message": "**%api%** 認証取り消し"
+  },
+  "facebook.alerts.type.stars": {
+    "message": "スター"
+  },
+  "facebook.alerts.type.share": {
+    "message": "共有"
+  },
+  "facebook.alerts.alert_type": {
+    "message": "アラートタイプ"
+  },
+  "facebook.alerts.minimum_stars": {
+    "message": "最低数のスター"
+  },
+  "facebook.alerts.relogin": {
+    "message": "再ログイン"
+  },
+  "facebook.alerts.style": {
+    "message": "スタイル"
+  },
+  "facebook.alerts.theme": {
+    "message": "テーマ"
+  },
+  "facebook.alerts.layout": {
+    "message": "レイアウト"
+  },
+  "facebook.alerts.color": {
+    "message": "色"
+  },
+  "facebook.alerts.sound": {
+    "message": "アラート音"
+  },
+  "facebook.alerts.test_alert": {
+    "message": "アラートテスト"
+  },
+  "facebook.alerts.hide_connection_message": {
+    "message": "接続メッセージを非表示にする"
+  },
+  "facebook.alerts.source": {
+    "message": "ソース"
+  },
+  "facebook.alerts.account": {
+    "message": "アカウント"
+  },
+  "facebook.alerts.error_auth": {
+    "message": "XSplitが要求している権限を許可させる為、もう一度認証を行ってください。"
+  },
+  "facebook.alerts.not_connected": {
+    "message": "配信が始まると自動的にアラートが読み込まれます"
+  },
+  "facebook.alerts.settings": {
+    "message": "セッティング"
+  },
+  "facebook.alerts.switch_account": {
+    "message": "**%api%** アカウントを切り替える"
+  },
+  "facebook.alerts.connected": {
+    "message": "接続しました。"
+  },
+  "facebook.alerts.not_seeing_videos": {
+    "message": "ライブ映像が表示されておりませんか？"
+  },
+  "facebook.alerts.not_seeing_videos_help": {
+    "message": "あなたのページへ配信する許可がない可能性があります。"
+  },
+  "facebook.alerts.not_seeing_videos_link": {
+    "message": "こちらをクリックし、再承認を行ってください"
+  }
+}

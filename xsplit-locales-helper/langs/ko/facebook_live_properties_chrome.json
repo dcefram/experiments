@@ -1,0 +1,95 @@
+{
+	"title": {
+		"message": "Facebook Live 속성"
+	},
+	"save_close": {
+		"message": "저장 후 닫기"
+	},
+	"start_streaming": {
+		"message": "계속"
+	},
+	"logged_in_as": {
+		"message": "로그인 계정: %fullname%"
+	},
+	"switch_account": {
+		"message": "[계정 변경](switchAccount)"
+	},
+	"remove_auth": {
+		"message": "[인증 권한 해제](removeAuth)"
+	},
+	"stream_settings": {
+		"message": "방송 설정"
+	},
+	"stream_to.label": {
+		"message": "방송 송출될 곳: "
+	},
+	"stream_to.values.timeline": {
+		"message": "타임라인"
+	},
+	"stream_to.values.page": {
+		"message": "페이지"
+	},
+	"stream_to.values.group": {
+		"message": "그룹"
+	},
+	"stream_to.values.event": {
+		"message": "이벤트"
+	},
+	"stream_to.pageauth": {
+		"message": "페이지 - 요구 권한 요청"
+	},
+	"stream_to.groupauth": {
+		"message": "그룹 - 요구 권한 요청"
+	},
+	"stream_to.eventauth": {
+		"message": "이벤트 - 요구 권한 요청"
+	},
+	"page": {
+		"message": "페이지: "
+	},
+	"timeline": {
+		"message": "타임라인: "
+	},
+	"group": {
+		"message": "그룹: "
+	},
+	"event": {
+		"message": "이벤트: "
+	},
+	"format.label": {
+		"message": "포맷: "
+	},
+	"encoder.label": {
+		"message": "인코딩: "
+	},
+	"bitrate": {
+		"message": "비트레이트: "
+	},
+	"saveVideo": {
+		"message": "녹화 영상 저장"
+	},
+	"resolutionWarning": {
+		"message": "해당 해상도로 송출시 시스템 성능 과부하에 걸릴수 있습니다."
+	},
+	"bitrateWarning": {
+		"message": "선택하신 비트레이트는 사용자님의 대역폭으로는 감당하지 못 할수 있습니다."
+	},
+	"streamingWarning": {
+		"message": "방송 혹은 녹화도중에 대역폭 또는 하드웨어 관련 테스트를 할수 없습니다."
+	},
+	"checkAgain": {
+		"message": "[다시 테스트](testAgain)"
+	},
+	"authorize": {
+		"message": "클릭하여 페이스북 계정에 엑스플릿의 권한을 부여합니다."
+	},
+	"configuring": {
+		"message": "구성요소 설정중..."
+	},
+	"system_test": {
+		"message": "이전 시스템 테스트: %timestamp% [다시 테스트](testAgain)"
+	},
+	"advanced_settings": {
+		"message": "[고급 설정](advancedSettings)"
+	}
+}

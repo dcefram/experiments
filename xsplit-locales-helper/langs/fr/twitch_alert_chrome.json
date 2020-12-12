@@ -1,0 +1,95 @@
+{
+	"twitch.alert.tabheader": {
+		"message": "alerte"
+	},
+	"twitch.alert.source": {
+		"message": "Source"
+	},
+	"twitch.alert.account": {
+		"message": "Compte"
+	},
+	"twitch.alert.authorize": {
+		"message": "Autoriser XSplit à utiliser Twitch"
+	},
+	"twitch.alert.remove_authorization": {
+		"message": "**%api%** Retirer l'autorisation"
+	},
+	"twitch.alert.switch_account": {
+		"message": "**%api%** Changer de compte"
+	},
+	"twitch.alert.not_connected": {
+		"message": "Non connecté"
+	},
+	"twitch.alert.connected": {
+		"message": "Connecté"
+	},
+	"twitch.alert.connect": {
+		"message": "Connexion"
+	},
+	"twitch.alert.disconnect": {
+		"message": "Déconnexion"
+	},
+	"twitch.alert.alertLabel": {
+		"message": "Alerte"
+	},
+	"twitch.alert.animation_text": {
+		"message": "Animation"
+	},
+	"twitch.alert.duration": {
+		"message": "Durée "
+	},
+	"twitch.alert.delay": {
+		"message": "Durée d'affichage"
+	},
+	"twitch.alert.animateIn": {
+		"message": "Animation entrante"
+	},
+	"twitch.alert.animateOut": {
+		"message": "Animation sortant"
+	},
+	"twitch.alert.audio": {
+		"message": "Audio"
+	},
+	"twitch.alert.generalHeader": {
+		"message": "Général"
+	},
+	"twitch.alert.customizeHeader": {
+		"message": "Personnaliser"
+	},
+	"twitch.alert.theme": {
+		"message": "Thème"
+	},
+	"twitch.alert.minMonth": {
+		"message": "Mois min"
+	},
+	"twitch.alert.minViewers": {
+		"message": "Viewers min"
+	},
+	"twitch.alert.minCheer": {
+		"message": "Cheers min"
+	},
+	"twitch.alert.type": {
+		"message": "Type"
+	},
+	"twitch.alert.nameStyleAndSettings": {
+		"message": "Style et réglage du nom"
+	},
+	"twitch.alert.sound": {
+		"message": "Son"
+	},
+	"twitch.alert.show_alert": {
+		"message": "Aperçu"
+	},
+	"twitch.alert.hide_alert": {
+		"message": "Masquer l’aperçu"
+	},
+	"twitch.alert.test_alert": {
+		"message": "Test Alerte"
+	},
+	"twitch.alert.Color": {
+		"message": "Couleur"
+	},
+	"twitch.alert.layout": {
+		"message": "Mise en page"
+	}
+}

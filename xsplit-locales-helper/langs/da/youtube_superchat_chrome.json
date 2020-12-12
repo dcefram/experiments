@@ -1,0 +1,77 @@
+{
+	"youtube.superchat.tabheader": {
+		"message": "Alert"
+	},
+	"youtube.superchat.source": {
+		"message": "Source"
+	},
+	"youtube.superchat.account": {
+		"message": "Account"
+	},
+	"youtube.superchat.preview": {
+		"message": "Preview"
+	},
+	"youtube.superchat.account_automatic": {
+		"message": "Automatic"
+	},
+	"youtube.superchat.authorize": {
+		"message": "Authorize XSplit to use YouTube Live"
+	},
+	"youtube.superchat.remove_authorization": {
+		"message": "**%api%** Remove authorization"
+	},
+	"youtube.superchat.switch_account": {
+		"message": "**%api%** Switch account"
+	},
+	"youtube.superchat.not_connected": {
+		"message": "Widget will automatically connect once stream is live"
+	},
+	"youtube.superchat.connected": {
+		"message": "Connected"
+	},
+	"youtube.superchat.error_channel_not_found": {
+		"message": "Please provide a valid channel."
+	},
+	"youtube.superchat.notification": {
+		"message": "Notification"
+	},
+	"youtube.superchat.lock_components": {
+		"message": "Lock Components"
+	},
+	"youtube.superchat.lock_components_help": {
+		"message": "Checking this option will disable mouse hover, repositioning and resizing of the components.[br]Check this if you don't want to display hover effects on the components, especially while streaming or recording."
+	},
+	"youtube.superchat.show_ticker": {
+		"message": "Show Ticker"
+	},
+	"youtube.superchat.show_alert": {
+		"message": "Show Alert"
+	},
+	"youtube.superchat.opacity": {
+		"message": "Opacity"
+	},
+	"youtube.superchat.font": {
+		"message": "Font"
+	},
+	"youtube.superchat.text_size": {
+		"message": "Text Size"
+	},
+	"youtube.superchat.hide_message": {
+		"message": "Hide Super Chat message"
+	},
+	"youtube.superchat.duration": {
+		"message": "Duration"
+	},
+	"youtube.superchat.sound": {
+		"message": "Sound"
+	},
+	"youtube.superchat.test_alert": {
+		"message": "Test Alert"
+	},
+	"youtube.superchat.loggingInTo": {
+		"message": "Logging in to YouTube..."
+	},
+	"youtube.superchat.pleaseComplete": {
+		"message": "Please complete the login process in your browser"
+	}
+}

@@ -1,0 +1,77 @@
+{
+	"twitch.cheers.tabheader": {
+		"message": "警報"
+	},
+	"twitch.cheers.source": {
+		"message": "資源"
+	},
+	"twitch.cheers.account": {
+		"message": "帳戶"
+	},
+	"twitch.cheers.authorize": {
+		"message": "授權XSplit使用Twitch"
+	},
+	"twitch.cheers.remove_authorization": {
+		"message": "**%api%** 刪除授權"
+	},
+	"twitch.cheers.switch_account": {
+		"message": "**%api%** 切換帳戶"
+	},
+	"twitch.cheers.not_connected": {
+		"message": "未連接"
+	},
+	"twitch.cheers.connected": {
+		"message": "連接"
+	},
+	"twitch.cheers.error_channel_not_found": {
+		"message": "請提供有效的通道."
+	},
+	"twitch.cheers.notification": {
+		"message": "提醒"
+	},
+	"twitch.cheers.lock_components": {
+		"message": "鎖定組件"
+	},
+	"twitch.cheers.lock_components_help": {
+		"message": "選中此選項將禁用鼠標懸停，重新定位和調整組件大小。[br]如果您不想在組件上顯示懸停效果，請檢查此項，尤其是在流式傳輸或錄製時。"
+	},
+	"twitch.cheers.show_stats": {
+		"message": "顯示統計數據"
+	},
+	"twitch.cheers.show_stats_help": {
+		"message": "這將顯示您的Twitch頻道的最高和最近的歡呼。 要清除統計數據，請斷開通道並再次連接。 要在切換場景時防止清除數據，請確保選中“保持內存中的源”。"
+	},
+	"twitch.cheers.opacity": {
+		"message": "透明度"
+	},
+	"twitch.cheers.user_name": {
+		"message": "用户名"
+	},
+	"twitch.cheers.labels": {
+		"message": "標籤"
+	},
+	"twitch.cheers.show_alert": {
+		"message": "顯示提醒"
+	},
+	"twitch.cheers.message": {
+		"message": "消息"
+	},
+	"twitch.cheers.show_message": {
+		"message": "顯示消息"
+	},
+	"twitch.cheers.duration": {
+		"message": "持續時間"
+	},
+	"twitch.cheers.millisecond_unit": {
+		"message": "ms"
+	},
+	"twitch.cheers.sound": {
+		"message": "聲音"
+	},
+	"twitch.cheers.preview": {
+		"message": "預覽"
+	},
+	"twitch.cheers.test_alert": {
+		"message": "測試警報"
+	}
+}

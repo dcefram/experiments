@@ -1,0 +1,674 @@
+{
+	"title": {
+		"message": "XSplit Broadcaster - Meine Aufnahmen"
+	},
+	"myRecordings.back": {
+		"message": "Zurück..."
+	},
+	"myRecordings.processing": {
+		"message": "Aufnahmen laden..."
+	},
+	"myRecordings.openWith": {
+		"message": "ÖFFNEN MIT"
+	},
+	"myRecordings.edit": {
+		"message": "VIDEO BEARBEITEN"
+	},
+	"myRecordings.CONVERT_TO_MP4": {
+		"message": "IN MP4 KONVERTIEREN"
+	},
+	"myRecordings.REPAIR_FILE": {
+		"message": "DATEI REPARIEREN"
+	},
+	"myRecordings.FIX_MOV_FILE": {
+		"message": "FÜR WEB OPTIMIEREN"
+	},
+	"myRecordings.FIX_MOV_FILE_TOOLTIP": {
+		"message": "Diese Option verringert die Bearbeitungszeit, welche nach dem Hochladen der Datei auf Video-on-Demand-Diensten wie YouTube benötigt wird. Hauptsächlich werden dabei alle Medieninformationen der Videodatei vom Ende an den Anfang verlagert, um die Online-Anzeige zu optimieren. Für nähere Informationen, klicken Sie [hier](https://xspl.it/j5hfit)."
+	},
+	"myRecordings.openFileLocation": {
+		"message": "DATEI-PFAD ÖFFNEN"
+	},
+	"myRecordings.openFolderLocation": {
+		"message": "ORDNER-PFAD ÖFFNEN"
+	},
+	"myRecordings.sortBy": {
+		"message": "SORTIEREN NACH"
+	},
+	"myRecordings.orderBy": {
+		"message": "AUSRICHTEN NACH"
+	},
+	"myRecordings.ascending": {
+		"message": "Aufsteigend"
+	},
+	"myRecordings.descending": {
+		"message": "Absteigend"
+	},
+	"myRecordings.header.name": {
+		"message": "Name"
+	},
+	"myRecordings.header.date": {
+		"message": "Datum"
+	},
+	"myRecordings.header.type": {
+		"message": "Typ"
+	},
+	"myRecordings.header.videoLength": {
+		"message": "Länge"
+	},
+	"myRecordings.header.size": {
+		"message": "Größe"
+	},
+	"myRecordings.details.recordedOn": {
+		"message": "Aufgenommen am"
+	},
+	"myRecordings.details.deleteRecordings": {
+		"message": "Ausgewählte Elemente"
+	},
+	"myRecordings.details.files": {
+		"message": "Elemente"
+	},
+	"myRecordings.details.selected": {
+		"message": "ausgewählt"
+	},
+	"myRecordings.details.total": {
+		"message": "Gesamt"
+	},
+	"myRecordings.details.uploading": {
+		"message": "Ihr Video wird hochgeladen. %percent%% abgeschlossen."
+	},
+	"myRecordings.details.rename": {
+		"message": "Umbenennen"
+	},
+	"myRecordings.details.delete": {
+		"message": "Lokales Video löschen"
+	},
+	"myRecordings.details.editSettings": {
+		"message": "Einstellungen bearbeiten"
+	},
+	"myRecordings.details.link": {
+		"message": "Link"
+	},
+	"myRecordings.details.open": {
+		"message": "Zum Link gehen"
+	},
+	"myRecordings.details.copy": {
+		"message": "Link kopieren"
+	},
+	"myRecordings.details.deleteVideoFromYoutube": {
+		"message": "Video von YouTube entfernen"
+	},
+	"myRecordings.details.deleteVideoFromDailymotion": {
+		"message": "Video von Dailymotion entfernen"
+	},
+	"myRecordings.details.filename.errors.FILE_ALREADY_EXISTS": {
+		"message": "Datei mit selben Namen vorhanden."
+	},
+	"myRecordings.details.filename.errors.INVALID_FILENAME": {
+		"message": "Ungültiges Zeichen im neuen Dateinamen"
+	},
+	"myRecordings.details.filename.hoverMessage": {
+		"message": "Rechtsklicken, um weitere Optionen anzuzeigen"
+	},
+	"myRecordings.youtube.error.upload": {
+		"message": "Fehler beim Hochladen des Videos"
+	},
+	"myRecordings.youtube.error.tryAgain": {
+		"message": "Nochmal versuchen?"
+	},
+	"myRecordings.youtube.error.cancel": {
+		"message": "Abbrechen"
+	},
+	"myRecordings.youtube.link.copy": {
+		"message": "Link kopieren"
+	},
+	"myRecordings.youtube.link.open": {
+		"message": "Im Browser öffnen"
+	},
+	"myRecordings.youtube.privacy.unlisted": {
+		"message": "ungelistet"
+	},
+	"myRecordings.youtube.privacy.private": {
+		"message": "Privat"
+	},
+	"myRecordings.youtube.privacy.public": {
+		"message": "Öffentlich"
+	},
+	"myRecordings.youtube.cancelUpload": {
+		"message": "Upload abbrechen?"
+	},
+	"myRecordings.location.label": {
+		"message": "STANDORT"
+	},
+	"myRecordings.location.open": {
+		"message": "ORDNER ÖFFNEN"
+	},
+	"uploadVideoDialog.dialogTitle": {
+		"message": "Auf YouTube hochladen"
+	},
+	"uploadVideoDialog.edit": {
+		"message": "Video-Einstellungen bearbeiten"
+	},
+	"uploadVideoDialog.title": {
+		"message": "TITEL"
+	},
+	"uploadVideoDialog.description": {
+		"message": "BESCHREIBUNG"
+	},
+	"uploadVideoDialog.category": {
+		"message": "KATEGORIE"
+	},
+	"uploadVideoDialog.categoryValues.Autos": {
+		"message": "Autos & Fahrzeuge"
+	},
+	"uploadVideoDialog.categoryValues.Comedy": {
+		"message": "Komödien"
+	},
+	"uploadVideoDialog.categoryValues.Education": {
+		"message": "Bildung"
+	},
+	"uploadVideoDialog.categoryValues.Entertainment": {
+		"message": "Unterhaltung"
+	},
+	"uploadVideoDialog.categoryValues.Film": {
+		"message": "Film & Animation"
+	},
+	"uploadVideoDialog.categoryValues.Gaming": {
+		"message": "Gaming"
+	},
+	"uploadVideoDialog.categoryValues.Howto": {
+		"message": "Ratgeber & Style"
+	},
+	"uploadVideoDialog.categoryValues.Music": {
+		"message": "Musik"
+	},
+	"uploadVideoDialog.categoryValues.News": {
+		"message": "Nachrichten & Politik"
+	},
+	"uploadVideoDialog.categoryValues.Nonprofit": {
+		"message": "Aktionen & Gemeinnütziges"
+	},
+	"uploadVideoDialog.categoryValues.People": {
+		"message": "Menschen & Blogs"
+	},
+	"uploadVideoDialog.categoryValues.Pets&Animals": {
+		"message": "Tiere"
+	},
+	"uploadVideoDialog.categoryValues.Tech": {
+		"message": "Wissenschaft & Technologie"
+	},
+	"uploadVideoDialog.categoryValues.Sports": {
+		"message": "Sport"
+	},
+	"uploadVideoDialog.categoryValues.Travel": {
+		"message": "Reisen & Veranstaltungen"
+	},
+	"uploadVideoDialog.gameName": {
+		"message": "SPIELNAME"
+	},
+	"uploadVideoDialog.tags.label": {
+		"message": "TAGS"
+	},
+	"uploadVideoDialog.tags.tooltip": {
+		"message": "Verwenden Sie Kommas, um Tags zu trennen. Doppelklicken auf Tag, um Text zu bearbeiten."
+	},
+	"uploadVideoDialog.privacy": {
+		"message": "PRIVATSPHÄRE"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Unlisted": {
+		"message": "Ungelistet"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Private": {
+		"message": "Privat"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Public": {
+		"message": "Öffentlich"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Private": {
+		"message": "Privat"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Public": {
+		"message": "Öffentlich"
+	},
+	"uploadVideoDialog.applyClose": {
+		"message": "ANWENDEN & SCHLIESSEN"
+	},
+	"uploadVideoDialog.uploadNow": {
+		"message": "JETZT HOCHLADEN"
+	},
+	"uploadVideoDialog.title-youtube": {
+		"message": "Video auf YouTube hochladen"
+	},
+	"uploadVideoDialog.title-dailymotion": {
+		"message": "Video auf Dailymotion hochladen"
+	},
+	"uploadVideoDialog.editVideo-youtube": {
+		"message": "YouTube-Video-Einstellungen bearbeiten"
+	},
+	"uploadVideoDialog.cancel": {
+		"message": "ABBRECHEN"
+	},
+	"uploadVideoDialog.allowEmbed": {
+		"message": "Erlauben"
+	},
+	"uploadVideoDialog.embed.label": {
+		"message": "EINBETTEN"
+	},
+	"uploadVideoDialog.processing": {
+		"message": "Verarbeite"
+	},
+	"uploadVideoDialog.uploadNotification": {
+		"message": "Indem Sie auf \"Jetzt hochladen\" klicken, bestätigen Sie, dass die Inhalte, die Sie hochladen den [Nutzungsbedingungen von YouTube](https://xspl.it/ox4uyd) (einschließlich der YouTube-Community-Richtlinien) entspricht. Bitte achten Sie darauf, nicht das Copyright oder die Privatsphäre Anderer zu verletzen."
+	},
+	"youtubeUpload.dialogTitle": {
+		"message": "Auf YouTube hochladen"
+	},
+	"youtubeUpload.edit": {
+		"message": "Video-Einstellungen bearbeiten"
+	},
+	"youtubeUpload.title": {
+		"message": "TITEL"
+	},
+	"youtubeUpload.description": {
+		"message": "BESCHREIBUNG"
+	},
+	"youtubeUpload.category": {
+		"message": "KATEGORIE"
+	},
+	"youtubeUpload.categoryValues.Autos": {
+		"message": "Autos & Fahrzeuge"
+	},
+	"youtubeUpload.categoryValues.Comedy": {
+		"message": "Komödien"
+	},
+	"youtubeUpload.categoryValues.Education": {
+		"message": "Bildung"
+	},
+	"youtubeUpload.categoryValues.Entertainment": {
+		"message": "Unterhaltung"
+	},
+	"youtubeUpload.categoryValues.Film": {
+		"message": "Film & Animation"
+	},
+	"youtubeUpload.categoryValues.Gaming": {
+		"message": "Gaming"
+	},
+	"youtubeUpload.categoryValues.Howto": {
+		"message": "Ratgeber & Style"
+	},
+	"youtubeUpload.categoryValues.Music": {
+		"message": "Musik"
+	},
+	"youtubeUpload.categoryValues.News": {
+		"message": "Nachrichten & Politik"
+	},
+	"youtubeUpload.categoryValues.Nonprofit": {
+		"message": "Aktionen & Gemeinnütziges"
+	},
+	"youtubeUpload.categoryValues.People": {
+		"message": "Menschen & Blogs"
+	},
+	"youtubeUpload.categoryValues.Pets&Animals": {
+		"message": "Tiere"
+	},
+	"youtubeUpload.categoryValues.Tech": {
+		"message": "Wissenschaft & Technologie"
+	},
+	"youtubeUpload.categoryValues.Sports": {
+		"message": "Sport"
+	},
+	"youtubeUpload.categoryValues.Travel": {
+		"message": "Reisen & Veranstaltungen"
+	},
+	"youtubeUpload.tags.label": {
+		"message": "TAGS"
+	},
+	"youtubeUpload.tags.tooltip": {
+		"message": "Verwenden Sie Kommas, um Tags zu trennen"
+	},
+	"youtubeUpload.privacy": {
+		"message": "PRIVATSPHÄRE"
+	},
+	"youtubeUpload.privacyValues.Unlisted": {
+		"message": "Ungelistet"
+	},
+	"youtubeUpload.privacyValues.Private": {
+		"message": "Privat"
+	},
+	"youtubeUpload.privacyValues.Public": {
+		"message": "Öffentlich"
+	},
+	"youtubeUpload.applyClose": {
+		"message": "ANWENDEN & SCHLIESSEN"
+	},
+	"youtubeUpload.uploadNow": {
+		"message": "JETZT HOCHLADEN"
+	},
+	"youtubeUpload.uploadVideo": {
+		"message": "Video auf YouTube hochladen"
+	},
+	"youtubeUpload.editVideo": {
+		"message": "YouTube-Video-Einstellungen bearbeiten"
+	},
+	"youtubeUpload.cancel": {
+		"message": "ABBRECHEN"
+	},
+	"youtubeUpload.allowEmbed": {
+		"message": "Erlauben"
+	},
+	"youtubeUpload.embed.label": {
+		"message": "EINBETTEN"
+	},
+	"youtubeUpload.processing": {
+		"message": "Verarbeite"
+	},
+	"facebookShare.addMessage": {
+		"message": "Geben Sie hier Ihre Nachricht ein"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "Video auf Facebook teilen"
+	},
+	"facebookShare.via": {
+		"message": "via XSplit Broadcaster"
+	},
+	"facebookShare.privacy": {
+		"message": "Privatsphäre"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "Öffentlich"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "Freunde"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "Freunde von Freunden"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "Nur Ich"
+	},
+	"facebookShare.shareVideo": {
+		"message": "Teilen"
+	},
+	"facebookShare.cancel": {
+		"message": "Abbrechen"
+	},
+	"facebookShare.processing": {
+		"message": "Verarbeite"
+	},
+	"facebookShare.postAs": {
+		"message": "Veröffentlichen auf"
+	},
+	"facebookShare.timeline": {
+		"message": "Facebook Timeline"
+	},
+	"facebookShare.managePage": {
+		"message": "Seiten, die Sie verwalten"
+	},
+	"twitterShare.addMessage": {
+		"message": "Geben Sie hier Ihre Nachricht ein"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "Video auf Twitter teilen"
+	},
+	"twitterShare.privacy": {
+		"message": "Privatsphäre"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "Teilen"
+	},
+	"twitterShare.cancel": {
+		"message": "Abbrechen"
+	},
+	"twitterShare.processing": {
+		"message": "Verarbeite"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "Geben Sie hier Ihre Nachricht ein"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "Video auf Google+ teilen"
+	},
+	"googlePlusShare.via": {
+		"message": "via XSplit Broadcaster"
+	},
+	"googlePlusShare.privacy": {
+		"message": "Privatsphäre"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "Jeder"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "Alle Freunde"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "Freunde von Freunden"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "Selbst"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "Teilen"
+	},
+	"googlePlusShare.cancel": {
+		"message": "Abbrechen"
+	},
+	"googlePlusShare.processing": {
+		"message": "Verarbeite"
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "Video teilen"
+	},
+	"vodShare.processing": {
+		"message": "Verarbeite"
+	},
+	"vodShare.addLink": {
+		"message": "Link hinzufügen"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "Facebook Privatsphäre"
+	},
+	"vodShare.gameCheckin": {
+		"message": "Spiel-Check-in"
+	},
+	"vodShare.gameCheckin.placeholder": {
+		"message": "Spiel-Check-in"
+	},
+	"vodShare.shareVideo": {
+		"message": "TEILEN"
+	},
+	"vodShare.cancel": {
+		"message": "ABBRECHEN"
+	},
+	"vodShare.shareTo.1": {
+		"message": "Nur auf %service1% teilen"
+	},
+	"vodShare.shareTo.2": {
+		"message": "Auf %service1% und %service2% teilen"
+	},
+	"vodShare.shareTo.3": {
+		"message": "Auf %service1%, %service2% und %service3% teilen"
+	},
+	"vodShare.shareTo.4": {
+		"message": "Auf %service1%, %service2%, %service3% und %service4% teilen"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "TWITTER-NACHRICHTENZÄHLER"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "Zählt die noch übrigen Zeichen für die Veröffentlichung auf Twitter. Sie werden den blau gefärbten Text in der Nachricht erkennen, welcher der einzige Text ist, der auf Twitter veröffentlicht wird."
+	},
+	"vodShare.gameNameWarning": {
+		"message": "Der Name des Spiels ist nicht in der Player.me-Datenbank vorhanden. Infolgedessen wird es nicht in Ihrem Beitrag auftauchen."
+	},
+	"vodShare.loadMore": {
+		"message": "Mehr laden..."
+	},
+	"vodStatus.title": {
+		"message": "Freigabe-Status"
+	},
+	"vodStatus.facebook": {
+		"message": "Facebook"
+	},
+	"vodStatus.twitter": {
+		"message": "Twitter"
+	},
+	"vodStatus.playerme": {
+		"message": "Player.me"
+	},
+	"vodStatus.gplus": {
+		"message": "Google Plus"
+	},
+	"vodStatus.posting": {
+		"message": "Auf %social% veröffentlichen..."
+	},
+	"vodStatus.success": {
+		"message": "Erfolgreich auf %social% veröffentlicht.[br][%message%](%url%)"
+	},
+	"vodStatus.message.facebook": {
+		"message": "Beitrag anzeigen"
+	},
+	"vodStatus.message.twitter": {
+		"message": "Tweet ansehen"
+	},
+	"vodStatus.message.playerme": {
+		"message": "Beitrag anzeigen"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "Details anzeigen"
+	},
+	"vodStatus.error": {
+		"message": "Veröffentlichen auf %social% fehlgeschlagen."
+	},
+	"vodStatus.failed": {
+		"message": "Konnte nicht auf %social% veröffentlichen.[br][%message%](%url%)"
+	},
+	"vodStatus.invalid": {
+		"message": "Konnte nicht auf %social% veröffentlichen."
+	},
+	"vodStatus.edit": {
+		"message": "Bearbeiten"
+	},
+	"vodStatus.retry": {
+		"message": "Wiederholen"
+	},
+	"dialog.ok": {
+		"message": "SCHLIESSEN"
+	},
+	"myRecordings.shareupload.loading": {
+		"message": "Stelle eine Verbindung zu YouTube her... [br] Verbinde dann Deinen Browser mit Youtube und XSplit"
+	},
+	"growl.yes": {
+		"message": "JA"
+	},
+	"growl.no": {
+		"message": "NO"
+	},
+	"growl.error": {
+		"message": "Fehler"
+	},
+	"growl.info": {
+		"message": "Info"
+	},
+	"growl.warning": {
+		"message": "Warnung"
+	},
+	"growl.question": {
+		"message": "Frage"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.title": {
+		"message": "Fehler bei der Validierung",
+		"type": "error"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.message": {
+		"message": " Dateiname, den Sie eingegeben haben ist ein eingeschränktes Wort und ist nicht zulässig. Eingeschränkte Wörter von Windows können nicht verwendet werden, um Ordner und Dateien zu benennen."
+	},
+	"growl.messages.BLANK_FILENAME.title": {
+		"message": "Fehler bei der Validierung",
+		"type": "error"
+	},
+	"growl.messages.BLANK_FILENAME.message": {
+		"message": "Dateiname darf nicht leer sein."
+	},
+	"growl.messages.INVALID_FILENAME.title": {
+		"message": "Fehler bei der Validierung",
+		"type": "error"
+	},
+	"growl.messages.INVALID_FILENAME.message": {
+		"message": "Dateiname darf keines der folgenden Zeichen enthalten: \\ / : * ? \" < > |"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.title": {
+		"message": "Fehler bei der Validierung",
+		"type": "error"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.message": {
+		"message": "Dateiname existiert bereits."
+	},
+	"growl.messages.TOO_LONG_FILENAME.title": {
+		"message": "Zielpfad zu lang",
+		"type": "error"
+	},
+	"growl.messages.TOO_LONG_FILENAME.message": {
+		"message": "Der Dateiname wäre zu lang für den Zielordner. Sie können den Dateinamen verkürzen oder einen Speicherort mit einem kürzeren Pfad versuchen."
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.title": {
+		"message": "Fehler bei der Validierung",
+		"type": "error"
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.message": {
+		"message": "Datei möglicherweise gesperrt oder in Gebrauch."
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.title": {
+		"message": "Video-Link erforderlich",
+		"type": "warning"
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.message": {
+		"message": "Bevor Sie den Video-Link auf Ihrem Sozialen-Medien-Seiten teilen können, benutzen Sie bitte den YouTube-Button, um Ihr Video auf YouTube hochzuladen."
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.title": {
+		"message": "Kann nicht auf Twitter teilen",
+		"type": "error"
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.message": {
+		"message": "Ihre Nachricht hat das Maximum zulässiger Zeichen für Twitter überschritten. Ihre Nachricht wird nicht auf Twitter veröffentlicht, jedoch können Sie immer noch auf Facebook teilen."
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.title": {
+		"message": "Kann nicht auf Twitter teilen",
+		"type": "error"
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.message": {
+		"message": "Das Bild überschreitet die maximale Tweet Anlagengröße von 3MB."
+	},
+	"myScreenshots.emptyMessage": {
+		"message": "Hier ist es leer"
+	},
+	"myScreenshots.watchTutorial": {
+		"message": "Sehen Sie diese [Tutorials](https://xspl.it/bc/tutorials), um mehr zu erfahren!"
+	},
+	"myRecordings.title": {
+		"message": "Aufnahmen"
+	},
+	"myRecordings.emptyFileLocation": {
+		"message": "Zeichnen Sie Ihre überwältigenden Broadcasts auf, laden Sie diese bei Video-Sharing-Diensten hoch und machen Sie sie sofort viral!"
+	},
+	"imgShare.unauthorized": {
+		"message": "Bevor Sie Ihr Bild teilen können, müssen Sie mindestens 1 Soziales-Medien-Konto autorisieren, indem Sie auf eines der obigen Symbole klicken."
+	},
+	"imgShare.shareImageTitle": {
+		"message": "Bild teilen"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "Suche nach Vorschlägen..."
+	},
+	"myScreenshots.title": {
+		"message": "Bildschirmfotos"
+	},
+	"myScreenshots.processing": {
+		"message": "Bildschirmfotos werden geladen..."
+	},
+	"myScreenshots.details.takenon": {
+		"message": "Aufgenommen am"
+	},
+	"myScreenshots.emptyFileLocation": {
+		"message": "Verwenden Sie Ihr Bildschirmfoto-Tastenkürzel (unter Werkzeuge –> Einstellungen –> Tastenkürzel) um Bilder Ihrer Szenen zu erfassen und sofort zu teilen!"
+	}
+}

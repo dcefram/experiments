@@ -1,0 +1,17 @@
+{
+	"color_source.tabheader": {
+		"message": "Заливка цветом"
+	},
+	"color_source.title": {
+		"message": "Залить"
+	},
+	"color_source.solid_color": {
+		"message": "Сплошным цветом"
+	},
+	"color_source.color_bars": {
+		"message": "Цветными полосками"
+	},
+	"color_source.color": {
+		"message": "Цвет"
+	}
+}

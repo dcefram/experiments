@@ -1,0 +1,98 @@
+{
+  "title.source": {
+    "message": "Quelle"
+  },
+  "subtitle.account": {
+    "message": "Konto"
+  },
+  "link.authorize": {
+    "message": "XSplit autorisieren, Facebook Live zu verwenden"
+  },
+  "subtitle2.authorize.error": {
+    "message": "Bitte versuchen Sie erneut zu autorisieren und gewähren Sie den Zugriff auf alle Berechtigungen, die von XSplit für diese Funktionalität benötigt werden"
+  },
+  "subtitle.connect": {
+    "message": "URL veröffentlichen"
+  },
+  "chat.disconnected": {
+    "message": "Nicht verbunden"
+  },
+  "chat.connected": {
+    "message": "Verbunden"
+  },
+  "help.post.title": {
+    "message": "URL veröffentlichen"
+  },
+  "help.post.text": {
+    "message": "Zulässige URLs sind öffentliche Beiträge, Ihre eigenen Beiträge (Videos, Bilder, etc.) in Ihrer Chronik oder Beiträge von Bildern und Videos einer Seite, die Sie verwalten."
+  },
+  "chat.connect": {
+    "message": "Verbinden"
+  },
+  "chat.disconnect": {
+    "message": "Trennen"
+  },
+  "subtitle2.connect.error": {
+    "message": "Bitte geben Sie eine gültige Video- oder Beitrags-URL an."
+  },
+  "title.display": {
+    "message": "Anzeige"
+  },
+  "label.lock": {
+    "message": "Komponenten fixieren"
+  },
+  "help.lock.title": {
+    "message": "Komponenten fixieren"
+  },
+  "help.lock.text": {
+    "message": "Aktivieren dieser Option wird das Bewegen der Maus über Komponenten, deren Repositionierung und Größenänderung deaktivieren.[br]Vergewissern Sie sich, ob Sie wirklich kein Bewegen der Maus auf den Komponenten anzeigen möchten, insbesondere beim Streamen oder Aufzeichnen."
+  },
+  "label.reactions": {
+    "message": "Reaktionen und Beschriftungen anzeigen"
+  },
+  "button.reset": {
+    "message": "Zurücksetzen"
+  },
+  "label.bg": {
+    "message": "Zähler-HG"
+  },
+  "label.counter": {
+    "message": "Zähler"
+  },
+  "label.label": {
+    "message": "Beschriftung"
+  },
+  "label.opacity": {
+    "message": "Deckkraft"
+  },
+  "label.hide_connection_message": {
+    "message": "Verbindungsmeldungen ausblenden"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** Konto wechseln"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** Autorisierung entfernen"
+  },
+  "input.like": {
+    "message": "Like"
+  },
+  "input.love": {
+    "message": "Liebe"
+  },
+  "input.haha": {
+    "message": "Haha"
+  },
+  "input.sad": {
+    "message": "Traurig"
+  },
+  "input.wow": {
+    "message": "Woah"
+  },
+  "input.angry": {
+    "message": "Wütend"
+  },
+  "tabheader.title": {
+    "message": "Reaktionen veröffentlichen"
+  }
+}

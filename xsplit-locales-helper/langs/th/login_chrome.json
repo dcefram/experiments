@@ -1,0 +1,234 @@
+{
+	"email": {
+		"message": "อีเมล์"
+	},
+	"password": {
+		"message": "รหัสผ่าน"
+	},
+	"rememberMe": {
+		"message": "จดจำฉันไว้"
+	},
+	"newXSplitUser": {
+		"message": "เป็นผู้ใช้ XSplit ใหม่?"
+	},
+	"noAccount": {
+		"message": "ลงทะเบียนเดี๋ยวนี้"
+	},
+	"forgotPassword": {
+		"message": "ลืมรหัสผ่าน"
+	},
+	"enterCode": {
+		"message": "ป้อนรหัส"
+	},
+	"loginAutomatically": {
+		"message": "เข้าบัญชีอัตโนมัติ"
+	},
+	"login": {
+		"message": "เข้าบัญชี"
+	},
+	"selectLanguage": {
+		"message": "เลือกภาษา"
+	},
+	"agreement": {
+		"message": "ฉันได้อ่านและยอมรับ [ข้อตกลงอนุญาตใช้สิทธิXSplit](http://xspl.it/bc/terms) และ [นโยบายความเป็นส่วนตัว](https://xspl.it/bc/privacy) แล้ว"
+	},
+	"updates": {
+		"message": "ส่งข้อมูลเกี่ยวกับการอัพเดทและข้อเสนอพิเศษอื่นๆให้ฉันทางอีเมล์"
+	},
+	"noEmailMessage": {
+		"message": "คุณเลือกที่จะไม่รับการอัพเดทผ่านทางอีเมล์ โปรดกดดำเนินการต่อเพื่อยืนยันการเลือก"
+	},
+	"growl.warning": {
+		"message": "คำเตือน"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.title": {
+		"message": "แคปล็อคเปิด",
+		"type": "warning"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.message": {
+		"message": "การเปิดแคปล็อคไว้อาจจะเป็นเหตุผลให้คุณป้อนรหัสผ่านไม่ถูกต้องได้ โปรดแน่ใจว่าได้ปิดแล้วการที่จะเริ่มต้นป้อนรหัสผ่าน"
+	},
+	"registration.message": {
+		"message": "เป็นผู้ใช้ XSplit ใหม่เหรอ [นโยบายความเป็นส่วนตัว](https://xspl.it/bc/privacy)"
+	},
+	"screenName.placeholder": {
+		"message": "เลือกชื่อผู้ใช้"
+	},
+	"fullName.placeholder": {
+		"message": "ชื่อเต็ม"
+	},
+	"emailInput.placeholder": {
+		"message": "อีเมล์"
+	},
+	"passwordInput.placeholder": {
+		"message": "รหัสผ่าน"
+	},
+	"retypePassword.placeholder": {
+		"message": "ป้อนรหัสผ่านอีกครั้ง"
+	},
+	"register.label": {
+		"message": "ลงทะเบียนเดี๋ยวนี้"
+	},
+	"loginUsingExisting": {
+		"message": "**เป็นผู้ใช้อยุ่แล้ว?**[ลงชื่อเข้าใช้]() โดยใช้บัญชีที่มีอยู่แล้ว"
+	},
+	"registration.confirm.message": {
+		"message": "**โปรดแน่ใจว่าคุณได้ป้อนอีเมล์อย่างถูกต้องและได้อ่าน ข้อตกลงการใช้งานและนโยบายความเป็นส่วนตัวของ XSplit แล้วก่อนจะดำเนินการต่อ**"
+	},
+	"registration.confirm.continue": {
+		"message": "ดำเนินการต่อ"
+	},
+	"registration.confirm.goBack": {
+		"message": "กลับไป"
+	},
+	"registration.processing": {
+		"message": "ลงทะเบียนบัญชีใหม่ของคุณ..."
+	},
+	"registration.success": {
+		"message": "**ลงทะเบียนเสร็จแล้ว**[br][br]\nอีเมล์ได้ถูกส่งไปที่ **%email%** พร้อมทั้งคำแนะนำในการเปิดใช้งานบัญชีของคุณ"
+	},
+	"continue.label": {
+		"message": "ดำเนินการต่อไปยัง XSpliter Broadcaster"
+	},
+	"screenName.hint": {
+		"message": "ชื่อผู้ใช้ต้องมีความยาว 4-50 ตัวอักษร และจะถูกใช้เป็นชื่อในฟอรั่มของฝ่ายสนับสนุน"
+	},
+	"screenName.check": {
+		"message": "กำลังตรวจสอบว่าชื่อผู้ใช้ของคุณสามารถใช้ได้"
+	},
+	"screenName.unavailable": {
+		"message": "ชื่อผู้ใช้ของคุณถูกใช้ไปแล้ว โปรดเลือกใช้ชื่ออื่น"
+	},
+	"fullName.hint": {
+		"message": "ชื่อเต็มต้องยาว 6-50 ตัวอักษร"
+	},
+	"emailInput.hint": {
+		"message": "อีเมล์ที่ถูกต้องจำเป็นสำหรับการแอคทีฟบัญชี"
+	},
+	"emailInput.notValid": {
+		"message": "อีเมล์ถูกใช้ไปแล้วหรือไม่ถูกต้อง"
+	},
+	"passwordInput.hint": {
+		"message": "รหัสผ่านต้องยาว 6-50 ตัวอักษร โปรดแน่ใจว่าคุณปิดปุ่ม CAPS LOCK แล้วเพราะอาจจะทำให้คุณป้อนรหัสผ่านผิดพลาดได้"
+	},
+	"passwordInput.notMatch": {
+		"message": "รหัสผ่าน และการป้อนรหัสผ่านซ้ำต้องตรงกันและต้องมีความยาว 6-50 ตัวอักษร"
+	},
+	"copyright": {
+		"message": "ลิขสิทธิ์ &copy; %dates%"
+	},
+	"oem.login.optimizedFor": {
+		"message": "ปรับแต่งมาสำหรับ"
+	},
+	"oem.login.bannerMessage": {
+		"message": "ฟรี %license% สิทธิการใช้ XSplit แบบพรีเมี่ยม สนับสนุนโดย %oem% ลงทะเบียนเพื่อรับสิทธิ์การใช้งาน"
+	},
+	"oem.redeemed.message": {
+		"message": "ยินดีด้วย! เครื่อง **%oem% ของคุณ มาพร้อมกับสิทธิ์การใช้งานพรีเมี่ยม %oemfreelicense%** เพื่อที่จะใช้ฟีเจอร์ทั้งหมดของ XSplit Broadcaster สิทธิ์การใช้งานได้ถูกบันทึกไปยังบัญชีของคุณแล้ว **(%email%)**"
+	},
+	"oem.redeemed.messageNewAccount": {
+		"message": "ยินดีด้วย! เครื่อง **%oem% ของคุณ มาพร้อมกับสิทธิ์การใช้งานพรีเมี่ยม %oemfreelicense%** เพื่อที่จะใช้ฟีเจอร์ทั้งหมดของ XSplit Broadcaster สิทธิ์การใช้งานได้ถูกบันทึกไปยังบัญชี XSplit ใหม่ของคุณแล้ว **(%email%)**"
+	},
+	"oem.redeemed.letsGetStarted": {
+		"message": "โอเค! มาเริ่มกันเลยดีกว่า"
+	},
+	"oem.redeem.emailSentMessage": {
+		"message": "อีเมล์ได้ถูกส่งไปพร้อมทั้งคำแนะนำในการเปิดใช้งานบัญชีของคุณ"
+	},
+	"oem.redeemed.newFail": {
+		"message": "ยินดีด้วย! การลงทะเบียนเสร็จสิ้นแล้ว อีเมล์ได้ถูกส่งไปพร้อมทั้งคำแนะนำในการเปิดใช้งานบัญชีของคุณ โปรดลงทะเบียนให้เรียบร้อยภายใน 24 ชั่วโมง"
+	},
+	"oem.redeemed.redeemError": {
+		"message": "เกิดข้อผิดพลาดในการรับสิทธิ์การใช้งานของคุณ โปรดลองรับสิทธิ์การใช้งานใหม่อีกครั้ง โดยทำการรีสตาร์ท XSplit Broadcaster หรือติดต่อ **license@xsplit.com** ถ้าไม่สามารถแก้ข้อผิดพลาดได้"
+	},
+	"REFURBISHED_REDEMPTION_NOT_ALLOWED_FOR_SAME_XSPLIT_ACCOUNT": {
+		"message": "เกิดข้อผิดพลาดในการรับสิทธิ์การใช้งานของคุณ โปรดลองรับสิทธิ์การใช้งานใหม่อีกครั้ง โดยทำการรีสตาร์ท XSplit Broadcaster หรือลองใช้บัญชี XSplit บัญชีอื่น โปรดติดต่อ **license@xsplit.com** ถ้าไม่สามารถแก้ข้อผิดพลาดได้"
+	},
+	"cannot_apply_with_recurring": {
+		"message": "ผิดพลาด: ไม่สามารถใช้งานสิทธิ์การใช้งานแบบของขวัญได้ ในขณะที่สิทธิ์การใช้งานแบบต่ออายุถูกใช้งานอยู่"
+	},
+	"oem.login.letsGetStarted": {
+		"message": "โอเค! มาเริ่มกันเลยดีกว่า"
+	},
+	"oem.login.continueToXBC": {
+		"message": "ดำเนินการต่อไปยัง XSpliter Broadcaster"
+	},
+	"carousel.slide1.header": {
+		"message": "เรียบง่ายแต่ทรงพลัง ซอฟต์แวร์สำหรับ ไลฟ์สตรีมและบันทึกวิดีโอ"
+	},
+	"carousel.slide1.content": {
+		"message": "XSplit Broadcaster คือการปฏิวัติแอพลิเคชั่นภาพและเสียงซึ่งทำให้ใครๆ ก็สามารถบรอดแคสต์และบันทึกวิดีโอระดับมืออาชีพได้ โดยมีอินเตอร์เฟสที่เรียบง่ายและสะดวกต่อการใช้งานที่ใคร ๆ ก็สามารถใช้งานได้อย่างชำนาญ"
+	},
+	"carousel.slide2.header": {
+		"message": "ปลั๊กอินแบบกำหนดเองและการผสาร"
+	},
+	"carousel.slide2.content": {
+		"message": "ฟีเจอร์ของ XSplit Broadcaster นั้นหลากหลายและปรับแต่งได้อย่างมากมาย ต้องขอบคุณปลั๊กอินสโตร์ที่ทำให้คุณสามารถปรับ การเตือนการโดเนท การขอเพลง และอื่นๆ อีกมากมาย คุณสามารถทำได้กระทั่งสร้างปลั๊กอินขึ้นมาเอง ความเป็นไปได้นั้นไร้ขอบเขต!"
+	},
+	"carousel.slide3.header": {
+		"message": "แก้ไขและอัพโหลดการบันทึก"
+	},
+	"carousel.slide3.content": {
+		"message": "XSplit Broadcaster ทำให้คุณจัดการบันทึกการเล่นเกมของคุณได้อย่างง่ายดาย คุณสามารถใช้อิดิเตอร์ที่มีอยุ่แล้วแก้ไขและดัดแปลงวิดีโอและเมื่อเสร็จแล้วก็สามารถอัพโหลดไปยัง Youtube และแชร์ไปยังโซเชียลเน็ตเวิร์คที่คุณต้องการได้ทันทีโดยไม่จำเป็นต้องออกจาก XSplit เลย"
+	},
+	"carousel.slide4.header": {
+		"message": "สนับสนุนการใช้งานแคปเจอร์การ์ดยอดนิยมมาเรียบร้อยแล้ว"
+	},
+	"carousel.slide4.content": {
+		"message": "XSplit Broadcaster นั้นได้ถูกปรับแต่งมาอย่างดีเพื่อให้รองรับแคปเจอร์การ์ดที่มีในปัจจุบัน[หน้ารายชื่อแคปเจอร์การ์ดที่สนับสนุนในหน้าผลิตภัณฑ์](https://xspl.it/bc/capture_card_list)"
+	},
+	"carousel.freeLicenseText": {
+		"message": "_**ฟรี** สิทธิ์การใช้งาน XSplit_"
+	},
+	"carousel.sponsor": {
+		"message": "สนับสนุนโดย %oem%"
+	},
+	"carousel.lucky": {
+		"message": "เยี่ยม! เครื่อง %oem% นี้มาพร้อมของขวัญเป็นเวลา **%duration% สำหรับสิทธิ์การใช้งาน XSplit**"
+	},
+	"carousel.continue": {
+		"message": "ดำเนินการต่อ"
+	},
+	"carousel.title": {
+		"message": "XSplit Broadcaster"
+	},
+	"label.default": {
+		"message": "ลงชื่อเข้าใช้ โดยใช้ %connect%"
+	},
+	"label.connect": {
+		"message": "หรือลงชื่อเข้าใช้ด้วย"
+	},
+	"label.authorized": {
+		"message": "อนุญาตเข้าใช้เป็น"
+	},
+	"label.changeaccount": {
+		"message": "[ใช้บัญชีอื่น](changeAccount)"
+	},
+	"label.learnMore": {
+		"message": "เพิ่งเคยไลฟ์สตรีมเหรอ?[เรียนรู้เพิ่มเติม](https://xspl.it/bc/tutorials)"
+	},
+	"label.otherOptions": {
+		"message": "[ตัวเลือกลงชื่อเข้าใช้งานแบบอื่นๆ](otherOptions)"
+	},
+	"label.welcome": {
+		"message": "ยินดีต้อนรับสู่ XSplit"
+	},
+	"label.loggingInTo": {
+		"message": "ลงชื่อเข้าใช้ไปที่ %service%"
+	},
+	"label.pleaseComplete": {
+		"message": "โปรดเสร็จสิ้นกระบวนการลงชื่อใช้งานในเบราว์เซอร์ของคุณ[br][br][br][ยกเลิก](cancelLogin)[br][br][br][พบปัญหา? ลองล็อกอินในแอพแทนสิ](externalLogin)"
+	},
+	"label.somethingWrong": {
+		"message": "มีบางอย่างผิดพลาด"
+	},
+	"label.retryAuth": {
+		"message": "โปรดลองเชื่อมต่อการใช้งานอีกครั้ง หรือเลือก[br]บริการอื่นเพื่อลงชื่อเข้าใช้"
+	},
+	"button.back": {
+		"message": "ย้อนกลับ"
+	},
+	"button.retry": {
+		"message": "ลองใหม่อีกครั้ง"
+	}
+}

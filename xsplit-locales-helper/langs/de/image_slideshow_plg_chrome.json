@@ -1,0 +1,104 @@
+{
+  "image_slideshow.images": {
+    "message": "Bilder"
+  },
+  "image_slideshow.add": {
+    "message": "Hinzufügen"
+  },
+  "image_slideshow.remove": {
+    "message": "Entfernen"
+  },
+  "image_slideshow.preview": {
+    "message": "Vorschau"
+  },
+  "image_slideshow.transition_preview": {
+    "message": "Übergangsvorschau"
+  },
+  "image_slideshow.browser_60_fps": {
+    "message": "Bis zu 60 FPS aktivieren"
+  },
+  "image_slideshow.effects": {
+    "message": "Übergang"
+  },
+  "image_slideshow.transition": {
+    "message": "Übergang"
+  },
+  "image_slideshow.loop": {
+    "message": "Schleife"
+  },
+  "image_slideshow.interval": {
+    "message": "Intervall"
+  },
+  "image_slideshow.seconds": {
+    "message": "Sekunden"
+  },
+  "image_slideshow.shuffle_images": {
+    "message": "Zufallsbilder"
+  },
+  "image_slideshow.auto_refresh_images": {
+    "message": "Bilder automatisch aktualisieren"
+  },
+  "image_slideshow.remember_playback_position": {
+    "message": "Wiedergabeposition merken"
+  },
+  "image_slideshow.ok": {
+    "message": "Ok"
+  },
+  "image_slideshow.cancel": {
+    "message": "Abbrechen"
+  },
+  "image_slideshow.hint.images_section": {
+    "message": "Bilder hinzufügen, entfernen und ordnen"
+  },
+  "image_slideshow.hint.effects_section": {
+    "message": "Übergänge anwenden, Endlosschleife aktivieren und Intervalldauer festlegen"
+  },
+  "image_slideshow.hint.browser_60_fps_title": {
+    "message": "Bis zu 60 FPS aktivieren"
+  },
+  "image_slideshow.hint.browser_60_fps_message": {
+    "message": "Erfordert möglicherweise zusätzliche GPU/CPU-Ressourcen. Beachten Sie, dass Umschalten dieser Option eine Aktualisierung der Quelle auslöst. Für eine optimale Leistung aktivieren Sie Spezielle Optimierung der Browser-Quelle unter Extras -> Einstellungen -> Erweitert."
+  },
+  "image_slideshow.hint.auto_refresh_images_message": {
+    "message": "Aktivieren dieser Einstellung wird die Bilder automatisch nach jeder Wiederholung aktualisieren. Allerdings kann Aktivieren dieser Einstellung ihre Bild-Diashow-Quelle verlangsamen."
+  },
+  "image_slideshow.hotkeys": {
+    "message": "Tastenkürzel"
+  },
+  "image_slideshow.hotkey_header": {
+    "message": "Verwenden Sie diese Tastenkürzel, wenn die Quelle ausgewählt ist:"
+  },
+  "image_slideshow.hotkey_p": {
+    "message": "Drücken Sie &quot;**P**&quot; zum Anhalten/Fortsetzen der Diashow (Diashow-Modus)"
+  },
+  "image_slideshow.hotkey_s": {
+    "message": "Drücken Sie &quot;**S**&quot; zum Anhalten der Diashow (Diashow-Modus)"
+  },
+  "image_slideshow.hotkey_r": {
+    "message": "Drücken Sie &quot;**R**&quot; zum Neustart der Diashow (Diashow-Modus)"
+  },
+  "image_slideshow.hotkey_n": {
+    "message": "Drücken Sie &quot;**N**&quot;, um zum nächsten Diashow-Bild zu gehen (Diashow-Modus)"
+  },
+  "image_slideshow.hotkey_b": {
+    "message": "Drücken Sie &quot;**B**&quot;, um zum vorherigen Diashow-Bild zu gehen (Diashow-Modus)"
+  },
+  "image_slideshow.double_click_main": {
+    "message": "Klicken Sie doppelt auf das Hauptbild um Miniaturen anzuzeigen (Diashow-Modus)"
+  },
+  "image_slideshow.double_click_thumbnail": {
+    "message": "Klicken Sie doppelt auf das Miniaturbild um Hauptbild anzuzeigen (Diashow-Modus)"
+  },
+  "image_slideshow.browse": {
+    "message": "Durchsuchen Sie die geladenen Bilder als Miniaturansicht, indem Sie den Miniaturansicht-Streifen ziehen. &quot;Position fixieren&quot; muss aktiviert sein. (Position fixieren-Kontrollkästchen befindet sich auf der Registerkarte &quot;Layout&quot;)"
+  },
+  "image_slideshow.loop_select_options_hide": {
+    "message": "Einmal dann ausblenden"
+  },
+  "image_slideshow.loop_select_options_nothing": {
+    "message": "Einmal"
+  },
+  "image_slideshow.loop_select_options_loop": {
+    "message": "Für immer"
+  }
+}

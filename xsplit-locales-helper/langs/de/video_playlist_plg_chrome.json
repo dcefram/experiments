@@ -1,0 +1,65 @@
+{
+  "video_playlist.audio_output": {
+    "message": "Audio-Ausgabe"
+  },
+  "video_playlist.playback": {
+    "message": "Wiedergabe"
+  },
+  "video_playlist.when_finished": {
+    "message": "Nach Abschluss"
+  },
+  "video_playlist.start_on_load": {
+    "message": "Beim Betreten der Szene abspielen"
+  },
+  "video_playlist.remember_playback_position": {
+    "message": "Wiedergabeposition merken"
+  },
+  "video_playlist.show_playback_position": {
+    "message": "Wiedergabeposition in Videos anzeigen"
+  },
+  "video_playlist.start_at": {
+    "message": "Beginn bei"
+  },
+  "video_playlist.set": {
+    "message": "Festlegen"
+  },
+  "video_playlist.end_at": {
+    "message": "Ende bei"
+  },
+  "video_playlist.reset": {
+    "message": "Zurücksetzen"
+  },
+  "video_playlist.force_deinterlace": {
+    "message": "Deinterlace erzwingen"
+  },
+  "video_playlist.videos": {
+    "message": "Videos"
+  },
+  "video_playlist.playlist": {
+    "message": "WIEDERGABELISTE"
+  },
+  "video_playlist.add": {
+    "message": "Hinzufügen"
+  },
+  "video_playlist.remove": {
+    "message": "Entfernen"
+  },
+  "video_playlist.ok": {
+    "message": "Ok"
+  },
+  "video_playlist.cancel": {
+    "message": "Abbrechen"
+  },
+  "video_playlist.hint.videos_section": {
+    "message": "Videos hinzufügen, entfernen und ordnen"
+  },
+  "video_playlist.hint.video_playback_section": {
+    "message": "Steuern der Wiedergabe, Video-Lautstärke festlegen und Audioausgabegerät festlegen."
+  },
+  "video_playlist.hint.video_missing": {
+    "message": "Die Quell-Datei fehlt. Sie wurde möglicherweise gelöscht oder umbenannt."
+  },
+  "video_playlist.processing": {
+    "message": "Videos werden verarbeitet..."
+  }
+}

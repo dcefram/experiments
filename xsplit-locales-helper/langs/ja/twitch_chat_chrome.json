@@ -1,0 +1,155 @@
+{
+	"twitch.chat.tabheader": {
+		"message": "チャット"
+	},
+	"twitch.chat.source": {
+		"message": "ソース"
+	},
+	"twitch.chat.account": {
+		"message": "アカウント"
+	},
+	"twitch.chat.authorize": {
+		"message": "XSplitに対してTwitchの使用を許可します。"
+	},
+	"twitch.chat.remove_authorization": {
+		"message": "**%api%** 認証取り消し"
+	},
+	"twitch.chat.switch_account": {
+		"message": "**%api%** アカウントを切り替える"
+	},
+	"twitch.chat.not_connected": {
+		"message": "接続されていません。"
+	},
+	"twitch.chat.connected": {
+		"message": "接続しました。"
+	},
+	"twitch.chat.connect": {
+		"message": "接続"
+	},
+	"twitch.chat.disconnect": {
+		"message": "接続を切る"
+	},
+	"twitch.chat.channel": {
+		"message": "チャンネル"
+	},
+	"twitch.chat.error_channel_not_found": {
+		"message": "有効のチャンネルを入力してください。"
+	},
+	"twitch.chat.display": {
+		"message": "ディスプレイ"
+	},
+	"twitch.chat.chat_box": {
+		"message": "チャットボックス"
+	},
+	"twitch.chat.opacity": {
+		"message": "透明度"
+	},
+	"twitch.chat.viewers": {
+		"message": "閲覧者"
+	},
+	"twitch.chat.message": {
+		"message": "メッセージ"
+	},
+	"twitch.chat.outline_text": {
+		"message": "アウトライン"
+	},
+	"twitch.chat.text_size": {
+		"message": "テキストサイズ"
+	},
+	"twitch.chat.hide_user_name": {
+		"message": "ユーザー名を非表示にする"
+	},
+	"twitch.chat.hide_timestamp": {
+		"message": "タイムスタンプを隠す"
+	},
+	"twitch.chat.hide_user_icons": {
+		"message": "ユーザーアイコンを隠す"
+	},
+	"twitch.chat.hide_on_idle": {
+		"message": "無反応時にチャットを隠す"
+	},
+	"twitch.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"twitch.chat.animation_text": {
+		"message": "アニメーション"
+	},
+	"twitch.chat.animation_direction_text": {
+		"message": "方向"
+	},
+	"twitch.chat.animation_randomize": {
+		"message": "ランダム"
+	},
+	"twitch.chat.animation_override_settings": {
+		"message": "表示設定を手動で上書きします。"
+	},
+	"twitch.chat.animation_duration": {
+		"message": "期間"
+	},
+	"twitch.chat.animation_set_duration": {
+		"message": "This will set the time duration of the scrolling animation."
+	},
+	"twitch.chat.animation_text_size": {
+		"message": "テキストサイズ"
+	},
+	"twitch.chat.seconds": {
+		"message": "秒"
+	},
+	"twitch.chat.animation_text_color": {
+		"message": "Text color"
+	},
+	"twitch.chat.animation_none": {
+		"message": "なし"
+	},
+	"twitch.chat.animation_scroll": {
+		"message": "スクロール"
+	},
+	"twitch.chat.animation_scroll_text": {
+		"message": "This will dynamically scroll user chat messages across the screen.[br][br]The best way to display this plugin is to adjust your source to full size view."
+	},
+	"twitch.chat.animation_direction_rightToLeft": {
+		"message": "右から左へ"
+	},
+	"twitch.chat.animation_direction_leftToRight": {
+		"message": "左から右へ"
+	},
+	"twitch.chat.animation_direction_randomize": {
+		"message": "ランダム"
+	},
+	"twitch.chat.outline_none": {
+		"message": "なし"
+	},
+	"twitch.chat.outline_thin": {
+		"message": "薄い"
+	},
+	"twitch.chat.outline_thick": {
+		"message": "太い"
+	},
+	"twitch.chat.outline_thickest": {
+		"message": "最大太さ"
+	},
+	"twitch.chat.blocking": {
+		"message": "Blocking"
+	},
+	"twitch.chat.blockedlist": {
+		"message": "Blocked list"
+	},
+	"twitch.chat.block_help": {
+		"message": "You can block viewers by adding their name or username (including bots, if applicable) in the blocked list so that their messages will not appear in the chat viewer.[br][br]This blocked list is not connected to your channel's blocked list. It only works for this chat source."
+	},
+	"twitch.chat.blocking_name": {
+		"message": "Enter the name or username of the viewer you wish to block."
+	},
+	"twitch.chat.block_name": {
+		"message": "名前"
+	},
+	"twitch.chat.block_add": {
+		"message": "追加"
+	},
+	"twitch.chat.block_remove": {
+		"message": "削除"
+	},
+	"twitch.chat.preview": {
+		"message": "プレビュー"
+	}
+}

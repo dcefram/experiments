@@ -1,0 +1,89 @@
+{
+    "loadingStatus.messages.splashScreenStatus_LoggingIn.message": {
+        "message": "Iniciando sesión..."
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingBroadcastPlugins.message": {
+        "message": "Cargando plugins de emisión..."
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingBroadcastPluginsXbc5003.message": {
+        "message": "Cargando Salidas..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingBroadcastPlugins.message": {
+        "message": "Comprobando plugins de emisión..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingBroadcastPluginsXbc5003.message": {
+        "message": "Comprobación de salidas..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingForUpdates.message": {
+        "message": "Buscando actualizaciones..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingSourcePlugins.message": {
+        "message": "Comprobando origen de plugins..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingSourcePluginsXbc5003.message": {
+        "message": "Comprobación de fuentes..."
+    },
+    "loadingStatus.messages.splashScreenStatus_Initializing.message": {
+        "message": "Inicializando..."
+    },
+    "loadingStatus.messages.splashScreenStatus_InstallingBroadcastPlugins.message": {
+        "message": "Instalando plugins de emisión..."
+    },
+    "loadingStatus.messages.splashScreenStatus_InstallingBroadcastPluginsXbc5003.message": {
+        "message": "Instalación de salidas..."
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingMainWindow.message": {
+        "message": "Cargando ventana principal..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingBroadcastPlugins.message": {
+        "message": "Actualizando plugins de emisión..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingBroadcastPluginsXbc5003.message": {
+        "message": "Actualización de salidas..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingSourcePlugins.message": {
+        "message": "Actualizando origen de plugins..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingSourcePluginsXbc5003.message": {
+        "message": "Fuentes de actualización..."
+    },
+    "loadingStatus.messages.splashScreenStatus_VerifyingGCComponent.message": {
+        "message": "Verificando componente capturador de juegos..."
+    },
+    "loadingStatus.messages.splashScreenStatus_VerifyingGCComponentWithFilename.message": {
+        "message": "Verificando componente capturador de juegos... %filename%"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingAppConflict.message": {
+        "message": "No se ha podido actualizar el componente capturador de juegos... Comprobando conflictos en la aplicación..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CleaningUp32.message": {
+        "message": "No se ha podido actualizar el componente capturador de juegos... Eliminando (32bit)..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CleaningUp64.message": {
+        "message": "No se ha podido actualizar el componente capturador de juegos... Eliminando (64bit)..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingAppComponentLoaded.message": {
+        "message": "No se ha podido actualizar el componente capturador de juegos... Comprobando aplicaciones donde se ha cargado el componente..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingGCComponent.message": {
+        "message": "Actualizando componente capturador de juegos... %filename%"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingExtensions.message": {
+        "message": "Comprobación de extensiones..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingExtensions.message": {
+        "message": "Actualización de extensiones..."
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallSourcePluginsXbc5003.message": {
+        "message": "Instalación de fuentes predeterminadas..."
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallExtensions.message": {
+        "message": "Instalación de extensiones predeterminadas..."
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallBroadcastPluginsXbc5003.message": {
+        "message": "Instalación de salidas predeterminadas..."
+    },
+    "oem.optimizedFor": {
+        "message": "Optimizado para"
+    }
+}

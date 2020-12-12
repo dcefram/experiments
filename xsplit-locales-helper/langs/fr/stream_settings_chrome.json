@@ -1,0 +1,41 @@
+{
+	"streamSettings.freeUserLimitationStreamReso": {
+		"message": "XSplit Broadcaster peut diffuser dans des résolutions élevées au-delà de %resolution%. Toutefois, cette option est réservée aux utilisateurs de XSplit avec une licence payante.[br][br] Veuillez sélectionner, s'il vous plaît, une manière de procéder."
+	},
+	"streamSettings.freeUserLimitationRecordReso": {
+		"message": "XSplit Broadcaster peut enregistrer dans des résolutions élevées au-delà de %resolution%. Toutefois, cette option est réservée aux utilisateurs de XSplit avec une licence payante.[br][br] Veuillez sélectionner, s'il vous plaît, une manière de procéder."
+	},
+	"streamSettings.freeUserLimitationStreamFps": {
+		"message": "XSplit Broadcaster peut diffuser à des taux d'images supérieurs à %fps%. Toutefois, cette option est réservée aux utilisateurs de XSplit avec une licence payante.[br][br] Veuillez sélectionner, s'il vous plaît, une manière de procéder."
+	},
+	"streamSettings.freeUserLimitationRecordFps": {
+		"message": "XSplit Broadcaster peut enregistrer à des taux d'images supérieurs à %fps%. Toutefois, cette option est réservée aux utilisateurs de XSplit avec une licence payante.[br][br] Veuillez sélectionner, s'il vous plaît, une manière de procéder."
+	},
+	"streamSettings.freeUserLimitationStreamResoFps": {
+		"message": "XSplit Broadcaster peut diffuser dans des résolutions élevées au-delà de %resolution% et à des taux d'images supérieurs à %fps%. Toutefois, ces options sont réservées aux utilisateurs de XSplit avec une licence payante.[br][br] Veuillez sélectionner, s'il vous plaît, une manière de procéder."
+	},
+	"streamSettings.freeUserLimitationRecordResoFps": {
+		"message": "XSplit Broadcaster peut enregistrer dans des résolutions élevées au-delà de %resolution% et à des taux d'images supérieurs à %fps%. Toutefois, ces options sont réservées aux utilisateurs de XSplit avec une licence payante.[br][br]Veuillez sélectionner, s'il vous plaît, une manière de procéder."
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonReso": {
+		"message": "%type% en %resolution%[br]sans[br]filigrane"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonFps": {
+		"message": "%type% en %fps%[br]sans[br]filigrane"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonResoFps": {
+		"message": "%type% en %resolution%[br]@ %fps%[br]sans[br]filigrane"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonReso": {
+		"message": "%type% en %resolution%[br]avec[br]filigrane"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonFps": {
+		"message": "%type% en %fps%[br]avec[br]filigrane"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonResoFps": {
+		"message": "%type% en %resolution%[br]@ %fps%[br]avec[br]filigrane"
+	},
+	"streamSettings.buyLicenseButton": {
+		"message": "Acheter une licence [br] pour supprimer le filigrane [br]"
+	}
+}

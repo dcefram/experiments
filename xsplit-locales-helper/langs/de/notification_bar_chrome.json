@@ -1,0 +1,59 @@
+{
+  "COUNTER": {
+    "message": "(%count%/%total%)"
+  },
+  "IN_GAME_HUD.text": {
+    "message": "Teste unser neues In-Game-HUD! Drücken einfach ALT+`, wenn Du irgendein Spiel spielst, das über Spiel-Capture zu Deiner Szene hinzugefügt wurde."
+  },
+  "UI_UPDATE_ANNOUNCEMENT.text": {
+    "message": "**Willkommen bei XBC 3.9!** Wir haben eine Reihe neuer Funktionen, die Du ausprobieren kannst."
+  },
+  "UI_UPDATE_ANNOUNCEMENT.link": {
+    "message": "[ERFAHRE MEHR](%url%)"
+  },
+  "REQUEST_PERMISSION.label": {
+    "message": "Berechtigungen"
+  },
+  "REQUEST_PERMISSION.text": {
+    "message": "Eine oder mehrere Deiner Quellen oder Erweiterungen erfordern eine Erlaubnis, um Skripte auszuführen"
+  },
+  "REQUEST_PERMISSION.link": {
+    "message": "[BEARBEITEN VON GENEHMIGUNGEN](editAccess)"
+  },
+  "PLUGINS_UPDATE.label": {
+    "message": "Für Deine Plugins sind Aktualisierungen verfügbar!"
+  },
+  "PLUGINS_UPDATE.link": {
+    "message": "[SHOW UPDATES](PLUGINS_UPDATE)\n"
+  },
+  "NEW_CRISP_MESSAGE.label": {
+    "message": "Support"
+  },
+  "NEW_CRISP_MESSAGE.link": {
+    "message": "[BOTSCHAFT ÖFFNEN](openCrispChat)"
+  },
+  "NEW_CRISP_MESSAGE.file": {
+    "message": "Du hast eine neue Datei erhalten"
+  },
+  "NEW_CRISP_MESSAGE.single": {
+    "message": "Sie haben %count% neue Nachricht"
+  },
+  "NEW_CRISP_MESSAGE.multiple": {
+    "message": "Sie haben %count% neue Nachrichten"
+  },
+  "IDENTIFY_GAMES.label": {
+    "message": "Spielverfolgung"
+  },
+  "IDENTIFY_GAMES.text": {
+    "message": "Hilf uns, die von Dir aufgenommenen Spiele zu identifizieren, damit wir Dir besseren Support bieten können."
+  },
+  "IDENTIFY_GAMES.link": {
+    "message": "[MARKIERE SPIELE](identifyGames)"
+  },
+  "WINDOWS_GAMEBAR.text": {
+    "message": "**Windows Spiel Modus** ist auf Deinem System aktiviert. Dies kann zu Problemen mit der Systemleistung in Deinem Stream führen."
+  },
+  "EXTENSION_RUNNING_IN_BACKGROUND.text": {
+    "message": "%name% läuft jetzt im Hintergrund. Du kannst dessen Einstellungen durch Anklicken des Zahnradsymbols [GEAR](ICON-GEAR) im Menü Erweiterungen neu konfigurieren."
+  }
+}

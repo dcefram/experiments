@@ -1,0 +1,1176 @@
+{
+  "messageDialog.okButton": {
+    "message": "crwdns4168:0crwdne4168:0"
+  },
+  "messageDialog.yesButton": {
+    "message": "crwdns14305:0crwdne14305:0"
+  },
+  "messageDialog.noButton": {
+    "message": "crwdns14306:0crwdne14306:0"
+  },
+  "messageDialog.helpButton": {
+    "message": "crwdns14307:0crwdne14307:0"
+  },
+  "messageDialog.cancelButton": {
+    "message": "crwdns14308:0crwdne14308:0"
+  },
+  "messageDialog.abortButton": {
+    "message": "crwdns14309:0crwdne14309:0"
+  },
+  "messageDialog.retryButton": {
+    "message": "crwdns14310:0crwdne14310:0"
+  },
+  "messageDialog.ignoreButton": {
+    "message": "crwdns14311:0crwdne14311:0"
+  },
+  "messageDialog.copyButton": {
+    "message": "crwdns122378:0crwdne122378:0"
+  },
+  "messageDialog.error": {
+    "message": "crwdns4171:0crwdne4171:0"
+  },
+  "messageDialog.question": {
+    "message": "crwdns4172:0crwdne4172:0"
+  },
+  "messageDialog.info": {
+    "message": "crwdns4173:0crwdne4173:0"
+  },
+  "messageDialog.warning": {
+    "message": "crwdns4174:0crwdne4174:0"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_GOOGLE_PLUS.title": {
+    "message": "crwdns5819:0crwdne5819:0"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_GOOGLE_PLUS.message": {
+    "message": "crwdns9757:0[br]crwdnd9757:0[%url%]crwdnd9757:0%url%crwdne9757:0",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_FACEBOOK.title": {
+    "message": "crwdns5821:0crwdne5821:0"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_FACEBOOK.message": {
+    "message": "crwdns9758:0[br]crwdnd9758:0%url%crwdne9758:0",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_TWITTER.title": {
+    "message": "crwdns5823:0crwdne5823:0"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_TWITTER.message": {
+    "message": "crwdns9759:0[br]crwdnd9759:0%url%crwdne9759:0",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_SENT_MESSAGE_ON_TWITTER.title": {
+    "message": "crwdns12855:0crwdne12855:0"
+  },
+  "messageDialog.messages.SUCCESSFULLY_SENT_MESSAGE_ON_TWITTER.message": {
+    "message": "crwdns12856:0crwdne12856:0",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_PLAYERME.title": {
+    "message": "crwdns12694:0crwdne12694:0"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_PLAYERME.message": {
+    "message": "crwdns12695:0[br]crwdnd12695:0%url%crwdne12695:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhileStreaming.title": {
+    "message": "crwdns5852:0crwdne5852:0"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhileStreaming.message": {
+    "message": "crwdns5853:0crwdne5853:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAacLicenseOffer.title": {
+    "message": "crwdns5854:0crwdne5854:0"
+  },
+  "messageDialog.messages.msgAacLicenseOffer.message": {
+    "message": "crwdns5855:0[br]crwdnd5855:0[br]crwdne5855:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver.title": {
+    "message": "crwdns5856:0crwdne5856:0"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver.message": {
+    "message": "crwdns5857:0[br]crwdnd5857:0[br]crwdne5857:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver1.title": {
+    "message": "crwdns5858:0crwdne5858:0"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver1.message": {
+    "message": "crwdns5859:0crwdne5859:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qs.title": {
+    "message": "crwdns5860:0crwdne5860:0"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qs.message": {
+    "message": "crwdns5971:0%licensetype%crwdnd5971:0[br]crwdnd5971:0[br]crwdne5971:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qsext.title": {
+    "message": "crwdns5862:0crwdne5862:0"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qsext.message": {
+    "message": "crwdns5863:0%licensetype%crwdnd5863:0[br]crwdnd5863:0[br]crwdne5863:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_AAC.title": {
+    "message": "crwdns5864:0crwdne5864:0"
+  },
+  "messageDialog.messages.msgLicenseOffer_AAC.message": {
+    "message": "crwdns5865:0[br]crwdnd5865:0[br]crwdne5865:0",
+    "type": "question"
+  },
+  "messageDialog.messages.UsernameIsEmpty.message": {
+    "message": "crwdns5866:0crwdne5866:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.PasswordIsEmpty.message": {
+    "message": "crwdns5867:0crwdne5867:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.StreamChannelIsEmpty.message": {
+    "message": "crwdns5868:0%service%crwdne5868:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.UsernameIsUnknown.message": {
+    "message": "crwdns5869:0crwdne5869:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.InvalidChannelCredentials.message": {
+    "message": "crwdns5870:0crwdne5870:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.PresetDoesNotExist.message": {
+    "message": "crwdns5871:0%preset%crwdne5871:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow.message": {
+    "message": "crwdns5872:0%bitrate%crwdne5872:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow_VBR.message": {
+    "message": "crwdns5873:0%bitrate%crwdne5873:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow_CBR.message": {
+    "message": "crwdns5874:0%bitrate%crwdne5874:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSaveBeforeCloseConfirmation.message": {
+    "message": "crwdns7350:0crwdne7350:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgDefaultStageResolutionWarning AVerMedia H.264 Encoder.message": {
+    "message": "crwdns5876:0crwdne5876:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDefaultStageResolutionWarning.message": {
+    "message": "crwdns5877:0[br]crwdnd5877:0[br]crwdnd5877:0[br]crwdnd5877:0[br]crwdne5877:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgChannelResolutionLicenseOffer.message": {
+    "message": "crwdns5878:0[br]crwdnd5878:0[br]crwdne5878:0",
+    "type": "question"
+  },
+  "messageDialog.messages.LivestreamUrlIsEmpty.title": {
+    "message": "crwdns5879:0crwdne5879:0"
+  },
+  "messageDialog.messages.LivestreamUrlIsEmpty.message": {
+    "message": "crwdns5880:0crwdne5880:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.LivestreamUrlIsInvalid.title": {
+    "message": "crwdns5881:0crwdne5881:0"
+  },
+  "messageDialog.messages.LivestreamUrlIsInvalid.message": {
+    "message": "crwdns5882:0crwdne5882:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhenAlreadyStreaming.title": {
+    "message": "crwdns5883:0crwdne5883:0"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhenAlreadyStreaming.message": {
+    "message": "crwdns5884:0crwdne5884:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgErrorSavingSettings.title": {
+    "message": "crwdns5885:0crwdne5885:0"
+  },
+  "messageDialog.messages.msgErrorSavingSettings.message": {
+    "message": "crwdns5886:0crwdne5886:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCreateYouTubeChannel.title": {
+    "message": "crwdns5887:0crwdne5887:0"
+  },
+  "messageDialog.messages.msgCreateYouTubeChannel.message": {
+    "message": "crwdns5888:0crwdne5888:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgEnsureNotSuspended.title": {
+    "message": "crwdns5889:0crwdne5889:0"
+  },
+  "messageDialog.messages.msgEnsureNotSuspended.message": {
+    "message": "crwdns5890:0crwdne5890:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGamesourceBuyXSplitOffer.title": {
+    "message": "crwdns5891:0crwdne5891:0"
+  },
+  "messageDialog.messages.msgGamesourceBuyXSplitOffer.message": {
+    "message": "crwdns5892:0[br]crwdnd5892:0[br]crwdnd5892:0[br]crwdne5892:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUsernameIsInvalid.title": {
+    "message": "crwdns5893:0crwdne5893:0"
+  },
+  "messageDialog.messages.msgUsernameIsInvalid.message": {
+    "message": "crwdns5894:0crwdne5894:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidScreenName.title": {
+    "message": "crwdns5895:0crwdne5895:0"
+  },
+  "messageDialog.messages.msgInvalidScreenName.message": {
+    "message": "crwdns5896:0crwdne5896:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation5.title": {
+    "message": "crwdns5897:0crwdne5897:0"
+  },
+  "messageDialog.messages.msgRegistrationValidation5.message": {
+    "message": "crwdns5898:0crwdne5898:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.FeatureIsNotSupportedByOS.title": {
+    "message": "crwdns5899:0crwdne5899:0"
+  },
+  "messageDialog.messages.FeatureIsNotSupportedByOS.message": {
+    "message": "crwdns5900:0crwdne5900:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDisallowDisableAeroTheme.title": {
+    "message": "crwdns5901:0crwdne5901:0"
+  },
+  "messageDialog.messages.msgDisallowDisableAeroTheme.message": {
+    "message": "crwdns5902:0[br]crwdnd5902:0[br]crwdne5902:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgVideoUploading.title": {
+    "message": "crwdns5903:0crwdne5903:0"
+  },
+  "messageDialog.messages.msgVideoUploading.message": {
+    "message": "crwdns5904:0crwdne5904:0",
+    "type": "error"
+  },
+  "messageDialog.messages.MicIsStereoMixCapable.title": {
+    "message": "crwdns5905:0crwdne5905:0"
+  },
+  "messageDialog.messages.MicIsStereoMixCapable.message": {
+    "message": "crwdns5906:0crwdne5906:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSaveAV_Failed.title": {
+    "message": "crwdns5907:0crwdne5907:0"
+  },
+  "messageDialog.messages.msgSaveAV_Failed.message": {
+    "message": "crwdns5908:0crwdne5908:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRegistrationValidation1.title": {
+    "message": "crwdns5909:0crwdne5909:0"
+  },
+  "messageDialog.messages.msgRegistrationValidation1.message": {
+    "message": "crwdns5910:0crwdne5910:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation7.title": {
+    "message": "crwdns5911:0crwdne5911:0"
+  },
+  "messageDialog.messages.msgRegistrationValidation7.message": {
+    "message": "crwdns5912:0crwdne5912:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation9.title": {
+    "message": "crwdns5913:0crwdne5913:0"
+  },
+  "messageDialog.messages.msgRegistrationValidation9.message": {
+    "message": "crwdns5914:0crwdne5914:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation4.title": {
+    "message": "crwdns5915:0crwdne5915:0"
+  },
+  "messageDialog.messages.msgRegistrationValidation4.message": {
+    "message": "crwdns5916:0crwdne5916:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSettingsValidation7.title": {
+    "message": "crwdns5917:0crwdne5917:0"
+  },
+  "messageDialog.messages.msgSettingsValidation7.message": {
+    "message": "crwdns5918:0crwdne5918:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSettingsSaved_SyncFailed.title": {
+    "message": "crwdns5919:0crwdne5919:0"
+  },
+  "messageDialog.messages.msgSettingsSaved_SyncFailed.message": {
+    "message": "crwdns5920:0%serverResponse%crwdne5920:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDuplicateUsername.title": {
+    "message": "crwdns5921:0crwdne5921:0"
+  },
+  "messageDialog.messages.msgDuplicateUsername.message": {
+    "message": "crwdns5922:0crwdne5922:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgProfileSyncFailed.title": {
+    "message": "crwdns5923:0crwdne5923:0"
+  },
+  "messageDialog.messages.msgProfileSyncFailed.message": {
+    "message": "crwdns5924:0[br]crwdnd5924:0[br]crwdnd5924:0%exception%crwdne5924:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCurrentResolutionIsNotSupported3.title": {
+    "message": "crwdns5925:0crwdne5925:0"
+  },
+  "messageDialog.messages.msgCurrentResolutionIsNotSupported3.message": {
+    "message": "crwdns5970:0%resolution%crwdne5970:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgShareFailed.title": {
+    "message": "crwdns5927:0crwdne5927:0"
+  },
+  "messageDialog.messages.msgShareFailed.message": {
+    "message": "crwdns5928:0%service%crwdnd5928:0[br]crwdnd5928:0[br]crwdnd5928:0%reason%crwdne5928:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgNoNetHasLocal.title": {
+    "message": "crwdns5929:0crwdne5929:0"
+  },
+  "messageDialog.messages.msgNoNetHasLocal.message": {
+    "message": "crwdns80900:0crwdne80900:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSrvFailedHasLocal.title": {
+    "message": "crwdns5939:0crwdne5939:0"
+  },
+  "messageDialog.messages.msgSrvFailedHasLocal.message": {
+    "message": "crwdns12696:0crwdne12696:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSrvFailedNoLocal.title": {
+    "message": "crwdns12697:0crwdne12697:0"
+  },
+  "messageDialog.messages.msgSrvFailedNoLocal.message": {
+    "message": "crwdns12698:0crwdne12698:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLoginToServerException.title": {
+    "message": "crwdns5945:0crwdne5945:0"
+  },
+  "messageDialog.messages.msgLoginToServerException.message": {
+    "message": "crwdns14225:0crwdne14225:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgLoginToServerException1.message": {
+    "message": "crwdns14226:0crwdne14226:0",
+    "type": "info"
+  },
+  "messageDialog.messages.activationReminderText.title": {
+    "message": "crwdns5948:0crwdne5948:0"
+  },
+  "messageDialog.messages.activationReminderText.message": {
+    "message": "crwdns5949:0[br]crwdnd5949:0[br]crwdne5949:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgUpdateCheckNone.title": {
+    "message": "crwdns5950:0crwdne5950:0"
+  },
+  "messageDialog.messages.msgUpdateCheckNone.message": {
+    "message": "crwdns80902:0crwdne80902:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedPlugins.title": {
+    "message": "crwdns5952:0crwdne5952:0"
+  },
+  "messageDialog.messages.msgUpdatedPlugins.message": {
+    "message": "crwdns5953:0[br]crwdnd5953:0[br]crwdnd5953:0%pluginlist%crwdnd5953:0[br]crwdnd5953:0[br]crwdne5953:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgAddinInstallationFailed.title": {
+    "message": "crwdns5954:0crwdne5954:0"
+  },
+  "messageDialog.messages.msgAddinInstallationFailed.message": {
+    "message": "crwdns5955:0[br]crwdnd5955:0[br]crwdne5955:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAddinInstallRestartFailed.title": {
+    "message": "crwdns5956:0crwdne5956:0"
+  },
+  "messageDialog.messages.msgAddinInstallRestartFailed.message": {
+    "message": "crwdns5957:0crwdne5957:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdateCheckFailed.title": {
+    "message": "crwdns5958:0crwdne5958:0"
+  },
+  "messageDialog.messages.msgUpdateCheckFailed.message": {
+    "message": "crwdns5959:0crwdne5959:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.FailureCreatingNonExistingFolder.title": {
+    "message": "crwdns5960:0crwdne5960:0"
+  },
+  "messageDialog.messages.FailureCreatingNonExistingFolder.message": {
+    "message": "crwdns5961:0%folder%crwdnd5961:0%exception%crwdne5961:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAddinLoadedFromPreviousSession.title": {
+    "message": "crwdns6033:0crwdne6033:0"
+  },
+  "messageDialog.messages.msgAddinLoadedFromPreviousSession.message": {
+    "message": "crwdns6034:0crwdne6034:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgD3DGearInstalled.title": {
+    "message": "crwdns5964:0crwdne5964:0"
+  },
+  "messageDialog.messages.msgD3DGearInstalled.message": {
+    "message": "crwdns5965:0crwdne5965:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgD3DGearRunning.title": {
+    "message": "crwdns5966:0crwdne5966:0"
+  },
+  "messageDialog.messages.msgD3DGearRunning.message": {
+    "message": "crwdns5967:0crwdne5967:0",
+    "type": "error"
+  },
+  "messageDialog.messages.NicoProps.UsernameIsEmpty.title": {
+    "message": "crwdns5975:0crwdne5975:0"
+  },
+  "messageDialog.messages.NicoProps.UsernameIsEmpty.message": {
+    "message": "crwdns5976:0crwdne5976:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.StreamChannelIsEmpty.title": {
+    "message": "crwdns5977:0crwdne5977:0"
+  },
+  "messageDialog.messages.frmTwitchProps.StreamChannelIsEmpty.message": {
+    "message": "crwdns5978:0crwdne5978:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmFc2.StreamChannelIsEmpty.title": {
+    "message": "crwdns5979:0crwdne5979:0"
+  },
+  "messageDialog.messages.frmFc2.StreamChannelIsEmpty.message": {
+    "message": "crwdns5980:0crwdne5980:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustinTVProps.StreamChannelIsEmpty.title": {
+    "message": "crwdns5981:0crwdne5981:0"
+  },
+  "messageDialog.messages.frmJustinTVProps.StreamChannelIsEmpty.message": {
+    "message": "crwdns5982:0crwdne5982:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmhitboxProps.StreamChannelIsEmpty.title": {
+    "message": "crwdns5983:0crwdne5983:0"
+  },
+  "messageDialog.messages.frmhitboxProps.StreamChannelIsEmpty.message": {
+    "message": "crwdns5984:0crwdne5984:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmhitboxProps.UsernameAndPasswordMismatch.title": {
+    "message": "crwdns5987:0crwdne5987:0"
+  },
+  "messageDialog.messages.frmhitboxProps.UsernameAndPasswordMismatch.message": {
+    "message": "crwdns5988:0crwdne5988:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidUsername.title": {
+    "message": "crwdns5989:0crwdne5989:0"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidUsername.message": {
+    "message": "crwdns5990:0crwdne5990:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAuthorizeAccountFirst.message": {
+    "message": "crwdns5991:0crwdne5991:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgConfirmAccountDeauthorization.message": {
+    "message": "crwdns5992:0crwdne5992:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_StartStream.message": {
+    "message": "crwdns5993:0%service%crwdnd5993:0%service%crwdnd5993:0[br]crwdnd5993:0[br]crwdne5993:0",
+    "type": "question"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleMaxCharsExceeded.title": {
+    "message": "crwdns5994:0crwdne5994:0"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleMaxCharsExceeded.message": {
+    "message": "crwdns5995:0%length%crwdne5995:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleHasInvalidChars.title": {
+    "message": "crwdns5996:0crwdne5996:0"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleHasInvalidChars.message": {
+    "message": "crwdns5997:0crwdne5997:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescMaxCharsExceeded.title": {
+    "message": "crwdns5998:0crwdne5998:0"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescMaxCharsExceeded.message": {
+    "message": "crwdns5999:0%length%crwdne5999:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescHasInvalidChars.title": {
+    "message": "crwdns6000:0crwdne6000:0"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescHasInvalidChars.message": {
+    "message": "crwdns6114:0crwdne6114:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsMaxCharsExceeded.title": {
+    "message": "crwdns6002:0crwdne6002:0"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsMaxCharsExceeded.message": {
+    "message": "crwdns6003:0%length%crwdne6003:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsHasInvalidChars.title": {
+    "message": "crwdns6004:0crwdne6004:0"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsHasInvalidChars.message": {
+    "message": "crwdns6005:0crwdne6005:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagMaxCharsExceeded.title": {
+    "message": "crwdns6006:0crwdne6006:0"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagMaxCharsExceeded.message": {
+    "message": "crwdns6007:0%tag%crwdne6007:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.EmailIsInvalid.title": {
+    "message": "crwdns6008:0crwdne6008:0"
+  },
+  "messageDialog.messages.frmYouTubeLive.EmailIsInvalid.message": {
+    "message": "crwdns6009:0crwdne6009:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgApiError.title": {
+    "message": "crwdns6010:0crwdne6010:0"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgApiError.message": {
+    "message": "crwdns6011:0crwdne6011:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgServerError.title": {
+    "message": "crwdns6012:0crwdne6012:0"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgServerError.message": {
+    "message": "crwdns6013:0crwdne6013:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleIsEmpty.title": {
+    "message": "crwdns6014:0crwdne6014:0"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleIsEmpty.message": {
+    "message": "crwdns6015:0crwdne6015:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustTVProps.UsernameIsUnknown.message": {
+    "message": "crwdns6016:0crwdne6016:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.UsernameIsUnknown.title": {
+    "message": "crwdns6017:0crwdne6017:0"
+  },
+  "messageDialog.messages.frmTwitchProps.UsernameIsUnknown.message": {
+    "message": "crwdns6018:0crwdne6018:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustinTVProps.InvalidChannelCredentials.title": {
+    "message": "crwdns6019:0crwdne6019:0"
+  },
+  "messageDialog.messages.frmJustinTVProps.InvalidChannelCredentials.message": {
+    "message": "crwdns6020:0crwdne6020:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidChannelCredentials.title": {
+    "message": "crwdns6021:0crwdne6021:0"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidChannelCredentials.message": {
+    "message": "crwdns6022:0crwdne6022:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.RECORDING_FILE_DELETE.title": {
+    "message": "crwdns7333:0crwdne7333:0"
+  },
+  "messageDialog.messages.RECORDING_FILE_DELETE.message": {
+    "message": "crwdns7343:0%file%crwdne7343:0",
+    "type": "question"
+  },
+  "messageDialog.messages.REPAIR_FILE.title": {
+    "message": "crwdns12699:0crwdne12699:0"
+  },
+  "messageDialog.messages.REPAIR_FILE.message": {
+    "message": "crwdns12700:0%file%crwdne12700:0",
+    "type": "question"
+  },
+  "messageDialog.messages.CONVERT_VIDEO_TO_MP4.title": {
+    "message": "crwdns12701:0crwdne12701:0",
+    "type": "question"
+  },
+  "messageDialog.messages.CONVERT_VIDEO_TO_MP4.message": {
+    "message": "crwdns12702:0%filename%crwdne12702:0",
+    "type": "question"
+  },
+  "messageDialog.messages.RECORDING_FILE_UNABLE_TO_DELETE.title": {
+    "message": "crwdns7335:0crwdne7335:0"
+  },
+  "messageDialog.messages.RECORDING_FILE_UNABLE_TO_DELETE.message": {
+    "message": "crwdns7336:0%file%crwdne7336:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.FUNCTION_NOT_AVAIL_NOINTERNET.title": {
+    "message": "crwdns7634:0crwdne7634:0",
+    "type": "error"
+  },
+  "messageDialog.messages.FUNCTION_NOT_AVAIL_NOINTERNET.message": {
+    "message": "crwdns7635:0crwdne7635:0"
+  },
+  "messageDialog.messages.msgLoginValidation1.title": {
+    "message": "crwdns7637:0crwdne7637:0"
+  },
+  "messageDialog.messages.msgLoginValidation1.message": {
+    "message": "crwdns7710:0crwdne7710:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidEmail.title": {
+    "message": "crwdns7639:0crwdne7639:0"
+  },
+  "messageDialog.messages.msgInvalidEmail.message": {
+    "message": "crwdns7640:0crwdne7640:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLoginValidation2.title": {
+    "message": "crwdns7641:0crwdne7641:0"
+  },
+  "messageDialog.messages.msgLoginValidation2.message": {
+    "message": "crwdns7642:0crwdne7642:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxFailedLogin.title": {
+    "message": "crwdns7645:0crwdne7645:0"
+  },
+  "messageDialog.messages.msgMaxFailedLogin.message": {
+    "message": "crwdns7646:0crwdne7646:0",
+    "type": "error"
+  },
+  "messageDialog.messages.servermessage_fdisdesc.message": {
+    "message": "crwdns80904:0crwdne80904:0",
+    "type": "error"
+  },
+  "messageDialog.messages.servermessage_dlogdesc.message": {
+    "message": "crwdns80906:0crwdne80906:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantRegisterOffline.message": {
+    "message": "crwdns7649:0crwdne7649:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgLoginFailedRecentAccount.message": {
+    "message": "crwdns80908:0crwdne80908:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgSavePresentation.message": {
+    "message": "crwdns7651:0crwdne7651:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgSavePresentationBeforeLoad.message": {
+    "message": "crwdns7652:0crwdne7652:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgMaxFps.message": {
+    "message": "crwdns11613:0%maxfps%crwdne11613:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgVeryHighFps.message": {
+    "message": "crwdns7654:0crwdne7654:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgGameComponentUpdate.message": {
+    "message": "crwdns7655:0crwdne7655:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgGameComponentUpdateFailed.message": {
+    "message": "crwdns7656:0crwdne7656:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGameComponentUpdateUnusualBehaviour.message": {
+    "message": "crwdns7657:0crwdne7657:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGameComponentUpdateTerminateXGCQuestion.message": {
+    "message": "crwdns7658:0crwdne7658:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgGameComponentUpdateRestart.message": {
+    "message": "crwdns7659:0crwdne7659:0",
+    "type": "error"
+  },
+  "messageDialog.messages.RtmpUrlIsEmpty.message": {
+    "message": "crwdns7660:0crwdne7660:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.RtmpUrlIsInvalid.message": {
+    "message": "crwdns7661:0crwdne7661:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.ChannelNameIsEmpty.message": {
+    "message": "crwdns7662:0crwdne7662:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.InvalidCharactersInChannelName.message": {
+    "message": "crwdns7663:0crwdne7663:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.StreamNameIsEmpty.message": {
+    "message": "crwdns7664:0crwdne7664:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.ShareLinkIsInvalid.message": {
+    "message": "crwdns7665:0crwdne7665:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.CloseDelay.message": {
+    "message": "crwdns7666:0crwdne7666:0",
+    "type": "question"
+  },
+  "messageDialog.messages.EnableEVR.message": {
+    "message": "crwdns7667:0crwdne7667:0",
+    "type": "question"
+  },
+  "messageDialog.messages.SystemSoundNotDefaultSpeakers.message": {
+    "message": "crwdns7668:0%defaultSpeakers%crwdne7668:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.PostRegisterFailed.message": {
+    "message": "crwdns7669:0crwdne7669:0",
+    "type": "error"
+  },
+  "messageDialog.messages.RegisterFailed.message": {
+    "message": "crwdns7670:0crwdne7670:0",
+    "type": "error"
+  },
+  "messageDialog.messages.RestartLogin.message": {
+    "message": "crwdns7671:0crwdne7671:0",
+    "type": "error"
+  },
+  "messageDialog.messages.LogoutWhileRecording.message": {
+    "message": "crwdns7672:0crwdne7672:0",
+    "type": "question"
+  },
+  "messageDialog.messages.PortBlocked.message": {
+    "message": "crwdns7673:0%serviceName%crwdnd7673:0[here]crwdnd7673:0[br]crwdnd7673:0[br]crwdne7673:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.NoInternetPortBlocked.message": {
+    "message": "crwdns7674:0%serviceName%crwdnd7674:0%serviceName%crwdne7674:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgEnableD3D.message": {
+    "message": "crwdns7677:0crwdne7677:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgAmdEnduroWarning.message": {
+    "message": "crwdns12421:0[br]crwdne12421:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantRemoveResolution.message": {
+    "message": "crwdns7679:0crwdne7679:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRecordingsAbortedOnInsufficientDiskSpace.message": {
+    "message": "crwdns7680:0%minFreeSpace%crwdne7680:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantCreateRecordingFile.message": {
+    "message": "crwdns7681:0%folder%crwdne7681:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantCreateRecordingOutDir.message": {
+    "message": "crwdns7682:0%folder%crwdne7682:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgMp4requiresAac.message": {
+    "message": "crwdns7683:0crwdne7683:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRecordingPathIsTooLong.message": {
+    "message": "crwdns7711:0%path%crwdne7711:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStreamingIsPrevented.message": {
+    "message": "crwdns7685:0crwdne7685:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgStreamingWhileOfflineIsNotAllowed.message": {
+    "message": "crwdns7686:0crwdne7686:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgMixerFpsNotSupportedByVideoCodec.message": {
+    "message": "crwdns9871:0%codec%crwdnd9871:0[br]crwdnd9871:0[br]crwdnd9871:0%fpslist%crwdnd9871:0[br]crwdnd9871:0[br]crwdne9871:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgVideoCodecMaxEncodeLimited.message": {
+    "message": "crwdns7688:0%codec%crwdnd7688:0%maxEncode%crwdne7688:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgPausedRecordingWarning1.message": {
+    "message": "crwdns7689:0%resumeRecording%crwdnd7689:0%broadcast%crwdnd7689:0[br]crwdnd7689:0[br]crwdne7689:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgPausedRecordingWarning.message": {
+    "message": "crwdns7690:0%hotkey%crwdnd7690:0[br]crwdnd7690:0[br]crwdne7690:0",
+    "type": "question"
+  },
+  "messageDialog.messages.ResolutionAlreadyExists.message": {
+    "message": "crwdns7691:0%width%crwdnd7691:0%height%crwdne7691:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidFramerate.message": {
+    "message": "crwdns7692:0crwdne7692:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgHighFps.message": {
+    "message": "crwdns7693:0crwdne7693:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.ChannelNameAlreadyExists.message": {
+    "message": "crwdns7694:0%channel%crwdne7694:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantDeleteChannel.message": {
+    "message": "crwdns7695:0crwdne7695:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedSourcePlugins.message": {
+    "message": "crwdns12382:0[br]crwdnd12382:0[br]crwdnd12382:0%pluginlist%crwdnd12382:0[br]crwdnd12382:0[br]crwdnd12382:0[br]crwdnd12382:0[br]crwdne12382:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePlugins_npw.message": {
+    "message": "crwdns12300:0[br]crwdnd12300:0[br]crwdnd12300:0%pluginlist%crwdnd12300:0[br]crwdnd12300:0[br]crwdne12300:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePluginsXbc5003.message": {
+    "message": "crwdns12383:0[br]crwdnd12383:0[br]crwdnd12383:0%pluginlist%crwdnd12383:0[br]crwdnd12383:0[br]crwdnd12383:0[br]crwdnd12383:0[br]crwdne12383:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePluginsXbc5003_npw.message": {
+    "message": "crwdns12301:0[br]crwdnd12301:0[br]crwdnd12301:0%pluginlist%crwdnd12301:0[br]crwdnd12301:0[br]crwdne12301:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePlugins.message": {
+    "message": "crwdns12384:0[br]crwdnd12384:0[br]crwdnd12384:0%pluginlist%crwdnd12384:0[br]crwdnd12384:0[br]crwdnd12384:0[br]crwdnd12384:0[br]crwdne12384:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePlugins_npw.message": {
+    "message": "crwdns12303:0[br]crwdnd12303:0[br]crwdnd12303:0%pluginlist%crwdnd12303:0[br]crwdnd12303:0[br]crwdne12303:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsXbc5003.message": {
+    "message": "crwdns12385:0[br]crwdnd12385:0[br]crwdnd12385:0%pluginlist%crwdnd12385:0[br]crwdnd12385:0[br]crwdnd12385:0[br]crwdnd12385:0[br]crwdne12385:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsXbc5003_npw.message": {
+    "message": "crwdns12304:0[br]crwdnd12304:0[br]crwdnd12304:0%pluginlist%crwdnd12304:0[br]crwdnd12304:0[br]crwdne12304:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsInStage.message": {
+    "message": "crwdns11947:0[br]crwdnd11947:0[br]crwdnd11947:0%pluginlist%crwdnd11947:0[br]crwdnd11947:0[br]crwdne11947:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsInStageXbc5003.message": {
+    "message": "crwdns11948:0[br]crwdnd11948:0[br]crwdnd11948:0%pluginlist%crwdnd11948:0[br]crwdnd11948:0[br]crwdne11948:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgInvalidTransitionTime.message": {
+    "message": "crwdns7699:0crwdne7699:0",
+    "type": "error"
+  },
+  "messageDialog.messages.PreviewMain_unableToCreateWindow.message": {
+    "message": "crwdns7700:0crwdne7700:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgHotKeyRegException6.message": {
+    "message": "crwdns7701:0[br]crwdnd7701:0[br]crwdnd7701:0%hotkeys%crwdne7701:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgHotKeyRegException5.message": {
+    "message": "crwdns7702:0[br]crwdnd7702:0[br]crwdnd7702:0%hotkeys%crwdne7702:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantEditActiveRecording.message": {
+    "message": "crwdns7703:0crwdne7703:0"
+  },
+  "messageDialog.messages.msgFlashConfigLoadFailure.message": {
+    "message": "crwdns7704:0%exceptionMessage%crwdne7704:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgFlashAxFailure.message": {
+    "message": "crwdns7705:0%failMessage%crwdne7705:0"
+  },
+  "messageDialog.messages.msgFlashAxNotInstalled.message": {
+    "message": "crwdns7706:0crwdne7706:0"
+  },
+  "messageDialog.messages.msgSourceHandlerIsMissing.message": {
+    "message": "crwdns7707:0crwdne7707:0"
+  },
+  "messageDialog.messages.msgSourceConfigurationHandlerIsMissing.message": {
+    "message": "crwdns7708:0crwdne7708:0"
+  },
+  "messageDialog.messages.msgCantEditActiveStream.message": {
+    "message": "crwdns7709:0crwdne7709:0"
+  },
+  "messageDialog.messages.msgLogSystemInformation.message": {
+    "message": "crwdns8005:0[br]crwdnd8005:0[br]crwdne8005:0"
+  },
+  "messageDialog.messages.msgGlobalScriptWarning.message": {
+    "message": "crwdns8006:0crwdne8006:0"
+  },
+  "messageDialog.messages.msgEVRWarning.message": {
+    "message": "crwdns8007:0crwdne8007:0"
+  },
+  "messageDialog.messages.INVALID_USER_TOKEN.message": {
+    "message": "crwdns8008:0crwdne8008:0"
+  },
+  "messageDialog.messages.DATABASE_ERROR_WAIT_TIMEOUT.title": {
+    "message": "crwdns8609:0crwdne8609:0"
+  },
+  "messageDialog.messages.DATABASE_ERROR_WAIT_TIMEOUT.message": {
+    "message": "crwdns8610:0crwdne8610:0",
+    "type": "error"
+  },
+  "messageDialog.messages.DATABASE_ERROR_INITIALIZATION.title": {
+    "message": "crwdns8611:0crwdne8611:0"
+  },
+  "messageDialog.messages.DATABASE_ERROR_INITIALIZATION.message": {
+    "message": "crwdns8612:0crwdne8612:0",
+    "type": "error"
+  },
+  "messageDialog.messages.ENABLE_SCRIPT_SECURITY.title": {
+    "message": "crwdns11528:0crwdne11528:0"
+  },
+  "messageDialog.messages.ENABLE_SCRIPT_SECURITY.message": {
+    "message": "crwdns11551:0crwdne11551:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.ALLOW_EXECUTE_SCRIPT.message": {
+    "message": "crwdns11552:0crwdne11552:0",
+    "type": "warning"
+  },
+  "messageDialog.checkbox.faststart": {
+    "message": "crwdns9156:0crwdne9156:0"
+  },
+  "messageDialog.messages.msgFullnameIsInvalid.message": {
+    "message": "crwdns11542:0crwdne11542:0"
+  },
+  "messageDialog.messages.msgSocialLoginIsTemporarilyDisabled.message": {
+    "message": "crwdns80910:0crwdne80910:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgNoLogoutFromSteam.message": {
+    "message": "crwdns121526:0crwdne121526:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgInvalidSteamAccountInfo.message": {
+    "message": "crwdns121528:0%message2%crwdne121528:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdateUsingSteamClientApp.message": {
+    "message": "crwdns121530:0crwdne121530:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUnableToLoginAccount_Social.message": {
+    "message": "crwdns80914:0%message2%crwdne80914:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUnableToLoginAccount_Steam.message": {
+    "message": "crwdns121532:0%message2%crwdne121532:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgOutdatedExtensions.message": {
+    "message": "crwdns12386:0[br]crwdnd12386:0[br]crwdnd12386:0%pluginlist%crwdnd12386:0[br]crwdnd12386:0[br]crwdnd12386:0[br]crwdnd12386:0[br]crwdne12386:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgOutdatedExtensions_npw.message": {
+    "message": "crwdns12305:0[br]crwdnd12305:0[br]crwdnd12305:0%pluginlist%crwdnd12305:0[br]crwdnd12305:0[br]crwdne12305:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedExtensions.message": {
+    "message": "crwdns12387:0[br]crwdnd12387:0[br]crwdnd12387:0%pluginlist%crwdnd12387:0[br]crwdnd12387:0[br]crwdnd12387:0[br]crwdnd12387:0[br]crwdne12387:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedExtensions_npw.message": {
+    "message": "crwdns12309:0[br]crwdnd12309:0[br]crwdnd12309:0%pluginlist%crwdnd12309:0[br]crwdnd12309:0[br]crwdne12309:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCoreDllNotRegistered.message": {
+    "message": "crwdns12013:0[here]crwdnd12013:0[br]crwdnd12013:0[br]crwdnd12013:0[br]crwdnd12013:0[br]crwdne12013:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCoreDllNotRegistered2.message": {
+    "message": "crwdns12335:0[here]crwdnd12335:0[br]crwdnd12335:0[br]crwdnd12335:0[here]crwdne12335:0",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCoreDllNotOK.message": {
+    "message": "crwdns12336:0[this]crwdnd12336:0[br]crwdnd12336:0[br]crwdnd12336:0[here]crwdne12336:0",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_CANNOT_OPEN_MULTIPLE_XVE.title": {
+    "message": "crwdns12237:0crwdne12237:0",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_CANNOT_OPEN_MULTIPLE_XVE.message": {
+    "message": "crwdns12238:0crwdne12238:0"
+  },
+  "messageDialog.messages.ERROR_MISSING_REQUIRED_PREREQ.title": {
+    "message": "crwdns12351:0crwdne12351:0",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_REQUIRED_PREREQ.message": {
+    "message": "crwdns12363:0[br]crwdnd12363:0[br]crwdnd12363:0%value%crwdnd12363:0[br]crwdne12363:0"
+  },
+  "messageDialog.messages.ERROR_MISSING_VCE_PREREQ.title": {
+    "message": "crwdns12353:0crwdne12353:0",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_VCE_PREREQ.message": {
+    "message": "crwdns13145:0[br]crwdnd13145:0[br]crwdnd13145:0%value%crwdne13145:0"
+  },
+  "messageDialog.messages.ERROR_MISSING_NET45_PREREQ.title": {
+    "message": "crwdns13246:0crwdne13246:0",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_NET45_PREREQ.message": {
+    "message": "crwdns13247:0[br]crwdnd13247:0[br]crwdnd13247:0%value%crwdne13247:0"
+  },
+  "messageDialog.messages.DELETE_SCENE.message": {
+    "message": "crwdns12703:0%scene%crwdne12703:0",
+    "type": "question"
+  },
+  "messageDialog.messages.DUPLICATE_HOTKEY.message": {
+    "message": "crwdns12704:0[br]crwdnd12704:0[br]crwdnd12704:0%value%crwdnd12704:0[br]crwdne12704:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.REMOVE_OUTPUT_ENTRY.message": {
+    "message": "crwdns12705:0%value%crwdne12705:0",
+    "type": "question"
+  },
+  "messageDialog.messages.INVALID_PATH.message": {
+    "message": "crwdns12706:0%path%crwdne12706:0",
+    "type": "error"
+  },
+  "messageDialog.messages.PATH_ACCESS_ERROR.message": {
+    "message": "crwdns12707:0%path%crwdne12707:0",
+    "type": "error"
+  },
+  "messageDialog.messages.CREATE_NON_EXISTING_PATH.message": {
+    "message": "crwdns18558:0%path%crwdne18558:0",
+    "type": "question"
+  },
+  "messageDialog.messages.PATH_DOES_NOT_EXIST.message": {
+    "message": "crwdns18559:0%path%crwdne18559:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.INVALID_URL.message": {
+    "message": "crwdns13580:0crwdne13580:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgPasteInfo.message": {
+    "message": "crwdns13926:0[radio]crwdnd13926:0[/radio]crwdnd13926:0[radio]crwdnd13926:0[/radio]crwdnd13926:0[br]crwdne13926:0",
+    "type": "info"
+  },
+  "messageDialog.radio.msgPasteInfo.pasteAsNewSource.message": {
+    "message": "crwdns13927:0crwdne13927:0"
+  },
+  "messageDialog.radio.msgPasteInfo.pasteAsLinkedSource.message": {
+    "message": "crwdns13928:0crwdne13928:0"
+  },
+  "messageDialog.messages.msgPlayoutFormat.message": {
+    "message": "crwdns122380:0[radio]crwdnd122380:0[/radio]crwdnd122380:0[radio]crwdnd122380:0[/radio]crwdnd122380:0[br]crwdnd122380:0%version%crwdne122380:0"
+  },
+  "messageDialog.radio.msgPlayoutFormat.noAlpha.message": {
+    "message": "crwdns121536:0crwdne121536:0"
+  },
+  "messageDialog.radio.msgPlayoutFormat.withAlpha.message": {
+    "message": "crwdns121538:0crwdne121538:0"
+  },
+  "messageDialog.checkbox.dontAskAgain": {
+    "message": "crwdns121540:0crwdne121540:0"
+  },
+  "messageDialog.messages.YOUTUBE_STOPPED_STREAMING.message": {
+    "message": "crwdns14100:0crwdne14100:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgInvalidXSplitAccountInfo2.message": {
+    "message": "crwdns80918:0crwdne80918:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidSteamAccountInfo2.message": {
+    "message": "crwdns121542:0crwdne121542:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidSocialAccountInfo2.message": {
+    "message": "crwdns80922:0crwdne80922:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.YOUTUBE_ULTRALOW_LATENCY_INFO.message": {
+    "message": "crwdns14187:0[br]crwdnd14187:0[br]crwdne14187:0",
+    "type": "info"
+  },
+  "messageDialog.messages.msgStingerNameIsEmpty.message": {
+    "message": "crwdns14188:0crwdne14188:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStingerAlreadyExists.message": {
+    "message": "crwdns14189:0crwdne14189:0",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStingerNameIsInvalid.message": {
+    "message": "crwdns14313:0crwdne14313:0",
+    "type": "error"
+  },
+  "messageDialog.messages.PRESENTATION_FOLDER_ALREADY_EXISTS.message": {
+    "message": "crwdns111041:0%foldername%crwdnd111041:0[br]crwdnd111041:0[br]crwdne111041:0",
+    "type": "question"
+  },
+  "messageDialog.messages.msgPluginLoadError.message": {
+    "message": "crwdns147818:0crwdne147818:0",
+    "type": "warning"
+  },
+  "messageDialog.dropdown.projectorBorder.label.message": {
+    "message": "crwdns121544:0crwdne121544:0"
+  },
+  "messageDialog.dropdown.projectorBorder.values.always.message": {
+    "message": "crwdns121546:0crwdne121546:0"
+  },
+  "messageDialog.dropdown.projectorBorder.values.shift.message": {
+    "message": "crwdns121548:0crwdne121548:0"
+  },
+  "messageDialog.dropdown.projectorBorder.values.never.message": {
+    "message": "crwdns121550:0crwdne121550:0"
+  }
+}

@@ -1,0 +1,3453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutBroadcaster" xml:space="preserve">
+    <value>crwdns4708:0crwdne4708:0</value>
+  </data>
+  <data name="AboutBroadcaster_Acknowledgements" xml:space="preserve">
+    <value>crwdns4709:0crwdne4709:0</value>
+  </data>
+  <data name="AboutBroadcaster_AcknowledgementsFullText" xml:space="preserve">
+    <value>crwdns4710:0crwdne4710:0</value>
+  </data>
+  <data name="AboutBroadcaster_LicenseLinkText" xml:space="preserve">
+    <value>crwdns4711:0crwdne4711:0</value>
+  </data>
+  <data name="aboutToolStripMenuItem" xml:space="preserve">
+    <value>crwdns4712:0crwdne4712:0</value>
+  </data>
+  <data name="addCameraToolStripMenuItem" xml:space="preserve">
+    <value>crwdns7104:0crwdne7104:0</value>
+  </data>
+  <data name="addCameraToolStripMenuItem2" xml:space="preserve">
+    <value>crwdns7105:0crwdne7105:0</value>
+  </data>
+  <data name="addChannelsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns4716:0crwdne4716:0</value>
+  </data>
+  <data name="addChannelsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>crwdns11950:0crwdne11950:0</value>
+  </data>
+  <data name="addGameTsmi2" xml:space="preserve">
+    <value>crwdns7107:0crwdne7107:0</value>
+  </data>
+  <data name="addMediaFileToolStripMenuItem2" xml:space="preserve">
+    <value>crwdns7109:0crwdne7109:0</value>
+  </data>
+  <data name="addMoreTsmi2" xml:space="preserve">
+    <value>crwdns7111:0crwdne7111:0</value>
+  </data>
+  <data name="addMoreTsmi2Xbc5003" xml:space="preserve">
+    <value>crwdns14626:0crwdne14626:0</value>
+  </data>
+  <data name="addRTSPSourceToolStripMenuItem" xml:space="preserve">
+    <value>crwdns4723:0crwdne4723:0</value>
+  </data>
+  <data name="addScreenRegionToolStripMenuItem2" xml:space="preserve">
+    <value>crwdns7113:0crwdne7113:0</value>
+  </data>
+  <data name="addSource" xml:space="preserve">
+    <value>crwdns4726:0crwdne4726:0</value>
+  </data>
+  <data name="addSource_Tooltip" xml:space="preserve">
+    <value>crwdns4727:0crwdne4727:0</value>
+  </data>
+  <data name="addSwfPluginToolStripMenuItem" xml:space="preserve">
+    <value>crwdns4728:0crwdne4728:0</value>
+  </data>
+  <data name="AddSwfRtmp" xml:space="preserve">
+    <value>crwdns4729:0crwdne4729:0</value>
+  </data>
+  <data name="addTitleToolStripMenuItem" xml:space="preserve">
+    <value>crwdns4730:0crwdne4730:0</value>
+  </data>
+  <data name="addUrlTsmi" xml:space="preserve">
+    <value>crwdns7114:0crwdne7114:0</value>
+  </data>
+  <data name="addUrlTsmi2" xml:space="preserve">
+    <value>crwdns7115:0crwdne7115:0</value>
+  </data>
+  <data name="announceToolStripMenuItem" xml:space="preserve">
+    <value>crwdns4733:0crwdne4733:0</value>
+  </data>
+  <data name="announceToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>crwdns11953:0crwdne11953:0</value>
+  </data>
+  <data name="AskToRetrySync" xml:space="preserve">
+    <value>crwdns4734:0crwdne4734:0</value>
+  </data>
+  <data name="BandwidthTester" xml:space="preserve">
+    <value>crwdns4735:0crwdne4735:0</value>
+  </data>
+  <data name="boostCaptureFramerateTsmi" xml:space="preserve">
+    <value>crwdns4736:0crwdne4736:0</value>
+  </data>
+  <data name="BroadcasterSceneX_desc" xml:space="preserve">
+    <value>crwdns12082:0[SceneX]crwdne12082:0</value>
+  </data>
+  <data name="BroadcasterScene1_desc" xml:space="preserve">
+    <value>crwdns4737:0[Scene1]crwdne4737:0</value>
+  </data>
+  <data name="BroadcasterScene10_desc" xml:space="preserve">
+    <value>crwdns4738:0[Scene10]crwdne4738:0</value>
+  </data>
+  <data name="BroadcasterScene11_desc" xml:space="preserve">
+    <value>crwdns4739:0[Scene11]crwdne4739:0</value>
+  </data>
+  <data name="BroadcasterScene12_desc" xml:space="preserve">
+    <value>crwdns4740:0[Scene12]crwdne4740:0</value>
+  </data>
+  <data name="BroadcasterScene2_desc" xml:space="preserve">
+    <value>crwdns4741:0[Scene2]crwdne4741:0</value>
+  </data>
+  <data name="BroadcasterScene3_desc" xml:space="preserve">
+    <value>crwdns4742:0[Scene3]crwdne4742:0</value>
+  </data>
+  <data name="BroadcasterScene4_desc" xml:space="preserve">
+    <value>crwdns4743:0[Scene4]crwdne4743:0</value>
+  </data>
+  <data name="BroadcasterScene5_desc" xml:space="preserve">
+    <value>crwdns4744:0[Scene5]crwdne4744:0</value>
+  </data>
+  <data name="BroadcasterScene6_desc" xml:space="preserve">
+    <value>crwdns4745:0[Scene6]crwdne4745:0</value>
+  </data>
+  <data name="BroadcasterScene7_desc" xml:space="preserve">
+    <value>crwdns4746:0[Scene7]crwdne4746:0</value>
+  </data>
+  <data name="BroadcasterScene8_desc" xml:space="preserve">
+    <value>crwdns4747:0[Scene8]crwdne4747:0</value>
+  </data>
+  <data name="BroadcasterScene9_desc" xml:space="preserve">
+    <value>crwdns4748:0[Scene9]crwdne4748:0</value>
+  </data>
+  <data name="BroadcasterSettings" xml:space="preserve">
+    <value>crwdns13794:0crwdne13794:0</value>
+  </data>
+  <data name="BroadcasterToggleBroadcast" xml:space="preserve">
+    <value>crwdns4750:0{0}crwdne4750:0</value>
+  </data>
+  <data name="BroadcasterToggleBroadcastXbc5003" xml:space="preserve">
+    <value>crwdns11954:0{0}crwdne11954:0</value>
+  </data>
+  <data name="BroadcasterToggleBroadcast1" xml:space="preserve">
+    <value>crwdns4751:0{0}crwdne4751:0</value>
+  </data>
+  <data name="BroadcasterToggleBroadcast2" xml:space="preserve">
+    <value>crwdns123360:0{0}crwdne123360:0</value>
+  </data>
+  <data name="BroadcasterTogglePauseRecording" xml:space="preserve">
+    <value>crwdns123362:0{0}crwdne123362:0</value>
+  </data>
+  <data name="BroadcasterToggleMic_desc" xml:space="preserve">
+    <value>crwdns4752:0crwdne4752:0</value>
+  </data>
+  <data name="BroadcasterToggleSpeaker_desc" xml:space="preserve">
+    <value>crwdns4753:0crwdne4753:0</value>
+  </data>
+  <data name="PTT_desc" xml:space="preserve">
+    <value>crwdns117766:0crwdne117766:0</value>
+  </data>
+  <data name="BroadcasterTogglePauseRecording_desc" xml:space="preserve">
+    <value>crwdns117768:0crwdne117768:0</value>
+  </data>
+  <data name="BroadcasterToggleOverlay_desc" xml:space="preserve">
+    <value>crwdns117770:0crwdne117770:0</value>
+  </data>
+  <data name="BroadcasterToggleOverlay2_desc" xml:space="preserve">
+    <value>crwdns117772:0crwdne117772:0</value>
+  </data>
+  <data name="BroadcasterResizeSource1_desc" xml:space="preserve">
+    <value>crwdns117774:0crwdne117774:0</value>
+  </data>
+  <data name="BroadcasterResizeSource2_desc" xml:space="preserve">
+    <value>crwdns117776:0crwdne117776:0</value>
+  </data>
+  <data name="BroadcasterResizeSource3_desc" xml:space="preserve">
+    <value>crwdns117778:0crwdne117778:0</value>
+  </data>
+  <data name="BroadcasterScnPreset1_desc" xml:space="preserve">
+    <value>crwdns117780:0crwdne117780:0</value>
+  </data>
+  <data name="BroadcasterScnPreset2_desc" xml:space="preserve">
+    <value>crwdns117782:0crwdne117782:0</value>
+  </data>
+  <data name="BroadcasterScnPreset3_desc" xml:space="preserve">
+    <value>crwdns117784:0crwdne117784:0</value>
+  </data>
+  <data name="BroadcastStatus_AcquiringConfiguration" xml:space="preserve">
+    <value>crwdns4754:0{0}crwdne4754:0</value>
+  </data>
+  <data name="BroadcastStatus_AcquiringConfigurationLR" xml:space="preserve">
+    <value>crwdns123364:0crwdne123364:0</value>
+  </data>
+  <data name="BroadcastStatus_InitiatingStream" xml:space="preserve">
+    <value>crwdns4755:0{0}crwdne4755:0</value>
+  </data>
+  <data name="BroadcastStatus_InitiatingStreamLR" xml:space="preserve">
+    <value>crwdns123366:0crwdne123366:0</value>
+  </data>
+  <data name="BroadcastStatus_Streaming" xml:space="preserve">
+    <value>crwdns4756:0{0}crwdne4756:0</value>
+  </data>
+  <data name="broadcastToolStripMenuItem" xml:space="preserve">
+    <value>crwdns4757:0crwdne4757:0</value>
+  </data>
+  <data name="broadcastToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>crwdns11955:0crwdne11955:0</value>
+  </data>
+  <data name="btnAddChannel" xml:space="preserve">
+    <value>crwdns4758:0crwdne4758:0</value>
+  </data>
+  <data name="btnAddRes" xml:space="preserve">
+    <value>crwdns4759:0crwdne4759:0</value>
+  </data>
+  <data name="btnAddService" xml:space="preserve">
+    <value>crwdns4760:0crwdne4760:0</value>
+  </data>
+  <data name="btnApply" xml:space="preserve">
+    <value>crwdns4761:0crwdne4761:0</value>
+  </data>
+  <data name="btnAuthorize" xml:space="preserve">
+    <value>crwdns4762:0crwdne4762:0</value>
+  </data>
+  <data name="btnCamDS" xml:space="preserve">
+    <value>crwdns4763:0crwdne4763:0</value>
+  </data>
+  <data name="btnCancel" xml:space="preserve">
+    <value>crwdns4764:0crwdne4764:0</value>
+  </data>
+  <data name="btnCheckAllRes" xml:space="preserve">
+    <value>crwdns4765:0crwdne4765:0</value>
+  </data>
+  <data name="btnClearAllRes" xml:space="preserve">
+    <value>crwdns4766:0crwdne4766:0</value>
+  </data>
+  <data name="btnColorChromaEyedrop" xml:space="preserve">
+    <value>crwdns4767:0crwdne4767:0</value>
+  </data>
+  <data name="btnColorPicReset" xml:space="preserve">
+    <value>crwdns4768:0crwdne4768:0</value>
+  </data>
+  <data name="btnContinue" xml:space="preserve">
+    <value>crwdns4769:0crwdne4769:0</value>
+  </data>
+  <data name="btnEditChannel" xml:space="preserve">
+    <value>crwdns4770:0crwdne4770:0</value>
+  </data>
+  <data name="btnEditRes" xml:space="preserve">
+    <value>crwdns4771:0crwdne4771:0</value>
+  </data>
+  <data name="btnFinish" xml:space="preserve">
+    <value>crwdns79196:0crwdne79196:0</value>
+  </data>
+  <data name="btnLiveApply" xml:space="preserve">
+    <value>crwdns4773:0crwdne4773:0</value>
+  </data>
+  <data name="btnLogin" xml:space="preserve">
+    <value>crwdns81582:0crwdne81582:0</value>
+  </data>
+  <data name="btnLogout" xml:space="preserve">
+    <value>crwdns4775:0crwdne4775:0</value>
+  </data>
+  <data name="btnPos3DReset" xml:space="preserve">
+    <value>crwdns4776:0crwdne4776:0</value>
+  </data>
+  <data name="btnPosCropReset" xml:space="preserve">
+    <value>crwdns4777:0crwdne4777:0</value>
+  </data>
+  <data name="btnRemoveChannel" xml:space="preserve">
+    <value>crwdns4778:0crwdne4778:0</value>
+  </data>
+  <data name="btnRemoveRes" xml:space="preserve">
+    <value>crwdns4779:0crwdne4779:0</value>
+  </data>
+  <data name="btnRestoreAdvancedSettings" xml:space="preserve">
+    <value>crwdns4780:0crwdne4780:0</value>
+  </data>
+  <data name="btnRestoreDefaultHotKeys" xml:space="preserve">
+    <value>crwdns4781:0crwdne4781:0</value>
+  </data>
+  <data name="btnRestoreInternalSettings" xml:space="preserve">
+    <value>crwdns4782:0crwdne4782:0</value>
+  </data>
+  <data name="btnRestoreResolutions" xml:space="preserve">
+    <value>crwdns4783:0crwdne4783:0</value>
+  </data>
+  <data name="btnScrCapReset" xml:space="preserve">
+    <value>crwdns4784:0crwdne4784:0</value>
+  </data>
+  <data name="btnSignIn" xml:space="preserve">
+    <value>crwdns4785:0crwdne4785:0</value>
+  </data>
+  <data name="btnSignOut" xml:space="preserve">
+    <value>crwdns4786:0crwdne4786:0</value>
+  </data>
+  <data name="btnStartTest_2" xml:space="preserve">
+    <value>crwdns4787:0crwdne4787:0</value>
+  </data>
+  <data name="btnUpdateChannel" xml:space="preserve">
+    <value>crwdns4788:0crwdne4788:0</value>
+  </data>
+  <data name="btnVidCueAddCuePoint" xml:space="preserve">
+    <value>crwdns4789:0crwdne4789:0</value>
+  </data>
+  <data name="btnVidCueDelete" xml:space="preserve">
+    <value>crwdns4790:0crwdne4790:0</value>
+  </data>
+  <data name="btnVidCueEditCuePoint" xml:space="preserve">
+    <value>crwdns4791:0crwdne4791:0</value>
+  </data>
+  <data name="btnVidPlayReset" xml:space="preserve">
+    <value>crwdns4792:0crwdne4792:0</value>
+  </data>
+  <data name="btnVidPlaySetEndTime" xml:space="preserve">
+    <value>crwdns4793:0crwdne4793:0</value>
+  </data>
+  <data name="btnVidPlaySetStartTime" xml:space="preserve">
+    <value>crwdns4794:0crwdne4794:0</value>
+  </data>
+  <data name="btnXSplitSearch" xml:space="preserve">
+    <value>crwdns4795:0crwdne4795:0</value>
+  </data>
+  <data name="BwTester_Aborted" xml:space="preserve">
+    <value>crwdns4796:0crwdne4796:0</value>
+  </data>
+  <data name="BwTester_Done" xml:space="preserve">
+    <value>crwdns4797:0crwdne4797:0</value>
+  </data>
+  <data name="BwTester_FinalStats" xml:space="preserve">
+    <value>crwdns4798:0{0}crwdne4798:0</value>
+  </data>
+  <data name="BwTester_Green" xml:space="preserve">
+    <value>crwdns4799:0crwdne4799:0</value>
+  </data>
+  <data name="BwTester_Init0" xml:space="preserve">
+    <value>crwdns4800:0{0}crwdne4800:0</value>
+  </data>
+  <data name="BwTester_Init01" xml:space="preserve">
+    <value>crwdns4801:0{0}crwdnd4801:0{1}crwdne4801:0</value>
+  </data>
+  <data name="BwTester_Init1" xml:space="preserve">
+    <value>crwdns4802:0crwdne4802:0</value>
+  </data>
+  <data name="BwTester_Init2" xml:space="preserve">
+    <value>crwdns4803:0crwdne4803:0</value>
+  </data>
+  <data name="BwTester_Red" xml:space="preserve">
+    <value>crwdns4804:0crwdne4804:0</value>
+  </data>
+  <data name="BwTester_RedOffer" xml:space="preserve">
+    <value>crwdns4805:0{0}crwdne4805:0</value>
+  </data>
+  <data name="BwTester_RedOffer2" xml:space="preserve">
+    <value>crwdns4806:0{0}crwdne4806:0</value>
+  </data>
+  <data name="BwTester_Sending" xml:space="preserve">
+    <value>crwdns4807:0{1:0}crwdnd4807:0{0}crwdne4807:0</value>
+  </data>
+  <data name="BwTester_Sending1" xml:space="preserve">
+    <value>crwdns4808:0{0}crwdne4808:0</value>
+  </data>
+  <data name="BwTester_Sending2" xml:space="preserve">
+    <value>crwdns13735:0{0}crwdne13735:0</value>
+  </data>
+  <data name="BwTester_Sending3" xml:space="preserve">
+    <value>crwdns13736:0{1:0}crwdnd13736:0{0}crwdne13736:0</value>
+  </data>
+  <data name="BwTester_AvgBitrate" xml:space="preserve">
+    <value>crwdns4809:0{0}crwdne4809:0</value>
+  </data>
+  <data name="BwTester_Yellow" xml:space="preserve">
+    <value>crwdns4810:0crwdne4810:0</value>
+  </data>
+  <data name="BwTester_ResultLegend" xml:space="preserve">
+    <value>crwdns4811:0crwdne4811:0</value>
+  </data>
+  <data name="BwTester_YellowOffer" xml:space="preserve">
+    <value>crwdns4812:0{0}crwdne4812:0</value>
+  </data>
+  <data name="BwTester_YellowOffer2" xml:space="preserve">
+    <value>crwdns4813:0{0}crwdne4813:0</value>
+  </data>
+  <data name="cboMaxBitrate_Tooltip" xml:space="preserve">
+    <value>crwdns4814:0crwdne4814:0</value>
+  </data>
+  <data name="cboQuality_Tooltip" xml:space="preserve">
+    <value>crwdns4815:0crwdne4815:0</value>
+  </data>
+  <data name="cboVBitrate_Auto" xml:space="preserve">
+    <value>crwdns4816:0crwdne4816:0</value>
+  </data>
+  <data name="ChannelNameAlreadyExists" xml:space="preserve">
+    <value>crwdns4817:0{0}crwdne4817:0</value>
+  </data>
+  <data name="ChannelNameIsEmpty" xml:space="preserve">
+    <value>crwdns4818:0crwdne4818:0</value>
+  </data>
+  <data name="checkStatus" xml:space="preserve">
+    <value>crwdns4819:0crwdne4819:0</value>
+  </data>
+  <data name="checkStatus_Tier4" xml:space="preserve">
+    <value>crwdns4820:0crwdne4820:0</value>
+  </data>
+  <data name="checkUpdatesToolStripMenuItem" xml:space="preserve">
+    <value>crwdns4821:0crwdne4821:0</value>
+  </data>
+  <data name="chkAdvCapSpkrOut" xml:space="preserve">
+    <value>crwdns4822:0crwdne4822:0</value>
+  </data>
+  <data name="chkAlwaysEnableAero" xml:space="preserve">
+    <value>crwdns4823:0crwdne4823:0</value>
+  </data>
+  <data name="chkAutoLogin" xml:space="preserve">
+    <value>crwdns4824:0crwdne4824:0</value>
+  </data>
+  <data name="chkColorChromaKey" xml:space="preserve">
+    <value>crwdns4825:0crwdne4825:0</value>
+  </data>
+  <data name="chkDisableAero" xml:space="preserve">
+    <value>crwdns4826:0crwdne4826:0</value>
+  </data>
+  <data name="chkEnableGameSource" xml:space="preserve">
+    <value>crwdns4827:0crwdne4827:0</value>
+  </data>
+  <data name="chkEnableGameSource_Tooltip" xml:space="preserve">
+    <value>crwdns4828:0crwdne4828:0</value>
+  </data>
+  <data name="chkEnableSkypeInteraction" xml:space="preserve">
+    <value>crwdns4829:0crwdne4829:0</value>
+  </data>
+  <data name="chkEnableVCamOutput" xml:space="preserve">
+    <value>crwdns4830:0crwdne4830:0</value>
+  </data>
+  <data name="chkGain" xml:space="preserve">
+    <value>crwdns4831:0crwdne4831:0</value>
+  </data>
+  <data name="chkLogSysInfo" xml:space="preserve">
+    <value>crwdns4832:0crwdne4832:0</value>
+  </data>
+  <data name="chkLogSysInfo_Tooltip" xml:space="preserve">
+    <value>crwdns4833:0crwdne4833:0</value>
+  </data>
+  <data name="chkPosKeepAR" xml:space="preserve">
+    <value>crwdns4834:0crwdne4834:0</value>
+  </data>
+  <data name="chkPosLock" xml:space="preserve">
+    <value>crwdns4835:0crwdne4835:0</value>
+  </data>
+  <data name="chkRecordStream" xml:space="preserve">
+    <value>crwdns4836:0crwdne4836:0</value>
+  </data>
+  <data name="chkRememberMe" xml:space="preserve">
+    <value>crwdns4837:0crwdne4837:0</value>
+  </data>
+  <data name="chkScrCapLayered" xml:space="preserve">
+    <value>crwdns4838:0crwdne4838:0</value>
+  </data>
+  <data name="chkScrCapNoAero" xml:space="preserve">
+    <value>crwdns4840:0crwdne4840:0</value>
+  </data>
+  <data name="chkScrCapOptiTextResize" xml:space="preserve">
+    <value>crwdns4842:0crwdne4842:0</value>
+  </data>
+  <data name="chkScrCapShowMouse" xml:space="preserve">
+    <value>crwdns4843:0crwdne4843:0</value>
+  </data>
+  <data name="chkScrCapShowMouseclicks" xml:space="preserve">
+    <value>crwdns4844:0crwdne4844:0</value>
+  </data>
+  <data name="chkSkipIntro" xml:space="preserve">
+    <value>crwdns4845:0crwdne4845:0</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace" xml:space="preserve">
+    <value>crwdns4846:0crwdne4846:0</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace1" xml:space="preserve">
+    <value>crwdns4847:0crwdne4847:0</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace2" xml:space="preserve">
+    <value>crwdns4848:0crwdne4848:0</value>
+  </data>
+  <data name="chkVidPlayRememberPosition" xml:space="preserve">
+    <value>crwdns4849:0crwdne4849:0</value>
+  </data>
+  <data name="chkVidPlayStartOnLoad" xml:space="preserve">
+    <value>crwdns4850:0crwdne4850:0</value>
+  </data>
+  <data name="clockTransition" xml:space="preserve">
+    <value>crwdns4851:0crwdne4851:0</value>
+  </data>
+  <data name="collapseTransition" xml:space="preserve">
+    <value>crwdns4852:0crwdne4852:0</value>
+  </data>
+  <data name="ConfirmCreationOfNonExistingFolder" xml:space="preserve">
+    <value>crwdns4853:0{0}crwdne4853:0</value>
+  </data>
+  <data name="contentToolStripMenuItem" xml:space="preserve">
+    <value>crwdns7116:0crwdne7116:0</value>
+  </data>
+  <data name="CustomFramerateLabel" xml:space="preserve">
+    <value>crwdns4877:0crwdne4877:0</value>
+  </data>
+  <data name="debugOptions" xml:space="preserve">
+    <value>crwdns4878:0crwdne4878:0</value>
+  </data>
+  <data name="editChannelsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns4879:0crwdne4879:0</value>
+  </data>
+  <data name="EditCuePoints" xml:space="preserve">
+    <value>crwdns4880:0crwdne4880:0</value>
+  </data>
+  <data name="editResolutions" xml:space="preserve">
+    <value>crwdns4881:0crwdne4881:0</value>
+  </data>
+  <data name="enableVcamWhileStreamingTsmi" xml:space="preserve">
+    <value>crwdns4882:0crwdne4882:0</value>
+  </data>
+  <data name="exitToolStripMenuItem" xml:space="preserve">
+    <value>crwdns4883:0crwdne4883:0</value>
+  </data>
+  <data name="ExternalViewport" xml:space="preserve">
+    <value>crwdns4884:0crwdne4884:0</value>
+  </data>
+  <data name="externalViewportTsmi" xml:space="preserve">
+    <value>crwdns4885:0crwdne4885:0</value>
+  </data>
+  <data name="fadeTransition" xml:space="preserve">
+    <value>crwdns4886:0crwdne4886:0</value>
+  </data>
+  <data name="FailureCreatingNonExistingFolder" xml:space="preserve">
+    <value>crwdns4887:0{0}crwdnd4887:0{1}crwdne4887:0</value>
+  </data>
+  <data name="fanTransition" xml:space="preserve">
+    <value>crwdns4888:0crwdne4888:0</value>
+  </data>
+  <data name="feedbackToolStripMenuItem" xml:space="preserve">
+    <value>crwdns7547:0crwdne7547:0</value>
+  </data>
+  <data name="fileToolStripMenuItem" xml:space="preserve">
+    <value>crwdns4891:0crwdne4891:0</value>
+  </data>
+  <data name="folderLocationLabel" xml:space="preserve">
+    <value>crwdns4892:0crwdne4892:0</value>
+  </data>
+  <data name="frameRateToolStripMenuItem" xml:space="preserve">
+    <value>crwdns4893:0crwdne4893:0</value>
+  </data>
+  <data name="FreePopup" xml:space="preserve">
+    <value>crwdns4894:0crwdne4894:0</value>
+  </data>
+  <data name="frmAnnounce" xml:space="preserve">
+    <value>crwdns7715:0crwdne7715:0</value>
+  </data>
+  <data name="frmChannelProps" xml:space="preserve">
+    <value>crwdns4897:0crwdne4897:0</value>
+  </data>
+  <data name="gainLatencyLabel" xml:space="preserve">
+    <value>crwdns4898:0crwdne4898:0</value>
+  </data>
+  <data name="grpAudio" xml:space="preserve">
+    <value>crwdns4899:0crwdne4899:0</value>
+  </data>
+  <data name="grpAudioEncoding" xml:space="preserve">
+    <value>crwdns4900:0crwdne4900:0</value>
+  </data>
+  <data name="grpChannel" xml:space="preserve">
+    <value>crwdns4901:0crwdne4901:0</value>
+  </data>
+  <data name="grpEncoding" xml:space="preserve">
+    <value>crwdns4902:0crwdne4902:0</value>
+  </data>
+  <data name="grpGeneral" xml:space="preserve">
+    <value>crwdns4903:0crwdne4903:0</value>
+  </data>
+  <data name="grpMyRecordings" xml:space="preserve">
+    <value>crwdns12162:0crwdne12162:0</value>
+  </data>
+  <data name="grpVideoEncoding" xml:space="preserve">
+    <value>crwdns4905:0crwdne4905:0</value>
+  </data>
+  <data name="helpToolStripMenuItem" xml:space="preserve">
+    <value>crwdns4906:0crwdne4906:0</value>
+  </data>
+  <data name="holeTransition" xml:space="preserve">
+    <value>crwdns4907:0crwdne4907:0</value>
+  </data>
+  <data name="InputCustomFramerate" xml:space="preserve">
+    <value>crwdns4908:0crwdne4908:0</value>
+  </data>
+  <data name="InvalidChannelCredentials" xml:space="preserve">
+    <value>crwdns4909:0crwdne4909:0</value>
+  </data>
+  <data name="InvalidCharactersInChannelName" xml:space="preserve">
+    <value>crwdns4910:0crwdne4910:0</value>
+  </data>
+  <data name="label1BroadcastShare" xml:space="preserve">
+    <value>crwdns7118:0{0}crwdnd7118:0{1}crwdne7118:0</value>
+  </data>
+  <data name="label1BroadcastShare1" xml:space="preserve">
+    <value>crwdns7119:0{0}crwdne7119:0</value>
+  </data>
+  <data name="label1BroadcastShare2" xml:space="preserve">
+    <value>crwdns14847:0crwdne14847:0</value>
+  </data>
+  <data name="label1BroadcastShare3" xml:space="preserve">
+    <value>crwdns123368:0crwdne123368:0</value>
+  </data>
+  <data name="label1BroadcastShare4" xml:space="preserve">
+    <value>crwdns123370:0{0}crwdne123370:0</value>
+  </data>
+  <data name="label3" xml:space="preserve">
+    <value>crwdns4913:0crwdne4913:0</value>
+  </data>
+  <data name="label4" xml:space="preserve">
+    <value>crwdns4914:0crwdne4914:0</value>
+  </data>
+  <data name="LatestNews" xml:space="preserve">
+    <value>crwdns4916:0crwdne4916:0</value>
+  </data>
+  <data name="latestNewsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns4917:0crwdne4917:0</value>
+  </data>
+  <data name="lblAbitrate" xml:space="preserve">
+    <value>crwdns4918:0crwdne4918:0</value>
+  </data>
+  <data name="lblACodec" xml:space="preserve">
+    <value>crwdns4919:0crwdne4919:0</value>
+  </data>
+  <data name="lblAudioBitrate" xml:space="preserve">
+    <value>crwdns4920:0crwdne4920:0</value>
+  </data>
+  <data name="lblAudioFormat" xml:space="preserve">
+    <value>crwdns4921:0crwdne4921:0</value>
+  </data>
+  <data name="lblAudioIn" xml:space="preserve">
+    <value>crwdns4922:0crwdne4922:0</value>
+  </data>
+  <data name="lblBirthDay" xml:space="preserve">
+    <value>crwdns4923:0crwdne4923:0</value>
+  </data>
+  <data name="lblBufferSize" xml:space="preserve">
+    <value>crwdns4924:0crwdne4924:0</value>
+  </data>
+  <data name="lblBufferSize_Tooltip" xml:space="preserve">
+    <value>crwdns4925:0crwdne4925:0</value>
+  </data>
+  <data name="lblBufferTime" xml:space="preserve">
+    <value>crwdns4926:0crwdne4926:0</value>
+  </data>
+  <data name="lblCamDS" xml:space="preserve">
+    <value>crwdns4927:0crwdne4927:0</value>
+  </data>
+  <data name="lblCamDSHint" xml:space="preserve">
+    <value>crwdns4928:0{0}crwdne4928:0</value>
+  </data>
+  <data name="lblChannelNameLabel" xml:space="preserve">
+    <value>crwdns4929:0crwdne4929:0</value>
+  </data>
+  <data name="lblCodec" xml:space="preserve">
+    <value>crwdns4930:0crwdne4930:0</value>
+  </data>
+  <data name="lblColorChromaSel" xml:space="preserve">
+    <value>crwdns4931:0crwdne4931:0</value>
+  </data>
+  <data name="lblColorPicture" xml:space="preserve">
+    <value>crwdns4932:0crwdne4932:0</value>
+  </data>
+  <data name="lblCountry" xml:space="preserve">
+    <value>crwdns4933:0crwdne4933:0</value>
+  </data>
+  <data name="lblCuePoints" xml:space="preserve">
+    <value>crwdns4934:0crwdne4934:0</value>
+  </data>
+  <data name="lblCuePointsHint" xml:space="preserve">
+    <value>crwdns4935:0crwdne4935:0</value>
+  </data>
+  <data name="lblDescription" xml:space="preserve">
+    <value>crwdns4936:0crwdne4936:0</value>
+  </data>
+  <data name="lblDescription_Tooltip" xml:space="preserve">
+    <value>crwdns4937:0crwdne4937:0</value>
+  </data>
+  <data name="lblEmail" xml:space="preserve">
+    <value>crwdns4938:0crwdne4938:0</value>
+  </data>
+  <data name="lblFileType" xml:space="preserve">
+    <value>crwdns4939:0crwdne4939:0</value>
+  </data>
+  <data name="lblFlashPlayback" xml:space="preserve">
+    <value>crwdns4940:0crwdne4940:0</value>
+  </data>
+  <data name="lblFlashUserAgent" xml:space="preserve">
+    <value>crwdns4941:0crwdne4941:0</value>
+  </data>
+  <data name="lblFramerate" xml:space="preserve">
+    <value>crwdns4942:0crwdne4942:0</value>
+  </data>
+  <data name="lblFramerate_Tooltip" xml:space="preserve">
+    <value>crwdns4943:0crwdne4943:0</value>
+  </data>
+  <data name="lblFullName" xml:space="preserve">
+    <value>crwdns4944:0crwdne4944:0</value>
+  </data>
+  <data name="lblGain" xml:space="preserve">
+    <value>crwdns4945:0crwdne4945:0</value>
+  </data>
+  <data name="lblGender" xml:space="preserve">
+    <value>crwdns4946:0crwdne4946:0</value>
+  </data>
+  <data name="lblIngest" xml:space="preserve">
+    <value>crwdns4947:0crwdne4947:0</value>
+  </data>
+  <data name="lblInternal2" xml:space="preserve">
+    <value>crwdns4948:0crwdne4948:0</value>
+  </data>
+  <data name="lblInternal3" xml:space="preserve">
+    <value>crwdns4949:0crwdne4949:0</value>
+  </data>
+  <data name="lblLanguage" xml:space="preserve">
+    <value>crwdns4950:0crwdne4950:0</value>
+  </data>
+  <data name="lblLink" xml:space="preserve">
+    <value>crwdns4951:0crwdne4951:0</value>
+  </data>
+  <data name="lblLink_Tooltip" xml:space="preserve">
+    <value>crwdns4952:0crwdne4952:0</value>
+  </data>
+  <data name="lblLivePassword" xml:space="preserve">
+    <value>crwdns4953:0crwdne4953:0</value>
+  </data>
+  <data name="lblLivePlayback" xml:space="preserve">
+    <value>crwdns4954:0crwdne4954:0</value>
+  </data>
+  <data name="lblLiveSource" xml:space="preserve">
+    <value>crwdns4955:0crwdne4955:0</value>
+  </data>
+  <data name="lblLiveStreamName" xml:space="preserve">
+    <value>crwdns4956:0crwdne4956:0</value>
+  </data>
+  <data name="lblLiveUsername" xml:space="preserve">
+    <value>crwdns4957:0crwdne4957:0</value>
+  </data>
+  <data name="lblLoginTitle" xml:space="preserve">
+    <value>crwdns4958:0crwdne4958:0</value>
+  </data>
+  <data name="lblMaxBitrate" xml:space="preserve">
+    <value>crwdns4959:0crwdne4959:0</value>
+  </data>
+  <data name="lblMaxBitrate_Tooltip" xml:space="preserve">
+    <value>crwdns4960:0crwdne4960:0</value>
+  </data>
+  <data name="lblName" xml:space="preserve">
+    <value>crwdns4961:0crwdne4961:0</value>
+  </data>
+  <data name="lblName_Tooltip" xml:space="preserve">
+    <value>crwdns4962:0crwdne4962:0</value>
+  </data>
+  <data name="lblPassword" xml:space="preserve">
+    <value>crwdns4963:0crwdne4963:0</value>
+  </data>
+  <data name="lblPos" xml:space="preserve">
+    <value>crwdns4964:0crwdne4964:0</value>
+  </data>
+  <data name="lblPos3DHint" xml:space="preserve">
+    <value>crwdns4965:0crwdne4965:0</value>
+  </data>
+  <data name="lblPosCrop" xml:space="preserve">
+    <value>crwdns4966:0crwdne4966:0</value>
+  </data>
+  <data name="lblPosCropBottom" xml:space="preserve">
+    <value>crwdns4967:0crwdne4967:0</value>
+  </data>
+  <data name="lblPosCropLeft" xml:space="preserve">
+    <value>crwdns4968:0crwdne4968:0</value>
+  </data>
+  <data name="lblPosCropRight" xml:space="preserve">
+    <value>crwdns4969:0crwdne4969:0</value>
+  </data>
+  <data name="lblPosCropTop" xml:space="preserve">
+    <value>crwdns4970:0crwdne4970:0</value>
+  </data>
+  <data name="lblPosHeight" xml:space="preserve">
+    <value>crwdns4971:0crwdne4971:0</value>
+  </data>
+  <data name="lblPosWidth" xml:space="preserve">
+    <value>crwdns4972:0crwdne4972:0</value>
+  </data>
+  <data name="lblPreset" xml:space="preserve">
+    <value>crwdns4973:0crwdne4973:0</value>
+  </data>
+  <data name="lblPreset_Tooltip" xml:space="preserve">
+    <value>crwdns4974:0crwdne4974:0</value>
+  </data>
+  <data name="lblQuality" xml:space="preserve">
+    <value>crwdns4975:0crwdne4975:0</value>
+  </data>
+  <data name="lblQuality_Tooltip" xml:space="preserve">
+    <value>crwdns4976:0crwdne4976:0</value>
+  </data>
+  <data name="lblResolution" xml:space="preserve">
+    <value>crwdns4977:0crwdne4977:0</value>
+  </data>
+  <data name="lblRtmpUrl" xml:space="preserve">
+    <value>crwdns4978:0crwdne4978:0</value>
+  </data>
+  <data name="lblScrArea" xml:space="preserve">
+    <value>crwdns4979:0crwdne4979:0</value>
+  </data>
+  <data name="lblScrAreaHeight" xml:space="preserve">
+    <value>crwdns4980:0crwdne4980:0</value>
+  </data>
+  <data name="lblScrAreaWidth" xml:space="preserve">
+    <value>crwdns4981:0crwdne4981:0</value>
+  </data>
+  <data name="lblScrCap" xml:space="preserve">
+    <value>crwdns4982:0crwdne4982:0</value>
+  </data>
+  <data name="lblScrCapLayeredHint" xml:space="preserve">
+    <value>crwdns4983:0crwdne4983:0</value>
+  </data>
+  <data name="lblScrCapOptiTextResizeHint" xml:space="preserve">
+    <value>crwdns4985:0crwdne4985:0</value>
+  </data>
+  <data name="lblStatus" xml:space="preserve">
+    <value>crwdns4986:0crwdne4986:0</value>
+  </data>
+  <data name="lblStreamChannel" xml:space="preserve">
+    <value>crwdns4987:0crwdne4987:0</value>
+  </data>
+  <data name="lblStreamName" xml:space="preserve">
+    <value>crwdns4988:0crwdne4988:0</value>
+  </data>
+  <data name="lblTitleHint" xml:space="preserve">
+    <value>crwdns4989:0crwdne4989:0</value>
+  </data>
+  <data name="lblUserName" xml:space="preserve">
+    <value>crwdns7120:0crwdne7120:0</value>
+  </data>
+  <data name="lblVidCueSavedCuePoints" xml:space="preserve">
+    <value>crwdns4991:0crwdne4991:0</value>
+  </data>
+  <data name="lblVideoCuePoints" xml:space="preserve">
+    <value>crwdns4992:0crwdne4992:0</value>
+  </data>
+  <data name="lblVideoPlayback" xml:space="preserve">
+    <value>crwdns4993:0crwdne4993:0</value>
+  </data>
+  <data name="lblVidPlayActionOnEnd" xml:space="preserve">
+    <value>crwdns4994:0crwdne4994:0</value>
+  </data>
+  <data name="lblVidPlayEndTime" xml:space="preserve">
+    <value>crwdns4995:0crwdne4995:0</value>
+  </data>
+  <data name="lblVidPlayStartTime" xml:space="preserve">
+    <value>crwdns4996:0crwdne4996:0</value>
+  </data>
+  <data name="LivestreamNameIsEmtpy" xml:space="preserve">
+    <value>crwdns4997:0crwdne4997:0</value>
+  </data>
+  <data name="lnkBandwidthTesterGuide" xml:space="preserve">
+    <value>crwdns5000:0crwdne5000:0</value>
+  </data>
+  <data name="lnkForgotPassword" xml:space="preserve">
+    <value>crwdns5001:0crwdne5001:0</value>
+  </data>
+  <data name="lnklblChangePassword" xml:space="preserve">
+    <value>crwdns5002:0crwdne5002:0</value>
+  </data>
+  <data name="lnkNoAccount" xml:space="preserve">
+    <value>crwdns5003:0crwdne5003:0</value>
+  </data>
+  <data name="loadPresetsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns5004:0crwdne5004:0</value>
+  </data>
+  <data name="LocalRecording" xml:space="preserve">
+    <value>crwdns5005:0crwdne5005:0</value>
+  </data>
+  <data name="localRecordingToolStripMenuItem" xml:space="preserve">
+    <value>crwdns5006:0crwdne5006:0</value>
+  </data>
+  <data name="MakeXSplitLayeredWindowWarning" xml:space="preserve">
+    <value>crwdns5007:0crwdne5007:0</value>
+  </data>
+  <data name="MoreStreamAddins" xml:space="preserve">
+    <value>crwdns12164:0crwdne12164:0</value>
+  </data>
+  <data name="moreStreamAddinTsmi" xml:space="preserve">
+    <value>crwdns7121:0crwdne7121:0</value>
+  </data>
+  <data name="moreStreamAddinTsmiXbc5003" xml:space="preserve">
+    <value>crwdns14627:0crwdne14627:0</value>
+  </data>
+  <data name="moveSourceDown_Tooltip" xml:space="preserve">
+    <value>crwdns5011:0crwdne5011:0</value>
+  </data>
+  <data name="moveSourceUp_Tooltip" xml:space="preserve">
+    <value>crwdns5012:0crwdne5012:0</value>
+  </data>
+  <data name="msgAbortPluginInstall" xml:space="preserve">
+    <value>crwdns5013:0crwdne5013:0</value>
+  </data>
+  <data name="msgAddGameNotice" xml:space="preserve">
+    <value>crwdns5014:0crwdne5014:0</value>
+  </data>
+  <data name="msgAddGameNoticeGsDisabled" xml:space="preserve">
+    <value>crwdns5015:0crwdne5015:0</value>
+  </data>
+  <data name="msgAddinDownloadFailed" xml:space="preserve">
+    <value>crwdns5016:0crwdne5016:0</value>
+  </data>
+  <data name="msgAddinInstallationFailed_ArgumentError" xml:space="preserve">
+    <value>crwdns5018:0crwdne5018:0</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallFailed" xml:space="preserve">
+    <value>crwdns5019:0crwdne5019:0</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallFileNotFound" xml:space="preserve">
+    <value>crwdns5020:0crwdne5020:0</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallHashCheckFailed" xml:space="preserve">
+    <value>crwdns5021:0crwdne5021:0</value>
+  </data>
+  <data name="msgAddinInstallationFailed_Unknown" xml:space="preserve">
+    <value>crwdns5022:0crwdne5022:0</value>
+  </data>
+  <data name="msgAddinInstallerIsBusy_Text" xml:space="preserve">
+    <value>crwdns5023:0crwdne5023:0</value>
+  </data>
+  <data name="msgAddinInstallerIsBusy_Title" xml:space="preserve">
+    <value>crwdns5024:0crwdne5024:0</value>
+  </data>
+  <data name="msgAddinInstallSucceeded" xml:space="preserve">
+    <value>crwdns5025:0crwdne5025:0</value>
+  </data>
+  <data name="msgAddinInstallSucceeded1" xml:space="preserve">
+    <value>crwdns5026:0crwdne5026:0</value>
+  </data>
+  <data name="msgAddinInstallSucceeded2" xml:space="preserve">
+    <value>crwdns5027:0crwdne5027:0</value>
+  </data>
+  <data name="msgAddinInstallSucceeded3" xml:space="preserve">
+    <value>crwdns5028:0crwdne5028:0</value>
+  </data>
+  <data name="msgAddinInstallSucceeded4" xml:space="preserve">
+    <value>crwdns5029:0crwdne5029:0</value>
+  </data>
+  <data name="msgAddinInstallSucceeded5" xml:space="preserve">
+    <value>crwdns5030:0crwdne5030:0</value>
+  </data>
+  <data name="msgAddinUinstallationFailed" xml:space="preserve">
+    <value>crwdns5032:0crwdne5032:0</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_ArgumentError" xml:space="preserve">
+    <value>crwdns5033:0crwdne5033:0</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_UninstallFailed" xml:space="preserve">
+    <value>crwdns5034:0crwdne5034:0</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_Unknown" xml:space="preserve">
+    <value>crwdns5035:0crwdne5035:0</value>
+  </data>
+  <data name="msgAddinUninstallConfirm_Text" xml:space="preserve">
+    <value>crwdns5036:0{0}crwdne5036:0</value>
+  </data>
+  <data name="msgAddinUninstallConfirm_Title" xml:space="preserve">
+    <value>crwdns5037:0{0}crwdne5037:0</value>
+  </data>
+  <data name="msgAudioDevice_None" xml:space="preserve">
+    <value>crwdns5038:0crwdne5038:0</value>
+  </data>
+  <data name="msgCantCreateRecordingOutDir" xml:space="preserve">
+    <value>crwdns5039:0{0}crwdne5039:0</value>
+  </data>
+  <data name="msgCantEditActiveStream" xml:space="preserve">
+    <value>crwdns5040:0crwdne5040:0</value>
+  </data>
+  <data name="msgCantEditActiveStreamAdaptiveBr" xml:space="preserve">
+    <value>crwdns9052:0crwdne9052:0</value>
+  </data>
+  <data name="msgCantEditActiveStreamCbr" xml:space="preserve">
+    <value>crwdns5041:0crwdne5041:0</value>
+  </data>
+  <data name="msgCantEditActiveRecording" xml:space="preserve">
+    <value>crwdns5042:0crwdne5042:0</value>
+  </data>
+  <data name="msgCantEditActiveRecordingCbr" xml:space="preserve">
+    <value>crwdns5043:0crwdne5043:0</value>
+  </data>
+  <data name="msgCantEditChannelOfMissingAddin" xml:space="preserve">
+    <value>crwdns5044:0{0}crwdne5044:0</value>
+  </data>
+  <data name="msgCantRemoveActiveStream" xml:space="preserve">
+    <value>crwdns5045:0crwdne5045:0</value>
+  </data>
+  <data name="msgClickContinue" xml:space="preserve">
+    <value>crwdns5047:0crwdne5047:0</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported" xml:space="preserve">
+    <value>crwdns5048:0crwdne5048:0</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported1" xml:space="preserve">
+    <value>crwdns5049:0crwdne5049:0</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported3" xml:space="preserve">
+    <value>crwdns5051:0{0:N0}crwdne5051:0</value>
+  </data>
+  <data name="msgDefaultStageResolutionWarning" xml:space="preserve">
+    <value>crwdns7716:0crwdne7716:0</value>
+  </data>
+  <data name="msgDeviceNotFound_SndCap" xml:space="preserve">
+    <value>crwdns5053:0crwdne5053:0</value>
+  </data>
+  <data name="msgDeviceNotFound_VidCap" xml:space="preserve">
+    <value>crwdns5054:0crwdne5054:0</value>
+  </data>
+  <data name="msgEnableAeroWarning" xml:space="preserve">
+    <value>crwdns5056:0crwdne5056:0</value>
+  </data>
+  <data name="msgEnableD3D" xml:space="preserve">
+    <value>crwdns54220:0[requirements]crwdnd54220:0[support]crwdne54220:0</value>
+  </data>
+  <data name="msgEnableVcamCheckedChangedHint" xml:space="preserve">
+    <value>crwdns5058:0crwdne5058:0</value>
+  </data>
+  <data name="msgFailedGettingRtmp" xml:space="preserve">
+    <value>crwdns5060:0crwdne5060:0</value>
+  </data>
+  <data name="msgFailedGettingRtmp_HowUserAffected" xml:space="preserve">
+    <value>crwdns5061:0crwdne5061:0</value>
+  </data>
+  <data name="msgFailedGettingRtmp_WhatUserCanDo" xml:space="preserve">
+    <value>crwdns5062:0{0}crwdne5062:0</value>
+  </data>
+  <data name="msgFailedLoadingAddinStore" xml:space="preserve">
+    <value>crwdns5063:0crwdne5063:0</value>
+  </data>
+  <data name="msgFailureLoadinAddin_HowUserAffected" xml:space="preserve">
+    <value>crwdns5064:0crwdne5064:0</value>
+  </data>
+  <data name="msgFailureLoadingAddin" xml:space="preserve">
+    <value>crwdns5065:0{0}crwdne5065:0</value>
+  </data>
+  <data name="msgFlashAxFailure" xml:space="preserve">
+    <value>crwdns5066:0{0}crwdne5066:0</value>
+  </data>
+  <data name="msgFlashAxIsOld" xml:space="preserve">
+    <value>crwdns5067:0crwdne5067:0</value>
+  </data>
+  <data name="msgFlashAxIsRequired" xml:space="preserve">
+    <value>crwdns5068:0crwdne5068:0</value>
+  </data>
+  <data name="msgFlashAxNotInstalled" xml:space="preserve">
+    <value>crwdns5069:0crwdne5069:0</value>
+  </data>
+  <data name="msgFlashConfigLoadFailure" xml:space="preserve">
+    <value>crwdns5070:0{0}crwdne5070:0</value>
+  </data>
+  <data name="msgForcedUpdate" xml:space="preserve">
+    <value>crwdns5071:0{0}crwdnd5071:0{1}crwdnd5071:0[www.xsplit.com]crwdne5071:0</value>
+  </data>
+  <data name="msgFramerateDefined" xml:space="preserve">
+    <value>crwdns5072:0crwdne5072:0</value>
+  </data>
+  <data name="msgHotKeyRegException1" xml:space="preserve">
+    <value>crwdns5074:0crwdne5074:0</value>
+  </data>
+  <data name="msgHotKeyRegException2" xml:space="preserve">
+    <value>crwdns5075:0crwdne5075:0</value>
+  </data>
+  <data name="msgHotKeyRegException3" xml:space="preserve">
+    <value>crwdns5076:0crwdne5076:0</value>
+  </data>
+  <data name="msgHotKeyRegException4" xml:space="preserve">
+    <value>crwdns5077:0crwdne5077:0</value>
+  </data>
+  <data name="msgHotKeyRegException5" xml:space="preserve">
+    <value>crwdns5078:0{0}crwdne5078:0</value>
+  </data>
+  <data name="msgHotKeyRegException6" xml:space="preserve">
+    <value>crwdns5079:0{0}crwdne5079:0</value>
+  </data>
+  <data name="msgHotKeyRegException7" xml:space="preserve">
+    <value>crwdns13648:0{0}crwdne13648:0</value>
+  </data>
+  <data name="msgIncorrectCredentialsOrServerDown" xml:space="preserve">
+    <value>crwdns5080:0crwdne5080:0</value>
+  </data>
+  <data name="msgInitializeFolder1" xml:space="preserve">
+    <value>crwdns5081:0crwdne5081:0</value>
+  </data>
+  <data name="msgInitializeFolder2" xml:space="preserve">
+    <value>crwdns5082:0crwdne5082:0</value>
+  </data>
+  <data name="msgInitializeFolder3" xml:space="preserve">
+    <value>crwdns5083:0crwdne5083:0</value>
+  </data>
+  <data name="msgInputTransitionSpeed" xml:space="preserve">
+    <value>crwdns9433:0crwdne9433:0</value>
+  </data>
+  <data name="msgInvalidEmail" xml:space="preserve">
+    <value>crwdns5087:0crwdne5087:0</value>
+  </data>
+  <data name="msgInvalidFilenameChars" xml:space="preserve">
+    <value>crwdns5088:0crwdne5088:0</value>
+  </data>
+  <data name="msgInvalidPassword" xml:space="preserve">
+    <value>crwdns5090:0crwdne5090:0</value>
+  </data>
+  <data name="msgInvalidTransitionTime" xml:space="preserve">
+    <value>crwdns5092:0crwdne5092:0</value>
+  </data>
+  <data name="msgLoginInitializationException1" xml:space="preserve">
+    <value>crwdns5093:0crwdne5093:0</value>
+  </data>
+  <data name="msgLoginMessageTitle" xml:space="preserve">
+    <value>crwdns5094:0crwdne5094:0</value>
+  </data>
+  <data name="msgLoginOpenLinkException1" xml:space="preserve">
+    <value>crwdns5095:0crwdne5095:0</value>
+  </data>
+  <data name="msgLoginOpenLinkException2" xml:space="preserve">
+    <value>crwdns5096:0crwdne5096:0</value>
+  </data>
+  <data name="msgLoginOpenLinkException3" xml:space="preserve">
+    <value>crwdns5097:0%url%crwdne5097:0</value>
+  </data>
+  <data name="msgLoginSaveAutoLogin" xml:space="preserve">
+    <value>crwdns5098:0crwdne5098:0</value>
+  </data>
+  <data name="msgLoginSaveStartup" xml:space="preserve">
+    <value>crwdns5099:0crwdne5099:0</value>
+  </data>
+  <data name="msgLoginTitle" xml:space="preserve">
+    <value>crwdns5100:0crwdne5100:0</value>
+  </data>
+  <data name="msgLoginValidation1" xml:space="preserve">
+    <value>crwdns5103:0crwdne5103:0</value>
+  </data>
+  <data name="msgLoginValidation2" xml:space="preserve">
+    <value>crwdns5104:0crwdne5104:0</value>
+  </data>
+  <data name="msgMaxFps" xml:space="preserve">
+    <value>crwdns5105:0{0}crwdne5105:0</value>
+  </data>
+  <data name="msgOptionalUpdate" xml:space="preserve">
+    <value>crwdns5111:0{0}crwdnd5111:0{1}crwdnd5111:0[www.xsplit.com]crwdnd5111:0[www.xsplit.com]crwdne5111:0</value>
+  </data>
+  <data name="msgOptionalUpdate2" xml:space="preserve">
+    <value>crwdns5112:0{0}crwdnd5112:0[www.xsplit.com]crwdnd5112:0[www.xsplit.com]crwdne5112:0</value>
+  </data>
+  <data name="msgOptionalUpdateConfirm" xml:space="preserve">
+    <value>crwdns5113:0crwdne5113:0</value>
+  </data>
+  <data name="msgRegistrationValidation6" xml:space="preserve">
+    <value>crwdns5117:0crwdne5117:0</value>
+  </data>
+  <data name="msgSaveBeforeCloseConfirmation" xml:space="preserve">
+    <value>crwdns5121:0crwdne5121:0</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90012" xml:space="preserve">
+    <value>crwdns5122:0crwdne5122:0</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90013" xml:space="preserve">
+    <value>crwdns5123:0crwdne5123:0</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90024" xml:space="preserve">
+    <value>crwdns5124:0crwdne5124:0</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90027" xml:space="preserve">
+    <value>crwdns12283:0[re-register]crwdne12283:0</value>
+  </data>
+  <data name="msgSettingsSaved_SyncFailed" xml:space="preserve">
+    <value>crwdns5126:0{0}crwdne5126:0</value>
+  </data>
+  <data name="msgSignUpOpenLinkException1" xml:space="preserve">
+    <value>crwdns5128:0crwdne5128:0</value>
+  </data>
+  <data name="msgSignUpOpenLinkException2" xml:space="preserve">
+    <value>crwdns5129:0crwdne5129:0</value>
+  </data>
+  <data name="msgSignUpOpenLinkException3" xml:space="preserve">
+    <value>crwdns5130:0%url%crwdne5130:0</value>
+  </data>
+  <data name="msgSourceConfigurationHandlerIsMissing" xml:space="preserve">
+    <value>crwdns5131:0crwdne5131:0</value>
+  </data>
+  <data name="msgSourceHandlerIsMissing" xml:space="preserve">
+    <value>crwdns5132:0crwdne5132:0</value>
+  </data>
+  <data name="growlStageResolutionIsHigh" xml:space="preserve">
+    <value>crwdns13882:0{0}crwdnd13882:0{1}crwdne13882:0</value>
+  </data>
+  <data name="growlStageResolutionIsHighForWEI" xml:space="preserve">
+    <value>crwdns5135:0{0}crwdne5135:0</value>
+  </data>
+  <data name="msgStreamResolutionIsHigh" xml:space="preserve">
+    <value>crwdns5136:0{0}crwdnd5136:0{1}crwdne5136:0</value>
+  </data>
+  <data name="growlStreamResolutionIsHigh" xml:space="preserve">
+    <value>crwdns5137:0{0}crwdnd5137:0{1}crwdne5137:0</value>
+  </data>
+  <data name="msgStreamResolutionIsHigherThanStageResolution" xml:space="preserve">
+    <value>crwdns5138:0crwdne5138:0</value>
+  </data>
+  <data name="msgSyncFailure" xml:space="preserve">
+    <value>crwdns5139:0crwdne5139:0</value>
+  </data>
+  <data name="msgUnableToValidateWithServer" xml:space="preserve">
+    <value>crwdns5140:0crwdne5140:0</value>
+  </data>
+  <data name="msgUpdatedPlugins" xml:space="preserve">
+    <value>crwdns5143:0{0}crwdne5143:0</value>
+  </data>
+  <data name="msgUpdatedPluginsXbc5003" xml:space="preserve">
+    <value>crwdns12165:0{0}crwdne12165:0</value>
+  </data>
+  <data name="msgVersionIsExpired" xml:space="preserve">
+    <value>crwdns5145:0crwdne5145:0</value>
+  </data>
+  <data name="MyRecordings_FilesExistInPreviousLocation" xml:space="preserve">
+    <value>crwdns5146:0{0}crwdne5146:0</value>
+  </data>
+  <data name="myRecordingsMenuItem" xml:space="preserve">
+    <value>crwdns12166:0crwdne12166:0</value>
+  </data>
+  <data name="recordingsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns14628:0crwdne14628:0</value>
+  </data>
+  <data name="newPresetsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns5148:0crwdne5148:0</value>
+  </data>
+  <data name="NicoVideo" xml:space="preserve">
+    <value>crwdns5149:0crwdne5149:0</value>
+  </data>
+  <data name="numBufferSize_Tooltip" xml:space="preserve">
+    <value>crwdns5150:0crwdne5150:0</value>
+  </data>
+  <data name="numFramerate_Tooltip" xml:space="preserve">
+    <value>crwdns5151:0crwdne5151:0</value>
+  </data>
+  <data name="optFemale" xml:space="preserve">
+    <value>crwdns5152:0crwdne5152:0</value>
+  </data>
+  <data name="optMale" xml:space="preserve">
+    <value>crwdns5153:0crwdne5153:0</value>
+  </data>
+  <data name="par1" xml:space="preserve">
+    <value>crwdns5154:0crwdne5154:0</value>
+  </data>
+  <data name="par2" xml:space="preserve">
+    <value>crwdns5155:0crwdne5155:0</value>
+  </data>
+  <data name="par3" xml:space="preserve">
+    <value>crwdns5156:0crwdne5156:0</value>
+  </data>
+  <data name="PasswordIsEmpty" xml:space="preserve">
+    <value>crwdns5157:0crwdne5157:0</value>
+  </data>
+  <data name="PresetDoesNotExist" xml:space="preserve">
+    <value>crwdns5158:0{0}crwdne5158:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_ADD" xml:space="preserve">
+    <value>crwdns5159:0crwdne5159:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_DELETE" xml:space="preserve">
+    <value>crwdns5160:0crwdne5160:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GLBSET" xml:space="preserve">
+    <value>crwdns7337:0crwdne7337:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MIC" xml:space="preserve">
+    <value>crwdns7122:0{0}crwdne7122:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MOVEDOWN" xml:space="preserve">
+    <value>crwdns5162:0crwdne5162:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MOVEUP" xml:space="preserve">
+    <value>crwdns5163:0crwdne5163:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SETTINGS" xml:space="preserve">
+    <value>crwdns5164:0crwdne5164:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SPK" xml:space="preserve">
+    <value>crwdns7123:0{0}crwdne7123:0</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_MICVOL" xml:space="preserve">
+    <value>crwdns5166:0crwdne5166:0</value>
+  </data>
+  <data name="rb1_AV" xml:space="preserve">
+    <value>crwdns5167:0crwdne5167:0</value>
+  </data>
+  <data name="rb1_Cam" xml:space="preserve">
+    <value>crwdns5168:0crwdne5168:0</value>
+  </data>
+  <data name="rb1_Screen" xml:space="preserve">
+    <value>crwdns5169:0crwdne5169:0</value>
+  </data>
+  <data name="rb1_Stream" xml:space="preserve">
+    <value>crwdns5170:0crwdne5170:0</value>
+  </data>
+  <data name="rb1_Title" xml:space="preserve">
+    <value>crwdns5171:0crwdne5171:0</value>
+  </data>
+  <data name="rbColor" xml:space="preserve">
+    <value>crwdns5172:0crwdne5172:0</value>
+  </data>
+  <data name="rbColorChromaNone" xml:space="preserve">
+    <value>crwdns5173:0crwdne5173:0</value>
+  </data>
+  <data name="rbColorChroma" xml:space="preserve">
+    <value>crwdns5174:0crwdne5174:0</value>
+  </data>
+  <data name="rbColorChromaColor" xml:space="preserve">
+    <value>crwdns5175:0crwdne5175:0</value>
+  </data>
+  <data name="rbPosition" xml:space="preserve">
+    <value>crwdns5176:0crwdne5176:0</value>
+  </data>
+  <data name="removeSource" xml:space="preserve">
+    <value>crwdns5178:0crwdne5178:0</value>
+  </data>
+  <data name="removeSource_Tooltip" xml:space="preserve">
+    <value>crwdns5179:0crwdne5179:0</value>
+  </data>
+  <data name="ResolutionAlreadyExists" xml:space="preserve">
+    <value>crwdns5180:0{0}crwdnd5180:0{1}crwdne5180:0</value>
+  </data>
+  <data name="resolutionToolStripMenuItem" xml:space="preserve">
+    <value>crwdns5181:0crwdne5181:0</value>
+  </data>
+  <data name="rtmp1ch" xml:space="preserve">
+    <value>crwdns5182:0crwdne5182:0</value>
+  </data>
+  <data name="RtmpUrlIsEmpty" xml:space="preserve">
+    <value>crwdns5183:0crwdne5183:0</value>
+  </data>
+  <data name="RtmpUrlIsInvalid" xml:space="preserve">
+    <value>crwdns5184:0crwdne5184:0</value>
+  </data>
+  <data name="savePresetToolStripMenuItem" xml:space="preserve">
+    <value>crwdns5185:0crwdne5185:0</value>
+  </data>
+  <data name="sbtnInsertLink" xml:space="preserve">
+    <value>crwdns5186:0crwdne5186:0</value>
+  </data>
+  <data name="scaleViewportToolStripMenuItem" xml:space="preserve">
+    <value>crwdns5187:0crwdne5187:0</value>
+  </data>
+  <data name="SelectPresentation" xml:space="preserve">
+    <value>crwdns5188:0crwdne5188:0</value>
+  </data>
+  <data name="settingsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns5189:0crwdne5189:0</value>
+  </data>
+  <data name="settingsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>crwdns11958:0crwdne11958:0</value>
+  </data>
+  <data name="ShareLinkIsEmpty" xml:space="preserve">
+    <value>crwdns5190:0crwdne5190:0</value>
+  </data>
+  <data name="ShareLinkIsInvalid" xml:space="preserve">
+    <value>crwdns5191:0crwdne5191:0</value>
+  </data>
+  <data name="ShowException_HowUserAffected" xml:space="preserve">
+    <value>crwdns5192:0crwdne5192:0</value>
+  </data>
+  <data name="ShowException_WhatUserCanDo" xml:space="preserve">
+    <value>crwdns5193:0crwdne5193:0</value>
+  </data>
+  <data name="SourcePluginStore" xml:space="preserve">
+    <value>crwdns12167:0crwdne12167:0</value>
+  </data>
+  <data name="sourceSettings" xml:space="preserve">
+    <value>crwdns5195:0crwdne5195:0</value>
+  </data>
+  <data name="sourceSettings_Tooltip" xml:space="preserve">
+    <value>crwdns5196:0crwdne5196:0</value>
+  </data>
+  <data name="spApply" xml:space="preserve">
+    <value>crwdns8090:0crwdne8090:0</value>
+  </data>
+  <data name="spMessage" xml:space="preserve">
+    <value>crwdns8091:0crwdne8091:0</value>
+  </data>
+  <data name="spOptContinue" xml:space="preserve">
+    <value>crwdns8092:0crwdne8092:0</value>
+  </data>
+  <data name="spOptCreateNew" xml:space="preserve">
+    <value>crwdns5200:0crwdne5200:0</value>
+  </data>
+  <data name="spOptLoadFromFile" xml:space="preserve">
+    <value>crwdns5201:0crwdne5201:0</value>
+  </data>
+  <data name="spOptLoadFromRegistry" xml:space="preserve">
+    <value>crwdns5202:0crwdne5202:0</value>
+  </data>
+  <data name="sPostAgain" xml:space="preserve">
+    <value>crwdns5203:0crwdne5203:0</value>
+  </data>
+  <data name="StreamChannelIsEmpty" xml:space="preserve">
+    <value>crwdns5204:0{0}crwdne5204:0</value>
+  </data>
+  <data name="StreamNameIsEmpty" xml:space="preserve">
+    <value>crwdns5205:0crwdne5205:0</value>
+  </data>
+  <data name="tbpChannels" xml:space="preserve">
+    <value>crwdns5206:0crwdne5206:0</value>
+  </data>
+  <data name="tbpGeneral" xml:space="preserve">
+    <value>crwdns5207:0crwdne5207:0</value>
+  </data>
+  <data name="tbpHotkeys" xml:space="preserve">
+    <value>crwdns5208:0crwdne5208:0</value>
+  </data>
+  <data name="tbpProfile" xml:space="preserve">
+    <value>crwdns5209:0crwdne5209:0</value>
+  </data>
+  <data name="tbpResolutions" xml:space="preserve">
+    <value>crwdns5210:0crwdne5210:0</value>
+  </data>
+  <data name="tierVersionUpdateButton" xml:space="preserve">
+    <value>crwdns5211:0crwdne5211:0</value>
+  </data>
+  <data name="titleConfigButton" xml:space="preserve">
+    <value>crwdns5212:0crwdne5212:0</value>
+  </data>
+  <data name="titleLabel" xml:space="preserve">
+    <value>crwdns5213:0crwdne5213:0</value>
+  </data>
+  <data name="toolsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns5214:0crwdne5214:0</value>
+  </data>
+  <data name="transitionTimeTsmi" xml:space="preserve">
+    <value>crwdns7124:0crwdne7124:0</value>
+  </data>
+  <data name="transitionToolStripMenuItem" xml:space="preserve">
+    <value>crwdns7125:0crwdne7125:0</value>
+  </data>
+  <data name="txtDescription_Tooltip" xml:space="preserve">
+    <value>crwdns5217:0crwdne5217:0</value>
+  </data>
+  <data name="txtLink_Tooltip" xml:space="preserve">
+    <value>crwdns5218:0crwdne5218:0</value>
+  </data>
+  <data name="txtName_Tooltip" xml:space="preserve">
+    <value>crwdns5219:0crwdne5219:0</value>
+  </data>
+  <data name="txtPreset_ForInternalUseOnly" xml:space="preserve">
+    <value>crwdns5220:0crwdne5220:0</value>
+  </data>
+  <data name="txtPreset_Tooltip" xml:space="preserve">
+    <value>crwdns5221:0crwdne5221:0</value>
+  </data>
+  <data name="UpdateDialog_GetMoreInfo" xml:space="preserve">
+    <value>crwdns5222:0crwdne5222:0</value>
+  </data>
+  <data name="UpdateDialog_NewReleaseFound" xml:space="preserve">
+    <value>crwdns5223:0{0}crwdne5223:0</value>
+  </data>
+  <data name="UpdateDialog_NoNewReleaseFound" xml:space="preserve">
+    <value>crwdns5224:0crwdne5224:0</value>
+  </data>
+  <data name="UsernameIsEmpty" xml:space="preserve">
+    <value>crwdns5225:0crwdne5225:0</value>
+  </data>
+  <data name="UsernameIsUnknown" xml:space="preserve">
+    <value>crwdns5226:0crwdne5226:0</value>
+  </data>
+  <data name="viewToolStripMenuItem" xml:space="preserve">
+    <value>crwdns5228:0crwdne5228:0</value>
+  </data>
+  <data name="waveTransition" xml:space="preserve">
+    <value>crwdns5229:0crwdne5229:0</value>
+  </data>
+  <data name="XSplitBroadcasterIsAlreadyRunning" xml:space="preserve">
+    <value>crwdns5230:0crwdne5230:0</value>
+  </data>
+  <data name="XSplitNetIsNotAllowed" xml:space="preserve">
+    <value>crwdns5231:0crwdne5231:0</value>
+  </data>
+  <data name="XSplitNetNonPremiumNotice" xml:space="preserve">
+    <value>crwdns5232:0crwdne5232:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgRecordingFileTypeLicenseOffer" xml:space="preserve">
+    <value>crwdns5234:0{0}crwdne5234:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxAllowedResLicenseOffer" xml:space="preserve">
+    <value>crwdns5568:0{0}crwdne5568:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxAllowedFpsLicenseOffer" xml:space="preserve">
+    <value>crwdns5236:0{0}crwdne5236:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgFreeUserSimulcastLicenseOffer" xml:space="preserve">
+    <value>crwdns5237:0crwdne5237:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxBitrateIsTooLow" xml:space="preserve">
+    <value>crwdns5238:0{0}crwdne5238:0</value>
+  </data>
+  <data name="msgMaxBitrateIsTooLow_VBR" xml:space="preserve">
+    <value>crwdns5239:0{0}crwdne5239:0</value>
+  </data>
+  <data name="msgMaxBitrateIsTooLow_CBR" xml:space="preserve">
+    <value>crwdns5240:0{0}crwdne5240:0</value>
+  </data>
+  <data name="chkGameSurfSharing" xml:space="preserve">
+    <value>crwdns5241:0crwdne5241:0</value>
+  </data>
+  <data name="ControlIds.IDC_STATIC_SCENECUR" xml:space="preserve">
+    <value>crwdns9438:0crwdne9438:0</value>
+  </data>
+  <data name="ControlIds.ID_FILE_ADDGAMESOURCE" xml:space="preserve">
+    <value>crwdns5244:0crwdne5244:0</value>
+  </data>
+  <data name="msgNetFxIsRequired" xml:space="preserve">
+    <value>crwdns5245:0{0}crwdnd5245:0{0}crwdne5245:0</value>
+  </data>
+  <data name="servermessage_dlogtitle" xml:space="preserve">
+    <value>crwdns5246:0crwdne5246:0</value>
+  </data>
+  <data name="servermessage_dlogdesc" xml:space="preserve">
+    <value>crwdns126882:0crwdne126882:0</value>
+  </data>
+  <data name="servermessage_fdistitle" xml:space="preserve">
+    <value>crwdns5248:0crwdne5248:0</value>
+  </data>
+  <data name="servermessage_fdisdesc" xml:space="preserve">
+    <value>crwdns126884:0crwdne126884:0</value>
+  </data>
+  <data name="DefaultStageResolution" xml:space="preserve">
+    <value>crwdns5250:0crwdne5250:0</value>
+  </data>
+  <data name="msgLocalLoginFailed" xml:space="preserve">
+    <value>crwdns5251:0{0}crwdne5251:0</value>
+  </data>
+  <data name="msgProjectorBuyPremiumOffer" xml:space="preserve">
+    <value>crwdns5252:0crwdne5252:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="picCopyChromaKey" xml:space="preserve">
+    <value>crwdns5253:0crwdne5253:0</value>
+  </data>
+  <data name="btnPosCropEasyCrop" xml:space="preserve">
+    <value>crwdns5255:0crwdne5255:0</value>
+  </data>
+  <data name="FailureSettingDirectoryAcl" xml:space="preserve">
+    <value>crwdns5256:0{0}crwdnd5256:0{1}crwdne5256:0</value>
+  </data>
+  <data name="chkKeepOnTop" xml:space="preserve">
+    <value>crwdns5257:0crwdne5257:0</value>
+  </data>
+  <data name="msgEasyCropPreReqPrompt" xml:space="preserve">
+    <value>crwdns5258:0crwdne5258:0</value>
+  </data>
+  <data name="enableInternalRtmpServerToolStripMenuItem" xml:space="preserve">
+    <value>crwdns5259:0crwdne5259:0</value>
+  </data>
+  <data name="InternalRtmpServer" xml:space="preserve">
+    <value>crwdns5260:0crwdne5260:0</value>
+  </data>
+  <data name="msgInternalServerBuyPremiumOffer" xml:space="preserve">
+    <value>crwdns5261:0crwdne5261:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="btnRefreshSource" xml:space="preserve">
+    <value>crwdns5262:0crwdne5262:0</value>
+  </data>
+  <data name="growlFramerateAndResIsHighForWei" xml:space="preserve">
+    <value>crwdns5263:0{0}crwdnd5263:0{1:N2}crwdne5263:0</value>
+  </data>
+  <data name="msgAddSkypeVideoSourceNotice" xml:space="preserve">
+    <value>crwdns5264:0crwdne5264:0</value>
+  </data>
+  <data name="msgAddSkypeVideoSourceNoticeGsDisabled" xml:space="preserve">
+    <value>crwdns5265:0crwdne5265:0</value>
+  </data>
+  <data name="LicenseExpiry" xml:space="preserve">
+    <value>crwdns5266:0{0}crwdne5266:0</value>
+  </data>
+  <data name="rtfSkypeHint" xml:space="preserve">
+    <value>crwdns5267:0crwdne5267:0</value>
+  </data>
+  <data name="faster_Tooltip" xml:space="preserve">
+    <value>crwdns5268:0crwdne5268:0</value>
+  </data>
+  <data name="fast_Tooltip" xml:space="preserve">
+    <value>crwdns5269:0crwdne5269:0</value>
+  </data>
+  <data name="medium_Tooltip" xml:space="preserve">
+    <value>crwdns5270:0crwdne5270:0</value>
+  </data>
+  <data name="slow_Tooltip" xml:space="preserve">
+    <value>crwdns5271:0crwdne5271:0</value>
+  </data>
+  <data name="superfast_Tooltip" xml:space="preserve">
+    <value>crwdns5272:0crwdne5272:0</value>
+  </data>
+  <data name="veryfast" xml:space="preserve">
+    <value>crwdns5273:0crwdne5273:0</value>
+  </data>
+  <data name="veryfast_Tooltip" xml:space="preserve">
+    <value>crwdns5274:0crwdne5274:0</value>
+  </data>
+  <data name="lblMaxFileSize" xml:space="preserve">
+    <value>crwdns5275:0crwdne5275:0</value>
+  </data>
+  <data name="lblMaxFileSize_Tooltip" xml:space="preserve">
+    <value>crwdns5276:0crwdne5276:0</value>
+  </data>
+  <data name="msgInvalidMaxRecordingFileSize" xml:space="preserve">
+    <value>crwdns5277:0crwdne5277:0</value>
+  </data>
+  <data name="txtMaxFileSize_Tooltip" xml:space="preserve">
+    <value>crwdns5278:0crwdne5278:0</value>
+  </data>
+  <data name="lnkAudioStutterGuide" xml:space="preserve">
+    <value>crwdns5279:0crwdne5279:0</value>
+  </data>
+  <data name="msgBroadcastTerminated" xml:space="preserve">
+    <value>crwdns79198:0{0}crwdnd79198:0{1}crwdnd79198:0{2:X}crwdne79198:0</value>
+  </data>
+  <data name="lblGameImageHint" xml:space="preserve">
+    <value>crwdns5281:0crwdne5281:0</value>
+  </data>
+  <data name="lblSkypeImageHint" xml:space="preserve">
+    <value>crwdns5282:0crwdne5282:0</value>
+  </data>
+  <data name="msgAddSkypeNoticeGsDisabled" xml:space="preserve">
+    <value>crwdns5283:0crwdne5283:0</value>
+  </data>
+  <data name="msgInternetExplorerIsRequired" xml:space="preserve">
+    <value>crwdns5284:0crwdne5284:0</value>
+  </data>
+  <data name="msgInternetExplorerIsOld" xml:space="preserve">
+    <value>crwdns5285:0crwdne5285:0</value>
+  </data>
+  <data name="MyRecordings_DirectoryFailedToOpen" xml:space="preserve">
+    <value>crwdns5286:0{0}crwdne5286:0</value>
+  </data>
+  <data name="MyRecordings_DirectoryNotFound" xml:space="preserve">
+    <value>crwdns5287:0{0}crwdne5287:0</value>
+  </data>
+  <data name="msgAmdRadeonHd7xxxWarning" xml:space="preserve">
+    <value>crwdns5288:0{0}crwdne5288:0</value>
+  </data>
+  <data name="msgDefaultStageResolutionWarning AVerMedia H.264 Encoder" xml:space="preserve">
+    <value>crwdns7717:0crwdne7717:0</value>
+  </data>
+  <data name="chkWinXPSound" xml:space="preserve">
+    <value>crwdns5290:0crwdne5290:0</value>
+  </data>
+  <data name="msgLicenseOffer_libh264aver" xml:space="preserve">
+    <value>crwdns5291:0crwdne5291:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgLicenseOffer_libh264aver1" xml:space="preserve">
+    <value>crwdns5292:0{0}crwdnd5292:0{1}crwdne5292:0</value>
+  </data>
+  <data name="msgNoNetNoLocal" xml:space="preserve">
+    <value>crwdns5294:0crwdne5294:0</value>
+  </data>
+  <data name="msgMaintModeHasLocal" xml:space="preserve">
+    <value>crwdns126888:0{0}crwdne126888:0</value>
+    <comment>do not translate</comment>
+  </data>
+  <data name="msgMaintModeNoLocal" xml:space="preserve">
+    <value>crwdns5298:0{0}crwdne5298:0</value>
+    <comment>do not translate</comment>
+  </data>
+  <data name="PreviewMain_confApplyPreviewToActual" xml:space="preserve">
+    <value>crwdns5299:0crwdne5299:0</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromFile" xml:space="preserve">
+    <value>crwdns5300:0crwdne5300:0</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromFile_InvalidSceneFile" xml:space="preserve">
+    <value>crwdns5658:0crwdne5658:0</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromScene" xml:space="preserve">
+    <value>crwdns9416:0{0}crwdne9416:0</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_Revert" xml:space="preserve">
+    <value>crwdns5302:0crwdne5302:0</value>
+  </data>
+  <data name="PreviewMain_confSavePreviewBeforeClose" xml:space="preserve">
+    <value>crwdns5303:0crwdne5303:0</value>
+  </data>
+  <data name="PreviewMain_confPreviewGoLive" xml:space="preserve">
+    <value>crwdns5304:0crwdne5304:0</value>
+  </data>
+  <data name="PreviewPIP_msgBottom" xml:space="preserve">
+    <value>crwdns5305:0crwdne5305:0</value>
+  </data>
+  <data name="PreviewPIP_msgTop" xml:space="preserve">
+    <value>crwdns5306:0{0}crwdne5306:0</value>
+  </data>
+  <data name="btnPosCropEasyCrop_Tooltip" xml:space="preserve">
+    <value>crwdns5307:0crwdne5307:0</value>
+  </data>
+  <data name="msgAddinLoadedFromPreviosSession" xml:space="preserve">
+    <value>crwdns5308:0crwdne5308:0</value>
+  </data>
+  <data name="StartStreamLicenseNotice_Watermarked" xml:space="preserve">
+    <value>crwdns5309:0{0}crwdne5309:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="StartStreamLicenseNotice_Disallowed" xml:space="preserve">
+    <value>crwdns5310:0{0}crwdne5310:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaintMode" xml:space="preserve">
+    <value>crwdns5311:0crwdne5311:0</value>
+  </data>
+  <data name="msgFinalizingRecordings" xml:space="preserve">
+    <value>crwdns5312:0crwdne5312:0</value>
+  </data>
+  <data name="tsmiAddAudioDevice" xml:space="preserve">
+    <value>crwdns7126:0crwdne7126:0</value>
+  </data>
+  <data name="tsmiAddAudioDevice2" xml:space="preserve">
+    <value>crwdns7127:0crwdne7127:0</value>
+  </data>
+  <data name="msgFinalizeRecordingFileStarted" xml:space="preserve">
+    <value>crwdns5315:0{0}crwdne5315:0</value>
+  </data>
+  <data name="msgFinalizeRecordingFileFinished" xml:space="preserve">
+    <value>crwdns5316:0{0}crwdne5316:0</value>
+  </data>
+  <data name="msgResponseProcessingFailedHasLocal" xml:space="preserve">
+    <value>crwdns126890:0{0}crwdne126890:0</value>
+  </data>
+  <data name="msgResponseProcessingFailedNoLocal" xml:space="preserve">
+    <value>crwdns5318:0{0}crwdne5318:0</value>
+  </data>
+  <data name="msgStreamResolutionIsNotSupportedResolution" xml:space="preserve">
+    <value>crwdns5319:0{0}crwdne5319:0</value>
+  </data>
+  <data name="msgUpdateCheckOffline" xml:space="preserve">
+    <value>crwdns5320:0crwdne5320:0</value>
+  </data>
+  <data name="msgLatestNewsFailedLoadDoc" xml:space="preserve">
+    <value>crwdns5321:0crwdne5321:0</value>
+  </data>
+  <data name="msgGeneralGameSourceConflict" xml:space="preserve">
+    <value>crwdns5322:0{0}crwdne5322:0</value>
+  </data>
+  <data name="msgDroppedFrameThresholdHit" xml:space="preserve">
+    <value>crwdns5323:0crwdne5323:0</value>
+  </data>
+  <data name="msgRecordingsAbortedOnDiskFullError" xml:space="preserve">
+    <value>crwdns5324:0crwdne5324:0</value>
+  </data>
+  <data name="msgRecordingsAbortedOnDiskFull" xml:space="preserve">
+    <value>crwdns5325:0crwdne5325:0</value>
+  </data>
+  <data name="msgRecordingsStoppedOnInsufficientDiskSpace" xml:space="preserve">
+    <value>crwdns5327:0{0}crwdne5327:0</value>
+  </data>
+  <data name="msgRecordingsAbortedOnInsufficientDiskSpace" xml:space="preserve">
+    <value>crwdns5328:0{0}crwdne5328:0</value>
+  </data>
+  <data name="chkScrCapMethod1" xml:space="preserve">
+    <value>crwdns5329:0crwdne5329:0</value>
+  </data>
+  <data name="chkScrCapOptCapture1" xml:space="preserve">
+    <value>crwdns5330:0crwdne5330:0</value>
+  </data>
+  <data name="lblScrCapMethod1Hint" xml:space="preserve">
+    <value>crwdns5331:0crwdne5331:0</value>
+  </data>
+  <data name="lblScrCapOptCapture1" xml:space="preserve">
+    <value>crwdns5332:0crwdne5332:0</value>
+  </data>
+  <data name="BandwidthTesterCountdown" xml:space="preserve">
+    <value>crwdns5333:0{0}crwdne5333:0</value>
+  </data>
+  <data name="chkScrCapMethod0" xml:space="preserve">
+    <value>crwdns5334:0crwdne5334:0</value>
+  </data>
+  <data name="showViewportToolStripMenuItem" xml:space="preserve">
+    <value>crwdns5335:0crwdne5335:0</value>
+  </data>
+  <data name="lblGameSurfSharing" xml:space="preserve">
+    <value>crwdns5336:0crwdne5336:0</value>
+  </data>
+  <data name="hideViewportToolStripMenuItem" xml:space="preserve">
+    <value>crwdns5337:0crwdne5337:0</value>
+  </data>
+  <data name="AAC LC HQ_Tooltip" xml:space="preserve">
+    <value>crwdns5338:0crwdne5338:0</value>
+  </data>
+  <data name="AAC LC LQ_Tooltip" xml:space="preserve">
+    <value>crwdns5339:0crwdne5339:0</value>
+  </data>
+  <data name="Speex_Tooltip" xml:space="preserve">
+    <value>crwdns5340:0crwdne5340:0</value>
+  </data>
+  <data name="MP3_Tooltip" xml:space="preserve">
+    <value>crwdns5341:0crwdne5341:0</value>
+  </data>
+  <data name="btnColorChromaEyedropCK_Tooltip" xml:space="preserve">
+    <value>crwdns5345:0crwdne5345:0</value>
+  </data>
+  <data name="picColorChromaHueCK_Tooltip" xml:space="preserve">
+    <value>crwdns5346:0crwdne5346:0</value>
+  </data>
+  <data name="picColorChromaRangeCK_Tooltip" xml:space="preserve">
+    <value>crwdns5347:0crwdne5347:0</value>
+  </data>
+  <data name="picColorChromaRangeAlphaCK_Tooltip" xml:space="preserve">
+    <value>crwdns5348:0crwdne5348:0</value>
+  </data>
+  <data name="picColorChromaSatCK_Tooltip" xml:space="preserve">
+    <value>crwdns5349:0crwdne5349:0</value>
+  </data>
+  <data name="picColorChromaBrightnessCK_Tooltip" xml:space="preserve">
+    <value>crwdns5350:0crwdne5350:0</value>
+  </data>
+  <data name="lblChannel" xml:space="preserve">
+    <value>crwdns5351:0crwdne5351:0</value>
+  </data>
+  <data name="lblNACodec" xml:space="preserve">
+    <value>crwdns5352:0crwdne5352:0</value>
+  </data>
+  <data name="lblNAudioBitrate" xml:space="preserve">
+    <value>crwdns5353:0crwdne5353:0</value>
+  </data>
+  <data name="lblNAudioFormat" xml:space="preserve">
+    <value>crwdns5354:0crwdne5354:0</value>
+  </data>
+  <data name="lblNBuffer1" xml:space="preserve">
+    <value>crwdns5355:0crwdne5355:0</value>
+  </data>
+  <data name="lblNBuffer2" xml:space="preserve">
+    <value>crwdns5356:0crwdne5356:0</value>
+  </data>
+  <data name="lblNCodec" xml:space="preserve">
+    <value>crwdns5357:0crwdne5357:0</value>
+  </data>
+  <data name="lblNExtra" xml:space="preserve">
+    <value>crwdns5358:0crwdne5358:0</value>
+  </data>
+  <data name="lblNMaxBitrate_CBR" xml:space="preserve">
+    <value>crwdns5359:0crwdne5359:0</value>
+  </data>
+  <data name="lblNMaxBitrate_VBR" xml:space="preserve">
+    <value>crwdns5360:0crwdne5360:0</value>
+  </data>
+  <data name="lblNMaxKeyint1" xml:space="preserve">
+    <value>crwdns5361:0crwdne5361:0</value>
+  </data>
+  <data name="lblNMaxKeyint2" xml:space="preserve">
+    <value>crwdns5362:0crwdne5362:0</value>
+  </data>
+  <data name="lblNPreset" xml:space="preserve">
+    <value>crwdns5363:0crwdne5363:0</value>
+  </data>
+  <data name="lblNQuality" xml:space="preserve">
+    <value>crwdns5364:0crwdne5364:0</value>
+  </data>
+  <data name="lblNResolution" xml:space="preserve">
+    <value>crwdns5365:0crwdne5365:0</value>
+  </data>
+  <data name="lblNVExtra_NoData" xml:space="preserve">
+    <value>crwdns7128:0crwdne7128:0</value>
+  </data>
+  <data name="lblNVExtra_WithData" xml:space="preserve">
+    <value>crwdns7129:0crwdne7129:0</value>
+  </data>
+  <data name="lblQMode" xml:space="preserve">
+    <value>crwdns5367:0crwdne5367:0</value>
+  </data>
+  <data name="lblStrictCBR" xml:space="preserve">
+    <value>crwdns5368:0crwdne5368:0</value>
+  </data>
+  <data name="lblTestBW" xml:space="preserve">
+    <value>crwdns5369:0crwdne5369:0</value>
+  </data>
+  <data name="lblVideoEncoding" xml:space="preserve">
+    <value>crwdns5370:0crwdne5370:0</value>
+  </data>
+  <data name="lblAudioEncoding" xml:space="preserve">
+    <value>crwdns5371:0crwdne5371:0</value>
+  </data>
+  <data name="chkCBR" xml:space="preserve">
+    <value>crwdns5372:0crwdne5372:0</value>
+  </data>
+  <data name="lblDefault" xml:space="preserve">
+    <value>crwdns5373:0crwdne5373:0</value>
+  </data>
+  <data name="lblExtra" xml:space="preserve">
+    <value>crwdns5374:0crwdne5374:0</value>
+  </data>
+  <data name="lblKeyInt" xml:space="preserve">
+    <value>crwdns5375:0crwdne5375:0</value>
+  </data>
+  <data name="lblPreset2" xml:space="preserve">
+    <value>crwdns5376:0crwdne5376:0</value>
+  </data>
+  <data name="lblVecTitle" xml:space="preserve">
+    <value>crwdns5377:0crwdne5377:0</value>
+  </data>
+  <data name="rb1_Audio" xml:space="preserve">
+    <value>crwdns5378:0crwdne5378:0</value>
+  </data>
+  <data name="msgSwitchingToRE2" xml:space="preserve">
+    <value>crwdns5379:0crwdne5379:0</value>
+  </data>
+  <data name="msgCloseWhileStreaming" xml:space="preserve">
+    <value>crwdns126892:0crwdne126892:0</value>
+  </data>
+  <data name="chkEnhanceResize" xml:space="preserve">
+    <value>crwdns5381:0crwdne5381:0</value>
+  </data>
+  <data name="chkEnableEvrMf" xml:space="preserve">
+    <value>crwdns5382:0crwdne5382:0</value>
+  </data>
+  <data name="chkEnableEvrMf_Tooltip" xml:space="preserve">
+    <value>crwdns5383:0crwdne5383:0</value>
+  </data>
+  <data name="lblEnableEvrMfHint" xml:space="preserve">
+    <value>crwdns5384:0crwdne5384:0</value>
+  </data>
+  <data name="lblEnableEvrMfHint_Tooltip" xml:space="preserve">
+    <value>crwdns5385:0crwdne5385:0</value>
+  </data>
+  <data name="BwTester_Autosel" xml:space="preserve">
+    <value>crwdns5386:0crwdne5386:0</value>
+  </data>
+  <data name="BwTester_Autosel1" xml:space="preserve">
+    <value>crwdns11443:0{0}crwdne11443:0</value>
+  </data>
+  <data name="lblHotkeyWarning" xml:space="preserve">
+    <value>crwdns5389:0crwdne5389:0</value>
+  </data>
+  <data name="GlobalHotkeyWarningText" xml:space="preserve">
+    <value>crwdns5390:0crwdne5390:0</value>
+  </data>
+  <data name="WarningTitle" xml:space="preserve">
+    <value>crwdns12284:0crwdne12284:0</value>
+  </data>
+  <data name="InformationTitle" xml:space="preserve">
+    <value>crwdns5392:0crwdne5392:0</value>
+  </data>
+  <data name="BroadcastStatus_Live" xml:space="preserve">
+    <value>crwdns14335:0{0}crwdne14335:0</value>
+  </data>
+  <data name="BroadcastStatus_SendingFrames" xml:space="preserve">
+    <value>crwdns14336:0{0}crwdne14336:0</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally" xml:space="preserve">
+    <value>crwdns14337:0crwdne14337:0</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally2" xml:space="preserve">
+    <value>crwdns125666:0{0}crwdne125666:0</value>
+  </data>
+  <data name="removeChannelsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns5396:0crwdne5396:0</value>
+  </data>
+  <data name="removeChannelsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>crwdns12329:0crwdne12329:0</value>
+  </data>
+  <data name="msgUncPathIsNotSupported" xml:space="preserve">
+    <value>crwdns5397:0crwdne5397:0</value>
+  </data>
+  <data name="lblDecklinkPlayoutIntro" xml:space="preserve">
+    <value>crwdns5398:0crwdne5398:0</value>
+  </data>
+  <data name="lblDecklinkPlayoutTo" xml:space="preserve">
+    <value>crwdns5399:0crwdne5399:0</value>
+  </data>
+  <data name="lblDecklinkPlayoutResFps" xml:space="preserve">
+    <value>crwdns5400:0{0}crwdne5400:0</value>
+  </data>
+  <data name="msgLicenseOffer_libh264qs" xml:space="preserve">
+    <value>crwdns5401:0{0}crwdne5401:0</value>
+  </data>
+  <data name="msgLicenseOffer_libh264qsext" xml:space="preserve">
+    <value>crwdns5402:0{0}crwdne5402:0</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_SCENECUR" xml:space="preserve">
+    <value>crwdns9439:0crwdne9439:0</value>
+  </data>
+  <data name="msgLicenseOffer_AAC" xml:space="preserve">
+    <value>crwdns5405:0crwdne5405:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgCantReconfigureYet" xml:space="preserve">
+    <value>crwdns5406:0crwdne5406:0</value>
+  </data>
+  <data name="lblEnterCaptcha" xml:space="preserve">
+    <value>crwdns5407:0crwdne5407:0</value>
+  </data>
+  <data name="msgNotLiveForAnnounce" xml:space="preserve">
+    <value>crwdns5408:0crwdne5408:0</value>
+  </data>
+  <data name="titleNotLiveForAnnounce" xml:space="preserve">
+    <value>crwdns5409:0crwdne5409:0</value>
+  </data>
+  <data name="LocalStreamingNonPremiumNotice" xml:space="preserve">
+    <value>crwdns5412:0crwdne5412:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgSkypeVideoSourceBuyXSplitOffer" xml:space="preserve">
+    <value>crwdns5413:0crwdne5413:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="RoxioGameCaptureNotice" xml:space="preserve">
+    <value>crwdns5414:0crwdne5414:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="HauppaugeHdPvr2Notice" xml:space="preserve">
+    <value>crwdns5415:0crwdne5415:0</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="titleShareFailed" xml:space="preserve">
+    <value>crwdns5417:0crwdne5417:0</value>
+  </data>
+  <data name="msgRecordingPathIsTooLong" xml:space="preserve">
+    <value>crwdns5418:0{0}crwdne5418:0</value>
+  </data>
+  <data name="msgGamesourceUpdateNeedsRestart" xml:space="preserve">
+    <value>crwdns5419:0crwdne5419:0</value>
+  </data>
+  <data name="msgGamesourceCantLoadMayNeedRestart" xml:space="preserve">
+    <value>crwdns5420:0crwdne5420:0</value>
+  </data>
+  <data name="msgProfileSyncFailed" xml:space="preserve">
+    <value>crwdns5421:0{0}crwdne5421:0</value>
+  </data>
+  <data name="msgCantRemoveResolution" xml:space="preserve">
+    <value>crwdns5422:0crwdne5422:0</value>
+  </data>
+  <data name="msgCantDeleteChannel" xml:space="preserve">
+    <value>crwdns5424:0crwdne5424:0</value>
+  </data>
+  <data name="msgCantCreateRecordingFile" xml:space="preserve">
+    <value>crwdns5444:0{0}crwdne5444:0</value>
+  </data>
+  <data name="activationReminderTitle" xml:space="preserve">
+    <value>crwdns5660:0crwdne5660:0</value>
+  </data>
+  <data name="msgStreamResolutionIsNotSupportedResolution1" xml:space="preserve">
+    <value>crwdns5968:0crwdne5968:0</value>
+  </data>
+  <data name="msgBwtestTerminated" xml:space="preserve">
+    <value>crwdns6079:0{0}crwdne6079:0</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally_Paused" xml:space="preserve">
+    <value>crwdns14338:0{0}crwdne14338:0</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally_Paused1" xml:space="preserve">
+    <value>crwdns14339:0crwdne14339:0</value>
+  </data>
+  <data name="WatermarkOn" xml:space="preserve">
+    <value>crwdns6086:0crwdne6086:0</value>
+  </data>
+  <data name="CustomFramerateLabel1" xml:space="preserve">
+    <value>crwdns6103:0crwdne6103:0</value>
+  </data>
+  <data name="PreviewWindow" xml:space="preserve">
+    <value>crwdns7132:0crwdne7132:0</value>
+  </data>
+  <data name="msgPausedRecordingWarning" xml:space="preserve">
+    <value>crwdns7133:0{0}crwdne7133:0</value>
+  </data>
+  <data name="msgPausedRecordingWarning1" xml:space="preserve">
+    <value>crwdns7134:0{0}crwdnd7134:0{1}crwdne7134:0</value>
+  </data>
+  <data name="addGameAutoDetect" xml:space="preserve">
+    <value>crwdns7135:0crwdne7135:0</value>
+  </data>
+  <data name="addGameAutoDetect1" xml:space="preserve">
+    <value>crwdns7136:0crwdne7136:0</value>
+  </data>
+  <data name="lblNBuffer1_Tooltip" xml:space="preserve">
+    <value>crwdns7137:0crwdne7137:0</value>
+  </data>
+  <data name="lblNExtra_Tooltip" xml:space="preserve">
+    <value>crwdns7138:0crwdne7138:0</value>
+  </data>
+  <data name="lblNMaxKeyint1_Tooltip" xml:space="preserve">
+    <value>crwdns7139:0crwdne7139:0</value>
+  </data>
+  <data name="lblNPreset_Tooltip" xml:space="preserve">
+    <value>crwdns7140:0crwdne7140:0</value>
+  </data>
+  <data name="lblNQuality_Tooltip" xml:space="preserve">
+    <value>crwdns7141:0crwdne7141:0</value>
+  </data>
+  <data name="lblNResolution_Tooltip" xml:space="preserve">
+    <value>crwdns7142:0crwdne7142:0</value>
+  </data>
+  <data name="lblStrictCBR_Tooltip" xml:space="preserve">
+    <value>crwdns7143:0crwdne7143:0</value>
+  </data>
+  <data name="runLogReportToolToolStripMenuItem" xml:space="preserve">
+    <value>crwdns7627:0crwdne7627:0</value>
+  </data>
+  <data name="logoutToolStripMenuItem" xml:space="preserve">
+    <value>crwdns126894:0crwdne126894:0</value>
+  </data>
+  <data name="growlStreamIsDelayed" xml:space="preserve">
+    <value>crwdns7147:0{0}crwdne7147:0</value>
+  </data>
+  <data name="growlStreamIsDelayedStopping" xml:space="preserve">
+    <value>crwdns7345:0{0}crwdnd7345:0{1}crwdne7345:0</value>
+  </data>
+  <data name="chkRecordStream_Tooltip" xml:space="preserve">
+    <value>crwdns7148:0crwdne7148:0</value>
+  </data>
+  <data name="AddWebUrl" xml:space="preserve">
+    <value>crwdns7149:0crwdne7149:0</value>
+  </data>
+  <data name="AddRtmpStream" xml:space="preserve">
+    <value>crwdns7548:0crwdne7548:0</value>
+  </data>
+  <data name="AddScriptPlugin" xml:space="preserve">
+    <value>crwdns73700:0crwdne73700:0</value>
+  </data>
+  <data name="lblAudioOut" xml:space="preserve">
+    <value>crwdns7152:0crwdne7152:0</value>
+  </data>
+  <data name="StopLocalRecording" xml:space="preserve">
+    <value>crwdns7153:0crwdne7153:0</value>
+  </data>
+  <data name="PauseLocalRecording" xml:space="preserve">
+    <value>crwdns7154:0crwdne7154:0</value>
+  </data>
+  <data name="ResumeLocalRecording" xml:space="preserve">
+    <value>crwdns7155:0crwdne7155:0</value>
+  </data>
+  <data name="msgMixerFpsNotSupportedByVideoCodec" xml:space="preserve">
+    <value>crwdns7719:0{0}crwdnd7719:0{1}crwdne7719:0</value>
+  </data>
+  <data name="msgVideoCodecMaxEncodeLimited" xml:space="preserve">
+    <value>crwdns7295:0{0}crwdnd7295:0{1}crwdne7295:0</value>
+  </data>
+  <data name="frmFeedback" xml:space="preserve">
+    <value>crwdns7628:0crwdne7628:0</value>
+  </data>
+  <data name="msgdiskwritefailure_recording" xml:space="preserve">
+    <value>crwdns7720:0crwdne7720:0</value>
+  </data>
+  <data name="msgdiskwritefailure_streaming" xml:space="preserve">
+    <value>crwdns7721:0crwdne7721:0</value>
+  </data>
+  <data name="msgRE2ParameterWarning" xml:space="preserve">
+    <value>crwdns7778:0{0}crwdne7778:0</value>
+  </data>
+  <data name="growlMinAvailMemWarning" xml:space="preserve">
+    <value>crwdns7779:0{0}crwdne7779:0</value>
+  </data>
+  <data name="growlD3dOnIntelWarning" xml:space="preserve">
+    <value>crwdns7780:0crwdne7780:0</value>
+  </data>
+  <data name="growlD3dOnIntelWarningHasOtherGPUOnDesktop" xml:space="preserve">
+    <value>crwdns9417:0crwdne9417:0</value>
+  </data>
+  <data name="growlMp4FinalizationFailed" xml:space="preserve">
+    <value>crwdns14848:0{0}crwdne14848:0</value>
+  </data>
+  <data name="growlRestartingWithEncoderError" xml:space="preserve">
+    <value>crwdns9834:0{2}crwdnd9834:0{0}crwdnd9834:0{1}crwdne9834:0</value>
+  </data>
+  <data name="growlRestartingWithEncoderError2" xml:space="preserve">
+    <value>crwdns9835:0{1}crwdnd9835:0{0}crwdne9835:0</value>
+  </data>
+  <data name="growlDesktopCaptureOnAeroWarning" xml:space="preserve">
+    <value>crwdns7908:0crwdne7908:0</value>
+  </data>
+  <data name="msgStreamingUnsupportedVideoCodec1" xml:space="preserve">
+    <value>crwdns7915:0{0}crwdnd7915:0{1}crwdne7915:0</value>
+  </data>
+  <data name="msgConfirmStreamingCodecInStage" xml:space="preserve">
+    <value>crwdns7916:0{0}crwdnd7916:0{1}crwdnd7916:0{0}crwdne7916:0</value>
+  </data>
+  <data name="msgStreamingUnsupportedVideoCodec2Confirm" xml:space="preserve">
+    <value>crwdns7917:0{0}crwdnd7917:0{1}crwdnd7917:0{2}crwdnd7917:0{3}crwdnd7917:0{0}crwdne7917:0</value>
+  </data>
+  <data name="msgCefGpuRendererStateChangedWarning" xml:space="preserve">
+    <value>crwdns8093:0crwdne8093:0</value>
+  </data>
+  <data name="volumeRange" xml:space="preserve">
+    <value>crwdns8448:0{0}crwdne8448:0</value>
+  </data>
+  <data name="goLiveAndCloseSceneEditorTsmi" xml:space="preserve">
+    <value>crwdns8449:0crwdne8449:0</value>
+  </data>
+  <data name="goLiveAndReloadSceneEditor" xml:space="preserve">
+    <value>crwdns8450:0crwdne8450:0</value>
+  </data>
+  <data name="goLiveAndSwapLiveWithSceneEditor" xml:space="preserve">
+    <value>crwdns13778:0crwdne13778:0</value>
+  </data>
+  <data name="goLiveAndSwitchSceneEditor" xml:space="preserve">
+    <value>crwdns8452:0crwdne8452:0</value>
+  </data>
+  <data name="goLiveAndSwitchToLiveSceneEditor" xml:space="preserve">
+    <value>crwdns13779:0crwdne13779:0</value>
+  </data>
+  <data name="goLiveAndSwitchToLiveSceneSplit" xml:space="preserve">
+    <value>crwdns13780:0crwdne13780:0</value>
+  </data>
+  <data name="growlNonDefaultStreamResFpsXbc5003" xml:space="preserve">
+    <value>crwdns11960:0{0}crwdnd11960:0{1}crwdne11960:0</value>
+  </data>
+  <data name="growlNonDefaultStreamResFps" xml:space="preserve">
+    <value>crwdns9231:0{0}crwdnd9231:0{1}crwdne9231:0</value>
+  </data>
+  <data name="growlNonDefaultStreamResFpsForInvalidLicense" xml:space="preserve">
+    <value>crwdns11536:0{0}crwdnd11536:0{1}crwdne11536:0</value>
+  </data>
+  <data name="chkStreamDelay" xml:space="preserve">
+    <value>crwdns9301:0crwdne9301:0</value>
+  </data>
+  <data name="lblStreamDelay" xml:space="preserve">
+    <value>crwdns9302:0crwdne9302:0</value>
+  </data>
+  <data name="msgNonDefaultStreamAspectRatioDifferent" xml:space="preserve">
+    <value>crwdns9331:0{0}crwdnd9331:0{1}crwdne9331:0</value>
+  </data>
+  <data name="msgNonDefaultStreamResLarger" xml:space="preserve">
+    <value>crwdns9332:0{0}crwdnd9332:0{1}crwdne9332:0</value>
+  </data>
+  <data name="transitionSpeedTsmi" xml:space="preserve">
+    <value>crwdns9434:0crwdne9434:0</value>
+  </data>
+  <data name="favTransitionAddTip" xml:space="preserve">
+    <value>crwdns9435:0crwdne9435:0</value>
+  </data>
+  <data name="favTransitionMaxTip" xml:space="preserve">
+    <value>crwdns9436:0crwdne9436:0</value>
+  </data>
+  <data name="favTransitionShortcutTip" xml:space="preserve">
+    <value>crwdns9772:0crwdne9772:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_FAVTRANSADD" xml:space="preserve">
+    <value>crwdns9440:0crwdne9440:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_FAVTRANSLIST" xml:space="preserve">
+    <value>crwdns9441:0crwdne9441:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GOLIVELIST" xml:space="preserve">
+    <value>crwdns13263:0crwdne13263:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SCENELIST" xml:space="preserve">
+    <value>crwdns9443:0crwdne9443:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_TRANSLIST" xml:space="preserve">
+    <value>crwdns9444:0crwdne9444:0</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_SCENESRC" xml:space="preserve">
+    <value>crwdns9445:0crwdne9445:0</value>
+  </data>
+  <data name="favTransitionAddTip1" xml:space="preserve">
+    <value>crwdns9795:0crwdne9795:0</value>
+  </data>
+  <data name="msgAskToBackupPresDueToNewSceneIndexes" xml:space="preserve">
+    <value>crwdns9797:0crwdne9797:0</value>
+  </data>
+  <data name="msgFunctionUnavailableDueToClosedPort" xml:space="preserve">
+    <value>crwdns9798:0{0}crwdne9798:0</value>
+  </data>
+  <data name="AutoSetup" xml:space="preserve">
+    <value>crwdns9819:0crwdne9819:0</value>
+  </data>
+  <data name="btnRedoTest" xml:space="preserve">
+    <value>crwdns9820:0crwdne9820:0</value>
+  </data>
+  <data name="colComputerHw" xml:space="preserve">
+    <value>crwdns9821:0crwdne9821:0</value>
+  </data>
+  <data name="colReqUpload" xml:space="preserve">
+    <value>crwdns9822:0crwdne9822:0</value>
+  </data>
+  <data name="colResolution" xml:space="preserve">
+    <value>crwdns9823:0crwdne9823:0</value>
+  </data>
+  <data name="lblLegendText" xml:space="preserve">
+    <value>crwdns9824:0crwdne9824:0</value>
+  </data>
+  <data name="lnkLogs" xml:space="preserve">
+    <value>crwdns9825:0crwdne9825:0</value>
+  </data>
+  <data name="scriptAddTsmi" xml:space="preserve">
+    <value>crwdns14629:0crwdne14629:0</value>
+  </data>
+  <data name="moreExtensionsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns14630:0crwdne14630:0</value>
+  </data>
+  <data name="scriptEditorTsmi" xml:space="preserve">
+    <value>crwdns10415:0crwdne10415:0</value>
+  </data>
+  <data name="scriptRemoveTsmi" xml:space="preserve">
+    <value>crwdns12275:0crwdne12275:0</value>
+  </data>
+  <data name="msgSettingsSaved_RestartNeeded" xml:space="preserve">
+    <value>crwdns10437:0[table]crwdnd10437:0[/table]crwdne10437:0</value>
+  </data>
+  <data name="msgOSCompatiblityModeWarning" xml:space="preserve">
+    <value>crwdns10449:0crwdne10449:0</value>
+  </data>
+  <data name="growlHighCpuUsageWarning" xml:space="preserve">
+    <value>crwdns11408:0crwdne11408:0</value>
+  </data>
+  <data name="growlPowerSchemeWarning" xml:space="preserve">
+    <value>crwdns11410:0{0}crwdne11410:0</value>
+  </data>
+  <data name="msgEVRWarning" xml:space="preserve">
+    <value>crwdns11411:0crwdne11411:0</value>
+  </data>
+  <data name="msgFeatureRequiresMFP" xml:space="preserve">
+    <value>crwdns11444:0[here]crwdnd11444:0{0}crwdne11444:0</value>
+  </data>
+  <data name="enableHardwareAccelerateUSB2" xml:space="preserve">
+    <value>crwdns11537:0crwdne11537:0</value>
+  </data>
+  <data name="enableMFEngine" xml:space="preserve">
+    <value>crwdns11538:0crwdne11538:0</value>
+  </data>
+  <data name="BroadcasterTriggerAds" xml:space="preserve">
+    <value>crwdns11539:0{0}crwdne11539:0</value>
+  </data>
+  <data name="enableDeveloperMode" xml:space="preserve">
+    <value>crwdns11754:0crwdne11754:0</value>
+  </data>
+  <data name="msgRemoteDebugPortIsBusy" xml:space="preserve">
+    <value>crwdns11755:0{0}crwdne11755:0</value>
+  </data>
+  <data name="msgRemoteDebugPortIsOkay" xml:space="preserve">
+    <value>crwdns11756:0{0}crwdne11756:0</value>
+  </data>
+  <data name="msgNoNetNoValidLocal" xml:space="preserve">
+    <value>crwdns11757:0crwdne11757:0</value>
+  </data>
+  <data name="msgInvalidSocialAccountInfo" xml:space="preserve">
+    <value>crwdns11758:0crwdne11758:0</value>
+  </data>
+  <data name="lblAdapter" xml:space="preserve">
+    <value>crwdns11855:0crwdne11855:0</value>
+    <comment>XBC plugins-wide; Properties</comment>
+  </data>
+  <data name="lblNetworkConnection" xml:space="preserve">
+    <value>crwdns11856:0crwdne11856:0</value>
+    <comment>XBC plugins-wide; Properties</comment>
+  </data>
+  <data name="btnSetupWizard" xml:space="preserve">
+    <value>crwdns11857:0crwdne11857:0</value>
+    <comment>Plugins with wizard feature (i.e. Dailymotion, Hitbox, Twitch, Ustream); Properties</comment>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>crwdns11863:0crwdne11863:0</value>
+    <comment>XBC plugins-wide (default value); Properties</comment>
+  </data>
+  <data name="lblNic_System" xml:space="preserve">
+    <value>crwdns11886:0crwdne11886:0</value>
+  </data>
+  <data name="msgCarbonCopyTerminatedDueToDiskWriteFailure" xml:space="preserve">
+    <value>crwdns11887:0crwdne11887:0</value>
+  </data>
+  <data name="msgRecordingTerminatedDueToDiskWriteFailure" xml:space="preserve">
+    <value>crwdns11888:0crwdne11888:0</value>
+  </data>
+  <data name="msgDeckLinkPlayoutStopped_PossiblyUnplugged" xml:space="preserve">
+    <value>crwdns11892:0{0}crwdne11892:0</value>
+  </data>
+  <data name="msgBMWDMRecommended" xml:space="preserve">
+    <value>crwdns11893:0{0}crwdne11893:0</value>
+  </data>
+  <data name="msgDecklinkPlayoutAborted" xml:space="preserve">
+    <value>crwdns11895:0{0}crwdnd11895:0{0}crwdne11895:0</value>
+  </data>
+  <data name="lblDisabled" xml:space="preserve">
+    <value>crwdns11926:0crwdne11926:0</value>
+  </data>
+  <data name="lblEnabled" xml:space="preserve">
+    <value>crwdns11927:0crwdne11927:0</value>
+  </data>
+  <data name="enableNativeFlashAndBrowserAudio" xml:space="preserve">
+    <value>crwdns11928:0crwdne11928:0</value>
+  </data>
+  <data name="upgradeExtendLicenseToolStripMenuItem" xml:space="preserve">
+    <value>crwdns11962:0crwdne11962:0</value>
+  </data>
+  <data name="upgradeExtendLicenseToolStripMenuItem2" xml:space="preserve">
+    <value>crwdns11963:0crwdne11963:0</value>
+  </data>
+  <data name="screenshotsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns14631:0crwdne14631:0</value>
+  </data>
+  <data name="btnDeleteChannel" xml:space="preserve">
+    <value>crwdns11965:0crwdne11965:0</value>
+  </data>
+  <data name="titleDeleteChannel" xml:space="preserve">
+    <value>crwdns11966:0crwdne11966:0</value>
+  </data>
+  <data name="pbNetworkConnection_Tooltip" xml:space="preserve">
+    <value>crwdns11999:0crwdne11999:0</value>
+  </data>
+  <data name="executeCustomURLToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12000:0crwdne12000:0</value>
+  </data>
+  <data name="pluginStoreToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12001:0crwdne12001:0</value>
+  </data>
+  <data name="myPluginsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12002:0crwdne12002:0</value>
+  </data>
+  <data name="deleteSceneToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12003:0crwdne12003:0</value>
+  </data>
+  <data name="duplicateSceneToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12004:0crwdne12004:0</value>
+  </data>
+  <data name="loadSceneToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12005:0crwdne12005:0</value>
+  </data>
+  <data name="newSceneToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12006:0crwdne12006:0</value>
+  </data>
+  <data name="saveSceneAsImageToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12007:0crwdne12007:0</value>
+  </data>
+  <data name="saveSceneToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12008:0crwdne12008:0</value>
+  </data>
+  <data name="titleExecuteCustomURI" xml:space="preserve">
+    <value>crwdns12085:0crwdne12085:0</value>
+  </data>
+  <data name="msgInvalidURI" xml:space="preserve">
+    <value>crwdns12086:0crwdne12086:0</value>
+  </data>
+  <data name="titleLicenseIsNearExpiration" xml:space="preserve">
+    <value>crwdns12087:0crwdne12087:0</value>
+  </data>
+  <data name="msgLicenseIsNearExpiration" xml:space="preserve">
+    <value>crwdns12088:0{0}crwdne12088:0</value>
+  </data>
+  <data name="msgLicenseIsExpired" xml:space="preserve">
+    <value>crwdns12089:0crwdne12089:0</value>
+  </data>
+  <data name="titleLicenseIsExpired" xml:space="preserve">
+    <value>crwdns12090:0crwdne12090:0</value>
+  </data>
+  <data name="msgLicenseIsNearExpiration2" xml:space="preserve">
+    <value>crwdns12091:0crwdne12091:0</value>
+  </data>
+  <data name="btnRenewLicense" xml:space="preserve">
+    <value>crwdns12092:0crwdne12092:0</value>
+  </data>
+  <data name="growlScreenshotTaken" xml:space="preserve">
+    <value>crwdns14849:0crwdne14849:0</value>
+  </data>
+  <data name="LocalFiles" xml:space="preserve">
+    <value>crwdns12170:0crwdne12170:0</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12171:0crwdne12171:0</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem1" xml:space="preserve">
+    <value>crwdns12172:0crwdne12172:0</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem2" xml:space="preserve">
+    <value>crwdns12330:0crwdne12330:0</value>
+  </data>
+  <data name="msgCantDeleteSceneWhileEditingOrProjecting" xml:space="preserve">
+    <value>crwdns12174:0crwdne12174:0</value>
+  </data>
+  <data name="msgCantDeleteSceneWhileInUse" xml:space="preserve">
+    <value>crwdns125668:0crwdne125668:0</value>
+  </data>
+  <data name="msgCannotOpenMultipleXVE" xml:space="preserve">
+    <value>crwdns12175:0crwdne12175:0</value>
+  </data>
+  <data name="deleteSceneToolStripMenuItem1" xml:space="preserve">
+    <value>crwdns12176:0crwdne12176:0</value>
+  </data>
+  <data name="msgCantParseOutputUriWhileStreaming" xml:space="preserve">
+    <value>crwdns12177:0crwdne12177:0</value>
+  </data>
+  <data name="msgExecuringUri" xml:space="preserve">
+    <value>crwdns12178:0crwdne12178:0</value>
+  </data>
+  <data name="newtekNDIStreamBetaToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12473:0crwdne12473:0</value>
+  </data>
+  <data name="newtekNDIStreamToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12276:0crwdne12276:0</value>
+  </data>
+  <data name="msgNdiBetaNotice" xml:space="preserve">
+    <value>crwdns12277:0crwdne12277:0</value>
+  </data>
+  <data name="msgSystemTimeIsIncorrect" xml:space="preserve">
+    <value>crwdns12286:0crwdne12286:0</value>
+  </data>
+  <data name="msgWarningOn32bitOS" xml:space="preserve">
+    <value>crwdns12287:0crwdne12287:0</value>
+  </data>
+  <data name="msgSteamLicenseConflict" xml:space="preserve">
+    <value>crwdns12331:0crwdne12331:0</value>
+  </data>
+  <data name="msgNonDefaultSystemSoundWarning" xml:space="preserve">
+    <value>crwdns12332:0{0}crwdne12332:0</value>
+  </data>
+  <data name="changeLanguageToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12333:0crwdne12333:0</value>
+  </data>
+  <data name="msgPort443IsBlocked" xml:space="preserve">
+    <value>crwdns12337:0crwdne12337:0</value>
+  </data>
+  <data name="titlePort443IsBlocked" xml:space="preserve">
+    <value>crwdns12338:0crwdne12338:0</value>
+  </data>
+  <data name="aboutNdiToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12339:0crwdne12339:0</value>
+  </data>
+  <data name="noNdiSourcesFoundOnNetworkToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12340:0crwdne12340:0</value>
+  </data>
+  <data name="msgHasNoNdiPrereq" xml:space="preserve">
+    <value>crwdns12365:0[here]crwdne12365:0</value>
+  </data>
+  <data name="msgHasNoNdiPrereqX64" xml:space="preserve">
+    <value>crwdns14238:0[here]crwdne14238:0</value>
+  </data>
+  <data name="titleHasNoNdiPrereq" xml:space="preserve">
+    <value>crwdns12366:0crwdne12366:0</value>
+  </data>
+  <data name="noNdiPrereqToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12367:0crwdne12367:0</value>
+  </data>
+  <data name="tsslDisplayFps_Tooltip" xml:space="preserve">
+    <value>crwdns12761:0crwdne12761:0</value>
+  </data>
+  <data name="tsslDisplayFpsVal_Tooltip" xml:space="preserve">
+    <value>crwdns12762:0crwdne12762:0</value>
+  </data>
+  <data name="tsslCPU_Tooltip" xml:space="preserve">
+    <value>crwdns12763:0crwdne12763:0</value>
+  </data>
+  <data name="tsslCPUVal_Tooltip" xml:space="preserve">
+    <value>crwdns12764:0crwdne12764:0</value>
+  </data>
+  <data name="tsslGPU_Tooltip" xml:space="preserve">
+    <value>crwdns14340:0crwdne14340:0</value>
+  </data>
+  <data name="tsslGPUVal_Tooltip" xml:space="preserve">
+    <value>crwdns14341:0crwdne14341:0</value>
+  </data>
+  <data name="move_bottomTransition" xml:space="preserve">
+    <value>crwdns12402:0crwdne12402:0</value>
+  </data>
+  <data name="move_leftTransition" xml:space="preserve">
+    <value>crwdns12403:0crwdne12403:0</value>
+  </data>
+  <data name="move_left_rightTransition" xml:space="preserve">
+    <value>crwdns12404:0crwdne12404:0</value>
+  </data>
+  <data name="move_rightTransition" xml:space="preserve">
+    <value>crwdns12405:0crwdne12405:0</value>
+  </data>
+  <data name="move_topTransition" xml:space="preserve">
+    <value>crwdns12406:0crwdne12406:0</value>
+  </data>
+  <data name="move_top_bottomTransition" xml:space="preserve">
+    <value>crwdns12407:0crwdne12407:0</value>
+  </data>
+  <data name="msgAudioDevice_DefaultMicrophone" xml:space="preserve">
+    <value>crwdns12408:0crwdne12408:0</value>
+  </data>
+  <data name="msgAudioDevice_DefaultSpeakers" xml:space="preserve">
+    <value>crwdns12409:0crwdne12409:0</value>
+  </data>
+  <data name="noneTransition" xml:space="preserve">
+    <value>crwdns12410:0crwdne12410:0</value>
+  </data>
+  <data name="msgTobiiPluginDisabled" xml:space="preserve">
+    <value>crwdns12415:0crwdne12415:0</value>
+  </data>
+  <data name="msgTobiiSourceRemoved" xml:space="preserve">
+    <value>crwdns12416:0crwdne12416:0</value>
+  </data>
+  <data name="newProjectorWindowToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12474:0crwdne12474:0</value>
+  </data>
+  <data name="newProjectorWindowToolStripMenuItem2" xml:space="preserve">
+    <value>crwdns12475:0crwdne12475:0</value>
+  </data>
+  <data name="accountSettingsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12476:0crwdne12476:0</value>
+  </data>
+  <data name="browserD3dMode" xml:space="preserve">
+    <value>crwdns12599:0crwdne12599:0</value>
+  </data>
+  <data name="msgErrorUpdatingYtVideo" xml:space="preserve">
+    <value>crwdns12600:0crwdne12600:0</value>
+  </data>
+  <data name="msgCancelUpload" xml:space="preserve">
+    <value>crwdns12601:0crwdne12601:0</value>
+  </data>
+  <data name="titleCancelUpload" xml:space="preserve">
+    <value>crwdns12602:0crwdne12602:0</value>
+  </data>
+  <data name="msgDeleteYtVideo" xml:space="preserve">
+    <value>crwdns12603:0crwdne12603:0</value>
+  </data>
+  <data name="titleDeleteVideo" xml:space="preserve">
+    <value>crwdns12604:0crwdne12604:0</value>
+  </data>
+  <data name="msgCantDoActionWhileUploading" xml:space="preserve">
+    <value>crwdns12605:0crwdne12605:0</value>
+  </data>
+  <data name="msgTitleIsEmpty" xml:space="preserve">
+    <value>crwdns12606:0crwdne12606:0</value>
+  </data>
+  <data name="msgCantUploadFileIsInUse" xml:space="preserve">
+    <value>crwdns12607:0crwdne12607:0</value>
+  </data>
+  <data name="msgUnknownUploadError" xml:space="preserve">
+    <value>crwdns12608:0crwdne12608:0</value>
+  </data>
+  <data name="msgCantDeleteFilesInUse" xml:space="preserve">
+    <value>crwdns12609:0crwdne12609:0</value>
+  </data>
+  <data name="msgCantDeleteSomeFilesInUse" xml:space="preserve">
+    <value>crwdns12610:0crwdne12610:0</value>
+  </data>
+  <data name="msgConfirmDeleteFiles" xml:space="preserve">
+    <value>crwdns12611:0{0}crwdne12611:0</value>
+  </data>
+  <data name="titleConfirmDeleteFiles" xml:space="preserve">
+    <value>crwdns12612:0crwdne12612:0</value>
+  </data>
+  <data name="msgConfirmCreateYtChannel" xml:space="preserve">
+    <value>crwdns12613:0crwdne12613:0</value>
+  </data>
+  <data name="tsslMemory_Tooltip" xml:space="preserve">
+    <value>crwdns99042:0crwdne99042:0</value>
+  </data>
+  <data name="tsslMemoryVal_Tooltip" xml:space="preserve">
+    <value>crwdns99044:0crwdne99044:0</value>
+  </data>
+  <data name="dx12Capture" xml:space="preserve">
+    <value>crwdns12730:0crwdne12730:0</value>
+  </data>
+  <data name="pasteAsLinkedSourceToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12767:0crwdne12767:0</value>
+  </data>
+  <data name="pasteAsNewSourceToolStripMenuItem" xml:space="preserve">
+    <value>crwdns12768:0crwdne12768:0</value>
+  </data>
+  <data name="msgDontShowDialogCheckbox" xml:space="preserve">
+    <value>crwdns12769:0crwdne12769:0</value>
+  </data>
+  <data name="msgConfirmDiscardScene_loadFromFile" xml:space="preserve">
+    <value>crwdns12771:0crwdne12771:0</value>
+  </data>
+  <data name="msgXSplitCertErrorEncountered" xml:space="preserve">
+    <value>crwdns12964:0[br]crwdnd12964:0[br]crwdne12964:0</value>
+  </data>
+  <data name="workspaceClassicToolStripMenuItem" xml:space="preserve">
+    <value>crwdns13089:0crwdne13089:0</value>
+  </data>
+  <data name="workspaceSplitToolStripMenuItem" xml:space="preserve">
+    <value>crwdns13090:0crwdne13090:0</value>
+  </data>
+  <data name="workspaceToolStripMenuItem" xml:space="preserve">
+    <value>crwdns13091:0crwdne13091:0</value>
+  </data>
+  <data name="themeClassicToolStripMenuItem" xml:space="preserve">
+    <value>crwdns161882:0crwdne161882:0</value>
+  </data>
+  <data name="themeDarkToolStripMenuItem" xml:space="preserve">
+    <value>crwdns161884:0crwdne161884:0</value>
+  </data>
+  <data name="themeToolStripMenuItem" xml:space="preserve">
+    <value>crwdns161886:0crwdne161886:0</value>
+  </data>
+  <data name="goLiveAndReloadSceneSplit" xml:space="preserve">
+    <value>crwdns13128:0crwdne13128:0</value>
+  </data>
+  <data name="goLiveAndSwapLiveWithSceneSplit" xml:space="preserve">
+    <value>crwdns13650:0crwdne13650:0</value>
+  </data>
+  <data name="goLiveAndSwitchSceneSplit" xml:space="preserve">
+    <value>crwdns13118:0crwdne13118:0</value>
+  </data>
+  <data name="splitViewMainTitleL1" xml:space="preserve">
+    <value>crwdns13119:0crwdne13119:0</value>
+  </data>
+  <data name="splitViewPrevTitleL1" xml:space="preserve">
+    <value>crwdns13120:0crwdne13120:0</value>
+  </data>
+  <data name="warnNoPreviewEditorOnSplitView" xml:space="preserve">
+    <value>crwdns13121:0crwdne13121:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GOLIVE" xml:space="preserve">
+    <value>crwdns13122:0crwdne13122:0</value>
+  </data>
+  <data name="tsslDisplayFps" xml:space="preserve">
+    <value>crwdns13129:0crwdne13129:0</value>
+  </data>
+  <data name="tsslMemory" xml:space="preserve">
+    <value>crwdns13130:0crwdne13130:0</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_INVALID" xml:space="preserve">
+    <value>crwdns13152:0{0}crwdne13152:0</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_NOT_SET" xml:space="preserve">
+    <value>crwdns13153:0{0}crwdne13153:0</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_TOO_HIGH" xml:space="preserve">
+    <value>crwdns13154:0{0}crwdnd13154:0{0}crwdne13154:0</value>
+  </data>
+  <data name="msgInvalidXSplitAccountInfo" xml:space="preserve">
+    <value>crwdns13155:0{0}crwdne13155:0</value>
+  </data>
+  <data name="otherToolStripMenuItem" xml:space="preserve">
+    <value>crwdns13156:0crwdne13156:0</value>
+  </data>
+  <data name="cutTransition" xml:space="preserve">
+    <value>crwdns13157:0crwdne13157:0</value>
+  </data>
+  <data name="growlMidiGetPortsFailed" xml:space="preserve">
+    <value>crwdns13178:0crwdne13178:0</value>
+  </data>
+  <data name="growlMidiGetPortsNoDevices" xml:space="preserve">
+    <value>crwdns13179:0crwdne13179:0</value>
+  </data>
+  <data name="growlMidiInitFailed" xml:space="preserve">
+    <value>crwdns13180:0crwdne13180:0</value>
+  </data>
+  <data name="growlMidiInitFailedAll" xml:space="preserve">
+    <value>crwdns13181:0crwdne13181:0</value>
+  </data>
+  <data name="msgMidiGetPortsFailed" xml:space="preserve">
+    <value>crwdns13158:0crwdne13158:0</value>
+  </data>
+  <data name="msgMidiGetPortsNoDevices" xml:space="preserve">
+    <value>crwdns13159:0crwdne13159:0</value>
+  </data>
+  <data name="msgMidiInitFailed" xml:space="preserve">
+    <value>crwdns13160:0crwdne13160:0</value>
+  </data>
+  <data name="msgMidiInitFailedAll" xml:space="preserve">
+    <value>crwdns13161:0crwdne13161:0</value>
+  </data>
+  <data name="msgNdiStreamCantStart" xml:space="preserve">
+    <value>crwdns13215:0{0}crwdnd13215:0{1}crwdne13215:0</value>
+  </data>
+  <data name="tsmiProjectLiveScene" xml:space="preserve">
+    <value>crwdns13216:0crwdne13216:0</value>
+  </data>
+  <data name="tsmiProjectPreviewEditor" xml:space="preserve">
+    <value>crwdns13217:0crwdne13217:0</value>
+  </data>
+  <data name="msgUnableToPostBmpToPlayerMe" xml:space="preserve">
+    <value>crwdns13264:0crwdne13264:0</value>
+  </data>
+  <data name="Permissions" xml:space="preserve">
+    <value>crwdns13265:0crwdne13265:0</value>
+  </data>
+  <data name="BroadcasterCaptureMixerImage_desc" xml:space="preserve">
+    <value>crwdns13266:0crwdne13266:0</value>
+  </data>
+  <data name="BroadcasterInsertCuepoint_desc" xml:space="preserve">
+    <value>crwdns13267:0crwdne13267:0</value>
+  </data>
+  <data name="BroadcasterPushLive_desc" xml:space="preserve">
+    <value>crwdns13268:0crwdne13268:0</value>
+  </data>
+  <data name="videoProcessingMode" xml:space="preserve">
+    <value>crwdns13582:0crwdne13582:0</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc1" xml:space="preserve">
+    <value>crwdns13583:0crwdne13583:0</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc2" xml:space="preserve">
+    <value>crwdns13584:0crwdne13584:0</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc3" xml:space="preserve">
+    <value>crwdns13585:0crwdne13585:0</value>
+  </data>
+  <data name="renameSource" xml:space="preserve">
+    <value>crwdns13586:0crwdne13586:0</value>
+  </data>
+  <data name="addWebUrlTsmi" xml:space="preserve">
+    <value>crwdns13587:0crwdne13587:0</value>
+  </data>
+  <data name="LiveStream" xml:space="preserve">
+    <value>crwdns13611:0crwdne13611:0</value>
+  </data>
+  <data name="ablegamersplg" xml:space="preserve">
+    <value>crwdns13612:0crwdne13612:0</value>
+  </data>
+  <data name="beamchatplg" xml:space="preserve">
+    <value>crwdns13613:0crwdne13613:0</value>
+  </data>
+  <data name="dmchatplg" xml:space="preserve">
+    <value>crwdns13614:0crwdne13614:0</value>
+  </data>
+  <data name="extralifeplg" xml:space="preserve">
+    <value>crwdns13615:0crwdne13615:0</value>
+  </data>
+  <data name="facebookchatplg" xml:space="preserve">
+    <value>crwdns14632:0crwdne14632:0</value>
+  </data>
+  <data name="hitboxchatplg" xml:space="preserve">
+    <value>crwdns13617:0crwdne13617:0</value>
+  </data>
+  <data name="ImageSlideshowplg" xml:space="preserve">
+    <value>crwdns13618:0crwdne13618:0</value>
+  </data>
+  <data name="inputvisualizerplg" xml:space="preserve">
+    <value>crwdns13619:0crwdne13619:0</value>
+  </data>
+  <data name="justgivingplg" xml:space="preserve">
+    <value>crwdns13620:0crwdne13620:0</value>
+  </data>
+  <data name="mediaslideshowplg" xml:space="preserve">
+    <value>crwdns13621:0crwdne13621:0</value>
+  </data>
+  <data name="perSceneAudioplg" xml:space="preserve">
+    <value>crwdns13622:0crwdne13622:0</value>
+  </data>
+  <data name="presentationPackagerplg" xml:space="preserve">
+    <value>crwdns13623:0crwdne13623:0</value>
+  </data>
+  <data name="sceneSwitcherplg" xml:space="preserve">
+    <value>crwdns13624:0crwdne13624:0</value>
+  </data>
+  <data name="titleplg" xml:space="preserve">
+    <value>crwdns13625:0crwdne13625:0</value>
+  </data>
+  <data name="twitchalertsplg" xml:space="preserve">
+    <value>crwdns13626:0crwdne13626:0</value>
+  </data>
+  <data name="twitchchathtml5plg" xml:space="preserve">
+    <value>crwdns13627:0crwdne13627:0</value>
+  </data>
+  <data name="twitchchatplg" xml:space="preserve">
+    <value>crwdns13628:0crwdne13628:0</value>
+  </data>
+  <data name="VideoPlaylistplg" xml:space="preserve">
+    <value>crwdns13629:0crwdne13629:0</value>
+  </data>
+  <data name="webMEncoderplg" xml:space="preserve">
+    <value>crwdns13630:0crwdne13630:0</value>
+  </data>
+  <data name="WhiteboardOverlayplg" xml:space="preserve">
+    <value>crwdns13631:0crwdne13631:0</value>
+  </data>
+  <data name="youtubechatplg" xml:space="preserve">
+    <value>crwdns13632:0crwdne13632:0</value>
+  </data>
+  <data name="youtubelivechatplg" xml:space="preserve">
+    <value>crwdns13633:0crwdne13633:0</value>
+  </data>
+  <data name="addSkypeTsmi" xml:space="preserve">
+    <value>crwdns13651:0crwdne13651:0</value>
+  </data>
+  <data name="addSkypeTsmi2" xml:space="preserve">
+    <value>crwdns13652:0crwdne13652:0</value>
+  </data>
+  <data name="ImageSlideshow" xml:space="preserve">
+    <value>crwdns13653:0crwdne13653:0</value>
+  </data>
+  <data name="Starboard" xml:space="preserve">
+    <value>crwdns13654:0crwdne13654:0</value>
+  </data>
+  <data name="title" xml:space="preserve">
+    <value>crwdns13655:0crwdne13655:0</value>
+  </data>
+  <data name="VideoPlaylist" xml:space="preserve">
+    <value>crwdns13656:0crwdne13656:0</value>
+  </data>
+  <data name="WhiteboardOverlay" xml:space="preserve">
+    <value>crwdns13657:0crwdne13657:0</value>
+  </data>
+  <data name="smashcastchatplg" xml:space="preserve">
+    <value>crwdns13700:0crwdne13700:0</value>
+  </data>
+  <data name="youtubesuperchatplg" xml:space="preserve">
+    <value>crwdns13701:0crwdne13701:0</value>
+  </data>
+  <data name="addCustomResolutionToolStripMenuItem" xml:space="preserve">
+    <value>crwdns13768:0crwdne13768:0</value>
+  </data>
+  <data name="twitchcheeralertplg" xml:space="preserve">
+    <value>crwdns13817:0crwdne13817:0</value>
+  </data>
+  <data name="msgMaxResWarning" xml:space="preserve">
+    <value>crwdns13883:0{0}crwdnd13883:0{1}crwdne13883:0</value>
+  </data>
+  <data name="msgInvalidInputValue" xml:space="preserve">
+    <value>crwdns13884:0crwdne13884:0</value>
+  </data>
+  <data name="timespanAndSeparator" xml:space="preserve">
+    <value>crwdns13885:0crwdne13885:0</value>
+  </data>
+  <data name="timespanDaysUnit" xml:space="preserve">
+    <value>crwdns13886:0{0}crwdne13886:0</value>
+  </data>
+  <data name="timespanDayUnit" xml:space="preserve">
+    <value>crwdns13887:0{0}crwdne13887:0</value>
+  </data>
+  <data name="timespanHoursUnit" xml:space="preserve">
+    <value>crwdns13888:0{0}crwdne13888:0</value>
+  </data>
+  <data name="timespanHourUnit" xml:space="preserve">
+    <value>crwdns13889:0{0}crwdne13889:0</value>
+  </data>
+  <data name="timespanMinutesUnit" xml:space="preserve">
+    <value>crwdns13890:0{0}crwdne13890:0</value>
+  </data>
+  <data name="timespanMinuteUnit" xml:space="preserve">
+    <value>crwdns13891:0{0}crwdne13891:0</value>
+  </data>
+  <data name="timespanSecondsUnit" xml:space="preserve">
+    <value>crwdns13892:0{0}crwdne13892:0</value>
+  </data>
+  <data name="timespanSecondUnit" xml:space="preserve">
+    <value>crwdns13893:0{0}crwdne13893:0</value>
+  </data>
+  <data name="timespanSeparator" xml:space="preserve">
+    <value>crwdns13894:0crwdne13894:0</value>
+  </data>
+  <data name="msgMicMutedDueToPttKeyAssignedText" xml:space="preserve">
+    <value>crwdns14093:0{0}crwdne14093:0</value>
+  </data>
+  <data name="msgMicMutedDueToPttKeyAssignedTitle" xml:space="preserve">
+    <value>crwdns14094:0crwdne14094:0</value>
+  </data>
+  <data name="msgMfpWarning" xml:space="preserve">
+    <value>crwdns14095:0{0}crwdne14095:0</value>
+  </data>
+  <data name="addStingerToolStripMenuItem" xml:space="preserve">
+    <value>crwdns73702:0crwdne73702:0</value>
+  </data>
+  <data name="removeStingerToolStripMenuItem" xml:space="preserve">
+    <value>crwdns73704:0crwdne73704:0</value>
+  </data>
+  <data name="stingersToolStripMenuItem" xml:space="preserve">
+    <value>crwdns73706:0crwdne73706:0</value>
+  </data>
+  <data name="msgCantDeleteStingerInUse" xml:space="preserve">
+    <value>crwdns14163:0crwdne14163:0</value>
+  </data>
+  <data name="addStingerplg" xml:space="preserve">
+    <value>crwdns14198:0crwdne14198:0</value>
+  </data>
+  <data name="chkMultitrack" xml:space="preserve">
+    <value>crwdns14342:0crwdne14342:0</value>
+  </data>
+  <data name="pbMultitrack_Tooltip" xml:space="preserve">
+    <value>crwdns14343:0crwdne14343:0</value>
+  </data>
+  <data name="growlPluginUpdateText" xml:space="preserve">
+    <value>crwdns14239:0crwdne14239:0</value>
+  </data>
+  <data name="growlOptimusNeedsRestart" xml:space="preserve">
+    <value>crwdns14240:0crwdne14240:0</value>
+  </data>
+  <data name="BroadcastStatus_Connected" xml:space="preserve">
+    <value>crwdns14344:0{0}crwdne14344:0</value>
+  </data>
+  <data name="BroadcastStatus_Connecting" xml:space="preserve">
+    <value>crwdns14345:0{0}crwdne14345:0</value>
+  </data>
+  <data name="BroadcastStatus_Restarting" xml:space="preserve">
+    <value>crwdns14346:0{0}crwdne14346:0</value>
+  </data>
+  <data name="msgBroadcastTerminated_TooManyRestarts" xml:space="preserve">
+    <value>crwdns14347:0crwdne14347:0</value>
+  </data>
+  <data name="BroadcastStatus_GettingBestServer" xml:space="preserve">
+    <value>crwdns14348:0{0}crwdne14348:0</value>
+  </data>
+  <data name="BroadcastStatus_BestServerFound" xml:space="preserve">
+    <value>crwdns14349:0{0}crwdne14349:0</value>
+  </data>
+  <data name="addReplayTsmi" xml:space="preserve">
+    <value>crwdns14350:0crwdne14350:0</value>
+  </data>
+  <data name="addReplayBottomTsmi" xml:space="preserve">
+    <value>crwdns14351:0crwdne14351:0</value>
+  </data>
+  <data name="uploadLogFilesToolStripMenuItem" xml:space="preserve">
+    <value>crwdns14352:0crwdne14352:0</value>
+  </data>
+  <data name="UploadLogFilesSuccessAlertMessage" xml:space="preserve">
+    <value>crwdns14353:0[here]crwdnd14353:0{0}crwdne14353:0</value>
+  </data>
+  <data name="UploadLogFilesFailedAlertMessage" xml:space="preserve">
+    <value>crwdns14354:0crwdne14354:0</value>
+  </data>
+  <data name="facebookreactionsplg" xml:space="preserve">
+    <value>crwdns14633:0crwdne14633:0</value>
+  </data>
+  <data name="CurrentStageFPS" xml:space="preserve">
+    <value>crwdns14625:0crwdne14625:0</value>
+  </data>
+  <data name="Default" xml:space="preserve">
+    <value>crwdns14634:0crwdne14634:0</value>
+  </data>
+  <data name="restoreResFpsDefaultToolStripMenuItem" xml:space="preserve">
+    <value>crwdns14635:0crwdne14635:0</value>
+  </data>
+  <data name="devicesWebcamCaptureCardsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns14636:0crwdne14636:0</value>
+  </data>
+  <data name="streamsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns14637:0crwdne14637:0</value>
+  </data>
+  <data name="btnSourceMaximize" xml:space="preserve">
+    <value>crwdns81588:0{0}crwdne81588:0</value>
+  </data>
+  <data name="btnSourceRestore" xml:space="preserve">
+    <value>crwdns81590:0{0}crwdne81590:0</value>
+  </data>
+  <data name="tsmiAddSmartScreen" xml:space="preserve">
+    <value>crwdns14640:0crwdne14640:0</value>
+  </data>
+  <data name="tsmiAddDesktopCapture" xml:space="preserve">
+    <value>crwdns14641:0crwdne14641:0</value>
+  </data>
+  <data name="tsmiAddWindowCapture" xml:space="preserve">
+    <value>crwdns14642:0crwdne14642:0</value>
+  </data>
+  <data name="tsmiAddDesktopCaptureMonitor" xml:space="preserve">
+    <value>crwdns14643:0{0}crwdne14643:0</value>
+  </data>
+  <data name="btnSourceLock" xml:space="preserve">
+    <value>crwdns14682:0crwdne14682:0</value>
+  </data>
+  <data name="noSourceLabel" xml:space="preserve">
+    <value>crwdns14644:0crwdne14644:0</value>
+  </data>
+  <data name="addExtensionToolStripMenuItem" xml:space="preserve">
+    <value>crwdns14645:0crwdne14645:0</value>
+  </data>
+  <data name="facebooklivereactionspollcounterplg" xml:space="preserve">
+    <value>crwdns14646:0crwdne14646:0</value>
+  </data>
+  <data name="facebooklivereactionsanimationplg" xml:space="preserve">
+    <value>crwdns14683:0crwdne14683:0</value>
+  </data>
+  <data name="pbShareStream_Tooltip" xml:space="preserve">
+    <value>crwdns14684:0crwdne14684:0</value>
+  </data>
+  <data name="playoutToolStripMenuItem" xml:space="preserve">
+    <value>crwdns14686:0crwdne14686:0</value>
+  </data>
+  <data name="recordToolStripMenuItem" xml:space="preserve">
+    <value>crwdns14688:0crwdne14688:0</value>
+  </data>
+  <data name="addResolutionToolStripMenuItem" xml:space="preserve">
+    <value>crwdns14850:0crwdne14850:0</value>
+  </data>
+  <data name="removeResolutionToolStripMenuItem" xml:space="preserve">
+    <value>crwdns14851:0crwdne14851:0</value>
+  </data>
+  <data name="scaleTo100ToolStripMenuItem" xml:space="preserve">
+    <value>crwdns14852:0crwdne14852:0</value>
+  </data>
+  <data name="snapToGridToolStripMenuItem2" xml:space="preserve">
+    <value>crwdns14853:0crwdne14853:0</value>
+  </data>
+  <data name="duplicateSceneToolStripMenuItem1" xml:space="preserve">
+    <value>crwdns17596:0crwdne17596:0</value>
+  </data>
+  <data name="lblHardware" xml:space="preserve">
+    <value>crwdns17597:0crwdne17597:0</value>
+  </data>
+  <data name="lblSoftware" xml:space="preserve">
+    <value>crwdns17598:0crwdne17598:0</value>
+  </data>
+  <data name="msgCloseWhileVideoEditorIsOpen" xml:space="preserve">
+    <value>crwdns126896:0crwdne126896:0</value>
+  </data>
+  <data name="msgCloseWhileUploadingVod" xml:space="preserve">
+    <value>crwdns126898:0crwdne126898:0</value>
+  </data>
+  <data name="addSkypeNDITsmi" xml:space="preserve">
+    <value>crwdns54222:0crwdne54222:0</value>
+  </data>
+  <data name="msgRtmpsInitException" xml:space="preserve">
+    <value>crwdns54224:0crwdne54224:0</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90024_Offline" xml:space="preserve">
+    <value>crwdns59388:0crwdne59388:0</value>
+  </data>
+  <data name="addLumaToolStripMenuItem" xml:space="preserve">
+    <value>crwdns73708:0crwdne73708:0</value>
+  </data>
+  <data name="lumaTransitionToolStripMenuItem" xml:space="preserve">
+    <value>crwdns73710:0crwdne73710:0</value>
+  </data>
+  <data name="removeLumaToolStripMenuItem" xml:space="preserve">
+    <value>crwdns73712:0crwdne73712:0</value>
+  </data>
+  <data name="msgFailedDeletingStinger" xml:space="preserve">
+    <value>crwdns73714:0crwdne73714:0</value>
+  </data>
+  <data name="growlNvencProbeErrorInvalidVersion" xml:space="preserve">
+    <value>crwdns73716:0crwdne73716:0</value>
+  </data>
+  <data name="transitionSpeedDialogTitle" xml:space="preserve">
+    <value>crwdns79200:0crwdne79200:0</value>
+  </data>
+  <data name="addSceneSourceTsmi" xml:space="preserve">
+    <value>crwdns79202:0crwdne79202:0</value>
+  </data>
+  <data name="ERROR_NVENCHW" xml:space="preserve">
+    <value>crwdns79204:0{0}crwdnd79204:0{1:X}crwdne79204:0</value>
+  </data>
+  <data name="ERROR_NVENC" xml:space="preserve">
+    <value>crwdns79206:0{0}crwdnd79206:0{1:X}crwdne79206:0</value>
+  </data>
+  <data name="lblDecklinkPlayoutFormat" xml:space="preserve">
+    <value>crwdns79962:0crwdne79962:0</value>
+  </data>
+  <data name="cboPlayoutFormatAuto" xml:space="preserve">
+    <value>crwdns79964:0crwdne79964:0</value>
+  </data>
+  <data name="msgNoNetLoginPopup" xml:space="preserve">
+    <value>crwdns94986:0crwdne94986:0</value>
+  </data>
+  <data name="msgRetryTokenLoginValidLocal" xml:space="preserve">
+    <value>crwdns94988:0crwdne94988:0</value>
+  </data>
+  <data name="msgRetryTokenLoginInvalidLocal" xml:space="preserve">
+    <value>crwdns94990:0crwdne94990:0</value>
+  </data>
+  <data name="msgAutoLoginUserDiffer" xml:space="preserve">
+    <value>crwdns94992:0{0}crwdne94992:0</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTime" xml:space="preserve">
+    <value>crwdns92916:0crwdne92916:0</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeWithVal" xml:space="preserve">
+    <value>crwdns92918:0{0}crwdne92918:0</value>
+  </data>
+  <data name="tsmiScenePresetAdd" xml:space="preserve">
+    <value>crwdns92920:0crwdne92920:0</value>
+  </data>
+  <data name="tsmiScenePresetRemove" xml:space="preserve">
+    <value>crwdns92922:0crwdne92922:0</value>
+  </data>
+  <data name="tsmiScenePresetLearnMore" xml:space="preserve">
+    <value>crwdns92924:0crwdne92924:0</value>
+  </data>
+  <data name="btnSourceGroup_Tooltip" xml:space="preserve">
+    <value>crwdns92912:0{0}crwdne92912:0</value>
+  </data>
+  <data name="btnSourceUngroup_Tooltip" xml:space="preserve">
+    <value>crwdns92914:0{0}crwdne92914:0</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_PRESETLIST" xml:space="preserve">
+    <value>crwdns92926:0crwdne92926:0</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET1" xml:space="preserve">
+    <value>crwdns92928:0crwdne92928:0</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET2" xml:space="preserve">
+    <value>crwdns92930:0crwdne92930:0</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET3" xml:space="preserve">
+    <value>crwdns92932:0crwdne92932:0</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET4" xml:space="preserve">
+    <value>crwdns92934:0crwdne92934:0</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogTitle" xml:space="preserve">
+    <value>crwdns92936:0crwdne92936:0</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogLabel" xml:space="preserve">
+    <value>crwdns92938:0crwdne92938:0</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogHeader" xml:space="preserve">
+    <value>crwdns92940:0crwdne92940:0</value>
+  </data>
+  <data name="tsmiScenePresetRemoveDD_Tooltip" xml:space="preserve">
+    <value>crwdns92942:0crwdne92942:0</value>
+  </data>
+  <data name="msgNoNetHasLocalLoginPopup" xml:space="preserve">
+    <value>crwdns94994:0crwdne94994:0</value>
+  </data>
+  <data name="redeemToolStripMenuItem" xml:space="preserve">
+    <value>crwdns94996:0crwdne94996:0</value>
+  </data>
+  <data name="releaseNotesTsmi" xml:space="preserve">
+    <value>crwdns94998:0crwdne94998:0</value>
+  </data>
+  <data name="videoTutorialsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns95000:0crwdne95000:0</value>
+  </data>
+  <data name="expressVideoEditorToolStripMenuItem" xml:space="preserve">
+    <value>crwdns95002:0crwdne95002:0</value>
+  </data>
+  <data name="loadToolStripMenuItem" xml:space="preserve">
+    <value>crwdns95004:0crwdne95004:0</value>
+  </data>
+  <data name="permissionsTsmi" xml:space="preserve">
+    <value>crwdns95006:0crwdne95006:0</value>
+  </data>
+  <data name="previewEditorToolStripMenuItem" xml:space="preserve">
+    <value>crwdns95008:0crwdne95008:0</value>
+  </data>
+  <data name="previewEditor2ToolStripMenuItem" xml:space="preserve">
+    <value>crwdns117786:0crwdne117786:0</value>
+  </data>
+  <data name="projectorScreenLabel" xml:space="preserve">
+    <value>crwdns95010:0{0}crwdne95010:0</value>
+  </data>
+  <data name="saveToolStripMenuItem" xml:space="preserve">
+    <value>crwdns95012:0crwdne95012:0</value>
+  </data>
+  <data name="XSplitBroadcasterTitleText" xml:space="preserve">
+    <value>crwdns95014:0crwdne95014:0</value>
+  </data>
+  <data name="invalidBpzipMessage" xml:space="preserve">
+    <value>crwdns92944:0crwdne92944:0</value>
+  </data>
+  <data name="loadPresentationTitle" xml:space="preserve">
+    <value>crwdns92946:0crwdne92946:0</value>
+  </data>
+  <data name="overwriteBpresFolderMessage" xml:space="preserve">
+    <value>crwdns92948:0{0}crwdne92948:0</value>
+  </data>
+  <data name="selectDirectoryBpzipDesc" xml:space="preserve">
+    <value>crwdns92950:0crwdne92950:0</value>
+  </data>
+  <data name="extractingBpzipFile" xml:space="preserve">
+    <value>crwdns92952:0{0}crwdne92952:0</value>
+  </data>
+  <data name="loadingBpresFile" xml:space="preserve">
+    <value>crwdns92954:0{0}crwdne92954:0</value>
+  </data>
+  <data name="checkingBpzipTargetDir" xml:space="preserve">
+    <value>crwdns92956:0crwdne92956:0</value>
+  </data>
+  <data name="ioExceptionMessageWithBpzipExtraction" xml:space="preserve">
+    <value>crwdns92958:0crwdne92958:0</value>
+  </data>
+  <data name="LocationIsEmpty" xml:space="preserve">
+    <value>crwdns92960:0crwdne92960:0</value>
+  </data>
+  <data name="LocationIsInvalid" xml:space="preserve">
+    <value>crwdns92962:0crwdne92962:0</value>
+  </data>
+  <data name="ExtractBpzip" xml:space="preserve">
+    <value>crwdns92964:0crwdne92964:0</value>
+  </data>
+  <data name="PathIsNotRooted" xml:space="preserve">
+    <value>crwdns92966:0{0}crwdne92966:0</value>
+  </data>
+  <data name="crispSupportTsmi" xml:space="preserve">
+    <value>crwdns110049:0crwdne110049:0</value>
+  </data>
+  <data name="disableSceneTransition" xml:space="preserve">
+    <value>crwdns110051:0crwdne110051:0</value>
+  </data>
+  <data name="sceneTransitionToolStripMenuItem" xml:space="preserve">
+    <value>crwdns110053:0crwdne110053:0</value>
+  </data>
+  <data name="msgConfirmDeleteTransitionInUse" xml:space="preserve">
+    <value>crwdns110055:0crwdne110055:0</value>
+  </data>
+  <data name="msgFailedDeletingTransition" xml:space="preserve">
+    <value>crwdns110057:0crwdne110057:0</value>
+  </data>
+  <data name="msgOverMaxBitrate" xml:space="preserve">
+    <value>crwdns110061:0{0}crwdne110061:0</value>
+  </data>
+  <data name="CustomResolution" xml:space="preserve">
+    <value>crwdns149658:0crwdne149658:0</value>
+  </data>
+  <data name="easeInOutBack" xml:space="preserve">
+    <value>crwdns149660:0crwdne149660:0</value>
+  </data>
+  <data name="easeOutBounceTransition" xml:space="preserve">
+    <value>crwdns149662:0crwdne149662:0</value>
+  </data>
+  <data name="easeOutElasticTransition" xml:space="preserve">
+    <value>crwdns149664:0crwdne149664:0</value>
+  </data>
+  <data name="fadetoblackTransition" xml:space="preserve">
+    <value>crwdns149666:0crwdne149666:0</value>
+  </data>
+  <data name="fadetowhiteTransition" xml:space="preserve">
+    <value>crwdns149668:0crwdne149668:0</value>
+  </data>
+  <data name="zoomTransition" xml:space="preserve">
+    <value>crwdns149670:0crwdne149670:0</value>
+  </data>
+  <data name="copySource" xml:space="preserve">
+    <value>crwdns117788:0crwdne117788:0</value>
+  </data>
+  <data name="pasteSource" xml:space="preserve">
+    <value>crwdns117790:0crwdne117790:0</value>
+  </data>
+  <data name="NdiPlayoutFormatOptionsTitle" xml:space="preserve">
+    <value>crwdns121554:0crwdne121554:0</value>
+  </data>
+  <data name="frmChangeLog" xml:space="preserve">
+    <value>crwdns121558:0crwdne121558:0</value>
+  </data>
+  <data name="dontAskAgain" xml:space="preserve">
+    <value>crwdns121560:0crwdne121560:0</value>
+  </data>
+  <data name="localRecordAddToolStripMenuItem" xml:space="preserve">
+    <value>crwdns121618:0crwdne121618:0</value>
+  </data>
+  <data name="localRecordRemoveToolStripMenuItem" xml:space="preserve">
+    <value>crwdns121620:0crwdne121620:0</value>
+  </data>
+  <data name="scenesListActive" xml:space="preserve">
+    <value>crwdns122436:0crwdne122436:0</value>
+  </data>
+  <data name="ProjectorSettingsTitle" xml:space="preserve">
+    <value>crwdns121878:0crwdne121878:0</value>
+  </data>
+  <data name="projectorSettingsTsmi" xml:space="preserve">
+    <value>crwdns121880:0crwdne121880:0</value>
+  </data>
+  <data name="msgCantEditActiveNdiOutput" xml:space="preserve">
+    <value>crwdns122438:0crwdne122438:0</value>
+  </data>
+  <data name="audioEffectsToolStripMenuItem" xml:space="preserve">
+    <value>crwdns149672:0crwdne149672:0</value>
+  </data>
+  <data name="virtualCameraTsmi" xml:space="preserve">
+    <value>crwdns161888:0crwdne161888:0</value>
+  </data>
+  <data name="gpuAdapter" xml:space="preserve">
+    <value>crwdns161890:0crwdne161890:0</value>
+  </data>
+  <data name="gpuAdapterAuto" xml:space="preserve">
+    <value>crwdns161892:0crwdne161892:0</value>
+  </data>
+</root>

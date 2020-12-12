@@ -1,0 +1,95 @@
+{
+	"mixer_source_alert.source": {
+		"message": "ซอส"
+	},
+	"mixer_source_alert.not_connected": {
+		"message": "ไม่ได้เชื่อมต่อ"
+	},
+	"mixer_source_alert.channel": {
+		"message": "แชนแนล"
+	},
+	"mixer_source_alert.connect": {
+		"message": "เชื่อมต่อ"
+	},
+	"mixer_source_alert.invalid_channel": {
+		"message": "โปรดระบุแชนแนลที่ถูกต้อง"
+	},
+	"mixer_source_alert.alertLabel": {
+		"message": "เตือน"
+	},
+	"mixer_source_alert.type": {
+		"message": "ประเภท"
+	},
+	"mixer_source_alert.theme": {
+		"message": "ธีม"
+	},
+	"mixer_source_alert.color": {
+		"message": "สี"
+	},
+	"mixer_source_alert.layout": {
+		"message": "เลย์เอ้าท์"
+	},
+	"mixer_source_alert.animation_text": {
+		"message": "อนิเมชั่น"
+	},
+	"mixer_source_alert.duration": {
+		"message": "ระยะเวลา"
+	},
+	"mixer_source_alert.delay": {
+		"message": "แสดงเวลา"
+	},
+	"mixer_source_alert.animateIn": {
+		"message": "อนิเมชั่นเข้า"
+	},
+	"mixer_source_alert.animateOut": {
+		"message": "อนิเมชั่นออก"
+	},
+	"mixer_source_alert.nameStyleAndSettings": {
+		"message": "สไตล์ชื่อและการตั้งค่า"
+	},
+	"mixer_source_alert.name": {
+		"message": "ชื่อ"
+	},
+	"mixer_source_alert.minMonth": {
+		"message": "เดือนขั้นต่ำ"
+	},
+	"mixer_source_alert.minViewers": {
+		"message": "ผู้ชมขั้นต่ำ"
+	},
+	"mixer_source_alert.audio": {
+		"message": "เสียง"
+	},
+	"mixer_source_alert.sound": {
+		"message": "เสียง"
+	},
+	"mixer_source_alert.show_alert": {
+		"message": "ตัวอย่าง"
+	},
+	"mixer_source_alert.test_alert": {
+		"message": "ทดสอบการเตือน"
+	},
+	"mixer_source_alert.connected": {
+		"message": "เชื่อมต่อแล้ว"
+	},
+	"mixer_source_alert.disconnect": {
+		"message": "ตัดการเชื่อมต่อ"
+	},
+	"mixer_source_alert.generalHeader": {
+		"message": "ทั่วไป"
+	},
+	"mixer_source_alert.customizeHeader": {
+		"message": "การปรับแต่ง"
+	},
+	"mixer_source_alert.hide_alert": {
+		"message": "ซ่อนพรีวิว"
+	},
+	"mixer_source_alert.account": {
+		"message": "บัญชี"
+	},
+	"mixer_source_alert.authorize": {
+		"message": "เชื่อมต่อ Xsplit เพื่อใช้ Mixer"
+	},
+	"mixer_source_alert.remove_authorization": {
+		"message": "**%api%** ถอนการอนุญาต"
+	}
+}

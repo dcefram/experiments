@@ -1,0 +1,71 @@
+{
+  "chat.title": {
+    "message": "%service% Configuração do chat"
+  },
+  "chat.source": {
+    "message": "Fonte"
+  },
+  "chat.account": {
+    "message": "Conta"
+  },
+  "chat.authorize": {
+    "message": "Autorizar o XSplit para usar %service%"
+  },
+  "chat.deauthorize": {
+    "message": "%username% (anular autorização)"
+  },
+  "chat.connected": {
+    "message": "Conectado"
+  },
+  "chat.not_connected": {
+    "message": "Não conectado"
+  },
+  "chat.channel_text": {
+    "message": "Digite o canal do %service% chat que você deseja exibir."
+  },
+  "chat.channel": {
+    "message": "Canal"
+  },
+  "chat.channel_name": {
+    "message": "Nome do canal"
+  },
+  "chat.connect": {
+    "message": "Conectar-se"
+  },
+  "chat.error_channel_not_found": {
+    "message": "Canal do %service% não encontrado. Por favor, tente novamente."
+  },
+  "chat.error_no_connection": {
+    "message": "Por favor, verifique sua conexão de internet e tente novamente."
+  },
+  "chat.display": {
+    "message": "Tela"
+  },
+  "chat.chat_box": {
+    "message": "Caixa do chat"
+  },
+  "chat.opacity": {
+    "message": "Opacidade"
+  },
+  "chat.viewers": {
+    "message": "Espectadores"
+  },
+  "chat.message": {
+    "message": "Mensagem"
+  },
+  "chat.text_size": {
+    "message": "Tamanho do texto"
+  },
+  "chat.disconnect": {
+    "message": "Desconectar-se"
+  },
+  "chat.connecting": {
+    "message": "Conectando..."
+  },
+  "chat.connect_error": {
+    "message": "%service% não pode se conectar ao canal. Por favor, tente novamente."
+  },
+  "chat.invalid_channel": {
+    "message": "Favor fornecer um canal %service% válido."
+  }
+}

@@ -1,0 +1,83 @@
+{
+	"button.ok": {
+		"message": "OK"
+	},
+	"button.cancel": {
+		"message": "キャンセル"
+	},
+	"button.browse": {
+		"message": "参照…"
+	},
+	"resolution.width": {
+		"message": "幅"
+	},
+	"resolution.height": {
+		"message": "高さ"
+	},
+	"resolution.desc": {
+		"message": "説明"
+	},
+	"framerate.fps": {
+		"message": "FPS"
+	},
+	"rtsp.webpage.header": {
+		"message": "ＵＲＬを入力するか「参照」をクリックしHTMLファイルを追加してください。"
+	},
+	"rtsp.url": {
+		"message": "URL"
+	},
+	"rtsp.protocol.label": {
+		"message": "プロトコル"
+	},
+	"rtsp.protocol2.label": {
+		"message": "プロトコル"
+	},
+	"rtsp.protocol.tooltip": {
+		"message": "低RTSPトランスポートプロトコルを設定します。[br][br] カクツキや遅延がありましたら、プロトコルをTCPからUDPに変更してみてください。ファイアウォールによってブロックされた場合、プロトコルをHTTPに変更してみてください。"
+	},
+	"rtsp.protocoldd.values.tcp": {
+		"message": "TCP"
+	},
+	"rtsp.protocoldd.values.udp": {
+		"message": "UDP"
+	},
+	"rtsp.protocoldd.values.http": {
+		"message": "HTTP"
+	},
+	"rtsp.protocoldd.values.custom": {
+		"message": "カスタム"
+	},
+	"rtmp.url": {
+		"message": "URL"
+	},
+	"rtmp.streamName": {
+		"message": "放送名："
+	},
+	"rtmp.buffer": {
+		"message": "バッファ（秒）"
+	},
+	"script_plugin.header": {
+		"message": "ＵＲＬを入力するか「参照」をクリックしHTMLかPLGファイルを追加してください。"
+	},
+	"locationCaption": {
+		"message": "**%location%** ファイルを抽出する為の場所を選択してください。"
+	},
+	"locationLabel": {
+		"message": "ロケーション"
+	},
+	"easingLabel": {
+		"message": "徐々に"
+	},
+	"easing.none": {
+		"message": "なし"
+	},
+	"easing.in": {
+		"message": "入る"
+	},
+	"easing.out": {
+		"message": "出る"
+	},
+	"easing.inout": {
+		"message": "入る/出る"
+	}
+}

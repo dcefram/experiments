@@ -1,0 +1,95 @@
+{
+  "youtube.source_alert.tabheader": {
+    "message": "警报"
+  },
+  "youtube.source_alert.source": {
+    "message": "资源"
+  },
+  "youtube.source_alert.account": {
+    "message": "帐户"
+  },
+  "youtube.source_alert.authorize": {
+    "message": "授权XSplit使用 YouTube Live"
+  },
+  "youtube.source_alert.remove_authorization": {
+    "message": "**%api%** 删除授权"
+  },
+  "youtube.source_alert.switch_account": {
+    "message": "**%api%** 切换帐户"
+  },
+  "youtube.source_alert.not_connected": {
+    "message": "当直播生效时警报将自动加载"
+  },
+  "youtube.source_alert.connected": {
+    "message": "连接"
+  },
+  "youtube.source_alert.connect": {
+    "message": "连接"
+  },
+  "youtube.source_alert.disconnect": {
+    "message": "断开连接"
+  },
+  "youtube.source_alert.alertLabel": {
+    "message": "警报"
+  },
+  "youtube.source_alert.animation_text": {
+    "message": "动画"
+  },
+  "youtube.source_alert.duration": {
+    "message": "持续时间"
+  },
+  "youtube.source_alert.delay": {
+    "message": "显示时间"
+  },
+  "youtube.source_alert.animateIn": {
+    "message": "动画入场"
+  },
+  "youtube.source_alert.animateOut": {
+    "message": "动画出场"
+  },
+  "youtube.source_alert.audio": {
+    "message": "音频"
+  },
+  "youtube.source_alert.generalHeader": {
+    "message": "常规"
+  },
+  "youtube.source_alert.customizeHeader": {
+    "message": "自定义"
+  },
+  "youtube.source_alert.theme": {
+    "message": "主题"
+  },
+  "youtube.source_alert.minAmount": {
+    "message": "最少数量"
+  },
+  "youtube.source_alert.type": {
+    "message": "类型"
+  },
+  "youtube.source_alert.nameStyleAndSettings": {
+    "message": "名称风格和设置"
+  },
+  "youtube.source_alert.sound": {
+    "message": "声音"
+  },
+  "youtube.source_alert.show_alert": {
+    "message": "预览"
+  },
+  "youtube.source_alert.hide_alert": {
+    "message": "隐藏预览"
+  },
+  "youtube.source_alert.test_alert": {
+    "message": "测试警报"
+  },
+  "youtube.source_alert.Color": {
+    "message": "色彩"
+  },
+  "youtube.source_alert.layout": {
+    "message": "布局"
+  },
+  "youtube.source_alert.loggingInTo": {
+    "message": "登录YouTube..."
+  },
+  "youtube.source_alert.pleaseComplete": {
+    "message": "请在浏览器中完成登录过程"
+  }
+}

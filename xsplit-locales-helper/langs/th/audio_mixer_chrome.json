@@ -1,0 +1,38 @@
+{
+  "audioMixer.settings": {
+    "message": "ตั้งค่าอุปกรณ์"
+  },
+  "audioMixer.device_unavailable": {
+    "message": "อุปกรณ์เสียงนี้ใช้งานไม่ได้"
+  },
+  "audioMixer.global_devices": {
+    "message": "อุปกรณ์สากล"
+  },
+  "audioMixer.playback_devices": {
+    "message": "อุปกรณ์เล่นไฟล์"
+  },
+  "audioMixer.recording_devices": {
+    "message": "อุปกรณ์บันทึก"
+  },
+  "audioMixer.add_device": {
+    "message": "อุปกรณ์ทั้งหมด"
+  },
+  "audioMixer.default_microphone": {
+    "message": "ไมโครโฟนที่เป็นค่าเริ่มต้น"
+  },
+  "audioMixer.default_speakers": {
+    "message": "ลำโพงที่เป็นค่าเริ่มต้น"
+  },
+  "audioMixer.stream_only_audio": {
+    "message": "สตรีมเฉพาะเสียงเท่านั้น"
+  },
+  "audioMixer.mic": {
+    "message": "MIC"
+  },
+  "audioMixer.system": {
+    "message": "ระบบ"
+  },
+  "audioMixer.stream_only": {
+    "message": "สตรีมเท่านั้น"
+  }
+}

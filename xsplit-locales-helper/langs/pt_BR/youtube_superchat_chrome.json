@@ -1,0 +1,77 @@
+{
+	"youtube.superchat.tabheader": {
+		"message": "Alerta"
+	},
+	"youtube.superchat.source": {
+		"message": "Fonte"
+	},
+	"youtube.superchat.account": {
+		"message": "Conta"
+	},
+	"youtube.superchat.preview": {
+		"message": "Pré-visualizar"
+	},
+	"youtube.superchat.account_automatic": {
+		"message": "Automático"
+	},
+	"youtube.superchat.authorize": {
+		"message": "Autorizar o XSplit para usar a Live no YouTube"
+	},
+	"youtube.superchat.remove_authorization": {
+		"message": "**%api%** Remover autorização"
+	},
+	"youtube.superchat.switch_account": {
+		"message": "**%api%** alternar conta"
+	},
+	"youtube.superchat.not_connected": {
+		"message": "O widget conectará automaticamente assim que o stream estiver ao vivo"
+	},
+	"youtube.superchat.connected": {
+		"message": "Conectado"
+	},
+	"youtube.superchat.error_channel_not_found": {
+		"message": "Por favor, forneça um canal válido."
+	},
+	"youtube.superchat.notification": {
+		"message": "Notificação"
+	},
+	"youtube.superchat.lock_components": {
+		"message": "Travar componentes"
+	},
+	"youtube.superchat.lock_components_help": {
+		"message": "Ao marcar esta opção você irá desativar o hover do mouse, reposicionamento e redimensionamento dos componentes.[br]Marque se você não deseja exibir efeitos de hover sobre os componentes, especialmente durante a transmissão ou gravação."
+	},
+	"youtube.superchat.show_ticker": {
+		"message": "Mostrar o Ticker"
+	},
+	"youtube.superchat.show_alert": {
+		"message": "Mostrar alerta"
+	},
+	"youtube.superchat.opacity": {
+		"message": "Opacidade"
+	},
+	"youtube.superchat.font": {
+		"message": "Fonte"
+	},
+	"youtube.superchat.text_size": {
+		"message": "Tamanho do texto"
+	},
+	"youtube.superchat.hide_message": {
+		"message": "Esconder mensagem do Super Chat"
+	},
+	"youtube.superchat.duration": {
+		"message": "Duração"
+	},
+	"youtube.superchat.sound": {
+		"message": "Som"
+	},
+	"youtube.superchat.test_alert": {
+		"message": "Testar alerta"
+	},
+	"youtube.superchat.loggingInTo": {
+		"message": "Logging in to YouTube..."
+	},
+	"youtube.superchat.pleaseComplete": {
+		"message": "Please complete the login process in your browser"
+	}
+}

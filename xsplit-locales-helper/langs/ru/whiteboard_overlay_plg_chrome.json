@@ -1,0 +1,50 @@
+{
+  "whiteboard_overlay.drawing": {
+    "message": "Рисунок"
+  },
+  "whiteboard_overlay.reminder": {
+    "message": "Прежде чем начать рисовать изображение необходимо проверить Lock Position во вкладке Ориентация, что изображение зафиксировано."
+  },
+  "whiteboard_overlay.tool": {
+    "message": "Инструмент"
+  },
+  "whiteboard_overlay.size": {
+    "message": "По размеру"
+  },
+  "whiteboard_overlay.color": {
+    "message": "Цвет"
+  },
+  "whiteboard_overlay.clear_whiteboard": {
+    "message": "Очистить доску"
+  },
+  "whiteboard_overlay.hotkeys": {
+    "message": "Горячие клавиши"
+  },
+  "whiteboard_overlay.hotkey_header": {
+    "message": "Используйте данные клавиши, когда  источник выбран:"
+  },
+  "whiteboard_overlay.hotkey_s": {
+    "message": "Нажмите &quot;** S **&quot; для переключения между размерами (S\/M\/L)"
+  },
+  "whiteboard_overlay.hotkey_shift": {
+    "message": "Удерживайте &quot;** Shift&quot;** для использования дополнительного инструмента [br] Формы: Freeform-> Shape Detect (линия, треугольник, круг, прямоугольник)"
+  },
+  "whiteboard_overlay.hotkey_d": {
+    "message": "Нажмите \"**D**\" для сохранения текущего изображения"
+  },
+  "whiteboard_overlay.hotkey_esc": {
+    "message": "Нажмите &quot;**Esc**&quot; чтобы удалить изображения"
+  },
+  "whiteboard_overlay.tool_options_freehand": {
+    "message": "От руки"
+  },
+  "whiteboard_overlay.size_options_thin": {
+    "message": "Тонкий"
+  },
+  "whiteboard_overlay.size_options_normal": {
+    "message": "Нормальный"
+  },
+  "whiteboard_overlay.size_options_thick": {
+    "message": "Толстый"
+  }
+}

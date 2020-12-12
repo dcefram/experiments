@@ -1,0 +1,17 @@
+{
+	"color_source.tabheader": {
+		"message": "Remplir couleur"
+	},
+	"color_source.title": {
+		"message": "Remplir"
+	},
+	"color_source.solid_color": {
+		"message": "Couleur solide"
+	},
+	"color_source.color_bars": {
+		"message": "Barres de couleur"
+	},
+	"color_source.color": {
+		"message": "Couleur"
+	}
+}

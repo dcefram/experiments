@@ -1,0 +1,95 @@
+{
+	"mixer_source_alert.source": {
+		"message": "مصدر"
+	},
+	"mixer_source_alert.not_connected": {
+		"message": "غير متصل"
+	},
+	"mixer_source_alert.channel": {
+		"message": "قناة "
+	},
+	"mixer_source_alert.connect": {
+		"message": "متصل"
+	},
+	"mixer_source_alert.invalid_channel": {
+		"message": "Please provide a valid channel."
+	},
+	"mixer_source_alert.alertLabel": {
+		"message": "إنذار"
+	},
+	"mixer_source_alert.type": {
+		"message": "Type"
+	},
+	"mixer_source_alert.theme": {
+		"message": "الخلفيات"
+	},
+	"mixer_source_alert.color": {
+		"message": "Color"
+	},
+	"mixer_source_alert.layout": {
+		"message": "Layout"
+	},
+	"mixer_source_alert.animation_text": {
+		"message": "حيوية"
+	},
+	"mixer_source_alert.duration": {
+		"message": "Duration"
+	},
+	"mixer_source_alert.delay": {
+		"message": "وقت العرض"
+	},
+	"mixer_source_alert.animateIn": {
+		"message": "تحريك في"
+	},
+	"mixer_source_alert.animateOut": {
+		"message": "تحريك بها"
+	},
+	"mixer_source_alert.nameStyleAndSettings": {
+		"message": "اسم النمط والإعداد"
+	},
+	"mixer_source_alert.name": {
+		"message": "Name"
+	},
+	"mixer_source_alert.minMonth": {
+		"message": "دقيقة. الشهور"
+	},
+	"mixer_source_alert.minViewers": {
+		"message": "دقيقة. المشاهدين"
+	},
+	"mixer_source_alert.audio": {
+		"message": "Audio"
+	},
+	"mixer_source_alert.sound": {
+		"message": "صوت"
+	},
+	"mixer_source_alert.show_alert": {
+		"message": "Preview"
+	},
+	"mixer_source_alert.test_alert": {
+		"message": "اختبار الانذار"
+	},
+	"mixer_source_alert.connected": {
+		"message": "متصل"
+	},
+	"mixer_source_alert.disconnect": {
+		"message": "قطع الاتصال"
+	},
+	"mixer_source_alert.generalHeader": {
+		"message": "General"
+	},
+	"mixer_source_alert.customizeHeader": {
+		"message": "تعديل"
+	},
+	"mixer_source_alert.hide_alert": {
+		"message": "إخفاء المعاينة"
+	},
+	"mixer_source_alert.account": {
+		"message": "الحساب"
+	},
+	"mixer_source_alert.authorize": {
+		"message": "Authorize XSplit to use Mixer"
+	},
+	"mixer_source_alert.remove_authorization": {
+		"message": "**%api%** Remove authorization"
+	}
+}

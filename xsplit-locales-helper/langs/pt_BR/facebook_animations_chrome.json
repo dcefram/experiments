@@ -1,0 +1,110 @@
+{
+  "title.source": {
+    "message": "Fonte"
+  },
+  "subtitle.account": {
+    "message": "Conta"
+  },
+  "link.authorize": {
+    "message": "Autorizar o XSplit para usar a Live no Facebook"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** alternar conta"
+  },
+  "authenticate.remove": {
+    "message": "**%user** Remover autorização"
+  },
+  "subtitle2.authorize.error": {
+    "message": "Por favor, autorize novamente e conceda acesso a todas permissões exigidas pelo XSplit para essa funcionalidade"
+  },
+  "subtitle.source": {
+    "message": "Fonte"
+  },
+  "source.values.automatic": {
+    "message": "Automático"
+  },
+  "chat.reaction.not_connected": {
+    "message": "As reações carregarão automaticamente assim que o stream estiver ao vivo"
+  },
+  "chat.comment.not_connected": {
+    "message": "Os comentários carregarão automaticamente assim que o stream estiver ao vivo"
+  },
+  "chat.connected": {
+    "message": "Conectado"
+  },
+  "title.display": {
+    "message": "Tela"
+  },
+  "help.display.title": {
+    "message": "Animação para reações"
+  },
+  "help.display.text": {
+    "message": "Personalize como as Reações Ao Vivo aparecem em seu stream![br]Escolha um tipo de animação e controle várias configurações.[br][br]Utilize o botão de visualização para verificar suas animações antes de ir ao vivo."
+  },
+  "animation.text": {
+    "message": "Animação"
+  },
+  "label.streamprops": {
+    "message": "Propriedades da transmissão"
+  },
+  "button.reset": {
+    "message": "Redefinir"
+  },
+  "label.direction": {
+    "message": "Direção"
+  },
+  "label.time": {
+    "message": "Tempo"
+  },
+  "label.seconds": {
+    "message": "segundos"
+  },
+  "label.timevariation": {
+    "message": "Variação de tempo"
+  },
+  "label.emoji.size": {
+    "message": "Tamanho do emoji"
+  },
+  "label.pixels": {
+    "message": "pixels"
+  },
+  "label.sizevariation": {
+    "message": "Variação de tamanho"
+  },
+  "label.hide_connection_message": {
+    "message": "Ocultar mensagens de conexão"
+  },
+  "button.preview": {
+    "message": "Pré-visualizar"
+  },
+  "animation.types.stream": {
+    "message": "Stream de reações"
+  },
+  "animation.types.pop": {
+    "message": "Pop In/Out"
+  },
+  "stream.directions.leftToRight": {
+    "message": "Esquerda para direita"
+  },
+  "stream.directions.topToBottom": {
+    "message": "Cima para baixo"
+  },
+  "stream.directions.rightToLeft": {
+    "message": "Direita para squerda"
+  },
+  "stream.directions.bottomToTop": {
+    "message": "Baixo para cima"
+  },
+  "tabheader.title": {
+    "message": "Reações"
+  },
+  "label.not_seeing_videos": {
+    "message": "Não está vendo seu vídeo ao vivo?"
+  },
+  "label.not_seeing_videos_help": {
+    "message": "É possível que não tenhamos permissão para alguns dos vídeos ao vivo de suas páginas."
+  },
+  "label.not_seeing_videos_link": {
+    "message": "Clique aqui para autorizar novamente"
+  }
+}

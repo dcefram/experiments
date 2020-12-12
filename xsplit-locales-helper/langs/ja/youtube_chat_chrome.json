@@ -1,0 +1,89 @@
+{
+	"youtube.chat.tabheader": {
+		"message": "チャット"
+	},
+	"youtube.chat.source": {
+		"message": "ソース"
+	},
+	"youtube.chat.account": {
+		"message": "アカウント"
+	},
+	"youtube.chat.preview": {
+		"message": "プレビュー"
+	},
+	"youtube.chat.account_automatic": {
+		"message": "自動"
+	},
+	"youtube.chat.authorize": {
+		"message": "XSplitに対してYouTube Liveの使用を許可します。"
+	},
+	"youtube.chat.remove_authorization": {
+		"message": "**%api%** 認証取り消し"
+	},
+	"youtube.chat.switch_account": {
+		"message": "**%api%** アカウントを切り替える"
+	},
+	"youtube.chat.not_connected": {
+		"message": "配信が始まると自動的にウィジェットが接続されます"
+	},
+	"youtube.chat.connected": {
+		"message": "接続しました。"
+	},
+	"youtube.chat.error_channel_not_found": {
+		"message": "有効のチャンネルを入力してください。"
+	},
+	"youtube.chat.display": {
+		"message": "ディスプレイ"
+	},
+	"youtube.chat.chat_box": {
+		"message": "チャットボックス"
+	},
+	"youtube.chat.opacity": {
+		"message": "透明度"
+	},
+	"youtube.chat.viewers": {
+		"message": "閲覧者"
+	},
+	"youtube.chat.message": {
+		"message": "メッセージ"
+	},
+	"youtube.chat.text_size": {
+		"message": "テキストサイズ"
+	},
+	"youtube.chat.hide_user_icons": {
+		"message": "ユーザーアイコンを隠す"
+	},
+	"youtube.chat.hide_timestamps": {
+		"message": "タイムスタンプを隠す"
+	},
+	"youtube.chat.hide_on_idle": {
+		"message": "無反応時にチャットを隠す"
+	},
+	"youtube.chat.blocking": {
+		"message": "ブロッキング"
+	},
+	"youtube.chat.blockedlist": {
+		"message": "ブロックリスト"
+	},
+	"youtube.chat.block_help": {
+		"message": "ブロックリストに視聴者（それ以外にもBOTなど）の名前やユーザーネームを入力する事でチャットビューアーにメッセージが表示されない用にする事が出来ます。[br][br] このリストはあなたのチャンネルのブロックリストとは別です。こちらのチャットビューアーにのみ適応されます。"
+	},
+	"youtube.chat.blocking_name": {
+		"message": "ブロックしたい視聴者の名前かユーザーネームを入力してください。"
+	},
+	"youtube.chat.block_name": {
+		"message": "名前"
+	},
+	"youtube.chat.block_add": {
+		"message": "追加"
+	},
+	"youtube.chat.block_remove": {
+		"message": "削除"
+	},
+	"youtube.chat.loggingInTo": {
+		"message": "YouTubeにログイン中..."
+	},
+	"youtube.chat.pleaseComplete": {
+		"message": "ブラウザからログインを完了させてください"
+	}
+}

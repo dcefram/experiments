@@ -1,0 +1,89 @@
+{
+  "scene_label": {
+    "message": "Scène"
+  },
+  "add_source": {
+    "message": "Add Source"
+  },
+  "copy": {
+    "message": "Copier"
+  },
+  "paste": {
+    "message": "Coller"
+  },
+  "remove": {
+    "message": "Supprimer"
+  },
+  "rename": {
+    "message": "Renommer"
+  },
+  "settings": {
+    "message": "Paramètres"
+  },
+  "group": {
+    "message": "Group Sources"
+  },
+  "lock": {
+    "message": "Verrouillage position"
+  },
+  "fit": {
+    "message": "Fit to Screen"
+  },
+  "restore": {
+    "message": "Restaurer par défaut"
+  },
+  "move_up": {
+    "message": "Remonter la source"
+  },
+  "move_down": {
+    "message": "Descendre la source"
+  },
+  "mute_mic": {
+    "message": "Mutes/Unmutes Default Microphone"
+  },
+  "mute_spk": {
+    "message": "Mutes/Unmutes Default Speakers"
+  },
+  "open_mixer": {
+    "message": "Open Audio Mixer"
+  },
+  "transition_label": {
+    "message": "Transition"
+  },
+  "transition_menu": {
+    "message": "Définir le style et la vitesse de transition"
+  },
+  "add_favorite": {
+    "message": "Set selected transition to favorite"
+  },
+  "open_favorite": {
+    "message": "Ouvrir les transitions favorites"
+  },
+  "push_live": {
+    "message": "Publier en direct"
+  },
+  "push_live_menu": {
+    "message": "Push Live Menu"
+  },
+  "stream": {
+    "message": "Diffusion"
+  },
+  "record": {
+    "message": "Enregistrer"
+  },
+  "pause_recording": {
+    "message": "Pause Recording"
+  },
+  "resume_recording": {
+    "message": "Resume Recording"
+  },
+  "screenshot": {
+    "message": "Screenshot"
+  },
+  "empty_channel": {
+    "message": "There seems to be nothing here.<br/><br/>Click on the stream button to set up your first Streaming output."
+  },
+  "empty_list": {
+    "message": "It's pretty empty here.<br/>Click the button below to add your first source."
+  }
+}

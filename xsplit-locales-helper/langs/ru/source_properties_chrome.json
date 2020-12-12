@@ -1,0 +1,1415 @@
+{
+	"main.pin": {
+		"message": "Наклейка"
+	},
+	"main.refresh": {
+		"message": "Обновить"
+	},
+	"main.keep_in_memory": {
+		"message": "Хранить в памяти"
+	},
+	"main.see_linked_sources": {
+		"message": "Связанные источники"
+	},
+	"main.unlink": {
+		"message": "Удалить связь"
+	},
+	"main.linked_sources": {
+		"message": "Связанные источники:"
+	},
+	"main.none": {
+		"message": "`-` Нет -"
+	},
+	"main.error_details_source": {
+		"message": "Исходный файл отсутствует. Возможно, файл был переименован или удален."
+	},
+	"main.go_to_store": {
+		"message": "Перейти в источник хранилища плагинов"
+	},
+	"main.or": {
+		"message": " или "
+	},
+	"main.browse_file": {
+		"message": "Просмотр файла"
+	},
+	"main.add_loading": {
+		"message": "Загрузка..."
+	},
+	"main.add_text": {
+		"message": "Добавить текст"
+	},
+	"main.add_image_slideshow": {
+		"message": "Добавить изображение в слайд-шоу"
+	},
+	"main.add_video_playlist": {
+		"message": "Добавить видео в плейлист"
+	},
+	"main.add_skype_ndi": {
+		"message": "Добавить Скайп NDI"
+	},
+	"main.add_plugin": {
+		"message": "Добавить %plugin_name%"
+	},
+	"main.ok": {
+		"message": "Ok"
+	},
+	"main.cancel": {
+		"message": "Отменить"
+	},
+	"main.disable_audio_wrapper_warning": {
+		"message": "Рекомендуется отключить аудио адаптер[br] пока «Использование родного Flash управления звуком» включено в настройках ."
+	},
+	"main.win7_aero_desktop_capture_warning": {
+		"message": "Запись с рабочего стола на Aero не рекомендуется и может повлиять на производительность XSplit. Если запись с рабочего стола необходима, пожалуйста, измените вашу систему на Windows 7 Basic. Читайте подробнее [here](https://xspl.it/bc/jn2qeo)."
+	},
+	"main.ndi_in_beta": {
+		"message": "NDI источник все еще находится в режиме бета-тестирования. Аудио визуализация пока не поддерживается."
+	},
+	"main.ndi_in_beta_audio_supported": {
+		"message": "NDI источник все еще находится в режиме бета-тестирования."
+	},
+	"main.ndi_audio_not_supported": {
+		"message": "Аудио визуализация пока не поддерживается."
+	},
+	"main.file_contains_ac3": {
+		"message": "Этот файл содержит аудио в кодировке AC3. Корпорация Майкрософт и XSplit не предоставляют лицензию для декодирования подобного аудио. Для декодирования AC3, вы можете загрузить и установить [этот фильтр](https://xspl.it/orsexj) и затем обновить источник.[br]Предупреждение: вы делаете это на свой страх и риск. Кроме того, установку необходимо выполнять только в том случае, если у вас есть необходимые права для загрузки и использования фильтра (ознакомьтесь с условиями использования)."
+	},
+	"main.flash_player_not_installed_outdated": {
+		"message": "Flash Player не установлен или устарел. [Скачать или обновить последнюю версию Flash Player сейчас.](https://xspl.it/getflash)"
+	},
+	"main.sync_with_elgato": {
+		"message": "Чтобы синхронизировать этот источник с дополнительной задержкой вашего %device% (в той же самой сцене), вам нужно добавить %elgatodelay% мс задержки."
+	},
+	"main.stream_only_unsupported": {
+		"message": "Stream Only feature is only supported in Windows 10 or later."
+	},
+	"main.help.linked_sources_title": {
+		"message": "Связанные источники"
+	},
+	"main.help.linked_sources_message": {
+		"message": "Связанные источники являются глобальными источниками для одной или нескольких сцен. У них всегда одно и то же имя и они всегда имеют фиксированное разрешение. Нажмите «сохранить источник в памяти» в свойствах нужного экземпляра связанного источника чтобы сохранить его загруженным в память."
+	},
+	"main.audio_output_options_system_sound": {
+		"message": "Аудиосистема"
+	},
+	"main.audio_output_options_stream_only": {
+		"message": "Stream Only (Только стрим)"
+	},
+	"main.audio_output_options_stream_only_unsupported": {
+		"message": "Stream Only (Только стрим)"
+	},
+	"main.audio_output_options_stream_only_install": {
+		"message": "Stream Only (Установить)"
+	},
+	"main.audio_output_options_default_speakers": {
+		"message": "Спикеры по умолчанию"
+	},
+	"main.when_finished_options_nothing": {
+		"message": "Ничего"
+	},
+	"main.when_finished_options_rewind": {
+		"message": "Перемотка назад"
+	},
+	"main.when_finished_options_loop": {
+		"message": "Цикл"
+	},
+	"main.when_finished_options_hide": {
+		"message": "Скрыть"
+	},
+	"main.when_finished_options_transparent": {
+		"message": "Прозрачный"
+	},
+	"tabheader.color": {
+		"message": "Цвет"
+	},
+	"tabheader.layout": {
+		"message": "Макет"
+	},
+	"tabheader.transition": {
+		"message": "Эффекты"
+	},
+	"tabheader.debug": {
+		"message": "Debug"
+	},
+	"tabheader.video_playlist": {
+		"message": "Плейлист"
+	},
+	"tabheader.ip_cam": {
+		"message": "IP-камера"
+	},
+	"tabheader.media": {
+		"message": "Средства массовой информации"
+	},
+	"tabheader.audio": {
+		"message": "Аудио"
+	},
+	"tabheader.cam": {
+		"message": "Cam"
+	},
+	"tabheader.title": {
+		"message": "Название"
+	},
+	"tabheader.screen": {
+		"message": "Экран"
+	},
+	"tabheader.stream": {
+		"message": "Поток"
+	},
+	"tabheader.swf": {
+		"message": "SWF"
+	},
+	"tabheader.skype": {
+		"message": "Skype"
+	},
+	"tabheader.game": {
+		"message": "Игра"
+	},
+	"tabheader.text": {
+		"message": "Текст"
+	},
+	"tabheader.slideshow": {
+		"message": "Слайд-шоу"
+	},
+	"tabheader.hotkeys": {
+		"message": "Горячие клавиши"
+	},
+	"tabheader.whiteboard": {
+		"message": "Доска"
+	},
+	"tabheader.html": {
+		"message": "HTML"
+	},
+	"tabheader.rtmp": {
+		"message": "RTMP"
+	},
+	"tabheader.ndi": {
+		"message": "NDI"
+	},
+	"tabheader.tobii": {
+		"message": "Tobii"
+	},
+	"tabheader.replay": {
+		"message": "Повтор"
+	},
+	"tabheader.scene": {
+		"message": "Сцена"
+	},
+	"colortab.picture": {
+		"message": "Фотография"
+	},
+	"colortab.keying": {
+		"message": "Манипуляция"
+	},
+	"colortab.reset": {
+		"message": "Сбросить"
+	},
+	"colortab.none": {
+		"message": "Нет"
+	},
+	"colortab.chroma_key": {
+		"message": "Хромакей"
+	},
+	"colortab.color_key": {
+		"message": "Цветовой ключ"
+	},
+	"colortab.quality": {
+		"message": "Качество"
+	},
+	"colortab.real_sense": {
+		"message": "Intel&reg; RealSense&trade;"
+	},
+	"colortab.realsense_info": {
+		"message": "Ваша активная камера Intel&reg; RealSense&trade; с поддержкой 3D автоматически удаляет фон без использования зелёного экрана."
+	},
+	"colortab.realsense_not_installed": {
+		"message": "Необходимые компоненты для удаления фона при использовании Intel&reg; RealSense&trade; не обнаружены. [Запустить установщик Intel RealSense SDK runtime](%link%) (Все необходимые компоненты для использования в приложении XSplit предварительно выбраны)."
+	},
+	"colortab.realsense_error": {
+		"message": "Некоторые компоненты, необходимые для использования удаления фона в Intel&reg; RealSense&trade; могут быть установлены неправильно. [Прочтите эту публикацию](https://xspl.it/realsense) для получения дополнительной информации."
+	},
+	"colortab.legacy": {
+		"message": "Режим совместимости"
+	},
+	"colortab.keycolor": {
+		"message": "Основные цвета"
+	},
+	"colortab.anti_aliasing": {
+		"message": "Анти алиасинг"
+	},
+	"colortab.eyedrop": {
+		"message": "Средство подглядывания"
+	},
+	"colortab.copy_color_settings": {
+		"message": "Копировать ключевые параметры Chroma"
+	},
+	"colortab.paste_color_settings": {
+		"message": "Вставить ключевые параметры Chroma"
+	},
+	"colortab.help.full_dynamic_range_title": {
+		"message": "Полный динамический диапазон"
+	},
+	"colortab.help.full_dynamic_range_message": {
+		"message": "Полный динамический диапазон — это глобальная настройка для каждой камеры/ карты захвата, используемой в качестве источника."
+	},
+	"colortab.enable_full_dynamic_range": {
+		"message": "Полный динамический диапазон"
+	},
+	"colortab.apply_globally": {
+		"message": "Применить ко всем связанным источникам"
+	},
+	"colortab.help.smartcam_quality_title": {
+		"message": "Качество"
+	},
+	"colortab.help.smartcam_quality_message": {
+		"message": "Чем выше качество, тем выше использование центрального процессора (CPU) (1 - низкое/5 - высокое)"
+	},
+	"colortab.key_color_options_green": {
+		"message": "Зелёный"
+	},
+	"colortab.key_color_options_red": {
+		"message": "Красный"
+	},
+	"colortab.key_color_options_blue": {
+		"message": "Синий"
+	},
+	"colortab.anti_aliasing_options_high": {
+		"message": "Высокое"
+	},
+	"colortab.anti_aliasing_options_low": {
+		"message": "Низкое"
+	},
+	"colortab.anti_aliasing_options_none": {
+		"message": "Нет"
+	},
+	"colortab.no_greenscreen": {
+		"message": "Нет зелёного экрана?"
+	},
+	"colortab.try_vcam": {
+		"message": "Попробуйте XSplit VCam!"
+	},
+	"layouttab.position": {
+		"message": "Расположение"
+	},
+	"layouttab.3d": {
+		"message": "Преобразование 2D/3D"
+	},
+	"layouttab.cropping": {
+		"message": "Обрезка"
+	},
+	"layouttab.source_rotate": {
+		"message": "Чтобы повернуть ваш источник, удерживайте клавишу Shift во время перетаскивания мышью"
+	},
+	"layouttab.x": {
+		"message": "X"
+	},
+	"layouttab.y": {
+		"message": "Y"
+	},
+	"layouttab.z": {
+		"message": "Z"
+	},
+	"layouttab.rotate": {
+		"message": "Повернуть"
+	},
+	"layouttab.flip": {
+		"message": "Перевернуть"
+	},
+	"layouttab.counter_clockwise": {
+		"message": "Против часовой стрелки"
+	},
+	"layouttab.clockwise": {
+		"message": "По часовой стрелке"
+	},
+	"layouttab.width": {
+		"message": "Ширина"
+	},
+	"layouttab.height": {
+		"message": "Высота"
+	},
+	"layouttab.reset": {
+		"message": "Сбросить"
+	},
+	"layouttab.crop_alt_key": {
+		"message": "Попробуйте перетащить контуры источника, удерживая ALT KEY"
+	},
+	"layouttab.top": {
+		"message": "Наверх"
+	},
+	"layouttab.bottom": {
+		"message": "Вниз"
+	},
+	"layouttab.left": {
+		"message": "Влево"
+	},
+	"layouttab.right": {
+		"message": "Вправо"
+	},
+	"layouttab.autocrop": {
+		"message": "Автоматическое кадрирование"
+	},
+	"layouttab.keep_aspect_ratio": {
+		"message": "Сохранить пропорции"
+	},
+	"layouttab.lock_position": {
+		"message": "Положение Lock"
+	},
+	"layouttab.enhance_resize": {
+		"message": "Увеличение размера"
+	},
+	"layouttab.pan_360": {
+		"message": "Проекция 360"
+	},
+	"layouttab.help.pan_360_message": {
+		"message": "Нажмите «Зафиксировать позицию» для дальнейшего взаимодействия. Вращайте колесо мыши для увеличения масштаба, щелкните и перетаскивайте для перемещения."
+	},
+	"transitiontab.masking": {
+		"message": "Маскирование"
+	},
+	"transitiontab.none": {
+		"message": "Нет"
+	},
+	"transitiontab.shape": {
+		"message": "Форма"
+	},
+	"transitiontab.file": {
+		"message": "Файл"
+	},
+	"transitiontab.filters": {
+		"message": "Фильтры"
+	},
+	"transitiontab.effects": {
+		"message": "Транзакция"
+	},
+	"transitiontab.shadow": {
+		"message": "Тень"
+	},
+	"transitiontab.size": {
+		"message": "По размеру"
+	},
+	"transitiontab.radius": {
+		"message": "Радиус"
+	},
+	"transitiontab.opacity": {
+		"message": "Прозрачность"
+	},
+	"transitiontab.border": {
+		"message": "Граница"
+	},
+	"transitiontab.color": {
+		"message": "Цвет"
+	},
+	"transitiontab.reset": {
+		"message": "Сбросить"
+	},
+	"transitiontab.offset_x": {
+		"message": "Смещение по оси X"
+	},
+	"transitiontab.blur": {
+		"message": "Размытие"
+	},
+	"transitiontab.offset_y": {
+		"message": "Смещение по оси Y"
+	},
+	"transitiontab.mask_source": {
+		"message": "Маска для источника"
+	},
+	"transitiontab.mask_stage": {
+		"message": "Маска для фазы"
+	},
+	"transitiontab.image_mask_file": {
+		"message": "Файл с изображением маски"
+	},
+	"transitiontab.show_masking_guide": {
+		"message": "Показать справочник по маскам"
+	},
+	"transitiontab.re2_mode": {
+		"message": "Источник транзакции не поддерживается в режиме RE2."
+	},
+	"transitiontab.config_text": {
+		"message": "По умолчанию переход работает когда вы показываете или скрываете источник на сцене (устанавливаете или снимаете флажок в списке источников). Вы также можете применить переход при появлении сцены или при её завершении. Однако переход источника не сработает, если основной тип перехода установлен в значение «Никакой». Если вам нужно сделать склейку встык (cut) для основного перехода и по-прежнему применить смену источника, то установите основной тип переход в значение «В стык» вместо «Никакой»."
+	},
+	"transitiontab.transition": {
+		"message": "Транзакция"
+	},
+	"transitiontab.speed": {
+		"message": "Скорость"
+	},
+	"transitiontab.speed_unit": {
+		"message": "MS"
+	},
+	"transitiontab.preview_label": {
+		"message": "Предварительный просмотр"
+	},
+	"transitiontab.no_available_preview": {
+		"message": "Предварительный просмотр не доступен"
+	},
+	"transitiontab.on_scene_exit": {
+		"message": "При завершении сцены"
+	},
+	"transitiontab.on_scene_enter": {
+		"message": "При появлении сцены"
+	},
+	"transitiontab.lut_file": {
+		"message": "LUT-файл"
+	},
+	"transitiontab.browse": {
+		"message": "Просмотр"
+	},
+	"transitiontab.intensity": {
+		"message": "Интенсивность эффекта"
+	},
+	"transitiontab.bloom_intensity": {
+		"message": "Интенсивность цветности"
+	},
+	"transitiontab.magnify_amount": {
+		"message": "Размер увеличения"
+	},
+	"transitiontab.blur_amount": {
+		"message": "Степень размытия"
+	},
+	"transitiontab.filters_none": {
+		"message": "Без фильтра"
+	},
+	"transitiontab.filters_sharpen": {
+		"message": "Sharpen"
+	},
+	"transitiontab.filters_smoothen": {
+		"message": "Smoothen"
+	},
+	"transitiontab.filters_cool": {
+		"message": "Холодный"
+	},
+	"transitiontab.filters_warm": {
+		"message": "Тёплый"
+	},
+	"transitiontab.filters_bloom": {
+		"message": "Многоцветный"
+	},
+	"transitiontab.filters_mono": {
+		"message": "Монохромный"
+	},
+	"transitiontab.filters_color_tint": {
+		"message": "Оттенок цвета"
+	},
+	"transitiontab.filters_invert": {
+		"message": "Инвертировать цвет"
+	},
+	"transitiontab.filters_old_movie": {
+		"message": "Старое видео"
+	},
+	"transitiontab.filters_sketch": {
+		"message": "Эскиз"
+	},
+	"transitiontab.filters_magnify": {
+		"message": "Увеличить"
+	},
+	"transitiontab.filters_blur": {
+		"message": "Размытие"
+	},
+	"transitiontab.filters_custom": {
+		"message": "Пользовательский LUT"
+	},
+	"transitiontab.luts_article": {
+		"message": "Что такое LUT'ы?"
+	},
+	"transitiontab.transition_select_options_none": {
+		"message": "Нет"
+	},
+	"transitiontab.transition_select_options_clock": {
+		"message": "Будильник"
+	},
+	"transitiontab.transition_select_options_collapse": {
+		"message": "Свернуть"
+	},
+	"transitiontab.transition_select_options_ease_in_out_back": {
+		"message": "Ускорение-замедление"
+	},
+	"transitiontab.transition_select_options_ease_out_bounce": {
+		"message": "Замедление с отскоком"
+	},
+	"transitiontab.transition_select_options_ease_out_elastic": {
+		"message": "Эластичное замедление"
+	},
+	"transitiontab.transition_select_options_fade": {
+		"message": "Затемнить"
+	},
+	"transitiontab.transition_select_options_fan": {
+		"message": "Вентилятор"
+	},
+	"transitiontab.transition_select_options_hole": {
+		"message": "Отверстие"
+	},
+	"transitiontab.transition_select_options_move_left": {
+		"message": "Сдвиг влево"
+	},
+	"transitiontab.transition_select_options_move_right": {
+		"message": "Сдвиг вправо"
+	},
+	"transitiontab.transition_select_options_move_left_right": {
+		"message": "Сдвиг влево-вправо"
+	},
+	"transitiontab.transition_select_options_move_top": {
+		"message": "Сдвиг вверх"
+	},
+	"transitiontab.transition_select_options_move_bottom": {
+		"message": "Сдвиг вниз"
+	},
+	"transitiontab.transition_select_options_move_top_bottom": {
+		"message": "Сдвиг вверх-вниз"
+	},
+	"transitiontab.transition_select_options_wave": {
+		"message": "Волна"
+	},
+	"transitiontab.transition_select_options_zoom": {
+		"message": "Изменение масштаба"
+	},
+	"debugtab.title": {
+		"message": "Debug"
+	},
+	"debugtab.videoitem_id": {
+		"message": "Videoitem ID"
+	},
+	"debugtab.src_id": {
+		"message": "Source ID"
+	},
+	"debugtab.src_type": {
+		"message": "Source Type"
+	},
+	"debugtab.copy": {
+		"message": "Скопировать"
+	},
+	"debugtab.type_undefined": {
+		"message": "Undefined"
+	},
+	"debugtab.type_file": {
+		"message": "Файл"
+	},
+	"debugtab.type_live": {
+		"message": "Онлайн (живое)"
+	},
+	"debugtab.type_text": {
+		"message": "Текст"
+	},
+	"debugtab.type_image": {
+		"message": "Image"
+	},
+	"debugtab.type_screen": {
+		"message": "Экран"
+	},
+	"debugtab.type_swf": {
+		"message": "SWF"
+	},
+	"debugtab.type_game": {
+		"message": "Игра"
+	},
+	"debugtab.type_html": {
+		"message": "HTML"
+	},
+	"debugtab.type_3ds": {
+		"message": "3DS"
+	},
+	"debugtab.type_ppt": {
+		"message": "Presentation"
+	},
+	"debugtab.type_scene": {
+		"message": "Сцена"
+	},
+	"debugtab.type_group": {
+		"message": "В группу"
+	},
+	"debugtab.type_replay": {
+		"message": "Повтор"
+	},
+	"debugtab.type_view": {
+		"message": "View"
+	},
+	"camtab.processing": {
+		"message": "Переключение источника..."
+	},
+	"camtab.updating_settings": {
+		"message": "Обновление настроек..."
+	},
+	"camtab.playback": {
+		"message": "Воспроизведение"
+	},
+	"camtab.device_configuration": {
+		"message": "Конфигурация устройства"
+	},
+	"camtab.delay": {
+		"message": "Задержка (МС)"
+	},
+	"camtab.audio_input": {
+		"message": "Аудио вход"
+	},
+	"camtab.audio_output": {
+		"message": "Аудио выход"
+	},
+	"camtab.offset": {
+		"message": "Смещение (МС)"
+	},
+	"camtab.offset_text": {
+		"message": "(Аудио видео синхронизация)"
+	},
+	"camtab.silence_detection": {
+		"message": "Определение тишины"
+	},
+	"camtab.threshold": {
+		"message": "Порог"
+	},
+	"camtab.silence_period": {
+		"message": "Период тишины (ms)"
+	},
+	"camtab.camera_source": {
+		"message": "Источник камеры"
+	},
+	"camtab.camera_source_audio": {
+		"message": "Источник звука"
+	},
+	"camtab.configure_text": {
+		"message": "Для настройки параметров %device_name%, нажмите на кнопку ниже. "
+	},
+	"camtab.auto_logitech": {
+		"message": "Использовать стандартные настройки"
+	},
+	"camtab.manual_logitech": {
+		"message": "Настроить вручную"
+	},
+	"camtab.configure": {
+		"message": "Настройка"
+	},
+	"camtab.priority": {
+		"message": "Приоритет"
+	},
+	"camtab.frame_rate_priority_logitech": {
+		"message": "Частота кадров"
+	},
+	"camtab.exposure_priority_logitech": {
+		"message": "Выдержка"
+	},
+	"camtab.field_of_view": {
+		"message": "Угол обзора"
+	},
+	"camtab.orientation": {
+		"message": "Ориентация"
+	},
+	"camtab.orientation_disabled": {
+		"message": "Отключено"
+	},
+	"camtab.orientation_portrait": {
+		"message": "Портретная"
+	},
+	"camtab.orientation_landscape": {
+		"message": "Альбомная"
+	},
+	"camtab.orientation_auto": {
+		"message": "Автоматическая"
+	},
+	"camtab.enable_hdr": {
+		"message": "Включить"
+	},
+	"camtab.hdr": {
+		"message": "HDR (быстроменяющийся диапазон)"
+	},
+	"camtab.help.hdr": {
+		"message": "Активация этого параметра улучшает качество видео при любом освещении - низкое освещение, яркий свет, высокая контрастность, подсветка. Работает на 30fps и ниже"
+	},
+	"camtab.video_source": {
+		"message": "Видео вход"
+	},
+	"camtab.video_capture_pin": {
+		"message": "Видео выход"
+	},
+	"camtab.tv_tuner": {
+		"message": "ТВ-тюнер"
+	},
+	"camtab.video_cross_bar1": {
+		"message": "Cross Bar"
+	},
+	"camtab.video_cross_bar2": {
+		"message": "Cross Bar 2"
+	},
+	"camtab.vfw_capture_source": {
+		"message": "VFW вход"
+	},
+	"camtab.vfw_capture_format": {
+		"message": "VFW формат"
+	},
+	"camtab.vfw_capture_display": {
+		"message": "VFW дисплей"
+	},
+	"camtab.hw_video_encoder": {
+		"message": "HW видео кодировщик"
+	},
+	"camtab.hw_audio_encoder": {
+		"message": "HW аудио кодировщик"
+	},
+	"camtab.hw_mux": {
+		"message": "HW MUX"
+	},
+	"camtab.audio_source": {
+		"message": "Аудио вход"
+	},
+	"camtab.audio_capture_pin": {
+		"message": "Аудио выход"
+	},
+	"camtab.tv_audio": {
+		"message": "TV Аудио"
+	},
+	"camtab.video_renderer": {
+		"message": "Визаулизатор видео"
+	},
+	"camtab.audio_renderer": {
+		"message": "Визуализатор аудио"
+	},
+	"camtab.force_deinterlace": {
+		"message": "Принудительное устранение черезстрочности"
+	},
+	"camtab.auto_configure": {
+		"message": "Разрешить XSplit автоматическую настройку"
+	},
+	"camtab.use_black_magic_wdm": {
+		"message": "Использовать карту захвата Blackmagic WDM"
+	},
+	"camtab.description": {
+		"message": "Чтобы узнать об использовании XSplit, перейдите:"
+	},
+	"camtab.avermedia.partnersite1_description": {
+		"message": "AVerMedia Live Gamer HD C985 страница"
+	},
+	"camtab.avermedia.partnersite2_description": {
+		"message": "AVerMedia C875 Live Gamer страница портала"
+	},
+	"camtab.elgato.partnersite1_description": {
+		"message": "Elgato Game Capture веб-сайт"
+	},
+	"camtab.elgato.partnersite2_description": {
+		"message": "Elgato страница поддержки"
+	},
+	"camtab.roxio.partnersite1_description": {
+		"message": "Roxio веб-сайт"
+	},
+	"camtab.roxio.partnersite2_description": {
+		"message": "страница Roxio Game Capture"
+	},
+	"camtab.xsplit_support_page": {
+		"message": "Страница поддержки XSplit"
+	},
+	"camtab.youtube": {
+		"message": "%name% Youtube"
+	},
+	"camtab.audio_input_options_builtin": {
+		"message": "Встроенное"
+	},
+	"camtab.audio_input_options_none": {
+		"message": "Нет"
+	},
+	"gametab.game_source": {
+		"message": "источник игры"
+	},
+	"gametab.show_mouse": {
+		"message": "Показывать курсор мыши"
+	},
+	"gametab.enable_special_optimization": {
+		"message": "Включить специальную оптимизацию"
+	},
+	"gametab.unable_to_set": {
+		"message": "(не удается выполнить оптимизацию)"
+	},
+	"gametab.special_optimization_hint": {
+		"message": "(Чтобы избежать заввисания на Crossfire/SLI отключите специальную оптимизацию)"
+	},
+	"gametab.enable_playback_smoothness": {
+		"message": "Включить сглаживание кадров"
+	},
+	"gametab.allow_transparency": {
+		"message": "Разрешить прозрачность"
+	},
+	"gametab.playback_smoothness": {
+		"message": "Коэффициент FPS (%)"
+	},
+	"gametab.limit_game_fps": {
+		"message": "Максимальное значение FPS:"
+	},
+	"gametab.offline_image": {
+		"message": "Автономный образ"
+	},
+	"gametab.offline_image_description": {
+		"message": "В случае, если игра или источник не обнаружены, будет показана оффлайн-картинка (оставьте пустой, чтобы сделать GameSource прозрачным)"
+	},
+	"mediatab.playback": {
+		"message": "Воспроизведение"
+	},
+	"mediatab.audio_output": {
+		"message": "Аудио выход"
+	},
+	"mediatab.start_at": {
+		"message": "Начать в"
+	},
+	"mediatab.set": {
+		"message": "Установить"
+	},
+	"mediatab.end_at": {
+		"message": "Закончить в"
+	},
+	"mediatab.reset": {
+		"message": "Сбросить"
+	},
+	"mediatab.play": {
+		"message": "Воспроизвести"
+	},
+	"mediatab.play_options_once": {
+		"message": "Единоразово"
+	},
+	"mediatab.play_options_forever": {
+		"message": "Всегда"
+	},
+	"mediatab.play_options_custom": {
+		"message": "Настроить..."
+	},
+	"mediatab.loop_times": {
+		"message": "раз"
+	},
+	"mediatab.when_finished": {
+		"message": "После завершения"
+	},
+	"mediatab.start_on_load": {
+		"message": "Воспроизвести при появлении сцены"
+	},
+	"mediatab.play_on_show": {
+		"message": "Принудительно воспроизвести при показе источника"
+	},
+	"mediatab.remember_playback_position": {
+		"message": "Запомнить позицию воспроизведения"
+	},
+	"mediatab.force_deinterlace": {
+		"message": "Принудительное устранение черезстрочности"
+	},
+	"mediatab.show_playback_position": {
+		"message": "Показать позиции воспроизведения"
+	},
+	"mediatab.cuepoints": {
+		"message": "Контрольные метки"
+	},
+	"mediatab.add_to_cuepoints": {
+		"message": "Добавить контрольные точки"
+	},
+	"mediatab.add": {
+		"message": "Добавить"
+	},
+	"mediatab.saved_cue_points": {
+		"message": "Сохранить ключевые точки"
+	},
+	"mediatab.cue_point_type.cue_point": {
+		"message": "Контрольная точка"
+	},
+	"mediatab.cue_point_type.start": {
+		"message": "Запуск"
+	},
+	"mediatab.cue_point_type.end": {
+		"message": "Завершение"
+	},
+	"mediatab.cue_point_type.cut": {
+		"message": "Вырезать"
+	},
+	"mediatab.cue_point_type.pause": {
+		"message": "Пауза"
+	},
+	"mediatab.cue_point_type.resume": {
+		"message": "возобновить"
+	},
+	"mediatab.change": {
+		"message": "Изменить..."
+	},
+	"mediatab.cue_point_options_resume": {
+		"message": "возобновить"
+	},
+	"mediatab.cue_point_options_pause": {
+		"message": "Пауза"
+	},
+	"mediatab.cue_point_options_cut": {
+		"message": "Вырезать"
+	},
+	"mediatab.help.loop_times_title": {
+		"message": "Пользовательский режим воспроизведения"
+	},
+	"mediatab.help.loop_times_message": {
+		"message": "Установка значения нового пользовательского режима воспроизведения сбросит счётчик числа воспроизведений до 1."
+	},
+	"picturetab.mediasource": {
+		"message": "Источник медиафайлов"
+	},
+	"screentab.processing": {
+		"message": "Переключение источника..."
+	},
+	"screentab.window_capture": {
+		"message": "Захват окна"
+	},
+	"screentab.desktop_capture": {
+		"message": "Захват рабочего стола"
+	},
+	"screentab.area": {
+		"message": "Площадь"
+	},
+	"screentab.capture_options": {
+		"message": "Параметры захвата"
+	},
+	"screentab.x": {
+		"message": "X"
+	},
+	"screentab.y": {
+		"message": "Y"
+	},
+	"screentab.width": {
+		"message": "Ширина"
+	},
+	"screentab.height": {
+		"message": "Высота"
+	},
+	"screentab.client_area": {
+		"message": "область клиента"
+	},
+	"screentab.track_window_title": {
+		"message": "Придерживаться названия"
+	},
+	"screentab.window_source": {
+		"message": "Источник - окно"
+	},
+	"screentab.desktop_source": {
+		"message": "Источник - рабочий стол"
+	},
+	"screentab.screen_capture": {
+		"message": "Захват экрана"
+	},
+	"screentab.exclude_xsplit_window": {
+		"message": "Исключить XSplit из захвата экрана"
+	},
+	"screentab.optimize_window_capture": {
+		"message": "Эксклюзивное окно захвата"
+	},
+	"screentab.capture_layered_windows": {
+		"message": "Захват многоуровневых окон[br] (снимите этот флажок, чтобы избежать мерцания мыши)"
+	},
+	"screentab.not_supported": {
+		"message": "(не поддерживается системой)"
+	},
+	"screentab.gpu_optimized": {
+		"message": "Оптимизировано для GPU"
+	},
+	"screentab.show_mouse": {
+		"message": "Показывать курсор мыши"
+	},
+	"screentab.show_mouse_clicks": {
+		"message": "Показать щелчки мыши"
+	},
+	"screentab.fix_black_capture": {
+		"message": "Исправить черный захват"
+	},
+	"screentab.reset": {
+		"message": "Сбросить"
+	},
+	"skytab.skype": {
+		"message": "Skype"
+	},
+	"skytab.offline_image": {
+		"message": "Автономный образ"
+	},
+	"skytab.offline_image_description": {
+		"message": "В случае, если видеотрансляция Skype не обнаружена, будет показана оффлайн-картинка (оставьте пустой, чтобы сделать источник Skype прозрачным)"
+	},
+	"skytab.source_flicker": {
+		"message": "Источник Skype может мерцать из-за:"
+	},
+	"skytab.multiple_calls": {
+		"message": "множественных звонков (включая звонки удержания)"
+	},
+	"skytab.skype_show_call_cotrols": {
+		"message": "включённой опции &quot;Показывать кнопки управления звонком когда Skype в фоновом режиме&quot; в пункте меню \"Параметры -> Параметры вызовов-> Дополнительно\""
+	},
+	"skytab.ndi_skype_enable": {
+		"message": "Как включить NDI в Skype:"
+	},
+	"skytab.ndi_multiple_calls": {
+		"message": "Минимальная требуемая версия - Skype Preview 8.28.76.42"
+	},
+	"skytab.ndi_skype_show_call_cotrols": {
+		"message": "Активировать опцию &quot;Разрешить использование NDI&quot; в меню Skype Настройки > Звонки > Дополнительно"
+	},
+	"skytab.skypeId": {
+		"message": "Skype ID:"
+	},
+	"skytab.computerName": {
+		"message": "Имя компьютера:"
+	},
+	"skytab.skypeNdiLink": {
+		"message": "Подробнее о Skype NDI"
+	},
+	"skytab.apply": {
+		"message": "Применить"
+	},
+	"skytab.search.help.message": {
+		"message": "Введите имя компьютера и Скайп ID вашего NDI источника Skype, либо щелкните значок лупы для поиска доступных источников NDI Skype на вашей сети. Нажмите кнопку Применить для подключения к источнику."
+	},
+	"skytab.search.help.title": {
+		"message": "Источник Skype NDI"
+	},
+	"skytab.skype_available_ndi_sources": {
+		"message": "Доступные источники Skype NDI"
+	},
+	"skytab.no_ndi_label": {
+		"message": "Звонков с использованием Skype NDI не обнаружено"
+	},
+	"streamtab.playback": {
+		"message": "Воспроизведение"
+	},
+	"streamtab.audio_output": {
+		"message": "Аудио выход"
+	},
+	"streamtab.use_rtmp_flash": {
+		"message": "Используйте flash для воспроизведения"
+	},
+	"streamtab.stream_source": {
+		"message": "Источник потока"
+	},
+	"streamtab.stream_name": {
+		"message": "Имя потока"
+	},
+	"streamtab.delay": {
+		"message": "Буфер стрима (секунд)"
+	},
+	"streamtab.protocol": {
+		"message": "Протокол"
+	},
+	"streamtab.protocol_tooltip": {
+		"message": "Низкоуровневые настройки транспортного протокола RTSP.[br][br] Если вы видите заикания или рассинхронизацию, попробуйте изменить протокол с TCP на UDP. Если эта возможность заблокирована брандмауэром (фаерволом), попробуйте выбрать протокол HTTP."
+	},
+	"streamtab.apply": {
+		"message": "Применить"
+	},
+	"nditab.playback": {
+		"message": "Воспроизведение"
+	},
+	"nditab.audio_output": {
+		"message": "Аудио выход"
+	},
+	"nditab.ndi_source": {
+		"message": "Источник потока"
+	},
+	"nditab.quality": {
+		"message": "Качество"
+	},
+	"nditab.standard": {
+		"message": "Стандартное"
+	},
+	"nditab.maximum": {
+		"message": "Максимальное"
+	},
+	"nditab.apply": {
+		"message": "Применить"
+	},
+	"replaytab.saveToDisk": {
+		"message": "Save to disk"
+	},
+	"replaytab.saveToDiskOnPlayback": {
+		"message": "Save to disk on playback"
+	},
+	"replaytab.source": {
+		"message": "Источник"
+	},
+	"replaytab.no_output": {
+		"message": "Нет выбранных выходов"
+	},
+	"replaytab.output_live": {
+		"message": "Выход - онлайн"
+	},
+	"replaytab.output_offline": {
+		"message": "Выход пока не онлайн"
+	},
+	"replaytab.connect_to": {
+		"message": "Подключиться к"
+	},
+	"replaytab.help.connect_to_title": {
+		"message": "Подключиться к"
+	},
+	"replaytab.help.connect_to_message": {
+		"message": "Выберите выход к которому может подключиться этот источник воспроизведения. Автоматический режим позволит источнику подключиться к указанному выходу и начать стриминг."
+	},
+	"replaytab.help.save_playback_title": {
+		"message": "Save replay to disk on playback"
+	},
+	"replaytab.help.save_playback_message": {
+		"message": "Saves a copy of your replay to your default recording folder."
+	},
+	"replaytab.help.saveToDisk_title": {
+		"message": "Save to disk"
+	},
+	"replaytab.help.saveToDisk_message": {
+		"message": "Saves your replay buffer to disk without showing it on your stream."
+	},
+	"replaytab.replay": {
+		"message": "Повтор"
+	},
+	"replaytab.hotkey": {
+		"message": "Горячая клавиша"
+	},
+	"replaytab.replayTime": {
+		"message": "Время воспроизведения"
+	},
+	"replaytab.bufferLength": {
+		"message": "Buffer Length"
+	},
+	"replaytab.playback": {
+		"message": "Воспроизведение"
+	},
+	"replaytab.seconds": {
+		"message": "секунды"
+	},
+	"replaytab.start_on_load": {
+		"message": "Воспроизвести при появлении сцены"
+	},
+	"replaytab.audio_output": {
+		"message": "Аудио выход"
+	},
+	"replaytab.display": {
+		"message": "Дисплей"
+	},
+	"scenetab.display": {
+		"message": "Дисплей"
+	},
+	"scenetab.scene": {
+		"message": "Источник сцены"
+	},
+	"scenetab.scene_description": {
+		"message": "Для изменения этого источника сцены, переключитесь на привязанную сцену.[br][br] В качестве альтернативы, если вы хотите выполнять редактирование без переключения сцен, используйте режим разделения или редактора предварительного просмотра. Не забудьте нажать \"Перейти в онлайн\", чтобы применить изменения сцены."
+	},
+	"swftab.playback": {
+		"message": "Воспроизведение"
+	},
+	"swftab.disable_audio_wrapper": {
+		"message": "Отключить звуковой адаптер"
+	},
+	"swftab.swf_source": {
+		"message": "SWF источник"
+	},
+	"swftab.resolution": {
+		"message": "Разрешение"
+	},
+	"swftab.original_resolution": {
+		"message": "Оригинальный источник"
+	},
+	"swftab.custom_resolution": {
+		"message": "Пользовательские"
+	},
+	"swftab.configuration": {
+		"message": "Конфигурация"
+	},
+	"swftab.configure_text": {
+		"message": "Чтобы указать название источника, нажмите на кнопку ниже."
+	},
+	"swftab.configure": {
+		"message": "Настройка"
+	},
+	"swftab.audio_output": {
+		"message": "Аудио выход"
+	},
+	"swfhotkeystab.hotkeys": {
+		"message": "Горячие клавиши"
+	},
+	"titletab.title": {
+		"message": "Название"
+	},
+	"titletab.configure_text": {
+		"message": "Чтобы указать название источника, нажмите на кнопку ниже."
+	},
+	"titletab.configure": {
+		"message": "Настройка"
+	},
+	"tobiitab.title": {
+		"message": "Настройки айтрекера Tobii"
+	},
+	"tobiitab.cursor_color": {
+		"message": "Цвет курсора"
+	},
+	"tobiitab.enable": {
+		"message": "Активировать слежение"
+	},
+	"tobiitab.shape": {
+		"message": "Форма"
+	},
+	"tobiitab.solid": {
+		"message": "Плотность"
+	},
+	"tobiitab.bubble": {
+		"message": "Появляемость"
+	},
+	"tobiitab.size": {
+		"message": "По размеру"
+	},
+	"tobiitab.trail": {
+		"message": "След"
+	},
+	"tobiitab.filtering": {
+		"message": "Фильтрация"
+	},
+	"htmltab.playback": {
+		"message": "Воспроизведение"
+	},
+	"htmltab.audio_output": {
+		"message": "Аудио выход"
+	},
+	"htmltab.apply": {
+		"message": "Применить"
+	},
+	"htmltab.invalid_url": {
+		"message": "Введите реально существующий URL-адрес."
+	},
+	"htmltab.html_source": {
+		"message": "HTML Источник "
+	},
+	"htmltab.reload_on_scene_enter": {
+		"message": "Перезагрузить при появлении сцены"
+	},
+	"htmltab.reload_on_source_show": {
+		"message": "Перезагрузить при показе с источника"
+	},
+	"htmltab.resolution": {
+		"message": "Разрешение"
+	},
+	"htmltab.resolution_tooltip": {
+		"message": "Установите фиксированное разрешение для веб-источников, предназначенных для работы с определёнными разрешениями. Оригинальный источник будет соответствовать размеру источника в пикселях и вести себя как обычный браузер при изменении размера. Связанные источники всегда будут в принудительном порядке иметь фиксированное разрешение."
+	},
+	"htmltab.display": {
+		"message": "Дисплей"
+	},
+	"htmltab.original_resolution": {
+		"message": "Оригинальный источник"
+	},
+	"htmltab.custom_resolution": {
+		"message": "Пользовательские"
+	},
+	"htmltab.css_overwrite": {
+		"message": "Пользовательский код"
+	},
+	"htmltab.custom_css": {
+		"message": "Применить пользовательские CSS"
+	},
+	"htmltab.edit_css": {
+		"message": "Редактирование CSS"
+	},
+	"htmltab.custom_js": {
+		"message": "Использовать пользовательский JS"
+	},
+	"htmltab.edit_js": {
+		"message": "Редактировать JS"
+	},
+	"htmltab.appearance": {
+		"message": "Внешний вид"
+	},
+	"htmltab.disable_transparency": {
+		"message": "Отключить прозрачность"
+	},
+	"htmltab.disable_scrollbars": {
+		"message": "Отключить прокрутку"
+	},
+	"htmltab.enable_60_fps": {
+		"message": "Показывать при частоте до 60 FPS"
+	},
+	"htmltab.enable_60_fps_tooltip": {
+		"message": "Могут потребоваться дополнительные ресурсы процессора или видеокарты. Учтите, что переключение этой опции приведёт к обновлению источника. Для достижения наилучшей производительности активируйте в браузере параметр \"Специальная оптимизация браузерного источника\" в пункте меню Инструменты -> Настройки -> Дополнительно."
+	},
+	"htmltab.configuration": {
+		"message": "Конфигурация"
+	},
+	"htmltab.configure_text": {
+		"message": "Чтобы указать название источника, нажмите на кнопку ниже."
+	},
+	"htmltab.configure": {
+		"message": "Настройка"
+	},
+	"htmlhotkeystab.hotkeys": {
+		"message": "Горячие клавиши"
+	},
+	"presentationtab.playback": {
+		"message": "Воспроизведение"
+	},
+	"presentationtab.audio_output": {
+		"message": "Аудио выход"
+	},
+	"presentationtab.remember_playback_position": {
+		"message": "Запомнить позицию воспроизведения"
+	},
+	"presentationtab.current_slide": {
+		"message": "Current Slide"
+	},
+	"presentationtab.hotkeys": {
+		"message": "Alternatively, you can use the arrow keys to go to the next or previous slide when source is in focus."
+	},
+	"presentationtab.pptSource": {
+		"message": "Presentation Source"
+	},
+	"presentationtab.change": {
+		"message": "Изменить..."
+	},
+	"css_editor.edit_css": {
+		"message": "Редактировать CSS- "
+	},
+	"css_editor.css": {
+		"message": "CSS"
+	},
+	"css_editor.overwrite_css": {
+		"message": "Переписать CSS"
+	},
+	"css_editor.back": {
+		"message": "Назад"
+	},
+	"js_editor.edit_js": {
+		"message": "Редактировать JS- "
+	},
+	"js_editor.js": {
+		"message": "JS"
+	},
+	"js_editor.add_custom_js": {
+		"message": "Добавление пользовательского JS"
+	},
+	"js_editor.back": {
+		"message": "Назад"
+	},
+	"hints.picture_section": {
+		"message": "Здесь вы можете отрегулировать цвет вашего ресурса/источника."
+	},
+	"hints.keying_section": {
+		"message": "Здесь вы можете применить хроматический ключ для удаления фона."
+	},
+	"hints.position_section": {
+		"message": "Здесь можно задать размер и положение вашего источника на viewport."
+	},
+	"hints.threed_section": {
+		"message": "Здесь вы можете настроить ваш источник на 3D плоскости. Пожалуйста, обратите внимание, что HTML и SWF источники не регистрируют действия мыши, когда вы вращаете источник."
+	},
+	"hints.media_playback_section": {
+		"message": "Контролируйте воспроизведение, устанавливайте громкость и устройство вывода звука."
+	},
+	"hints.cue_points_section": {
+		"message": "Задать различные точки, чтобы поставить на паузу, вырезать, или возобновить файл мультимедиа."
+	},
+	"hints.game_source_section": {
+		"message": "Показать/скрыть мышь и включить/отключить обмен на поверхностях"
+	},
+	"hints.camera_playback_section": {
+		"message": "Для устройств USB 2.0 рекомендуется установить аудио выход только в стрим"
+	},
+	"hints.rtsp_rtmp_playback_section": {
+		"message": "Во избежание задержек звука, установите аудио выход только в стрим"
+	},
+	"hints.configuration_section": {
+		"message": "Щелкните, чтобы открыть окно Конфигурация панели управления, используемое для обновления источника."
+	},
+	"hints.masking_section": {
+		"message": "Использование масок позволяет обрезать источник в соответствии с маской. В качестве маски можно выбрать файл или контур."
+	},
+	"hints.transition_section": {
+		"message": "По умолчанию переход работает когда вы показываете или скрываете источник на сцене (устанавливаете или снимаете флажок в списке источников). Вы также можете применить переход при появлении сцены или при её завершении. Однако переход источника не сработает, если основной тип перехода установлен в значение «Никакой». Если вам нужно сделать склейку встык (cut) для основного перехода и по-прежнему применить смену источника, то установите основной тип переход в значение «В стык» вместо «Никакой»."
+	},
+	"hints.ndi_playback_section": {
+		"message": "Установите громкость и устройство вывода звука."
+	}
+}

@@ -1,0 +1,98 @@
+{
+  "title.source": {
+    "message": "Fuente"
+  },
+  "subtitle.account": {
+    "message": "Cuenta"
+  },
+  "link.authorize": {
+    "message": "Autorizar a XSplit para utilizar Facebook Live"
+  },
+  "subtitle2.authorize.error": {
+    "message": "Trata de dar autorización de nuevo y concede el acceso a todos los permisos requeridos por XSplit para utilizar esta función"
+  },
+  "subtitle.connect": {
+    "message": "Publicar URL"
+  },
+  "chat.disconnected": {
+    "message": "No conectado"
+  },
+  "chat.connected": {
+    "message": "Conectado"
+  },
+  "help.post.title": {
+    "message": "Publicar URL"
+  },
+  "help.post.text": {
+    "message": "Las URL permitidas son los mensajes públicos, tus propios mensajes (videos, imágenes, etc.) en tu línea de tiempo, o la publicación de imágenes y videos de una página que administras."
+  },
+  "chat.connect": {
+    "message": "Conectar"
+  },
+  "chat.disconnect": {
+    "message": "Desconectar"
+  },
+  "subtitle2.connect.error": {
+    "message": "Proporciona un video válido o publica la URL."
+  },
+  "title.display": {
+    "message": "Pantalla"
+  },
+  "label.lock": {
+    "message": "Bloquear componentes"
+  },
+  "help.lock.title": {
+    "message": "Bloquear componentes"
+  },
+  "help.lock.text": {
+    "message": "Si seleccionas esta opción, se deshabilitará la opción de pasar el ratón por encima, reposicionar y cambiar el tamaño de los componentes[br]Selecciona esta opción si no deseas que se muestre la opción de pasar el ratón por encima de los componentes, especialmente durante la transmisión o la grabación."
+  },
+  "label.reactions": {
+    "message": "Mostrar las reacciones y etiquetas"
+  },
+  "button.reset": {
+    "message": "Reiniciar"
+  },
+  "label.bg": {
+    "message": "Color de fondo del contador"
+  },
+  "label.counter": {
+    "message": "Contador"
+  },
+  "label.label": {
+    "message": "Etiqueta"
+  },
+  "label.opacity": {
+    "message": "Opacidad"
+  },
+  "label.hide_connection_message": {
+    "message": "Ocultar los mensajes de conexión"
+  },
+  "authenticate.switch": {
+    "message": "%user%** Cambiar de cuenta"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** Eliminar autorización"
+  },
+  "input.like": {
+    "message": "Me gusta"
+  },
+  "input.love": {
+    "message": "Me encanta"
+  },
+  "input.haha": {
+    "message": "Haha"
+  },
+  "input.sad": {
+    "message": "Triste"
+  },
+  "input.wow": {
+    "message": "¡Guau!"
+  },
+  "input.angry": {
+    "message": "Enojado"
+  },
+  "tabheader.title": {
+    "message": "Publicar las reacciones"
+  }
+}

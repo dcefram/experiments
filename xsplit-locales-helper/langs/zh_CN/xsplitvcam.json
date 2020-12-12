@@ -1,0 +1,146 @@
+{
+  "menu.language": {
+    "message": "更改语言"
+  },
+  "menu.calibrate": {
+    "message": "校准"
+  },
+  "menu.account": {
+    "message": "我的账户"
+  },
+  "menu.help": {
+    "message": "帮助"
+  },
+  "menu.signin": {
+    "message": "使用登录"
+  },
+  "menu.logout": {
+    "message": "退出"
+  },
+  "menu.about": {
+    "message": "关于"
+  },
+  "menu.source": {
+    "message": "资源"
+  },
+  "menu.filter": {
+    "message": "过滤"
+  },
+  "menu.bgFilter.og": {
+    "message": "原始背景"
+  },
+  "menu.bgFilter.replace": {
+    "message": "替换背景"
+  },
+  "menu.bgFilter.remove": {
+    "message": "删除背景"
+  },
+  "menu.bgImage": {
+    "message": "背景图像"
+  },
+  "menu.bgBlur": {
+    "message": "背景模糊"
+  },
+  "menu.filterMenu.automatic": {
+    "message": "自动"
+  },
+  "menu.filterMenu.accel": {
+    "message": "硬件加速"
+  },
+  "menu.filterMenu.quality": {
+    "message": "质量控制"
+  },
+  "menu.filterMenu.quality.low": {
+    "message": "低"
+  },
+  "menu.filterMenu.quality.med": {
+    "message": "标准"
+  },
+  "menu.filterMenu.quality.high": {
+    "message": "高"
+  },
+  "menu.filterMenu.addtl": {
+    "message": "其他选项"
+  },
+  "menu.filterMenu.addtl.chair": {
+    "message": "去除椅子"
+  },
+  "menu.browse.local": {
+    "message": "浏览本地文件"
+  },
+  "menu.browse.online": {
+    "message": "线上网页"
+  },
+  "calibrate.title": {
+    "message": "校准 xsplit vcam"
+  },
+  "calibrate.subtitle": {
+    "message": "校准 xsplit vcam 使我们能够提高您的环境和相机的性能。"
+  },
+  "calibrate.source": {
+    "message": "选择相机源:"
+  },
+  "calibrate.vidConsent": {
+    "message": "上传15秒视频和校准数据以提高性能"
+  },
+  "calibrate.title2": {
+    "message": "校准..."
+  },
+  "calibrate.subtitle2": {
+    "message": "在镜头前停留 15秒，看向两侧，举起手臂，或做你通常在相机上做的事情。"
+  },
+  "calibrate.title3": {
+    "message": "完成!"
+  },
+  "calibrate.subtitle3": {
+    "message": "XSplit VCam现已准备就绪。 只需在Skype，OBS，XSplit Broadcaster或使用相机的任何其他应用程序中选择“XSplit VCam”作为您的相机。"
+  },
+  "calibrate.denyConsent": {
+    "message": "您确定不想上传校准数据吗？ 我们只会使用您的数据来改善背景消除AI，如果没有它我们无法改善您的体验。"
+  },
+  "feedback.ask": {
+    "message": "你觉得我们的应用程序怎么样？"
+  },
+  "feedback.rating.low": {
+    "message": "我们很抱歉你的感觉不好。"
+  },
+  "feedback.rating.med": {
+    "message": "我们怎样才能做得更好"
+  },
+  "feedback.rating.high": {
+    "message": "谢谢你的五星好评!"
+  },
+  "feedback.vidConsent": {
+    "message": "我想录制一个示例视频"
+  },
+  "feedback.question": {
+    "message": "还有什么我们可以改进的吗？功能请求？"
+  },
+  "feedback.comments": {
+    "message": "评论可选"
+  },
+  "feedback.thanks": {
+    "message": "感谢您的反馈!"
+  },
+  "feedback.assurance": {
+    "message": "我们将努力改善你的体验。"
+  },
+  "purchase.buy": {
+    "message": "立即购买!"
+  },
+  "window.continue": {
+    "message": "继续"
+  },
+  "window.close": {
+    "message": "关闭"
+  },
+  "window.cancel": {
+    "message": "取消"
+  },
+  "window.redo": {
+    "message": "重新"
+  },
+  "window.submit": {
+    "message": "提交"
+  }
+}

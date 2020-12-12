@@ -1,0 +1,38 @@
+{
+	"copyright": {
+		"message": "Copyright &copy; %dates%"
+	},
+	"terms": {
+		"message": "Portions of this program use open source software libraries, please refer to the [general license terms here.](%termslink%)"
+	},
+	"licenseBenefitsLine": {
+		"message": "Compre XSplit para adquirir o Simulcast, 1080px e mais!"
+	},
+	"licenseWillExpire": {
+		"message": "A sua licença expira em **%expiry_date%**"
+	},
+	"license-named": {
+		"message": "Você tem uma **%name%** licença"
+	},
+	"license-scoped": {
+		"message": "Você tem uma **%name%** licença que expira em **%date%**"
+	},
+	"license-outsourced": {
+		"message": "Você tem uma licença de **%source%**"
+	},
+	"license-complimentary": {
+		"message": "Você tem uma extensão de cortesia para sua **%name%** licença para hoje"
+	},
+	"upgrade": {
+		"message": "Clique aqui para atualizar sua licença"
+	},
+	"extend": {
+		"message": "Clique aqui para estender sua licença"
+	},
+	"buy": {
+		"message": "Clique aqui para atualizar agora!"
+	},
+	"steam-header": {
+		"message": "Escolha o aplicativo que você deseja iniciar."
+	}
+}

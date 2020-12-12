@@ -1,0 +1,71 @@
+{
+  "chat.title": {
+    "message": "crwdns8396:0%service%crwdne8396:0"
+  },
+  "chat.source": {
+    "message": "crwdns8397:0crwdne8397:0"
+  },
+  "chat.account": {
+    "message": "crwdns8398:0crwdne8398:0"
+  },
+  "chat.authorize": {
+    "message": "crwdns8399:0%service%crwdne8399:0"
+  },
+  "chat.deauthorize": {
+    "message": "crwdns8400:0%username%crwdne8400:0"
+  },
+  "chat.connected": {
+    "message": "crwdns8401:0crwdne8401:0"
+  },
+  "chat.not_connected": {
+    "message": "crwdns8402:0crwdne8402:0"
+  },
+  "chat.channel_text": {
+    "message": "crwdns8403:0%service%crwdne8403:0"
+  },
+  "chat.channel": {
+    "message": "crwdns8404:0crwdne8404:0"
+  },
+  "chat.channel_name": {
+    "message": "crwdns8405:0crwdne8405:0"
+  },
+  "chat.connect": {
+    "message": "crwdns8406:0crwdne8406:0"
+  },
+  "chat.error_channel_not_found": {
+    "message": "crwdns8407:0%service%crwdne8407:0"
+  },
+  "chat.error_no_connection": {
+    "message": "crwdns8408:0crwdne8408:0"
+  },
+  "chat.display": {
+    "message": "crwdns8409:0crwdne8409:0"
+  },
+  "chat.chat_box": {
+    "message": "crwdns8410:0crwdne8410:0"
+  },
+  "chat.opacity": {
+    "message": "crwdns8411:0crwdne8411:0"
+  },
+  "chat.viewers": {
+    "message": "crwdns8412:0crwdne8412:0"
+  },
+  "chat.message": {
+    "message": "crwdns8413:0crwdne8413:0"
+  },
+  "chat.text_size": {
+    "message": "crwdns8414:0crwdne8414:0"
+  },
+  "chat.disconnect": {
+    "message": "crwdns8415:0crwdne8415:0"
+  },
+  "chat.connecting": {
+    "message": "crwdns8416:0crwdne8416:0"
+  },
+  "chat.connect_error": {
+    "message": "crwdns8417:0%service%crwdne8417:0"
+  },
+  "chat.invalid_channel": {
+    "message": "crwdns8418:0%service%crwdne8418:0"
+  }
+}

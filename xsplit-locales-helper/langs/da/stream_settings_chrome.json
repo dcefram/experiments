@@ -1,0 +1,41 @@
+{
+	"streamSettings.freeUserLimitationStreamReso": {
+		"message": "XSplit Broadcaster can stream in high resolution beyond %resolution%. However, this feature is reserved for XSplit users with a paid license.[br][br]Please select how you want to proceed."
+	},
+	"streamSettings.freeUserLimitationRecordReso": {
+		"message": "XSplit Broadcaster can record in high resolution beyond %resolution%. However, this feature is reserved for XSplit users with a paid license.[br][br]Please select how you want to proceed."
+	},
+	"streamSettings.freeUserLimitationStreamFps": {
+		"message": "XSplit Broadcaster can stream in frame rates above %fps%. However, this feature is reserved for XSplit users with a paid license.[br][br]Please select how you want to proceed."
+	},
+	"streamSettings.freeUserLimitationRecordFps": {
+		"message": "XSplit Broadcaster can record in frame rates above %fps%. However, this feature is reserved for XSplit users with a paid license.[br][br]Please select how you want to proceed."
+	},
+	"streamSettings.freeUserLimitationStreamResoFps": {
+		"message": "XSplit Broadcaster can stream in high resolution beyond %resolution% and in frame rates above %fps%. However, these features are reserved for XSplit users with a paid license.[br][br]Please select how you want to proceed."
+	},
+	"streamSettings.freeUserLimitationRecordResoFps": {
+		"message": "XSplit Broadcaster can record in high resolution beyond %resolution% and in frame rates above %fps%. However, these features are reserved for XSplit users with a paid license.[br][br]Please select how you want to proceed."
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonReso": {
+		"message": "%type% in %resolution%[br]without[br]watermark"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonFps": {
+		"message": "%type% in %fps%[br]without[br]watermark"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonResoFps": {
+		"message": "%type% in %resolution%[br]@ %fps%[br]without[br]watermark"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonReso": {
+		"message": "%type% in %resolution%[br]with[br]watermark"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonFps": {
+		"message": "%type% in %fps%[br]with[br]watermark"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonResoFps": {
+		"message": "%type% in %resolution%[br]@ %fps%[br]with[br]watermark"
+	},
+	"streamSettings.buyLicenseButton": {
+		"message": "Buy a license[br]to remove[br]watermark"
+	}
+}

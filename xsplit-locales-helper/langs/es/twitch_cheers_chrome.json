@@ -1,0 +1,77 @@
+{
+	"twitch.cheers.tabheader": {
+		"message": "Alerta"
+	},
+	"twitch.cheers.source": {
+		"message": "Fuente"
+	},
+	"twitch.cheers.account": {
+		"message": "Cuenta"
+	},
+	"twitch.cheers.authorize": {
+		"message": "Autorizar a XSplit para utilizar Twich"
+	},
+	"twitch.cheers.remove_authorization": {
+		"message": "%api%** Eliminar autorización"
+	},
+	"twitch.cheers.switch_account": {
+		"message": "%api%** Cambiar de cuenta"
+	},
+	"twitch.cheers.not_connected": {
+		"message": "No conectado"
+	},
+	"twitch.cheers.connected": {
+		"message": "Conectado"
+	},
+	"twitch.cheers.error_channel_not_found": {
+		"message": "Proporciona un canal válido."
+	},
+	"twitch.cheers.notification": {
+		"message": "Notificación"
+	},
+	"twitch.cheers.lock_components": {
+		"message": "Bloquear componentes"
+	},
+	"twitch.cheers.lock_components_help": {
+		"message": "Si seleccionas esta opción, se deshabilitará la opción de pasar el ratón por encima, reposicionar y cambiar el tamaño de los componentes[br]Selecciona esta opción si no deseas que se muestre la opción de pasar el ratón por encima de los componentes, especialmente durante la transmisión o la grabación."
+	},
+	"twitch.cheers.show_stats": {
+		"message": "Mostrar estadísticas"
+	},
+	"twitch.cheers.show_stats_help": {
+		"message": "Esto mostrará el cheer principal y el más reciente de tu canal de Twitch. Para borrar los datos de las estadísticas, desconéctate del canal y conéctate de nuevo. Para evitar que se borren los datos al cambiar de escena, asegúrate de que la opción 'Mantener la fuente en memoria' esté seleccionada."
+	},
+	"twitch.cheers.opacity": {
+		"message": "Opacidad"
+	},
+	"twitch.cheers.user_name": {
+		"message": "Nombre de usuario"
+	},
+	"twitch.cheers.labels": {
+		"message": "Etiquetas"
+	},
+	"twitch.cheers.show_alert": {
+		"message": "Mostrar alerta"
+	},
+	"twitch.cheers.message": {
+		"message": "Mensaje"
+	},
+	"twitch.cheers.show_message": {
+		"message": "Mostrar mensaje"
+	},
+	"twitch.cheers.duration": {
+		"message": "Duración"
+	},
+	"twitch.cheers.millisecond_unit": {
+		"message": "ms"
+	},
+	"twitch.cheers.sound": {
+		"message": "Sonido"
+	},
+	"twitch.cheers.preview": {
+		"message": "Previsualización"
+	},
+	"twitch.cheers.test_alert": {
+		"message": "Probar alerta"
+	}
+}

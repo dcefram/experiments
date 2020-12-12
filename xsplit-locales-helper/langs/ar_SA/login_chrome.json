@@ -1,0 +1,234 @@
+{
+	"email": {
+		"message": "بريد الكتروني"
+	},
+	"password": {
+		"message": "كلمة المرور"
+	},
+	"rememberMe": {
+		"message": "تذكرني"
+	},
+	"newXSplitUser": {
+		"message": "هل أنت مستحدم جدبد لـ XSplit ؟"
+	},
+	"noAccount": {
+		"message": "التسجيل الان"
+	},
+	"forgotPassword": {
+		"message": "نسيت كلمة المرور"
+	},
+	"enterCode": {
+		"message": "أدخل الكود"
+	},
+	"loginAutomatically": {
+		"message": "سجلني تلقائياً"
+	},
+	"login": {
+		"message": "تسجيل الدخول"
+	},
+	"selectLanguage": {
+		"message": "أختر اللغة"
+	},
+	"agreement": {
+		"message": "لقد قرأت(اتفاقية الترخيص لـ XSplit) (وسياسة الخصوصية) ووافقت عليهما."
+	},
+	"updates": {
+		"message": "أرسل لي التحديثات والعروض الخاصة عبر الايميل."
+	},
+	"noEmailMessage": {
+		"message": "أخترت عدم استقبال تحديثات البريد الالكتروني. إضغط على التالي لـتأكيد اختيارك."
+	},
+	"growl.warning": {
+		"message": "تحذير"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.title": {
+		"message": "زر كابس لوك مفعل",
+		"type": "warning"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.message": {
+		"message": "إن تفعيل زر كابس لوك قد يسبب إدخال كلمة مرورك بشكل خاطئ. فتأكد من إغلاقه قبل إدخال كلمة مرورك."
+	},
+	"registration.message": {
+		"message": "هل أنت مستخدم جديد لـ XSplit ؟ (سياسة الخصوصية)"
+	},
+	"screenName.placeholder": {
+		"message": "إختر اسم مستخدم"
+	},
+	"fullName.placeholder": {
+		"message": "الاسم كامل"
+	},
+	"emailInput.placeholder": {
+		"message": "بريد الكتروني"
+	},
+	"passwordInput.placeholder": {
+		"message": "كلمة المرور"
+	},
+	"retypePassword.placeholder": {
+		"message": "إعد كتابة كلمة المرور"
+	},
+	"register.label": {
+		"message": "التسجيل الان"
+	},
+	"loginUsingExisting": {
+		"message": "**مسجل من قبل** (سجل الدخول) بإستخدام حساب موجود"
+	},
+	"registration.confirm.message": {
+		"message": "** الرجاء التأكد من أن عنوان بريدك الالكتروني بالاسفل صحيح وأنك قد قرأت اتفاقية الترخيص وسياسة الخصوصية لـ XSplit قبل الاكمال**"
+	},
+	"registration.confirm.continue": {
+		"message": "استمرار"
+	},
+	"registration.confirm.goBack": {
+		"message": "العودة للخلف"
+	},
+	"registration.processing": {
+		"message": "جاري تسجل حسابك..."
+	},
+	"registration.success": {
+		"message": "** تم التسجيل بنجاح**[br][br] \nوتم ارسال بريد لـ%email% يحتوي على تعليمات عن كيفية تفعيل حسابك."
+	},
+	"continue.label": {
+		"message": "الاستكمال لـ XSplit Broadcaster"
+	},
+	"screenName.hint": {
+		"message": "يجب أن يكون اسم المستخدم ما بين 4-50 حرف. وسيستخدم في تقرير الدعم."
+	},
+	"screenName.check": {
+		"message": "جاري التأكد من أن اسم المستخدم متاح..."
+	},
+	"screenName.unavailable": {
+		"message": "اسم المستخدم هذا موجود بالفعل. الرجاء اختيار واحد آخر."
+	},
+	"fullName.hint": {
+		"message": "الاسم الكامل يجب أن يكون من 6-50 حرف."
+	},
+	"emailInput.hint": {
+		"message": "يتطلب بريد صالح من أحل تفعيل الحساب."
+	},
+	"emailInput.notValid": {
+		"message": "البريد قد يكون موجود أو غير صالح"
+	},
+	"passwordInput.hint": {
+		"message": "يجب أن تتكون كلمة المرور من 6-50 حرف. أحرص على إغلاق زر كابس لوك حيث قد يسبب لك إدخال كلمة المرور بشكل خاطئ."
+	},
+	"passwordInput.notMatch": {
+		"message": "كلمة المرور وإعادة كلمة المرور يجب أن يكونا متطابقين وأن يكونا ما بين 6-50 حرف"
+	},
+	"copyright": {
+		"message": "حق النشر &copy; %dates%"
+	},
+	"oem.login.optimizedFor": {
+		"message": "محسن من أجل"
+	},
+	"oem.login.bannerMessage": {
+		"message": "كل من %license% المجانية لـ XSplit والرخصة المميزة يرعاهما %oem%. قم بتسجيل الدخول أو التسجيل من أجل حفظ الرخصة."
+	},
+	"oem.redeemed.message": {
+		"message": "تهانينا إن جهازك %oem%** سينقل بـ %oemfreelicense% رخصة مميزة** لاستخدام ميزات اعدادات XSplit Broadcaster الكاملة. وقد سجلت الرخصة لحسابك%email%."
+	},
+	"oem.redeemed.messageNewAccount": {
+		"message": "تهانينا! يشحن جهازك **٪ oem٪ Machine ** بترخيص **٪ oemfreelicense٪ Premium ** لاستخدام مجموعة الميزات الكاملة من XSplit Broadcaster. تم تطبيق الترخيص على حسابك الجديد في XSplit ** (٪ email٪) **."
+	},
+	"oem.redeemed.letsGetStarted": {
+		"message": "حسنًا ، لنبدأ"
+	},
+	"oem.redeem.emailSentMessage": {
+		"message": "تم إرسال بريد إلكتروني إليك يتضمن إرشادات حول كيفية تنشيط حسابك."
+	},
+	"oem.redeemed.newFail": {
+		"message": "تهانينا! تم التسجيل بنجاح. تم إرسال بريد إلكتروني إليك يتضمن إرشادات حول كيفية تنشيط حسابك. تأكد من التنشيط خلال 24 ساعة."
+	},
+	"oem.redeemed.redeemError": {
+		"message": "حدث خطأ في استرداد الترخيص. حاول استرداد الترخيص مرة أخرى عن طريق إعادة تشغيل XSplit Broadcaster أو الاتصال **license@xsplit.com** إذا استمر الخطأ."
+	},
+	"REFURBISHED_REDEMPTION_NOT_ALLOWED_FOR_SAME_XSPLIT_ACCOUNT": {
+		"message": "حدث خطأ في استرداد الترخيص. حاول استرداد الترخيص مرة أخرى عن طريق إعادة تشغيل XSplit Broadcaster وباستخدام حساب XSplit آخر. إذا استمر الخطأ ، فيرجى الاتصال بـ **license@xsplit.com**."
+	},
+	"cannot_apply_with_recurring": {
+		"message": "خطأ: لا يمكن تطبيق ترخيص شهادة الهدية أثناء تنشيط الترخيص المتكرر."
+	},
+	"oem.login.letsGetStarted": {
+		"message": "حسنًا ، لنبدأ"
+	},
+	"oem.login.continueToXBC": {
+		"message": "الاستكمال لـ XSplit Broadcaster"
+	},
+	"carousel.slide1.header": {
+		"message": "بسيطة لكنها قوية لايف الجري وتسجيل البرامج"
+	},
+	"carousel.slide1.content": {
+		"message": "XSplit Broadcaster هو تطبيق ثوري لمزج الصوت / الفيديو يتيح لأي شخص إنشاء بث مباشر عالي الجودة وتسجيلات الفيديو باستخدام واجهة بسيطة وسهلة الاستخدام يمكن لأي شخص إتقانها."
+	},
+	"carousel.slide2.header": {
+		"message": "الإضافات المخصصة والتكامل"
+	},
+	"carousel.slide2.content": {
+		"message": "يتميز XSplit Broadcaster بمجموعة كبيرة من التخصيصات بفضل متجر المكونات الإضافية لدينا ، مما يتيح لك تخصيص البث بشكل أكبر من خلال تنبيهات التبرع وطلبات الموسيقى وغير ذلك الكثير. يمكنك حتى تطوير الخاصة بك! الاحتمالات لا حصر لها."
+	},
+	"carousel.slide3.header": {
+		"message": "تحرير وتحميل التسجيلات"
+	},
+	"carousel.slide3.content": {
+		"message": "XSplit Broadcaster يجعل من السهل الفرز وإدارة أي طريقة لعب مسجلة ، مما يتيح لك إمكانية تجميع وتحرير الصور مع محرر داخلي يحمل في ثناياه عوامل. بمجرد الانتهاء من تحميل مقاطع الفيديو الخاصة بك مباشرة على YouTube ومشاركتها عبر الشبكات الاجتماعية المفضلة لديك ، كل ذلك دون مغادرة التطبيق."
+	},
+	"carousel.slide4.header": {
+		"message": "الدعم الأصلي لجميع بطاقات التقاط الشعبية"
+	},
+	"carousel.slide4.content": {
+		"message": "تم ضبط XSplit Broadcaster لدعم أكبر مجموعة من العلامات التجارية لبطاقات الالتقاط المتاحة اليوم. - [قائمة بطاقات الالتقاط المدعومة في صفحة المنتج] (https://xspl.it/bc/capture_card_list)"
+	},
+	"carousel.freeLicenseText": {
+		"message": "_**FREE** XSplit License_"
+	},
+	"carousel.sponsor": {
+		"message": "برعاية ٪ oem ٪"
+	},
+	"carousel.lucky": {
+		"message": "لطيف! تم تزويد جهاز٪ OEM٪ هذا بترخيص **٪ المدة٪ XSplit! **"
+	},
+	"carousel.continue": {
+		"message": "استمرار"
+	},
+	"carousel.title": {
+		"message": "XSplit Broadcaster"
+	},
+	"label.default": {
+		"message": "تسجيل الدخول باستخدام٪ connect٪"
+	},
+	"label.connect": {
+		"message": "أو تسجيل الدخول مع"
+	},
+	"label.authorized": {
+		"message": "أذن كما"
+	},
+	"label.changeaccount": {
+		"message": "[استخدام حساب مختلف] (تغيير الحساب)"
+	},
+	"label.learnMore": {
+		"message": "جديد للعيش الجري؟ [تعرف على المزيد هنا!] (https://xspl.it/bc/tutorials)"
+	},
+	"label.otherOptions": {
+		"message": "[المزيد من خيارات تسجيل الدخول] (خيارات أخرى)"
+	},
+	"label.welcome": {
+		"message": "مرحبًا بك في XSplit!"
+	},
+	"label.loggingInTo": {
+		"message": "تسجيل الدخول إلى٪ service٪..."
+	},
+	"label.pleaseComplete": {
+		"message": "Please complete the login process in your browser[br][br][br][Cancel](cancelLogin)[br][br][br][Having issues? Try in-app login instead](externalLogin)"
+	},
+	"label.somethingWrong": {
+		"message": "هناك خطأ ما."
+	},
+	"label.retryAuth": {
+		"message": "يرجى إعادة محاولة التفويض أو اختيار خدمة أخرى [br] لتسجيل الدخول باستخدام."
+	},
+	"button.back": {
+		"message": "Back"
+	},
+	"button.retry": {
+		"message": "Retry"
+	}
+}

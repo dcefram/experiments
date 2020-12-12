@@ -1,0 +1,41 @@
+{
+	"streamSettings.freeUserLimitationStreamReso": {
+		"message": "XSplit Broadcaster может стримить в более высоком разрешении чем %resolution%. Однако, этот параметр доступен только пользователям XSplit с платной лицензией.[br][br]Выберите один из предложенных вариантов для продолжения."
+	},
+	"streamSettings.freeUserLimitationRecordReso": {
+		"message": "XSplit Broadcaster может выполнять запись в более высоком разрешении чем %resolution%. Однако, этот параметр доступен только пользователям XSplit с платной лицензией.[br][br]Выберите один из предложенных вариантов для продолжения."
+	},
+	"streamSettings.freeUserLimitationStreamFps": {
+		"message": "XSplit Broadcaster может стримить с более высокой частотой кадров чем %fps%. Однако, этот параметр доступен только пользователям XSplit с платной лицензией.[br][br]Выберите один из предложенных вариантов для продолжения."
+	},
+	"streamSettings.freeUserLimitationRecordFps": {
+		"message": "XSplit Broadcaster может выполнять запись с более высокой частотой кадров чем %fps%. Однако, этот параметр доступен только пользователям XSplit с платной лицензией.[br][br]Выберите один из предложенных вариантов для продолжения."
+	},
+	"streamSettings.freeUserLimitationStreamResoFps": {
+		"message": "XSplit Broadcaster может стримить в более высоком разрешении чем %resolution% и с частотой кадров более высокой чем %fps%. Однако, эти параметры доступны только пользователям XSplit с платной лицензией.[br][br]Выберите один из предложенных вариантов для продолжения."
+	},
+	"streamSettings.freeUserLimitationRecordResoFps": {
+		"message": "XSplit Broadcaster может выполнять запись в более высоком разрешении чем %resolution% и с частотой кадров более высокой чем %fps%. Однако, эти параметры доступны только пользователям XSplit с платной лицензией.[br][br]Выберите один из предложенных вариантов для продолжения."
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonReso": {
+		"message": "%type% в %resolution%[br]без[br]водяного знака"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonFps": {
+		"message": "%type% с частотой кадров %fps%[br]без[br]водяного знака"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonResoFps": {
+		"message": "%type% в %resolution%[br]@ %fps%[br]без[br]водяного знака"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonReso": {
+		"message": "%type% в %resolution%[br]с[br]водяным знаком"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonFps": {
+		"message": "%type% с частотой кадров %fps%[br]с[br]водяным знаком"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonResoFps": {
+		"message": "%type% в %resolution%[br]@ %fps%[br]с[br]водяным знаком"
+	},
+	"streamSettings.buyLicenseButton": {
+		"message": "Купить лицензию[br]для удаления[br]водяных знаков"
+	}
+}

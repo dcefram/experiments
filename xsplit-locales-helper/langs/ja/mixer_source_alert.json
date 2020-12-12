@@ -1,0 +1,95 @@
+{
+	"mixer_source_alert.source": {
+		"message": "ソース"
+	},
+	"mixer_source_alert.not_connected": {
+		"message": "接続されていません。"
+	},
+	"mixer_source_alert.channel": {
+		"message": "チャンネル"
+	},
+	"mixer_source_alert.connect": {
+		"message": "接続"
+	},
+	"mixer_source_alert.invalid_channel": {
+		"message": "有効のチャンネルを入力してください。"
+	},
+	"mixer_source_alert.alertLabel": {
+		"message": "アラート"
+	},
+	"mixer_source_alert.type": {
+		"message": "種類"
+	},
+	"mixer_source_alert.theme": {
+		"message": "テーマ"
+	},
+	"mixer_source_alert.color": {
+		"message": "色"
+	},
+	"mixer_source_alert.layout": {
+		"message": "レイアウト"
+	},
+	"mixer_source_alert.animation_text": {
+		"message": "アニメーション"
+	},
+	"mixer_source_alert.duration": {
+		"message": "期間"
+	},
+	"mixer_source_alert.delay": {
+		"message": "表示時間"
+	},
+	"mixer_source_alert.animateIn": {
+		"message": "入りアニメーション"
+	},
+	"mixer_source_alert.animateOut": {
+		"message": "出アニメーション"
+	},
+	"mixer_source_alert.nameStyleAndSettings": {
+		"message": "設定とスタイルの名前"
+	},
+	"mixer_source_alert.name": {
+		"message": "名前"
+	},
+	"mixer_source_alert.minMonth": {
+		"message": "最低月間"
+	},
+	"mixer_source_alert.minViewers": {
+		"message": "最低視聴者数"
+	},
+	"mixer_source_alert.audio": {
+		"message": "オーディオ"
+	},
+	"mixer_source_alert.sound": {
+		"message": "音"
+	},
+	"mixer_source_alert.show_alert": {
+		"message": "プレビュー"
+	},
+	"mixer_source_alert.test_alert": {
+		"message": "アラートテスト"
+	},
+	"mixer_source_alert.connected": {
+		"message": "接続しました。"
+	},
+	"mixer_source_alert.disconnect": {
+		"message": "接続を切る"
+	},
+	"mixer_source_alert.generalHeader": {
+		"message": "一般"
+	},
+	"mixer_source_alert.customizeHeader": {
+		"message": "カスタマイズ"
+	},
+	"mixer_source_alert.hide_alert": {
+		"message": "プレビューを非表示にする"
+	},
+	"mixer_source_alert.account": {
+		"message": "アカウント"
+	},
+	"mixer_source_alert.authorize": {
+		"message": "XSplitに対してMixerの使用を許可します。"
+	},
+	"mixer_source_alert.remove_authorization": {
+		"message": "**%api%** 認証取り消し"
+	}
+}

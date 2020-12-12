@@ -1,0 +1,674 @@
+{
+	"title": {
+		"message": "XSplit Broadcaster - My Recordings"
+	},
+	"myRecordings.back": {
+		"message": "Back..."
+	},
+	"myRecordings.processing": {
+		"message": "Loading Recordings..."
+	},
+	"myRecordings.openWith": {
+		"message": "OPEN WITH"
+	},
+	"myRecordings.edit": {
+		"message": "EDIT VIDEO"
+	},
+	"myRecordings.CONVERT_TO_MP4": {
+		"message": "CONVERT TO MP4"
+	},
+	"myRecordings.REPAIR_FILE": {
+		"message": "REPAIR FILE"
+	},
+	"myRecordings.FIX_MOV_FILE": {
+		"message": "OPTIMIZE FOR WEB"
+	},
+	"myRecordings.FIX_MOV_FILE_TOOLTIP": {
+		"message": "This option minimizes the processing time needed after uploading the file to video on demand services such as YouTube. It basically relocates all the media information of the video file from the end to the beginning, optimizing it for online viewing. For more detailed technical information, click [here](https://xspl.it/j5hfit)."
+	},
+	"myRecordings.openFileLocation": {
+		"message": "OPEN FILE LOCATION"
+	},
+	"myRecordings.openFolderLocation": {
+		"message": "OPEN FOLDER LOCATION"
+	},
+	"myRecordings.sortBy": {
+		"message": "SORT BY"
+	},
+	"myRecordings.orderBy": {
+		"message": "ORDER BY"
+	},
+	"myRecordings.ascending": {
+		"message": "Ascending"
+	},
+	"myRecordings.descending": {
+		"message": "Descending"
+	},
+	"myRecordings.header.name": {
+		"message": "Name"
+	},
+	"myRecordings.header.date": {
+		"message": "Date"
+	},
+	"myRecordings.header.type": {
+		"message": "Type"
+	},
+	"myRecordings.header.videoLength": {
+		"message": "Length"
+	},
+	"myRecordings.header.size": {
+		"message": "بحجم"
+	},
+	"myRecordings.details.recordedOn": {
+		"message": "Recorded on"
+	},
+	"myRecordings.details.deleteRecordings": {
+		"message": "Selected Items"
+	},
+	"myRecordings.details.files": {
+		"message": "items"
+	},
+	"myRecordings.details.selected": {
+		"message": "selected"
+	},
+	"myRecordings.details.total": {
+		"message": "مجموع"
+	},
+	"myRecordings.details.uploading": {
+		"message": "تحميل الفيديو الخاص بك. اكتمل٪ بالمائة ٪٪."
+	},
+	"myRecordings.details.rename": {
+		"message": "إعادة تسمية"
+	},
+	"myRecordings.details.delete": {
+		"message": "حذف الفيديو المحلي"
+	},
+	"myRecordings.details.editSettings": {
+		"message": "تحرير الإعدادات"
+	},
+	"myRecordings.details.link": {
+		"message": "ربط"
+	},
+	"myRecordings.details.open": {
+		"message": "اذهب إلى الرابط"
+	},
+	"myRecordings.details.copy": {
+		"message": "انسخ الرابط"
+	},
+	"myRecordings.details.deleteVideoFromYoutube": {
+		"message": "أزل الفيديو من YouTube"
+	},
+	"myRecordings.details.deleteVideoFromDailymotion": {
+		"message": "إزالة الفيديو من ديلي موشن"
+	},
+	"myRecordings.details.filename.errors.FILE_ALREADY_EXISTS": {
+		"message": "يوجد ملف بنفس الاسم."
+	},
+	"myRecordings.details.filename.errors.INVALID_FILENAME": {
+		"message": "حرف غير صالح في اسم ملف جديد"
+	},
+	"myRecordings.details.filename.hoverMessage": {
+		"message": "انقر بزر الماوس الأيمن لمزيد من الخيارات"
+	},
+	"myRecordings.youtube.error.upload": {
+		"message": "خطأ في تحميل الفيديو"
+	},
+	"myRecordings.youtube.error.tryAgain": {
+		"message": "حاول مرة أخري؟"
+	},
+	"myRecordings.youtube.error.cancel": {
+		"message": "Cancel"
+	},
+	"myRecordings.youtube.link.copy": {
+		"message": "انسخ الرابط"
+	},
+	"myRecordings.youtube.link.open": {
+		"message": "فتح في المتصفح"
+	},
+	"myRecordings.youtube.privacy.unlisted": {
+		"message": "غير المدرجة في البورصة"
+	},
+	"myRecordings.youtube.privacy.private": {
+		"message": "خاص"
+	},
+	"myRecordings.youtube.privacy.public": {
+		"message": "عامة"
+	},
+	"myRecordings.youtube.cancelUpload": {
+		"message": "إلغاء الرفع؟"
+	},
+	"myRecordings.location.label": {
+		"message": "موقعك"
+	},
+	"myRecordings.location.open": {
+		"message": "افتح المجلد"
+	},
+	"uploadVideoDialog.dialogTitle": {
+		"message": "تحميل على YouTube"
+	},
+	"uploadVideoDialog.edit": {
+		"message": "تحرير إعدادات الفيديو"
+	},
+	"uploadVideoDialog.title": {
+		"message": "عنوان"
+	},
+	"uploadVideoDialog.description": {
+		"message": "وصف"
+	},
+	"uploadVideoDialog.category": {
+		"message": "الفئة"
+	},
+	"uploadVideoDialog.categoryValues.Autos": {
+		"message": "السيارات والمركبات"
+	},
+	"uploadVideoDialog.categoryValues.Comedy": {
+		"message": "كوميديا"
+	},
+	"uploadVideoDialog.categoryValues.Education": {
+		"message": "التعليم"
+	},
+	"uploadVideoDialog.categoryValues.Entertainment": {
+		"message": "وسائل الترفيه"
+	},
+	"uploadVideoDialog.categoryValues.Film": {
+		"message": "الفيلم والرسوم المتحركة"
+	},
+	"uploadVideoDialog.categoryValues.Gaming": {
+		"message": "الألعاب"
+	},
+	"uploadVideoDialog.categoryValues.Howto": {
+		"message": "كيف تصمم"
+	},
+	"uploadVideoDialog.categoryValues.Music": {
+		"message": "موسيقى"
+	},
+	"uploadVideoDialog.categoryValues.News": {
+		"message": "أخبار وسياسة"
+	},
+	"uploadVideoDialog.categoryValues.Nonprofit": {
+		"message": "المنظمات غير الربحية والنشاط"
+	},
+	"uploadVideoDialog.categoryValues.People": {
+		"message": "الناس والمدونات"
+	},
+	"uploadVideoDialog.categoryValues.Pets&Animals": {
+		"message": "الحيوانات الأليفة الحيوانات"
+	},
+	"uploadVideoDialog.categoryValues.Tech": {
+		"message": "العلوم والتكنولوجيا"
+	},
+	"uploadVideoDialog.categoryValues.Sports": {
+		"message": "رياضات"
+	},
+	"uploadVideoDialog.categoryValues.Travel": {
+		"message": "السفر والأحداث"
+	},
+	"uploadVideoDialog.gameName": {
+		"message": "اسم اللعبة"
+	},
+	"uploadVideoDialog.tags.label": {
+		"message": "علامات"
+	},
+	"uploadVideoDialog.tags.tooltip": {
+		"message": "استخدام الفواصل للفصل بين العلامات. انقر نقرًا مزدوجًا فوق العلامة لتحرير النص."
+	},
+	"uploadVideoDialog.privacy": {
+		"message": "خصوصية"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Unlisted": {
+		"message": "Unlisted"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Private": {
+		"message": "Private"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Public": {
+		"message": "Public"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Private": {
+		"message": "Private"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Public": {
+		"message": "Public"
+	},
+	"uploadVideoDialog.applyClose": {
+		"message": "APPLY & CLOSE"
+	},
+	"uploadVideoDialog.uploadNow": {
+		"message": "UPLOAD NOW"
+	},
+	"uploadVideoDialog.title-youtube": {
+		"message": "Upload Video to YouTube"
+	},
+	"uploadVideoDialog.title-dailymotion": {
+		"message": "تحميل الفيديو إلى ديلي موشن"
+	},
+	"uploadVideoDialog.editVideo-youtube": {
+		"message": "Edit YouTube Video Settings"
+	},
+	"uploadVideoDialog.cancel": {
+		"message": "CANCEL"
+	},
+	"uploadVideoDialog.allowEmbed": {
+		"message": "Allow"
+	},
+	"uploadVideoDialog.embed.label": {
+		"message": "EMBED"
+	},
+	"uploadVideoDialog.processing": {
+		"message": "Processing"
+	},
+	"uploadVideoDialog.uploadNotification": {
+		"message": "بالنقر فوق \"تحميل الآن\" ، فإنك تؤكد أن المحتوى الذي تحمّله يتوافق مع [شروط خدمة YouTube] (https://xspl.it/ox4uyd) (بما في ذلك إرشادات مجتمع YouTube). يرجى التأكد من عدم انتهاك حقوق الطبع والنشر أو الخصوصية للآخرين."
+	},
+	"youtubeUpload.dialogTitle": {
+		"message": "تحميل على YouTube"
+	},
+	"youtubeUpload.edit": {
+		"message": "تحرير إعدادات الفيديو"
+	},
+	"youtubeUpload.title": {
+		"message": "عنوان"
+	},
+	"youtubeUpload.description": {
+		"message": "وصف"
+	},
+	"youtubeUpload.category": {
+		"message": "الفئة"
+	},
+	"youtubeUpload.categoryValues.Autos": {
+		"message": "السيارات والمركبات"
+	},
+	"youtubeUpload.categoryValues.Comedy": {
+		"message": "كوميديا"
+	},
+	"youtubeUpload.categoryValues.Education": {
+		"message": "التعليم"
+	},
+	"youtubeUpload.categoryValues.Entertainment": {
+		"message": "وسائل الترفيه"
+	},
+	"youtubeUpload.categoryValues.Film": {
+		"message": "الفيلم والرسوم المتحركة"
+	},
+	"youtubeUpload.categoryValues.Gaming": {
+		"message": "الألعاب"
+	},
+	"youtubeUpload.categoryValues.Howto": {
+		"message": "كيف تصمم"
+	},
+	"youtubeUpload.categoryValues.Music": {
+		"message": "موسيقى"
+	},
+	"youtubeUpload.categoryValues.News": {
+		"message": "أخبار وسياسة"
+	},
+	"youtubeUpload.categoryValues.Nonprofit": {
+		"message": "المنظمات غير الربحية والنشاط"
+	},
+	"youtubeUpload.categoryValues.People": {
+		"message": "الناس والمدونات"
+	},
+	"youtubeUpload.categoryValues.Pets&Animals": {
+		"message": "الحيوانات الأليفة الحيوانات"
+	},
+	"youtubeUpload.categoryValues.Tech": {
+		"message": "العلوم والتكنولوجيا"
+	},
+	"youtubeUpload.categoryValues.Sports": {
+		"message": "رياضات"
+	},
+	"youtubeUpload.categoryValues.Travel": {
+		"message": "السفر والأحداث"
+	},
+	"youtubeUpload.tags.label": {
+		"message": "علامات"
+	},
+	"youtubeUpload.tags.tooltip": {
+		"message": "استخدام الفواصل للفصل بين العلامات"
+	},
+	"youtubeUpload.privacy": {
+		"message": "خصوصية"
+	},
+	"youtubeUpload.privacyValues.Unlisted": {
+		"message": "Unlisted"
+	},
+	"youtubeUpload.privacyValues.Private": {
+		"message": "Private"
+	},
+	"youtubeUpload.privacyValues.Public": {
+		"message": "Public"
+	},
+	"youtubeUpload.applyClose": {
+		"message": "APPLY & CLOSE"
+	},
+	"youtubeUpload.uploadNow": {
+		"message": "UPLOAD NOW"
+	},
+	"youtubeUpload.uploadVideo": {
+		"message": "Upload Video to YouTube"
+	},
+	"youtubeUpload.editVideo": {
+		"message": "Edit YouTube Video Settings"
+	},
+	"youtubeUpload.cancel": {
+		"message": "CANCEL"
+	},
+	"youtubeUpload.allowEmbed": {
+		"message": "Allow"
+	},
+	"youtubeUpload.embed.label": {
+		"message": "EMBED"
+	},
+	"youtubeUpload.processing": {
+		"message": "Processing"
+	},
+	"facebookShare.addMessage": {
+		"message": "Type your message here"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "Share Video to Facebook"
+	},
+	"facebookShare.via": {
+		"message": "via XSplit Broadcaster"
+	},
+	"facebookShare.privacy": {
+		"message": "Privacy"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "Public"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "Friends"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "Friends of Friends"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "Only Me"
+	},
+	"facebookShare.shareVideo": {
+		"message": "Share"
+	},
+	"facebookShare.cancel": {
+		"message": "Cancel"
+	},
+	"facebookShare.processing": {
+		"message": "Processing"
+	},
+	"facebookShare.postAs": {
+		"message": "Post to"
+	},
+	"facebookShare.timeline": {
+		"message": "Facebook Timeline"
+	},
+	"facebookShare.managePage": {
+		"message": "Pages you manage"
+	},
+	"twitterShare.addMessage": {
+		"message": "Type your message here"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "Share Video to Twitter"
+	},
+	"twitterShare.privacy": {
+		"message": "Privacy"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "Share"
+	},
+	"twitterShare.cancel": {
+		"message": "Cancel"
+	},
+	"twitterShare.processing": {
+		"message": "Processing"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "Type your message here"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "Share Video to Google+"
+	},
+	"googlePlusShare.via": {
+		"message": "via XSplit Broadcaster"
+	},
+	"googlePlusShare.privacy": {
+		"message": "Privacy"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "Everyone"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "All Friends"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "Friends of Friends"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "Self"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "Share"
+	},
+	"googlePlusShare.cancel": {
+		"message": "Cancel"
+	},
+	"googlePlusShare.processing": {
+		"message": "Processing"
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "Share Video"
+	},
+	"vodShare.processing": {
+		"message": "Processing"
+	},
+	"vodShare.addLink": {
+		"message": "Add link"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "Facebook Privacy"
+	},
+	"vodShare.gameCheckin": {
+		"message": "Game Check In"
+	},
+	"vodShare.gameCheckin.placeholder": {
+		"message": "Game Check In"
+	},
+	"vodShare.shareVideo": {
+		"message": "SHARE"
+	},
+	"vodShare.cancel": {
+		"message": "CANCEL"
+	},
+	"vodShare.shareTo.1": {
+		"message": "المشاركة على %service1%فقط"
+	},
+	"vodShare.shareTo.2": {
+		"message": "المشاركة على%service1% و%service2%"
+	},
+	"vodShare.shareTo.3": {
+		"message": "المشاركة على %service1%و%service2%و%service3%"
+	},
+	"vodShare.shareTo.4": {
+		"message": "المشاركة على %service1% و%service2% و %service3% و %service4%"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "TWITTER MESSAGE COUNTER"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "Counts the character left that can be posted to Twitter. You will find the blue colored text in the message, which is the only text that will be posted to Twitter."
+	},
+	"vodShare.gameNameWarning": {
+		"message": "The game name does not exist in Player.me database. As a result, it will not show up on your post."
+	},
+	"vodShare.loadMore": {
+		"message": "تحميل المزيد..."
+	},
+	"vodStatus.title": {
+		"message": "Share Status"
+	},
+	"vodStatus.facebook": {
+		"message": "فيسبوك"
+	},
+	"vodStatus.twitter": {
+		"message": "تويتر"
+	},
+	"vodStatus.playerme": {
+		"message": "Player.me"
+	},
+	"vodStatus.gplus": {
+		"message": "Google Plus"
+	},
+	"vodStatus.posting": {
+		"message": "Posting to %social%..."
+	},
+	"vodStatus.success": {
+		"message": "Successfully posted on %social%.[br][%message%](%url%)"
+	},
+	"vodStatus.message.facebook": {
+		"message": "View post"
+	},
+	"vodStatus.message.twitter": {
+		"message": "View tweet"
+	},
+	"vodStatus.message.playerme": {
+		"message": "View post"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "View details"
+	},
+	"vodStatus.error": {
+		"message": "Failed to post on %social%."
+	},
+	"vodStatus.failed": {
+		"message": "Failed to post on %social%.[br][%message%](%url%)"
+	},
+	"vodStatus.invalid": {
+		"message": "Cannot post to %social%."
+	},
+	"vodStatus.edit": {
+		"message": "تحرير"
+	},
+	"vodStatus.retry": {
+		"message": "Retry"
+	},
+	"dialog.ok": {
+		"message": "CLOSE"
+	},
+	"myRecordings.shareupload.loading": {
+		"message": "Connect to YouTube... [br]Continue connecting Youtube to XSplit in your browser"
+	},
+	"growl.yes": {
+		"message": "نعم"
+	},
+	"growl.no": {
+		"message": "لا"
+	},
+	"growl.error": {
+		"message": "خطاء"
+	},
+	"growl.info": {
+		"message": "معلومات"
+	},
+	"growl.warning": {
+		"message": "تحذير"
+	},
+	"growl.question": {
+		"message": "سؤال"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.title": {
+		"message": "خطئ في التحقق",
+		"type": "error"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.message": {
+		"message": "اسم الملف الذي أدخلته كلمة محظورة وغير مسموح به. لا يمكن استخدام الكلمات المقيدة بواسطة Windows لتسمية المجلدات والملفات."
+	},
+	"growl.messages.BLANK_FILENAME.title": {
+		"message": "خطئ في التحقق",
+		"type": "error"
+	},
+	"growl.messages.BLANK_FILENAME.message": {
+		"message": "لا يمكن أن يكون اسم الملف فارغًا."
+	},
+	"growl.messages.INVALID_FILENAME.title": {
+		"message": "خطئ في التحقق",
+		"type": "error"
+	},
+	"growl.messages.INVALID_FILENAME.message": {
+		"message": "لا يمكن أن يحتوي اسم الملف على أي من الأحرف التالية: \\ /: *؟ \"<> |"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.title": {
+		"message": "خطئ في التحقق",
+		"type": "error"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.message": {
+		"message": "اسم الملف موجود بالفعل."
+	},
+	"growl.messages.TOO_LONG_FILENAME.title": {
+		"message": "مسار الوجهة طويل جدًا",
+		"type": "error"
+	},
+	"growl.messages.TOO_LONG_FILENAME.message": {
+		"message": "سيكون اسم الملف طويلاً للغاية بالنسبة للمجلد الوجهة. يمكنك تقصير اسم الملف أو تجربة موقع له مسار أقصر."
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.title": {
+		"message": "خطئ في التحقق",
+		"type": "error"
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.message": {
+		"message": "قد يكون الملف مغلقًا أو قيد الاستخدام."
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.title": {
+		"message": "رابط الفيديو اللازمة",
+		"type": "warning"
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.message": {
+		"message": "قبل أن تتمكن من مشاركة رابط الفيديو على صفحات الوسائط الاجتماعية الخاصة بك ، يرجى استخدام زر YouTube لتحميل الفيديو الخاص بك على YouTube."
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.title": {
+		"message": "Cannot share to Twitter",
+		"type": "error"
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.message": {
+		"message": "Your message have exceeded the maximum allowed characters for Twitter. Your message will not be posted to Twitter but you may still share to Facebook."
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.title": {
+		"message": "Cannot share to Twitter",
+		"type": "error"
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.message": {
+		"message": "The image exceeds the maximum tweet attachment size of 3MB."
+	},
+	"myScreenshots.emptyMessage": {
+		"message": "It's empty here"
+	},
+	"myScreenshots.watchTutorial": {
+		"message": "Watch these [tutorials](https://xspl.it/bc/tutorials) to learn more!"
+	},
+	"myRecordings.title": {
+		"message": "التسجيلات"
+	},
+	"myRecordings.emptyFileLocation": {
+		"message": "Record your awesome broadcasts, upload to video sharing service and make it viral instantly!"
+	},
+	"imgShare.unauthorized": {
+		"message": "Before you can share your Image, you need to authorize at least 1 social media account by clicking an icon above."
+	},
+	"imgShare.shareImageTitle": {
+		"message": "Share Image"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "Looking for suggestions..."
+	},
+	"myScreenshots.title": {
+		"message": "Screenshots"
+	},
+	"myScreenshots.processing": {
+		"message": "Loading Screenshots..."
+	},
+	"myScreenshots.details.takenon": {
+		"message": "Taken on"
+	},
+	"myScreenshots.emptyFileLocation": {
+		"message": "Use your screenshot hotkey (under Tools -> Settings -> Hotkeys) to capture and share images of your scenes instantly!"
+	}
+}

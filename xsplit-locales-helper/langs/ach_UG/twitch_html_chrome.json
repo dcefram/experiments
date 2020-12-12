@@ -1,0 +1,62 @@
+{
+	"twitch.html.tabheader": {
+		"message": "crwdns63070:0crwdne63070:0"
+	},
+	"twitch.html.source": {
+		"message": "crwdns63072:0crwdne63072:0"
+	},
+	"twitch.html.account": {
+		"message": "crwdns63074:0crwdne63074:0"
+	},
+	"twitch.html.preview": {
+		"message": "crwdns63076:0crwdne63076:0"
+	},
+	"twitch.html.not_connected": {
+		"message": "crwdns63078:0crwdne63078:0"
+	},
+	"twitch.html.connected": {
+		"message": "crwdns63080:0crwdne63080:0"
+	},
+	"twitch.html.error_channel_not_found": {
+		"message": "crwdns63082:0crwdne63082:0"
+	},
+	"twitch.html.display": {
+		"message": "crwdns63084:0crwdne63084:0"
+	},
+	"twitch.html.chat_box": {
+		"message": "crwdns63086:0crwdne63086:0"
+	},
+	"twitch.html.opacity": {
+		"message": "crwdns63088:0crwdne63088:0"
+	},
+	"twitch.html.viewers": {
+		"message": "crwdns63090:0crwdne63090:0"
+	},
+	"twitch.html.message": {
+		"message": "crwdns63092:0crwdne63092:0"
+	},
+	"twitch.html.text_size": {
+		"message": "crwdns63094:0crwdne63094:0"
+	},
+	"twitch.html.hide_user_icons": {
+		"message": "crwdns63096:0crwdne63096:0"
+	},
+	"twitch.html.hide_timestamps": {
+		"message": "crwdns63098:0crwdne63098:0"
+	},
+	"twitch.html.hide_on_idle": {
+		"message": "crwdns63100:0crwdne63100:0"
+	},
+	"twitch.html.channel": {
+		"message": "crwdns63102:0crwdne63102:0"
+	},
+	"twitch.html.connect": {
+		"message": "crwdns63104:0crwdne63104:0"
+	},
+	"twitch.html.disconnect": {
+		"message": "crwdns63106:0crwdne63106:0"
+	},
+	"twitch.html.use_twitch_colors": {
+		"message": "crwdns63108:0crwdne63108:0"
+	}
+}

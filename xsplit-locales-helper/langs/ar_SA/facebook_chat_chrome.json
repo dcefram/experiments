@@ -1,0 +1,101 @@
+{
+  "facebook.chat.tabheader": {
+    "message": "Chat"
+  },
+  "facebook.chat.source": {
+    "message": "مصدر"
+  },
+  "facebook.chat.account": {
+    "message": "الحساب"
+  },
+  "facebook.chat.automatic": {
+    "message": "تلقائي"
+  },
+  "facebook.chat.authorize": {
+    "message": "Authorize XSplit to use Facebook Live"
+  },
+  "facebook.chat.remove_authorization": {
+    "message": "**%api%** Remove authorization"
+  },
+  "facebook.chat.switch_account": {
+    "message": "**%api%** Switch account"
+  },
+  "facebook.chat.error_auth": {
+    "message": "Please try authorizing again and grant access to all permission required by XSplit for this functionality"
+  },
+  "facebook.chat.not_connected": {
+    "message": "Comments will automatically load once stream is live"
+  },
+  "facebook.chat.connected": {
+    "message": "متصل"
+  },
+  "facebook.chat.display": {
+    "message": "Display"
+  },
+  "facebook.chat.preview": {
+    "message": "Preview"
+  },
+  "facebook.chat.chatbox": {
+    "message": "صندوق الدردشه"
+  },
+  "facebook.chat.opacity": {
+    "message": "الشفافيه"
+  },
+  "facebook.chat.viewers": {
+    "message": "المشاهدين"
+  },
+  "facebook.chat.message": {
+    "message": "رسالة"
+  },
+  "facebook.chat.text_size": {
+    "message": "حجم الخط"
+  },
+  "facebook.chat.text_direction": {
+    "message": "Text Direction"
+  },
+  "facebook.chat.hide_user_icons": {
+    "message": "Hide user icons"
+  },
+  "facebook.chat.one_line_entries": {
+    "message": "One-line entries"
+  },
+  "facebook.chat.hide_timestamps": {
+    "message": "Hide timestamps"
+  },
+  "facebook.chat.hide_chat_when_idle": {
+    "message": "Hide chat when idle for"
+  },
+  "facebook.chat.blocking": {
+    "message": "حجب"
+  },
+  "facebook.chat.blockedlist": {
+    "message": "القائمة المحظورة"
+  },
+  "facebook.chat.block_help": {
+    "message": "يمكنك حظر المشاهدين عن طريق إضافة اسمهم أو اسم المستخدم (بما في ذلك برامج الروبوت ، إن أمكن) في القائمة المحظورة حتى لا تظهر رسائلهم في عارض الدردشة. [br] [br] هذه القائمة المحظورة غير متصلة بالقائمة المحظورة لقناتك . إنه يعمل فقط لمصدر الدردشة هذا."
+  },
+  "facebook.chat.blocking_name": {
+    "message": "أدخل اسم أو اسم المستخدم للمشاهد الذي ترغب في حظره."
+  },
+  "facebook.chat.block_name": {
+    "message": "Name"
+  },
+  "facebook.chat.block_add": {
+    "message": "إضافة"
+  },
+  "facebook.chat.block_remove": {
+    "message": "إزالة "
+  },
+  "facebook.chat.hide_connection_message": {
+    "message": "Hide connection messages"
+  },
+  "facebook.chat.not_seeing_videos": {
+    "message": "Not seeing your live video?"
+  },
+  "facebook.chat.not_seeing_videos_help": {
+    "message": "We might not have permission to access some of your pages' live videos."
+  },
+  "facebook.chat.not_seeing_videos_link": {
+    "message": "Click here to re-authorize"
+  }
+}

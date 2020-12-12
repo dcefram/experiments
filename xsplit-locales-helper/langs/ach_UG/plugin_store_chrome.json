@@ -1,0 +1,395 @@
+{
+    "home_newToStore": {
+        "message": "crwdns100774:0crwdne100774:0"
+    },
+    "home_search": {
+        "message": "crwdns100776:0crwdne100776:0"
+    },
+    "home_sourceTip": {
+        "message": "crwdns100778:0crwdne100778:0"
+    },
+    "home_extensionTip": {
+        "message": "crwdns100780:0crwdne100780:0"
+    },
+    "home_outputTip": {
+        "message": "crwdns100782:0crwdne100782:0"
+    },
+    "home_libraryTip": {
+        "message": "crwdns100784:0crwdne100784:0"
+    },
+    "home_sourceTipIn": {
+        "message": "crwdns100786:0crwdne100786:0"
+    },
+    "home_outputTipIn": {
+        "message": "crwdns100788:0crwdne100788:0"
+    },
+    "home_extensionTipIn": {
+        "message": "crwdns100790:0crwdne100790:0"
+    },
+    "home_tooltipToggle": {
+        "message": "crwdns100792:0crwdne100792:0"
+    },
+    "plugin_developer": {
+        "message": "crwdns100794:0crwdne100794:0"
+    },
+    "plugin_publicVersion": {
+        "message": "crwdns100796:0crwdne100796:0"
+    },
+    "plugin_updated": {
+        "message": "crwdns100798:0crwdne100798:0"
+    },
+    "plugin_dllDownloadWarning": {
+        "message": "crwdns100800:0crwdne100800:0"
+    },
+    "plugin_install": {
+        "message": "crwdns100802:0crwdne100802:0"
+    },
+    "plugin_uninstall": {
+        "message": "crwdns100804:0crwdne100804:0"
+    },
+    "plugin_update": {
+        "message": "crwdns100806:0crwdne100806:0"
+    },
+    "plugin_published": {
+        "message": "crwdns100808:0crwdne100808:0"
+    },
+    "plugin_size": {
+        "message": "crwdns100810:0crwdne100810:0"
+    },
+    "plugin_currentVersion": {
+        "message": "crwdns100812:0crwdne100812:0"
+    },
+    "plugin_installs": {
+        "message": "crwdns100814:0crwdne100814:0"
+    },
+    "plugin_minimumXBCLabel": {
+        "message": "crwdns100816:0crwdne100816:0"
+    },
+    "plugin_minimumXBC": {
+        "message": "crwdns100818:0%version%crwdne100818:0"
+    },
+    "plugin_report": {
+        "message": "crwdns100820:0crwdne100820:0"
+    },
+    "plugin_developerLabel": {
+        "message": "crwdns100822:0crwdne100822:0"
+    },
+    "plugin_developerVisit": {
+        "message": "crwdns100824:0crwdne100824:0"
+    },
+    "plugin_developerMail": {
+        "message": "crwdns100826:0crwdne100826:0"
+    },
+    "plugin_readMore": {
+        "message": "crwdns100828:0crwdne100828:0"
+    },
+    "plugin_rateThisplugin": {
+        "message": "crwdns100830:0crwdne100830:0"
+    },
+    "plugin_rating": {
+        "message": "crwdns100832:0crwdne100832:0"
+    },
+    "plugin_reviews": {
+        "message": "crwdns100834:0crwdne100834:0"
+    },
+    "plugin_votes": {
+        "message": "crwdns100836:0crwdne100836:0"
+    },
+    "plugin_filter-recent": {
+        "message": "crwdns100838:0crwdne100838:0"
+    },
+    "plugin_filter-rating": {
+        "message": "crwdns100840:0crwdne100840:0"
+    },
+    "plugin_viewAllReviews": {
+        "message": "crwdns100842:0crwdne100842:0"
+    },
+    "plugin_warning": {
+        "message": "crwdns100844:0crwdne100844:0"
+    },
+    "plugin_myReview": {
+        "message": "crwdns100846:0crwdne100846:0"
+    },
+    "plugin_empty-search": {
+        "message": "crwdns100848:0crwdne100848:0"
+    },
+    "plugin_back": {
+        "message": "crwdns100850:0crwdne100850:0"
+    },
+    "plugin_tag": {
+        "message": "crwdns100852:0crwdne100852:0"
+    },
+    "plugin_minimum": {
+        "message": "crwdns100854:0crwdne100854:0"
+    },
+    "plugin_windows": {
+        "message": "crwdns100856:0crwdne100856:0"
+    },
+    "plugin_windows-warning": {
+        "message": "crwdns100858:0crwdne100858:0"
+    },
+    "plugin_local-recording": {
+        "message": "crwdns100860:0crwdne100860:0"
+    },
+    "myPlugins_myPlugins": {
+        "message": "crwdns100862:0crwdne100862:0"
+    },
+    "myPlugins_updateAll": {
+        "message": "crwdns100864:0crwdne100864:0"
+    },
+    "myPlugins_cancelAll": {
+        "message": "crwdns100866:0crwdne100866:0"
+    },
+    "myPlugins_update": {
+        "message": "crwdns100868:0crwdne100868:0"
+    },
+    "myPlugins_uninstall": {
+        "message": "crwdns100870:0crwdne100870:0"
+    },
+    "myPlugins_size": {
+        "message": "crwdns100872:0crwdne100872:0"
+    },
+    "search_results": {
+        "message": "crwdns100874:0crwdne100874:0"
+    },
+    "search_searching": {
+        "message": "crwdns100876:0crwdne100876:0"
+    },
+    "search_zero-search1": {
+        "message": "crwdns100878:0crwdne100878:0"
+    },
+    "search_zero-search2": {
+        "message": "crwdns100880:0crwdne100880:0"
+    },
+    "search_zero-search3": {
+        "message": "crwdns100882:0crwdne100882:0"
+    },
+    "search_zero-search4": {
+        "message": "crwdns100884:0crwdne100884:0"
+    },
+    "search_zero-search5": {
+        "message": "crwdns100886:0crwdne100886:0"
+    },
+    "search_name": {
+        "message": "crwdns100888:0crwdne100888:0"
+    },
+    "search_downloads": {
+        "message": "crwdns100890:0crwdne100890:0"
+    },
+    "search_rating": {
+        "message": "crwdns100892:0crwdne100892:0"
+    },
+    "search_updated": {
+        "message": "crwdns100894:0crwdne100894:0"
+    },
+    "search_installed": {
+        "message": "crwdns100896:0crwdne100896:0"
+    },
+    "search_clear-search": {
+        "message": "crwdns100898:0crwdne100898:0"
+    },
+    "search_download-all": {
+        "message": "crwdns100900:0crwdne100900:0"
+    },
+    "search_download": {
+        "message": "crwdns100902:0%count%crwdne100902:0"
+    },
+    "help_what": {
+        "message": "crwdns100904:0crwdne100904:0"
+    },
+    "help_source": {
+        "message": "crwdns100906:0crwdne100906:0"
+    },
+    "help_extension": {
+        "message": "crwdns100908:0crwdne100908:0"
+    },
+    "help_output": {
+        "message": "crwdns100910:0crwdne100910:0"
+    },
+    "help_installed": {
+        "message": "crwdns100912:0crwdne100912:0"
+    },
+    "help_developer": {
+        "message": "crwdns100914:0crwdne100914:0"
+    },
+    "help_buildYourOwn": {
+        "message": "crwdns100916:0[here.]crwdne100916:0"
+    },
+    "overlay_uninstall": {
+        "message": "crwdns100918:0crwdne100918:0"
+    },
+    "overlay_uninstallMessage": {
+        "message": "crwdns100920:0%name%crwdne100920:0"
+    },
+    "overlay_rateThisPlugin": {
+        "message": "crwdns100922:0crwdne100922:0"
+    },
+    "overlay_yourRating": {
+        "message": "crwdns100924:0crwdne100924:0"
+    },
+    "overlay_rating-0": {
+        "message": "crwdns100926:0crwdne100926:0"
+    },
+    "overlay_rating-1": {
+        "message": "crwdns100928:0crwdne100928:0"
+    },
+    "overlay_rating-2": {
+        "message": "crwdns100930:0crwdne100930:0"
+    },
+    "overlay_rating-3": {
+        "message": "crwdns100932:0crwdne100932:0"
+    },
+    "overlay_rating-4": {
+        "message": "crwdns100934:0crwdne100934:0"
+    },
+    "overlay_rating-5": {
+        "message": "crwdns100936:0crwdne100936:0"
+    },
+    "overlay_placeholder": {
+        "message": "crwdns100938:0crwdne100938:0"
+    },
+    "overlay_charlimit": {
+        "message": "crwdns100940:0%action%crwdne100940:0"
+    },
+    "overlay_submit": {
+        "message": "crwdns100942:0crwdne100942:0"
+    },
+    "overlay_cancel": {
+        "message": "crwdns100944:0crwdne100944:0"
+    },
+    "overlay_skip": {
+        "message": "crwdns100946:0crwdne100946:0"
+    },
+    "overlay_ratingError": {
+        "message": "crwdns100948:0crwdne100948:0"
+    },
+    "overlay_action-error": {
+        "message": "crwdns100950:0%action%crwdne100950:0"
+    },
+    "overlay_action-error-download": {
+        "message": "crwdns100952:0crwdne100952:0"
+    },
+    "overlay_action-error-multiple": {
+        "message": "crwdns100954:0%count%crwdne100954:0"
+    },
+    "overlay_action-rating": {
+        "message": "crwdns100956:0crwdne100956:0"
+    },
+    "overlay_action-searching": {
+        "message": "crwdns100958:0crwdne100958:0"
+    },
+    "overlay_action-loading": {
+        "message": "crwdns100960:0crwdne100960:0"
+    },
+    "overlay_action-downloading": {
+        "message": "crwdns100962:0crwdne100962:0"
+    },
+    "overlay_action-installing": {
+        "message": "crwdns100964:0crwdne100964:0"
+    },
+    "overlay_action-updating": {
+        "message": "crwdns100966:0crwdne100966:0"
+    },
+    "overlay_action-uninstalling": {
+        "message": "crwdns100968:0crwdne100968:0"
+    },
+    "overlay_action-updating-multiple": {
+        "message": "crwdns100970:0%count%crwdnd100970:0%total%crwdne100970:0"
+    },
+    "overlay_complete-installing": {
+        "message": "crwdns100972:0%name%crwdnd100972:0%type%crwdne100972:0"
+    },
+    "overlay_complete-updating": {
+        "message": "crwdns100974:0%name%crwdne100974:0"
+    },
+    "overlay_complete-updating-multiple": {
+        "message": "crwdns100976:0crwdne100976:0"
+    },
+    "overlay_complete-uninstalling": {
+        "message": "crwdns100978:0%name%crwdne100978:0"
+    },
+    "overlay_title-complete-installing": {
+        "message": "crwdns100980:0crwdne100980:0"
+    },
+    "overlay_title-complete-uninstalling": {
+        "message": "crwdns100982:0crwdne100982:0"
+    },
+    "overlay_title-complete-updating": {
+        "message": "crwdns100984:0crwdne100984:0"
+    },
+    "overlay_title-complete-updating-multiple": {
+        "message": "crwdns100986:0crwdne100986:0"
+    },
+    "overlay_button-downloading": {
+        "message": "crwdns100988:0crwdne100988:0"
+    },
+    "overlay_button-installing": {
+        "message": "crwdns100990:0crwdne100990:0"
+    },
+    "overlay_button-updating": {
+        "message": "crwdns100992:0crwdne100992:0"
+    },
+    "overlay_button-updating-multiple": {
+        "message": "crwdns100994:0crwdne100994:0"
+    },
+    "overlay_button-uninstalling": {
+        "message": "crwdns100996:0crwdne100996:0"
+    },
+    "overlay_button-ok": {
+        "message": "crwdns100998:0crwdne100998:0"
+    },
+    "overlay_button-loading": {
+        "message": "crwdns101000:0crwdne101000:0"
+    },
+    "overlay_toClose": {
+        "message": "crwdns101002:0crwdne101002:0"
+    },
+    "overlay_cancel-action": {
+        "message": "crwdns101004:0%action%crwdne101004:0"
+    },
+    "overlay_generic-error-header": {
+        "message": "crwdns101006:0crwdne101006:0"
+    },
+    "overlay_generic-internet-fail": {
+        "message": "crwdns101008:0crwdne101008:0"
+    },
+    "overlay_generic-error-text": {
+        "message": "crwdns101010:0crwdne101010:0"
+    },
+    "overlay_install-restart-now": {
+        "message": "crwdns101012:0crwdne101012:0"
+    },
+    "overlay_install-restart-later": {
+        "message": "crwdns101014:0crwdne101014:0"
+    },
+    "overlay_needs-restart-info": {
+        "message": "crwdns101016:0crwdne101016:0"
+    },
+    "extension_label": {
+        "message": "crwdns101632:0crwdne101632:0"
+    },
+    "source_label": {
+        "message": "crwdns101634:0crwdne101634:0"
+    },
+    "output_label": {
+        "message": "crwdns101636:0crwdne101636:0"
+    },
+    "myPlugins_plugin_types": {
+        "message": "crwdns101638:0crwdne101638:0"
+    },
+    "myPlugins_show_plugins_with_update": {
+        "message": "crwdns101640:0crwdne101640:0"
+    },
+    "search_ascending": {
+        "message": "crwdns101642:0crwdne101642:0"
+    },
+    "search_descending": {
+        "message": "crwdns101644:0crwdne101644:0"
+    },
+    "search_and_separator": {
+        "message": "crwdns101646:0crwdne101646:0"
+    },
+    "home_search_placeholder": {
+        "message": "crwdns101648:0crwdne101648:0"
+    }
+}

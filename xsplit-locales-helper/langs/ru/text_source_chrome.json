@@ -1,0 +1,122 @@
+{
+  "textSource.tabheader_content": {
+    "message": "Контент"
+  },
+  "textSource.tabheader_style": {
+    "message": "Styles"
+  },
+  "textSource.style_dropshadow": {
+    "message": "Drop shadow"
+  },
+  "textSource.style_dropshadow_color": {
+    "message": "Цвет"
+  },
+  "textSource.style_dropshadow_distance": {
+    "message": "Расстояние"
+  },
+  "textSource.style_dropshadow_angle": {
+    "message": "Угол"
+  },
+  "textSource.style_dropshadow_blur": {
+    "message": "Размытие"
+  },
+  "textSource.style_dropshadow_opacity": {
+    "message": "Прозрачность"
+  },
+  "textSource.style_animation": {
+    "message": "Анимация"
+  },
+  "textSource.style_animation_scroll": {
+    "message": "Прокрутить"
+  },
+  "textSource.style_animation_fade": {
+    "message": "Затемнить"
+  },
+  "textSource.style_animation_enable_60fps": {
+    "message": "Показывать при частоте до 60 FPS"
+  },
+  "textSource.style_animation_fade_delimeter": {
+    "message": "Разделитель"
+  },
+  "textSource.style_animation_fade_interval": {
+    "message": "Интервал"
+  },
+  "textSource.style_animation_scroll_direction": {
+    "message": "Направление"
+  },
+  "textSource.style_animation_scroll_direction_rightToLeft": {
+    "message": "Справа налево"
+  },
+  "textSource.style_animation_scroll_direction_leftToRight": {
+    "message": "Слева направо"
+  },
+  "textSource.style_animation_scroll_direction_bottomToTop": {
+    "message": "Снизу вверх"
+  },
+  "textSource.style_animation_scroll_direction_topToBottom": {
+    "message": "Сверху вниз"
+  },
+  "textSource.style_animation_scroll_speed": {
+    "message": "Скорость"
+  },
+  "textSource.style_animation_scroll_lineLimit": {
+    "message": "Линия предела"
+  },
+  "textSource.content_text": {
+    "message": "Text/BBCode"
+  },
+  "textSource.content_textFile": {
+    "message": "Text file"
+  },
+  "textSource.content_script": {
+    "message": "Скрипт"
+  },
+  "textSource.content_script_clock": {
+    "message": "Будильник"
+  },
+  "textSource.content_script_stopwatch": {
+    "message": "Stopwatch"
+  },
+  "textSource.content_script_timer": {
+    "message": "Timer"
+  },
+  "textSource.content_script_load_url": {
+    "message": "Load text from Remote URL"
+  },
+  "textSource.content_script_rss": {
+    "message": "RSS Feed Reader"
+  },
+  "textSource.content_script_videoList": {
+    "message": "Video List"
+  },
+  "textSource.content_script_custom": {
+    "message": "Пользовательский скрипт"
+  },
+  "textSource.content_header_formatting": {
+    "message": "Formatting"
+  },
+  "textSource.formatting_font": {
+    "message": "Шрифт"
+  },
+  "textSource.formatting_outline": {
+    "message": "Контур"
+  },
+  "textSource.formatting_style": {
+    "message": "Стиль"
+  },
+  "textSource.formatting_align": {
+    "message": "Выравнивание"
+  },
+  "textSource.formatting_sizing": {
+    "message": "Sizing"
+  },
+  "textSource.formatting_sizing_automatic": {
+    "message": "Автоматически"
+  },
+  "textSource.formatting_sizing_fixed": {
+    "message": "Fixed"
+  },
+  "textSource.formatting_sizing_wordWrap": {
+    "message": "Word wrap"
+  }
+}

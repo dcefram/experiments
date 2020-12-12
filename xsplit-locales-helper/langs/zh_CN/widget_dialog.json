@@ -1,0 +1,23 @@
+{
+  "dontShowAgain": {
+    "message": "不再提醒"
+  },
+  "button.goToPluginStore": {
+    "message": "转到插件存储区"
+  },
+  "button.maybeLater": {
+    "message": "也许以后"
+  },
+  "title": {
+    "message": "用部件对您的直播进行升级!"
+  },
+  "facebook.description": {
+    "message": "我们有一些超酷的部件配合您的广播输出, 这保证提升你的直播。显示您的所有直播的评论, 甚至有表情飞过弹幕![br][br]从插件存储区免费下载它们!"
+  },
+  "twitch.description": {
+    "message": "我们有一些超酷的部件配合您的广播输出, 这保证提升你的直播。显示Twitch 聊天直播的评论, 或每当观众欢呼时从屏幕弹出提示![br][br]从插件存储区免费下载它们!"
+  },
+  "youtube.description": {
+    "message": "我们有一些超酷的部件配合您的广播输出, 这保证提升你的直播。显示聊天直播的评论, 或每次超级聊天从屏幕弹出提示![br][br]从插件存储区免费下载它们!"
+  }
+}

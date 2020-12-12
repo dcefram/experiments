@@ -1,0 +1,110 @@
+{
+  "title.source": {
+    "message": "Fuente"
+  },
+  "subtitle.account": {
+    "message": "Cuenta"
+  },
+  "link.authorize": {
+    "message": "Autorizar a XSplit para utilizar Facebook Live"
+  },
+  "authenticate.switch": {
+    "message": "%user%** Cambiar de cuenta"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** Eliminar autorización"
+  },
+  "subtitle2.authorize.error": {
+    "message": "Trata de dar autorización de nuevo y concede el acceso a todos los permisos requeridos por XSplit para utilizar esta función"
+  },
+  "subtitle.source": {
+    "message": "Fuente"
+  },
+  "source.values.automatic": {
+    "message": "Automático"
+  },
+  "chat.reaction.not_connected": {
+    "message": "Las reacciones se cargarán automáticamente una vez que el stream se transmita en vivo"
+  },
+  "chat.comment.not_connected": {
+    "message": "Los comentarios se cargarán automáticamente una vez que la transmisión se haga en vivo"
+  },
+  "chat.connected": {
+    "message": "Conectado"
+  },
+  "title.display": {
+    "message": "Pantalla"
+  },
+  "help.display.title": {
+    "message": "Animación de reacciones"
+  },
+  "help.display.text": {
+    "message": "¡Personaliza la forma en que las reacciones en vivo aparecerán en tu transmisión en vivo![br]Elige un tipo de animación y varias configuraciones de control.[br][br]Utiliza el botón de vista previa para revisar tus animaciones antes de transmitir en vivo."
+  },
+  "animation.text": {
+    "message": "Animación"
+  },
+  "label.streamprops": {
+    "message": "Propiedades de Stream"
+  },
+  "button.reset": {
+    "message": "Reiniciar"
+  },
+  "label.direction": {
+    "message": "Dirección"
+  },
+  "label.time": {
+    "message": "Tiempo"
+  },
+  "label.seconds": {
+    "message": "segundos"
+  },
+  "label.timevariation": {
+    "message": "Variación de tiempo"
+  },
+  "label.emoji.size": {
+    "message": "Tamaño del emoji"
+  },
+  "label.pixels": {
+    "message": "píxeles"
+  },
+  "label.sizevariation": {
+    "message": "Variación de tamaño"
+  },
+  "label.hide_connection_message": {
+    "message": "Ocultar los mensajes de conexión"
+  },
+  "button.preview": {
+    "message": "Previsualización"
+  },
+  "animation.types.stream": {
+    "message": "Reacción al Stream"
+  },
+  "animation.types.pop": {
+    "message": "Entrar/Salir"
+  },
+  "stream.directions.leftToRight": {
+    "message": "De izquierda a derecha"
+  },
+  "stream.directions.topToBottom": {
+    "message": "De arriba a abajo"
+  },
+  "stream.directions.rightToLeft": {
+    "message": "De derecha a izquierda"
+  },
+  "stream.directions.bottomToTop": {
+    "message": "De abajo hacia arriba"
+  },
+  "tabheader.title": {
+    "message": "Reacciones"
+  },
+  "label.not_seeing_videos": {
+    "message": "¿No ves tu vídeo en vivo?"
+  },
+  "label.not_seeing_videos_help": {
+    "message": "Es posible que no tengamos permiso para acceder a algunos de los vídeos en vivo de tus páginas."
+  },
+  "label.not_seeing_videos_link": {
+    "message": "Haz clic aquí para re-autorizar"
+  }
+}

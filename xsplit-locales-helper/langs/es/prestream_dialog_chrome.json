@@ -1,0 +1,314 @@
+{
+	"toptitle": {
+		"message": "Gestionar vídeos en directo programadas"
+	},
+	"details": {
+		"message": "Información de transmisión"
+	},
+	"livevideo.label": {
+		"message": "Video en vivo"
+	},
+	"livevideo.tooltip": {
+		"message": "Select how you want to go live.[br][br]**New Live** - Go live now with a new live video[br]**Scheduled** - Broadcast to an existing scheduled live video"
+	},
+	"livevideovalues.0": {
+		"message": "Nuevo en vivo"
+	},
+	"scheduledvideovalues.new": {
+		"message": "Nuevo programa vivo"
+	},
+	"delete": {
+		"message": "Eliminar"
+	},
+	"stop": {
+		"message": "Stop"
+	},
+	"status.label": {
+		"message": "Estado"
+	},
+	"status.tooltip": {
+		"message": "Establece el estado de tu video en vivo programado[br][br]**Programado** - Se activa automáticamente cuando los datos se transmiten a la misma a la hora de inicio programada. Puedes transmitir antes de la hora de inicio con el fin de obtener una vista previa de la transmisión.[br]**En vivo** - Inicia la transmisión y la establece en vivo.[br]**Manual** - Previsualiza la transmisión y cambia el video en vivo de Programado a Manual. Se utiliza principalmente cuando se te está haciendo tarde y necesitas previsualizar la emisión antes de establecerla en vivo manualmente. Ten en cuenta que los elementos establecidos como Manual nunca podrán volver a Programado y deben configurarse manualmente para establecer la opción en vivo en Facebook."
+	},
+	"statusvalues.scheduled": {
+		"message": "Programado"
+	},
+	"statusvalues.live": {
+		"message": "En vivo"
+	},
+	"statusvalues.manual": {
+		"message": "Manual"
+	},
+	"title": {
+		"message": "Título"
+	},
+	"description": {
+		"message": "Descripción"
+	},
+	"tags.label": {
+		"message": "Tags contenidos"
+	},
+	"tags.tooltip": {
+		"message": "Etiquetas ayudan a hacer más visible el vídeo. No son accesibles al público."
+	},
+	"videogame.label": {
+		"message": "Videojuego"
+	},
+	"videogame.tooltip": {
+		"message": "Etiqueta el videojuego que vas a jugar en streaming para los juegos de Facebook."
+	},
+	"checkin.label": {
+		"message": "Ubicación de entrada"
+	},
+	"checkin.tooltip": {
+		"message": "La ubicación que está transmitiendo desde."
+	},
+	"privacy.label": {
+		"message": "Privacidad"
+	},
+	"privacy.tooltip": {
+		"message": "El ámbito de la privacidad puede verse limitado por el techo de la privacidad para XSplit en tus aplicaciones de Facebook. Para asegurarse que usted puede controlar el alcance de privacidad aquí, por favor, asegúrese de que su configuración de privacidad XSplit en tus aplicaciones de Facebook se establece en ** público **. [Leer más](https://xspl.it/fbxspriv)"
+	},
+	"privacyvalues.EVERYONE": {
+		"message": "Público"
+	},
+	"privacyvalues.ALL_FRIENDS": {
+		"message": "Amigos"
+	},
+	"privacyvalues.SELF": {
+		"message": "Sólo yo"
+	},
+	"pageaudience.label": {
+		"message": "Audiencia de la página"
+	},
+	"pageaudience.tooltip": {
+		"message": "Selecciona las ubicaciones de las personas con las que deseas conectarte."
+	},
+	"locations.label": {
+		"message": "Lugares"
+	},
+	"locations.tooltip": {
+		"message": "Establecido en todas las ubicaciones por defecto, o puede introducir países específicos donde se encuentran las personas que más quiere conectarse."
+	},
+	"support.label": {
+		"message": "Continua vivo"
+	},
+	"support.tooltip": {
+		"message": "Esta opción le permite transmitir por más de 4 horas pero no generará un registro de su transmisión en vivo en su Facebook."
+	},
+	"manageschedule": {
+		"message": "Gestionar vídeos en directo programadas"
+	},
+	"createschedule": {
+		"message": "Crear horario vivo"
+	},
+	"scheduledstart.label": {
+		"message": "Inicio programada"
+	},
+	"scheduledstart.tooltip": {
+		"message": "Los videos en vivo programados deben programarse entre 11 minutos y 7 días (168 horas) desde el momento en que los creaste."
+	},
+	"customimage.label": {
+		"message": "Imagen personalizada"
+	},
+	"customimage.tooltip": {
+		"message": "Puedes agregar una imagen personalizada para tu anuncio en vivo programado."
+	},
+	"scheduleerror": {
+		"message": "Programa no válido"
+	},
+	"uploadimage": {
+		"message": "Subir imagen..."
+	},
+	"deleteimage": {
+		"message": "Eliminar imagen"
+	},
+	"errormessage": {
+		"message": "Los videos en vivo programados deben programarse entre 11 minutos y 7 días (168 horas) desde el momento en que los creaste."
+	},
+	"addScheduleHeader": {
+		"message": "Añadir programa"
+	},
+	"addSchedule": {
+		"message": "Añadir programa"
+	},
+	"editSchedule": {
+		"message": "Editar calendario"
+	},
+	"updateSchedule": {
+		"message": "Editar calendario"
+	},
+	"start": {
+		"message": "Inicio difusión"
+	},
+	"resume": {
+		"message": "Continuar Difusión"
+	},
+	"ok": {
+		"message": "OK"
+	},
+	"cancel": {
+		"message": "Cancelar"
+	},
+	"close": {
+		"message": "Cerrar"
+	},
+	"loading.create": {
+		"message": "Creación prevista de Video en vivo..."
+	},
+	"loading.update": {
+		"message": "Actualización programada de Video en vivo..."
+	},
+	"youtube.liveEvent.label": {
+		"message": "Evento en vivo"
+	},
+	"youtube.liveEvent.tooltip": {
+		"message": "Select how you want to go live.[br][br]**New Live Event -** Create a new live event and go live[br]**Scheduled -** Select an existing live event.[br]**Live Now -** Resume an existing live now event"
+	},
+	"youtube.tags.label": {
+		"message": "Etiquetas"
+	},
+	"youtube.tags.tooltip": {
+		"message": "Las etiquetas son palabras descriptivas que puedes agregar a tu video para que las personas puedan encontrar tu contenido.[br][br]Utiliza comas para separar las etiquetas."
+	},
+	"youtube.category.label": {
+		"message": "Categoría"
+	},
+	"youtube.schedule": {
+		"message": "Programado"
+	},
+	"youtube.noSchedule": {
+		"message": "La transmisión no está programada"
+	},
+	"youtube.duration": {
+		"message": "Duración"
+	},
+	"youtube.endSchedule": {
+		"message": "Finalizar la programación (opcional)"
+	},
+	"youtube.hours": {
+		"message": "Horas"
+	},
+	"youtube.minutes": {
+		"message": "Minutos"
+	},
+	"youtube.enable360.label": {
+		"message": "Habilitar videos de 360°"
+	},
+	"youtube.enable360.title": {
+		"message": "Habilitar videos de 360°"
+	},
+	"youtube.enable360.tooltip": {
+		"message": "Establece tu transmisión como un video de 360°. Al activar esta opción permitirás que tus espectadores exploren el video en 360°, en todas direcciones.[br][br]Las transmisiones en vivo con baja latencia no son compatibles con los videos en 360°."
+	},
+	"youtube.enableLowLatency": {
+		"message": "Activar baja latencia"
+	},
+	"youtube.enableDvr": {
+		"message": "Activar DVR"
+	},
+	"youtube.allowEmbed": {
+		"message": "Permitir integración"
+	},
+	"youtube.useBackupServer": {
+		"message": "Servidor de copia de seguridad de uso"
+	},
+	"youtube.manualTransition.label": {
+		"message": "Transición manual"
+	},
+	"youtube.manualTransition.tooltip": {
+		"message": "Selecciona esta opción para controlar el estado de tu transmisión desde el Panel de control en vivo de YouTube. Si no está marcada esta opción, XSplit cambiará automáticamente al estado \"en vivo\" después de comenzar la transmisión y dará la opción de \"completada\" después de suspender la transmisión."
+	},
+	"youtube.liveEvent.values.scheduled": {
+		"message": "Programado: Inicio %date% - %title%"
+	},
+	"youtube.liveEvent.values.liveNow": {
+		"message": "Ahora en vivo: Inicio %date% - %title%"
+	},
+	"youtube.liveEvent.defaults.new": {
+		"message": "Nuevo Evento en vivo"
+	},
+	"youtube.category.values.1": {
+		"message": "Películas y Animación"
+	},
+	"youtube.category.values.2": {
+		"message": "Autos y Vehículos"
+	},
+	"youtube.category.values.10": {
+		"message": "Música"
+	},
+	"youtube.category.values.15": {
+		"message": "Mascotas y animales"
+	},
+	"youtube.category.values.17": {
+		"message": "Deportes"
+	},
+	"youtube.category.values.19": {
+		"message": "Viajes y eventos"
+	},
+	"youtube.category.values.20": {
+		"message": "Juegos"
+	},
+	"youtube.category.values.22": {
+		"message": "Gente y blogs"
+	},
+	"youtube.category.values.23": {
+		"message": "Comedia"
+	},
+	"youtube.category.values.24": {
+		"message": "Entretenimiento"
+	},
+	"youtube.category.values.25": {
+		"message": "Noticias y política"
+	},
+	"youtube.category.values.26": {
+		"message": "Consejos y estilo"
+	},
+	"youtube.category.values.27": {
+		"message": "Formación"
+	},
+	"youtube.category.values.28": {
+		"message": "Ciencia y tecnología"
+	},
+	"youtube.category.values.29": {
+		"message": "ONG y activismo"
+	},
+	"youtube.privacy.public": {
+		"message": "Público"
+	},
+	"youtube.privacy.unlisted": {
+		"message": "Sin clasificar"
+	},
+	"youtube.privacy.private": {
+		"message": "Privado"
+	},
+	"youtube.latency.label": {
+		"message": "Latencia"
+	},
+	"youtube.latency.tooltip": {
+		"message": "**Latencia normal** - MEJOR PARA: calidad más alta durante la reproducción del espectador y resoluciones más altas.[br]**Latencia baja** - MEJOR PARA: las interacciones en tiempo real con búferes de reproducción mínimos.[br]** Latencia ultra baja** - MEJOR PARA: interacciones en tiempo real.[br]** NO ES COMPATIBLE CON**: DVR, subtítulos especiales, 1440p y resoluciones 4k"
+	},
+	"youtube.latency.values.normal": {
+		"message": "Latencia normal"
+	},
+	"youtube.latency.values.low": {
+		"message": "Latencia baja"
+	},
+	"youtube.latency.values.ultraLow": {
+		"message": "Latencia ultra baja"
+	},
+	"youtube.emptyTitle": {
+		"message": "El título no puede estar vacío."
+	},
+	"youtube.noEndSchedule": {
+		"message": "no hay final en la programación"
+	},
+	"youtube.endScheduleInvalid": {
+		"message": "El final de la programación no es válido. Establece una fecha válida y la hora si deseas agregar una programación final."
+	},
+	"youtube.endScheduleFuture": {
+		"message": "Selecciona una programación final en el futuro."
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "Buscando sugerencias..."
+	}
+}

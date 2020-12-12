@@ -1,0 +1,77 @@
+{
+	"youtube.superchat.tabheader": {
+		"message": "เตือน"
+	},
+	"youtube.superchat.source": {
+		"message": "ซอส"
+	},
+	"youtube.superchat.account": {
+		"message": "บัญชี"
+	},
+	"youtube.superchat.preview": {
+		"message": "ตัวอย่าง"
+	},
+	"youtube.superchat.account_automatic": {
+		"message": "อัตโนมัติ"
+	},
+	"youtube.superchat.authorize": {
+		"message": "อนุญาตให้ XSplit ใช้งาน Youtube Live"
+	},
+	"youtube.superchat.remove_authorization": {
+		"message": "**%api%** ถอนการอนุญาต"
+	},
+	"youtube.superchat.switch_account": {
+		"message": "**%api%** สลับบัญชี"
+	},
+	"youtube.superchat.not_connected": {
+		"message": "วิดเจ็ตวจะถูกเชื่อมต่อโดยอัตโนมัติเมือสตรีมไลฟ์แล้ว"
+	},
+	"youtube.superchat.connected": {
+		"message": "เชื่อมต่อแล้ว"
+	},
+	"youtube.superchat.error_channel_not_found": {
+		"message": "โปรดระบุแชนแนลที่ถูกต้อง"
+	},
+	"youtube.superchat.notification": {
+		"message": "การแจ้งเตือน"
+	},
+	"youtube.superchat.lock_components": {
+		"message": "ล็อคส่วนประกอบ"
+	},
+	"youtube.superchat.lock_components_help": {
+		"message": "เลือกตัวนี้จะปิดการใช้งานโฮเวอร์เมาส์, การปรับตำแหน่งและปรับขนาดของส่วนประกอบ [br]เลือกตัวเลือกนี้ถ้าคุณไม่ต้องการให้การโฮเวอร์เมาส์แสดงผลบนส่วนประกอบต่างๆ โดยเฉพาะเวลาที่คุณกำลังสตรีมหรือกำลังบันทึก"
+	},
+	"youtube.superchat.show_ticker": {
+		"message": "แสดง Ticker"
+	},
+	"youtube.superchat.show_alert": {
+		"message": "แสดงการเตือน"
+	},
+	"youtube.superchat.opacity": {
+		"message": "ความทึบแสง"
+	},
+	"youtube.superchat.font": {
+		"message": "ฟ้อนต์"
+	},
+	"youtube.superchat.text_size": {
+		"message": "ขนาดข้อความ"
+	},
+	"youtube.superchat.hide_message": {
+		"message": "ซ่อนข้อความซุปเปอร์แชต"
+	},
+	"youtube.superchat.duration": {
+		"message": "ระยะเวลา"
+	},
+	"youtube.superchat.sound": {
+		"message": "เสียง"
+	},
+	"youtube.superchat.test_alert": {
+		"message": "ทดสอบการเตือน"
+	},
+	"youtube.superchat.loggingInTo": {
+		"message": "ลงชื่อเข้าใช้ใน YouTube..."
+	},
+	"youtube.superchat.pleaseComplete": {
+		"message": "โปรดเสร็จสิ้นกระบวนการลงชื่อเข้าใช้งานในเบราว์เซอร์คุณ"
+	}
+}

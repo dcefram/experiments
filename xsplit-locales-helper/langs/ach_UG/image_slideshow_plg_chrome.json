@@ -1,0 +1,104 @@
+{
+  "image_slideshow.images": {
+    "message": "crwdns6924:0crwdne6924:0"
+  },
+  "image_slideshow.add": {
+    "message": "crwdns6925:0crwdne6925:0"
+  },
+  "image_slideshow.remove": {
+    "message": "crwdns6926:0crwdne6926:0"
+  },
+  "image_slideshow.preview": {
+    "message": "crwdns13991:0crwdne13991:0"
+  },
+  "image_slideshow.transition_preview": {
+    "message": "crwdns13992:0crwdne13992:0"
+  },
+  "image_slideshow.browser_60_fps": {
+    "message": "crwdns14182:0crwdne14182:0"
+  },
+  "image_slideshow.effects": {
+    "message": "crwdns13897:0crwdne13897:0"
+  },
+  "image_slideshow.transition": {
+    "message": "crwdns6929:0crwdne6929:0"
+  },
+  "image_slideshow.loop": {
+    "message": "crwdns6930:0crwdne6930:0"
+  },
+  "image_slideshow.interval": {
+    "message": "crwdns6931:0crwdne6931:0"
+  },
+  "image_slideshow.seconds": {
+    "message": "crwdns7017:0crwdne7017:0"
+  },
+  "image_slideshow.shuffle_images": {
+    "message": "crwdns6932:0crwdne6932:0"
+  },
+  "image_slideshow.auto_refresh_images": {
+    "message": "crwdns11979:0crwdne11979:0"
+  },
+  "image_slideshow.remember_playback_position": {
+    "message": "crwdns6933:0crwdne6933:0"
+  },
+  "image_slideshow.ok": {
+    "message": "crwdns6934:0crwdne6934:0"
+  },
+  "image_slideshow.cancel": {
+    "message": "crwdns6935:0crwdne6935:0"
+  },
+  "image_slideshow.hint.images_section": {
+    "message": "crwdns9705:0crwdne9705:0"
+  },
+  "image_slideshow.hint.effects_section": {
+    "message": "crwdns13898:0crwdne13898:0"
+  },
+  "image_slideshow.hint.browser_60_fps_title": {
+    "message": "crwdns14183:0crwdne14183:0"
+  },
+  "image_slideshow.hint.browser_60_fps_message": {
+    "message": "crwdns54286:0crwdne54286:0"
+  },
+  "image_slideshow.hint.auto_refresh_images_message": {
+    "message": "crwdns11982:0crwdne11982:0"
+  },
+  "image_slideshow.hotkeys": {
+    "message": "crwdns6936:0crwdne6936:0"
+  },
+  "image_slideshow.hotkey_header": {
+    "message": "crwdns6937:0crwdne6937:0"
+  },
+  "image_slideshow.hotkey_p": {
+    "message": "crwdns6938:0crwdne6938:0"
+  },
+  "image_slideshow.hotkey_s": {
+    "message": "crwdns6939:0crwdne6939:0"
+  },
+  "image_slideshow.hotkey_r": {
+    "message": "crwdns6940:0crwdne6940:0"
+  },
+  "image_slideshow.hotkey_n": {
+    "message": "crwdns6941:0crwdne6941:0"
+  },
+  "image_slideshow.hotkey_b": {
+    "message": "crwdns6942:0crwdne6942:0"
+  },
+  "image_slideshow.double_click_main": {
+    "message": "crwdns6943:0crwdne6943:0"
+  },
+  "image_slideshow.double_click_thumbnail": {
+    "message": "crwdns6944:0crwdne6944:0"
+  },
+  "image_slideshow.browse": {
+    "message": "crwdns7018:0crwdne7018:0"
+  },
+  "image_slideshow.loop_select_options_hide": {
+    "message": "crwdns13034:0crwdne13034:0"
+  },
+  "image_slideshow.loop_select_options_nothing": {
+    "message": "crwdns13035:0crwdne13035:0"
+  },
+  "image_slideshow.loop_select_options_loop": {
+    "message": "crwdns13036:0crwdne13036:0"
+  }
+}

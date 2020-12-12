@@ -1,0 +1,71 @@
+{
+  "chat.title": {
+    "message": "%service% 聊天配置"
+  },
+  "chat.source": {
+    "message": "資源"
+  },
+  "chat.account": {
+    "message": "帳戶"
+  },
+  "chat.authorize": {
+    "message": "授權XSplit使用 %service%"
+  },
+  "chat.deauthorize": {
+    "message": "%username% (取消授權)"
+  },
+  "chat.connected": {
+    "message": "連接"
+  },
+  "chat.not_connected": {
+    "message": "未連接"
+  },
+  "chat.channel_text": {
+    "message": "鍵入您想要顯示的 %service% 聊天的通道."
+  },
+  "chat.channel": {
+    "message": "通道"
+  },
+  "chat.channel_name": {
+    "message": "通道名稱"
+  },
+  "chat.connect": {
+    "message": "連接"
+  },
+  "chat.error_channel_not_found": {
+    "message": "找不到 %service% 通道. 請再試一次."
+  },
+  "chat.error_no_connection": {
+    "message": "請檢查您的網絡連接並再試一次."
+  },
+  "chat.display": {
+    "message": "顯示"
+  },
+  "chat.chat_box": {
+    "message": "聊天框"
+  },
+  "chat.opacity": {
+    "message": "透明度"
+  },
+  "chat.viewers": {
+    "message": "觀眾"
+  },
+  "chat.message": {
+    "message": "消息"
+  },
+  "chat.text_size": {
+    "message": "文本大小"
+  },
+  "chat.disconnect": {
+    "message": "斷開連接"
+  },
+  "chat.connecting": {
+    "message": "正在連接..."
+  },
+  "chat.connect_error": {
+    "message": "%service% 不能連接到通道. 請再試一次."
+  },
+  "chat.invalid_channel": {
+    "message": "請提供有效的 %service% 通道."
+  }
+}

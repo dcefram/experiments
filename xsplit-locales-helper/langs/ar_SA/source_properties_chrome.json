@@ -1,0 +1,1415 @@
+{
+	"main.pin": {
+		"message": "Sticky"
+	},
+	"main.refresh": {
+		"message": "Refresh"
+	},
+	"main.keep_in_memory": {
+		"message": "Keep source in memory"
+	},
+	"main.see_linked_sources": {
+		"message": "Linked sources"
+	},
+	"main.unlink": {
+		"message": "Unlink"
+	},
+	"main.linked_sources": {
+		"message": "Linked Sources:"
+	},
+	"main.none": {
+		"message": "`-` None -"
+	},
+	"main.error_details_source": {
+		"message": "The source file is missing. It may have been renamed or deleted."
+	},
+	"main.go_to_store": {
+		"message": "Go to Source Plugin Store"
+	},
+	"main.or": {
+		"message": " or "
+	},
+	"main.browse_file": {
+		"message": "Browse File"
+	},
+	"main.add_loading": {
+		"message": "Loading..."
+	},
+	"main.add_text": {
+		"message": "Add Text"
+	},
+	"main.add_image_slideshow": {
+		"message": "Add Image Slideshow"
+	},
+	"main.add_video_playlist": {
+		"message": "Add Video Playlist"
+	},
+	"main.add_skype_ndi": {
+		"message": "Add Skype NDI"
+	},
+	"main.add_plugin": {
+		"message": "Add %plugin_name%"
+	},
+	"main.ok": {
+		"message": "Ok"
+	},
+	"main.cancel": {
+		"message": "Cancel"
+	},
+	"main.disable_audio_wrapper_warning": {
+		"message": "It is recommended to disable audio wrapper[br]while \"Use Native Flash sound control\" is enabled in Settings."
+	},
+	"main.win7_aero_desktop_capture_warning": {
+		"message": "Desktop capture on Aero is not recommended and may affect performance of XSplit. If desktop capture is required, please change your theme to Windows 7 Basic. Read more [here](https://xspl.it/bc/jn2qeo)."
+	},
+	"main.ndi_in_beta": {
+		"message": "NDI source is still in beta. Audio rendering is not yet supported."
+	},
+	"main.ndi_in_beta_audio_supported": {
+		"message": "NDI source is still in beta."
+	},
+	"main.ndi_audio_not_supported": {
+		"message": "Audio rendering is not yet supported."
+	},
+	"main.file_contains_ac3": {
+		"message": "This file contains AC3 encoded audio. Microsoft and XSplit do not provide a license for decoding AC3 audio. To decode AC3, you may download and install [this filter](https://xspl.it/orsexj) and then refresh source.[br]Disclaimer: It is at own risk and should only be installed if you have the necessary rights to download and use (read their terms of use)."
+	},
+	"main.flash_player_not_installed_outdated": {
+		"message": "Flash Player is not installed or outdated. [Download or update to the latest flash player now.](https://xspl.it/getflash)"
+	},
+	"main.sync_with_elgato": {
+		"message": "To sync this source with the additional delay of your %device% (in the same scene), you need to add %elgatodelay% ms to the delay."
+	},
+	"main.stream_only_unsupported": {
+		"message": "Stream Only feature is only supported in Windows 10 or later."
+	},
+	"main.help.linked_sources_title": {
+		"message": "Linked sources"
+	},
+	"main.help.linked_sources_message": {
+		"message": "Linked sources are sources which are global across one or more scenes. They always share the same name and always have a fixed resolution. Check \"keep source in memory\" in the properties of one instance of a linked source to keep the linked sources loaded in memory."
+	},
+	"main.audio_output_options_system_sound": {
+		"message": "System Sound"
+	},
+	"main.audio_output_options_stream_only": {
+		"message": "Stream Only"
+	},
+	"main.audio_output_options_stream_only_unsupported": {
+		"message": "Stream Only"
+	},
+	"main.audio_output_options_stream_only_install": {
+		"message": "Stream Only (Install)"
+	},
+	"main.audio_output_options_default_speakers": {
+		"message": "Default Speakers"
+	},
+	"main.when_finished_options_nothing": {
+		"message": "Nothing"
+	},
+	"main.when_finished_options_rewind": {
+		"message": "Rewind"
+	},
+	"main.when_finished_options_loop": {
+		"message": "Loop"
+	},
+	"main.when_finished_options_hide": {
+		"message": "Hide"
+	},
+	"main.when_finished_options_transparent": {
+		"message": "Transparent"
+	},
+	"tabheader.color": {
+		"message": "Color"
+	},
+	"tabheader.layout": {
+		"message": "Layout"
+	},
+	"tabheader.transition": {
+		"message": "Effects"
+	},
+	"tabheader.debug": {
+		"message": "Debug"
+	},
+	"tabheader.video_playlist": {
+		"message": "Playlist"
+	},
+	"tabheader.ip_cam": {
+		"message": "IP Cam"
+	},
+	"tabheader.media": {
+		"message": "Media"
+	},
+	"tabheader.audio": {
+		"message": "Audio"
+	},
+	"tabheader.cam": {
+		"message": "Cam"
+	},
+	"tabheader.title": {
+		"message": "Title"
+	},
+	"tabheader.screen": {
+		"message": "Screen"
+	},
+	"tabheader.stream": {
+		"message": "Stream"
+	},
+	"tabheader.swf": {
+		"message": "SWF"
+	},
+	"tabheader.skype": {
+		"message": "Skype"
+	},
+	"tabheader.game": {
+		"message": "Game"
+	},
+	"tabheader.text": {
+		"message": "Text"
+	},
+	"tabheader.slideshow": {
+		"message": "Slideshow"
+	},
+	"tabheader.hotkeys": {
+		"message": "Hotkeys"
+	},
+	"tabheader.whiteboard": {
+		"message": "Whiteboard"
+	},
+	"tabheader.html": {
+		"message": "HTML"
+	},
+	"tabheader.rtmp": {
+		"message": "RTMP"
+	},
+	"tabheader.ndi": {
+		"message": "NDI"
+	},
+	"tabheader.tobii": {
+		"message": "Tobii"
+	},
+	"tabheader.replay": {
+		"message": "Replay"
+	},
+	"tabheader.scene": {
+		"message": "Scene"
+	},
+	"colortab.picture": {
+		"message": "Picture"
+	},
+	"colortab.keying": {
+		"message": "Keying"
+	},
+	"colortab.reset": {
+		"message": "إعادة تعيين "
+	},
+	"colortab.none": {
+		"message": "None"
+	},
+	"colortab.chroma_key": {
+		"message": "Chroma Key"
+	},
+	"colortab.color_key": {
+		"message": "Color Key"
+	},
+	"colortab.quality": {
+		"message": "Quality"
+	},
+	"colortab.real_sense": {
+		"message": "Intel&reg; RealSense&trade;"
+	},
+	"colortab.realsense_info": {
+		"message": "Your Intel&reg; RealSense&trade; enabled 3D Camera automatically removes your background without the use of a green screen."
+	},
+	"colortab.realsense_not_installed": {
+		"message": "Required components for using Intel&reg; RealSense&trade; background removal is not detected. [Launch Intel RealSense SDK runtime installer](%link%) (all necessary components for XSplit application usage have been pre-selected)."
+	},
+	"colortab.realsense_error": {
+		"message": "Some required components for using Intel&reg; RealSense&trade; background removal may not be installed properly. [Read this post](https://xspl.it/realsense) for more info."
+	},
+	"colortab.legacy": {
+		"message": "Legacy Mode"
+	},
+	"colortab.keycolor": {
+		"message": "Key Color"
+	},
+	"colortab.anti_aliasing": {
+		"message": "Anti-aliasing"
+	},
+	"colortab.eyedrop": {
+		"message": "أداة تقطير العين "
+	},
+	"colortab.copy_color_settings": {
+		"message": "Copy Chroma Key Settings"
+	},
+	"colortab.paste_color_settings": {
+		"message": "Paste Chroma Key Settings"
+	},
+	"colortab.help.full_dynamic_range_title": {
+		"message": "Full dynamic range"
+	},
+	"colortab.help.full_dynamic_range_message": {
+		"message": "Full dynamic range is a global setting for each camera device/capture card used as a source."
+	},
+	"colortab.enable_full_dynamic_range": {
+		"message": "Full dynamic range"
+	},
+	"colortab.apply_globally": {
+		"message": "Apply to all linked sources"
+	},
+	"colortab.help.smartcam_quality_title": {
+		"message": "Quality"
+	},
+	"colortab.help.smartcam_quality_message": {
+		"message": "The higher the quality, the higher the CPU usage (1 - low/5 - high)"
+	},
+	"colortab.key_color_options_green": {
+		"message": "Green"
+	},
+	"colortab.key_color_options_red": {
+		"message": "Red"
+	},
+	"colortab.key_color_options_blue": {
+		"message": "Blue"
+	},
+	"colortab.anti_aliasing_options_high": {
+		"message": "High"
+	},
+	"colortab.anti_aliasing_options_low": {
+		"message": "Low"
+	},
+	"colortab.anti_aliasing_options_none": {
+		"message": "None"
+	},
+	"colortab.no_greenscreen": {
+		"message": "No green screen?"
+	},
+	"colortab.try_vcam": {
+		"message": "Try XSplit VCam!"
+	},
+	"layouttab.position": {
+		"message": "Position"
+	},
+	"layouttab.3d": {
+		"message": "2D/3D Transform"
+	},
+	"layouttab.cropping": {
+		"message": "Cropping"
+	},
+	"layouttab.source_rotate": {
+		"message": "To 3D-rotate your source, hold SHIFT while dragging your mouse"
+	},
+	"layouttab.x": {
+		"message": "X"
+	},
+	"layouttab.y": {
+		"message": "Y"
+	},
+	"layouttab.z": {
+		"message": "Z"
+	},
+	"layouttab.rotate": {
+		"message": "Rotate"
+	},
+	"layouttab.flip": {
+		"message": "Flip"
+	},
+	"layouttab.counter_clockwise": {
+		"message": "Counter Clockwise"
+	},
+	"layouttab.clockwise": {
+		"message": "Clockwise"
+	},
+	"layouttab.width": {
+		"message": "Width"
+	},
+	"layouttab.height": {
+		"message": "Height"
+	},
+	"layouttab.reset": {
+		"message": "إعادة تعيين "
+	},
+	"layouttab.crop_alt_key": {
+		"message": "Try dragging outlines of the source with ALT KEY pressed"
+	},
+	"layouttab.top": {
+		"message": "Top"
+	},
+	"layouttab.bottom": {
+		"message": "Bottom"
+	},
+	"layouttab.left": {
+		"message": "Left"
+	},
+	"layouttab.right": {
+		"message": "Right"
+	},
+	"layouttab.autocrop": {
+		"message": "Auto Crop"
+	},
+	"layouttab.keep_aspect_ratio": {
+		"message": "Keep Aspect Ratio"
+	},
+	"layouttab.lock_position": {
+		"message": "Lock Position"
+	},
+	"layouttab.enhance_resize": {
+		"message": "Enhance Resize"
+	},
+	"layouttab.pan_360": {
+		"message": "360 projection"
+	},
+	"layouttab.help.pan_360_message": {
+		"message": "Enable \"Lock Position\" to interact. Mouse wheel to zoom, click and drag to pan."
+	},
+	"transitiontab.masking": {
+		"message": "Masking"
+	},
+	"transitiontab.none": {
+		"message": "None"
+	},
+	"transitiontab.shape": {
+		"message": "Shape"
+	},
+	"transitiontab.file": {
+		"message": "File"
+	},
+	"transitiontab.filters": {
+		"message": "Filters"
+	},
+	"transitiontab.effects": {
+		"message": "Transition"
+	},
+	"transitiontab.shadow": {
+		"message": "Shadow"
+	},
+	"transitiontab.size": {
+		"message": "بحجم"
+	},
+	"transitiontab.radius": {
+		"message": "Radius"
+	},
+	"transitiontab.opacity": {
+		"message": "الشفافيه"
+	},
+	"transitiontab.border": {
+		"message": "Border"
+	},
+	"transitiontab.color": {
+		"message": "Color"
+	},
+	"transitiontab.reset": {
+		"message": "إعادة تعيين "
+	},
+	"transitiontab.offset_x": {
+		"message": "Offset X"
+	},
+	"transitiontab.blur": {
+		"message": "Blur"
+	},
+	"transitiontab.offset_y": {
+		"message": "Offset Y"
+	},
+	"transitiontab.mask_source": {
+		"message": "Mask to source"
+	},
+	"transitiontab.mask_stage": {
+		"message": "Mask to stage"
+	},
+	"transitiontab.image_mask_file": {
+		"message": "Image mask file"
+	},
+	"transitiontab.show_masking_guide": {
+		"message": "Show masking guide"
+	},
+	"transitiontab.re2_mode": {
+		"message": "Source transitions are unsupported in RE2 mode."
+	},
+	"transitiontab.config_text": {
+		"message": "By default, transition works when you show or hide a source on a scene (check or uncheck the checkbox in the the sources list). You can also choose to apply the transition on scene enter or exit. However, source transition will not fire if main scene transition is set to 'None'. If you need to make a cut for the main transition and still apply source transitions, then set main transition to 'Cut' instead of 'None'."
+	},
+	"transitiontab.transition": {
+		"message": "Transition"
+	},
+	"transitiontab.speed": {
+		"message": "Speed"
+	},
+	"transitiontab.speed_unit": {
+		"message": "ms"
+	},
+	"transitiontab.preview_label": {
+		"message": "Preview"
+	},
+	"transitiontab.no_available_preview": {
+		"message": "No available Preview"
+	},
+	"transitiontab.on_scene_exit": {
+		"message": "On Scene Exit"
+	},
+	"transitiontab.on_scene_enter": {
+		"message": "On Scene Enter"
+	},
+	"transitiontab.lut_file": {
+		"message": "LUT File"
+	},
+	"transitiontab.browse": {
+		"message": "Browse"
+	},
+	"transitiontab.intensity": {
+		"message": "Effect intensity"
+	},
+	"transitiontab.bloom_intensity": {
+		"message": "Bloom intensity"
+	},
+	"transitiontab.magnify_amount": {
+		"message": "Magnify amount"
+	},
+	"transitiontab.blur_amount": {
+		"message": "Blur amount"
+	},
+	"transitiontab.filters_none": {
+		"message": "No filter"
+	},
+	"transitiontab.filters_sharpen": {
+		"message": "Sharpen"
+	},
+	"transitiontab.filters_smoothen": {
+		"message": "Smoothen"
+	},
+	"transitiontab.filters_cool": {
+		"message": "Cool"
+	},
+	"transitiontab.filters_warm": {
+		"message": "Warm"
+	},
+	"transitiontab.filters_bloom": {
+		"message": "Bloom"
+	},
+	"transitiontab.filters_mono": {
+		"message": "Monochrome"
+	},
+	"transitiontab.filters_color_tint": {
+		"message": "Color Tint"
+	},
+	"transitiontab.filters_invert": {
+		"message": "Invert Color"
+	},
+	"transitiontab.filters_old_movie": {
+		"message": "Old Movie"
+	},
+	"transitiontab.filters_sketch": {
+		"message": "Sketch"
+	},
+	"transitiontab.filters_magnify": {
+		"message": "Magnify"
+	},
+	"transitiontab.filters_blur": {
+		"message": "Blur"
+	},
+	"transitiontab.filters_custom": {
+		"message": "Custom LUT"
+	},
+	"transitiontab.luts_article": {
+		"message": "What are LUTs?"
+	},
+	"transitiontab.transition_select_options_none": {
+		"message": "None"
+	},
+	"transitiontab.transition_select_options_clock": {
+		"message": "ساعة "
+	},
+	"transitiontab.transition_select_options_collapse": {
+		"message": "فقد "
+	},
+	"transitiontab.transition_select_options_ease_in_out_back": {
+		"message": "Ease In Out Back"
+	},
+	"transitiontab.transition_select_options_ease_out_bounce": {
+		"message": "Ease Out Bounce"
+	},
+	"transitiontab.transition_select_options_ease_out_elastic": {
+		"message": "Ease Out Elastic"
+	},
+	"transitiontab.transition_select_options_fade": {
+		"message": "تلاشى"
+	},
+	"transitiontab.transition_select_options_fan": {
+		"message": "انتشر"
+	},
+	"transitiontab.transition_select_options_hole": {
+		"message": "فجوة"
+	},
+	"transitiontab.transition_select_options_move_left": {
+		"message": "Move Left"
+	},
+	"transitiontab.transition_select_options_move_right": {
+		"message": "Move Right"
+	},
+	"transitiontab.transition_select_options_move_left_right": {
+		"message": "Move Left-Right"
+	},
+	"transitiontab.transition_select_options_move_top": {
+		"message": "Move Top"
+	},
+	"transitiontab.transition_select_options_move_bottom": {
+		"message": "Move Bottom"
+	},
+	"transitiontab.transition_select_options_move_top_bottom": {
+		"message": "Move Top-Bottom"
+	},
+	"transitiontab.transition_select_options_wave": {
+		"message": "Wave"
+	},
+	"transitiontab.transition_select_options_zoom": {
+		"message": "Zoom"
+	},
+	"debugtab.title": {
+		"message": "Debug"
+	},
+	"debugtab.videoitem_id": {
+		"message": "Videoitem ID"
+	},
+	"debugtab.src_id": {
+		"message": "Source ID"
+	},
+	"debugtab.src_type": {
+		"message": "Source Type"
+	},
+	"debugtab.copy": {
+		"message": "Copy"
+	},
+	"debugtab.type_undefined": {
+		"message": "Undefined"
+	},
+	"debugtab.type_file": {
+		"message": "File"
+	},
+	"debugtab.type_live": {
+		"message": "Live"
+	},
+	"debugtab.type_text": {
+		"message": "Text"
+	},
+	"debugtab.type_image": {
+		"message": "Image"
+	},
+	"debugtab.type_screen": {
+		"message": "Screen"
+	},
+	"debugtab.type_swf": {
+		"message": "SWF"
+	},
+	"debugtab.type_game": {
+		"message": "Game"
+	},
+	"debugtab.type_html": {
+		"message": "HTML"
+	},
+	"debugtab.type_3ds": {
+		"message": "3DS"
+	},
+	"debugtab.type_ppt": {
+		"message": "Presentation"
+	},
+	"debugtab.type_scene": {
+		"message": "Scene"
+	},
+	"debugtab.type_group": {
+		"message": "مجموعة"
+	},
+	"debugtab.type_replay": {
+		"message": "Replay"
+	},
+	"debugtab.type_view": {
+		"message": "View"
+	},
+	"camtab.processing": {
+		"message": "Switching source..."
+	},
+	"camtab.updating_settings": {
+		"message": "Updating settings..."
+	},
+	"camtab.playback": {
+		"message": "Playback"
+	},
+	"camtab.device_configuration": {
+		"message": "Device Configuration"
+	},
+	"camtab.delay": {
+		"message": "Delay (ms)"
+	},
+	"camtab.audio_input": {
+		"message": "Audio Input"
+	},
+	"camtab.audio_output": {
+		"message": "Audio Output"
+	},
+	"camtab.offset": {
+		"message": "Offset (ms)"
+	},
+	"camtab.offset_text": {
+		"message": "(Audio video synchronization)"
+	},
+	"camtab.silence_detection": {
+		"message": "Silence Detection"
+	},
+	"camtab.threshold": {
+		"message": "Threshold"
+	},
+	"camtab.silence_period": {
+		"message": "Silence Period (ms)"
+	},
+	"camtab.camera_source": {
+		"message": "Camera Source"
+	},
+	"camtab.camera_source_audio": {
+		"message": "Audio Source"
+	},
+	"camtab.configure_text": {
+		"message": "To configure your %device_name% settings, click on the button below. "
+	},
+	"camtab.auto_logitech": {
+		"message": "Use standard settings"
+	},
+	"camtab.manual_logitech": {
+		"message": "Configure manually"
+	},
+	"camtab.configure": {
+		"message": "تهيئة    "
+	},
+	"camtab.priority": {
+		"message": "Priority"
+	},
+	"camtab.frame_rate_priority_logitech": {
+		"message": "Frame Rate"
+	},
+	"camtab.exposure_priority_logitech": {
+		"message": "Exposure"
+	},
+	"camtab.field_of_view": {
+		"message": "Field of view"
+	},
+	"camtab.orientation": {
+		"message": "Orientation"
+	},
+	"camtab.orientation_disabled": {
+		"message": "Disabled"
+	},
+	"camtab.orientation_portrait": {
+		"message": "Portrait"
+	},
+	"camtab.orientation_landscape": {
+		"message": "Landscape"
+	},
+	"camtab.orientation_auto": {
+		"message": "Auto-orient"
+	},
+	"camtab.enable_hdr": {
+		"message": "Enable"
+	},
+	"camtab.hdr": {
+		"message": "HDR (High Dynamic Range)"
+	},
+	"camtab.help.hdr": {
+		"message": "Enabling this option improves video quality for all lighting conditions - low light, bright light, high contrast, backlit.  This only works for 30fps and below"
+	},
+	"camtab.video_source": {
+		"message": "Video Input"
+	},
+	"camtab.video_capture_pin": {
+		"message": "Video Output"
+	},
+	"camtab.tv_tuner": {
+		"message": "TV Tuner"
+	},
+	"camtab.video_cross_bar1": {
+		"message": "Cross Bar"
+	},
+	"camtab.video_cross_bar2": {
+		"message": "Cross Bar 2"
+	},
+	"camtab.vfw_capture_source": {
+		"message": "VFW Input"
+	},
+	"camtab.vfw_capture_format": {
+		"message": "VFW Format"
+	},
+	"camtab.vfw_capture_display": {
+		"message": "VFW Display"
+	},
+	"camtab.hw_video_encoder": {
+		"message": "HW Video Encoder"
+	},
+	"camtab.hw_audio_encoder": {
+		"message": "HW Audio Encoder"
+	},
+	"camtab.hw_mux": {
+		"message": "HW MUX"
+	},
+	"camtab.audio_source": {
+		"message": "Audio Input"
+	},
+	"camtab.audio_capture_pin": {
+		"message": "Audio Output"
+	},
+	"camtab.tv_audio": {
+		"message": "TV Audio"
+	},
+	"camtab.video_renderer": {
+		"message": "Video Renderer"
+	},
+	"camtab.audio_renderer": {
+		"message": "Audio Renderer"
+	},
+	"camtab.force_deinterlace": {
+		"message": "Force Deinterlace"
+	},
+	"camtab.auto_configure": {
+		"message": "Allow XSplit to auto-configure"
+	},
+	"camtab.use_black_magic_wdm": {
+		"message": "Use Blackmagic WDM Capture"
+	},
+	"camtab.description": {
+		"message": "To learn on how to use with XSplit, visit:"
+	},
+	"camtab.avermedia.partnersite1_description": {
+		"message": "AVerMedia Live Gamer HD C985 Page"
+	},
+	"camtab.avermedia.partnersite2_description": {
+		"message": "AVerMedia C875 Live Gamer Portable Page"
+	},
+	"camtab.elgato.partnersite1_description": {
+		"message": "Elgato Game Capture Website"
+	},
+	"camtab.elgato.partnersite2_description": {
+		"message": "Elgato Support Page"
+	},
+	"camtab.roxio.partnersite1_description": {
+		"message": "Roxio Website"
+	},
+	"camtab.roxio.partnersite2_description": {
+		"message": "Roxio Game Capture Page"
+	},
+	"camtab.xsplit_support_page": {
+		"message": "XSplit Support Page"
+	},
+	"camtab.youtube": {
+		"message": "%name% Youtube"
+	},
+	"camtab.audio_input_options_builtin": {
+		"message": "Built In"
+	},
+	"camtab.audio_input_options_none": {
+		"message": "None"
+	},
+	"gametab.game_source": {
+		"message": "Game Source"
+	},
+	"gametab.show_mouse": {
+		"message": "Show mouse cursor"
+	},
+	"gametab.enable_special_optimization": {
+		"message": "Enable Special Optimization"
+	},
+	"gametab.unable_to_set": {
+		"message": "(unable to set optimization)"
+	},
+	"gametab.special_optimization_hint": {
+		"message": "(disable special optimization to avoid stutter on Crossfire/SLI)"
+	},
+	"gametab.enable_playback_smoothness": {
+		"message": "Enable Frame Smoothing"
+	},
+	"gametab.allow_transparency": {
+		"message": "Allow transparency"
+	},
+	"gametab.playback_smoothness": {
+		"message": "FPS factor (%)"
+	},
+	"gametab.limit_game_fps": {
+		"message": "Game FPS cap:"
+	},
+	"gametab.offline_image": {
+		"message": "Offline Image"
+	},
+	"gametab.offline_image_description": {
+		"message": "The offline image will be shown if the game or source is not detected (leave it empty to make GameSource transparent)"
+	},
+	"mediatab.playback": {
+		"message": "Playback"
+	},
+	"mediatab.audio_output": {
+		"message": "Audio Output"
+	},
+	"mediatab.start_at": {
+		"message": "Start at"
+	},
+	"mediatab.set": {
+		"message": "ضبط"
+	},
+	"mediatab.end_at": {
+		"message": "End at"
+	},
+	"mediatab.reset": {
+		"message": "إعادة تعيين "
+	},
+	"mediatab.play": {
+		"message": "Play"
+	},
+	"mediatab.play_options_once": {
+		"message": "Once"
+	},
+	"mediatab.play_options_forever": {
+		"message": "Forever"
+	},
+	"mediatab.play_options_custom": {
+		"message": "Custom..."
+	},
+	"mediatab.loop_times": {
+		"message": "times"
+	},
+	"mediatab.when_finished": {
+		"message": "When Finished"
+	},
+	"mediatab.start_on_load": {
+		"message": "Play on scene enter"
+	},
+	"mediatab.play_on_show": {
+		"message": "Force play on source show"
+	},
+	"mediatab.remember_playback_position": {
+		"message": "Remember Playback Position"
+	},
+	"mediatab.force_deinterlace": {
+		"message": "قوة التشابك"
+	},
+	"mediatab.show_playback_position": {
+		"message": "Show playback position"
+	},
+	"mediatab.cuepoints": {
+		"message": "النقاط الدلالية "
+	},
+	"mediatab.add_to_cuepoints": {
+		"message": "Add to cue points"
+	},
+	"mediatab.add": {
+		"message": "إضافة"
+	},
+	"mediatab.saved_cue_points": {
+		"message": "Saved cue points"
+	},
+	"mediatab.cue_point_type.cue_point": {
+		"message": "Cue-point"
+	},
+	"mediatab.cue_point_type.start": {
+		"message": "Start"
+	},
+	"mediatab.cue_point_type.end": {
+		"message": "End"
+	},
+	"mediatab.cue_point_type.cut": {
+		"message": "Cut"
+	},
+	"mediatab.cue_point_type.pause": {
+		"message": "Pause"
+	},
+	"mediatab.cue_point_type.resume": {
+		"message": "Resume"
+	},
+	"mediatab.change": {
+		"message": "Change..."
+	},
+	"mediatab.cue_point_options_resume": {
+		"message": "Resume"
+	},
+	"mediatab.cue_point_options_pause": {
+		"message": "Pause"
+	},
+	"mediatab.cue_point_options_cut": {
+		"message": "Cut"
+	},
+	"mediatab.help.loop_times_title": {
+		"message": "Custom Play"
+	},
+	"mediatab.help.loop_times_message": {
+		"message": "Setting a new custom play value will reset the Play counter back to 1."
+	},
+	"picturetab.mediasource": {
+		"message": "Media Source"
+	},
+	"screentab.processing": {
+		"message": "Switching source..."
+	},
+	"screentab.window_capture": {
+		"message": "Window Capture"
+	},
+	"screentab.desktop_capture": {
+		"message": "Desktop Capture"
+	},
+	"screentab.area": {
+		"message": "Area"
+	},
+	"screentab.capture_options": {
+		"message": "Capture Options"
+	},
+	"screentab.x": {
+		"message": "X"
+	},
+	"screentab.y": {
+		"message": "Y"
+	},
+	"screentab.width": {
+		"message": "Width"
+	},
+	"screentab.height": {
+		"message": "Height"
+	},
+	"screentab.client_area": {
+		"message": "Client Area"
+	},
+	"screentab.track_window_title": {
+		"message": "Stick to Title"
+	},
+	"screentab.window_source": {
+		"message": "Window Source"
+	},
+	"screentab.desktop_source": {
+		"message": "Desktop Source"
+	},
+	"screentab.screen_capture": {
+		"message": "Screen Capture"
+	},
+	"screentab.exclude_xsplit_window": {
+		"message": "Exclude XSplit from display capture"
+	},
+	"screentab.optimize_window_capture": {
+		"message": "Exclusive Window Capture"
+	},
+	"screentab.capture_layered_windows": {
+		"message": "Capture Layered Windows[br] (Uncheck this to avoid mouse flicker)"
+	},
+	"screentab.not_supported": {
+		"message": "(not supported by system)"
+	},
+	"screentab.gpu_optimized": {
+		"message": "GPU Optimized"
+	},
+	"screentab.show_mouse": {
+		"message": "Show mouse cursor"
+	},
+	"screentab.show_mouse_clicks": {
+		"message": "إظهار نقرات الفارة"
+	},
+	"screentab.fix_black_capture": {
+		"message": "Fix black capture"
+	},
+	"screentab.reset": {
+		"message": "إعادة تعيين "
+	},
+	"skytab.skype": {
+		"message": "Skype"
+	},
+	"skytab.offline_image": {
+		"message": "Offline Image"
+	},
+	"skytab.offline_image_description": {
+		"message": "The offline image will be shown if a Skype video feed is not detected (leave it empty to make the Skype source transparent)"
+	},
+	"skytab.source_flicker": {
+		"message": "Skype source may flicker due to:"
+	},
+	"skytab.multiple_calls": {
+		"message": "multiple calls (including calls on hold)"
+	},
+	"skytab.skype_show_call_cotrols": {
+		"message": "enabled &quot;Show call controls when Skype is in the background:&quot; in Skype Options -> Call Settings -> Advanced"
+	},
+	"skytab.ndi_skype_enable": {
+		"message": "How to enable NDI in Skype:"
+	},
+	"skytab.ndi_multiple_calls": {
+		"message": "Minimum required version - Skype Preview 8.28.76.42"
+	},
+	"skytab.ndi_skype_show_call_cotrols": {
+		"message": "Enable &quot;Allow NDI usage&quot; in Skype options > Calling Settings > Advanced Calling"
+	},
+	"skytab.skypeId": {
+		"message": "Skype ID:"
+	},
+	"skytab.computerName": {
+		"message": "Computer Name:"
+	},
+	"skytab.skypeNdiLink": {
+		"message": "Learn more about Skype NDI"
+	},
+	"skytab.apply": {
+		"message": "Apply"
+	},
+	"skytab.search.help.message": {
+		"message": "Enter the Computer Name and Skype ID of your Skype NDI Source, or click the magnifying glass to search for available Skype NDI sources on your network. Click apply to connect to the source."
+	},
+	"skytab.search.help.title": {
+		"message": "Skype NDI Source"
+	},
+	"skytab.skype_available_ndi_sources": {
+		"message": "Available Skype NDI Sources"
+	},
+	"skytab.no_ndi_label": {
+		"message": "No Skype NDI calls detected"
+	},
+	"streamtab.playback": {
+		"message": "Playback"
+	},
+	"streamtab.audio_output": {
+		"message": "Audio Output"
+	},
+	"streamtab.use_rtmp_flash": {
+		"message": "Use flash for playback"
+	},
+	"streamtab.stream_source": {
+		"message": "Stream Source"
+	},
+	"streamtab.stream_name": {
+		"message": "Stream Name"
+	},
+	"streamtab.delay": {
+		"message": "Stream buffer (secs)"
+	},
+	"streamtab.protocol": {
+		"message": "بروتوكول"
+	},
+	"streamtab.protocol_tooltip": {
+		"message": "Sets the low level RTSP transport protocol.[br][br] If you see stuttering or desync, try to change the protocol from TCP to UDP. If blocked by a firewall, try to set the protocol to HTTP."
+	},
+	"streamtab.apply": {
+		"message": "Apply"
+	},
+	"nditab.playback": {
+		"message": "Playback"
+	},
+	"nditab.audio_output": {
+		"message": "Audio Output"
+	},
+	"nditab.ndi_source": {
+		"message": "Stream Source"
+	},
+	"nditab.quality": {
+		"message": "Quality"
+	},
+	"nditab.standard": {
+		"message": "Standard"
+	},
+	"nditab.maximum": {
+		"message": "Maximum"
+	},
+	"nditab.apply": {
+		"message": "Apply"
+	},
+	"replaytab.saveToDisk": {
+		"message": "Save to disk"
+	},
+	"replaytab.saveToDiskOnPlayback": {
+		"message": "Save to disk on playback"
+	},
+	"replaytab.source": {
+		"message": "مصدر"
+	},
+	"replaytab.no_output": {
+		"message": "No selected output"
+	},
+	"replaytab.output_live": {
+		"message": "Output is live"
+	},
+	"replaytab.output_offline": {
+		"message": "Output is not yet live"
+	},
+	"replaytab.connect_to": {
+		"message": "Connect to"
+	},
+	"replaytab.help.connect_to_title": {
+		"message": "Connect to"
+	},
+	"replaytab.help.connect_to_message": {
+		"message": "Choose an output to which this replay source can connect. The Auto setting lets this replay connect to the immediate next output that starts streaming."
+	},
+	"replaytab.help.save_playback_title": {
+		"message": "Save replay to disk on playback"
+	},
+	"replaytab.help.save_playback_message": {
+		"message": "Saves a copy of your replay to your default recording folder."
+	},
+	"replaytab.help.saveToDisk_title": {
+		"message": "Save to disk"
+	},
+	"replaytab.help.saveToDisk_message": {
+		"message": "Saves your replay buffer to disk without showing it on your stream."
+	},
+	"replaytab.replay": {
+		"message": "Replay"
+	},
+	"replaytab.hotkey": {
+		"message": "Hotkey"
+	},
+	"replaytab.replayTime": {
+		"message": "Replay time"
+	},
+	"replaytab.bufferLength": {
+		"message": "Buffer Length"
+	},
+	"replaytab.playback": {
+		"message": "Playback"
+	},
+	"replaytab.seconds": {
+		"message": "seconds"
+	},
+	"replaytab.start_on_load": {
+		"message": "Play on scene enter"
+	},
+	"replaytab.audio_output": {
+		"message": "Audio Output"
+	},
+	"replaytab.display": {
+		"message": "Display"
+	},
+	"scenetab.display": {
+		"message": "Display"
+	},
+	"scenetab.scene": {
+		"message": "Scene Source"
+	},
+	"scenetab.scene_description": {
+		"message": "To edit this scene source, switch to the referenced scene.[br][br] Alternatively, if you want to edit without switching scenes, use Split Mode or the Preview Editor. Make sure to click 'Push Live' to apply the scene changes."
+	},
+	"swftab.playback": {
+		"message": "Playback"
+	},
+	"swftab.disable_audio_wrapper": {
+		"message": "Disable audio wrapper"
+	},
+	"swftab.swf_source": {
+		"message": "SWF Source"
+	},
+	"swftab.resolution": {
+		"message": "دقة"
+	},
+	"swftab.original_resolution": {
+		"message": "Original source"
+	},
+	"swftab.custom_resolution": {
+		"message": "Custom"
+	},
+	"swftab.configuration": {
+		"message": "Configuration"
+	},
+	"swftab.configure_text": {
+		"message": "To configure your SWF source, click on the button below."
+	},
+	"swftab.configure": {
+		"message": "تهيئة    "
+	},
+	"swftab.audio_output": {
+		"message": "Audio Output"
+	},
+	"swfhotkeystab.hotkeys": {
+		"message": "Hotkeys"
+	},
+	"titletab.title": {
+		"message": "Title"
+	},
+	"titletab.configure_text": {
+		"message": "To configure your Title source, click on the button below."
+	},
+	"titletab.configure": {
+		"message": "تهيئة    "
+	},
+	"tobiitab.title": {
+		"message": "Tobii Eye Tracker Properties"
+	},
+	"tobiitab.cursor_color": {
+		"message": "Cursor Color"
+	},
+	"tobiitab.enable": {
+		"message": "Enable Tracking"
+	},
+	"tobiitab.shape": {
+		"message": "Shape"
+	},
+	"tobiitab.solid": {
+		"message": "Solid"
+	},
+	"tobiitab.bubble": {
+		"message": "Bubble"
+	},
+	"tobiitab.size": {
+		"message": "بحجم"
+	},
+	"tobiitab.trail": {
+		"message": "Trail"
+	},
+	"tobiitab.filtering": {
+		"message": "Filtering"
+	},
+	"htmltab.playback": {
+		"message": "Playback"
+	},
+	"htmltab.audio_output": {
+		"message": "Audio Output"
+	},
+	"htmltab.apply": {
+		"message": "Apply"
+	},
+	"htmltab.invalid_url": {
+		"message": "Please enter a valid url."
+	},
+	"htmltab.html_source": {
+		"message": "HTML Source"
+	},
+	"htmltab.reload_on_scene_enter": {
+		"message": "Reload on scene enter"
+	},
+	"htmltab.reload_on_source_show": {
+		"message": "Reload on source show"
+	},
+	"htmltab.resolution": {
+		"message": "دقة"
+	},
+	"htmltab.resolution_tooltip": {
+		"message": "Set a fixed resolution for web sources designed for specific resolutions. Original Source will follow the pixel size of the source and behave responsively like a regular browser when resized. Linked sources will always be forced to a fixed resolution."
+	},
+	"htmltab.display": {
+		"message": "Display"
+	},
+	"htmltab.original_resolution": {
+		"message": "Original source"
+	},
+	"htmltab.custom_resolution": {
+		"message": "Custom"
+	},
+	"htmltab.css_overwrite": {
+		"message": "Custom Code"
+	},
+	"htmltab.custom_css": {
+		"message": "Use Custom CSS"
+	},
+	"htmltab.edit_css": {
+		"message": "Edit CSS"
+	},
+	"htmltab.custom_js": {
+		"message": "Use Custom JS"
+	},
+	"htmltab.edit_js": {
+		"message": "Edit JS"
+	},
+	"htmltab.appearance": {
+		"message": "Appearance"
+	},
+	"htmltab.disable_transparency": {
+		"message": "Disable transparency"
+	},
+	"htmltab.disable_scrollbars": {
+		"message": "Disable scrollbars"
+	},
+	"htmltab.enable_60_fps": {
+		"message": "Enable up to 60 FPS"
+	},
+	"htmltab.enable_60_fps_tooltip": {
+		"message": "May require additional GPU/CPU resources. Note that toggling this option will trigger source refresh. For best performance, enable Browser Source Special Optimization under Tools -> Settings -> Advanced."
+	},
+	"htmltab.configuration": {
+		"message": "Configuration"
+	},
+	"htmltab.configure_text": {
+		"message": "To configure your HTML source, click on the button below."
+	},
+	"htmltab.configure": {
+		"message": "تهيئة    "
+	},
+	"htmlhotkeystab.hotkeys": {
+		"message": "Hotkeys"
+	},
+	"presentationtab.playback": {
+		"message": "Playback"
+	},
+	"presentationtab.audio_output": {
+		"message": "Audio Output"
+	},
+	"presentationtab.remember_playback_position": {
+		"message": "Remember Playback Position"
+	},
+	"presentationtab.current_slide": {
+		"message": "Current Slide"
+	},
+	"presentationtab.hotkeys": {
+		"message": "Alternatively, you can use the arrow keys to go to the next or previous slide when source is in focus."
+	},
+	"presentationtab.pptSource": {
+		"message": "Presentation Source"
+	},
+	"presentationtab.change": {
+		"message": "Change..."
+	},
+	"css_editor.edit_css": {
+		"message": "Edit CSS - "
+	},
+	"css_editor.css": {
+		"message": "CSS"
+	},
+	"css_editor.overwrite_css": {
+		"message": "Overwrite CSS"
+	},
+	"css_editor.back": {
+		"message": "Back"
+	},
+	"js_editor.edit_js": {
+		"message": "Edit JS - "
+	},
+	"js_editor.js": {
+		"message": "JS"
+	},
+	"js_editor.add_custom_js": {
+		"message": "Add Custom JS"
+	},
+	"js_editor.back": {
+		"message": "Back"
+	},
+	"hints.picture_section": {
+		"message": "Here you can adjust the color of your source."
+	},
+	"hints.keying_section": {
+		"message": "Here you can apply chroma key for background removal."
+	},
+	"hints.position_section": {
+		"message": "Here you can set the size and position of your source on the viewport."
+	},
+	"hints.threed_section": {
+		"message": "Here you can adjust your source on a 3D plane. Please note that HTML and SWF sources do not register mouse events when source is rotated/flipped."
+	},
+	"hints.media_playback_section": {
+		"message": "Control playback, set media volume, and set media audio output device."
+	},
+	"hints.cue_points_section": {
+		"message": "Set various points to pause, cut, or resume media file."
+	},
+	"hints.game_source_section": {
+		"message": "Show/Hide mouse and enable/disable surface sharing"
+	},
+	"hints.camera_playback_section": {
+		"message": "For USB 2.0 devices it is recommended to set audio output to stream only"
+	},
+	"hints.rtsp_rtmp_playback_section": {
+		"message": "In order to avoid delayed audio, set audio output to stream only"
+	},
+	"hints.configuration_section": {
+		"message": "Click to open the control panel/configuration window used to update source."
+	},
+	"hints.masking_section": {
+		"message": "Masking lets you clip the source to the shape of the mask. You can select a file as the mask or select a shape."
+	},
+	"hints.transition_section": {
+		"message": "By default, transition works when you show or hide a source on a scene (check or uncheck the checkbox in the the sources list). You can also choose to apply the transition on scene enter or exit. However, source transition will not fire if main scene transition is set to 'None'. If you need to make a cut for the main transition and still apply source transitions, then set main transition to 'Cut' instead of 'None'."
+	},
+	"hints.ndi_playback_section": {
+		"message": "Set volume and audio output device."
+	}
+}

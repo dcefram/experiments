@@ -1,0 +1,155 @@
+{
+	"twitch.chat.tabheader": {
+		"message": "Chat"
+	},
+	"twitch.chat.source": {
+		"message": "Quelle"
+	},
+	"twitch.chat.account": {
+		"message": "Konto"
+	},
+	"twitch.chat.authorize": {
+		"message": "XSplit autorisieren, Twitch zu verwenden"
+	},
+	"twitch.chat.remove_authorization": {
+		"message": "**%api%** Autorisierung entfernen"
+	},
+	"twitch.chat.switch_account": {
+		"message": "**%api%** Konto wechseln"
+	},
+	"twitch.chat.not_connected": {
+		"message": "Nicht verbunden"
+	},
+	"twitch.chat.connected": {
+		"message": "Verbunden"
+	},
+	"twitch.chat.connect": {
+		"message": "Verbinden"
+	},
+	"twitch.chat.disconnect": {
+		"message": "Trennen"
+	},
+	"twitch.chat.channel": {
+		"message": "Kanal"
+	},
+	"twitch.chat.error_channel_not_found": {
+		"message": "Bitte geben Sie einen gültigen Kanal an."
+	},
+	"twitch.chat.display": {
+		"message": "Anzeige"
+	},
+	"twitch.chat.chat_box": {
+		"message": "Chat-Box"
+	},
+	"twitch.chat.opacity": {
+		"message": "Deckkraft"
+	},
+	"twitch.chat.viewers": {
+		"message": "Zuschauer"
+	},
+	"twitch.chat.message": {
+		"message": "Nachricht"
+	},
+	"twitch.chat.outline_text": {
+		"message": "Gliederung"
+	},
+	"twitch.chat.text_size": {
+		"message": "Textgröße"
+	},
+	"twitch.chat.hide_user_name": {
+		"message": "Benutzernamen ausblenden"
+	},
+	"twitch.chat.hide_timestamp": {
+		"message": "Zeitstempel verstecken"
+	},
+	"twitch.chat.hide_user_icons": {
+		"message": "Benutzer-Symbole verstecken"
+	},
+	"twitch.chat.hide_on_idle": {
+		"message": "Chat im Leerlauf ausblenden, wenn Abwesend seit"
+	},
+	"twitch.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"twitch.chat.animation_text": {
+		"message": "Animation"
+	},
+	"twitch.chat.animation_direction_text": {
+		"message": "Richtung"
+	},
+	"twitch.chat.animation_randomize": {
+		"message": "Zufällig festlegen"
+	},
+	"twitch.chat.animation_override_settings": {
+		"message": "Dieser Abschnitt überschreibt die manuell festgelegten Anzeigeeinstellungen."
+	},
+	"twitch.chat.animation_duration": {
+		"message": "Dauer"
+	},
+	"twitch.chat.animation_set_duration": {
+		"message": "Damit wird die Dauer der Scrollanimation festgelegt."
+	},
+	"twitch.chat.animation_text_size": {
+		"message": "Textgröße"
+	},
+	"twitch.chat.seconds": {
+		"message": "Sekunden"
+	},
+	"twitch.chat.animation_text_color": {
+		"message": "Textfarbe"
+	},
+	"twitch.chat.animation_none": {
+		"message": "Nichts"
+	},
+	"twitch.chat.animation_scroll": {
+		"message": "Scrollen"
+	},
+	"twitch.chat.animation_scroll_text": {
+		"message": "Damit werden Chatnachrichten der Benutzer dynamisch über den Bildschirm gescrollt.[br][br]Für eine optimale Anzeige dieses Plugins sollte die Quelle in der Vollbildansicht dargestellt werden."
+	},
+	"twitch.chat.animation_direction_rightToLeft": {
+		"message": "Rechts nach links"
+	},
+	"twitch.chat.animation_direction_leftToRight": {
+		"message": "Links nach rechts"
+	},
+	"twitch.chat.animation_direction_randomize": {
+		"message": "Zufällig festlegen"
+	},
+	"twitch.chat.outline_none": {
+		"message": "Nichts"
+	},
+	"twitch.chat.outline_thin": {
+		"message": "Dünn"
+	},
+	"twitch.chat.outline_thick": {
+		"message": "Dick"
+	},
+	"twitch.chat.outline_thickest": {
+		"message": "Dickste"
+	},
+	"twitch.chat.blocking": {
+		"message": "Blockierung"
+	},
+	"twitch.chat.blockedlist": {
+		"message": "Blockierliste"
+	},
+	"twitch.chat.block_help": {
+		"message": "Sie können Zuschauer blockieren, indem Sie deren Name oder Benutzername der Blockierliste hinzufügen (einschließlich Bots, falls zutreffend) und ihre Nachrichten werden dann im Chat-Viewer nicht mehr angezeigt.[br][br]Diese Blockierliste ist nicht mit der Blockierliste Ihres Kanals verbunden. Sie ist nur für diese Chat-Quelle vorgesehen."
+	},
+	"twitch.chat.blocking_name": {
+		"message": "Geben Sie Name oder Benutzername des Zuschauers ein, den Sie blockieren möchten."
+	},
+	"twitch.chat.block_name": {
+		"message": "Name"
+	},
+	"twitch.chat.block_add": {
+		"message": "Hinzufügen"
+	},
+	"twitch.chat.block_remove": {
+		"message": "Entfernen"
+	},
+	"twitch.chat.preview": {
+		"message": "Vorschau"
+	}
+}

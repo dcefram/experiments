@@ -1,0 +1,95 @@
+{
+	"title": {
+		"message": "Facebook Live Properties"
+	},
+	"save_close": {
+		"message": "Save & Close"
+	},
+	"start_streaming": {
+		"message": "Continue"
+	},
+	"logged_in_as": {
+		"message": "Logged in as: %fullname%"
+	},
+	"switch_account": {
+		"message": "[Switch account](switchAccount)"
+	},
+	"remove_auth": {
+		"message": "[Remove authorization](removeAuth)"
+	},
+	"stream_settings": {
+		"message": "Stream Settings"
+	},
+	"stream_to.label": {
+		"message": "Stream to: "
+	},
+	"stream_to.values.timeline": {
+		"message": "Timeline"
+	},
+	"stream_to.values.page": {
+		"message": "Page"
+	},
+	"stream_to.values.group": {
+		"message": "Group"
+	},
+	"stream_to.values.event": {
+		"message": "Event"
+	},
+	"stream_to.pageauth": {
+		"message": "Page - Needs permission"
+	},
+	"stream_to.groupauth": {
+		"message": "Group - Needs permission"
+	},
+	"stream_to.eventauth": {
+		"message": "Event - Needs permission"
+	},
+	"page": {
+		"message": "Page: "
+	},
+	"timeline": {
+		"message": "Timeline: "
+	},
+	"group": {
+		"message": "Group: "
+	},
+	"event": {
+		"message": "Event: "
+	},
+	"format.label": {
+		"message": "Format: "
+	},
+	"encoder.label": {
+		"message": "Encoder: "
+	},
+	"bitrate": {
+		"message": "Bitrate: "
+	},
+	"saveVideo": {
+		"message": "Save video to My Recordings"
+	},
+	"resolutionWarning": {
+		"message": "Your hardware may experience performance issues at this resolution."
+	},
+	"bitrateWarning": {
+		"message": "Your bandwidth may not be sufficient to stream at this bitrate."
+	},
+	"streamingWarning": {
+		"message": "Bandwidth and hardware tests cannot be performed due to ongoing stream/recording."
+	},
+	"checkAgain": {
+		"message": "[Test again?](testAgain)"
+	},
+	"authorize": {
+		"message": "Click to authorize XSplit to stream to your Facebook account"
+	},
+	"configuring": {
+		"message": "Configuring your settings..."
+	},
+	"system_test": {
+		"message": "Last system test: %timestamp% [Test again](testAgain)"
+	},
+	"advanced_settings": {
+		"message": "[Advanced Settings](advancedSettings)"
+	}
+}

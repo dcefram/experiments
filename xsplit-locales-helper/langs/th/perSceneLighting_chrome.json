@@ -1,0 +1,26 @@
+{
+  "perSceneLighting.default": {
+    "message": "ค่าเริ่มต้น"
+  },
+  "perSceneLighting.manage_text": {
+    "message": "จัดการการตั้งค่าแสงส่วนตัวที่นี่"
+  },
+  "perSceneLighting.add_scene": {
+    "message": "เพิ่มฉาก"
+  },
+  "perSceneLighting.devices": {
+    "message": "อุปกรณ์"
+  },
+  "perSceneLighting.no_devices": {
+    "message": "ไม่พบอุปกรณ์"
+  },
+  "perSceneLighting.not_connected": {
+    "message": "แน่ใจว่าอุปกรณ์ได้เชื่อมต่อกับพลังงานแล้ว"
+  },
+  "perSceneLighting.default_tooltip": {
+    "message": "ฉากที่ไม่ได้ปรับค่าแสงเฉพาะจะใช้งานค่าเหล่านี้"
+  },
+  "perSceneLighting.default_light_settings": {
+    "message": "ใช้การตั้งค่าแสงตั้งต้น"
+  }
+}

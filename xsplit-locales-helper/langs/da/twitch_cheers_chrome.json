@@ -1,0 +1,77 @@
+{
+	"twitch.cheers.tabheader": {
+		"message": "Alert"
+	},
+	"twitch.cheers.source": {
+		"message": "Source"
+	},
+	"twitch.cheers.account": {
+		"message": "Account"
+	},
+	"twitch.cheers.authorize": {
+		"message": "Authorize XSplit to use Twitch"
+	},
+	"twitch.cheers.remove_authorization": {
+		"message": "**%api%** Remove authorization"
+	},
+	"twitch.cheers.switch_account": {
+		"message": "**%api%** Switch account"
+	},
+	"twitch.cheers.not_connected": {
+		"message": "Not Connected"
+	},
+	"twitch.cheers.connected": {
+		"message": "Connected"
+	},
+	"twitch.cheers.error_channel_not_found": {
+		"message": "Please provide a valid channel."
+	},
+	"twitch.cheers.notification": {
+		"message": "Notification"
+	},
+	"twitch.cheers.lock_components": {
+		"message": "Lock Components"
+	},
+	"twitch.cheers.lock_components_help": {
+		"message": "Checking this option will disable mouse hover, repositioning and resizing of the components.[br]Check this if you don't want to display hover effects on the components, especially while streaming or recording."
+	},
+	"twitch.cheers.show_stats": {
+		"message": "Show Stats"
+	},
+	"twitch.cheers.show_stats_help": {
+		"message": "This will show the top and recent cheer of your Twitch channel. To clear the stats data, disconnect the channel and connect again. To prevent clearing the data when switching scenes, make sure you have 'Keep source in memory' checked."
+	},
+	"twitch.cheers.opacity": {
+		"message": "Opacity"
+	},
+	"twitch.cheers.user_name": {
+		"message": "Username"
+	},
+	"twitch.cheers.labels": {
+		"message": "Labels"
+	},
+	"twitch.cheers.show_alert": {
+		"message": "Show Alert"
+	},
+	"twitch.cheers.message": {
+		"message": "Message"
+	},
+	"twitch.cheers.show_message": {
+		"message": "Show message"
+	},
+	"twitch.cheers.duration": {
+		"message": "Duration"
+	},
+	"twitch.cheers.millisecond_unit": {
+		"message": "ms"
+	},
+	"twitch.cheers.sound": {
+		"message": "Sound"
+	},
+	"twitch.cheers.preview": {
+		"message": "Preview"
+	},
+	"twitch.cheers.test_alert": {
+		"message": "Test Alert"
+	}
+}

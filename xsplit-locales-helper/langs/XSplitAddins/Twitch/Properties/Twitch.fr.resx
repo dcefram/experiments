@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="frmTwitchProps" xml:space="preserve">
+    <value>Paramètres Twitch</value>
+  </data>
+  <data name="label5" xml:space="preserve">
+    <value>Pour modifier l'état de votre chaîne, vous devez vous connecter à votre compte Twitch en cliquant sur le bouton « Autoriser » ci-dessous.</value>
+  </data>
+  <data name="lblStreamKey" xml:space="preserve">
+    <value>ou clé de diffusion :</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>Pas de compte Twitch ? Inscrivez-vous ici.</value>
+  </data>
+  <data name="msgCantAuthorizeDifferentUser" xml:space="preserve">
+    <value>Vous ne pouvez pas autoriser un autre utilisateur.</value>
+  </data>
+  <data name="msgAuthorizeToPost" xml:space="preserve">
+    <value>Vous devez autoriser XSplit à publier sur votre chaîne Twitch.</value>
+  </data>
+  <data name="msgNotAuthorized" xml:space="preserve">
+    <value>Vous n'êtes pas autorisé à utiliser Twitch.</value>
+  </data>
+  <data name="msgStreamKeyOrPasswordEmpty" xml:space="preserve">
+    <value>Le mot de passe ou la clé stream n'est pas valide ou le serveur peut être en panne. Veuillez réessayer de saisir vos justificatifs.</value>
+  </data>
+  <data name="StreamChannelIsEmpty" xml:space="preserve">
+    <value>Votre chaîne n'est pas encore disponible, ou l'accès est protégé. Veuillez vous assurer que vous avez correctement saisi vos identifiants, que votre chaîne n'a pas de code d'accès et que vous avez correctement configuré votre chaîne sur le site {0}.</value>
+  </data>
+  <data name="InvalidIngestLocationPrompt" xml:space="preserve">
+    <value>Impossible de se connecter à votre serveur d'ingestion préféré. Souhaitez-vous continuer à utiliser le serveur d'ingestion par défaut ?</value>
+  </data>
+  <data name="InvalidIngestLocationTitle" xml:space="preserve">
+    <value>Serveur invalide</value>
+  </data>
+  <data name="msgIngestLocationUnavailable" xml:space="preserve">
+    <value>Le serveur d'ingestion sélectionné n'est plus disponible.</value>
+  </data>
+  <data name="btnNext" xml:space="preserve">
+    <value>Suivant</value>
+  </data>
+  <data name="btnFinish" xml:space="preserve">
+    <value>Terminer</value>
+  </data>
+  <data name="msgDataRateAdjusted" xml:space="preserve">
+    <value>Votre débit de données a été ajusté sur la base du résultat du test de bande passante sur le serveur Twitch.</value>
+  </data>
+  <data name="msgBwTestSuccess" xml:space="preserve">
+    <value>Votre connexion Internet a réussi le test de bande passante pour {0} kbit/s.</value>
+  </data>
+  <data name="msgBwTestFailedOrCancelled" xml:space="preserve">
+    <value>Le test de bande passante avec le serveur Twitch n'a pas été terminé.</value>
+  </data>
+  <data name="msgNoBwTestWarning" xml:space="preserve">
+    <value>Votre débit désiré n'a pas été testé par rapport à votre vitesse de transfert réelle. Continuer quand même ?</value>
+  </data>
+  <data name="lblStreamKey2" xml:space="preserve">
+    <value>Clé de diffusion :</value>
+  </data>
+  <data name="msgAuthorizeDifferentUser1" xml:space="preserve">
+    <value>Vous avez autorisé un utilisateur différent. Voulez-vous configurer votre chaîne avec « {0} » à la place ?</value>
+  </data>
+  <data name="lblHint1" xml:space="preserve">
+    <value>Veuillez saisir vos informations d'identification à Twitch.</value>
+  </data>
+  <data name="lnkSignInViaOAuth" xml:space="preserve">
+    <value>Demander autorisation</value>
+  </data>
+  <data name="msgAuthorizeToPost1" xml:space="preserve">
+    <value>Vous devez autoriser XSplit à accéder à votre chaîne Twitch.</value>
+  </data>
+  <data name="lblHint0" xml:space="preserve">
+    <value>XSplit a détecté qu'aucune chaîne de diffusion n'est actuellement configurée sur votre compte. Lorsque vous vous êtes inscrit à XSplit, votre compte a été associé à Twitch.</value>
+  </data>
+  <data name="rtbAutoIngestResult0" xml:space="preserve">
+    <value>Détermination du meilleur serveur...</value>
+  </data>
+  <data name="rtbAutoIngestResult" xml:space="preserve">
+    <value>Tentative de diffusion sur {0} (?)</value>
+  </data>
+  <data name="lblAutoBitrateResultHighestRes" xml:space="preserve">
+    <value>Les résolutions de diffusion conseillées pour Twitch vont de {0} à {1}. Votre bande passante et votre matériel ont été jugés suffisants pour diffuser à la résolution la plus élevée recommandée. Vos paramètres recommandés sont :</value>
+  </data>
+  <data name="lblAutoBitrateResultMaxRes" xml:space="preserve">
+    <value>Les résolutions de diffusion conseillées pour Twitch vont de {0} à {1}. Votre bande passante et votre matériel ont été jugés suffisants pour diffuser jusqu'à {0}. Vos paramètres recommandés sont :</value>
+  </data>
+  <data name="lblAutoBitrateResultInsufficient" xml:space="preserve">
+    <value>Les résolutions de diffusion conseillées pour Twitch vont de {0} à {1}. Votre {3} peut ne pas suffire à diffuser en {2}. Vos paramètres recommandés sont :</value>
+  </data>
+  <data name="lblHint5" xml:space="preserve">
+    <value>Votre chaîne Twitch est prête à être créée.
+Cliquez sur Terminer pour continuer ou cliquez sur Retour pour modifier vos choix.</value>
+  </data>
+  <data name="lblHint5_Mode0" xml:space="preserve">
+    <value>Votre chaîne Twitch est prête à être finalisée.
+Cliquez sur Terminer pour continuer ou cliquez sur Retour pour modifier vos choix.</value>
+  </data>
+  <data name="chkRecordStream" xml:space="preserve">
+    <value>Enregistrer automatiquement l'enregistrement sur le disque local</value>
+  </data>
+  <data name="PasswordOrStreamKeyMustBeSpecified" xml:space="preserve">
+    <value>Vos devez spécifier un mot de passe ou une clé de diffusion.</value>
+  </data>
+  <data name="StreamKeyMustBeSpecified" xml:space="preserve">
+    <value>Une clé de diffusion doit être spécifiée.</value>
+  </data>
+  <data name="StreamChannelIsEmpty2" xml:space="preserve">
+    <value>Indisponible ou protégé par code d'accès. Utilisez la clé de diffusion à la place.</value>
+  </data>
+  <data name="InvalidChannelCredentials" xml:space="preserve">
+    <value>Un problème est survenu lors de l'authentification. Veuillez vérifier que votre nom d'utilisateur et votre mot de passe sont corrects, que votre chaîne n'est pas code accès protégé, et que votre connexion Internet est correcte.</value>
+  </data>
+  <data name="InvalidChannelCredentials2" xml:space="preserve">
+    <value>Un problème est survenu lors de l'authentification de votre compte. Vérifiez que celui-ci est bien autorisé et que votre connexion à Twitch fonctionne.</value>
+  </data>
+  <data name="UsernameIsUnknown" xml:space="preserve">
+    <value>Votre chaîne n'est pas encore disponible, ou l'accès est protégé. Veuillez vous assurer que vous avez correctement saisi vos identifiants, que votre chaîne n'a pas de code d'accès et que vous avez correctement configuré votre chaîne sur le site de Twitch.</value>
+  </data>
+  <data name="neverShowAgain" xml:space="preserve">
+    <value>Je ne souhaite plus être lié à Twitch.</value>
+  </data>
+  <data name="msgApiLimitExceeded" xml:space="preserve">
+    <value>Limite de requêtes d'API dépassée. Veuillez réessayer plus tard.</value>
+  </data>
+  <data name="lblHint01" xml:space="preserve">
+    <value>Cet assistant vous aidera à configurer votre chaîne Twitch.</value>
+  </data>
+  <data name="rtbTip" xml:space="preserve">
+    <value>{0} pourrait ne pas suffire pour la résolution choisie.</value>
+  </data>
+  <data name="rtbTip_ReqUpload" xml:space="preserve">
+    <value>bande requise (?)</value>
+  </data>
+  <data name="rtbTip_ReqHw" xml:space="preserve">
+    <value>matériel recommandé (?)</value>
+  </data>
+  <data name="rtbTip_ReqUploadAndHw" xml:space="preserve">
+    <value>bande passante requise (?) et matériel recommandé (?)</value>
+  </data>
+  <data name="rtbAutoBitrateResult" xml:space="preserve">
+    <value>Le débit possible pour le serveur cible est de {0} kbps (?)</value>
+  </data>
+  <data name="lblLegendText" xml:space="preserve">
+    <value>Paramètre conseillé</value>
+  </data>
+  <data name="linktip_upload" xml:space="preserve">
+    <value>Les spectateurs souhaitent voir une diffusion vidéo fluide de bonne qualité. 
+La plupart préféreront une vidéo {0} fluide 
+qu'une diffusion en {1} lente et saccadée.</value>
+  </data>
+  <data name="linktip_hardware" xml:space="preserve">
+    <value>Si vous jouez sur une console 
+ou un autre ordinateur connecté via 
+une carte d'acquisition, essayez donc :-)</value>
+  </data>
+  <data name="linktip_ingest" xml:space="preserve">
+    <value>Sur les serveurs cibles disponibles proposés par Twitch, ce serveur est actuellement celui avec les meilleurs temps de réponse. Le serveur variera en fonction du routage, de la congestion, de l'heure du jour et d'autres facteurs externes propres à Internet</value>
+  </data>
+  <data name="linktip_datarate_under" xml:space="preserve">
+    <value>La bande passante entre votre ordinateur 
+et le serveur cible est de {0} kbps, 
+ce qui est suffisant pour {1}.</value>
+  </data>
+  <data name="linktip_datarate_under1" xml:space="preserve">
+    <value>La bande passante entre votre ordinateur 
+est de {0} kbps, 
+ce qui pourrait ne pas suffire pour {1}.</value>
+  </data>
+  <data name="linktip_datarate_over" xml:space="preserve">
+    <value>La bande passante entre votre ordinateur 
+et le serveur cible peut atteindre plus de {0} kbps, 
+soit le débit maximal recommandé pour {1}.</value>
+  </data>
+  <data name="linktip_datarate" xml:space="preserve">
+    <value>La bande passante entre votre ordinateur 
+et le serveur cible peut atteindre {0} kbps, 
+soit le débit maximal recommandé pour {1}.</value>
+  </data>
+  <data name="AutoIngestName" xml:space="preserve">
+    <value>Automatique</value>
+  </data>
+  <data name="lblAutoBitrateResult" xml:space="preserve">
+    <value>En fonction du choix ci-dessous, l'assistant préconfigurera les paramètres de votre chaîne pour correspondre à la résolution souhaitée. Votre résolution conseillée est :</value>
+  </data>
+  <data name="StreamPopup_AutoIngestStatus" xml:space="preserve">
+    <value>Déterminer le serveur cible de la diffusion</value>
+  </data>
+  <data name="StreamPopup_AutoIngestStatus1" xml:space="preserve">
+    <value>Serveur cible trouvé : {0}</value>
+  </data>
+  <data name="StreamPopup_AutoIngestStatus2" xml:space="preserve">
+    <value>Serveur cible de diffusion conseillé :</value>
+  </data>
+  <data name="msgSetToAutomatic" xml:space="preserve">
+    <value>L'option pour configurer l'emplacement d'ingestion requiert la définition du serveur sur « Automatique ». Voulez-vous le faire ?</value>
+  </data>
+  <data name="msgApiError" xml:space="preserve">
+    <value>{0}
+
+Réessayez plus tard.</value>
+  </data>
+  <data name="PasswordMustBeSpecified" xml:space="preserve">
+    <value>Le mot de passe doit être spécifié.</value>
+  </data>
+  <data name="chkConfirmAutoIngestOnBroadcast" xml:space="preserve">
+    <value>Confirmer le serveur d'ingestion avant la diffusion</value>
+  </data>
+  <data name="lblNote" xml:space="preserve">
+    <value>Remarque : Certains paramètres d'encodage peuvent être désactivés pour assurer la compatibilité avec Twitch.</value>
+  </data>
+  <data name="msgLicenseOffer_AAC" xml:space="preserve">
+    <value>Activer l'acoustique d'AAC de qualité supérieure n'est disponible que pour les utilisateurs licenciés de XSplit.[br][br]Mettre à jour votre licence maintenant?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="lnkVbrWarning" xml:space="preserve">
+    <value>Vos paramètres actuels diffèrent de ceux recommandés pour Twitch. Plus de détails ici.</value>
+  </data>
+  <data name="msgBroadcastTerminated" xml:space="preserve">
+    <value>Votre diffusion {0} a été interrompue.
+Vérifiez vos informations d'authentification, notamment votre clé de diffusion, et vérifiez que ces valeurs sont correctes en cliquant sur le bouton « {1} ».</value>
+  </data>
+  <data name="msgConfirmMixerResFpsAdjustment" xml:space="preserve">
+    <value>La zone de mixage va être réglée sur {0}. Appliquer ?</value>
+  </data>
+  <data name="lblAuth" xml:space="preserve">
+    <value>Informations d’identification :</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="rbAuthToken" xml:space="preserve">
+    <value>Authentification Web (recommandé)</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="rbAuthStreamKey" xml:space="preserve">
+    <value>Clé de diffusion</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="lblUsername2" xml:space="preserve">
+    <value>Compte :</value>
+    <comment>Properties; Wizard</comment>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>Autoriser XSplit à utiliser {0}</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>Supprimer l'autorisation</value>
+  </data>
+  <data name="lblSwitchAccount" xml:space="preserve">
+    <value>Changer de compte</value>
+  </data>
+  <data name="msgSwitchToStreamKeyAuthWarning" xml:space="preserve">
+    <value>Cette option enlève l'autorisation du compte actuel.</value>
+  </data>
+  <data name="msg403OnGetChannel" xml:space="preserve">
+    <value>Votre compte Twitch nécessite d'activer la protection à deux facteurs pour pourvoir streamer. [En savoir plus](https://xspl.it/bc/twitch2fa)</value>
+  </data>
+  <data name="btnSetup2FA" xml:space="preserve">
+    <value>Activer le 2FA</value>
+  </data>
+  <data name="lblStreamName2" xml:space="preserve">
+    <value>Clé de diffusion</value>
+  </data>
+</root>

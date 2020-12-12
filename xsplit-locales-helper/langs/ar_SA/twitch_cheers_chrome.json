@@ -1,0 +1,77 @@
+{
+	"twitch.cheers.tabheader": {
+		"message": "إنذار"
+	},
+	"twitch.cheers.source": {
+		"message": "مصدر"
+	},
+	"twitch.cheers.account": {
+		"message": "الحساب"
+	},
+	"twitch.cheers.authorize": {
+		"message": "تخويل XSplit لاستخدام Twitch"
+	},
+	"twitch.cheers.remove_authorization": {
+		"message": "إزالة إذن"
+	},
+	"twitch.cheers.switch_account": {
+		"message": " تبديل الحساب"
+	},
+	"twitch.cheers.not_connected": {
+		"message": "غير متصل"
+	},
+	"twitch.cheers.connected": {
+		"message": "متصل"
+	},
+	"twitch.cheers.error_channel_not_found": {
+		"message": "يرجى تقديم قناة صالحة."
+	},
+	"twitch.cheers.notification": {
+		"message": "اشعار"
+	},
+	"twitch.cheers.lock_components": {
+		"message": "مكونات قفل"
+	},
+	"twitch.cheers.lock_components_help": {
+		"message": "سيؤدي تحديد هذا الخيار إلى تعطيل تحريك الماوس وإعادة تحديد موضع المكونات وتغيير حجمها. [br] حدد هذا الخيار إذا كنت لا تريد عرض تأثيرات التحويم على المكونات ، خاصة أثناء البث أو التسجيل."
+	},
+	"twitch.cheers.show_stats": {
+		"message": "عرض الإحصائيات"
+	},
+	"twitch.cheers.show_stats_help": {
+		"message": "سيؤدي هذا إلى إظهار أعلى وأحدث الهتاف لقناة Twitch. لمسح بيانات الإحصائيات ، قم بفصل القناة والاتصال مرة أخرى. لمنع مسح البيانات عند تبديل المشاهد ، تأكد من فحص \"الاحتفاظ بالمصدر في الذاكرة\"."
+	},
+	"twitch.cheers.opacity": {
+		"message": "الشفافيه"
+	},
+	"twitch.cheers.user_name": {
+		"message": "اسم المستخدم"
+	},
+	"twitch.cheers.labels": {
+		"message": "تسميات"
+	},
+	"twitch.cheers.show_alert": {
+		"message": "عرض تنبيه"
+	},
+	"twitch.cheers.message": {
+		"message": "رسالة"
+	},
+	"twitch.cheers.show_message": {
+		"message": "اظهر الرسالة"
+	},
+	"twitch.cheers.duration": {
+		"message": "المدة الزمنية"
+	},
+	"twitch.cheers.millisecond_unit": {
+		"message": "ms"
+	},
+	"twitch.cheers.sound": {
+		"message": "صوت"
+	},
+	"twitch.cheers.preview": {
+		"message": "معاينة"
+	},
+	"twitch.cheers.test_alert": {
+		"message": "اختبار الانذار"
+	}
+}

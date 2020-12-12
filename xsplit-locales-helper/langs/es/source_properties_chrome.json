@@ -1,0 +1,1415 @@
+{
+	"main.pin": {
+		"message": "Pegajoso"
+	},
+	"main.refresh": {
+		"message": "Actualizar"
+	},
+	"main.keep_in_memory": {
+		"message": "Mantener la fuente en la memoria"
+	},
+	"main.see_linked_sources": {
+		"message": "Fuentes vinculadas"
+	},
+	"main.unlink": {
+		"message": "Unlink"
+	},
+	"main.linked_sources": {
+		"message": "Fuentes vinculadas:"
+	},
+	"main.none": {
+		"message": "'-' No -"
+	},
+	"main.error_details_source": {
+		"message": "El archivo de origen no se encuentra. Puede que se haya cambiado de nombre o eliminado."
+	},
+	"main.go_to_store": {
+		"message": "Ir a Tienda de Plugins"
+	},
+	"main.or": {
+		"message": " o "
+	},
+	"main.browse_file": {
+		"message": "Buscar Archivo"
+	},
+	"main.add_loading": {
+		"message": "Cargando..."
+	},
+	"main.add_text": {
+		"message": "Añadir texto"
+	},
+	"main.add_image_slideshow": {
+		"message": "Añadir Imagen Slideshow"
+	},
+	"main.add_video_playlist": {
+		"message": "Añadir Lista de Reproducción de Vídeo"
+	},
+	"main.add_skype_ndi": {
+		"message": "Añadir NDI de Skype"
+	},
+	"main.add_plugin": {
+		"message": "Añadir %plugin_name%"
+	},
+	"main.ok": {
+		"message": "Ok"
+	},
+	"main.cancel": {
+		"message": "Cancelar"
+	},
+	"main.disable_audio_wrapper_warning": {
+		"message": "Se recomienda deshabilitar audio envoltura[br]mientras \"Uso Flash sonido control nativo\" está activado en Configuración."
+	},
+	"main.win7_aero_desktop_capture_warning": {
+		"message": "Captura de escritorio de Aero no es recomendable y puede afectar al rendimiento de XSplit. Si captura de escritorio es necesario, cambie el tema a Windows 7 Basic. Leer más [aquí](https://xspl.it/bc/jn2qeo)."
+	},
+	"main.ndi_in_beta": {
+		"message": "Fuente NDI todavía está en beta. Render de audio aún no es compatible."
+	},
+	"main.ndi_in_beta_audio_supported": {
+		"message": "Fuente NDI todavía está en beta."
+	},
+	"main.ndi_audio_not_supported": {
+		"message": "Render de audio aún no es compatible."
+	},
+	"main.file_contains_ac3": {
+		"message": "Este archivo contiene el audio codificado en AC3. XSplit y Microsoft no proporcionan una licencia para decodificación AC3 audio. Para decodificar AC3, puede descargar e instalar [este filtro](https://xspl.it/orsexj) y luego actualizar source.[br]Disclaimer: es bajo su propio riesgo y deberá ser instalado solamente si usted tiene los derechos necesarios para descargar y usar (leer sus condiciones de uso)."
+	},
+	"main.flash_player_not_installed_outdated": {
+		"message": "Flash Player no está instalado o no está actualizado. [Descarga o actualiza Flash Player a la última versión](https://xspl.it/getflash)"
+	},
+	"main.sync_with_elgato": {
+		"message": "Para sincronizar esta fuente con la demora adicional de su %device% (en la misma escena), usted necesita agregar ms %elgatodelay% a la demora."
+	},
+	"main.stream_only_unsupported": {
+		"message": "La función Stream Only sólo es compatible con Windows 10 en adelante."
+	},
+	"main.help.linked_sources_title": {
+		"message": "Fuentes vinculadas"
+	},
+	"main.help.linked_sources_message": {
+		"message": "Fuentes vinculadas son fuentes que son globales a través de una o más escenas. Siempre comparten el mismo nombre y siempre tienen una resolución fija. Consulte \"mantener la fuente en la memoria\" en las propiedades de una instancia de una fuente vinculada a mantener las fuentes enlazadas cargadas en memoria."
+	},
+	"main.audio_output_options_system_sound": {
+		"message": "Sistema de Sonido"
+	},
+	"main.audio_output_options_stream_only": {
+		"message": "Solo stream"
+	},
+	"main.audio_output_options_stream_only_unsupported": {
+		"message": "Solo stream"
+	},
+	"main.audio_output_options_stream_only_install": {
+		"message": "Stream sólo (instalación)"
+	},
+	"main.audio_output_options_default_speakers": {
+		"message": "Altavoces por defecto"
+	},
+	"main.when_finished_options_nothing": {
+		"message": "Nada"
+	},
+	"main.when_finished_options_rewind": {
+		"message": "Rewind"
+	},
+	"main.when_finished_options_loop": {
+		"message": "Repetir"
+	},
+	"main.when_finished_options_hide": {
+		"message": "Ocultar"
+	},
+	"main.when_finished_options_transparent": {
+		"message": "Transparente"
+	},
+	"tabheader.color": {
+		"message": "Color"
+	},
+	"tabheader.layout": {
+		"message": "Interfaz"
+	},
+	"tabheader.transition": {
+		"message": "Efectos"
+	},
+	"tabheader.debug": {
+		"message": "Debug"
+	},
+	"tabheader.video_playlist": {
+		"message": "Lista de reproducción"
+	},
+	"tabheader.ip_cam": {
+		"message": "Cámara IP"
+	},
+	"tabheader.media": {
+		"message": "Media"
+	},
+	"tabheader.audio": {
+		"message": "Audio"
+	},
+	"tabheader.cam": {
+		"message": "Cámara"
+	},
+	"tabheader.title": {
+		"message": "Título"
+	},
+	"tabheader.screen": {
+		"message": "Pantalla"
+	},
+	"tabheader.stream": {
+		"message": "Stream"
+	},
+	"tabheader.swf": {
+		"message": "SWF"
+	},
+	"tabheader.skype": {
+		"message": "Skype"
+	},
+	"tabheader.game": {
+		"message": "Juego"
+	},
+	"tabheader.text": {
+		"message": "Texto"
+	},
+	"tabheader.slideshow": {
+		"message": "Presentación de Diapositivas"
+	},
+	"tabheader.hotkeys": {
+		"message": "Atajos Rápidos"
+	},
+	"tabheader.whiteboard": {
+		"message": "Pizarra"
+	},
+	"tabheader.html": {
+		"message": "HTML"
+	},
+	"tabheader.rtmp": {
+		"message": "RTMP"
+	},
+	"tabheader.ndi": {
+		"message": "NDI"
+	},
+	"tabheader.tobii": {
+		"message": "Tobii"
+	},
+	"tabheader.replay": {
+		"message": "Repetir"
+	},
+	"tabheader.scene": {
+		"message": "Escena"
+	},
+	"colortab.picture": {
+		"message": "Imagen"
+	},
+	"colortab.keying": {
+		"message": "Keying"
+	},
+	"colortab.reset": {
+		"message": "Reiniciar"
+	},
+	"colortab.none": {
+		"message": "Ninguno"
+	},
+	"colortab.chroma_key": {
+		"message": "Chroma Key"
+	},
+	"colortab.color_key": {
+		"message": "Clave de Color"
+	},
+	"colortab.quality": {
+		"message": "Calidad"
+	},
+	"colortab.real_sense": {
+		"message": "Intel&reg; RealSense&trade;"
+	},
+	"colortab.realsense_info": {
+		"message": "Su Intel&reg; RealSense&trade; habilita 3D cámara automáticamente quita su fondo sin el uso de una pantalla verde."
+	},
+	"colortab.realsense_not_installed": {
+		"message": "Componentes requeridos para el uso de Intel&reg; RealSense&trade; remoción del fondo no se detecta. [Iniciar a instalador Intel RealSense SDK](%link%) (todos los componentes necesarios para la utilización del programa XSplit han sido previamente seleccionados)."
+	},
+	"colortab.realsense_error": {
+		"message": "Algunos requieren componentes para el uso de Intel&reg; RealSense&trade; remoción del fondo pueden no instalarse correctamente. [Leer este post](https://xspl.it/realsense) para obtener más información."
+	},
+	"colortab.legacy": {
+		"message": "Legacy Mode"
+	},
+	"colortab.keycolor": {
+		"message": "Color Clave"
+	},
+	"colortab.anti_aliasing": {
+		"message": "Anti-aliasing"
+	},
+	"colortab.eyedrop": {
+		"message": "Herramienta cuentagotas"
+	},
+	"colortab.copy_color_settings": {
+		"message": "Copiar la Configuración Clave de Croma"
+	},
+	"colortab.paste_color_settings": {
+		"message": "Pegar ajustes de Clave Chroma"
+	},
+	"colortab.help.full_dynamic_range_title": {
+		"message": "Rango dinámico completo"
+	},
+	"colortab.help.full_dynamic_range_message": {
+		"message": "Rango dinámico completo es una configuración global para cada dispositivo/tarjeta de captura de cámara utilizada como fuente."
+	},
+	"colortab.enable_full_dynamic_range": {
+		"message": "Rango dinámico completo"
+	},
+	"colortab.apply_globally": {
+		"message": "Se aplican a todas las fuentes enlazadas"
+	},
+	"colortab.help.smartcam_quality_title": {
+		"message": "Calidad"
+	},
+	"colortab.help.smartcam_quality_message": {
+		"message": "Cuanto mayor sea la calidad, el mayor uso de CPU (1 - 5/baja - alta)"
+	},
+	"colortab.key_color_options_green": {
+		"message": "Verde"
+	},
+	"colortab.key_color_options_red": {
+		"message": "Rojo"
+	},
+	"colortab.key_color_options_blue": {
+		"message": "Azul"
+	},
+	"colortab.anti_aliasing_options_high": {
+		"message": "Alta"
+	},
+	"colortab.anti_aliasing_options_low": {
+		"message": "Bajo"
+	},
+	"colortab.anti_aliasing_options_none": {
+		"message": "Ninguno"
+	},
+	"colortab.no_greenscreen": {
+		"message": "¿No tienes una pantalla verde?"
+	},
+	"colortab.try_vcam": {
+		"message": "¡Prueba XSplit VCam!"
+	},
+	"layouttab.position": {
+		"message": "Posición"
+	},
+	"layouttab.3d": {
+		"message": "Transformación 2D/3D"
+	},
+	"layouttab.cropping": {
+		"message": "Cortar"
+	},
+	"layouttab.source_rotate": {
+		"message": "Para 3D-girar su fuente, presione la tecla Mayús mientras arrastra el ratón"
+	},
+	"layouttab.x": {
+		"message": "X"
+	},
+	"layouttab.y": {
+		"message": "Y"
+	},
+	"layouttab.z": {
+		"message": "Z"
+	},
+	"layouttab.rotate": {
+		"message": "Gire"
+	},
+	"layouttab.flip": {
+		"message": "Inverta"
+	},
+	"layouttab.counter_clockwise": {
+		"message": "Manecillas del reloj"
+	},
+	"layouttab.clockwise": {
+		"message": "Hacia la derecha"
+	},
+	"layouttab.width": {
+		"message": "Anchura"
+	},
+	"layouttab.height": {
+		"message": "Altura"
+	},
+	"layouttab.reset": {
+		"message": "Reiniciar"
+	},
+	"layouttab.crop_alt_key": {
+		"message": "Trate arrastrando contornos de la fuente con la tecla ALT presionada"
+	},
+	"layouttab.top": {
+		"message": "Superior"
+	},
+	"layouttab.bottom": {
+		"message": "Inferior"
+	},
+	"layouttab.left": {
+		"message": "Izquierda"
+	},
+	"layouttab.right": {
+		"message": "Derecha"
+	},
+	"layouttab.autocrop": {
+		"message": "Auto Corte"
+	},
+	"layouttab.keep_aspect_ratio": {
+		"message": "Mantener Relación de Aspecto"
+	},
+	"layouttab.lock_position": {
+		"message": "Bloquear Posición"
+	},
+	"layouttab.enhance_resize": {
+		"message": "Aumentar Tamaño"
+	},
+	"layouttab.pan_360": {
+		"message": "Proyección 360"
+	},
+	"layouttab.help.pan_360_message": {
+		"message": "Habilita la \"Posición de bloqueo\" para interactuar. Haz girar la rueda del ratón para ampliar, hacer clic y arrastrar al panel."
+	},
+	"transitiontab.masking": {
+		"message": "Enmascaramiento"
+	},
+	"transitiontab.none": {
+		"message": "Ninguno"
+	},
+	"transitiontab.shape": {
+		"message": "Forma"
+	},
+	"transitiontab.file": {
+		"message": "Archivo"
+	},
+	"transitiontab.filters": {
+		"message": "Filtros"
+	},
+	"transitiontab.effects": {
+		"message": "Transición"
+	},
+	"transitiontab.shadow": {
+		"message": "Sombra"
+	},
+	"transitiontab.size": {
+		"message": "Tamaño"
+	},
+	"transitiontab.radius": {
+		"message": "Radio"
+	},
+	"transitiontab.opacity": {
+		"message": "Opacidad"
+	},
+	"transitiontab.border": {
+		"message": "Frontera"
+	},
+	"transitiontab.color": {
+		"message": "Color"
+	},
+	"transitiontab.reset": {
+		"message": "Reiniciar"
+	},
+	"transitiontab.offset_x": {
+		"message": "Offset X"
+	},
+	"transitiontab.blur": {
+		"message": "Desenfoque"
+	},
+	"transitiontab.offset_y": {
+		"message": "Offset Y"
+	},
+	"transitiontab.mask_source": {
+		"message": "Máscara a la fuente"
+	},
+	"transitiontab.mask_stage": {
+		"message": "Máscara para organizar"
+	},
+	"transitiontab.image_mask_file": {
+		"message": "Archivo de la máscara de imagen"
+	},
+	"transitiontab.show_masking_guide": {
+		"message": "Ver Guía de enmascaramiento"
+	},
+	"transitiontab.re2_mode": {
+		"message": "Transiciones de fuente son compatibles en modo de RE2."
+	},
+	"transitiontab.config_text": {
+		"message": "Por defecto, la transición funciona cuando Mostrar u ocultan una fuente en una escena (comprobar o desactive la casilla de verificación en la la lista de fuentes). Usted también puede optar por aplicar la transición de escena entrar o salir. Sin embargo, transición de fuente no se disparará si transición de la escena principal se establece en 'Ninguno'. Si necesita hacer un corte para la transición principal y aplicar transiciones de la fuente, entonces el conjunto de transiciones principal 'Corte' en lugar de 'None'."
+	},
+	"transitiontab.transition": {
+		"message": "Transición"
+	},
+	"transitiontab.speed": {
+		"message": "Velocidad"
+	},
+	"transitiontab.speed_unit": {
+		"message": "ms"
+	},
+	"transitiontab.preview_label": {
+		"message": "Previsualización"
+	},
+	"transitiontab.no_available_preview": {
+		"message": "No hay vista previa disponible"
+	},
+	"transitiontab.on_scene_exit": {
+		"message": "En la salida de escena"
+	},
+	"transitiontab.on_scene_enter": {
+		"message": "Entrar en escena"
+	},
+	"transitiontab.lut_file": {
+		"message": "Archivo LUT"
+	},
+	"transitiontab.browse": {
+		"message": "Buscar"
+	},
+	"transitiontab.intensity": {
+		"message": "Intensidad del Efecto"
+	},
+	"transitiontab.bloom_intensity": {
+		"message": "Bloom intensity"
+	},
+	"transitiontab.magnify_amount": {
+		"message": "Magnify amount"
+	},
+	"transitiontab.blur_amount": {
+		"message": "Intensidad del Blur"
+	},
+	"transitiontab.filters_none": {
+		"message": "Sin filtro"
+	},
+	"transitiontab.filters_sharpen": {
+		"message": "Sharpen"
+	},
+	"transitiontab.filters_smoothen": {
+		"message": "Smoothen"
+	},
+	"transitiontab.filters_cool": {
+		"message": "Frio"
+	},
+	"transitiontab.filters_warm": {
+		"message": "Cálido"
+	},
+	"transitiontab.filters_bloom": {
+		"message": "Resplandeciente"
+	},
+	"transitiontab.filters_mono": {
+		"message": "Monochrome"
+	},
+	"transitiontab.filters_color_tint": {
+		"message": "Color Tint"
+	},
+	"transitiontab.filters_invert": {
+		"message": "Invertir Color"
+	},
+	"transitiontab.filters_old_movie": {
+		"message": "Película antigua"
+	},
+	"transitiontab.filters_sketch": {
+		"message": "Sketch"
+	},
+	"transitiontab.filters_magnify": {
+		"message": "Magnify"
+	},
+	"transitiontab.filters_blur": {
+		"message": "Desenfoque"
+	},
+	"transitiontab.filters_custom": {
+		"message": "Custom LUT"
+	},
+	"transitiontab.luts_article": {
+		"message": "What are LUTs?"
+	},
+	"transitiontab.transition_select_options_none": {
+		"message": "Ninguno"
+	},
+	"transitiontab.transition_select_options_clock": {
+		"message": "Reloj"
+	},
+	"transitiontab.transition_select_options_collapse": {
+		"message": "Colapso"
+	},
+	"transitiontab.transition_select_options_ease_in_out_back": {
+		"message": "Entrada y salida"
+	},
+	"transitiontab.transition_select_options_ease_out_bounce": {
+		"message": "Salida de salto"
+	},
+	"transitiontab.transition_select_options_ease_out_elastic": {
+		"message": "Salida elástica"
+	},
+	"transitiontab.transition_select_options_fade": {
+		"message": "Desvanecer"
+	},
+	"transitiontab.transition_select_options_fan": {
+		"message": "Ventilador"
+	},
+	"transitiontab.transition_select_options_hole": {
+		"message": "Agujero"
+	},
+	"transitiontab.transition_select_options_move_left": {
+		"message": "Mover izquierda"
+	},
+	"transitiontab.transition_select_options_move_right": {
+		"message": "Moverse a la derecha"
+	},
+	"transitiontab.transition_select_options_move_left_right": {
+		"message": "Mover izquierda y derecha"
+	},
+	"transitiontab.transition_select_options_move_top": {
+		"message": "Mover arriba"
+	},
+	"transitiontab.transition_select_options_move_bottom": {
+		"message": "Mover abajo"
+	},
+	"transitiontab.transition_select_options_move_top_bottom": {
+		"message": "Mover abajo"
+	},
+	"transitiontab.transition_select_options_wave": {
+		"message": "Onda"
+	},
+	"transitiontab.transition_select_options_zoom": {
+		"message": "Ampliar"
+	},
+	"debugtab.title": {
+		"message": "Debug"
+	},
+	"debugtab.videoitem_id": {
+		"message": "Videoitem ID"
+	},
+	"debugtab.src_id": {
+		"message": "Source ID"
+	},
+	"debugtab.src_type": {
+		"message": "Source Type"
+	},
+	"debugtab.copy": {
+		"message": "Copiar"
+	},
+	"debugtab.type_undefined": {
+		"message": "Undefined"
+	},
+	"debugtab.type_file": {
+		"message": "Archivo"
+	},
+	"debugtab.type_live": {
+		"message": "En vivo"
+	},
+	"debugtab.type_text": {
+		"message": "Texto"
+	},
+	"debugtab.type_image": {
+		"message": "Image"
+	},
+	"debugtab.type_screen": {
+		"message": "Pantalla"
+	},
+	"debugtab.type_swf": {
+		"message": "SWF"
+	},
+	"debugtab.type_game": {
+		"message": "Juego"
+	},
+	"debugtab.type_html": {
+		"message": "HTML"
+	},
+	"debugtab.type_3ds": {
+		"message": "3DS"
+	},
+	"debugtab.type_ppt": {
+		"message": "Presentation"
+	},
+	"debugtab.type_scene": {
+		"message": "Escena"
+	},
+	"debugtab.type_group": {
+		"message": "Grupo"
+	},
+	"debugtab.type_replay": {
+		"message": "Repetir"
+	},
+	"debugtab.type_view": {
+		"message": "View"
+	},
+	"camtab.processing": {
+		"message": "Cambiando fuente..."
+	},
+	"camtab.updating_settings": {
+		"message": "Actualizando la configuración..."
+	},
+	"camtab.playback": {
+		"message": "Reproducción"
+	},
+	"camtab.device_configuration": {
+		"message": "Configuración del dispositivo"
+	},
+	"camtab.delay": {
+		"message": "Retraso (ms)"
+	},
+	"camtab.audio_input": {
+		"message": "Entrada de audio"
+	},
+	"camtab.audio_output": {
+		"message": "Salida de audio"
+	},
+	"camtab.offset": {
+		"message": "Offset (ms)"
+	},
+	"camtab.offset_text": {
+		"message": "(Sincronización de audio vídeo)"
+	},
+	"camtab.silence_detection": {
+		"message": "Detectar Silencio"
+	},
+	"camtab.threshold": {
+		"message": "Umbral"
+	},
+	"camtab.silence_period": {
+		"message": "Período de Silencio (ms)"
+	},
+	"camtab.camera_source": {
+		"message": "Fuente de la cámara"
+	},
+	"camtab.camera_source_audio": {
+		"message": "Fuente de Audio"
+	},
+	"camtab.configure_text": {
+		"message": "Para configurar la configuración de %device_name%, haga clic en el botón de abajo. "
+	},
+	"camtab.auto_logitech": {
+		"message": "Utilizar la configuración estándar"
+	},
+	"camtab.manual_logitech": {
+		"message": "Configurar manualmente"
+	},
+	"camtab.configure": {
+		"message": "Configurar"
+	},
+	"camtab.priority": {
+		"message": "Prioridad"
+	},
+	"camtab.frame_rate_priority_logitech": {
+		"message": "Fotogramas por segundo"
+	},
+	"camtab.exposure_priority_logitech": {
+		"message": "Exposición"
+	},
+	"camtab.field_of_view": {
+		"message": "Campo de visión"
+	},
+	"camtab.orientation": {
+		"message": "Orientación"
+	},
+	"camtab.orientation_disabled": {
+		"message": "Discapacitado"
+	},
+	"camtab.orientation_portrait": {
+		"message": "Retrato"
+	},
+	"camtab.orientation_landscape": {
+		"message": "Paisaje"
+	},
+	"camtab.orientation_auto": {
+		"message": "Orientación automática"
+	},
+	"camtab.enable_hdr": {
+		"message": "Activar"
+	},
+	"camtab.hdr": {
+		"message": "HDR (High Dynamic Range)"
+	},
+	"camtab.help.hdr": {
+		"message": "Al habilitar esta opción se mejora la calidad de video para todas las condiciones de iluminación - luz baja, luz brillante, luz de alto contraste, retroiluminación. Funciona con 30fps y menos"
+	},
+	"camtab.video_source": {
+		"message": "Entrada de video"
+	},
+	"camtab.video_capture_pin": {
+		"message": "Salida de vídeo"
+	},
+	"camtab.tv_tuner": {
+		"message": "Sintonizador de TV"
+	},
+	"camtab.video_cross_bar1": {
+		"message": "Cross Bar"
+	},
+	"camtab.video_cross_bar2": {
+		"message": "Cross Bar 2"
+	},
+	"camtab.vfw_capture_source": {
+		"message": "Entrada de VFW"
+	},
+	"camtab.vfw_capture_format": {
+		"message": "Formato VFW"
+	},
+	"camtab.vfw_capture_display": {
+		"message": "Pantalla de VFW"
+	},
+	"camtab.hw_video_encoder": {
+		"message": "Codificador de vídeo HW"
+	},
+	"camtab.hw_audio_encoder": {
+		"message": "Codificador de Audio HW"
+	},
+	"camtab.hw_mux": {
+		"message": "HW MUX"
+	},
+	"camtab.audio_source": {
+		"message": "Entrada de audio"
+	},
+	"camtab.audio_capture_pin": {
+		"message": "Salida de audio"
+	},
+	"camtab.tv_audio": {
+		"message": "TV Audio"
+	},
+	"camtab.video_renderer": {
+		"message": "Procesador de video"
+	},
+	"camtab.audio_renderer": {
+		"message": "Procesador de audio"
+	},
+	"camtab.force_deinterlace": {
+		"message": "Forzar Desentrelace"
+	},
+	"camtab.auto_configure": {
+		"message": "Permitir XSplit configurar auto"
+	},
+	"camtab.use_black_magic_wdm": {
+		"message": "Usa la captura Blackmagic WDM"
+	},
+	"camtab.description": {
+		"message": "Para obtener información sobre cómo utilizar con XSplit, visite:"
+	},
+	"camtab.avermedia.partnersite1_description": {
+		"message": "AVerMedia Live Gamer HD C985 página"
+	},
+	"camtab.avermedia.partnersite2_description": {
+		"message": "AVerMedia C875 Live Gamer Portable Página"
+	},
+	"camtab.elgato.partnersite1_description": {
+		"message": "Sitio de Elgato Game Capture"
+	},
+	"camtab.elgato.partnersite2_description": {
+		"message": "Página de Soporte de Elgato"
+	},
+	"camtab.roxio.partnersite1_description": {
+		"message": "Sitio web de Roxio"
+	},
+	"camtab.roxio.partnersite2_description": {
+		"message": "Página de Roxio Game Capture"
+	},
+	"camtab.xsplit_support_page": {
+		"message": "Página de soporte de XSplit"
+	},
+	"camtab.youtube": {
+		"message": "%name% Youtube"
+	},
+	"camtab.audio_input_options_builtin": {
+		"message": "Construido en"
+	},
+	"camtab.audio_input_options_none": {
+		"message": "Ninguno"
+	},
+	"gametab.game_source": {
+		"message": "Game Source"
+	},
+	"gametab.show_mouse": {
+		"message": "Mostrar el cursor del ratón"
+	},
+	"gametab.enable_special_optimization": {
+		"message": "Activar Optimización Especial"
+	},
+	"gametab.unable_to_set": {
+		"message": "(no se puede establecer la optimización)"
+	},
+	"gametab.special_optimization_hint": {
+		"message": "(desactivar la optimización especial para evitar el tartamudeo en Crossfire/SLI)"
+	},
+	"gametab.enable_playback_smoothness": {
+		"message": "Activar Marco Suavizado"
+	},
+	"gametab.allow_transparency": {
+		"message": "Permitir transparencia"
+	},
+	"gametab.playback_smoothness": {
+		"message": "Factor FPS (%)"
+	},
+	"gametab.limit_game_fps": {
+		"message": "Captura de FPS del juego:"
+	},
+	"gametab.offline_image": {
+		"message": "Imágenes Desconectado"
+	},
+	"gametab.offline_image_description": {
+		"message": "La imagen sin conexión se mostrará si no se detecta el juego o fuente (dejarlo vacío para hacer GameSource transparente)"
+	},
+	"mediatab.playback": {
+		"message": "Reproducción"
+	},
+	"mediatab.audio_output": {
+		"message": "Salida de audio"
+	},
+	"mediatab.start_at": {
+		"message": "Empezar en"
+	},
+	"mediatab.set": {
+		"message": "Establecer"
+	},
+	"mediatab.end_at": {
+		"message": "Terminar en"
+	},
+	"mediatab.reset": {
+		"message": "Reiniciar"
+	},
+	"mediatab.play": {
+		"message": "Play"
+	},
+	"mediatab.play_options_once": {
+		"message": "Una Vez"
+	},
+	"mediatab.play_options_forever": {
+		"message": "Para siempre"
+	},
+	"mediatab.play_options_custom": {
+		"message": "Personalizar..."
+	},
+	"mediatab.loop_times": {
+		"message": "veces"
+	},
+	"mediatab.when_finished": {
+		"message": "Al terminar"
+	},
+	"mediatab.start_on_load": {
+		"message": "Reproducir al entrar en escena"
+	},
+	"mediatab.play_on_show": {
+		"message": "Forzar la reproducción en el programa fuente"
+	},
+	"mediatab.remember_playback_position": {
+		"message": "Recordar posición de la reproducción"
+	},
+	"mediatab.force_deinterlace": {
+		"message": "Forzar desentrelace"
+	},
+	"mediatab.show_playback_position": {
+		"message": "Mostrar la posición de reproducción"
+	},
+	"mediatab.cuepoints": {
+		"message": "Puntos de referencia"
+	},
+	"mediatab.add_to_cuepoints": {
+		"message": "Añadir a los puntos de referencia"
+	},
+	"mediatab.add": {
+		"message": "Añadir"
+	},
+	"mediatab.saved_cue_points": {
+		"message": "Guardar puntos de referencia"
+	},
+	"mediatab.cue_point_type.cue_point": {
+		"message": "Punto de referencia"
+	},
+	"mediatab.cue_point_type.start": {
+		"message": "Comenzar"
+	},
+	"mediatab.cue_point_type.end": {
+		"message": "Finalizar"
+	},
+	"mediatab.cue_point_type.cut": {
+		"message": "Cortar"
+	},
+	"mediatab.cue_point_type.pause": {
+		"message": "Pausa"
+	},
+	"mediatab.cue_point_type.resume": {
+		"message": "Continuar"
+	},
+	"mediatab.change": {
+		"message": "Cambiar..."
+	},
+	"mediatab.cue_point_options_resume": {
+		"message": "Continuar"
+	},
+	"mediatab.cue_point_options_pause": {
+		"message": "Pausa"
+	},
+	"mediatab.cue_point_options_cut": {
+		"message": "Cortar"
+	},
+	"mediatab.help.loop_times_title": {
+		"message": "Juego personalizado"
+	},
+	"mediatab.help.loop_times_message": {
+		"message": "Establecer un nuevo valor de juego personalizado restablecerá el contador a 1 juego."
+	},
+	"picturetab.mediasource": {
+		"message": "Fuente de los medios de comunicación"
+	},
+	"screentab.processing": {
+		"message": "Cambiando fuente..."
+	},
+	"screentab.window_capture": {
+		"message": "Captura de ventana"
+	},
+	"screentab.desktop_capture": {
+		"message": "Captura de Desktop"
+	},
+	"screentab.area": {
+		"message": "Área"
+	},
+	"screentab.capture_options": {
+		"message": "Opciones de Captura"
+	},
+	"screentab.x": {
+		"message": "X"
+	},
+	"screentab.y": {
+		"message": "Y"
+	},
+	"screentab.width": {
+		"message": "Anchura"
+	},
+	"screentab.height": {
+		"message": "Altura"
+	},
+	"screentab.client_area": {
+		"message": "Área de Cliente"
+	},
+	"screentab.track_window_title": {
+		"message": "Se adhieren a Título"
+	},
+	"screentab.window_source": {
+		"message": "Fuente de la Ventana"
+	},
+	"screentab.desktop_source": {
+		"message": "Fuente del escritorio"
+	},
+	"screentab.screen_capture": {
+		"message": "Captura de Pantalla"
+	},
+	"screentab.exclude_xsplit_window": {
+		"message": "Excluir XSplit de la captura de pantalla"
+	},
+	"screentab.optimize_window_capture": {
+		"message": "Captura de Ventana Exclusiva"
+	},
+	"screentab.capture_layered_windows": {
+		"message": "Capture Capas de Windows[br] (Desmarque esto para evitar el parpadeo del ratón)"
+	},
+	"screentab.not_supported": {
+		"message": "(no soportado por el sistema)"
+	},
+	"screentab.gpu_optimized": {
+		"message": "GPU optimizado"
+	},
+	"screentab.show_mouse": {
+		"message": "Mostrar el cursor del ratón"
+	},
+	"screentab.show_mouse_clicks": {
+		"message": "Mostrar clicks del ratón"
+	},
+	"screentab.fix_black_capture": {
+		"message": "Arreglar captura en negro"
+	},
+	"screentab.reset": {
+		"message": "Reiniciar"
+	},
+	"skytab.skype": {
+		"message": "Skype"
+	},
+	"skytab.offline_image": {
+		"message": "Imágenes Desconectado"
+	},
+	"skytab.offline_image_description": {
+		"message": "La imagen sin conexión se mostrará si no se detecta un vídeo de Skype (dejarlo vacío para que la fuente de Skype hace transparente)"
+	},
+	"skytab.source_flicker": {
+		"message": "La fuente de Skype puede variar debido a:"
+	},
+	"skytab.multiple_calls": {
+		"message": "varias llamadas (incluidas las llamadas en espera)"
+	},
+	"skytab.skype_show_call_cotrols": {
+		"message": "activas &quot;Muestra los controles de llamada cuando Skype está en segundo plano:&quot; en Opciones de Skype -> Configuración de llamadas -> Avanzado"
+	},
+	"skytab.ndi_skype_enable": {
+		"message": "Cómo habilitar el NDI en Skype:"
+	},
+	"skytab.ndi_multiple_calls": {
+		"message": "Versión mínima requerida - Skype Preview 8.28.76.42"
+	},
+	"skytab.ndi_skype_show_call_cotrols": {
+		"message": "Al activarlo &quot;permite el uso del NDI&quot; en Opciones de Skype -> Configuración de llamadas -> Avanzado"
+	},
+	"skytab.skypeId": {
+		"message": "ID de Skype:"
+	},
+	"skytab.computerName": {
+		"message": "Nombre del equipo:"
+	},
+	"skytab.skypeNdiLink": {
+		"message": "Más información sobre el NDI de Skype"
+	},
+	"skytab.apply": {
+		"message": "Aplicar"
+	},
+	"skytab.search.help.message": {
+		"message": "Introduce el nombre del equipo y el ID de Skype o la fuente del NDI de Skype, o haz clic en la lupa para buscar las fuentes del NDI de Skype disponibles en tu red. Haz clic en Aplicar para conectarte a la fuente."
+	},
+	"skytab.search.help.title": {
+		"message": "Fuente del NDI de Skype"
+	},
+	"skytab.skype_available_ndi_sources": {
+		"message": "Fuentes disponibles del NDI de Skype"
+	},
+	"skytab.no_ndi_label": {
+		"message": "No se detectaron llamadas del NDI de Skype"
+	},
+	"streamtab.playback": {
+		"message": "Reproducción"
+	},
+	"streamtab.audio_output": {
+		"message": "Salida de audio"
+	},
+	"streamtab.use_rtmp_flash": {
+		"message": "Utilizar flash para la reproducción"
+	},
+	"streamtab.stream_source": {
+		"message": "Fuente del Stream"
+	},
+	"streamtab.stream_name": {
+		"message": "Nombre del Stream"
+	},
+	"streamtab.delay": {
+		"message": "Buffer del stream (segs)"
+	},
+	"streamtab.protocol": {
+		"message": "Protocolo"
+	},
+	"streamtab.protocol_tooltip": {
+		"message": "Establece el protocolo de transporte RTSP de bajo nivel.[br][br] Si observas tartamudeo o desincronización, trata de cambiar el protocolo de TCP a UDP. Si está bloqueado por un firewall, trata de configurar el protocolo a HTTP."
+	},
+	"streamtab.apply": {
+		"message": "Aplicar"
+	},
+	"nditab.playback": {
+		"message": "Reproducción"
+	},
+	"nditab.audio_output": {
+		"message": "Salida de audio"
+	},
+	"nditab.ndi_source": {
+		"message": "Fuente del Stream"
+	},
+	"nditab.quality": {
+		"message": "Calidad"
+	},
+	"nditab.standard": {
+		"message": "Estándar"
+	},
+	"nditab.maximum": {
+		"message": "Máximo"
+	},
+	"nditab.apply": {
+		"message": "Aplicar"
+	},
+	"replaytab.saveToDisk": {
+		"message": "Save to disk"
+	},
+	"replaytab.saveToDiskOnPlayback": {
+		"message": "Save to disk on playback"
+	},
+	"replaytab.source": {
+		"message": "Fuente"
+	},
+	"replaytab.no_output": {
+		"message": "No hay salida seleccionada"
+	},
+	"replaytab.output_live": {
+		"message": "La salida está en vivo"
+	},
+	"replaytab.output_offline": {
+		"message": "La salida aún no está en vivo"
+	},
+	"replaytab.connect_to": {
+		"message": "Conectar a"
+	},
+	"replaytab.help.connect_to_title": {
+		"message": "Conectar a"
+	},
+	"replaytab.help.connect_to_message": {
+		"message": "Elige una salida a la que puedas conectar esta fuente de reproducción. La configuración Auto permite que esta reproducción se conecte a la siguiente salida inmediata que inicie la transmisión."
+	},
+	"replaytab.help.save_playback_title": {
+		"message": "Save replay to disk on playback"
+	},
+	"replaytab.help.save_playback_message": {
+		"message": "Saves a copy of your replay to your default recording folder."
+	},
+	"replaytab.help.saveToDisk_title": {
+		"message": "Save to disk"
+	},
+	"replaytab.help.saveToDisk_message": {
+		"message": "Saves your replay buffer to disk without showing it on your stream."
+	},
+	"replaytab.replay": {
+		"message": "Repetir"
+	},
+	"replaytab.hotkey": {
+		"message": "Teclas de acceso rápido"
+	},
+	"replaytab.replayTime": {
+		"message": "Tiempo de reproducción"
+	},
+	"replaytab.bufferLength": {
+		"message": "Buffer Length"
+	},
+	"replaytab.playback": {
+		"message": "Reproducción"
+	},
+	"replaytab.seconds": {
+		"message": "segundos"
+	},
+	"replaytab.start_on_load": {
+		"message": "Reproducir al entrar en escena"
+	},
+	"replaytab.audio_output": {
+		"message": "Salida de audio"
+	},
+	"replaytab.display": {
+		"message": "Pantalla"
+	},
+	"scenetab.display": {
+		"message": "Pantalla"
+	},
+	"scenetab.scene": {
+		"message": "Fuente de escena"
+	},
+	"scenetab.scene_description": {
+		"message": "Para editar la fuente de esta escena, cambia a la escena de referencia.[br][br] Alternativamente, si quieres editar sin cambio de escenas, utiliza el modo de Split o el Editor de vista previa. Asegúrate de hacer clic en 'Presionar para transmitir en vivo' para aplicar los cambios de escena."
+	},
+	"swftab.playback": {
+		"message": "Reproducción"
+	},
+	"swftab.disable_audio_wrapper": {
+		"message": "Desactivar audio envoltura"
+	},
+	"swftab.swf_source": {
+		"message": "Fuente SWF"
+	},
+	"swftab.resolution": {
+		"message": "Resolución"
+	},
+	"swftab.original_resolution": {
+		"message": "Fuente original"
+	},
+	"swftab.custom_resolution": {
+		"message": "Personalizado"
+	},
+	"swftab.configuration": {
+		"message": "Configuración"
+	},
+	"swftab.configure_text": {
+		"message": "Para configurar el origen del título, pulsa el botón abajo."
+	},
+	"swftab.configure": {
+		"message": "Configurar"
+	},
+	"swftab.audio_output": {
+		"message": "Salida de audio"
+	},
+	"swfhotkeystab.hotkeys": {
+		"message": "Atajos Rápidos"
+	},
+	"titletab.title": {
+		"message": "Título"
+	},
+	"titletab.configure_text": {
+		"message": "Para configurar el Origen del Título, pulsa el siguiente botón."
+	},
+	"titletab.configure": {
+		"message": "Configurar"
+	},
+	"tobiitab.title": {
+		"message": "Configuración de Tobii Eye Tracker"
+	},
+	"tobiitab.cursor_color": {
+		"message": "Color del cursor"
+	},
+	"tobiitab.enable": {
+		"message": "Activar el seguimiento de"
+	},
+	"tobiitab.shape": {
+		"message": "Forma"
+	},
+	"tobiitab.solid": {
+		"message": "Sólido"
+	},
+	"tobiitab.bubble": {
+		"message": "Burbuja"
+	},
+	"tobiitab.size": {
+		"message": "Tamaño"
+	},
+	"tobiitab.trail": {
+		"message": "Sendero"
+	},
+	"tobiitab.filtering": {
+		"message": "Filtro"
+	},
+	"htmltab.playback": {
+		"message": "Reproducción"
+	},
+	"htmltab.audio_output": {
+		"message": "Salida de audio"
+	},
+	"htmltab.apply": {
+		"message": "Aplicar"
+	},
+	"htmltab.invalid_url": {
+		"message": "Por favor, introduzca una url válida."
+	},
+	"htmltab.html_source": {
+		"message": "Código HTML"
+	},
+	"htmltab.reload_on_scene_enter": {
+		"message": "Volver a cargar al entrar en escena"
+	},
+	"htmltab.reload_on_source_show": {
+		"message": "Volver a cargar al mostrar la fuente"
+	},
+	"htmltab.resolution": {
+		"message": "Resolución"
+	},
+	"htmltab.resolution_tooltip": {
+		"message": "Establecer una resolución fija para fuentes web diseñado para resoluciones específicas. Fuente original seguiremos el tamaño de píxel de la fuente y se comportan responsablemente como un navegador normal cuando cambia el tamaño. Fuentes vinculadas siempre se verá obligadas a una resolución fija."
+	},
+	"htmltab.display": {
+		"message": "Pantalla"
+	},
+	"htmltab.original_resolution": {
+		"message": "Fuente original"
+	},
+	"htmltab.custom_resolution": {
+		"message": "Personalizado"
+	},
+	"htmltab.css_overwrite": {
+		"message": "Código personalizado"
+	},
+	"htmltab.custom_css": {
+		"message": "Utilizar CSS personalizado"
+	},
+	"htmltab.edit_css": {
+		"message": "Editar código CSS"
+	},
+	"htmltab.custom_js": {
+		"message": "Utilizar JS Personalizados"
+	},
+	"htmltab.edit_js": {
+		"message": "Editar JS"
+	},
+	"htmltab.appearance": {
+		"message": "Aspecto"
+	},
+	"htmltab.disable_transparency": {
+		"message": "Deshabilitar la transparencia"
+	},
+	"htmltab.disable_scrollbars": {
+		"message": "Desactivar barras de desplazamiento"
+	},
+	"htmltab.enable_60_fps": {
+		"message": "Permite hasta 60 FPS"
+	},
+	"htmltab.enable_60_fps_tooltip": {
+		"message": "Posiblemente se requieran recursos adicionales del GPU/CPU. Ten en cuenta que cambiar esta opción activará la actualización de la fuente. Para tener un mejor rendimiento, permite la optimización especial de la fuente del navegador en Herramientas -> Configuración-> Avanzado."
+	},
+	"htmltab.configuration": {
+		"message": "Configuración"
+	},
+	"htmltab.configure_text": {
+		"message": "Para configurar el HTML, pulsa el botón abajo."
+	},
+	"htmltab.configure": {
+		"message": "Configurar"
+	},
+	"htmlhotkeystab.hotkeys": {
+		"message": "Atajos Rápidos"
+	},
+	"presentationtab.playback": {
+		"message": "Reproducción"
+	},
+	"presentationtab.audio_output": {
+		"message": "Salida de audio"
+	},
+	"presentationtab.remember_playback_position": {
+		"message": "Recordar posición de la reproducción"
+	},
+	"presentationtab.current_slide": {
+		"message": "Current Slide"
+	},
+	"presentationtab.hotkeys": {
+		"message": "Alternatively, you can use the arrow keys to go to the next or previous slide when source is in focus."
+	},
+	"presentationtab.pptSource": {
+		"message": "Presentation Source"
+	},
+	"presentationtab.change": {
+		"message": "Cambiar..."
+	},
+	"css_editor.edit_css": {
+		"message": "Editar CSS- "
+	},
+	"css_editor.css": {
+		"message": "CSS"
+	},
+	"css_editor.overwrite_css": {
+		"message": "Sobrescribir CSS"
+	},
+	"css_editor.back": {
+		"message": "Atrás"
+	},
+	"js_editor.edit_js": {
+		"message": "Editar JS- "
+	},
+	"js_editor.js": {
+		"message": "JS"
+	},
+	"js_editor.add_custom_js": {
+		"message": "Añadir JS personalizados"
+	},
+	"js_editor.back": {
+		"message": "Atrás"
+	},
+	"hints.picture_section": {
+		"message": "Aquí puede ajustar el color de la fuente."
+	},
+	"hints.keying_section": {
+		"message": "Aquí se puede aplicar la clave de croma para eliminación de fondo."
+	},
+	"hints.position_section": {
+		"message": "Aquí puede establecer el tamaño y la posición de su fuente en la vista."
+	},
+	"hints.threed_section": {
+		"message": "Aquí puede ajustar su fuente en un plano 3D. Tenga en cuenta que fuentes HTML y el SWF no se registran eventos de mouse cuando la fuente es rotar/girar."
+	},
+	"hints.media_playback_section": {
+		"message": "Controlar la reproducción, ajuste de volumen de los medios de comunicación y dispositivo de salida de audio de los medios de comunicación."
+	},
+	"hints.cue_points_section": {
+		"message": "Establece varios puntos para hacer una pausa, corte, o volver a archivo multimedia."
+	},
+	"hints.game_source_section": {
+		"message": "Mostrar/ocultar mouse y activar/desactivar superficie de intercambio"
+	},
+	"hints.camera_playback_section": {
+		"message": "Para dispositivos USB 2.0 es aconsejable configurar salida de audio sólo para transmissión"
+	},
+	"hints.rtsp_rtmp_playback_section": {
+		"message": "Para evitar el retraso del audio, configurar salida de audio sólo para transmissión"
+	},
+	"hints.configuration_section": {
+		"message": "Haga clic para abrir la ventana de configuración del panel de control utilizada para actualizar la fuente."
+	},
+	"hints.masking_section": {
+		"message": "El enmascaramiento permite recortar la fuente a la forma de la máscara. Puede seleccionar un archivo como la máscara o seleccionar una forma."
+	},
+	"hints.transition_section": {
+		"message": "Por defecto, la transición funciona cuando Mostrar u ocultan una fuente en una escena (comprobar o desactive la casilla de verificación en la la lista de fuentes). Usted también puede optar por aplicar la transición de escena entrar o salir. Sin embargo, transición de fuente no se disparará si transición de la escena principal se establece en 'Ninguno'. Si necesita hacer un corte para la transición principal y aplicar transiciones de la fuente, entonces el conjunto de transiciones principal 'Corte' en lugar de 'None'."
+	},
+	"hints.ndi_playback_section": {
+		"message": "Ajustar el volumen y el dispositivo de salida de audio."
+	}
+}

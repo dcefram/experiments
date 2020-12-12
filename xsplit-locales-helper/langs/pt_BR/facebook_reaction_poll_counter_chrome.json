@@ -1,0 +1,80 @@
+{
+  "facebook.reactions.counter.tabheader": {
+    "message": "Reações"
+  },
+  "facebook.reactions.counter.source": {
+    "message": "Fonte"
+  },
+  "facebook.reactions.counter.account": {
+    "message": "Conta"
+  },
+  "facebook.reactions.counter.automatic": {
+    "message": "Automático"
+  },
+  "facebook.reactions.counter.authorize": {
+    "message": "Autorizar o XSplit para usar a Live no Facebook"
+  },
+  "facebook.reactions.counter.remove_authorization": {
+    "message": "**%api%** Remover autorização"
+  },
+  "facebook.reactions.counter.switch_account": {
+    "message": "**%api%** alternar conta"
+  },
+  "facebook.reactions.counter.error_auth": {
+    "message": "Por favor, autorize novamente e conceda acesso a todas permissões exigidas pelo XSplit para essa funcionalidade"
+  },
+  "facebook.reactions.counter.not_connected": {
+    "message": "As reações carregarão automaticamente assim que o stream estiver ao vivo"
+  },
+  "facebook.reactions.counter.connected": {
+    "message": "Conectado"
+  },
+  "facebook.reactions.counter.display": {
+    "message": "Tela"
+  },
+  "facebook.reactions.counter.lock_components": {
+    "message": "Travar componentes"
+  },
+  "facebook.reactions.counter.lock_components_text": {
+    "message": "Checking this option will disable mouse hover, repositioning and resizing of the components.[br][br]Check this if you don't want to display hover effects on the components, especially while streaming or recording."
+  },
+  "facebook.reactions.counter.type": {
+    "message": "Tipo"
+  },
+  "facebook.reactions.counter.show_reactions_labels": {
+    "message": "Mostrar reações e etiquetas"
+  },
+  "facebook.reactions.counter.reset": {
+    "message": "Redefinir"
+  },
+  "facebook.reactions.counter.counter_background": {
+    "message": "Fundo do contador"
+  },
+  "facebook.reactions.counter.opacity": {
+    "message": "Opacidade"
+  },
+  "facebook.reactions.counter.counter": {
+    "message": "Contador"
+  },
+  "facebook.reactions.counter.label": {
+    "message": "Etiqueta"
+  },
+  "facebook.reactions.counter.dropdown.type.poll": {
+    "message": "Enquete de reações"
+  },
+  "facebook.reactions.counter.dropdown.type.counter": {
+    "message": "Contador de reações"
+  },
+  "facebook.reactions.hide_connection_message": {
+    "message": "Ocultar mensagens de conexão"
+  },
+  "facebook.reactions.not_seeing_videos": {
+    "message": "Não está vendo seu vídeo ao vivo?"
+  },
+  "facebook.reactions.not_seeing_videos_help": {
+    "message": "É possível que não tenhamos permissão para alguns dos vídeos ao vivo de suas páginas."
+  },
+  "facebook.reactions.not_seeing_videos_link": {
+    "message": "Clique aqui para autorizar novamente"
+  }
+}

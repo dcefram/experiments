@@ -1,0 +1,146 @@
+{
+  "menu.language": {
+    "message": "crwdns54390:0crwdne54390:0"
+  },
+  "menu.calibrate": {
+    "message": "crwdns54392:0crwdne54392:0"
+  },
+  "menu.account": {
+    "message": "crwdns54394:0crwdne54394:0"
+  },
+  "menu.help": {
+    "message": "crwdns54396:0crwdne54396:0"
+  },
+  "menu.signin": {
+    "message": "crwdns54478:0crwdne54478:0"
+  },
+  "menu.logout": {
+    "message": "crwdns54398:0crwdne54398:0"
+  },
+  "menu.about": {
+    "message": "crwdns54480:0crwdne54480:0"
+  },
+  "menu.source": {
+    "message": "crwdns54400:0crwdne54400:0"
+  },
+  "menu.filter": {
+    "message": "crwdns54402:0crwdne54402:0"
+  },
+  "menu.bgFilter.og": {
+    "message": "crwdns54404:0crwdne54404:0"
+  },
+  "menu.bgFilter.replace": {
+    "message": "crwdns54406:0crwdne54406:0"
+  },
+  "menu.bgFilter.remove": {
+    "message": "crwdns54408:0crwdne54408:0"
+  },
+  "menu.bgImage": {
+    "message": "crwdns54410:0crwdne54410:0"
+  },
+  "menu.bgBlur": {
+    "message": "crwdns54412:0crwdne54412:0"
+  },
+  "menu.filterMenu.automatic": {
+    "message": "crwdns54414:0crwdne54414:0"
+  },
+  "menu.filterMenu.accel": {
+    "message": "crwdns54416:0crwdne54416:0"
+  },
+  "menu.filterMenu.quality": {
+    "message": "crwdns54418:0crwdne54418:0"
+  },
+  "menu.filterMenu.quality.low": {
+    "message": "crwdns54420:0crwdne54420:0"
+  },
+  "menu.filterMenu.quality.med": {
+    "message": "crwdns54422:0crwdne54422:0"
+  },
+  "menu.filterMenu.quality.high": {
+    "message": "crwdns54424:0crwdne54424:0"
+  },
+  "menu.filterMenu.addtl": {
+    "message": "crwdns54426:0crwdne54426:0"
+  },
+  "menu.filterMenu.addtl.chair": {
+    "message": "crwdns54428:0crwdne54428:0"
+  },
+  "menu.browse.local": {
+    "message": "crwdns54482:0crwdne54482:0"
+  },
+  "menu.browse.online": {
+    "message": "crwdns54484:0crwdne54484:0"
+  },
+  "calibrate.title": {
+    "message": "crwdns54430:0crwdne54430:0"
+  },
+  "calibrate.subtitle": {
+    "message": "crwdns54432:0crwdne54432:0"
+  },
+  "calibrate.source": {
+    "message": "crwdns54434:0crwdne54434:0"
+  },
+  "calibrate.vidConsent": {
+    "message": "crwdns54436:0crwdne54436:0"
+  },
+  "calibrate.title2": {
+    "message": "crwdns54438:0crwdne54438:0"
+  },
+  "calibrate.subtitle2": {
+    "message": "crwdns54440:0crwdne54440:0"
+  },
+  "calibrate.title3": {
+    "message": "crwdns54442:0crwdne54442:0"
+  },
+  "calibrate.subtitle3": {
+    "message": "crwdns54444:0crwdne54444:0"
+  },
+  "calibrate.denyConsent": {
+    "message": "crwdns54446:0crwdne54446:0"
+  },
+  "feedback.ask": {
+    "message": "crwdns54448:0crwdne54448:0"
+  },
+  "feedback.rating.low": {
+    "message": "crwdns54450:0crwdne54450:0"
+  },
+  "feedback.rating.med": {
+    "message": "crwdns54452:0crwdne54452:0"
+  },
+  "feedback.rating.high": {
+    "message": "crwdns54454:0crwdne54454:0"
+  },
+  "feedback.vidConsent": {
+    "message": "crwdns54456:0crwdne54456:0"
+  },
+  "feedback.question": {
+    "message": "crwdns54458:0crwdne54458:0"
+  },
+  "feedback.comments": {
+    "message": "crwdns54460:0crwdne54460:0"
+  },
+  "feedback.thanks": {
+    "message": "crwdns54462:0crwdne54462:0"
+  },
+  "feedback.assurance": {
+    "message": "crwdns54464:0crwdne54464:0"
+  },
+  "purchase.buy": {
+    "message": "crwdns54466:0crwdne54466:0"
+  },
+  "window.continue": {
+    "message": "crwdns54468:0crwdne54468:0"
+  },
+  "window.close": {
+    "message": "crwdns54470:0crwdne54470:0"
+  },
+  "window.cancel": {
+    "message": "crwdns54472:0crwdne54472:0"
+  },
+  "window.redo": {
+    "message": "crwdns54474:0crwdne54474:0"
+  },
+  "window.submit": {
+    "message": "crwdns54476:0crwdne54476:0"
+  }
+}

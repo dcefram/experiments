@@ -1,0 +1,95 @@
+{
+  "youtube.source_alert.tabheader": {
+    "message": "إنذار"
+  },
+  "youtube.source_alert.source": {
+    "message": "مصدر"
+  },
+  "youtube.source_alert.account": {
+    "message": "الحساب"
+  },
+  "youtube.source_alert.authorize": {
+    "message": "اعطاء XSplit لاستخدام YouTube Live"
+  },
+  "youtube.source_alert.remove_authorization": {
+    "message": "**٪ api٪ ** أزل التفويض"
+  },
+  "youtube.source_alert.switch_account": {
+    "message": "**٪ api٪ ** تبديل الحساب"
+  },
+  "youtube.source_alert.not_connected": {
+    "message": "سيتم توصيل القطعة تلقائيًا بمجرد بث مباشر"
+  },
+  "youtube.source_alert.connected": {
+    "message": "متصل"
+  },
+  "youtube.source_alert.connect": {
+    "message": "متصل"
+  },
+  "youtube.source_alert.disconnect": {
+    "message": "قطع الاتصال"
+  },
+  "youtube.source_alert.alertLabel": {
+    "message": "إنذار"
+  },
+  "youtube.source_alert.animation_text": {
+    "message": "حيوية"
+  },
+  "youtube.source_alert.duration": {
+    "message": "المدة الزمنية"
+  },
+  "youtube.source_alert.delay": {
+    "message": "وقت العرض"
+  },
+  "youtube.source_alert.animateIn": {
+    "message": "تحريك في"
+  },
+  "youtube.source_alert.animateOut": {
+    "message": "تحريك بها"
+  },
+  "youtube.source_alert.audio": {
+    "message": "الصوت"
+  },
+  "youtube.source_alert.generalHeader": {
+    "message": "General"
+  },
+  "youtube.source_alert.customizeHeader": {
+    "message": "تعديل"
+  },
+  "youtube.source_alert.theme": {
+    "message": "الخلفيات"
+  },
+  "youtube.source_alert.minAmount": {
+    "message": "دقيقة. كمية"
+  },
+  "youtube.source_alert.type": {
+    "message": "النوع"
+  },
+  "youtube.source_alert.nameStyleAndSettings": {
+    "message": "اسم النمط والإعداد"
+  },
+  "youtube.source_alert.sound": {
+    "message": "الصوت"
+  },
+  "youtube.source_alert.show_alert": {
+    "message": "معاينة"
+  },
+  "youtube.source_alert.hide_alert": {
+    "message": "إخفاء المعاينة"
+  },
+  "youtube.source_alert.test_alert": {
+    "message": "اختبار الانذار"
+  },
+  "youtube.source_alert.Color": {
+    "message": "الون"
+  },
+  "youtube.source_alert.layout": {
+    "message": "نسق"
+  },
+  "youtube.source_alert.loggingInTo": {
+    "message": "Logging in to YouTube..."
+  },
+  "youtube.source_alert.pleaseComplete": {
+    "message": "Please complete the login process in your browser"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "dontShowAgain": {
+    "message": "Não mostrar novamente"
+  },
+  "button.goToPluginStore": {
+    "message": "Vá para a Loja de plugins"
+  },
+  "button.maybeLater": {
+    "message": "Talvez depois"
+  },
+  "title": {
+    "message": "Eleve a qualidade de seu stream com widgets!"
+  },
+  "facebook.description": {
+    "message": "Nós temos alguns widgets incríveis para acompanhar sua transmissão e que irão garantir que sua transmissão ao vivo suba de nível. Mostre todos os comentários do seu stream, ou tenha reações voando pela tela![br][br]Faça o download gratuitamente na loja de Plugins!"
+  },
+  "twitch.description": {
+    "message": "Nós temos alguns widgets incríveis para acompanhar sua transmissão e que irão garantir que sua transmissão ao vivo suba de nível. Mostre o chat do Twitch na tela e tenha um alerta pop-up para cada vez que alguém Curtir![br][br]Faça o download gratuitamente na loja de Plugins!"
+  },
+  "youtube.description": {
+    "message": "Nós temos alguns widgets incríveis para acompanhar sua transmissão e que irão garantir que sua transmissão ao vivo suba de nível. Mostre o chat na tela e tenha um alerta pop-up para cada Super Chat![br][br]Faça o download gratuitamente na loja de Plugins!"
+  }
+}

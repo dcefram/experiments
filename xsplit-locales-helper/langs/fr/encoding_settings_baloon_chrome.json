@@ -1,0 +1,38 @@
+{
+	"currentResolutionNotSupported": {
+		"message": "Votre résolution vidéo actuelle est réglée sur %resolution%. Votre taux d'images vidéo actuel est de %fps%."
+	},
+	"currentResolutionNotSupportedYouTube": {
+		"message": "Votre résolution vidéo est réglée sur %resolution% à %fps% images par seconde, ce qui n'est PAS pris en charge par YouTube Live. Définissez votre résolution sur une résolution prise en charge dans le tableau ci-dessous."
+	},
+	"currentResolutionSupported": {
+		"message": "Votre résolution vidéo actuelle est réglée sur %resolution%. Votre taux d'images vidéo actuel est de %fps%. Consultez le tableau ci-dessous pour le débit recommandé"
+	},
+	"currentResolutionSupportedYouTube": {
+		"message": "Votre *résolution vidéo actuelle* est réglée sur *%resolution%*. Votre taux d'images vidéo actuel est de *%fps%*. Consultez le tableau ci-dessous pour le débit recommandé."
+	},
+	"currentResolutionCapable1080pYouTube": {
+		"message": "Votre *résolution vidéo actuelle* est réglée sur *%resolution%* . Votre framerate actuel est de *%fps%*. Vous devriez *bien réfléchir avant de diffuser en 1080p* à moins d'avoir un processeur très puissant et une connexion Internet très haut débit."
+	},
+	"currentResolutionNotCapable1080pYouTube": {
+		"message": "Votre *résolution vidéo actuelle* est réglée sur *%resolution%* . Votre framerate actuel est de *%fps%*. Vous devriez *bien réfléchir avant de diffuser en 1080p* à moins d'avoir un processeur très puissant et une connexion Internet très haut débit."
+	},
+	"defaultMessage": {
+		"message": "Pour %service%, nous recommandons uniquement les résolutions ci-dessous. Changez votre résolution dans résolution"
+	},
+	"resolution": {
+		"message": "Résolution"
+	},
+	"suggestedBitRate": {
+		"message": "Débit suggéré"
+	},
+	"maximumBitRate": {
+		"message": "Débit maximal"
+	},
+	"minimumBitRate": {
+		"message": "Débit minimal"
+	},
+	"warning": {
+		"message": "N'essayez pas %resolutions% sauf si vous avez un processeur très puissant et une connexion Internet ultra-rapide"
+	}
+}

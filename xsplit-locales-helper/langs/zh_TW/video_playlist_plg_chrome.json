@@ -1,0 +1,65 @@
+{
+  "video_playlist.audio_output": {
+    "message": "音訊輸出"
+  },
+  "video_playlist.playback": {
+    "message": "回放"
+  },
+  "video_playlist.when_finished": {
+    "message": "完成後"
+  },
+  "video_playlist.start_on_load": {
+    "message": "在場景入口播放"
+  },
+  "video_playlist.remember_playback_position": {
+    "message": "記住回放位置"
+  },
+  "video_playlist.show_playback_position": {
+    "message": "顯示在視頻的播放位置"
+  },
+  "video_playlist.start_at": {
+    "message": "開始于"
+  },
+  "video_playlist.set": {
+    "message": "設置"
+  },
+  "video_playlist.end_at": {
+    "message": "結束時間"
+  },
+  "video_playlist.reset": {
+    "message": "重置"
+  },
+  "video_playlist.force_deinterlace": {
+    "message": "逐行掃描"
+  },
+  "video_playlist.videos": {
+    "message": "視頻"
+  },
+  "video_playlist.playlist": {
+    "message": "播放清單"
+  },
+  "video_playlist.add": {
+    "message": "添加"
+  },
+  "video_playlist.remove": {
+    "message": "移除"
+  },
+  "video_playlist.ok": {
+    "message": "Ok"
+  },
+  "video_playlist.cancel": {
+    "message": "取消"
+  },
+  "video_playlist.hint.videos_section": {
+    "message": "添加, 刪除和組合視訊"
+  },
+  "video_playlist.hint.video_playback_section": {
+    "message": "控制播放, 設置視頻的音量和音訊輸出設備設置."
+  },
+  "video_playlist.hint.video_missing": {
+    "message": "源文件缺失,可能已被重命名或刪除."
+  },
+  "video_playlist.processing": {
+    "message": "正在處理的視頻..."
+  }
+}

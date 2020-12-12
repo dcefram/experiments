@@ -1,0 +1,17 @@
+{
+    "stinger.title": {
+        "message": "Editar seu nome de transmissão ou ponto de transição."
+    },
+    "stinger.name": {
+        "message": "Nome de transmissão"
+    },
+    "stinger.transition": {
+        "message": "Ponto de transição (ms)"
+    },
+    "button.ok": {
+        "message": "OK"
+    },
+    "button.cancel": {
+        "message": "Cancelar"
+    }
+}

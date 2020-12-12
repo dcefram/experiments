@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="msgAuthExpiredOrInvalid" xml:space="preserve">
+    <value>訪問卡缺失, 過期或失效. 請重新授權.
+
+如果問題仍然存在, 請聯繫客服.</value>
+  </data>
+  <data name="AutoRTMPServer" xml:space="preserve">
+    <value>&lt; 自動 &gt;</value>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>按一下授權連結您 Restream.io 帳戶</value>
+  </data>
+  <data name="fmtAutoBitrateResult" xml:space="preserve">
+    <value>能夠到目標伺服器的輸送量是 {0} kbps (?)</value>
+  </data>
+  <data name="fmtAutoIngestAfter" xml:space="preserve">
+    <value>試圖直播到 {0} (?)</value>
+  </data>
+  <data name="RestreamProps" xml:space="preserve">
+    <value>Restream.io 屬性</value>
+  </data>
+  <data name="btnAuthorize" xml:space="preserve">
+    <value>授權</value>
+  </data>
+  <data name="lblAutoIngestBefore" xml:space="preserve">
+    <value>正在確定最佳伺服器...</value>
+  </data>
+  <data name="lblBwTestFailed" xml:space="preserve">
+    <value>頻寬測試失敗. 請檢查您的網路連接並再試一次.</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>取消授權</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>沒有 Restream.io 帳戶? 在這裡註冊.</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>與Restream.io的伺服器通信時出錯. 請稍後再試.</value>
+  </data>
+  <data name="msgAuthorizeRequired" xml:space="preserve">
+    <value>首先你必須授權帳戶.</value>
+  </data>
+  <data name="lblServer" xml:space="preserve">
+    <value>伺服器:</value>
+  </data>
+  <data name="lblUsername" xml:space="preserve">
+    <value>用戶ID:</value>
+  </data>
+  <data name="lblStreamDelay" xml:space="preserve">
+    <value>秒 (只支持 RTMP)</value>
+  </data>
+  <data name="chkFtl" xml:space="preserve">
+    <value>使用 FTL (Beta)</value>
+  </data>
+  <data name="msgPeakBitrateNotEnough" xml:space="preserve">
+    <value>當前 {2} kbps 的帶寬設置可能太高. 基於網絡條件和帶寬測量到所選攝取服務器{0}，建議您設置的最大 {1} kbps 的視頻比特率.
+
+單擊確定, 以降低你的視頻比特率或更改你攝取的選擇.
+單擊忽略或 [X] 繼續你的直播.</value>
+  </data>
+  <data name="msgPublishRejectedDeniedBadName" xml:space="preserve">
+    <value>無法發送到所選數據攝取位置{0}. 單擊確定以配置Restream.io 使用替代攝取服務器.</value>
+  </data>
+  <data name="msgVcodecNotSupportedForFtl" xml:space="preserve">
+    <value>此編碼器尚不支援FTL.</value>
+  </data>
+</root>

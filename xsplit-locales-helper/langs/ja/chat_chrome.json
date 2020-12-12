@@ -1,0 +1,71 @@
+{
+  "chat.title": {
+    "message": "%service%チャット設定"
+  },
+  "chat.source": {
+    "message": "ソース"
+  },
+  "chat.account": {
+    "message": "アカウント"
+  },
+  "chat.authorize": {
+    "message": "XSplitに対して%service%の使用を許可します。"
+  },
+  "chat.deauthorize": {
+    "message": "%username%（許可の取消）"
+  },
+  "chat.connected": {
+    "message": "接続しました。"
+  },
+  "chat.not_connected": {
+    "message": "接続されていません。"
+  },
+  "chat.channel_text": {
+    "message": "表示したい%service%チャットのチャンネルを入力してください。"
+  },
+  "chat.channel": {
+    "message": "チャンネル"
+  },
+  "chat.channel_name": {
+    "message": "チャンネル名"
+  },
+  "chat.connect": {
+    "message": "接続"
+  },
+  "chat.error_channel_not_found": {
+    "message": "%service%チャンネルが見つかりませんでした。もう一度やり直してください。"
+  },
+  "chat.error_no_connection": {
+    "message": "インターネット接続状況を確認し、もう一度やり直してください。"
+  },
+  "chat.display": {
+    "message": "ディスプレイ"
+  },
+  "chat.chat_box": {
+    "message": "チャットボックス"
+  },
+  "chat.opacity": {
+    "message": "透明度"
+  },
+  "chat.viewers": {
+    "message": "閲覧者"
+  },
+  "chat.message": {
+    "message": "メッセージ"
+  },
+  "chat.text_size": {
+    "message": "テキストサイズ"
+  },
+  "chat.disconnect": {
+    "message": "接続を切る"
+  },
+  "chat.connecting": {
+    "message": "接続中…"
+  },
+  "chat.connect_error": {
+    "message": "%service%とチャンネルの接続に失敗しました。もう一度やり直してください。"
+  },
+  "chat.invalid_channel": {
+    "message": "有効な%service%チャンネルを入力してください。"
+  }
+}

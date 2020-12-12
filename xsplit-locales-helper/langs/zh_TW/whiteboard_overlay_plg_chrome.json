@@ -1,0 +1,50 @@
+{
+  "whiteboard_overlay.drawing": {
+    "message": "繪圖"
+  },
+  "whiteboard_overlay.reminder": {
+    "message": "要開始繪製,永遠記得要檢查佈局選項卡中的鎖定位置複選框,並確保資源不旋轉."
+  },
+  "whiteboard_overlay.tool": {
+    "message": "工具"
+  },
+  "whiteboard_overlay.size": {
+    "message": "大小"
+  },
+  "whiteboard_overlay.color": {
+    "message": "顏色"
+  },
+  "whiteboard_overlay.clear_whiteboard": {
+    "message": "清除白板"
+  },
+  "whiteboard_overlay.hotkeys": {
+    "message": "清除白板"
+  },
+  "whiteboard_overlay.hotkey_header": {
+    "message": "使用快捷鍵當資源被選擇:"
+  },
+  "whiteboard_overlay.hotkey_s": {
+    "message": "按\"&quot;**S**&quot;切換(S\/M\/L)大小"
+  },
+  "whiteboard_overlay.hotkey_shift": {
+    "message": "按&quot;**Shift**&quot; 使用備用工具[br] 形狀:任意多邊形->形狀檢測(線,三角形, 圓,矩形)"
+  },
+  "whiteboard_overlay.hotkey_d": {
+    "message": "按&quot;**D**&quot; 來保存當前繪圖"
+  },
+  "whiteboard_overlay.hotkey_esc": {
+    "message": "按&quot;**Esc**&quot; 清除白板"
+  },
+  "whiteboard_overlay.tool_options_freehand": {
+    "message": "手繪"
+  },
+  "whiteboard_overlay.size_options_thin": {
+    "message": "薄"
+  },
+  "whiteboard_overlay.size_options_normal": {
+    "message": "正常"
+  },
+  "whiteboard_overlay.size_options_thick": {
+    "message": "厚"
+  }
+}

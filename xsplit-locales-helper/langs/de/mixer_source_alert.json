@@ -1,0 +1,95 @@
+{
+	"mixer_source_alert.source": {
+		"message": "Quelle"
+	},
+	"mixer_source_alert.not_connected": {
+		"message": "Nicht verbunden"
+	},
+	"mixer_source_alert.channel": {
+		"message": "Kanal"
+	},
+	"mixer_source_alert.connect": {
+		"message": "Verbinden"
+	},
+	"mixer_source_alert.invalid_channel": {
+		"message": "Bitte geben Sie einen gültigen Kanal an."
+	},
+	"mixer_source_alert.alertLabel": {
+		"message": "Warnung"
+	},
+	"mixer_source_alert.type": {
+		"message": "Typ"
+	},
+	"mixer_source_alert.theme": {
+		"message": "Design"
+	},
+	"mixer_source_alert.color": {
+		"message": "Farbe"
+	},
+	"mixer_source_alert.layout": {
+		"message": "Layout"
+	},
+	"mixer_source_alert.animation_text": {
+		"message": "Animation"
+	},
+	"mixer_source_alert.duration": {
+		"message": "Dauer"
+	},
+	"mixer_source_alert.delay": {
+		"message": "Anzeigezeit"
+	},
+	"mixer_source_alert.animateIn": {
+		"message": "Animiert hereinfliegen"
+	},
+	"mixer_source_alert.animateOut": {
+		"message": "Animiert herausfliegen"
+	},
+	"mixer_source_alert.nameStyleAndSettings": {
+		"message": "Name Stil und Einstellung"
+	},
+	"mixer_source_alert.name": {
+		"message": "Name"
+	},
+	"mixer_source_alert.minMonth": {
+		"message": "Min. Monate"
+	},
+	"mixer_source_alert.minViewers": {
+		"message": "Min. Zuschauer"
+	},
+	"mixer_source_alert.audio": {
+		"message": "Audio"
+	},
+	"mixer_source_alert.sound": {
+		"message": "Ton"
+	},
+	"mixer_source_alert.show_alert": {
+		"message": "Vorschau"
+	},
+	"mixer_source_alert.test_alert": {
+		"message": "Testwarnung"
+	},
+	"mixer_source_alert.connected": {
+		"message": "Verbunden"
+	},
+	"mixer_source_alert.disconnect": {
+		"message": "Trennen"
+	},
+	"mixer_source_alert.generalHeader": {
+		"message": "Allgemein"
+	},
+	"mixer_source_alert.customizeHeader": {
+		"message": "Personalisieren"
+	},
+	"mixer_source_alert.hide_alert": {
+		"message": "Vorschau verbergen"
+	},
+	"mixer_source_alert.account": {
+		"message": "Konto"
+	},
+	"mixer_source_alert.authorize": {
+		"message": "XSplit autorisieren, Mixer zu verwenden"
+	},
+	"mixer_source_alert.remove_authorization": {
+		"message": "**%api%** Autorisierung entfernen"
+	}
+}

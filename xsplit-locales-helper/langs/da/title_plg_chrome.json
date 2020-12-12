@@ -1,0 +1,173 @@
+{
+  "title.content": {
+    "message": "Content"
+  },
+  "title.use_custom_script": {
+    "message": "Use Custom Script"
+  },
+  "title.edit_script": {
+    "message": "Edit Script"
+  },
+  "title.format": {
+    "message": "Format"
+  },
+  "title.font": {
+    "message": "Font"
+  },
+  "title.color": {
+    "message": "Color"
+  },
+  "title.outline": {
+    "message": "Outline"
+  },
+  "title.opacity": {
+    "message": "Opacity"
+  },
+  "title.style": {
+    "message": "Style"
+  },
+  "title.align": {
+    "message": "Align"
+  },
+  "title.shadow": {
+    "message": "Shadow"
+  },
+  "title.distance": {
+    "message": "Distance"
+  },
+  "title.blur": {
+    "message": "Blur"
+  },
+  "title.angle": {
+    "message": "Angle"
+  },
+  "title.animation": {
+    "message": "Animation"
+  },
+  "title.none": {
+    "message": "None"
+  },
+  "title.scroll": {
+    "message": "Scroll"
+  },
+  "title.fade": {
+    "message": "Fade"
+  },
+  "title.scrolling": {
+    "message": "Scrolling"
+  },
+  "title.line_limit": {
+    "message": "Line Limit"
+  },
+  "title.direction": {
+    "message": "Direction"
+  },
+  "title.speed": {
+    "message": "Speed"
+  },
+  "title.scroll_units": {
+    "message": "px/sec"
+  },
+  "title.delimeter": {
+    "message": "Delimiter"
+  },
+  "title.interval": {
+    "message": "Interval"
+  },
+  "title.fade_speed": {
+    "message": "Fade speed"
+  },
+  "title.enable_60_fps": {
+    "message": "Enable up to 60 FPS"
+  },
+  "title.enable_60_fps_tooltip": {
+    "message": "May require additional GPU/CPU resources. Note that toggling this option will trigger source refresh. For best performance, enable Browser Source Special Optimization under Tools -> Settings -> Advanced."
+  },
+  "title.ok": {
+    "message": "Ok"
+  },
+  "title.cancel": {
+    "message": "Cancel"
+  },
+  "title.hint.content_section": {
+    "message": "Enter your text here. You can use &amp;lt;br&amp;gt; to insert line break(s). You can also use BBcode to further format your text. Click [here](https://xspl.it/bbcode) to learn more."
+  },
+  "title.deprecated_scripts": {
+    "message": "The script being used in this text source contains some deprecated script methods. Update the script by doing the following:[br]1. Click on 'Edit Script' button in the Text tab[br]2. Select script template and press 'Update Text' button"
+  },
+  "title.outdated_scripts": {
+    "message": "The script being used in this text source may be outdated. You may update the script by doing the following:[br]1. Click on 'Edit Script' button in the Text tab[br]2. Select script template, configure settings, and press 'Update Text' button"
+  },
+  "title.script_editor.edit_script": {
+    "message": "Edit Script - "
+  },
+  "title.script_editor.title": {
+    "message": "Script"
+  },
+  "title.script_editor.template": {
+    "message": "Template"
+  },
+  "title.script_editor.settings": {
+    "message": "Settings"
+  },
+  "title.script_editor.script": {
+    "message": "Script"
+  },
+  "title.script_editor.back": {
+    "message": "Back"
+  },
+  "title.script_editor.update_title": {
+    "message": "Update Text"
+  },
+  "title.help.outline_title": {
+    "message": "Using Outline for Text Source"
+  },
+  "title.help.outline_message": {
+    "message": "There is a limitation for font size when using outline. You can resize the text source in your stage. but the text will only adjust up to the maximum font size."
+  },
+  "title.help.pause_script_title": {
+    "message": "Pause or Resume Script"
+  },
+  "title.help.pause_script_message": {
+    "message": "You can pause/play a supported script such as the timer and duration modes of the general purpose clock script and other supporting custom scripts."
+  },
+  "title.help.delimeter_title": {
+    "message": "Delimiter"
+  },
+  "title.help.delimeter_message": {
+    "message": "A delimiter is a character or set of characters that will separate the text into segments to be shown per fade effect."
+  },
+  "title.help.interval_title": {
+    "message": "Interval"
+  },
+  "title.help.interval_message": {
+    "message": "Interval is the time a text will be displayed before another fade effect will happen."
+  },
+  "title.pause_hotkey": {
+    "message": "When source is selected in the stage, you may use hotkey (Press \"P\") to pause/play supported script."
+  },
+  "title.direction_options_right_to_left": {
+    "message": "Right to left"
+  },
+  "title.direction_options_left_to_right": {
+    "message": "Left to right"
+  },
+  "title.direction_options_bottom_to_top": {
+    "message": "Bottom to top"
+  },
+  "title.direction_options_top_to_bottom": {
+    "message": "Top to bottom"
+  },
+  "title.outline_options_none": {
+    "message": "None"
+  },
+  "title.outline_options_thin": {
+    "message": "Thin"
+  },
+  "title.outline_options_thick": {
+    "message": "Thick"
+  },
+  "title.outline_options_thickest": {
+    "message": "Thickest"
+  }
+}

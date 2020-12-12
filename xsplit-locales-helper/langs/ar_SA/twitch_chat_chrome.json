@@ -1,0 +1,155 @@
+{
+	"twitch.chat.tabheader": {
+		"message": "دردشة"
+	},
+	"twitch.chat.source": {
+		"message": "مصدر"
+	},
+	"twitch.chat.account": {
+		"message": "الحساب"
+	},
+	"twitch.chat.authorize": {
+		"message": "تخويل XSplit لاستخدام Twitch"
+	},
+	"twitch.chat.remove_authorization": {
+		"message": "أزل التفويض"
+	},
+	"twitch.chat.switch_account": {
+		"message": " تبديل الحساب"
+	},
+	"twitch.chat.not_connected": {
+		"message": "غير متصل"
+	},
+	"twitch.chat.connected": {
+		"message": "متصل"
+	},
+	"twitch.chat.connect": {
+		"message": "متصل"
+	},
+	"twitch.chat.disconnect": {
+		"message": "قطع الاتصال"
+	},
+	"twitch.chat.channel": {
+		"message": "قناة"
+	},
+	"twitch.chat.error_channel_not_found": {
+		"message": "يرجى تقديم قناة صالحة."
+	},
+	"twitch.chat.display": {
+		"message": "عرض"
+	},
+	"twitch.chat.chat_box": {
+		"message": "صندوق الدردشه"
+	},
+	"twitch.chat.opacity": {
+		"message": "الشفافيه"
+	},
+	"twitch.chat.viewers": {
+		"message": "المشاهدين"
+	},
+	"twitch.chat.message": {
+		"message": "رسالة"
+	},
+	"twitch.chat.outline_text": {
+		"message": "الخطوط العريضة"
+	},
+	"twitch.chat.text_size": {
+		"message": "حجم الخط"
+	},
+	"twitch.chat.hide_user_name": {
+		"message": "إخفاء أسماء المستخدمين"
+	},
+	"twitch.chat.hide_timestamp": {
+		"message": "إخفاء الطوابع الزمنية"
+	},
+	"twitch.chat.hide_user_icons": {
+		"message": "إخفاء رموز المستخدم"
+	},
+	"twitch.chat.hide_on_idle": {
+		"message": "إخفاء الدردشة عند الخمول"
+	},
+	"twitch.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"twitch.chat.animation_text": {
+		"message": "حيوية"
+	},
+	"twitch.chat.animation_direction_text": {
+		"message": "اتجاه"
+	},
+	"twitch.chat.animation_randomize": {
+		"message": "بطريقة عشوائية"
+	},
+	"twitch.chat.animation_override_settings": {
+		"message": "هذا القسم سوف يتجاوز إعدادات العرض يدويا."
+	},
+	"twitch.chat.animation_duration": {
+		"message": "المدة الزمنية"
+	},
+	"twitch.chat.animation_set_duration": {
+		"message": "سيؤدي ذلك إلى ضبط المدة الزمنية للرسوم المتحركة للتمرير."
+	},
+	"twitch.chat.animation_text_size": {
+		"message": "حجم الخط"
+	},
+	"twitch.chat.seconds": {
+		"message": "seconds"
+	},
+	"twitch.chat.animation_text_color": {
+		"message": "لون الخط"
+	},
+	"twitch.chat.animation_none": {
+		"message": "لا شيء"
+	},
+	"twitch.chat.animation_scroll": {
+		"message": "التمرير"
+	},
+	"twitch.chat.animation_scroll_text": {
+		"message": "سيؤدي ذلك إلى تمرير رسائل دردشة المستخدم ديناميكيًا عبر الشاشة. [br] [br] إن أفضل طريقة لعرض هذا المكون الإضافي هي ضبط المصدر على عرض بالحجم الكامل."
+	},
+	"twitch.chat.animation_direction_rightToLeft": {
+		"message": "من اليمين الى اليسار"
+	},
+	"twitch.chat.animation_direction_leftToRight": {
+		"message": "من اليسار إلى اليمين"
+	},
+	"twitch.chat.animation_direction_randomize": {
+		"message": "بطريقة عشوائية"
+	},
+	"twitch.chat.outline_none": {
+		"message": "لا شيء"
+	},
+	"twitch.chat.outline_thin": {
+		"message": "نحيف ضعيف"
+	},
+	"twitch.chat.outline_thick": {
+		"message": "سميك"
+	},
+	"twitch.chat.outline_thickest": {
+		"message": "سمكا"
+	},
+	"twitch.chat.blocking": {
+		"message": "حجب"
+	},
+	"twitch.chat.blockedlist": {
+		"message": "القائمة المحظورة"
+	},
+	"twitch.chat.block_help": {
+		"message": "يمكنك حظر المشاهدين عن طريق إضافة اسمهم أو اسم المستخدم (بما في ذلك برامج الروبوت ، إن أمكن) في القائمة المحظورة حتى لا تظهر رسائلهم في عارض الدردشة. [br] [br] هذه القائمة المحظورة غير متصلة بالقائمة المحظورة لقناتك . إنه يعمل فقط لمصدر الدردشة هذا."
+	},
+	"twitch.chat.blocking_name": {
+		"message": "أدخل اسم أو اسم المستخدم للمشاهد الذي ترغب في حظره."
+	},
+	"twitch.chat.block_name": {
+		"message": "الاسم"
+	},
+	"twitch.chat.block_add": {
+		"message": "إضافة"
+	},
+	"twitch.chat.block_remove": {
+		"message": "إزالة"
+	},
+	"twitch.chat.preview": {
+		"message": "Preview"
+	}
+}

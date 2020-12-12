@@ -1,0 +1,38 @@
+{
+	"copyright": {
+		"message": "著作権 &copy; %dates%"
+	},
+	"terms": {
+		"message": "このプログラムの一部はオープンソースのライブラリを使用しております。詳細はこちらをご確認ください [一般ライセンス条約](%termslink%)"
+	},
+	"licenseBenefitsLine": {
+		"message": "XSplitを購入し同時放送、1080px、その他の追加要素などを手に入れましょう！"
+	},
+	"licenseWillExpire": {
+		"message": "お使いのライセンスは**%expiry_date%**に失効します"
+	},
+	"license-named": {
+		"message": "あなたは **%name%** ライセンスをお持ちです"
+	},
+	"license-scoped": {
+		"message": "あなたは **%date%** に期限が切れる **%name%** ライセンスをお持ちです"
+	},
+	"license-outsourced": {
+		"message": "**%source%** からライセンスを習得しました"
+	},
+	"license-complimentary": {
+		"message": "**%name%**ライセンスの為の無料拡張があります"
+	},
+	"upgrade": {
+		"message": "こちらをクリックしてライセンスをアップグレード"
+	},
+	"extend": {
+		"message": "こちらをクリックしてライセンスを延長"
+	},
+	"buy": {
+		"message": "ここをクリックして今すぐアップグレード ！"
+	},
+	"steam-header": {
+		"message": "起動したいアプリケーションを選択してください。"
+	}
+}

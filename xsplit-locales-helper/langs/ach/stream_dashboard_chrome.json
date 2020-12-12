@@ -1,0 +1,38 @@
+{
+  "streamDashBoard.offline": {
+    "message": "crwdns162416:0crwdne162416:0"
+  },
+  "streamDashBoard.live": {
+    "message": "crwdns162418:0crwdne162418:0"
+  },
+  "streamDashBoard.chat_empty": {
+    "message": "crwdns162420:0crwdne162420:0"
+  },
+  "streamDashBoard.stream_empty": {
+    "message": "crwdns162422:0crwdne162422:0"
+  },
+  "streamDashBoard.event_empty": {
+    "message": "crwdns162424:0crwdne162424:0"
+  },
+  "streamDashBoard.streaming_to": {
+    "message": "crwdns162426:0crwdne162426:0"
+  },
+  "streamDashBoard.stats": {
+    "message": "crwdns162428:0crwdne162428:0"
+  },
+  "streamDashBoard.viewers": {
+    "message": "crwdns162430:0crwdne162430:0"
+  },
+  "streamDashBoard.running_time": {
+    "message": "crwdns162432:0crwdne162432:0"
+  },
+  "streamDashBoard.resolution": {
+    "message": "crwdns162434:0crwdne162434:0"
+  },
+  "streamDashBoard.bitrate": {
+    "message": "crwdns162436:0crwdne162436:0"
+  },
+  "streamDashBoard.dropped_frames": {
+    "message": "crwdns162438:0crwdne162438:0"
+  }
+}

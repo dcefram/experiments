@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lblAuthorize" xml:space="preserve">
+    <value>承認</value>
+  </data>
+  <data name="lblChannelPageLink" xml:space="preserve">
+    <value>Smashcastのチャンネルページを開くにはこちらをクリックしてください。</value>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>Smashcastアカウントをリンクするには「承認」をクリックしてください。</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>承認解除</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>Smashcastアカウントの登録はこちら</value>
+  </data>
+  <data name="msgAccountNotActivatedError" xml:space="preserve">
+    <value>Smashcastアカウントが有効ではありません。詳細に関しましてはSmashcastにご連絡ください。</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>Smashcastのサーバーとの通信に失敗しました。後でもう一度やり直してください。</value>
+  </data>
+  <data name="msgAuthorizeRequired" xml:space="preserve">
+    <value>まず、アカウントを承認する必要があります。</value>
+  </data>
+  <data name="msgInvalidCredentials" xml:space="preserve">
+    <value>アカウントの認証ができませんでした。情報を再入力し、もう一度やり直してみてください。</value>
+  </data>
+  <data name="msgInvalidPasswordError" xml:space="preserve">
+    <value>入力したパスワードであなたのアカウントを承認する事ができませんでした。チャンネル設定でアカウント情報を再入力し、再度お試しください。</value>
+  </data>
+  <data name="msgPasswordEmpty" xml:space="preserve">
+    <value>パスワードを入力する必要があります。</value>
+  </data>
+  <data name="msgReauthorizeRequired" xml:space="preserve">
+    <value>XSplitがお使いのSmashcastチャンネルにアクセスすることを許可してください。</value>
+  </data>
+  <data name="msgUsernameEmpty" xml:space="preserve">
+    <value>ユーザー名を入力する必要があります。</value>
+  </data>
+  <data name="fmtGameNameInvalidStartChar" xml:space="preserve">
+    <value>ゲーム名は以下の文字では初めてはいけません：{0}</value>
+  </data>
+  <data name="lblTip" xml:space="preserve">
+    <value>{0} はおそらく選択した解像度として十分ではありません。</value>
+  </data>
+  <data name="lblTipRequiredHw" xml:space="preserve">
+    <value>推奨ハードウェア (?)</value>
+  </data>
+  <data name="lblTipRequiredUpload" xml:space="preserve">
+    <value>必要な帯域幅(Bandwidth) (?)</value>
+  </data>
+  <data name="lblTipRequiredUploadAndHw" xml:space="preserve">
+    <value>必要な帯域幅(Bandwidth) (?) と推奨ハードウェア (?)</value>
+  </data>
+  <data name="btnFinish" xml:space="preserve">
+    <value>完了</value>
+  </data>
+  <data name="fmtAutoBitrateResult" xml:space="preserve">
+    <value>指定サーバーに可能なスループットは {0} kbps (?)</value>
+  </data>
+  <data name="fmtAutoIngestAfter" xml:space="preserve">
+    <value>{0}への放送を試みています (?)</value>
+  </data>
+  <data name="SmashcastProps" xml:space="preserve">
+    <value>Smashcast プロパティ</value>
+  </data>
+  <data name="lblAutoIngestBefore" xml:space="preserve">
+    <value>最適なサーバーを決定しています...</value>
+  </data>
+  <data name="lblAutoIngestName" xml:space="preserve">
+    <value>自動</value>
+  </data>
+  <data name="lblBwTestFailed" xml:space="preserve">
+    <value>帯域幅 (Bandwidth) のテストに失敗しました。ネットワーク接続を確認して再度お試しください。</value>
+  </data>
+  <data name="linktip_datarate" xml:space="preserve">
+    <value>お使いのコンピューターとターゲットサーバー間の可能な帯域幅は{0} kbpsです、この数値は{1}の為に推奨される最大ビットレートです。</value>
+  </data>
+  <data name="linktip_datarate_over" xml:space="preserve">
+    <value>お使いのコンピューターとターゲットサーバー間の可能な帯域幅は{0} kbps以上です、この数値は{1}の為に推奨される最大ビットレートです。</value>
+  </data>
+  <data name="linktip_datarate_under" xml:space="preserve">
+    <value>お使いのコンピューターとターゲットサーバー間の帯域幅は{0} kbpsです、{1}を利用するには十分の数値です。</value>
+  </data>
+  <data name="linktip_datarate_under1" xml:space="preserve">
+    <value>お使いのコンピューターとターゲットサーバー間の帯域幅は{0} kbpsです、{1}を利用するには十分では無いかもしれません。</value>
+  </data>
+  <data name="linktip_hardware" xml:space="preserve">
+    <value>キャプチャカード経由でコンソールか別コンピューターに繋げている場合はお試しください。(´◡`)</value>
+  </data>
+  <data name="linktip_ingest" xml:space="preserve">
+    <value>Smashcastが提供するターゲットサーバーの中で、このサーバーが現在最高のリスポンスがあります。これはインターネットのルーティング、渋滞、時間、その他の要因によって変わる可能性もあります。</value>
+  </data>
+  <data name="linktip_upload" xml:space="preserve">
+    <value>視聴者は滑らかな良質な動画を好みます。ほとんどの視聴者はラグなどが多い{1}の放送よりも{0}の放送を好みます。</value>
+  </data>
+  <data name="lblServer" xml:space="preserve">
+    <value>サーバー:</value>
+  </data>
+  <data name="btnBack" xml:space="preserve">
+    <value>戻る</value>
+  </data>
+  <data name="btnNext" xml:space="preserve">
+    <value>次へ</value>
+  </data>
+  <data name="btnSkipWizard" xml:space="preserve">
+    <value>スキップ ウィザード</value>
+  </data>
+  <data name="lblHint0" xml:space="preserve">
+    <value>現在アカウントに生放送チャンネルが設定されていないことをXSplitが検出しました。XSplitにサインアップした時に、あなたのアカウントはSmashcastと関連付けられました。</value>
+  </data>
+  <data name="lblHint01" xml:space="preserve">
+    <value>このウィザードはSmashcastチャンネルの設定の手助けをします。</value>
+  </data>
+  <data name="lblUsername2" xml:space="preserve">
+    <value>アカウント：</value>
+  </data>
+  <data name="neverShowAgain" xml:space="preserve">
+    <value>Smashcastとリンクはもうしたくない。</value>
+  </data>
+  <data name="msgConfirmMixerResFpsAdjustment" xml:space="preserve">
+    <value>ミキサーは {0} に設定されます。適用しますか？</value>
+  </data>
+  <data name="msgAPIError1" xml:space="preserve">
+    <value>Smashcastのサーバーとの通信中に問題が起こりました。後でもう一度やり直すかSmashcastにご連絡ください。{0}</value>
+  </data>
+  <data name="msgFailedSettingGame" xml:space="preserve">
+    <value>ゲームの設定に失敗しました。</value>
+  </data>
+</root>

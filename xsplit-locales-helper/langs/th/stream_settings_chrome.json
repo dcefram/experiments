@@ -1,0 +1,41 @@
+{
+	"streamSettings.freeUserLimitationStreamReso": {
+		"message": "XSplit Broadcaster สามารถบันทึกในความละเอียดที่สูงกว่า %resolution% ได้ แต่ว่าฟีเจอร์นี้ถูกสงวนไว้ให้กับผู้ใช้ XSplit ที่จ่ายสิทธิ์การใช้งาน[br][br]โปรดเลือกว่าต้องการดำเนินการอย่างไรต่อไป"
+	},
+	"streamSettings.freeUserLimitationRecordReso": {
+		"message": "XSplit Broadcaster สามารถสตรีมในความละเอียดที่สูงกว่า %resolution% ได้ แต่ว่าฟีเจอร์นี้ถูกสงวนไว้ให้กับผู้ใช้ XSplit ที่จ่ายสิทธิ์การใช้งาน[br][br]โปรดเลือกว่าต้องการดำเนินการอย่างไรต่อไป"
+	},
+	"streamSettings.freeUserLimitationStreamFps": {
+		"message": "XSplit Broadcaster สามารถสตรีมในเฟรมเรตที่สูงกว่า %fps% ได้ แต่ว่าฟีเจอร์นี้ถูกสงวนไว้ให้กับผู้ใช้ XSplit ที่จ่ายสิทธิ์การใช้งาน[br][br]โปรดเลือกว่าต้องการดำเนินการอย่างไรต่อไป"
+	},
+	"streamSettings.freeUserLimitationRecordFps": {
+		"message": "XSplit Broadcaster สามารถบันทึกในเฟรมเรตที่สูงกว่า %fps% ได้ แต่ว่าฟีเจอร์นี้ถูกสงวนไว้ให้กับผู้ใช้ XSplit ที่จ่ายสิทธิ์การใช้งาน[br][br]โปรดเลือกว่าต้องการดำเนินการอย่างไรต่อไป"
+	},
+	"streamSettings.freeUserLimitationStreamResoFps": {
+		"message": "XSplit Broadcaster สามารถสตรีมในความละเอียดที่สูงกว่า %resolution% และเฟรมเรตสูงกว่า %fps% ได้ แต่ว่าฟีเจอร์นี้ถูกสงวนไว้ให้กับผู้ใช้ XSplit ที่จ่ายสิทธิ์การใช้งาน[br][br]โปรดเลือกว่าต้องการดำเนินการอย่างไรต่อไป"
+	},
+	"streamSettings.freeUserLimitationRecordResoFps": {
+		"message": "XSplit Broadcaster สามารถบันทึกในความละเอียดที่สูงกว่า %resolution% และเฟรมเรตสูงกว่า %fps% ได้ แต่ว่าฟีเจอร์นี้ถูกสงวนไว้ให้กับผู้ใช้ XSplit ที่จ่ายสิทธิ์การใช้งาน[br][br]โปรดเลือกว่าต้องการดำเนินการอย่างไรต่อไป"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonReso": {
+		"message": "%type% ใน %resolution%[br]โดยไม่มี[br] ลายน้ำ"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonFps": {
+		"message": "%type% ใน %fps%[br]โดยไม่มี[br] ลายน้ำ"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonResoFps": {
+		"message": "%type% ใน %resolution%[br]@ %fps%[br]โดยไม่มี[br] ลายน้ำ"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonReso": {
+		"message": "%type% ใน %resolution%[br]มี[br] ลายน้ำ"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonFps": {
+		"message": "%type% ใน %fps%[br]มี[br] ลายน้ำ"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonResoFps": {
+		"message": "%type% ใน %resolution%[br]@ %fps%[br]มี[br] ลายน้ำ"
+	},
+	"streamSettings.buyLicenseButton": {
+		"message": "ซื้อสิทธิ์การใช้งาน[br]เพื่อที่จะลบ[br]ลายน้ำ"
+	}
+}

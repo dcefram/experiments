@@ -1,0 +1,95 @@
+{
+	"title": {
+		"message": "crwdns14860:0crwdne14860:0"
+	},
+	"save_close": {
+		"message": "crwdns18348:0crwdne18348:0"
+	},
+	"start_streaming": {
+		"message": "crwdns107338:0crwdne107338:0"
+	},
+	"logged_in_as": {
+		"message": "crwdns45632:0%fullname%crwdne45632:0"
+	},
+	"switch_account": {
+		"message": "crwdns17589:0crwdne17589:0"
+	},
+	"remove_auth": {
+		"message": "crwdns17590:0crwdne17590:0"
+	},
+	"stream_settings": {
+		"message": "crwdns14865:0crwdne14865:0"
+	},
+	"stream_to.label": {
+		"message": "crwdns14866:0crwdne14866:0"
+	},
+	"stream_to.values.timeline": {
+		"message": "crwdns14868:0crwdne14868:0"
+	},
+	"stream_to.values.page": {
+		"message": "crwdns14867:0crwdne14867:0"
+	},
+	"stream_to.values.group": {
+		"message": "crwdns14869:0crwdne14869:0"
+	},
+	"stream_to.values.event": {
+		"message": "crwdns14870:0crwdne14870:0"
+	},
+	"stream_to.pageauth": {
+		"message": "crwdns17591:0crwdne17591:0"
+	},
+	"stream_to.groupauth": {
+		"message": "crwdns17592:0crwdne17592:0"
+	},
+	"stream_to.eventauth": {
+		"message": "crwdns17593:0crwdne17593:0"
+	},
+	"page": {
+		"message": "crwdns14871:0crwdne14871:0"
+	},
+	"timeline": {
+		"message": "crwdns14872:0crwdne14872:0"
+	},
+	"group": {
+		"message": "crwdns14873:0crwdne14873:0"
+	},
+	"event": {
+		"message": "crwdns14874:0crwdne14874:0"
+	},
+	"format.label": {
+		"message": "crwdns14875:0crwdne14875:0"
+	},
+	"encoder.label": {
+		"message": "crwdns14882:0crwdne14882:0"
+	},
+	"bitrate": {
+		"message": "crwdns14883:0crwdne14883:0"
+	},
+	"saveVideo": {
+		"message": "crwdns14884:0crwdne14884:0"
+	},
+	"resolutionWarning": {
+		"message": "crwdns14885:0crwdne14885:0"
+	},
+	"bitrateWarning": {
+		"message": "crwdns17594:0crwdne17594:0"
+	},
+	"streamingWarning": {
+		"message": "crwdns35333:0crwdne35333:0"
+	},
+	"checkAgain": {
+		"message": "crwdns18349:0crwdne18349:0"
+	},
+	"authorize": {
+		"message": "crwdns14887:0crwdne14887:0"
+	},
+	"configuring": {
+		"message": "crwdns14888:0crwdne14888:0"
+	},
+	"system_test": {
+		"message": "crwdns18350:0%timestamp%crwdne18350:0"
+	},
+	"advanced_settings": {
+		"message": "crwdns18351:0crwdne18351:0"
+	}
+}

@@ -1,0 +1,89 @@
+{
+	"youtube.chat.tabheader": {
+		"message": "دردشة"
+	},
+	"youtube.chat.source": {
+		"message": "مصدر"
+	},
+	"youtube.chat.account": {
+		"message": "الحساب"
+	},
+	"youtube.chat.preview": {
+		"message": "معاينة"
+	},
+	"youtube.chat.account_automatic": {
+		"message": "تلقائي"
+	},
+	"youtube.chat.authorize": {
+		"message": "اعطاء XSplit لاستخدام YouTube Live"
+	},
+	"youtube.chat.remove_authorization": {
+		"message": "**٪ api٪ ** أزل التفويض"
+	},
+	"youtube.chat.switch_account": {
+		"message": "**٪ api٪ ** تبديل الحساب"
+	},
+	"youtube.chat.not_connected": {
+		"message": "سيتم توصيل القطعة تلقائيًا بمجرد بث مباشر"
+	},
+	"youtube.chat.connected": {
+		"message": "متصل"
+	},
+	"youtube.chat.error_channel_not_found": {
+		"message": "يرجى تقديم قناة صالحة."
+	},
+	"youtube.chat.display": {
+		"message": "عرض"
+	},
+	"youtube.chat.chat_box": {
+		"message": "صندوق الدردشه"
+	},
+	"youtube.chat.opacity": {
+		"message": "الشفافيه"
+	},
+	"youtube.chat.viewers": {
+		"message": "المشاهدين"
+	},
+	"youtube.chat.message": {
+		"message": "رسالة"
+	},
+	"youtube.chat.text_size": {
+		"message": "حجم الخط"
+	},
+	"youtube.chat.hide_user_icons": {
+		"message": "إخفاء رموز المستخدم"
+	},
+	"youtube.chat.hide_timestamps": {
+		"message": "إخفاء الطوابع الزمنية"
+	},
+	"youtube.chat.hide_on_idle": {
+		"message": "إخفاء الدردشة عند الخمول"
+	},
+	"youtube.chat.blocking": {
+		"message": "حجب"
+	},
+	"youtube.chat.blockedlist": {
+		"message": "القائمة المحظورة"
+	},
+	"youtube.chat.block_help": {
+		"message": "يمكنك حظر المشاهدين عن طريق إضافة اسمهم أو اسم المستخدم (بما في ذلك برامج الروبوت ، إن أمكن) في القائمة المحظورة حتى لا تظهر رسائلهم في عارض الدردشة. [br] [br] هذه القائمة المحظورة غير متصلة بالقائمة المحظورة لقناتك . إنه يعمل فقط لمصدر الدردشة هذا."
+	},
+	"youtube.chat.blocking_name": {
+		"message": "أدخل اسم أو اسم المستخدم للمشاهد الذي ترغب في حظره."
+	},
+	"youtube.chat.block_name": {
+		"message": "الاسم"
+	},
+	"youtube.chat.block_add": {
+		"message": "إضافة"
+	},
+	"youtube.chat.block_remove": {
+		"message": "إزالة"
+	},
+	"youtube.chat.loggingInTo": {
+		"message": "Logging in to YouTube..."
+	},
+	"youtube.chat.pleaseComplete": {
+		"message": "Please complete the login process in your browser"
+	}
+}

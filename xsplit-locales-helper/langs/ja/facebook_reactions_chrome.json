@@ -1,0 +1,98 @@
+{
+  "title.source": {
+    "message": "ソース"
+  },
+  "subtitle.account": {
+    "message": "アカウント"
+  },
+  "link.authorize": {
+    "message": "XSplitに対してFacebook Liveの使用を許可します。"
+  },
+  "subtitle2.authorize.error": {
+    "message": "XSplitが要求している権限を許可させる為、もう一度認証を行ってください。"
+  },
+  "subtitle.connect": {
+    "message": "投稿URL"
+  },
+  "chat.disconnected": {
+    "message": "接続されていません。"
+  },
+  "chat.connected": {
+    "message": "接続しました。"
+  },
+  "help.post.title": {
+    "message": "投稿URL"
+  },
+  "help.post.text": {
+    "message": "使用できるURLは一般公開の投稿、あなた自身の投稿（動画、画像、その他）、それかあなたの管理ページの投稿、画像、動画など。"
+  },
+  "chat.connect": {
+    "message": "接続"
+  },
+  "chat.disconnect": {
+    "message": "接続を切る"
+  },
+  "subtitle2.connect.error": {
+    "message": "有効な動画か投稿URLを使用してください。"
+  },
+  "title.display": {
+    "message": "ディスプレイ"
+  },
+  "label.lock": {
+    "message": "ロックコンポーネント"
+  },
+  "help.lock.title": {
+    "message": "ロックコンポーネント"
+  },
+  "help.lock.text": {
+    "message": "このオプションを有効にするとコンポーネントのマウスホバー、位置調整、サイズ変更などが出来なくなります。[br] 特に配信中やレコーディング中にこれらの機能を無効にしたい場合はこのオプションを有効にしてください。"
+  },
+  "label.reactions": {
+    "message": "リアクションとラベルを表示する"
+  },
+  "button.reset": {
+    "message": "リセット"
+  },
+  "label.bg": {
+    "message": "カウンターBG"
+  },
+  "label.counter": {
+    "message": "カウンター"
+  },
+  "label.label": {
+    "message": "ラベル"
+  },
+  "label.opacity": {
+    "message": "透明度"
+  },
+  "label.hide_connection_message": {
+    "message": "接続メッセージを非表示にする"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** アカウントを切り替える"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** 認証取り消し"
+  },
+  "input.like": {
+    "message": "いいね！"
+  },
+  "input.love": {
+    "message": "超いいね！"
+  },
+  "input.haha": {
+    "message": "うけるね"
+  },
+  "input.sad": {
+    "message": "悲しいね"
+  },
+  "input.wow": {
+    "message": "すごいね"
+  },
+  "input.angry": {
+    "message": "ひどいね"
+  },
+  "tabheader.title": {
+    "message": "リアクションを投稿します"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "gamepad.tabheader": {
+    "message": "Gamepad Visualizer"
+  },
+  "gamepad.source": {
+    "message": "Fonte"
+  },
+  "gamepad.device": {
+    "message": "Device"
+  },
+  "gamepad.no_device": {
+    "message": "No device selected"
+  },
+  "gamepad.appearance": {
+    "message": "Aparência"
+  },
+  "gamepad.joystick_input": {
+    "message": "Joystick Input"
+  },
+  "gamepad.face_buttons": {
+    "message": "Face Buttons"
+  },
+  "gamepad.remap_inputs": {
+    "message": "Remap Inputs"
+  },
+  "gamepad.cancel_remap": {
+    "message": "Cancel Remap"
+  },
+  "gamepad.reset_default": {
+    "message": "Reset to Default"
+  },
+  "gamepad.reset": {
+    "message": "Redefinir"
+  },
+  "gamepad.skin": {
+    "message": "Skin"
+  },
+  "gamepad.joystick_color_light": {
+    "message": "Light"
+  },
+  "gamepad.joystick_color_dark": {
+    "message": "Dark"
+  },
+  "gamepad.skin_ms_style": {
+    "message": "MS-Style Gamepad"
+  },
+  "gamepad.skin_ps_style": {
+    "message": "PS-Style Gamepad"
+  },
+  "gamepad.skin_8_button": {
+    "message": "8-Button Arcade Stick"
+  },
+  "gamepad.skin_6_button": {
+    "message": "6-Button Arcade Stick"
+  },
+  "gamepad.skin_hitbox": {
+    "message": "Hitbox Arcade Stick"
+  },
+  "gamepad.skin_wasd": {
+    "message": "WASD Arcade Stick"
+  },
+  "gamepad.waiting_for_input": {
+    "message": "Waiting for input"
+  },
+  "gamepad.press_any_button": {
+    "message": "Press any button on your controller"
+  }
+}

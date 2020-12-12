@@ -1,0 +1,38 @@
+{
+	"copyright": {
+		"message": "저작권 &copy; %dates%"
+	},
+	"terms": {
+		"message": "본 프로그램의 일부는 오픈 소스 라이브러리를 사용했습니다. [일반 라이선스 조약](%termslink%) 을 참고해주세요"
+	},
+	"licenseBenefitsLine": {
+		"message": "XSplit 을 구매하시면 Simulcast, 1080p 해상도 및 추가 기능을 함께!"
+	},
+	"licenseWillExpire": {
+		"message": "사용자님의 라이센스 유효기간은 **%expiry_date%** 까지 입니다."
+	},
+	"license-named": {
+		"message": "사용자님은 **%name%** 라이센스를 보유하고 계십니다"
+	},
+	"license-scoped": {
+		"message": "사용자님은 **%date%** 에 기간 만료되는 **%name%** 라이센스를 보유하고 계십니다"
+	},
+	"license-outsourced": {
+		"message": "사용자님의 라이센스는 **%source%** 에서 발급 되었습니다"
+	},
+	"license-complimentary": {
+		"message": "사용자님께서는 해당 **%name%** 라이센스 기간이 무료로 연장되었습니다."
+	},
+	"upgrade": {
+		"message": "여기를 클릭하여 라이센스 업그레이드 하기"
+	},
+	"extend": {
+		"message": "여기를 클릭하여 라이센스 기간 연장하기"
+	},
+	"buy": {
+		"message": "지금 업그레이드 하려면 여기를 클릭!"
+	},
+	"steam-header": {
+		"message": "실행하고자 하는 어플리케이션을 선택하세요"
+	}
+}

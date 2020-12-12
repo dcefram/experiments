@@ -1,0 +1,287 @@
+{
+	"socials.stream.label": {
+		"message": "공유할 방송주소 선택"
+	},
+	"socials.facebook.tab": {
+		"message": "페이스북"
+	},
+	"socials.facebook.logged": {
+		"message": "**%username%**로 로그인"
+	},
+	"socials.facebook.title": {
+		"message": "페이스북에 방송 주소 올리기"
+	},
+	"socials.facebook.messagePlaceholder": {
+		"message": "여기에 메시지 입력"
+	},
+	"socials.facebook.privacy.label": {
+		"message": "프라이버시"
+	},
+	"socials.facebook.privacy.values.EVERYONE": {
+		"message": "전체 공개"
+	},
+	"socials.facebook.privacy.values.ALL_FRIENDS": {
+		"message": "친구"
+	},
+	"socials.facebook.privacy.values.FRIENDS_OF_FRIENDS": {
+		"message": "친구의 친구에게"
+	},
+	"socials.facebook.privacy.values.SELF": {
+		"message": "나에게만"
+	},
+	"socials.facebook.share": {
+		"message": "공유"
+	},
+	"socials.facebook.cancel": {
+		"message": "취소"
+	},
+	"socials.facebook.authenticate": {
+		"message": "페이스북에 포스팅 하는 것을 승인합니다"
+	},
+	"socials.facebook.unauthenticated": {
+		"message": "페이스북에 방송을 공유하려면 로그인을 해야합니다."
+	},
+	"socials.twitter.tab": {
+		"message": "트위터"
+	},
+	"socials.twitter.logged": {
+		"message": "**%username%**로 로그인"
+	},
+	"socials.twitter.title": {
+		"message": "트위터에 방송 주소 올리기"
+	},
+	"socials.twitter.messagePlaceholder": {
+		"message": "여기에 메시지 입력"
+	},
+	"socials.twitter.tweet": {
+		"message": "공유"
+	},
+	"socials.twitter.cancel": {
+		"message": "취소"
+	},
+	"socials.twitter.authenticate": {
+		"message": "트위터에 포스팅하는 것을 승인합니다"
+	},
+	"socials.twitter.unauthenticated": {
+		"message": "트위터에 방송을 공유하려면 로그인을 해야합니다."
+	},
+	"socials.google.tab": {
+		"message": "구글 플러스"
+	},
+	"socials.google.logged": {
+		"message": "**%username%**로 로그인"
+	},
+	"socials.google.title": {
+		"message": "방송을 구글 플러스에 공유하기"
+	},
+	"socials.google.share": {
+		"message": "공유"
+	},
+	"socials.google.cancel": {
+		"message": "취소"
+	},
+	"socials.google.authenticate": {
+		"message": "구글 플러스에 포스팅할 수 있는 권한 받기"
+	},
+	"socials.google.unauthenticated": {
+		"message": "구글 플러스에 방송을 공유하려면 로그인을 해야합니다."
+	},
+	"socials.processing": {
+		"message": "프로세싱"
+	},
+	"facebookShare.addMessage": {
+		"message": "여기에 메시지 입력"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "Facebook 에 동영상 공유"
+	},
+	"facebookShare.via": {
+		"message": "XSplit Broadcaster를 통해"
+	},
+	"facebookShare.privacy": {
+		"message": "개인 정보"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "공개"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "친구"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "친구의 친구"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "나에게만"
+	},
+	"facebookShare.shareVideo": {
+		"message": "공유"
+	},
+	"facebookShare.cancel": {
+		"message": "취소"
+	},
+	"facebookShare.processing": {
+		"message": "프로세싱"
+	},
+	"facebookShare.postAs": {
+		"message": "게시할 곳"
+	},
+	"facebookShare.timeline": {
+		"message": "Facebook 타임라인"
+	},
+	"facebookShare.managePage": {
+		"message": "관리하는 페이지"
+	},
+	"twitterShare.addMessage": {
+		"message": "여기에 메시지 입력"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "Twitter 에 동영상 공유"
+	},
+	"twitterShare.privacy": {
+		"message": "개인 정보"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "공유"
+	},
+	"twitterShare.cancel": {
+		"message": "취소"
+	},
+	"twitterShare.processing": {
+		"message": "프로세싱"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "여기에 메시지 입력"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "Google 플러스에 동영상 공유"
+	},
+	"googlePlusShare.via": {
+		"message": "XSplit Broadcaster를 통해"
+	},
+	"googlePlusShare.privacy": {
+		"message": "개인 정보"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "모두에게"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "모든 친구에게"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "친구의 친구"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "나에게만"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "공유"
+	},
+	"googlePlusShare.cancel": {
+		"message": "취소"
+	},
+	"googlePlusShare.processing": {
+		"message": "프로세싱"
+	},
+	"vodShare.unauthorized": {
+		"message": "방송 주소를 SNS에 올리기 전에 위 아이콘을 눌러 한개 이상의 소셜 미디어 계정을 인증해야합니다."
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "방송 주소 SNS 공유"
+	},
+	"vodShare.processing": {
+		"message": "프로세싱"
+	},
+	"vodShare.addLink": {
+		"message": "스트림 링크 추가"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "개인 정보 보호 설정"
+	},
+	"vodShare.gameCheckin": {
+		"message": "게임 체크 인"
+	},
+	"vodShare.shareVideo": {
+		"message": "공유"
+	},
+	"vodShare.cancel": {
+		"message": "취소"
+	},
+	"vodShare.shareTo.1": {
+		"message": "%service1% 유일하게 공유"
+	},
+	"vodShare.shareTo.2": {
+		"message": "%service1% 와 %service2% 에만 공유"
+	},
+	"vodShare.shareTo.3": {
+		"message": "%service1%, %service2%, %service3% 에 공유"
+	},
+	"vodShare.shareTo.4": {
+		"message": "%service1%, %service2%, %service3%, %service4% 에 공유"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "Twitter 글자 수"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "Twitter에 게시할 수 있는 남은 글자수를 보여줍니다. 글자 중 파란색만이 Twitter로 보내질 것입니다."
+	},
+	"vodShare.gameNameWarning": {
+		"message": "이 게임은 Player.me 데이터베이스에 존재하지 않습니다. 이로인해 게시물에 표기되지 않습니다."
+	},
+	"vodShare.loadMore": {
+		"message": "더 불러오기..."
+	},
+	"vodStatus.title": {
+		"message": "방송 주소 SNS 공유"
+	},
+	"vodStatus.facebook": {
+		"message": "페이스북"
+	},
+	"vodStatus.twitter": {
+		"message": "트위터"
+	},
+	"vodStatus.playerme": {
+		"message": "Player.me"
+	},
+	"vodStatus.gplus": {
+		"message": "구글 플러스"
+	},
+	"vodStatus.posting": {
+		"message": "%social% 에 글 게시..."
+	},
+	"vodStatus.success": {
+		"message": "%social% 에 성공적으로 작성하였습니다.[br][%message%](%url%)"
+	},
+	"vodStatus.message.facebook": {
+		"message": "작성된 글 보기"
+	},
+	"vodStatus.message.twitter": {
+		"message": "트윗 보기"
+	},
+	"vodStatus.message.playerme": {
+		"message": "작성된 글 보기"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "정보 보기"
+	},
+	"vodStatus.error": {
+		"message": "%social% 에 게시를 실패하였습니다."
+	},
+	"vodStatus.failed": {
+		"message": "%social% 에 게시를 실패하였습니다.[br]%message%(%url%)"
+	},
+	"vodStatus.invalid": {
+		"message": "%social% 에 글 작성을 할 수 없습니다."
+	},
+	"vodStatus.edit": {
+		"message": "수정"
+	},
+	"vodStatus.retry": {
+		"message": "재시도"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "제안을 찾는중..."
+	},
+	"dialog.ok": {
+		"message": "닫기"
+	}
+}

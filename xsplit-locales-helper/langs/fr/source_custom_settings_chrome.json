@@ -1,0 +1,83 @@
+{
+	"button.ok": {
+		"message": "OK"
+	},
+	"button.cancel": {
+		"message": "Annuler"
+	},
+	"button.browse": {
+		"message": "Parcourir..."
+	},
+	"resolution.width": {
+		"message": "Largeur"
+	},
+	"resolution.height": {
+		"message": "Hauteur"
+	},
+	"resolution.desc": {
+		"message": "Description"
+	},
+	"framerate.fps": {
+		"message": "IPS"
+	},
+	"rtsp.webpage.header": {
+		"message": "Saisissez l'URL ou cliquez sur Parcourir pour sélectionner un fichier HTML."
+	},
+	"rtsp.url": {
+		"message": "URL"
+	},
+	"rtsp.protocol.label": {
+		"message": "Protocole"
+	},
+	"rtsp.protocol2.label": {
+		"message": "PROTOCOLE"
+	},
+	"rtsp.protocol.tooltip": {
+		"message": "Défini le niveau faible de protocole transp[ort RTSP. [br][br] Si vous avez des ralentissement ou desync, essayez de changer le protocole de TCP vers UDP. Si bloaué pars un pare-feu, essayez le protocol HTTP."
+	},
+	"rtsp.protocoldd.values.tcp": {
+		"message": "TCP"
+	},
+	"rtsp.protocoldd.values.udp": {
+		"message": "UDP"
+	},
+	"rtsp.protocoldd.values.http": {
+		"message": "HTTP"
+	},
+	"rtsp.protocoldd.values.custom": {
+		"message": "Personnalisé"
+	},
+	"rtmp.url": {
+		"message": "URL"
+	},
+	"rtmp.streamName": {
+		"message": "Nom de la diffusion"
+	},
+	"rtmp.buffer": {
+		"message": "Tampon (s)"
+	},
+	"script_plugin.header": {
+		"message": "Saisissez l'URL ou cliquez sur Parcourir pour sélectionner un fichier HTML ou PLG."
+	},
+	"locationCaption": {
+		"message": "Choisir l'emplacement pour extraire fichiers **%location%**."
+	},
+	"locationLabel": {
+		"message": "Emplacement"
+	},
+	"easingLabel": {
+		"message": "Aisance"
+	},
+	"easing.none": {
+		"message": "Aucun"
+	},
+	"easing.in": {
+		"message": "Entrée"
+	},
+	"easing.out": {
+		"message": "Sortie"
+	},
+	"easing.inout": {
+		"message": "Entrée/Sortie"
+	}
+}

@@ -1,0 +1,65 @@
+{
+  "video_playlist.audio_output": {
+    "message": "오디오 출력"
+  },
+  "video_playlist.playback": {
+    "message": "다시 재생"
+  },
+  "video_playlist.when_finished": {
+    "message": "완료되면"
+  },
+  "video_playlist.start_on_load": {
+    "message": "장면 등장시 재생"
+  },
+  "video_playlist.remember_playback_position": {
+    "message": "되감기 지점 기억하기"
+  },
+  "video_playlist.show_playback_position": {
+    "message": "동영상의 재생 타임라인 위치 표시"
+  },
+  "video_playlist.start_at": {
+    "message": "시작 위치"
+  },
+  "video_playlist.set": {
+    "message": "설정"
+  },
+  "video_playlist.end_at": {
+    "message": "정지 위치"
+  },
+  "video_playlist.reset": {
+    "message": "리셋"
+  },
+  "video_playlist.force_deinterlace": {
+    "message": "디인터레이스 실행"
+  },
+  "video_playlist.videos": {
+    "message": "동영상"
+  },
+  "video_playlist.playlist": {
+    "message": "재생 목록"
+  },
+  "video_playlist.add": {
+    "message": "추가"
+  },
+  "video_playlist.remove": {
+    "message": "삭제"
+  },
+  "video_playlist.ok": {
+    "message": "Ok"
+  },
+  "video_playlist.cancel": {
+    "message": "닫기"
+  },
+  "video_playlist.hint.videos_section": {
+    "message": "추가, 제거 또는 순서 배열"
+  },
+  "video_playlist.hint.video_playback_section": {
+    "message": "재생, 비디오 볼륨, 그리고 오디오 출력 장치를 컨트롤"
+  },
+  "video_playlist.hint.video_missing": {
+    "message": "소스 파일이 비어있습니다. 이름이 수정되었거나 삭제되었을 것입니다."
+  },
+  "video_playlist.processing": {
+    "message": "동영상 처리 중..."
+  }
+}

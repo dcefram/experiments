@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="TitleIsEmpty" xml:space="preserve">
+    <value>Titel muss angegeben werden.</value>
+  </data>
+  <data name="msgAuthExpiredOrInvalid" xml:space="preserve">
+    <value>Zugriffstoken fehlt, ist abgelaufen, oder ungültig. Bitte erneut zu autorisieren.
+
+Wenn das Problem weiterhin besteht, wenden Sie sich an den Support.</value>
+  </data>
+  <data name="AutoRTMPServer" xml:space="preserve">
+    <value>&lt;Automatisch&gt;</value>
+  </data>
+  <data name="NewLiveVideo" xml:space="preserve">
+    <value>&lt;Neuen Live-Video-Kanal erstellen&gt;</value>
+  </data>
+  <data name="AutoIngestName" xml:space="preserve">
+    <value>Automatisch</value>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>Klicken Sie auf Autorisieren, um Ihr Dailymotion-Konto zu verknüpfen</value>
+  </data>
+  <data name="DefaultRTMPServer" xml:space="preserve">
+    <value>Standard-Server</value>
+  </data>
+  <data name="btnFinishWizard" xml:space="preserve">
+    <value>Fertig stellen</value>
+  </data>
+  <data name="fmtAutoBitrateResult" xml:space="preserve">
+    <value>Erreichter Durchsatz zum Zielserver betrug {0} Kbit/s (?)</value>
+  </data>
+  <data name="fmtAutoIngestAfter" xml:space="preserve">
+    <value>Versucht auf {0} zu streamen (?)</value>
+  </data>
+  <data name="frmDailyMotion" xml:space="preserve">
+    <value>Dailymotion-Eigenschaften</value>
+  </data>
+  <data name="btnAuthorize" xml:space="preserve">
+    <value>Autorisieren</value>
+  </data>
+  <data name="lblAutoIngestBefore" xml:space="preserve">
+    <value>Besten Server bestimmen...</value>
+  </data>
+  <data name="lblBwTestFailed" xml:space="preserve">
+    <value>Bandbreitentest nicht bestanden. Bitte überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut.</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>Deautorisieren</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>Kein Dailymotion-Konto? Melden Sie sich hier an.</value>
+  </data>
+  <data name="lblTip" xml:space="preserve">
+    <value>{0} ist möglicherweise nicht ausreichend für die gewählte Auflösung.</value>
+  </data>
+  <data name="lblTipRequiredHw" xml:space="preserve">
+    <value>Empfohlene Hardware (?)</value>
+  </data>
+  <data name="lblTipRequiredUpload" xml:space="preserve">
+    <value>erforderliche Bandbreite (?)</value>
+  </data>
+  <data name="lblTipRequiredUploadAndHw" xml:space="preserve">
+    <value>erforderliche Bandbreite (?) und empfohlene Hardware (?)</value>
+  </data>
+  <data name="linktip_datarate" xml:space="preserve">
+    <value>Bandbreite zwischen Ihrem Computer 
+und dem Zielserver kann bis zu {0} Kbit/s erreichen, 
+was die maximal empfohlene Bitrate für {1} ist.</value>
+  </data>
+  <data name="linktip_datarate_over" xml:space="preserve">
+    <value>Bandbreite zwischen Ihrem Computer 
+und dem Zielserver kann mehr als {0} Kbit/s erreichen, 
+was die maximal empfohlene Bitrate für {1} ist.</value>
+  </data>
+  <data name="linktip_datarate_under" xml:space="preserve">
+    <value>Bandbreite zwischen Ihrem Computer 
+und dem Zielserver beträgt {0} Kbit/s, 
+was für {1} ausreichend ist.</value>
+  </data>
+  <data name="linktip_datarate_under1" xml:space="preserve">
+    <value>Bandbreite zwischen Ihrem Computer 
+und dem Zielserver beträgt {0} Kbit/s, 
+was für {1} möglicherweise nicht ausreichend ist.</value>
+  </data>
+  <data name="linktip_hardware" xml:space="preserve">
+    <value>Wenn Sie auf einer Konsole oder einem anderen Computer 
+spielen, der über eine Aufnahme-Karte verbunden ist, 
+dann machen Sie doch weiter und versuchen Sie's (-:</value>
+  </data>
+  <data name="linktip_ingest" xml:space="preserve">
+    <value>Von den verfügbaren Zielservern, welche durch Dailymotion 
+bereitgestellt wurden ist dieser Server derzeit derjenige 
+mit den besten Antwort-Zeiten.  Der Server wird wahrscheinlich 
+abhängig von Routing, Überlastung, Tageszeit und anderen 
+externen Faktoren, die im Internet geschehen, schwanken</value>
+  </data>
+  <data name="linktip_upload" xml:space="preserve">
+    <value>Zuschauer interessieren sich für einen Video-Feed mit reibungsloser, 
+guter Qualität.  Die meisten Zuschauer wollen eher einen guten {0}, 
+anstelle von einem verzögerten und ruckelnden {1}-Stream sehen.</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>Es gab ein Problem bei der Kommunikation mit dem Dailymotion-Server. Bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="msgAuthorizeRequired" xml:space="preserve">
+    <value>Sie müssen zuerst ein Konto autorisieren.</value>
+  </data>
+  <data name="lblLiveVideoCategories" xml:space="preserve">
+    <value>Kategorie:</value>
+  </data>
+  <data name="lblLiveVideoChannels" xml:space="preserve">
+    <value>Live-Video:</value>
+  </data>
+  <data name="lblServer" xml:space="preserve">
+    <value>Server:</value>
+  </data>
+  <data name="lblTitle" xml:space="preserve">
+    <value>Titel:</value>
+  </data>
+  <data name="btnBack" xml:space="preserve">
+    <value>Zurück</value>
+  </data>
+  <data name="btnNext" xml:space="preserve">
+    <value>Weiter</value>
+  </data>
+  <data name="btnSkipWizard" xml:space="preserve">
+    <value>Assistent überspringen</value>
+  </data>
+  <data name="lblHint0" xml:space="preserve">
+    <value>XSplit hat festgestellt, dass keine Stream-Kanäle auf Ihrem Konto konfiguriert sind. Als Sie sich für XSplit angemeldet haben, wurde Ihr Konto mit Dailymotion verbunden.</value>
+  </data>
+  <data name="lblHint01" xml:space="preserve">
+    <value>Dieser Assistent hilft Ihnen, Ihren Dailymotion-Kanal einzurichten.</value>
+  </data>
+  <data name="lblHint1" xml:space="preserve">
+    <value>Bitte geben Sie Ihre Dailymotion-Anmeldeinformationen ein.</value>
+  </data>
+  <data name="lblUsername2" xml:space="preserve">
+    <value>Konto:</value>
+  </data>
+  <data name="neverShowAgain" xml:space="preserve">
+    <value>Ich will nicht mehr mit Dailymotion verknüpft sein.</value>
+  </data>
+  <data name="msgConfirmMixerResFpsAdjustment" xml:space="preserve">
+    <value>Der Mixer wird jetzt auf {0} gesetzt werden. Anwenden?</value>
+  </data>
+  <data name="lblAutoBitrateResult" xml:space="preserve">
+    <value>Basierend auf der Auswahl unten, wird der Assistent Ihre Kanaleinstellungen entsprechend der gewünschten Auflösung vorkonfigurieren. Ihre empfohlene Auflösung ist:</value>
+  </data>
+  <data name="lblNumAds" xml:space="preserve">
+    <value>Anzahl der Werbeunterbrechungen für diesen Livestream einstellen</value>
+  </data>
+  <data name="chkAutoRecord" xml:space="preserve">
+    <value>Automatisch diesen Livestream auf Dailymotion aufnehmen</value>
+  </data>
+</root>

@@ -1,0 +1,38 @@
+{
+	"currentResolutionNotSupported": {
+		"message": "Ihre aktuelle Videoauflösung ist auf %resolution% festgelegt. Ihre aktuelle Video-Framerate ist %fps%."
+	},
+	"currentResolutionNotSupportedYouTube": {
+		"message": "Ihre Videoauflösung ist auf %resolution% bei %fps% Frames pro Sekunde festgelegt, was NICHT von YouTube Live unterstützt wird. Stellen Sie Ihre Auflösung auf eine unterstützte Auflösung aus der nachfolgenden Tabelle ein."
+	},
+	"currentResolutionSupported": {
+		"message": "Ihre aktuelle Videoauflösung ist auf %resolution% festgelegt. Ihre aktuelle Video-Framerate beträgt *%fps%*. Sehen Sie in untenstehender Tabelle nach empfohlener Bitrate"
+	},
+	"currentResolutionSupportedYouTube": {
+		"message": "Ihre *aktuelle Videoauflösung* ist auf *%resolution%* gesetzt. Ihre aktuelle Video-Framerate beträgt *%fps%*. Siehe Anleitung unten für empfohlene Video-Bitrate."
+	},
+	"currentResolutionCapable1080pYouTube": {
+		"message": "Ihre *aktuelle Videoauflösung * ist auf *%resolution%* gesetzt. Ihre aktuelle Video-Framerate beträgt *%fps%*. Sie sollten es sich *lieber zweimal überlegen, bevor Sie in 1080p oder höheren Auflösungen streamen*, es sei denn, Sie verfügen über eine sehr starke CPU in Verbindung mit einer sehr breitbandigen Internetverbindung."
+	},
+	"currentResolutionNotCapable1080pYouTube": {
+		"message": "Ihre *aktuelle Videoauflösung * ist auf *%resolution%* gesetzt. Ihre aktuelle Video-Framerate beträgt *%fps%*. Sie sollten es sich *lieber zweimal überlegen, bevor Sie in 1080p oder höheren Auflösungen streamen*, es sei denn, Sie verfügen über eine sehr starke CPU (welche Sie möglicherweise nicht haben) in Verbindung mit einer sehr breitbandigen Internetverbindung."
+	},
+	"defaultMessage": {
+		"message": "Für %service% empfehlen wir ausschließlich eine der nachfolgenden Auflösungen. Ändern Sie Ihre Auflösung im Auflösung-Menü"
+	},
+	"resolution": {
+		"message": "Auflösung"
+	},
+	"suggestedBitRate": {
+		"message": "Empfohlene Bitrate"
+	},
+	"maximumBitRate": {
+		"message": "Maximale Bitrate"
+	},
+	"minimumBitRate": {
+		"message": "Minimale Bitrate"
+	},
+	"warning": {
+		"message": "Versuchen Sie nicht %resolutions%, es sei denn, Sie haben eine gigantische CPU und eine Internet-Verbindung wie eine Öl-Pipeline"
+	}
+}

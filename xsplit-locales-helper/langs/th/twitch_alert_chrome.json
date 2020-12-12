@@ -1,0 +1,95 @@
+{
+	"twitch.alert.tabheader": {
+		"message": "เตือน"
+	},
+	"twitch.alert.source": {
+		"message": "ซอส"
+	},
+	"twitch.alert.account": {
+		"message": "บัญชี"
+	},
+	"twitch.alert.authorize": {
+		"message": "เชื่อมต่อ Xsplit เพื่อใช้ Twitch"
+	},
+	"twitch.alert.remove_authorization": {
+		"message": "**%api%** ถอนการอนุญาต"
+	},
+	"twitch.alert.switch_account": {
+		"message": "**%api%** สลับบัญชี"
+	},
+	"twitch.alert.not_connected": {
+		"message": "ไม่ได้เชื่อมต่อ"
+	},
+	"twitch.alert.connected": {
+		"message": "เชื่อมต่อแล้ว"
+	},
+	"twitch.alert.connect": {
+		"message": "เชื่อมต่อ"
+	},
+	"twitch.alert.disconnect": {
+		"message": "ตัดการเชื่อมต่อ"
+	},
+	"twitch.alert.alertLabel": {
+		"message": "เตือน"
+	},
+	"twitch.alert.animation_text": {
+		"message": "อนิเมชั่น"
+	},
+	"twitch.alert.duration": {
+		"message": "ระยะเวลา"
+	},
+	"twitch.alert.delay": {
+		"message": "แสดงเวลา"
+	},
+	"twitch.alert.animateIn": {
+		"message": "อนิเมชั่นเข้า"
+	},
+	"twitch.alert.animateOut": {
+		"message": "อนิเมชั่นออก"
+	},
+	"twitch.alert.audio": {
+		"message": "เสียง"
+	},
+	"twitch.alert.generalHeader": {
+		"message": "ทั่วไป"
+	},
+	"twitch.alert.customizeHeader": {
+		"message": "ปรับแต่ง"
+	},
+	"twitch.alert.theme": {
+		"message": "ธีม"
+	},
+	"twitch.alert.minMonth": {
+		"message": "เดือนขั้นต่ำ"
+	},
+	"twitch.alert.minViewers": {
+		"message": "ผู้ชมขั้นต่ำ"
+	},
+	"twitch.alert.minCheer": {
+		"message": "เชียร์ขั้นต่ำ"
+	},
+	"twitch.alert.type": {
+		"message": "ประเภท"
+	},
+	"twitch.alert.nameStyleAndSettings": {
+		"message": "สไตล์ชื่อและการตั้งค่า"
+	},
+	"twitch.alert.sound": {
+		"message": "เสียง"
+	},
+	"twitch.alert.show_alert": {
+		"message": "ตัวอย่าง"
+	},
+	"twitch.alert.hide_alert": {
+		"message": "ซ่อนตัวอย่าง"
+	},
+	"twitch.alert.test_alert": {
+		"message": "ทดสอบการเตือน"
+	},
+	"twitch.alert.Color": {
+		"message": "สี"
+	},
+	"twitch.alert.layout": {
+		"message": "เลย์เอ้าท์"
+	}
+}

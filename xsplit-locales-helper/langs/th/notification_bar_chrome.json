@@ -1,0 +1,59 @@
+{
+  "COUNTER": {
+    "message": "(%count%/%total%)"
+  },
+  "IN_GAME_HUD.text": {
+    "message": "ลอง in-game HUD ใหม่ของเรา! แค่กด ALT+` เมื่อเล่นเกมอะไรก็เพิ่มลงไปในฉากของคุณผ่าน Game Capture"
+  },
+  "UI_UPDATE_ANNOUNCEMENT.text": {
+    "message": "**ขอต้อนรับเข้าสู่ XBC 3.9!** เรามีฟีเจอร์ใหม่มากมายที่่อยากให้คุณลอง"
+  },
+  "UI_UPDATE_ANNOUNCEMENT.link": {
+    "message": "[เรียนรู้เพิ่มเติม](%url%)"
+  },
+  "REQUEST_PERMISSION.label": {
+    "message": "สิทธิ"
+  },
+  "REQUEST_PERMISSION.text": {
+    "message": "ซอสหรือส่วนขยายจำนวนหนึ่งหรือมากกว่า กำลังร้องขอสิทธิ์เพื่อใช้งานสคริปต์"
+  },
+  "REQUEST_PERMISSION.link": {
+    "message": "[แก้ไขสิทธิ์](editAccess)"
+  },
+  "PLUGINS_UPDATE.label": {
+    "message": "อัพเดทสำหรับปลั๊กอินพร้อมใช้งานแล้ว!"
+  },
+  "PLUGINS_UPDATE.link": {
+    "message": "[แสดงอัพเดท](PLUGINS_UPDATE)"
+  },
+  "NEW_CRISP_MESSAGE.label": {
+    "message": "สนับสนุน"
+  },
+  "NEW_CRISP_MESSAGE.link": {
+    "message": "[เปิดข้อความ](openCrispChat)"
+  },
+  "NEW_CRISP_MESSAGE.file": {
+    "message": "คุณได้รับไฟล์ใหม่"
+  },
+  "NEW_CRISP_MESSAGE.single": {
+    "message": "คุณมี %count% ข้อความใหม่"
+  },
+  "NEW_CRISP_MESSAGE.multiple": {
+    "message": "คุณมี %count% ข้อความใหม่"
+  },
+  "IDENTIFY_GAMES.label": {
+    "message": "การติดตามเกม"
+  },
+  "IDENTIFY_GAMES.text": {
+    "message": "ช่วยเราในการระบุเกมที่คุณทำการแคปเจอร์เพื่อที่เราจะได้เสนอการบริการที่ดียิ่งขึ้น"
+  },
+  "IDENTIFY_GAMES.link": {
+    "message": "[แท็กเกม](identifyGames)"
+  },
+  "WINDOWS_GAMEBAR.text": {
+    "message": "**วินโดวส์เกมโหมด** ถูกเปิดใช้งานในระบบของคุณ นี่อาจจะส่งผลกระทบต่อประสิทธิภาพในเครื่องของคุณได้"
+  },
+  "EXTENSION_RUNNING_IN_BACKGROUND.text": {
+    "message": "%name% ตอนนี้กำลังทำงานอยู่เบื้องหลัง คุณอาจตั้งค่ามันโดยการคลิกที่ไอคอนฟันเฟือง [GEAR](ICON-GEAR) ในเมนูส่วนขยาย"
+  }
+}

@@ -1,0 +1,41 @@
+{
+	"streamSettings.freeUserLimitationStreamReso": {
+		"message": "XSplit Broadcasterは%resolution%以上での高解像度でストリーミングできますが、この機能は有料版ライセンスを使用のユーザーにのみ開放されています。[br][br]続行方法を選択して下さい。"
+	},
+	"streamSettings.freeUserLimitationRecordReso": {
+		"message": "XSplit Broadcasterは%resolution%以上での高解像度で録画できますが、この機能は有料版ライセンスを使用のユーザーにのみ開放されています。[br][br]続行方法を選択して下さい。"
+	},
+	"streamSettings.freeUserLimitationStreamFps": {
+		"message": "XSplit Broadcasterは%fps%以上のフレームレートで放送する事ができます。しかし、この機能は有料ライセンス保持者のみ使用できます。[br][br]どの様に続行したいか選択してください。"
+	},
+	"streamSettings.freeUserLimitationRecordFps": {
+		"message": "XSplit Broadcasterは%fps%以上のフレームレートで録画する事ができます。しかし、この機能は有料ライセンス保持者のみ使用できます。[br][br]どの様に続行したいか選択してください。"
+	},
+	"streamSettings.freeUserLimitationStreamResoFps": {
+		"message": "XSplit Broadcasterは%resolution%以上の解像度と%fps%以上のフレームレートで放送する事ができますが、この機能は有料版ライセンスを使用のユーザーにのみ開放されています。[br][br]続行方法を選択して下さい。"
+	},
+	"streamSettings.freeUserLimitationRecordResoFps": {
+		"message": "XSplit Broadcasterは%resolution%以上の解像度と%fps%以上のフレームレートで録画する事ができますが、この機能は有料版ライセンスを使用のユーザーにのみ開放されています。[br][br]続行方法を選択して下さい。"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonReso": {
+		"message": "%resolution%での%type%[br]ウォーターマーク[br]無し"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonFps": {
+		"message": "%type%で%fps%[br]ウォーターマーク[br]無し"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonResoFps": {
+		"message": "%type%で%resolution%[br]@%fps%[br]ウォーターマーク[br]無し"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonReso": {
+		"message": "%type%で%resolution%[br]ウォーターマーク[br]有り"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonFps": {
+		"message": "%type%で%fps%[br]ウォーターマーク[br]有り"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonResoFps": {
+		"message": "%type%で%resolution%[br]@%fps%[br]ウォーターマーク[br]有り"
+	},
+	"streamSettings.buyLicenseButton": {
+		"message": "ウォーターマークを[br]取り除くために[br]ライセンスを購入する\n"
+	}
+}

@@ -1,0 +1,95 @@
+{
+	"mixer.chat.tabheader": {
+		"message": "Chat"
+	},
+	"mixer.chat.source": {
+		"message": "مصدر"
+	},
+	"mixer.chat.not_connected": {
+		"message": "غير متصل"
+	},
+	"mixer.chat.connected": {
+		"message": "متصل"
+	},
+	"mixer.chat.channel": {
+		"message": "قناة "
+	},
+	"mixer.chat.connect": {
+		"message": "متصل"
+	},
+	"mixer.chat.disconnect": {
+		"message": "قطع الاتصال"
+	},
+	"mixer.chat.invalid.channel": {
+		"message": "Please provide a valid channel."
+	},
+	"mixer.chat.display": {
+		"message": "Display"
+	},
+	"mixer.chat.preview": {
+		"message": "Preview"
+	},
+	"mixer.chat.chat_box": {
+		"message": "صندوق الدردشه"
+	},
+	"mixer.chat.opacity": {
+		"message": "الشفافيه"
+	},
+	"mixer.chat.viewers": {
+		"message": "المشاهدين"
+	},
+	"mixer.chat.message": {
+		"message": "رسالة"
+	},
+	"mixer.chat.text_size": {
+		"message": "حجم الخط"
+	},
+	"mixer.chat.pixel_unit": {
+		"message": "px"
+	},
+	"mixer.chat.default_color": {
+		"message": "Use Mixer chat colors"
+	},
+	"mixer.chat.hide_user_icons": {
+		"message": "Hide user icons"
+	},
+	"mixer.chat.hide_timestamp": {
+		"message": "Hide timestamps"
+	},
+	"mixer.chat.hide_on_idle": {
+		"message": "Hide chat when idle for"
+	},
+	"mixer.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"mixer.chat.blocking": {
+		"message": "حجب"
+	},
+	"mixer.chat.blockedlist": {
+		"message": "القائمة المحظورة"
+	},
+	"mixer.chat.block_help": {
+		"message": "يمكنك حظر المشاهدين عن طريق إضافة اسمهم أو اسم المستخدم (بما في ذلك برامج الروبوت ، إن أمكن) في القائمة المحظورة حتى لا تظهر رسائلهم في عارض الدردشة. [br] [br] هذه القائمة المحظورة غير متصلة بالقائمة المحظورة لقناتك . إنه يعمل فقط لمصدر الدردشة هذا."
+	},
+	"mixer.chat.blocking_name": {
+		"message": "أدخل اسم أو اسم المستخدم للمشاهد الذي ترغب في حظره."
+	},
+	"mixer.chat.block_name": {
+		"message": "Name"
+	},
+	"mixer.chat.block_add": {
+		"message": "إضافة"
+	},
+	"mixer.chat.block_remove": {
+		"message": "إزالة "
+	},
+	"mixer.chat.account": {
+		"message": "الحساب"
+	},
+	"mixer.chat.authorize": {
+		"message": "Authorize XSplit to use Mixer"
+	},
+	"mixer.chat.remove_authorization": {
+		"message": "**%api%** Remove authorization"
+	}
+}

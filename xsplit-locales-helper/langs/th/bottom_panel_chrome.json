@@ -1,0 +1,89 @@
+{
+  "scene_label": {
+    "message": "ฉาก"
+  },
+  "add_source": {
+    "message": "เพิ่มแหล่งที่มา"
+  },
+  "copy": {
+    "message": "คัดลอก"
+  },
+  "paste": {
+    "message": "วาง"
+  },
+  "remove": {
+    "message": "เอาออก"
+  },
+  "rename": {
+    "message": "เปลี่ยนชื่อ"
+  },
+  "settings": {
+    "message": "การตั้งค่า"
+  },
+  "group": {
+    "message": "กลุ่มแหล่งที่มา"
+  },
+  "lock": {
+    "message": "ล็อคตำแหน่ง"
+  },
+  "fit": {
+    "message": "พอดีกับหน้าจอ"
+  },
+  "restore": {
+    "message": "คืนค่าเริ่มต้น"
+  },
+  "move_up": {
+    "message": "เลือนซอสขึ้น"
+  },
+  "move_down": {
+    "message": "เลื่อนซอสลง"
+  },
+  "mute_mic": {
+    "message": "ปิดเสียง/เปิดเสียงไมโครโฟนตั้งต้น"
+  },
+  "mute_spk": {
+    "message": "ปิดเสียง/เปิดเสียงลำโพงตั้งต้น"
+  },
+  "open_mixer": {
+    "message": "เปิดผสานเสียง"
+  },
+  "transition_label": {
+    "message": "การเปลี่ยน"
+  },
+  "transition_menu": {
+    "message": "ตั้งค่าสไตล์และความเร็ว ของการเปลี่ยนภาพ"
+  },
+  "add_favorite": {
+    "message": "ตั้งการเปลี่ยนที่เลือกเป็นรายการโปรด"
+  },
+  "open_favorite": {
+    "message": "เปิดการเปลี่ยนภาพโปรด"
+  },
+  "push_live": {
+    "message": "พุชไลฟ์"
+  },
+  "push_live_menu": {
+    "message": "ขึ้นไลฟ์"
+  },
+  "stream": {
+    "message": "สตรีม"
+  },
+  "record": {
+    "message": "บันทึก"
+  },
+  "pause_recording": {
+    "message": "หยุดการบันทึก"
+  },
+  "resume_recording": {
+    "message": "ทำการบันทึกต่อ"
+  },
+  "screenshot": {
+    "message": "สกรีนช็อต"
+  },
+  "empty_channel": {
+    "message": "ดูเหมือนไม่มีอะไรที่นี่<br/><br/>คลิกบนปุ่มสตรีมเพื่อตั้งค่าการแสดงสตรีมแรกของคุณ"
+  },
+  "empty_list": {
+    "message": "มันช่างว่างเปล่าที่นี่<br/>คลิกที่ปุ่มด้านล่างเพื่อใส่แหล่งที่มาแรกของคุณ"
+  }
+}

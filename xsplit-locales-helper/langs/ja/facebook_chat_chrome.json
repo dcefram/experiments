@@ -1,0 +1,101 @@
+{
+  "facebook.chat.tabheader": {
+    "message": "チャット"
+  },
+  "facebook.chat.source": {
+    "message": "ソース"
+  },
+  "facebook.chat.account": {
+    "message": "アカウント"
+  },
+  "facebook.chat.automatic": {
+    "message": "自動"
+  },
+  "facebook.chat.authorize": {
+    "message": "XSplitに対してFacebook Liveの使用を許可します。"
+  },
+  "facebook.chat.remove_authorization": {
+    "message": "**%api%** 認証取り消し"
+  },
+  "facebook.chat.switch_account": {
+    "message": "**%api%** アカウントを切り替える"
+  },
+  "facebook.chat.error_auth": {
+    "message": "XSplitが要求している権限を許可させる為、もう一度認証を行ってください。"
+  },
+  "facebook.chat.not_connected": {
+    "message": "配信が始まると自動的にコメントが読み込まれます"
+  },
+  "facebook.chat.connected": {
+    "message": "接続しました。"
+  },
+  "facebook.chat.display": {
+    "message": "ディスプレイ"
+  },
+  "facebook.chat.preview": {
+    "message": "プレビュー"
+  },
+  "facebook.chat.chatbox": {
+    "message": "チャットボックス"
+  },
+  "facebook.chat.opacity": {
+    "message": "透明度"
+  },
+  "facebook.chat.viewers": {
+    "message": "閲覧者"
+  },
+  "facebook.chat.message": {
+    "message": "メッセージ"
+  },
+  "facebook.chat.text_size": {
+    "message": "テキストサイズ"
+  },
+  "facebook.chat.text_direction": {
+    "message": "テキスト方向"
+  },
+  "facebook.chat.hide_user_icons": {
+    "message": "ユーザーアイコンを隠す"
+  },
+  "facebook.chat.one_line_entries": {
+    "message": "1行エントリー"
+  },
+  "facebook.chat.hide_timestamps": {
+    "message": "タイムスタンプを隠す"
+  },
+  "facebook.chat.hide_chat_when_idle": {
+    "message": "無反応時にチャットを隠す"
+  },
+  "facebook.chat.blocking": {
+    "message": "ブロッキング"
+  },
+  "facebook.chat.blockedlist": {
+    "message": "ブロックリスト"
+  },
+  "facebook.chat.block_help": {
+    "message": "ブロックリストに視聴者（それ以外にもBOTなど）の名前やユーザーネームを入力する事でチャットビューアーにメッセージが表示されない用にする事が出来ます。[br][br] このリストはあなたのチャンネルのブロックリストとは別です。こちらのチャットビューアーにのみ適応されます。"
+  },
+  "facebook.chat.blocking_name": {
+    "message": "ブロックしたい視聴者の名前かユーザーネームを入力してください。"
+  },
+  "facebook.chat.block_name": {
+    "message": "名前"
+  },
+  "facebook.chat.block_add": {
+    "message": "追加"
+  },
+  "facebook.chat.block_remove": {
+    "message": "削除"
+  },
+  "facebook.chat.hide_connection_message": {
+    "message": "接続メッセージを非表示にする"
+  },
+  "facebook.chat.not_seeing_videos": {
+    "message": "ライブ映像が表示されておりませんか？"
+  },
+  "facebook.chat.not_seeing_videos_help": {
+    "message": "あなたのページへアクセスする許可がない可能性があります。"
+  },
+  "facebook.chat.not_seeing_videos_link": {
+    "message": "こちらをクリックし、再承認を行ってください"
+  }
+}

@@ -1,0 +1,89 @@
+{
+	"youtube.chat.tabheader": {
+		"message": "แชท"
+	},
+	"youtube.chat.source": {
+		"message": "ซอส"
+	},
+	"youtube.chat.account": {
+		"message": "บัญชี"
+	},
+	"youtube.chat.preview": {
+		"message": "ตัวอย่าง"
+	},
+	"youtube.chat.account_automatic": {
+		"message": "อัตโนมัติ"
+	},
+	"youtube.chat.authorize": {
+		"message": "อนุญาตให้ XSplit ใช้งาน Youtube Live"
+	},
+	"youtube.chat.remove_authorization": {
+		"message": "**%api%** ถอนการอนุญาต"
+	},
+	"youtube.chat.switch_account": {
+		"message": "**%api%** สลับบัญชี"
+	},
+	"youtube.chat.not_connected": {
+		"message": "วิดเจ็ตวจะถูกเชื่อมต่อโดยอัตโนมัติเมื่อสตรีมไลฟ์แล้ว"
+	},
+	"youtube.chat.connected": {
+		"message": "เชื่อมต่อแล้ว"
+	},
+	"youtube.chat.error_channel_not_found": {
+		"message": "โปรดระบุแชนแนลที่ถูกต้อง"
+	},
+	"youtube.chat.display": {
+		"message": "แสดงผล"
+	},
+	"youtube.chat.chat_box": {
+		"message": "ช่องแชท"
+	},
+	"youtube.chat.opacity": {
+		"message": "ความทึบแสง"
+	},
+	"youtube.chat.viewers": {
+		"message": "ผู้ชม"
+	},
+	"youtube.chat.message": {
+		"message": "ข้อความ"
+	},
+	"youtube.chat.text_size": {
+		"message": "ขนาดข้อความ"
+	},
+	"youtube.chat.hide_user_icons": {
+		"message": "ซ่อนไอค่อนผู้ใช้"
+	},
+	"youtube.chat.hide_timestamps": {
+		"message": "ซ่อนเวลา"
+	},
+	"youtube.chat.hide_on_idle": {
+		"message": "ซ่อนแชทเมื่อปล่อยว่างเป็นเวลา"
+	},
+	"youtube.chat.blocking": {
+		"message": "การบล็อค"
+	},
+	"youtube.chat.blockedlist": {
+		"message": "รายชื่อที่ถูกบล็อค"
+	},
+	"youtube.chat.block_help": {
+		"message": "คุณสามารถบล็อคผู้ชมได้โดยเพิ่มชื่อหรือชื่อผู้ใช้ (รวมทั้งบอท ถ้าต้องการ) ในช่องรายชื่อที่ถูกบล็อค โดยข้อความของพวกเขาจะไม่ปรากฏในช่องแชท[br][br]รายชื่อการบล็อคนี้จะไม่เชื่อโยงกับการบล็อคแชนแนลของคุณ รายชื่อนี้จะทำงานจากซอสของแชทนี้เท่านััน"
+	},
+	"youtube.chat.blocking_name": {
+		"message": "ป้อนชื่อ หรือชื่อผู้ใช้ ผู้ชมที่คุณต้องการจะบล็อค"
+	},
+	"youtube.chat.block_name": {
+		"message": "ชื่อ"
+	},
+	"youtube.chat.block_add": {
+		"message": "เพิ่มเติม"
+	},
+	"youtube.chat.block_remove": {
+		"message": "เอาออก"
+	},
+	"youtube.chat.loggingInTo": {
+		"message": "ลงชื่อเข้าใช้ใน YouTube..."
+	},
+	"youtube.chat.pleaseComplete": {
+		"message": "โปรดเสร็จสิ้นกระบวนการลงชื่อเข้าใช้งานในเบราว์เซอร์คุณ"
+	}
+}

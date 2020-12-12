@@ -1,0 +1,173 @@
+{
+  "title.content": {
+    "message": "يحتوى"
+  },
+  "title.use_custom_script": {
+    "message": "استخدم البرنامج النصي المخصص"
+  },
+  "title.edit_script": {
+    "message": "تحرير البرنامج النصي"
+  },
+  "title.format": {
+    "message": "Format"
+  },
+  "title.font": {
+    "message": "الخط"
+  },
+  "title.color": {
+    "message": "Color"
+  },
+  "title.outline": {
+    "message": "الخطوط العريضة"
+  },
+  "title.opacity": {
+    "message": "الشفافيه"
+  },
+  "title.style": {
+    "message": "المظهر"
+  },
+  "title.align": {
+    "message": "محاذاة"
+  },
+  "title.shadow": {
+    "message": "Shadow"
+  },
+  "title.distance": {
+    "message": "مسافه"
+  },
+  "title.blur": {
+    "message": "Blur"
+  },
+  "title.angle": {
+    "message": "زاوية"
+  },
+  "title.animation": {
+    "message": "حيوية"
+  },
+  "title.none": {
+    "message": "None"
+  },
+  "title.scroll": {
+    "message": "التمرير"
+  },
+  "title.fade": {
+    "message": "تلاشى"
+  },
+  "title.scrolling": {
+    "message": "التمرير"
+  },
+  "title.line_limit": {
+    "message": "حد الخط"
+  },
+  "title.direction": {
+    "message": "اتجاه"
+  },
+  "title.speed": {
+    "message": "Speed"
+  },
+  "title.scroll_units": {
+    "message": "بكسل / ثانية"
+  },
+  "title.delimeter": {
+    "message": "محدد"
+  },
+  "title.interval": {
+    "message": "Interval"
+  },
+  "title.fade_speed": {
+    "message": "تتلاشى السرعة"
+  },
+  "title.enable_60_fps": {
+    "message": "Enable up to 60 FPS"
+  },
+  "title.enable_60_fps_tooltip": {
+    "message": "May require additional GPU/CPU resources. Note that toggling this option will trigger source refresh. For best performance, enable Browser Source Special Optimization under Tools -> Settings -> Advanced."
+  },
+  "title.ok": {
+    "message": "Ok"
+  },
+  "title.cancel": {
+    "message": "Cancel"
+  },
+  "title.hint.content_section": {
+    "message": "أدخل النص هنا. يمكنك استخدامها لإدراج فواصل الأسطر. يمكنك أيضًا استخدام BBcode لتنسيق النص. اضغط لتعلم المزيد.(https://xspl.it/bbcode)"
+  },
+  "title.deprecated_scripts": {
+    "message": "يحتوي البرنامج النصي المستخدم في مصدر النص هذا على بعض أساليب البرنامج النصي المهملة. قم بتحديث البرنامج النصي عن طريق القيام بما يلي: [br] 1. انقر فوق الزر \"تعديل البرنامج النصي\" في علامة التبويب \"النص\" [br] 2. حدد قالب البرنامج النصي واضغط على زر \"تحديث النص\""
+  },
+  "title.outdated_scripts": {
+    "message": "البرنامج النصي المستخدم في مصدر النص هذا قد يكون قديمًا. يمكنك تحديث البرنامج النصي عن طريق القيام بما يلي: [br] 1. انقر فوق الزر \"تعديل البرنامج النصي\" في علامة التبويب \"النص\" [br] 2. حدد قالب البرنامج النصي ، وتكوين الإعدادات ، ثم اضغط على زر \"تحديث النص\""
+  },
+  "title.script_editor.edit_script": {
+    "message": "تحرير البرنامج النصي - "
+  },
+  "title.script_editor.title": {
+    "message": "النصي"
+  },
+  "title.script_editor.template": {
+    "message": "قالب"
+  },
+  "title.script_editor.settings": {
+    "message": "Settings"
+  },
+  "title.script_editor.script": {
+    "message": "النصي"
+  },
+  "title.script_editor.back": {
+    "message": "Back"
+  },
+  "title.script_editor.update_title": {
+    "message": "تحديث النص"
+  },
+  "title.help.outline_title": {
+    "message": "باستخدام مخطط تفصيلي لمصدر النص"
+  },
+  "title.help.outline_message": {
+    "message": "هناك قيود لحجم الخط عند استخدام المخطط التفصيلي. يمكنك تغيير حجم مصدر النص في المرحلة الخاصة بك. لكن النص سيضبط فقط حتى الحد الأقصى لحجم الخط."
+  },
+  "title.help.pause_script_title": {
+    "message": "وقفة أو استئناف البرنامج النصي"
+  },
+  "title.help.pause_script_message": {
+    "message": "يمكنك إيقاف / تشغيل برنامج نصي مدعوم مثل أوضاع المؤقت والمدة للبرنامج النصي لساعة الأغراض العامة والبرامج النصية المخصصة الداعمة الأخرى."
+  },
+  "title.help.delimeter_title": {
+    "message": "محدد"
+  },
+  "title.help.delimeter_message": {
+    "message": "المحدد هو حرف أو مجموعة من الأحرف التي ستفصل النص إلى مقاطع ليتم عرضها في تأثير الخبو."
+  },
+  "title.help.interval_title": {
+    "message": "Interval"
+  },
+  "title.help.interval_message": {
+    "message": "الفاصل الزمني هو الوقت الذي سيتم فيه عرض النص قبل حدوث تأثير تلاشي آخر."
+  },
+  "title.pause_hotkey": {
+    "message": "عند تحديد المصدر في المرحلة ، يمكنك استخدام مفتاح الاختصار (اضغط على \"P\") لإيقاف / تشغيل البرنامج النصي المدعوم."
+  },
+  "title.direction_options_right_to_left": {
+    "message": "من اليمين الى اليسار"
+  },
+  "title.direction_options_left_to_right": {
+    "message": "من اليسار إلى اليمين"
+  },
+  "title.direction_options_bottom_to_top": {
+    "message": "من الأسفل للأعلى"
+  },
+  "title.direction_options_top_to_bottom": {
+    "message": "من اعلى لاسفل"
+  },
+  "title.outline_options_none": {
+    "message": "None"
+  },
+  "title.outline_options_thin": {
+    "message": "نحيف ضعيف"
+  },
+  "title.outline_options_thick": {
+    "message": "سميك"
+  },
+  "title.outline_options_thickest": {
+    "message": "سمكا"
+  }
+}

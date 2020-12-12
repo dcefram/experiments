@@ -1,0 +1,234 @@
+{
+	"email": {
+		"message": "メール"
+	},
+	"password": {
+		"message": "パスワード"
+	},
+	"rememberMe": {
+		"message": "ログイン時にログイン状態を保持"
+	},
+	"newXSplitUser": {
+		"message": "XSplitの新規ユーザーですか？"
+	},
+	"noAccount": {
+		"message": "登録する"
+	},
+	"forgotPassword": {
+		"message": "パスワードを忘れた場合"
+	},
+	"enterCode": {
+		"message": "コードを入力して下さい"
+	},
+	"loginAutomatically": {
+		"message": "自動的にログインする"
+	},
+	"login": {
+		"message": "ログイン"
+	},
+	"selectLanguage": {
+		"message": "言語の選択"
+	},
+	"agreement": {
+		"message": "[XSplitライセンス契約](http://xspl.it/bc/terms) と [プライバシーポリシー](https://xspl.it/bc/privacy) を読み、受け入れます。"
+	},
+	"updates": {
+		"message": "最新の情報をメールで受け取る。"
+	},
+	"noEmailMessage": {
+		"message": "メールを受け取らないと選択しました。続けるをクリックし、選択内容を確認してください。"
+	},
+	"growl.warning": {
+		"message": "Warning"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.title": {
+		"message": "Capslock がオンです",
+		"type": "warning"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.message": {
+		"message": "Caps Lockが有効になっていないか、パスワード入力前オフになっているか確認して下さい"
+	},
+	"registration.message": {
+		"message": "新規ユーザー？ [プライバシーポリシー](https://xspl.it/bc/privacy)"
+	},
+	"screenName.placeholder": {
+		"message": "ユーザー名を選択する"
+	},
+	"fullName.placeholder": {
+		"message": "氏名"
+	},
+	"emailInput.placeholder": {
+		"message": "メール"
+	},
+	"passwordInput.placeholder": {
+		"message": "パスワード"
+	},
+	"retypePassword.placeholder": {
+		"message": "パスワードの再入力"
+	},
+	"register.label": {
+		"message": "登録する"
+	},
+	"loginUsingExisting": {
+		"message": "**既に登録済みですか?** 既存のアカウントで [ログイン]() する"
+	},
+	"registration.confirm.message": {
+		"message": "**続ける前にXSplitライセンス契約とプライバシーポリシーをよく読み、メールアドレスが正しいかご確認ください。**"
+	},
+	"registration.confirm.continue": {
+		"message": "続行"
+	},
+	"registration.confirm.goBack": {
+		"message": "戻る"
+	},
+	"registration.processing": {
+		"message": "新アカウントを作成中です"
+	},
+	"registration.success": {
+		"message": "**登録完了！**[br]\n[br]\n**%email%** へアカウントを有効にする方法についてメールをお送りいたしました。"
+	},
+	"continue.label": {
+		"message": "XSplit Broadcasterを引き続き利用する"
+	},
+	"screenName.hint": {
+		"message": "ニックネームは4文字から50文字の間にして下さい。この名前はサポートフォーラムで使用されます"
+	},
+	"screenName.check": {
+		"message": "ユーザー名が利用可能か調べています..."
+	},
+	"screenName.unavailable": {
+		"message": "ユーザー名は既に使用されています。別のを選択してください。"
+	},
+	"fullName.hint": {
+		"message": "名前は6文字から50文字の間で入力して下さい"
+	},
+	"emailInput.hint": {
+		"message": "アカウントを有効にするには有効なEメールアドレスが必要です。"
+	},
+	"emailInput.notValid": {
+		"message": "既に使用されているか無効なメールアドレスです"
+	},
+	"passwordInput.hint": {
+		"message": "パスワードは6～50文字にする必要があります。パスワードを間違えて入力しない様にCAPS LOCKモードを無効にしている事をご確認ください。"
+	},
+	"passwordInput.notMatch": {
+		"message": "パスワードは6-50字以内で一致するように入力してください"
+	},
+	"copyright": {
+		"message": "著作権 &copy; %dates%"
+	},
+	"oem.login.optimizedFor": {
+		"message": "こちらの為に最適化"
+	},
+	"oem.login.bannerMessage": {
+		"message": "無料 %license% XSplitプレミアムライセンス！%oem%から提供されました。 登録またはログインしてライセンスを交換できます。"
+	},
+	"oem.redeemed.message": {
+		"message": "おめでとうございます！あなたの**%oem% Machine**はXSplit Broadcasterの全ての機能が使える**%oemfreelicense% Premium License**が付属されます。**(%email%)**アカウントにライセンスが適用されました。"
+	},
+	"oem.redeemed.messageNewAccount": {
+		"message": "おめでとうございます！あなたの**%oem% Machine**はXSplit Broadcasterの全ての機能が使える**%oemfreelicense% Premium License**が付属されます。新アカウントの**(%email%)**にライセンスが適用されました。"
+	},
+	"oem.redeemed.letsGetStarted": {
+		"message": "さて、始めましょう"
+	},
+	"oem.redeem.emailSentMessage": {
+		"message": "アカウントを有効にする方法についてメールをお送りいたしました。"
+	},
+	"oem.redeemed.newFail": {
+		"message": "おめでとうございます！登録に成功しました！アカウントを有効にする方法をメールにて送信しました。24時間以内にライセンスを有効にしてください。"
+	},
+	"oem.redeemed.redeemError": {
+		"message": "ライセンスを有効にする最中にエラーが発生しました。XSplit Broadcasterを再起動し、再度ライセンスを有効にする様お試しするか、エラーが何度も発生する様でしたら、**license@xsplit.com**にご連絡ください。"
+	},
+	"REFURBISHED_REDEMPTION_NOT_ALLOWED_FOR_SAME_XSPLIT_ACCOUNT": {
+		"message": "ライセンスを有効にする最中にエラーが発生しました。XSplit Broadcasterを再起動し、再度ライセンスを有効にする様お試しするか、別のXSplitアカウントを使用してみてください。エラーが何度も発生する様でしたら、**license@xsplit.com**にご連絡ください。"
+	},
+	"cannot_apply_with_recurring": {
+		"message": "エラー：定期購入ライセンスの有効時はギフトライセンスを適用する事ができません。"
+	},
+	"oem.login.letsGetStarted": {
+		"message": "さて、始めましょう"
+	},
+	"oem.login.continueToXBC": {
+		"message": "XSplit Broadcasterを引き続き利用する"
+	},
+	"carousel.slide1.header": {
+		"message": "シンプルかつ強力な生放送と録画ソフト"
+	},
+	"carousel.slide1.content": {
+		"message": "「XSplit Broadcaster」は音声と動画をミックスする事ができる革命的なプログラムで、シンプルで分かりやすいユーザーインターフェースを使用し誰でもプロ品質の生放送や動画収録をする事ができます。"
+	},
+	"carousel.slide2.header": {
+		"message": "カスタムプラグインとインテグレーション"
+	},
+	"carousel.slide2.content": {
+		"message": "XSplit Broadcasterにはプラグインストアのおかげで色々なカスタマイズをする事が出来、ドネートアラートや音楽リクエストなど、自分の配信を特別な物に仕上げる事ができます、更に自分のプラグインも作成する事ができます！可能性は無限大！"
+	},
+	"carousel.slide3.header": {
+		"message": "レコーディングを編集してアップロード"
+	},
+	"carousel.slide3.content": {
+		"message": "XSplit Broadcasterはゲームプレイの録画を管理しやすく出来ており、編集なども既存エディターで簡単です。動画が完成後、アプリ内で直接YouTubeやＳＮＳに簡単に共有する事ができます。"
+	},
+	"carousel.slide4.header": {
+		"message": "人気あるキャプチャカードをサポートしています"
+	},
+	"carousel.slide4.content": {
+		"message": "XSplit Broadcasterは現在利用できる数々のキャプチャカードをサポートする為に調整されています。 -[プロダクトページでサポートされているキャプチャカードを確認する事ができます](https://xspl.it/bc/capture_card_list)"
+	},
+	"carousel.freeLicenseText": {
+		"message": "_**無料** XSplitライセンス_"
+	},
+	"carousel.sponsor": {
+		"message": "%oem% 主催"
+	},
+	"carousel.lucky": {
+		"message": "なんと！この%oem%マシンは**%duration% XSplit ライセンス**が含まれています！"
+	},
+	"carousel.continue": {
+		"message": "続行"
+	},
+	"carousel.title": {
+		"message": "XSplit Broadcaster"
+	},
+	"label.default": {
+		"message": "%connect%を使用してログイン"
+	},
+	"label.connect": {
+		"message": "その他でログインする"
+	},
+	"label.authorized": {
+		"message": "こちらを使用して承認"
+	},
+	"label.changeaccount": {
+		"message": "[別のアカウントをしようする](changeAccount)"
+	},
+	"label.learnMore": {
+		"message": "配信初心者ですか？ [ここで配信について学ぼう！](https://xspl.it/bc/tutorials)"
+	},
+	"label.otherOptions": {
+		"message": "[その他のログイン方法](otherOptions)"
+	},
+	"label.welcome": {
+		"message": "XSplitへようこそ!"
+	},
+	"label.loggingInTo": {
+		"message": "%service% にログイン中..."
+	},
+	"label.pleaseComplete": {
+		"message": "Please complete the login process in your browser[br][br][br][Cancel](cancelLogin)[br][br][br][Having issues? Try in-app login instead](externalLogin)"
+	},
+	"label.somethingWrong": {
+		"message": "エラーが起こりました."
+	},
+	"label.retryAuth": {
+		"message": "別のサービスを選択するかもう一度アカウントを承認してください。"
+	},
+	"button.back": {
+		"message": "戻る"
+	},
+	"button.retry": {
+		"message": "リトライ"
+	}
+}

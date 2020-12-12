@@ -1,0 +1,50 @@
+{
+  "whiteboard_overlay.drawing": {
+    "message": "Drawing"
+  },
+  "whiteboard_overlay.reminder": {
+    "message": "To start drawing, always remember to check the Lock Position check box in the layout tab and ensure that the source is not rotated."
+  },
+  "whiteboard_overlay.tool": {
+    "message": "Tool"
+  },
+  "whiteboard_overlay.size": {
+    "message": "Size"
+  },
+  "whiteboard_overlay.color": {
+    "message": "Color"
+  },
+  "whiteboard_overlay.clear_whiteboard": {
+    "message": "Clear Whiteboard"
+  },
+  "whiteboard_overlay.hotkeys": {
+    "message": "Hotkeys"
+  },
+  "whiteboard_overlay.hotkey_header": {
+    "message": "Use these hotkeys when the source is selected:"
+  },
+  "whiteboard_overlay.hotkey_s": {
+    "message": "Press &quot;**S**&quot; to toggle between sizes (S\/M\/L)"
+  },
+  "whiteboard_overlay.hotkey_shift": {
+    "message": "Hold &quot;**Shift**&quot; to use alternate tool[br]Shapes : Freeform -> Shape Detect (line, triangle, circle, rectangle)"
+  },
+  "whiteboard_overlay.hotkey_d": {
+    "message": "Press &quot;**D**&quot; to save current drawing"
+  },
+  "whiteboard_overlay.hotkey_esc": {
+    "message": "Press &quot;**Esc**&quot; to clear whiteboard"
+  },
+  "whiteboard_overlay.tool_options_freehand": {
+    "message": "Freehand"
+  },
+  "whiteboard_overlay.size_options_thin": {
+    "message": "Thin"
+  },
+  "whiteboard_overlay.size_options_normal": {
+    "message": "Normal"
+  },
+  "whiteboard_overlay.size_options_thick": {
+    "message": "Thick"
+  }
+}

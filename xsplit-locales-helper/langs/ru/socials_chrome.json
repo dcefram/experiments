@@ -1,0 +1,287 @@
+{
+	"socials.stream.label": {
+		"message": "Выберите поток, чтобы поделиться"
+	},
+	"socials.facebook.tab": {
+		"message": "Facebook"
+	},
+	"socials.facebook.logged": {
+		"message": "вы вошли в систему как **%username%**"
+	},
+	"socials.facebook.title": {
+		"message": "Поделиться потоком в Facebook"
+	},
+	"socials.facebook.messagePlaceholder": {
+		"message": "Введите ваше сообщение"
+	},
+	"socials.facebook.privacy.label": {
+		"message": "Конфиденциальность"
+	},
+	"socials.facebook.privacy.values.EVERYONE": {
+		"message": "Общие"
+	},
+	"socials.facebook.privacy.values.ALL_FRIENDS": {
+		"message": "Друзья"
+	},
+	"socials.facebook.privacy.values.FRIENDS_OF_FRIENDS": {
+		"message": "Друзья друзей"
+	},
+	"socials.facebook.privacy.values.SELF": {
+		"message": "Только я"
+	},
+	"socials.facebook.share": {
+		"message": "Поделиться"
+	},
+	"socials.facebook.cancel": {
+		"message": "Отменить"
+	},
+	"socials.facebook.authenticate": {
+		"message": "Разрешить размещать на Facebook"
+	},
+	"socials.facebook.unauthenticated": {
+		"message": "Вам нужно войти, чтобы поделиться трансляцией в Facebook."
+	},
+	"socials.twitter.tab": {
+		"message": "Twitter"
+	},
+	"socials.twitter.logged": {
+		"message": "вы вошли в систему как **%username%**"
+	},
+	"socials.twitter.title": {
+		"message": "Поделиться потоком в Twitter"
+	},
+	"socials.twitter.messagePlaceholder": {
+		"message": "Введите ваше сообщение"
+	},
+	"socials.twitter.tweet": {
+		"message": "Поделиться"
+	},
+	"socials.twitter.cancel": {
+		"message": "Отменить"
+	},
+	"socials.twitter.authenticate": {
+		"message": "Разрешить размещать на Twitter"
+	},
+	"socials.twitter.unauthenticated": {
+		"message": "Вам нужно войти, чтобы поделиться трансляцией в Twitter."
+	},
+	"socials.google.tab": {
+		"message": "Google+"
+	},
+	"socials.google.logged": {
+		"message": "вы вошли в систему как **%username%**"
+	},
+	"socials.google.title": {
+		"message": "Поделиться потоком на Google+"
+	},
+	"socials.google.share": {
+		"message": "Поделиться"
+	},
+	"socials.google.cancel": {
+		"message": "Отменить"
+	},
+	"socials.google.authenticate": {
+		"message": "Разрешить разместить на Google +"
+	},
+	"socials.google.unauthenticated": {
+		"message": "Вам нужно войти, чтобы поделиться трансляцией в Google+."
+	},
+	"socials.processing": {
+		"message": "Обработка"
+	},
+	"facebookShare.addMessage": {
+		"message": "Введите ваше сообщение"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "Поделиться видео на Facebook"
+	},
+	"facebookShare.via": {
+		"message": "через XSplit Broadcaster"
+	},
+	"facebookShare.privacy": {
+		"message": "Конфиденциальность"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "Общие"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "Друзья"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "Друзья друзей"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "Только я"
+	},
+	"facebookShare.shareVideo": {
+		"message": "ПОДЕЛИТЬСЯ"
+	},
+	"facebookShare.cancel": {
+		"message": "ОТМЕНА"
+	},
+	"facebookShare.processing": {
+		"message": "Обработка"
+	},
+	"facebookShare.postAs": {
+		"message": "Разместить в"
+	},
+	"facebookShare.timeline": {
+		"message": "Ленте Facebook"
+	},
+	"facebookShare.managePage": {
+		"message": "Страницы, которыми вы управляете"
+	},
+	"twitterShare.addMessage": {
+		"message": "Введите ваше сообщение"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "Поделиться видео в Twitter"
+	},
+	"twitterShare.privacy": {
+		"message": "Конфиденциальность"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "ПОДЕЛИТЬСЯ"
+	},
+	"twitterShare.cancel": {
+		"message": "ОТМЕНА"
+	},
+	"twitterShare.processing": {
+		"message": "Обработка"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "Введите ваше сообщение"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "Поделиться видео в Google+"
+	},
+	"googlePlusShare.via": {
+		"message": "через XSplit Broadcaster"
+	},
+	"googlePlusShare.privacy": {
+		"message": "Конфиденциальность"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "Каждый"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "Все друзья"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "Друзья друзей"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "Личные"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "ПОДЕЛИТЬСЯ"
+	},
+	"googlePlusShare.cancel": {
+		"message": "ОТМЕНА"
+	},
+	"googlePlusShare.processing": {
+		"message": "Обработка"
+	},
+	"vodShare.unauthorized": {
+		"message": "Прежде чем поделиться трансляцией, вам нужно авторизовать по крайней мере 1 аккаунт в социальной сети, щелкнув на  иконку выше."
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "Поделиться стримом"
+	},
+	"vodShare.processing": {
+		"message": "Обработка"
+	},
+	"vodShare.addLink": {
+		"message": "Добавить ссылку на стрим"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "Настройки конфиденциальности"
+	},
+	"vodShare.gameCheckin": {
+		"message": "Регистрация игры"
+	},
+	"vodShare.shareVideo": {
+		"message": "ПОДЕЛИТЬСЯ"
+	},
+	"vodShare.cancel": {
+		"message": "ОТМЕНА"
+	},
+	"vodShare.shareTo.1": {
+		"message": "Поделиться только на %service1%"
+	},
+	"vodShare.shareTo.2": {
+		"message": "Поделиться только на %service1% и %service2%"
+	},
+	"vodShare.shareTo.3": {
+		"message": "Поделиться только на %service1%, %service2% и %service3%"
+	},
+	"vodShare.shareTo.4": {
+		"message": "Поделиться только на %service1%, %service2%, %service3% и %service4%"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "СЧЁТЧИК СООБЩЕНИЙ TWITTER"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "Считает, сколько ещё символов можно разместить в Twitter. Вы найдёте текст синего цвета в сообщении, и именно он будет опубликован в Twitter."
+	},
+	"vodShare.gameNameWarning": {
+		"message": "Название игры не обнаружено в базе данных Player.me. По этой причине информация о ней не будет отображена в вашей публикации."
+	},
+	"vodShare.loadMore": {
+		"message": "Загрузить больше..."
+	},
+	"vodStatus.title": {
+		"message": "Поделиться стримом"
+	},
+	"vodStatus.facebook": {
+		"message": "Facebook"
+	},
+	"vodStatus.twitter": {
+		"message": "Twitter"
+	},
+	"vodStatus.playerme": {
+		"message": "Player.Me"
+	},
+	"vodStatus.gplus": {
+		"message": "Google Plus"
+	},
+	"vodStatus.posting": {
+		"message": "Размещение в %social%..."
+	},
+	"vodStatus.success": {
+		"message": "Успешно размещено в %social%.[br][%message%](%url%)"
+	},
+	"vodStatus.message.facebook": {
+		"message": "Просмотреть публикацию"
+	},
+	"vodStatus.message.twitter": {
+		"message": "Просмотреть твит"
+	},
+	"vodStatus.message.playerme": {
+		"message": "Просмотреть публикацию"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "Просмотреть подробности"
+	},
+	"vodStatus.error": {
+		"message": "Не удалось выполнить публикацию в %social%."
+	},
+	"vodStatus.failed": {
+		"message": "Не удалось выполнить публикацию в %social%.[br][%message%](%url%)"
+	},
+	"vodStatus.invalid": {
+		"message": "Не удалось выполнить публикацию в %social%."
+	},
+	"vodStatus.edit": {
+		"message": "Изменить"
+	},
+	"vodStatus.retry": {
+		"message": "Повторить"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "Поиск предложений..."
+	},
+	"dialog.ok": {
+		"message": "ЗАКРЫТЬ"
+	}
+}

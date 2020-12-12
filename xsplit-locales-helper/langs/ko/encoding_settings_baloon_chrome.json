@@ -1,0 +1,38 @@
+{
+	"currentResolutionNotSupported": {
+		"message": "현재 영상 출력 해상도는 %resolution% 입니다. 초당 프레임률은 %fps% 입니다."
+	},
+	"currentResolutionNotSupportedYouTube": {
+		"message": "귀하의 영상 해상도는 YouTube Live 에서 지원 되지 않는 %resolution% 이며 %fps% FPS 입니다. 아래 항목에서 지원 되는 해상도를 선택하십시오."
+	},
+	"currentResolutionSupported": {
+		"message": "현재 영상 출력 해상도는 %resolution% 입니다. 초당 프레임률은 %fps% 입니다. 다음 차트에 표기된 권장 비트 레이트를 확인해주세요."
+	},
+	"currentResolutionSupportedYouTube": {
+		"message": "귀하의 *현재 영상 해상도* 는 *%resolution%* 입니다. 현재 영상 프레임 비율은 *%fps%* 입니다. 아래의 가이드를 보고 권장된 Bitrate 를 참고 하십시오."
+	},
+	"currentResolutionCapable1080pYouTube": {
+		"message": "*현재 설정된 해상도* 는 *%resolution%* 입니다. 현재 초당 프레임률은 *%fps%* 입니다. 빠른 대역폭의 인터넷 속도와 최신 CPU 가 없으실 경우 *1080p 방송은 힘드실수 도 있습니다.*"
+	},
+	"currentResolutionNotCapable1080pYouTube": {
+		"message": "*현재 설정된 해상도* 는 *%resolution%* 입니다. 현재 초당 프레임률은 *%fps%* 입니다. 빠른 대역폭의 인터넷 속도와 최신 CPU 가 없으실 경우 *1080p 방송은 힘드실수 도 있습니다.*"
+	},
+	"defaultMessage": {
+		"message": "%service% 를 위해서는 아래 항목에 해당하는 해상도를 권장합니다. 해상도 메뉴에서 바꾸실 수 있습니다."
+	},
+	"resolution": {
+		"message": "해상도"
+	},
+	"suggestedBitRate": {
+		"message": "제안된 비트레이트"
+	},
+	"maximumBitRate": {
+		"message": "최대 비트레이트"
+	},
+	"minimumBitRate": {
+		"message": "최소 비트레이트"
+	},
+	"warning": {
+		"message": "CPU가 좋거나 인터넷 속도가 세상에서 가장 빠르지 않다면 이 %resolutions%를 시도도 하지 마세요"
+	}
+}

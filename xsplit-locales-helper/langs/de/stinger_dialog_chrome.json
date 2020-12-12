@@ -1,0 +1,17 @@
+{
+    "stinger.title": {
+        "message": "Ihren Stinger-Namen oder Übergangspunkt bearbeiten."
+    },
+    "stinger.name": {
+        "message": "Stinger-Name"
+    },
+    "stinger.transition": {
+        "message": "Übergangspunkt (ms)"
+    },
+    "button.ok": {
+        "message": "OK"
+    },
+    "button.cancel": {
+        "message": "Abbrechen"
+    }
+}

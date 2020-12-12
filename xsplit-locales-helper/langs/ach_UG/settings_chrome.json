@@ -1,0 +1,1304 @@
+{
+  "title": {
+    "message": "crwdns4361:0crwdne4361:0"
+  },
+  "tab.profile": {
+    "message": "crwdns4362:0crwdne4362:0"
+  },
+  "tab.general": {
+    "message": "crwdns4363:0crwdne4363:0"
+  },
+  "tab.audio": {
+    "message": "crwdns4364:0crwdne4364:0"
+  },
+  "tab.hotkeys": {
+    "message": "crwdns4365:0crwdne4365:0"
+  },
+  "tab.sharing": {
+    "message": "crwdns14651:0crwdne14651:0"
+  },
+  "tab.advanced": {
+    "message": "crwdns7449:0crwdne7449:0"
+  },
+  "profile.fullName.label": {
+    "message": "crwdns4367:0crwdne4367:0"
+  },
+  "profile.screenName.label": {
+    "message": "crwdns6860:0crwdne6860:0"
+  },
+  "profile.country.label": {
+    "message": "crwdns4369:0crwdne4369:0"
+  },
+  "profile.gender.label": {
+    "message": "crwdns4370:0crwdne4370:0"
+  },
+  "profile.gender.male.label": {
+    "message": "crwdns4371:0crwdne4371:0"
+  },
+  "profile.gender.female.label": {
+    "message": "crwdns4372:0crwdne4372:0"
+  },
+  "profile.birthday.label": {
+    "message": "crwdns4373:0crwdne4373:0"
+  },
+  "profile.addImage.label": {
+    "message": "crwdns4374:0crwdne4374:0"
+  },
+  "profile.changePassword.label": {
+    "message": "crwdns4375:0crwdne4375:0"
+  },
+  "profile.countries.af": {
+    "message": "crwdns4376:0crwdne4376:0"
+  },
+  "profile.countries.ax": {
+    "message": "crwdns4377:0crwdne4377:0"
+  },
+  "profile.countries.al": {
+    "message": "crwdns4378:0crwdne4378:0"
+  },
+  "profile.countries.dz": {
+    "message": "crwdns4379:0crwdne4379:0"
+  },
+  "profile.countries.as": {
+    "message": "crwdns4380:0crwdne4380:0"
+  },
+  "profile.countries.ad": {
+    "message": "crwdns4381:0crwdne4381:0"
+  },
+  "profile.countries.ao": {
+    "message": "crwdns4382:0crwdne4382:0"
+  },
+  "profile.countries.ai": {
+    "message": "crwdns4383:0crwdne4383:0"
+  },
+  "profile.countries.aq": {
+    "message": "crwdns4384:0crwdne4384:0"
+  },
+  "profile.countries.ag": {
+    "message": "crwdns4385:0crwdne4385:0"
+  },
+  "profile.countries.ar": {
+    "message": "crwdns4386:0crwdne4386:0"
+  },
+  "profile.countries.am": {
+    "message": "crwdns4387:0crwdne4387:0"
+  },
+  "profile.countries.aw": {
+    "message": "crwdns4388:0crwdne4388:0"
+  },
+  "profile.countries.au": {
+    "message": "crwdns4389:0crwdne4389:0"
+  },
+  "profile.countries.at": {
+    "message": "crwdns4390:0crwdne4390:0"
+  },
+  "profile.countries.az": {
+    "message": "crwdns4391:0crwdne4391:0"
+  },
+  "profile.countries.bs": {
+    "message": "crwdns4392:0crwdne4392:0"
+  },
+  "profile.countries.bh": {
+    "message": "crwdns4393:0crwdne4393:0"
+  },
+  "profile.countries.bd": {
+    "message": "crwdns4394:0crwdne4394:0"
+  },
+  "profile.countries.bb": {
+    "message": "crwdns4395:0crwdne4395:0"
+  },
+  "profile.countries.by": {
+    "message": "crwdns4396:0crwdne4396:0"
+  },
+  "profile.countries.be": {
+    "message": "crwdns4397:0crwdne4397:0"
+  },
+  "profile.countries.bz": {
+    "message": "crwdns4398:0crwdne4398:0"
+  },
+  "profile.countries.bj": {
+    "message": "crwdns4399:0crwdne4399:0"
+  },
+  "profile.countries.bm": {
+    "message": "crwdns4400:0crwdne4400:0"
+  },
+  "profile.countries.bt": {
+    "message": "crwdns4401:0crwdne4401:0"
+  },
+  "profile.countries.bo": {
+    "message": "crwdns4402:0crwdne4402:0"
+  },
+  "profile.countries.ba": {
+    "message": "crwdns4403:0crwdne4403:0"
+  },
+  "profile.countries.bw": {
+    "message": "crwdns4404:0crwdne4404:0"
+  },
+  "profile.countries.bv": {
+    "message": "crwdns4405:0crwdne4405:0"
+  },
+  "profile.countries.br": {
+    "message": "crwdns4406:0crwdne4406:0"
+  },
+  "profile.countries.io": {
+    "message": "crwdns4407:0crwdne4407:0"
+  },
+  "profile.countries.bn": {
+    "message": "crwdns4408:0crwdne4408:0"
+  },
+  "profile.countries.bg": {
+    "message": "crwdns4409:0crwdne4409:0"
+  },
+  "profile.countries.bf": {
+    "message": "crwdns4410:0crwdne4410:0"
+  },
+  "profile.countries.bi": {
+    "message": "crwdns4411:0crwdne4411:0"
+  },
+  "profile.countries.kh": {
+    "message": "crwdns4412:0crwdne4412:0"
+  },
+  "profile.countries.cm": {
+    "message": "crwdns4413:0crwdne4413:0"
+  },
+  "profile.countries.ca": {
+    "message": "crwdns4414:0crwdne4414:0"
+  },
+  "profile.countries.cv": {
+    "message": "crwdns4415:0crwdne4415:0"
+  },
+  "profile.countries.ky": {
+    "message": "crwdns4416:0crwdne4416:0"
+  },
+  "profile.countries.cf": {
+    "message": "crwdns4417:0crwdne4417:0"
+  },
+  "profile.countries.td": {
+    "message": "crwdns4418:0crwdne4418:0"
+  },
+  "profile.countries.cl": {
+    "message": "crwdns4419:0crwdne4419:0"
+  },
+  "profile.countries.cn": {
+    "message": "crwdns4420:0crwdne4420:0"
+  },
+  "profile.countries.cx": {
+    "message": "crwdns4421:0crwdne4421:0"
+  },
+  "profile.countries.cc": {
+    "message": "crwdns4422:0crwdne4422:0"
+  },
+  "profile.countries.co": {
+    "message": "crwdns4423:0crwdne4423:0"
+  },
+  "profile.countries.km": {
+    "message": "crwdns4424:0crwdne4424:0"
+  },
+  "profile.countries.cg": {
+    "message": "crwdns4425:0crwdne4425:0"
+  },
+  "profile.countries.cd": {
+    "message": "crwdns4426:0crwdne4426:0"
+  },
+  "profile.countries.ck": {
+    "message": "crwdns4427:0crwdne4427:0"
+  },
+  "profile.countries.cr": {
+    "message": "crwdns4428:0crwdne4428:0"
+  },
+  "profile.countries.ci": {
+    "message": "crwdns4429:0crwdne4429:0"
+  },
+  "profile.countries.hr": {
+    "message": "crwdns4430:0crwdne4430:0"
+  },
+  "profile.countries.cu": {
+    "message": "crwdns4431:0crwdne4431:0"
+  },
+  "profile.countries.cy": {
+    "message": "crwdns4432:0crwdne4432:0"
+  },
+  "profile.countries.cz": {
+    "message": "crwdns4433:0crwdne4433:0"
+  },
+  "profile.countries.dk": {
+    "message": "crwdns4434:0crwdne4434:0"
+  },
+  "profile.countries.dj": {
+    "message": "crwdns4435:0crwdne4435:0"
+  },
+  "profile.countries.dm": {
+    "message": "crwdns4436:0crwdne4436:0"
+  },
+  "profile.countries.do": {
+    "message": "crwdns4437:0crwdne4437:0"
+  },
+  "profile.countries.ec": {
+    "message": "crwdns4438:0crwdne4438:0"
+  },
+  "profile.countries.eg": {
+    "message": "crwdns4439:0crwdne4439:0"
+  },
+  "profile.countries.sv": {
+    "message": "crwdns4440:0crwdne4440:0"
+  },
+  "profile.countries.gq": {
+    "message": "crwdns4441:0crwdne4441:0"
+  },
+  "profile.countries.er": {
+    "message": "crwdns4442:0crwdne4442:0"
+  },
+  "profile.countries.ee": {
+    "message": "crwdns4443:0crwdne4443:0"
+  },
+  "profile.countries.et": {
+    "message": "crwdns4444:0crwdne4444:0"
+  },
+  "profile.countries.fk": {
+    "message": "crwdns4445:0crwdne4445:0"
+  },
+  "profile.countries.fo": {
+    "message": "crwdns4446:0crwdne4446:0"
+  },
+  "profile.countries.fj": {
+    "message": "crwdns4447:0crwdne4447:0"
+  },
+  "profile.countries.fi": {
+    "message": "crwdns4448:0crwdne4448:0"
+  },
+  "profile.countries.fr": {
+    "message": "crwdns4449:0crwdne4449:0"
+  },
+  "profile.countries.gf": {
+    "message": "crwdns4450:0crwdne4450:0"
+  },
+  "profile.countries.pf": {
+    "message": "crwdns4451:0crwdne4451:0"
+  },
+  "profile.countries.tf": {
+    "message": "crwdns4452:0crwdne4452:0"
+  },
+  "profile.countries.ga": {
+    "message": "crwdns4453:0crwdne4453:0"
+  },
+  "profile.countries.gm": {
+    "message": "crwdns4454:0crwdne4454:0"
+  },
+  "profile.countries.ge": {
+    "message": "crwdns4455:0crwdne4455:0"
+  },
+  "profile.countries.de": {
+    "message": "crwdns4456:0crwdne4456:0"
+  },
+  "profile.countries.gh": {
+    "message": "crwdns4457:0crwdne4457:0"
+  },
+  "profile.countries.gi": {
+    "message": "crwdns4458:0crwdne4458:0"
+  },
+  "profile.countries.gr": {
+    "message": "crwdns4459:0crwdne4459:0"
+  },
+  "profile.countries.gl": {
+    "message": "crwdns4460:0crwdne4460:0"
+  },
+  "profile.countries.gd": {
+    "message": "crwdns4461:0crwdne4461:0"
+  },
+  "profile.countries.gp": {
+    "message": "crwdns4462:0crwdne4462:0"
+  },
+  "profile.countries.gu": {
+    "message": "crwdns4463:0crwdne4463:0"
+  },
+  "profile.countries.gt": {
+    "message": "crwdns4464:0crwdne4464:0"
+  },
+  "profile.countries.gg": {
+    "message": "crwdns4465:0crwdne4465:0"
+  },
+  "profile.countries.gn": {
+    "message": "crwdns4466:0crwdne4466:0"
+  },
+  "profile.countries.gw": {
+    "message": "crwdns4467:0crwdne4467:0"
+  },
+  "profile.countries.gy": {
+    "message": "crwdns4468:0crwdne4468:0"
+  },
+  "profile.countries.ht": {
+    "message": "crwdns4469:0crwdne4469:0"
+  },
+  "profile.countries.hm": {
+    "message": "crwdns4470:0crwdne4470:0"
+  },
+  "profile.countries.va": {
+    "message": "crwdns4471:0crwdne4471:0"
+  },
+  "profile.countries.hn": {
+    "message": "crwdns4472:0crwdne4472:0"
+  },
+  "profile.countries.hk": {
+    "message": "crwdns4473:0crwdne4473:0"
+  },
+  "profile.countries.hu": {
+    "message": "crwdns4474:0crwdne4474:0"
+  },
+  "profile.countries.is": {
+    "message": "crwdns4475:0crwdne4475:0"
+  },
+  "profile.countries.in": {
+    "message": "crwdns4476:0crwdne4476:0"
+  },
+  "profile.countries.id": {
+    "message": "crwdns4477:0crwdne4477:0"
+  },
+  "profile.countries.ir": {
+    "message": "crwdns4478:0crwdne4478:0"
+  },
+  "profile.countries.iq": {
+    "message": "crwdns4479:0crwdne4479:0"
+  },
+  "profile.countries.ie": {
+    "message": "crwdns4480:0crwdne4480:0"
+  },
+  "profile.countries.im": {
+    "message": "crwdns4481:0crwdne4481:0"
+  },
+  "profile.countries.il": {
+    "message": "crwdns4482:0crwdne4482:0"
+  },
+  "profile.countries.it": {
+    "message": "crwdns4483:0crwdne4483:0"
+  },
+  "profile.countries.jm": {
+    "message": "crwdns4484:0crwdne4484:0"
+  },
+  "profile.countries.jp": {
+    "message": "crwdns4485:0crwdne4485:0"
+  },
+  "profile.countries.je": {
+    "message": "crwdns4486:0crwdne4486:0"
+  },
+  "profile.countries.jo": {
+    "message": "crwdns4487:0crwdne4487:0"
+  },
+  "profile.countries.kz": {
+    "message": "crwdns4488:0crwdne4488:0"
+  },
+  "profile.countries.ke": {
+    "message": "crwdns4489:0crwdne4489:0"
+  },
+  "profile.countries.ki": {
+    "message": "crwdns4490:0crwdne4490:0"
+  },
+  "profile.countries.kp": {
+    "message": "crwdns4491:0crwdne4491:0"
+  },
+  "profile.countries.kr": {
+    "message": "crwdns4492:0crwdne4492:0"
+  },
+  "profile.countries.kw": {
+    "message": "crwdns4493:0crwdne4493:0"
+  },
+  "profile.countries.kg": {
+    "message": "crwdns4494:0crwdne4494:0"
+  },
+  "profile.countries.la": {
+    "message": "crwdns4495:0crwdne4495:0"
+  },
+  "profile.countries.lv": {
+    "message": "crwdns4496:0crwdne4496:0"
+  },
+  "profile.countries.lb": {
+    "message": "crwdns4497:0crwdne4497:0"
+  },
+  "profile.countries.ls": {
+    "message": "crwdns4498:0crwdne4498:0"
+  },
+  "profile.countries.lr": {
+    "message": "crwdns4499:0crwdne4499:0"
+  },
+  "profile.countries.ly": {
+    "message": "crwdns4500:0crwdne4500:0"
+  },
+  "profile.countries.li": {
+    "message": "crwdns4501:0crwdne4501:0"
+  },
+  "profile.countries.lt": {
+    "message": "crwdns4502:0crwdne4502:0"
+  },
+  "profile.countries.lu": {
+    "message": "crwdns4503:0crwdne4503:0"
+  },
+  "profile.countries.mo": {
+    "message": "crwdns4504:0crwdne4504:0"
+  },
+  "profile.countries.mk": {
+    "message": "crwdns4505:0crwdne4505:0"
+  },
+  "profile.countries.mg": {
+    "message": "crwdns4506:0crwdne4506:0"
+  },
+  "profile.countries.mw": {
+    "message": "crwdns4507:0crwdne4507:0"
+  },
+  "profile.countries.my": {
+    "message": "crwdns4508:0crwdne4508:0"
+  },
+  "profile.countries.mv": {
+    "message": "crwdns4509:0crwdne4509:0"
+  },
+  "profile.countries.ml": {
+    "message": "crwdns4510:0crwdne4510:0"
+  },
+  "profile.countries.mt": {
+    "message": "crwdns4511:0crwdne4511:0"
+  },
+  "profile.countries.mh": {
+    "message": "crwdns4512:0crwdne4512:0"
+  },
+  "profile.countries.mq": {
+    "message": "crwdns4513:0crwdne4513:0"
+  },
+  "profile.countries.mr": {
+    "message": "crwdns4514:0crwdne4514:0"
+  },
+  "profile.countries.mu": {
+    "message": "crwdns4515:0crwdne4515:0"
+  },
+  "profile.countries.yt": {
+    "message": "crwdns4516:0crwdne4516:0"
+  },
+  "profile.countries.mx": {
+    "message": "crwdns4517:0crwdne4517:0"
+  },
+  "profile.countries.fm": {
+    "message": "crwdns4518:0crwdne4518:0"
+  },
+  "profile.countries.md": {
+    "message": "crwdns4519:0crwdne4519:0"
+  },
+  "profile.countries.mc": {
+    "message": "crwdns4520:0crwdne4520:0"
+  },
+  "profile.countries.mn": {
+    "message": "crwdns4521:0crwdne4521:0"
+  },
+  "profile.countries.me": {
+    "message": "crwdns4522:0crwdne4522:0"
+  },
+  "profile.countries.ms": {
+    "message": "crwdns4523:0crwdne4523:0"
+  },
+  "profile.countries.ma": {
+    "message": "crwdns4524:0crwdne4524:0"
+  },
+  "profile.countries.mz": {
+    "message": "crwdns4525:0crwdne4525:0"
+  },
+  "profile.countries.mm": {
+    "message": "crwdns4526:0crwdne4526:0"
+  },
+  "profile.countries.na": {
+    "message": "crwdns4527:0crwdne4527:0"
+  },
+  "profile.countries.nr": {
+    "message": "crwdns4528:0crwdne4528:0"
+  },
+  "profile.countries.np": {
+    "message": "crwdns4529:0crwdne4529:0"
+  },
+  "profile.countries.nl": {
+    "message": "crwdns4530:0crwdne4530:0"
+  },
+  "profile.countries.an": {
+    "message": "crwdns4531:0crwdne4531:0"
+  },
+  "profile.countries.nc": {
+    "message": "crwdns4532:0crwdne4532:0"
+  },
+  "profile.countries.nz": {
+    "message": "crwdns4533:0crwdne4533:0"
+  },
+  "profile.countries.ni": {
+    "message": "crwdns4534:0crwdne4534:0"
+  },
+  "profile.countries.ne": {
+    "message": "crwdns4535:0crwdne4535:0"
+  },
+  "profile.countries.ng": {
+    "message": "crwdns4536:0crwdne4536:0"
+  },
+  "profile.countries.nu": {
+    "message": "crwdns4537:0crwdne4537:0"
+  },
+  "profile.countries.nf": {
+    "message": "crwdns4538:0crwdne4538:0"
+  },
+  "profile.countries.mp": {
+    "message": "crwdns4539:0crwdne4539:0"
+  },
+  "profile.countries.no": {
+    "message": "crwdns4540:0crwdne4540:0"
+  },
+  "profile.countries.om": {
+    "message": "crwdns4541:0crwdne4541:0"
+  },
+  "profile.countries.pk": {
+    "message": "crwdns4542:0crwdne4542:0"
+  },
+  "profile.countries.pw": {
+    "message": "crwdns4543:0crwdne4543:0"
+  },
+  "profile.countries.ps": {
+    "message": "crwdns4544:0crwdne4544:0"
+  },
+  "profile.countries.pa": {
+    "message": "crwdns4545:0crwdne4545:0"
+  },
+  "profile.countries.pg": {
+    "message": "crwdns4546:0crwdne4546:0"
+  },
+  "profile.countries.py": {
+    "message": "crwdns4547:0crwdne4547:0"
+  },
+  "profile.countries.pe": {
+    "message": "crwdns4548:0crwdne4548:0"
+  },
+  "profile.countries.ph": {
+    "message": "crwdns4549:0crwdne4549:0"
+  },
+  "profile.countries.pn": {
+    "message": "crwdns4550:0crwdne4550:0"
+  },
+  "profile.countries.pl": {
+    "message": "crwdns4551:0crwdne4551:0"
+  },
+  "profile.countries.pt": {
+    "message": "crwdns4552:0crwdne4552:0"
+  },
+  "profile.countries.pr": {
+    "message": "crwdns4553:0crwdne4553:0"
+  },
+  "profile.countries.qa": {
+    "message": "crwdns4554:0crwdne4554:0"
+  },
+  "profile.countries.re": {
+    "message": "crwdns4555:0crwdne4555:0"
+  },
+  "profile.countries.ro": {
+    "message": "crwdns4556:0crwdne4556:0"
+  },
+  "profile.countries.ru": {
+    "message": "crwdns4557:0crwdne4557:0"
+  },
+  "profile.countries.rw": {
+    "message": "crwdns4558:0crwdne4558:0"
+  },
+  "profile.countries.sh": {
+    "message": "crwdns4559:0crwdne4559:0"
+  },
+  "profile.countries.kn": {
+    "message": "crwdns4560:0crwdne4560:0"
+  },
+  "profile.countries.lc": {
+    "message": "crwdns4561:0crwdne4561:0"
+  },
+  "profile.countries.pm": {
+    "message": "crwdns4562:0crwdne4562:0"
+  },
+  "profile.countries.vc": {
+    "message": "crwdns4563:0crwdne4563:0"
+  },
+  "profile.countries.ws": {
+    "message": "crwdns4564:0crwdne4564:0"
+  },
+  "profile.countries.sm": {
+    "message": "crwdns4565:0crwdne4565:0"
+  },
+  "profile.countries.st": {
+    "message": "crwdns4566:0crwdne4566:0"
+  },
+  "profile.countries.sa": {
+    "message": "crwdns4567:0crwdne4567:0"
+  },
+  "profile.countries.sn": {
+    "message": "crwdns4568:0crwdne4568:0"
+  },
+  "profile.countries.rs": {
+    "message": "crwdns4569:0crwdne4569:0"
+  },
+  "profile.countries.sc": {
+    "message": "crwdns4570:0crwdne4570:0"
+  },
+  "profile.countries.sl": {
+    "message": "crwdns4571:0crwdne4571:0"
+  },
+  "profile.countries.sg": {
+    "message": "crwdns4572:0crwdne4572:0"
+  },
+  "profile.countries.sk": {
+    "message": "crwdns4573:0crwdne4573:0"
+  },
+  "profile.countries.si": {
+    "message": "crwdns4574:0crwdne4574:0"
+  },
+  "profile.countries.sb": {
+    "message": "crwdns4575:0crwdne4575:0"
+  },
+  "profile.countries.so": {
+    "message": "crwdns4576:0crwdne4576:0"
+  },
+  "profile.countries.za": {
+    "message": "crwdns4577:0crwdne4577:0"
+  },
+  "profile.countries.gs": {
+    "message": "crwdns4578:0crwdne4578:0"
+  },
+  "profile.countries.es": {
+    "message": "crwdns4579:0crwdne4579:0"
+  },
+  "profile.countries.lk": {
+    "message": "crwdns4580:0crwdne4580:0"
+  },
+  "profile.countries.sd": {
+    "message": "crwdns4581:0crwdne4581:0"
+  },
+  "profile.countries.sr": {
+    "message": "crwdns4582:0crwdne4582:0"
+  },
+  "profile.countries.sj": {
+    "message": "crwdns4583:0crwdne4583:0"
+  },
+  "profile.countries.sz": {
+    "message": "crwdns4584:0crwdne4584:0"
+  },
+  "profile.countries.se": {
+    "message": "crwdns4585:0crwdne4585:0"
+  },
+  "profile.countries.ch": {
+    "message": "crwdns4586:0crwdne4586:0"
+  },
+  "profile.countries.sy": {
+    "message": "crwdns4587:0crwdne4587:0"
+  },
+  "profile.countries.tw": {
+    "message": "crwdns4588:0crwdne4588:0"
+  },
+  "profile.countries.tj": {
+    "message": "crwdns4589:0crwdne4589:0"
+  },
+  "profile.countries.tz": {
+    "message": "crwdns4590:0crwdne4590:0"
+  },
+  "profile.countries.th": {
+    "message": "crwdns4591:0crwdne4591:0"
+  },
+  "profile.countries.tl": {
+    "message": "crwdns4592:0crwdne4592:0"
+  },
+  "profile.countries.tg": {
+    "message": "crwdns4593:0crwdne4593:0"
+  },
+  "profile.countries.tk": {
+    "message": "crwdns4594:0crwdne4594:0"
+  },
+  "profile.countries.to": {
+    "message": "crwdns4595:0crwdne4595:0"
+  },
+  "profile.countries.tt": {
+    "message": "crwdns4596:0crwdne4596:0"
+  },
+  "profile.countries.tn": {
+    "message": "crwdns4597:0crwdne4597:0"
+  },
+  "profile.countries.tr": {
+    "message": "crwdns4598:0crwdne4598:0"
+  },
+  "profile.countries.tm": {
+    "message": "crwdns4599:0crwdne4599:0"
+  },
+  "profile.countries.tc": {
+    "message": "crwdns4600:0crwdne4600:0"
+  },
+  "profile.countries.tv": {
+    "message": "crwdns4601:0crwdne4601:0"
+  },
+  "profile.countries.ug": {
+    "message": "crwdns4602:0crwdne4602:0"
+  },
+  "profile.countries.ua": {
+    "message": "crwdns4603:0crwdne4603:0"
+  },
+  "profile.countries.ae": {
+    "message": "crwdns4604:0crwdne4604:0"
+  },
+  "profile.countries.gb": {
+    "message": "crwdns4605:0crwdne4605:0"
+  },
+  "profile.countries.us": {
+    "message": "crwdns4606:0crwdne4606:0"
+  },
+  "profile.countries.um": {
+    "message": "crwdns4607:0crwdne4607:0"
+  },
+  "profile.countries.uy": {
+    "message": "crwdns4608:0crwdne4608:0"
+  },
+  "profile.countries.uz": {
+    "message": "crwdns4609:0crwdne4609:0"
+  },
+  "profile.countries.vu": {
+    "message": "crwdns4610:0crwdne4610:0"
+  },
+  "profile.countries.ve": {
+    "message": "crwdns4611:0crwdne4611:0"
+  },
+  "profile.countries.vn": {
+    "message": "crwdns4612:0crwdne4612:0"
+  },
+  "profile.countries.vg": {
+    "message": "crwdns4613:0crwdne4613:0"
+  },
+  "profile.countries.vi": {
+    "message": "crwdns4614:0crwdne4614:0"
+  },
+  "profile.countries.wf": {
+    "message": "crwdns4615:0crwdne4615:0"
+  },
+  "profile.countries.eh": {
+    "message": "crwdns4616:0crwdne4616:0"
+  },
+  "profile.countries.ye": {
+    "message": "crwdns4617:0crwdne4617:0"
+  },
+  "profile.countries.zm": {
+    "message": "crwdns4618:0crwdne4618:0"
+  },
+  "profile.countries.zw": {
+    "message": "crwdns4619:0crwdne4619:0"
+  },
+  "profile.months.1": {
+    "message": "crwdns4620:0crwdne4620:0"
+  },
+  "profile.months.2": {
+    "message": "crwdns4621:0crwdne4621:0"
+  },
+  "profile.months.3": {
+    "message": "crwdns4622:0crwdne4622:0"
+  },
+  "profile.months.4": {
+    "message": "crwdns4623:0crwdne4623:0"
+  },
+  "profile.months.5": {
+    "message": "crwdns4624:0crwdne4624:0"
+  },
+  "profile.months.6": {
+    "message": "crwdns4625:0crwdne4625:0"
+  },
+  "profile.months.7": {
+    "message": "crwdns4626:0crwdne4626:0"
+  },
+  "profile.months.8": {
+    "message": "crwdns4627:0crwdne4627:0"
+  },
+  "profile.months.9": {
+    "message": "crwdns4628:0crwdne4628:0"
+  },
+  "profile.months.10": {
+    "message": "crwdns4629:0crwdne4629:0"
+  },
+  "profile.months.11": {
+    "message": "crwdns4630:0crwdne4630:0"
+  },
+  "profile.months.12": {
+    "message": "crwdns4631:0crwdne4631:0"
+  },
+  "profile.startYear": {
+    "message": "crwdns4632:0crwdne4632:0"
+  },
+  "general.disableAeroTheme.label": {
+    "message": "crwdns4633:0crwdne4633:0"
+  },
+  "general.enableGPUPriority.label": {
+    "message": "crwdns107590:0crwdne107590:0"
+  },
+  "general.enableVirtualCameraOutput.label": {
+    "message": "crwdns4634:0crwdne4634:0"
+  },
+  "general.enableGameSource.label": {
+    "message": "crwdns4635:0crwdne4635:0"
+  },
+  "general.hideXsplitFromDisplayCapture.label": {
+    "message": "crwdns164682:0crwdne164682:0"
+  },
+  "general.hideXsplitFromDisplayCapture2.label": {
+    "message": "crwdns164684:0%default%crwdne164684:0"
+  },
+  "general.hideXsplitFromDisplayCapture.tooltip": {
+    "message": "crwdns108086:0crwdne108086:0"
+  },
+  "general.hideTopControlBar.label": {
+    "message": "crwdns129286:0crwdne129286:0"
+  },
+  "general.enableHUD.label": {
+    "message": "crwdns92968:0crwdne92968:0"
+  },
+  "general.enableCopyLink.label": {
+    "message": "crwdns7450:0crwdne7450:0"
+  },
+  "general.hideViewerCount.label": {
+    "message": "crwdns13769:0crwdne13769:0"
+  },
+  "general.hideFromScreenRegion.label": {
+    "message": "crwdns4636:0crwdne4636:0"
+  },
+  "general.logSystemInfo.label": {
+    "message": "crwdns4638:0crwdne4638:0"
+  },
+  "general.scenePreview.label": {
+    "message": "crwdns4639:0crwdne4639:0"
+  },
+  "general.screenshotCapture.label": {
+    "message": "crwdns11949:0crwdne11949:0"
+  },
+  "general.scenePreview.values.1": {
+    "message": "crwdns4640:0crwdne4640:0"
+  },
+  "general.scenePreview.values.2": {
+    "message": "crwdns4641:0crwdne4641:0"
+  },
+  "general.scenePreview.values.3": {
+    "message": "crwdns4642:0crwdne4642:0"
+  },
+  "general.screenshotCapture.values.JPEG": {
+    "message": "crwdns11933:0crwdne11933:0"
+  },
+  "general.screenshotCapture.values.BMP": {
+    "message": "crwdns11934:0crwdne11934:0"
+  },
+  "general.optimizedTransition.label": {
+    "message": "crwdns7729:0crwdne7729:0"
+  },
+  "general.optimizedTransition.tooltip": {
+    "message": "crwdns7730:0[br]crwdnd7730:0[br]crwdne7730:0"
+  },
+  "audio.microphone.label": {
+    "message": "crwdns4643:0crwdne4643:0"
+  },
+  "audio.audioDelay.label": {
+    "message": "crwdns8425:0crwdne8425:0"
+  },
+  "audio.boost.label": {
+    "message": "crwdns8453:0crwdne8453:0"
+  },
+  "audio.noiseSuppression.label": {
+    "message": "crwdns77220:0crwdne77220:0"
+  },
+  "audio.silenceDetection.label": {
+    "message": "crwdns4645:0crwdne4645:0"
+  },
+  "audio.threshold.label": {
+    "message": "crwdns156814:0crwdne156814:0"
+  },
+  "audio.hold.label": {
+    "message": "crwdns156816:0crwdne156816:0"
+  },
+  "audio.attack.label": {
+    "message": "crwdns156818:0crwdne156818:0"
+  },
+  "audio.release.label": {
+    "message": "crwdns156820:0crwdne156820:0"
+  },
+  "audio.silenceDetection.blogLink": {
+    "message": "crwdns5828:0crwdne5828:0"
+  },
+  "audio.systemSound.label": {
+    "message": "crwdns4648:0crwdne4648:0"
+  },
+  "audio.monitor.label": {
+    "message": "crwdns7351:0crwdne7351:0"
+  },
+  "audio.monitor.tooltip": {
+    "message": "crwdns7352:0crwdne7352:0"
+  },
+  "audio.monoMix.label": {
+    "message": "crwdns8058:0crwdne8058:0"
+  },
+  "audio.monoMix.values.0": {
+    "message": "crwdns8059:0crwdne8059:0"
+  },
+  "audio.monoMix.values.1": {
+    "message": "crwdns8060:0crwdne8060:0"
+  },
+  "audio.monoMix.values.2": {
+    "message": "crwdns8061:0crwdne8061:0"
+  },
+  "audio.monoMix.values.3": {
+    "message": "crwdns8062:0crwdne8062:0"
+  },
+  "audio.audioMixingSampleRate.label": {
+    "message": "crwdns11559:0crwdne11559:0"
+  },
+  "audio.audioMixingSampleRate.values.0": {
+    "message": "crwdns11560:0crwdne11560:0"
+  },
+  "audio.audioMixingSampleRate.values.44100": {
+    "message": "crwdns11591:0crwdne11591:0"
+  },
+  "audio.audioMixingSampleRate.values.48000": {
+    "message": "crwdns11592:0crwdne11592:0"
+  },
+  "hotkeys.category.scenes": {
+    "message": "crwdns14279:0crwdne14279:0"
+  },
+  "hotkeys.category.presets": {
+    "message": "crwdns88642:0crwdne88642:0"
+  },
+  "hotkeys.category.audio": {
+    "message": "crwdns14280:0crwdne14280:0"
+  },
+  "hotkeys.category.broadcast": {
+    "message": "crwdns14281:0crwdne14281:0"
+  },
+  "hotkeys.category.recording": {
+    "message": "crwdns14652:0crwdne14652:0"
+  },
+  "hotkeys.category.playout": {
+    "message": "crwdns14653:0crwdne14653:0"
+  },
+  "hotkeys.category.hud": {
+    "message": "crwdns74286:0crwdne74286:0"
+  },
+  "hotkeys.category.sources": {
+    "message": "crwdns81444:0crwdne81444:0"
+  },
+  "hotkeys.message": {
+    "message": "crwdns4651:0crwdne4651:0"
+  },
+  "hotkeys.instruction": {
+    "message": "crwdns4652:0crwdne4652:0"
+  },
+  "hotkeys.shift.label": {
+    "message": "crwdns4653:0crwdne4653:0"
+  },
+  "hotkeys.ctrl.label": {
+    "message": "crwdns4654:0crwdne4654:0"
+  },
+  "hotkeys.alt.label": {
+    "message": "crwdns4655:0crwdne4655:0"
+  },
+  "hotkeys.none": {
+    "message": "crwdns4656:0crwdne4656:0"
+  },
+  "hotkeys.hotkeymode.description": {
+    "message": "crwdns13218:0crwdne13218:0"
+  },
+  "hotkeys.hotkeymode.label": {
+    "message": "crwdns13219:0crwdne13219:0"
+  },
+  "hotkeys.hotkeymode.tooltip": {
+    "message": "crwdns13220:0[br]crwdnd13220:0[br]crwdnd13220:0[br]crwdnd13220:0[br]crwdnd13220:0[br]crwdne13220:0"
+  },
+  "hotkeys.hotkeymode.basic.label": {
+    "message": "crwdns13221:0crwdne13221:0"
+  },
+  "hotkeys.hotkeymode.advanced.label": {
+    "message": "crwdns13222:0crwdne13222:0"
+  },
+  "hotkeys.hotkeybehavior.description": {
+    "message": "crwdns11826:0crwdne11826:0"
+  },
+  "hotkeys.hotkeybehavior.label": {
+    "message": "crwdns11827:0crwdne11827:0"
+  },
+  "hotkeys.hotkeybehavior.tooltip": {
+    "message": "crwdns11828:0[br]crwdnd11828:0[br]crwdnd11828:0[br]crwdnd11828:0[br]crwdne11828:0"
+  },
+  "hotkeys.hotkeyBehavior.values.0": {
+    "message": "crwdns11829:0crwdne11829:0"
+  },
+  "hotkeys.hotkeyBehavior.values.1": {
+    "message": "crwdns11830:0crwdne11830:0"
+  },
+  "hotkeys.hotkeyBehavior.values.2": {
+    "message": "crwdns11831:0crwdne11831:0"
+  },
+  "accounts.videoSharing.label": {
+    "message": "crwdns4657:0crwdne4657:0"
+  },
+  "accounts.youtube.label": {
+    "message": "crwdns14665:0crwdne14665:0"
+  },
+  "accounts.youtube.authorize.label": {
+    "message": "crwdns4659:0crwdne4659:0"
+  },
+  "accounts.socials.label": {
+    "message": "crwdns4661:0crwdne4661:0"
+  },
+  "accounts.facebook.label": {
+    "message": "crwdns14666:0crwdne14666:0"
+  },
+  "accounts.facebook.authorize.label": {
+    "message": "crwdns14667:0crwdne14667:0"
+  },
+  "accounts.twitter.label": {
+    "message": "crwdns14668:0crwdne14668:0"
+  },
+  "accounts.twitter.authorize.label": {
+    "message": "crwdns14669:0crwdne14669:0"
+  },
+  "accounts.google.label": {
+    "message": "crwdns14670:0crwdne14670:0"
+  },
+  "accounts.google.authorize.label": {
+    "message": "crwdns14671:0crwdne14671:0"
+  },
+  "accounts.playerme.label": {
+    "message": "crwdns14672:0crwdne14672:0"
+  },
+  "accounts.playerme.authorize.label": {
+    "message": "crwdns14673:0crwdne14673:0"
+  },
+  "accounts.service.deauthorize.label": {
+    "message": "crwdns14690:0crwdne14690:0"
+  },
+  "accounts.service.switch.label": {
+    "message": "crwdns14654:0crwdne14654:0"
+  },
+  "advanced.caution.label": {
+    "message": "crwdns9352:0crwdne9352:0"
+  },
+  "advanced.enableOptimizedRender.label": {
+    "message": "crwdns7452:0crwdne7452:0"
+  },
+  "advanced.enableOptimizedRender2.label": {
+    "message": "crwdns7453:0crwdne7453:0"
+  },
+  "advanced.enableOptimizedRender.tooltip": {
+    "message": "crwdns7454:0[br]crwdnd7454:0[br]crwdne7454:0"
+  },
+  "advanced.videoProcessingMode.label": {
+    "message": "crwdns13269:0crwdne13269:0"
+  },
+  "advanced.videoProcessingMode2.label": {
+    "message": "crwdns13270:0crwdne13270:0"
+  },
+  "advanced.videoProcessingMode.tooltip": {
+    "message": "crwdns156822:0[br]crwdnd156822:0[br]crwdne156822:0"
+  },
+  "advanced.videoProcessingMode.values.1": {
+    "message": "crwdns13272:0crwdne13272:0"
+  },
+  "advanced.videoProcessingMode.values.2": {
+    "message": "crwdns13273:0crwdne13273:0"
+  },
+  "advanced.videoProcessingMode.values.3": {
+    "message": "crwdns13274:0crwdne13274:0"
+  },
+  "advanced.enableGlobalScript.label": {
+    "message": "crwdns11553:0crwdne11553:0"
+  },
+  "advanced.enableGlobalScript2.label": {
+    "message": "crwdns11554:0%default%crwdne11554:0"
+  },
+  "advanced.enabled.label": {
+    "message": "crwdns9356:0crwdne9356:0"
+  },
+  "advanced.disabled.label": {
+    "message": "crwdns9357:0crwdne9357:0"
+  },
+  "advanced.enableGlobalScript.tooltip": {
+    "message": "crwdns11555:0[br]crwdne11555:0"
+  },
+  "advanced.enableFlashSound.label": {
+    "message": "crwdns9229:0crwdne9229:0"
+  },
+  "advanced.enableFlashSound2.label": {
+    "message": "crwdns9354:0%default%crwdne9354:0"
+  },
+  "advanced.enableFlashSound.tooltip": {
+    "message": "crwdns156824:0[br]crwdnd156824:0[br]crwdne156824:0"
+  },
+  "advanced.enableWasapi.label": {
+    "message": "crwdns107592:0crwdne107592:0"
+  },
+  "advanced.enableWasapi2.label": {
+    "message": "crwdns12494:0%default%crwdne12494:0"
+  },
+  "advanced.enableWasapi.tooltip": {
+    "message": "crwdns12495:0crwdne12495:0"
+  },
+  "advanced.enableMFEngine.label": {
+    "message": "crwdns156826:0crwdne156826:0"
+  },
+  "advanced.enableMFEngine2.label": {
+    "message": "crwdns156828:0%default%crwdne156828:0"
+  },
+  "advanced.enableMFEngine.tooltip": {
+    "message": "crwdns156830:0[br]crwdnd156830:0[br]crwdne156830:0"
+  },
+  "advanced.enableHardwareAccelerateUSB2.label": {
+    "message": "crwdns11517:0crwdne11517:0"
+  },
+  "advanced.enableHardwareAccelerateUSB22.label": {
+    "message": "crwdns11518:0%default%crwdne11518:0"
+  },
+  "advanced.enableHardwareAccelerateUSB2.tooltip": {
+    "message": "crwdns156832:0[br]crwdnd156832:0[br]crwdne156832:0"
+  },
+  "advanced.antiAliasing.label": {
+    "message": "crwdns7455:0crwdne7455:0"
+  },
+  "advanced.antiAliasing.tooltip": {
+    "message": "crwdns7456:0[br]crwdnd7456:0[br]crwdne7456:0"
+  },
+  "advanced.antiAliasing.values.1": {
+    "message": "crwdns7457:0crwdne7457:0"
+  },
+  "advanced.antiAliasing.values.2": {
+    "message": "crwdns7458:0crwdne7458:0"
+  },
+  "advanced.antiAliasing.values.3": {
+    "message": "crwdns7459:0crwdne7459:0"
+  },
+  "advanced.antiAliasing.quality.label": {
+    "message": "crwdns7460:0crwdne7460:0"
+  },
+  "advanced.antiAliasing.sampleCount.label": {
+    "message": "crwdns7461:0crwdne7461:0"
+  },
+  "advanced.antiAliasing.stencilBuffer.label": {
+    "message": "crwdns7462:0crwdne7462:0"
+  },
+  "advanced.antiAliasing.threshold.label": {
+    "message": "crwdns7463:0crwdne7463:0"
+  },
+  "advanced.network.label": {
+    "message": "crwdns8063:0crwdne8063:0"
+  },
+  "advanced.network.tooltip": {
+    "message": "crwdns8064:0crwdne8064:0"
+  },
+  "advanced.customNetworkConnection.label": {
+    "message": "crwdns11556:0crwdne11556:0"
+  },
+  "advanced.customNetworkConnection.labelXbc5003": {
+    "message": "crwdns11969:0crwdne11969:0"
+  },
+  "advanced.customNetworkConnection.tooltip": {
+    "message": "crwdns8719:0crwdne8719:0"
+  },
+  "advanced.autoSelectNetworkAdapter.label": {
+    "message": "crwdns11832:0crwdne11832:0"
+  },
+  "advanced.enableScriptSecurity.label": {
+    "message": "crwdns11525:0crwdne11525:0"
+  },
+  "advanced.enableScriptSecurity2.label": {
+    "message": "crwdns11526:0%default%crwdne11526:0"
+  },
+  "advanced.enableScriptSecurity.tooltip": {
+    "message": "crwdns11527:0crwdne11527:0"
+  },
+  "advanced.browserSourceOptimization.label": {
+    "message": "crwdns12649:0crwdne12649:0"
+  },
+  "advanced.browserSourceOptimization2.label": {
+    "message": "crwdns12650:0%default%crwdne12650:0"
+  },
+  "advanced.browserSourceOptimization.tooltip": {
+    "message": "crwdns156834:0[br]crwdnd156834:0[br]crwdne156834:0"
+  },
+  "advanced.enableDeveloperMode.label": {
+    "message": "crwdns11593:0crwdne11593:0"
+  },
+  "advanced.enableDeveloperMode2.label": {
+    "message": "crwdns11594:0%default%crwdne11594:0"
+  },
+  "advanced.enableDeveloperMode.tooltip": {
+    "message": "crwdns156836:0[br]crwdnd156836:0[br]crwdne156836:0"
+  },
+  "advanced.enhancedLogging.label": {
+    "message": "crwdns13770:0crwdne13770:0"
+  },
+  "advanced.enhancedLogging2.label": {
+    "message": "crwdns13771:0%default%crwdne13771:0"
+  },
+  "advanced.enhancedLogging.tooltip": {
+    "message": "crwdns13925:0%path%crwdnd13925:0[br]crwdnd13925:0[br]crwdne13925:0"
+  },
+  "advanced.dx12Capture.label": {
+    "message": "crwdns12738:0crwdne12738:0"
+  },
+  "advanced.dx12Capture2.label": {
+    "message": "crwdns14201:0crwdne14201:0"
+  },
+  "advanced.dx12Capture.tooltip": {
+    "message": "crwdns156838:0[br]crwdnd156838:0[br]crwdne156838:0"
+  },
+  "advanced.vulkan.label": {
+    "message": "crwdns70940:0crwdne70940:0"
+  },
+  "advanced.vulkan2.label": {
+    "message": "crwdns70942:0crwdne70942:0"
+  },
+  "advanced.vulkan.tooltip": {
+    "message": "crwdns156840:0crwdne156840:0"
+  },
+  "advanced.projectorBorder.label": {
+    "message": "crwdns12925:0crwdne12925:0"
+  },
+  "advanced.projectorBorder.values.always": {
+    "message": "crwdns12926:0crwdne12926:0"
+  },
+  "advanced.projectorBorder.values.shift": {
+    "message": "crwdns12927:0crwdne12927:0"
+  },
+  "advanced.projectorBorder.values.never": {
+    "message": "crwdns12928:0crwdne12928:0"
+  },
+  "advanced.gpuAdapter.label": {
+    "message": "crwdns156842:0crwdne156842:0"
+  },
+  "advanced.gpuAdapter2.label": {
+    "message": "crwdns156844:0crwdne156844:0"
+  },
+  "advanced.gpuAdapter.tooltip": {
+    "message": "crwdns158332:0crwdne158332:0"
+  },
+  "advanced.gpuAdapter.values.0": {
+    "message": "crwdns156848:0crwdne156848:0"
+  },
+  "menu.mixerColorspace.label": {
+    "message": "crwdns4671:0crwdne4671:0"
+  },
+  "menu.mixerColorspace.ayuv.label": {
+    "message": "crwdns4672:0crwdne4672:0"
+  },
+  "menu.mixerColorspace.yuy2.label": {
+    "message": "crwdns4673:0crwdne4673:0"
+  },
+  "menu.mixerColorspace.rgb1624.label": {
+    "message": "crwdns4674:0crwdne4674:0"
+  },
+  "menu.mixerColorspace.rgb32.label": {
+    "message": "crwdns4675:0crwdne4675:0"
+  },
+  "menu.enableVirtualCameraWhileStreaming.label": {
+    "message": "crwdns4676:0crwdne4676:0"
+  },
+  "button.restore": {
+    "message": "crwdns4677:0crwdne4677:0"
+  },
+  "button.ok": {
+    "message": "crwdns4678:0crwdne4678:0"
+  },
+  "button.cancel": {
+    "message": "crwdns4679:0crwdne4679:0"
+  },
+  "button.apply": {
+    "message": "crwdns4680:0crwdne4680:0"
+  }
+}

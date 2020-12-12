@@ -1,0 +1,65 @@
+{
+  "video_playlist.audio_output": {
+    "message": "Sortie audio"
+  },
+  "video_playlist.playback": {
+    "message": "Lecture"
+  },
+  "video_playlist.when_finished": {
+    "message": "Lorsque terminé"
+  },
+  "video_playlist.start_on_load": {
+    "message": "Lecture lors de l'entrée en scène"
+  },
+  "video_playlist.remember_playback_position": {
+    "message": "Se souvenir de la position de lecture"
+  },
+  "video_playlist.show_playback_position": {
+    "message": "Afficher la position de lecture sur les vidéos"
+  },
+  "video_playlist.start_at": {
+    "message": "Démarrer à"
+  },
+  "video_playlist.set": {
+    "message": "Définir"
+  },
+  "video_playlist.end_at": {
+    "message": "Terminer à"
+  },
+  "video_playlist.reset": {
+    "message": "Réinitialiser"
+  },
+  "video_playlist.force_deinterlace": {
+    "message": "Forcer le désentrelacement"
+  },
+  "video_playlist.videos": {
+    "message": "Vidéos"
+  },
+  "video_playlist.playlist": {
+    "message": "LISTE DE LECTURE"
+  },
+  "video_playlist.add": {
+    "message": "Ajouter"
+  },
+  "video_playlist.remove": {
+    "message": "Supprimer"
+  },
+  "video_playlist.ok": {
+    "message": "OK"
+  },
+  "video_playlist.cancel": {
+    "message": "Annuler"
+  },
+  "video_playlist.hint.videos_section": {
+    "message": "Ajouter, supprimer et arranger des vidéos"
+  },
+  "video_playlist.hint.video_playback_section": {
+    "message": "Contrôlez la lecture, réglez le volume vidéo et définissez le périphérique de sortie audio."
+  },
+  "video_playlist.hint.video_missing": {
+    "message": "Le fichier source est introuvable. Il peut avoir été renommé ou supprimé."
+  },
+  "video_playlist.processing": {
+    "message": "Traitement des vidéos..."
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "menu.language": {
+    "message": "เปลี่ยนภาษา"
+  },
+  "menu.calibrate": {
+    "message": "การปรับค่า"
+  },
+  "menu.account": {
+    "message": "บัญชีของฉัน"
+  },
+  "menu.help": {
+    "message": "ช่วยเหลือ"
+  },
+  "menu.signin": {
+    "message": "ลงชื่อเข้าใช้ด้วย"
+  },
+  "menu.logout": {
+    "message": "ลงชื่อออก"
+  },
+  "menu.about": {
+    "message": "เกี่ยวกับ"
+  },
+  "menu.source": {
+    "message": "ซอส"
+  },
+  "menu.filter": {
+    "message": "ตัวกรอง"
+  },
+  "menu.bgFilter.og": {
+    "message": "ฉากหลังเริ่มต้น"
+  },
+  "menu.bgFilter.replace": {
+    "message": "เปลี่ยนฉากหลัง"
+  },
+  "menu.bgFilter.remove": {
+    "message": "ลบฉากหลัง"
+  },
+  "menu.bgImage": {
+    "message": "รูปฉากหลัง"
+  },
+  "menu.bgBlur": {
+    "message": "ฉากหลังเบลอ"
+  },
+  "menu.filterMenu.automatic": {
+    "message": "อัตโนมัติ"
+  },
+  "menu.filterMenu.accel": {
+    "message": "การเร่งด้วยฮาร์ดแวร์"
+  },
+  "menu.filterMenu.quality": {
+    "message": "ควบคุมคุณภาพ"
+  },
+  "menu.filterMenu.quality.low": {
+    "message": "ต่ำ"
+  },
+  "menu.filterMenu.quality.med": {
+    "message": "มาตรฐาน"
+  },
+  "menu.filterMenu.quality.high": {
+    "message": "สูง"
+  },
+  "menu.filterMenu.addtl": {
+    "message": "ตัวเลือกเพิ่มเติม"
+  },
+  "menu.filterMenu.addtl.chair": {
+    "message": "นำเก้าอี้ออก"
+  },
+  "menu.browse.local": {
+    "message": "เรียกดูไฟล์ในเครื่อง"
+  },
+  "menu.browse.online": {
+    "message": "ออนไลน์ เว็บเพจ"
+  },
+  "calibrate.title": {
+    "message": "ปรับแต่ง XSplit VCam"
+  },
+  "calibrate.subtitle": {
+    "message": "ปรับแต่ง XSplit VCam อนุญาตให้เราเพิ่มประสิทธิภาพสำหรับสภาพแวดล้อมและกล้องของคุณ"
+  },
+  "calibrate.source": {
+    "message": "เลือกซอสของกล้อง"
+  },
+  "calibrate.vidConsent": {
+    "message": "อัพโหลดวิดีโอความยาว 15วิ และปรับแต่งข้อมูลสำหรับการเพิ่มประสิทธิภาพ"
+  },
+  "calibrate.title2": {
+    "message": "กำลังทำการปรับแต่ง..."
+  },
+  "calibrate.subtitle2": {
+    "message": "อยู่หน้ากล้องของคุณเป็นเวลา 15 วินาที มองไปข้างๆ ยกแขนของคุณขึ้น หรือทำอะไรก็ตามที่ปรกติคุณทำตอนอยู่หน้ากล้อง"
+  },
+  "calibrate.title3": {
+    "message": "เสร็จสิ้น!"
+  },
+  "calibrate.subtitle3": {
+    "message": "XSplit VCam พร้อมแล้ว เพียงเลือก \"XSplit VCam\" เป็นกล้องของคุณใน Skype, OBS XSplit Broadcaster หรือแอพพลิเคชั่นใดๆ ก็ตามที่ใช้กล้อง"
+  },
+  "calibrate.denyConsent": {
+    "message": "คุณแน่ใจหรือว่าคุณไม่ต้องการอัพโหลดข้อมูลการปรับแต่ง? เราจะใช้ข้อมูลของคุณในการเพิ่มประสิทธิภาพการลบฉากหลังด้วย AI เท่านั้น ถ้าไม่มีข้อมูลนี้เราจะไม่สามารถเพิ่มประสพการ์ณให้คุณได้"
+  },
+  "feedback.ask": {
+    "message": "คุณชอบแอพของไรอย่างไรบ้าง?"
+  },
+  "feedback.rating.low": {
+    "message": "เราขออภัยทีคุณพบกับช่วงเวลาที่ไม่ดี"
+  },
+  "feedback.rating.med": {
+    "message": "เราจะทำให้ดีขึ้นได้อย่างไร?"
+  },
+  "feedback.rating.high": {
+    "message": "ขอบคุณสำหรับห้าดาว!"
+  },
+  "feedback.vidConsent": {
+    "message": "ฉันต้องการบันทึกวิดีโอแบบง่ายๆ"
+  },
+  "feedback.question": {
+    "message": "มีอะไรอีกหรือไม่ที่เราสามารถเพิ่มเติมได้? ฟีเจอร์ที่อยากได้?"
+  },
+  "feedback.comments": {
+    "message": "สามารถแสดงความคิดเห็นหรือไม่ก็ได้"
+  },
+  "feedback.thanks": {
+    "message": "ขอบคุณสำหรับคำติชม!"
+  },
+  "feedback.assurance": {
+    "message": "เราจะทำงานอย่างหนักเพื่อให้คุณได้พบประสพการ์ณที่ดียิ่งขึ้น"
+  },
+  "purchase.buy": {
+    "message": "ซื้อตอนนี้!"
+  },
+  "window.continue": {
+    "message": "ดำเนินการต่อ"
+  },
+  "window.close": {
+    "message": "ปิด"
+  },
+  "window.cancel": {
+    "message": "ยกเลิก"
+  },
+  "window.redo": {
+    "message": "ทำซ้ำ"
+  },
+  "window.submit": {
+    "message": "ส่ง"
+  }
+}

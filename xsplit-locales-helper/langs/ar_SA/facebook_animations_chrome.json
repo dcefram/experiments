@@ -1,0 +1,110 @@
+{
+  "title.source": {
+    "message": "مصدر"
+  },
+  "subtitle.account": {
+    "message": "الحساب"
+  },
+  "link.authorize": {
+    "message": "Authorize XSplit to use Facebook Live"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** Switch account"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** Remove authorization"
+  },
+  "subtitle2.authorize.error": {
+    "message": "Please try authorizing again and grant access to all permission required by XSplit for this functionality"
+  },
+  "subtitle.source": {
+    "message": "مصدر"
+  },
+  "source.values.automatic": {
+    "message": "تلقائي"
+  },
+  "chat.reaction.not_connected": {
+    "message": "Reactions will automatically load once stream is live"
+  },
+  "chat.comment.not_connected": {
+    "message": "Comments will automatically load once stream is live"
+  },
+  "chat.connected": {
+    "message": "متصل"
+  },
+  "title.display": {
+    "message": "Display"
+  },
+  "help.display.title": {
+    "message": "Reactions Animation"
+  },
+  "help.display.text": {
+    "message": "Customize how Live Reactions appear on your live stream![br]Choose an animation type and control various settings.[br][br]Use the Preview button to check your animations before going live."
+  },
+  "animation.text": {
+    "message": "حيوية"
+  },
+  "label.streamprops": {
+    "message": "Stream Properties"
+  },
+  "button.reset": {
+    "message": "إعادة تعيين "
+  },
+  "label.direction": {
+    "message": "اتجاه"
+  },
+  "label.time": {
+    "message": "Time"
+  },
+  "label.seconds": {
+    "message": "seconds"
+  },
+  "label.timevariation": {
+    "message": "Time Variation"
+  },
+  "label.emoji.size": {
+    "message": "Emoji Size"
+  },
+  "label.pixels": {
+    "message": "pixels"
+  },
+  "label.sizevariation": {
+    "message": "Size Variation"
+  },
+  "label.hide_connection_message": {
+    "message": "Hide connection messages"
+  },
+  "button.preview": {
+    "message": "Preview"
+  },
+  "animation.types.stream": {
+    "message": "Reaction Stream"
+  },
+  "animation.types.pop": {
+    "message": "Pop In/Out"
+  },
+  "stream.directions.leftToRight": {
+    "message": "Left to Right"
+  },
+  "stream.directions.topToBottom": {
+    "message": "Top to Bottom"
+  },
+  "stream.directions.rightToLeft": {
+    "message": "Right to Left"
+  },
+  "stream.directions.bottomToTop": {
+    "message": "Bottom to Top"
+  },
+  "tabheader.title": {
+    "message": "Reactions"
+  },
+  "label.not_seeing_videos": {
+    "message": "Not seeing your live video?"
+  },
+  "label.not_seeing_videos_help": {
+    "message": "We might not have permission to access some of your pages' live videos."
+  },
+  "label.not_seeing_videos_link": {
+    "message": "Click here to re-authorize"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "obsImport.permission_error": {
+    "message": "ต้องการเข้าถึง DLL โปรดไปที่ [เครื่องมือ -> การอนุญาต] แล้วอนุญาตให้ส่วนขยายนี้เข้าถึงได้เพื่อจะดำเนินการต่อ"
+  },
+  "obsImport.permission_button": {
+    "message": "ไปที่การอนุญาต"
+  },
+  "obsImport.import_text": {
+    "message": "นำเข้า OBS Scene Collections ของคุณเพื่อเป็น XSplit Broadcaster Presentation ใหม่ แหล่งที่มาบางประเภทอาจใช้งานไม่ได้"
+  },
+  "obsImport.text_link": {
+    "message": "คลิ๊กที่นี่เพื่อเรียนรุ้เพิ่มเติม"
+  },
+  "obsImport.file_error": {
+    "message": "โปรดเลือกไอค่อน OBS Scene Collection json ไฟล์ที่ใช้งานได้"
+  },
+  "obsImport.logs_link": {
+    "message": "คลิ๊กที่นี่เพื่อดูล็อกเพิ่มเติม"
+  },
+  "obsImport.import": {
+    "message": "นำเข้า"
+  }
+}

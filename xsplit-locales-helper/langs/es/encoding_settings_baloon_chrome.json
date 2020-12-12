@@ -1,0 +1,38 @@
+{
+	"currentResolutionNotSupported": {
+		"message": "Tu resolución de vídeo actual es de %resolution%. Tu cantidad de frames por segundo es de %fps%."
+	},
+	"currentResolutionNotSupportedYouTube": {
+		"message": "Su resolución de vídeo se establece en %resolution% en %fps% cuadros por segundo que no es compatible con YouTube Live. Establecer la resolución a una resolución de apoyo de la tabla a continuación."
+	},
+	"currentResolutionSupported": {
+		"message": "Tu resolución de vídeo actual es de %resolution%. Tu cantidad de frames por segundo es de *%fps%*. Consulta la tabla para encontrar las tasas de transferencias recomendadas"
+	},
+	"currentResolutionSupportedYouTube": {
+		"message": "Su *resolución de vídeo actual* se establece en *%resolution%*. Su velocidad de fotogramas de vídeo actual es *%fps%*. Ver dirección abajo para bitrate recomendado."
+	},
+	"currentResolutionCapable1080pYouTube": {
+		"message": "Tu *resolución de video actual* está establecida en *%resolution%*. Tu velocidad de fotogramas de video actual es de *%fps%*. Deberías *pensarlo dos veces antes de transmitir en 1080p* o en resoluciones más altas*, a menos que tengas un CPU muy potente y una conexión a internet con banda muy ancha."
+	},
+	"currentResolutionNotCapable1080pYouTube": {
+		"message": "Tu *resolución de video actual* está establecida en *%resolution%*. Tu velocidad de fotogramas de video actual es de *%fps%*. Deberías *pensarlo dos veces antes de transmitir en 1080p* o en resoluciones más altas*, a menos que tengas un CPU muy potente (que posiblemente no tengas) y una conexión a internet con banda muy ancha."
+	},
+	"defaultMessage": {
+		"message": "Para %service% recomendamos exclusivamente estas resoluciones. Cámbiala en Menú Resolución"
+	},
+	"resolution": {
+		"message": "Resolución"
+	},
+	"suggestedBitRate": {
+		"message": "Tasa de transferencia recomendada"
+	},
+	"maximumBitRate": {
+		"message": "Tasa de transferencia máxima"
+	},
+	"minimumBitRate": {
+		"message": "Tasa de transferencia mínima"
+	},
+	"warning": {
+		"message": "No intentes usar %resolutions% a menos que tu CPU y tu conexion a internet sean la leche"
+	}
+}

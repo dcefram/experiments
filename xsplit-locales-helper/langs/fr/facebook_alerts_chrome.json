@@ -1,0 +1,83 @@
+{
+  "facebook.alerts.tabheader": {
+    "message": "Alerte"
+  },
+  "facebook.alerts.notification": {
+    "message": "Notification"
+  },
+  "facebook.alerts.status": {
+    "message": "État"
+  },
+  "facebook.alerts.authorize": {
+    "message": "Autoriser XSplit à utiliser Facebook Live"
+  },
+  "facebook.alerts.remove_authorization": {
+    "message": "**%api%** Retirer l'autorisation"
+  },
+  "facebook.alerts.type.stars": {
+    "message": "Étoiles"
+  },
+  "facebook.alerts.type.share": {
+    "message": "Partager"
+  },
+  "facebook.alerts.alert_type": {
+    "message": "Type d’alerte"
+  },
+  "facebook.alerts.minimum_stars": {
+    "message": "Étoiles minimums"
+  },
+  "facebook.alerts.relogin": {
+    "message": "Reconnexion"
+  },
+  "facebook.alerts.style": {
+    "message": "Style"
+  },
+  "facebook.alerts.theme": {
+    "message": "Thème"
+  },
+  "facebook.alerts.layout": {
+    "message": "Mise en page"
+  },
+  "facebook.alerts.color": {
+    "message": "Couleur"
+  },
+  "facebook.alerts.sound": {
+    "message": "Alerte sonore"
+  },
+  "facebook.alerts.test_alert": {
+    "message": "Test Alerte"
+  },
+  "facebook.alerts.hide_connection_message": {
+    "message": "Cacher les messages de connexion"
+  },
+  "facebook.alerts.source": {
+    "message": "Source"
+  },
+  "facebook.alerts.account": {
+    "message": "Compte"
+  },
+  "facebook.alerts.error_auth": {
+    "message": "Veuillez réessayer d'autoriser l'action et toutes les permissions requises par XSplit pour cette fonctionnalité"
+  },
+  "facebook.alerts.not_connected": {
+    "message": "Les alertes chargeront automatiquement lorsque le stream sera live"
+  },
+  "facebook.alerts.settings": {
+    "message": "Paramètres"
+  },
+  "facebook.alerts.switch_account": {
+    "message": "**%api%** Changer de compte"
+  },
+  "facebook.alerts.connected": {
+    "message": "Connecté"
+  },
+  "facebook.alerts.not_seeing_videos": {
+    "message": "Vous ne voyez pas votre vidéo live?"
+  },
+  "facebook.alerts.not_seeing_videos_help": {
+    "message": "Il se peut que nous n'ayons pas les permissions pour certains vidéos live de votre page."
+  },
+  "facebook.alerts.not_seeing_videos_link": {
+    "message": "Cliquez ici pour ré-autoriser"
+  }
+}

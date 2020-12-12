@@ -1,0 +1,674 @@
+{
+	"title": {
+		"message": "crwdns7247:0crwdne7247:0"
+	},
+	"myRecordings.back": {
+		"message": "crwdns7248:0crwdne7248:0"
+	},
+	"myRecordings.processing": {
+		"message": "crwdns7249:0crwdne7249:0"
+	},
+	"myRecordings.openWith": {
+		"message": "crwdns7250:0crwdne7250:0"
+	},
+	"myRecordings.edit": {
+		"message": "crwdns95884:0crwdne95884:0"
+	},
+	"myRecordings.CONVERT_TO_MP4": {
+		"message": "crwdns8720:0crwdne8720:0"
+	},
+	"myRecordings.REPAIR_FILE": {
+		"message": "crwdns8721:0crwdne8721:0"
+	},
+	"myRecordings.FIX_MOV_FILE": {
+		"message": "crwdns8722:0crwdne8722:0"
+	},
+	"myRecordings.FIX_MOV_FILE_TOOLTIP": {
+		"message": "crwdns8723:0[here]crwdne8723:0"
+	},
+	"myRecordings.openFileLocation": {
+		"message": "crwdns8013:0crwdne8013:0"
+	},
+	"myRecordings.openFolderLocation": {
+		"message": "crwdns8014:0crwdne8014:0"
+	},
+	"myRecordings.sortBy": {
+		"message": "crwdns7251:0crwdne7251:0"
+	},
+	"myRecordings.orderBy": {
+		"message": "crwdns7252:0crwdne7252:0"
+	},
+	"myRecordings.ascending": {
+		"message": "crwdns7253:0crwdne7253:0"
+	},
+	"myRecordings.descending": {
+		"message": "crwdns7254:0crwdne7254:0"
+	},
+	"myRecordings.header.name": {
+		"message": "crwdns7255:0crwdne7255:0"
+	},
+	"myRecordings.header.date": {
+		"message": "crwdns7256:0crwdne7256:0"
+	},
+	"myRecordings.header.type": {
+		"message": "crwdns7257:0crwdne7257:0"
+	},
+	"myRecordings.header.videoLength": {
+		"message": "crwdns7258:0crwdne7258:0"
+	},
+	"myRecordings.header.size": {
+		"message": "crwdns7259:0crwdne7259:0"
+	},
+	"myRecordings.details.recordedOn": {
+		"message": "crwdns7260:0crwdne7260:0"
+	},
+	"myRecordings.details.deleteRecordings": {
+		"message": "crwdns7261:0crwdne7261:0"
+	},
+	"myRecordings.details.files": {
+		"message": "crwdns7262:0crwdne7262:0"
+	},
+	"myRecordings.details.selected": {
+		"message": "crwdns7263:0crwdne7263:0"
+	},
+	"myRecordings.details.total": {
+		"message": "crwdns7264:0crwdne7264:0"
+	},
+	"myRecordings.details.uploading": {
+		"message": "crwdns7265:0%percent%crwdne7265:0"
+	},
+	"myRecordings.details.rename": {
+		"message": "crwdns7266:0crwdne7266:0"
+	},
+	"myRecordings.details.delete": {
+		"message": "crwdns7267:0crwdne7267:0"
+	},
+	"myRecordings.details.editSettings": {
+		"message": "crwdns7268:0crwdne7268:0"
+	},
+	"myRecordings.details.link": {
+		"message": "crwdns7269:0crwdne7269:0"
+	},
+	"myRecordings.details.open": {
+		"message": "crwdns9186:0crwdne9186:0"
+	},
+	"myRecordings.details.copy": {
+		"message": "crwdns9187:0crwdne9187:0"
+	},
+	"myRecordings.details.deleteVideoFromYoutube": {
+		"message": "crwdns7270:0crwdne7270:0"
+	},
+	"myRecordings.details.deleteVideoFromDailymotion": {
+		"message": "crwdns7271:0crwdne7271:0"
+	},
+	"myRecordings.details.filename.errors.FILE_ALREADY_EXISTS": {
+		"message": "crwdns7272:0crwdne7272:0"
+	},
+	"myRecordings.details.filename.errors.INVALID_FILENAME": {
+		"message": "crwdns7273:0crwdne7273:0"
+	},
+	"myRecordings.details.filename.hoverMessage": {
+		"message": "crwdns58806:0crwdne58806:0"
+	},
+	"myRecordings.youtube.error.upload": {
+		"message": "crwdns87708:0crwdne87708:0"
+	},
+	"myRecordings.youtube.error.tryAgain": {
+		"message": "crwdns7274:0crwdne7274:0"
+	},
+	"myRecordings.youtube.error.cancel": {
+		"message": "crwdns7275:0crwdne7275:0"
+	},
+	"myRecordings.youtube.link.copy": {
+		"message": "crwdns7276:0crwdne7276:0"
+	},
+	"myRecordings.youtube.link.open": {
+		"message": "crwdns7277:0crwdne7277:0"
+	},
+	"myRecordings.youtube.privacy.unlisted": {
+		"message": "crwdns7278:0crwdne7278:0"
+	},
+	"myRecordings.youtube.privacy.private": {
+		"message": "crwdns7279:0crwdne7279:0"
+	},
+	"myRecordings.youtube.privacy.public": {
+		"message": "crwdns7280:0crwdne7280:0"
+	},
+	"myRecordings.youtube.cancelUpload": {
+		"message": "crwdns7281:0crwdne7281:0"
+	},
+	"myRecordings.location.label": {
+		"message": "crwdns7282:0crwdne7282:0"
+	},
+	"myRecordings.location.open": {
+		"message": "crwdns7283:0crwdne7283:0"
+	},
+	"uploadVideoDialog.dialogTitle": {
+		"message": "crwdns9188:0crwdne9188:0"
+	},
+	"uploadVideoDialog.edit": {
+		"message": "crwdns9189:0crwdne9189:0"
+	},
+	"uploadVideoDialog.title": {
+		"message": "crwdns9190:0crwdne9190:0"
+	},
+	"uploadVideoDialog.description": {
+		"message": "crwdns9191:0crwdne9191:0"
+	},
+	"uploadVideoDialog.category": {
+		"message": "crwdns9192:0crwdne9192:0"
+	},
+	"uploadVideoDialog.categoryValues.Autos": {
+		"message": "crwdns9193:0crwdne9193:0"
+	},
+	"uploadVideoDialog.categoryValues.Comedy": {
+		"message": "crwdns9194:0crwdne9194:0"
+	},
+	"uploadVideoDialog.categoryValues.Education": {
+		"message": "crwdns9195:0crwdne9195:0"
+	},
+	"uploadVideoDialog.categoryValues.Entertainment": {
+		"message": "crwdns9196:0crwdne9196:0"
+	},
+	"uploadVideoDialog.categoryValues.Film": {
+		"message": "crwdns9197:0crwdne9197:0"
+	},
+	"uploadVideoDialog.categoryValues.Gaming": {
+		"message": "crwdns9198:0crwdne9198:0"
+	},
+	"uploadVideoDialog.categoryValues.Howto": {
+		"message": "crwdns9199:0crwdne9199:0"
+	},
+	"uploadVideoDialog.categoryValues.Music": {
+		"message": "crwdns9200:0crwdne9200:0"
+	},
+	"uploadVideoDialog.categoryValues.News": {
+		"message": "crwdns9201:0crwdne9201:0"
+	},
+	"uploadVideoDialog.categoryValues.Nonprofit": {
+		"message": "crwdns9202:0crwdne9202:0"
+	},
+	"uploadVideoDialog.categoryValues.People": {
+		"message": "crwdns9203:0crwdne9203:0"
+	},
+	"uploadVideoDialog.categoryValues.Pets&Animals": {
+		"message": "crwdns9204:0crwdne9204:0"
+	},
+	"uploadVideoDialog.categoryValues.Tech": {
+		"message": "crwdns9205:0crwdne9205:0"
+	},
+	"uploadVideoDialog.categoryValues.Sports": {
+		"message": "crwdns9206:0crwdne9206:0"
+	},
+	"uploadVideoDialog.categoryValues.Travel": {
+		"message": "crwdns9207:0crwdne9207:0"
+	},
+	"uploadVideoDialog.gameName": {
+		"message": "crwdns9208:0crwdne9208:0"
+	},
+	"uploadVideoDialog.tags.label": {
+		"message": "crwdns9209:0crwdne9209:0"
+	},
+	"uploadVideoDialog.tags.tooltip": {
+		"message": "crwdns9210:0crwdne9210:0"
+	},
+	"uploadVideoDialog.privacy": {
+		"message": "crwdns9211:0crwdne9211:0"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Unlisted": {
+		"message": "crwdns9212:0crwdne9212:0"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Private": {
+		"message": "crwdns9213:0crwdne9213:0"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Public": {
+		"message": "crwdns9214:0crwdne9214:0"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Private": {
+		"message": "crwdns9215:0crwdne9215:0"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Public": {
+		"message": "crwdns9216:0crwdne9216:0"
+	},
+	"uploadVideoDialog.applyClose": {
+		"message": "crwdns9217:0crwdne9217:0"
+	},
+	"uploadVideoDialog.uploadNow": {
+		"message": "crwdns9218:0crwdne9218:0"
+	},
+	"uploadVideoDialog.title-youtube": {
+		"message": "crwdns9219:0crwdne9219:0"
+	},
+	"uploadVideoDialog.title-dailymotion": {
+		"message": "crwdns9220:0crwdne9220:0"
+	},
+	"uploadVideoDialog.editVideo-youtube": {
+		"message": "crwdns9221:0crwdne9221:0"
+	},
+	"uploadVideoDialog.cancel": {
+		"message": "crwdns9222:0crwdne9222:0"
+	},
+	"uploadVideoDialog.allowEmbed": {
+		"message": "crwdns9223:0crwdne9223:0"
+	},
+	"uploadVideoDialog.embed.label": {
+		"message": "crwdns9224:0crwdne9224:0"
+	},
+	"uploadVideoDialog.processing": {
+		"message": "crwdns9225:0crwdne9225:0"
+	},
+	"uploadVideoDialog.uploadNotification": {
+		"message": "crwdns13146:0crwdne13146:0"
+	},
+	"youtubeUpload.dialogTitle": {
+		"message": "crwdns4276:0crwdne4276:0"
+	},
+	"youtubeUpload.edit": {
+		"message": "crwdns4277:0crwdne4277:0"
+	},
+	"youtubeUpload.title": {
+		"message": "crwdns7284:0crwdne7284:0"
+	},
+	"youtubeUpload.description": {
+		"message": "crwdns7285:0crwdne7285:0"
+	},
+	"youtubeUpload.category": {
+		"message": "crwdns7286:0crwdne7286:0"
+	},
+	"youtubeUpload.categoryValues.Autos": {
+		"message": "crwdns4281:0crwdne4281:0"
+	},
+	"youtubeUpload.categoryValues.Comedy": {
+		"message": "crwdns4282:0crwdne4282:0"
+	},
+	"youtubeUpload.categoryValues.Education": {
+		"message": "crwdns4283:0crwdne4283:0"
+	},
+	"youtubeUpload.categoryValues.Entertainment": {
+		"message": "crwdns4284:0crwdne4284:0"
+	},
+	"youtubeUpload.categoryValues.Film": {
+		"message": "crwdns4285:0crwdne4285:0"
+	},
+	"youtubeUpload.categoryValues.Gaming": {
+		"message": "crwdns4286:0crwdne4286:0"
+	},
+	"youtubeUpload.categoryValues.Howto": {
+		"message": "crwdns4287:0crwdne4287:0"
+	},
+	"youtubeUpload.categoryValues.Music": {
+		"message": "crwdns4288:0crwdne4288:0"
+	},
+	"youtubeUpload.categoryValues.News": {
+		"message": "crwdns4289:0crwdne4289:0"
+	},
+	"youtubeUpload.categoryValues.Nonprofit": {
+		"message": "crwdns4290:0crwdne4290:0"
+	},
+	"youtubeUpload.categoryValues.People": {
+		"message": "crwdns4291:0crwdne4291:0"
+	},
+	"youtubeUpload.categoryValues.Pets&Animals": {
+		"message": "crwdns4292:0crwdne4292:0"
+	},
+	"youtubeUpload.categoryValues.Tech": {
+		"message": "crwdns4293:0crwdne4293:0"
+	},
+	"youtubeUpload.categoryValues.Sports": {
+		"message": "crwdns4294:0crwdne4294:0"
+	},
+	"youtubeUpload.categoryValues.Travel": {
+		"message": "crwdns4295:0crwdne4295:0"
+	},
+	"youtubeUpload.tags.label": {
+		"message": "crwdns7287:0crwdne7287:0"
+	},
+	"youtubeUpload.tags.tooltip": {
+		"message": "crwdns4297:0crwdne4297:0"
+	},
+	"youtubeUpload.privacy": {
+		"message": "crwdns7288:0crwdne7288:0"
+	},
+	"youtubeUpload.privacyValues.Unlisted": {
+		"message": "crwdns4299:0crwdne4299:0"
+	},
+	"youtubeUpload.privacyValues.Private": {
+		"message": "crwdns4300:0crwdne4300:0"
+	},
+	"youtubeUpload.privacyValues.Public": {
+		"message": "crwdns4301:0crwdne4301:0"
+	},
+	"youtubeUpload.applyClose": {
+		"message": "crwdns7289:0crwdne7289:0"
+	},
+	"youtubeUpload.uploadNow": {
+		"message": "crwdns7290:0crwdne7290:0"
+	},
+	"youtubeUpload.uploadVideo": {
+		"message": "crwdns4304:0crwdne4304:0"
+	},
+	"youtubeUpload.editVideo": {
+		"message": "crwdns4305:0crwdne4305:0"
+	},
+	"youtubeUpload.cancel": {
+		"message": "crwdns7291:0crwdne7291:0"
+	},
+	"youtubeUpload.allowEmbed": {
+		"message": "crwdns7292:0crwdne7292:0"
+	},
+	"youtubeUpload.embed.label": {
+		"message": "crwdns7293:0crwdne7293:0"
+	},
+	"youtubeUpload.processing": {
+		"message": "crwdns4308:0crwdne4308:0"
+	},
+	"facebookShare.addMessage": {
+		"message": "crwdns4309:0crwdne4309:0"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "crwdns4310:0crwdne4310:0"
+	},
+	"facebookShare.via": {
+		"message": "crwdns4311:0crwdne4311:0"
+	},
+	"facebookShare.privacy": {
+		"message": "crwdns4312:0crwdne4312:0"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "crwdns4313:0crwdne4313:0"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "crwdns4314:0crwdne4314:0"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "crwdns4315:0crwdne4315:0"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "crwdns4316:0crwdne4316:0"
+	},
+	"facebookShare.shareVideo": {
+		"message": "crwdns4317:0crwdne4317:0"
+	},
+	"facebookShare.cancel": {
+		"message": "crwdns4318:0crwdne4318:0"
+	},
+	"facebookShare.processing": {
+		"message": "crwdns4319:0crwdne4319:0"
+	},
+	"facebookShare.postAs": {
+		"message": "crwdns14649:0crwdne14649:0"
+	},
+	"facebookShare.timeline": {
+		"message": "crwdns14215:0crwdne14215:0"
+	},
+	"facebookShare.managePage": {
+		"message": "crwdns14216:0crwdne14216:0"
+	},
+	"twitterShare.addMessage": {
+		"message": "crwdns4320:0crwdne4320:0"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "crwdns4321:0crwdne4321:0"
+	},
+	"twitterShare.privacy": {
+		"message": "crwdns4322:0crwdne4322:0"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "crwdns4323:0crwdne4323:0"
+	},
+	"twitterShare.cancel": {
+		"message": "crwdns4324:0crwdne4324:0"
+	},
+	"twitterShare.processing": {
+		"message": "crwdns4325:0crwdne4325:0"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "crwdns4326:0crwdne4326:0"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "crwdns5826:0crwdne5826:0"
+	},
+	"googlePlusShare.via": {
+		"message": "crwdns4328:0crwdne4328:0"
+	},
+	"googlePlusShare.privacy": {
+		"message": "crwdns4329:0crwdne4329:0"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "crwdns4330:0crwdne4330:0"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "crwdns4331:0crwdne4331:0"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "crwdns4332:0crwdne4332:0"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "crwdns4333:0crwdne4333:0"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "crwdns4334:0crwdne4334:0"
+	},
+	"googlePlusShare.cancel": {
+		"message": "crwdns4335:0crwdne4335:0"
+	},
+	"googlePlusShare.processing": {
+		"message": "crwdns4336:0crwdne4336:0"
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "crwdns7353:0crwdne7353:0"
+	},
+	"vodShare.processing": {
+		"message": "crwdns7354:0crwdne7354:0"
+	},
+	"vodShare.addLink": {
+		"message": "crwdns7355:0crwdne7355:0"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "crwdns7356:0crwdne7356:0"
+	},
+	"vodShare.gameCheckin": {
+		"message": "crwdns12540:0crwdne12540:0"
+	},
+	"vodShare.gameCheckin.placeholder": {
+		"message": "crwdns14275:0crwdne14275:0"
+	},
+	"vodShare.shareVideo": {
+		"message": "crwdns7357:0crwdne7357:0"
+	},
+	"vodShare.cancel": {
+		"message": "crwdns7358:0crwdne7358:0"
+	},
+	"vodShare.shareTo.1": {
+		"message": "crwdns14776:0%service1%crwdne14776:0"
+	},
+	"vodShare.shareTo.2": {
+		"message": "crwdns14777:0%service1%crwdnd14777:0%service2%crwdne14777:0"
+	},
+	"vodShare.shareTo.3": {
+		"message": "crwdns14778:0%service1%crwdnd14778:0%service2%crwdnd14778:0%service3%crwdne14778:0"
+	},
+	"vodShare.shareTo.4": {
+		"message": "crwdns14779:0%service1%crwdnd14779:0%service2%crwdnd14779:0%service3%crwdnd14779:0%service4%crwdne14779:0"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "crwdns7366:0crwdne7366:0"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "crwdns7367:0crwdne7367:0"
+	},
+	"vodShare.gameNameWarning": {
+		"message": "crwdns12725:0crwdne12725:0"
+	},
+	"vodShare.loadMore": {
+		"message": "crwdns14689:0crwdne14689:0"
+	},
+	"vodStatus.title": {
+		"message": "crwdns11904:0crwdne11904:0"
+	},
+	"vodStatus.facebook": {
+		"message": "crwdns11905:0crwdne11905:0"
+	},
+	"vodStatus.twitter": {
+		"message": "crwdns11906:0crwdne11906:0"
+	},
+	"vodStatus.playerme": {
+		"message": "crwdns12550:0crwdne12550:0"
+	},
+	"vodStatus.gplus": {
+		"message": "crwdns11907:0crwdne11907:0"
+	},
+	"vodStatus.posting": {
+		"message": "crwdns11908:0%social%crwdne11908:0"
+	},
+	"vodStatus.success": {
+		"message": "crwdns11909:0%social%crwdnd11909:0[br]crwdnd11909:0[%message%]crwdnd11909:0%url%crwdne11909:0"
+	},
+	"vodStatus.message.facebook": {
+		"message": "crwdns11910:0crwdne11910:0"
+	},
+	"vodStatus.message.twitter": {
+		"message": "crwdns11911:0crwdne11911:0"
+	},
+	"vodStatus.message.playerme": {
+		"message": "crwdns12551:0crwdne12551:0"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "crwdns12434:0crwdne12434:0"
+	},
+	"vodStatus.error": {
+		"message": "crwdns12552:0%social%crwdne12552:0"
+	},
+	"vodStatus.failed": {
+		"message": "crwdns12553:0%social%crwdnd12553:0[br]crwdnd12553:0[%message%]crwdnd12553:0%url%crwdne12553:0"
+	},
+	"vodStatus.invalid": {
+		"message": "crwdns11913:0%social%crwdne11913:0"
+	},
+	"vodStatus.edit": {
+		"message": "crwdns11914:0crwdne11914:0"
+	},
+	"vodStatus.retry": {
+		"message": "crwdns11915:0crwdne11915:0"
+	},
+	"dialog.ok": {
+		"message": "crwdns11916:0crwdne11916:0"
+	},
+	"myRecordings.shareupload.loading": {
+		"message": "crwdns111039:0[br]crwdne111039:0"
+	},
+	"growl.yes": {
+		"message": "crwdns4337:0crwdne4337:0"
+	},
+	"growl.no": {
+		"message": "crwdns4338:0crwdne4338:0"
+	},
+	"growl.error": {
+		"message": "crwdns4339:0crwdne4339:0"
+	},
+	"growl.info": {
+		"message": "crwdns4340:0crwdne4340:0"
+	},
+	"growl.warning": {
+		"message": "crwdns4341:0crwdne4341:0"
+	},
+	"growl.question": {
+		"message": "crwdns4342:0crwdne4342:0"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.title": {
+		"message": "crwdns5832:0crwdne5832:0",
+		"type": "error"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.message": {
+		"message": "crwdns5833:0crwdne5833:0"
+	},
+	"growl.messages.BLANK_FILENAME.title": {
+		"message": "crwdns4344:0crwdne4344:0",
+		"type": "error"
+	},
+	"growl.messages.BLANK_FILENAME.message": {
+		"message": "crwdns4345:0crwdne4345:0"
+	},
+	"growl.messages.INVALID_FILENAME.title": {
+		"message": "crwdns4347:0crwdne4347:0",
+		"type": "error"
+	},
+	"growl.messages.INVALID_FILENAME.message": {
+		"message": "crwdns4348:0crwdne4348:0"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.title": {
+		"message": "crwdns4350:0crwdne4350:0",
+		"type": "error"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.message": {
+		"message": "crwdns4351:0crwdne4351:0"
+	},
+	"growl.messages.TOO_LONG_FILENAME.title": {
+		"message": "crwdns4353:0crwdne4353:0",
+		"type": "error"
+	},
+	"growl.messages.TOO_LONG_FILENAME.message": {
+		"message": "crwdns4354:0crwdne4354:0"
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.title": {
+		"message": "crwdns4356:0crwdne4356:0",
+		"type": "error"
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.message": {
+		"message": "crwdns4357:0crwdne4357:0"
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.title": {
+		"message": "crwdns4359:0crwdne4359:0",
+		"type": "warning"
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.message": {
+		"message": "crwdns12721:0crwdne12721:0"
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.title": {
+		"message": "crwdns11923:0crwdne11923:0",
+		"type": "error"
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.message": {
+		"message": "crwdns11924:0crwdne11924:0"
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.title": {
+		"message": "crwdns12722:0crwdne12722:0",
+		"type": "error"
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.message": {
+		"message": "crwdns12723:0crwdne12723:0"
+	},
+	"myScreenshots.emptyMessage": {
+		"message": "crwdns11879:0crwdne11879:0"
+	},
+	"myScreenshots.watchTutorial": {
+		"message": "crwdns11925:0[tutorials]crwdne11925:0"
+	},
+	"myRecordings.title": {
+		"message": "crwdns14276:0crwdne14276:0"
+	},
+	"myRecordings.emptyFileLocation": {
+		"message": "crwdns11890:0crwdne11890:0"
+	},
+	"imgShare.unauthorized": {
+		"message": "crwdns11917:0crwdne11917:0"
+	},
+	"imgShare.shareImageTitle": {
+		"message": "crwdns11918:0crwdne11918:0"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "crwdns12744:0crwdne12744:0"
+	},
+	"myScreenshots.title": {
+		"message": "crwdns11919:0crwdne11919:0"
+	},
+	"myScreenshots.processing": {
+		"message": "crwdns11920:0crwdne11920:0"
+	},
+	"myScreenshots.details.takenon": {
+		"message": "crwdns11921:0crwdne11921:0"
+	},
+	"myScreenshots.emptyFileLocation": {
+		"message": "crwdns12307:0crwdne12307:0"
+	}
+}

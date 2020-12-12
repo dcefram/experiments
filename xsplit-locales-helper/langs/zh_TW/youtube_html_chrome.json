@@ -1,0 +1,62 @@
+{
+	"youtube.html.tabheader": {
+		"message": "聊天"
+	},
+	"youtube.html.source": {
+		"message": "資源"
+	},
+	"youtube.html.account": {
+		"message": "帳戶"
+	},
+	"youtube.html.preview": {
+		"message": "預覽"
+	},
+	"youtube.html.not_connected": {
+		"message": "未連接"
+	},
+	"youtube.html.connected": {
+		"message": "連接"
+	},
+	"youtube.html.error_channel_not_found": {
+		"message": "請提供有效的視訊ID."
+	},
+	"youtube.html.display": {
+		"message": "顯示"
+	},
+	"youtube.html.chat_box": {
+		"message": "聊天框"
+	},
+	"youtube.html.opacity": {
+		"message": "透明度"
+	},
+	"youtube.html.viewers": {
+		"message": "觀眾"
+	},
+	"youtube.html.message": {
+		"message": "消息"
+	},
+	"youtube.html.text_size": {
+		"message": "文本大小"
+	},
+	"youtube.html.hide_user_icons": {
+		"message": "隱藏用戶圖示"
+	},
+	"youtube.html.hide_timestamps": {
+		"message": "隱藏時間戳記"
+	},
+	"youtube.html.hide_on_idle": {
+		"message": "空閒時隱藏聊天"
+	},
+	"youtube.html.video_id": {
+		"message": "視訊ID"
+	},
+	"youtube.html.video_id_help": {
+		"message": "要在瀏覽器中獲取YouTube直播視頻的ID，請右鍵點擊視頻，然後選擇“複製視頻網址”。 複製視頻網址最後部分的字符。"
+	},
+	"youtube.html.connect": {
+		"message": "連接"
+	},
+	"youtube.html.disconnect": {
+		"message": "斷開連接"
+	}
+}

@@ -1,0 +1,86 @@
+{
+  "presentationPackager.info_text": {
+    "message": "crwdns162360:0crwdne162360:0"
+  },
+  "presentationPackager.addtl_info": {
+    "message": "crwdns162362:0crwdne162362:0"
+  },
+  "presentationPackager.export_as_bzip": {
+    "message": "crwdns162364:0crwdne162364:0"
+  },
+  "presentationPackager.save_as": {
+    "message": "crwdns162366:0crwdne162366:0"
+  },
+  "presentationPackager.warning": {
+    "message": "crwdns162368:0crwdne162368:0"
+  },
+  "presentationPackager.warning_info": {
+    "message": "crwdns162370:0crwdne162370:0"
+  },
+  "presentationPackager.verify_presentation_files": {
+    "message": "crwdns162372:0crwdne162372:0"
+  },
+  "presentationPackager.export": {
+    "message": "crwdns162374:0crwdne162374:0"
+  },
+  "presentationPackager.close": {
+    "message": "crwdns162376:0crwdne162376:0"
+  },
+  "presentationPackager.export_in_progress": {
+    "message": "crwdns162378:0crwdne162378:0"
+  },
+  "presentationPackager.moving_files": {
+    "message": "crwdns162380:0crwdne162380:0"
+  },
+  "presentationPackager.cancel": {
+    "message": "crwdns162382:0crwdne162382:0"
+  },
+  "presentationPackager.validating_presentation_files": {
+    "message": "crwdns162384:0crwdne162384:0"
+  },
+  "presentationPackager.dll_permission": {
+    "message": "crwdns162386:0crwdne162386:0"
+  },
+  "presentationPackager.export_successful": {
+    "message": "crwdns162388:0crwdne162388:0"
+  },
+  "presentationPackager.export_cancelled": {
+    "message": "crwdns162390:0crwdne162390:0"
+  },
+  "presentationPackager.validation_successful": {
+    "message": "crwdns162392:0crwdne162392:0"
+  },
+  "presentationPackager.no_missing_files": {
+    "message": "crwdns162394:0crwdne162394:0"
+  },
+  "presentationPackager.invalidFields": {
+    "message": "crwdns162396:0crwdne162396:0"
+  },
+  "presentationPackager.invalidReserved": {
+    "message": "crwdns162398:0crwdne162398:0"
+  },
+  "presentationPackager.filenameTooLong": {
+    "message": "crwdns162400:0crwdne162400:0"
+  },
+  "presentationPackager.periodDetected": {
+    "message": "crwdns162402:0crwdne162402:0"
+  },
+  "presentationPackager.destinationPresent": {
+    "message": "crwdns162404:0crwdne162404:0"
+  },
+  "presentationPackager.error_report": {
+    "message": "crwdns162406:0crwdne162406:0"
+  },
+  "presentationPackager.view_details": {
+    "message": "crwdns162408:0crwdne162408:0"
+  },
+  "presentationPackager.alert_ok": {
+    "message": "crwdns162410:0crwdne162410:0"
+  },
+  "presentationPackager.alert_yes": {
+    "message": "crwdns162412:0crwdne162412:0"
+  },
+  "presentationPackager.alert_no": {
+    "message": "crwdns162414:0crwdne162414:0"
+  }
+}

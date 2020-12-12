@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="msgAuthExpiredOrInvalid" xml:space="preserve">
+    <value>Zugriffstoken fehlt, ist abgelaufen, oder ungültig. Bitte erneut zu autorisieren.
+
+Wenn das Problem weiterhin besteht, wenden Sie sich an den Support.</value>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>XSplit autorisieren, {0} zu verwenden</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>Autorisierung entfernen</value>
+  </data>
+  <data name="lblPageAudience" xml:space="preserve">
+    <value>Seitenpublikum</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>Kein Facebook-Konto? Melden Sie sich hier an.</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>Es gab ein Problem bei der Kommunikation mit dem Facebook-Server. Bitte versuchen Sie es später erneut.</value>
+  </data>
+  <data name="msgAuthorizeRequired" xml:space="preserve">
+    <value>Sie müssen zuerst ein Konto autorisieren.</value>
+  </data>
+  <data name="msgStreamTimeLimitReached" xml:space="preserve">
+    <value>Das Facebook Live-Zeitlimit von {0} Minuten wurde erreicht. Das broadcasten wurde jetzt angehalten.</value>
+  </data>
+  <data name="msgStreamTimeLimitUpdate" xml:space="preserve">
+    <value>Ihnen verbleiben noch {0} Minute/n für diesen Facebook Live-Broadcast.</value>
+  </data>
+  <data name="lblChannels" xml:space="preserve">
+    <value>Kanal:</value>
+  </data>
+  <data name="pbPageAudience_Tooltip" xml:space="preserve">
+    <value>Seitenpublikumseinstellungen sind nur aktiviert, wenn Sie etwas auf einer Seite veröffentlichen.</value>
+  </data>
+  <data name="pbContinuousLive_Tooltip" xml:space="preserve">
+    <value>Diese Option erlaubt Ihnen, länger als 4 Stunden zu broadcasten
+generiert jedoch keinen VOD in Ihrer Facebook-Chronik.</value>
+  </data>
+  <data name="USER_WALL" xml:space="preserve">
+    <value>Deine eigene Chronik</value>
+  </data>
+  <data name="GROUP_WALL" xml:space="preserve">
+    <value>Eine Gruppe</value>
+  </data>
+  <data name="PAGE_WALL" xml:space="preserve">
+    <value>Eine Seite, die Sie verwalten</value>
+  </data>
+  <data name="ALL" xml:space="preserve">
+    <value>Alle</value>
+  </data>
+  <data name="MALE" xml:space="preserve">
+    <value>Männlich</value>
+  </data>
+  <data name="FEMALE" xml:space="preserve">
+    <value>Weiblich</value>
+  </data>
+  <data name="EVERYONE" xml:space="preserve">
+    <value>Öffentlich</value>
+  </data>
+  <data name="ALL_FRIENDS" xml:space="preserve">
+    <value>Freunde</value>
+  </data>
+  <data name="SELF" xml:space="preserve">
+    <value>Nur Ich</value>
+  </data>
+  <data name="ALL_LOCATIONS" xml:space="preserve">
+    <value>Alle Standorte</value>
+  </data>
+  <data name="SELECTED_LOCATIONS" xml:space="preserve">
+    <value>Standorte nach Liste</value>
+  </data>
+  <data name="msgPostAsIsRequired" xml:space="preserve">
+    <value>Beitrag darf nicht leer sein</value>
+  </data>
+  <data name="msgTitleLengthExceeded" xml:space="preserve">
+    <value>Titel darf 255 Zeichen nicht überschreiten</value>
+  </data>
+  <data name="msgAgeRangeInvalid" xml:space="preserve">
+    <value>Falsche Werte für minimales und maximales Alter.</value>
+  </data>
+  <data name="msgCountriesCountExceeded" xml:space="preserve">
+    <value>Ausgewählte Standorte dürfen nur 25 oder weniger sein.</value>
+  </data>
+  <data name="FacebookLiveProps" xml:space="preserve">
+    <value>Facebook Live-Eigenschaften</value>
+  </data>
+  <data name="lblLiveUsername" xml:space="preserve">
+    <value>Benutzername</value>
+  </data>
+  <data name="msgBelowMinBitrate" xml:space="preserve">
+    <value>Sie haben eine Bitrate von {0} eingestellt. Dieser Wert liegt unter YouTubes empfohlener Minimalbitrate von {1} für Ihre aktuelle Auflösung von {2}. Bitte wenden Sie sich an das Hilfesymbol (?).
+
+Dennoch fortfahren?</value>
+  </data>
+  <data name="msgMinFriendsCountForStream" xml:space="preserve">
+    <value>Benutzer darf nicht bei weniger als {0} Freunden broadcasten.</value>
+  </data>
+  <data name="msgNoPermissionToCreateLiveVideo" xml:space="preserve">
+    <value>Keine Berechtigung mit diesem Benutzer ein Live-Video zu erstellen.</value>
+  </data>
+  <data name="msgEndContinuousLiveVideo" xml:space="preserve">
+    <value>Sie haben das Streamen auf Facebook Live angehalten.
+
+  Möchten Sie dieses kontinuierliche Live-Video ebenfalls beenden?</value>
+  </data>
+  <data name="msgStartScheduledLiveAnyway" xml:space="preserve">
+    <value>Übrigens, geplante Live-Videos werden automatisch den Video-Stream von Vorschau zu Live zur geplanten Startzeit umschalten.
+
+Es wurde geplant in {0} zu starten, sind Sie sicher, dass Sie jetzt live gehen möchten?</value>
+  </data>
+  <data name="msgConfirmDeleteScheduledLive" xml:space="preserve">
+    <value>Sind Sie sicher, dass Sie dieses geplante Live-Video löschen möchten?</value>
+  </data>
+  <data name="msgConfirmEndContinuouLive" xml:space="preserve">
+    <value>Sind Sie sicher, dass Sie dieses kontinuierliche Live-Video beenden möchten?</value>
+  </data>
+  <data name="ContinuousLiveTextTemplate" xml:space="preserve">
+    <value>Kontinuierlich: Erstellt {0}{1}</value>
+  </data>
+  <data name="ScheduledLiveTextTemplate" xml:space="preserve">
+    <value>Geplant: Start {0}{1}</value>
+  </data>
+  <data name="EventTextTemplate" xml:space="preserve">
+    <value>{0} für das Event "{1}"</value>
+  </data>
+  <data name="GroupTextTemplate" xml:space="preserve">
+    <value>{0} zu der Gruppe "{1}"</value>
+  </data>
+  <data name="LiveTextTemplate" xml:space="preserve">
+    <value>Live: Warte seit {0}{1}</value>
+  </data>
+  <data name="ManualLiveTextTemplate" xml:space="preserve">
+    <value>Manuell: Start {0}{1}</value>
+  </data>
+  <data name="msgScheduledLiveCreated" xml:space="preserve">
+    <value>Neues geplantes Live-Video wurde erfolgreich erstellt!</value>
+  </data>
+  <data name="msgScheduledLiveUpdated" xml:space="preserve">
+    <value>Neues geplantes Live-Video wurde erfolgreich aktualisiert!</value>
+  </data>
+  <data name="EVENT" xml:space="preserve">
+    <value>Eine Veranstaltung</value>
+  </data>
+  <data name="btnManageScheduledLiveVideos" xml:space="preserve">
+    <value>Geplante Live-Videos verwalten</value>
+  </data>
+  <data name="msgAdBreakOnboardRequiredTitle" xml:space="preserve">
+    <value>Onboarding erforderlich für Werbung</value>
+  </data>
+  <data name="msgAdBreakFailTitle" xml:space="preserve">
+    <value>Die Werbung konnte nicht geschaltet werden</value>
+  </data>
+  <data name="msgAdBreakFailBroadcasterViolations" xml:space="preserve">
+    <value>Kann Werbung für {0} nicht schalten.
+
+Werbeunterbrechungen wurden abgeschaltet. Einiger Ihrer enthielten möglicherweise Inhalte für die Sie keine Nutzungsrechte besitzen.
+
+Mehr über &lt;a href="{1}"&gt;Facebook-Werbeunterbrechungen&lt;/a&gt; erfahren.</value>
+  </data>
+  <data name="msgAdBreakFailMinimumViewers" xml:space="preserve">
+    <value>Kann Werbung für {0} nicht schalten.
+
+Mehr Zuschauer benötigt. Sie benötigen mindestens {1} Leute, welche zur selben Zeit zuschauen.</value>
+  </data>
+  <data name="msgAdBreakFailTimeBetweenLastBreak" xml:space="preserve">
+    <value>Kann Werbung für {0} nicht schalten.
+
+Es ist nicht genug Zeit seit der letzten Werbeunterbrechung vergangen. Sie müssen mindestens {1} Sekunden warten, bevor Sie die nächste Werbeunterbrechung schalten können.</value>
+  </data>
+  <data name="msgAdBreakFailTimeSinceStart" xml:space="preserve">
+    <value>Kann Werbung für {0} nicht schalten.
+
+Zu früh für Werbeunterbrechungen. Sie müssen mindestens {1} Sekunden live gewesen sein.</value>
+  </data>
+  <data name="msgAdBreakFailNotOnboard" xml:space="preserve">
+    <value>Sie müssen onboard sein, bevor Sie Werbungen für {0} schalten können. Klicken Sie &lt;a href="{1}"&gt;hier&lt;/a&gt;, um mit dem Onboarden zu beginnen.
+
+Sobald Sie onboard sind, wird der Titelleisten-Status Sie benachrichtigen, wenn Sie bereit sind Werbung zu schalten.
+
+Mehr über &lt;a href="{2}"&gt;Facebook-Werbeunterbrechungen&lt;/a&gt; erfahren.</value>
+  </data>
+  <data name="msgAdBreakReady" xml:space="preserve">
+    <value>(Bereit für Werbung, {0} drücken zum Starten)</value>
+  </data>
+  <data name="msgAdBreakReadyNoHotkey" xml:space="preserve">
+    <value>(Bereit für Werbung, kein Tastenkürzel eingestellt)</value>
+  </data>
+  <data name="msgAdBreakPreparing" xml:space="preserve">
+    <value>(Werbung vorbereiten: {0}%... {1} drücken zum Abbrechen)</value>
+  </data>
+  <data name="msgAdBreakPrepared" xml:space="preserve">
+    <value>(Werbung vorbereitet, {0} drücken zum Starten)</value>
+  </data>
+  <data name="msgAdBreakWaiting" xml:space="preserve">
+    <value>(Starte Werbung in {0}s... {1} drücken zum Abbrechen)</value>
+  </data>
+  <data name="msgAdBreakPlaying" xml:space="preserve">
+    <value>(Werbung wird abgespielt: {0}s...)</value>
+  </data>
+  <data name="msgAdBreakPreparingNoHotkey" xml:space="preserve">
+    <value>(Werbung wird vorbereitet: {0}%... kein Tastenkürzel eingestellt)</value>
+  </data>
+  <data name="msgAdBreakPreparedNoHotkey" xml:space="preserve">
+    <value>(Werbung vorbereitet, kein Tastenkürzel eingestellt)</value>
+  </data>
+  <data name="msgAdBreakWaitingNoHotkey" xml:space="preserve">
+    <value>(Starte Werbung in {0}s... kein Tastenkürzel eingestellt)</value>
+  </data>
+  <data name="msgManualStartWarning" xml:space="preserve">
+    <value>Der Status für dieses Live-Video ist auf Manuell eingestellt. Sobald Sie einen Broadcast mit 'Manuell' starten, werden Sie nicht mehr in der Lage sein, den Status auf 'Geplant' abzuändern.
+
+Um den Live-Video-Status einzustellen, müssen Sie entweder manuell über Facebook 'Live gehen', oder den Broadcast neustarten und den Status auf 'Live' setzen.
+
+Sind Sie sicher, dass Sie fortsetzen möchten?</value>
+  </data>
+  <data name="LoadMoreGroups" xml:space="preserve">
+    <value>Weitere Gruppen laden...</value>
+  </data>
+  <data name="LoadMorePageEvents" xml:space="preserve">
+    <value>Weitere Seitenereignisse laden...</value>
+  </data>
+  <data name="LoadMorePages" xml:space="preserve">
+    <value>Weitere Seiten laden...</value>
+  </data>
+  <data name="LoadMoreUserEvents" xml:space="preserve">
+    <value>Weitere Userereignisse laden...</value>
+  </data>
+  <data name="lblSwitchAccount" xml:space="preserve">
+    <value>Konto wechseln</value>
+  </data>
+  <data name="lblRequiresPermission" xml:space="preserve">
+    <value>erfordert Berechtigung</value>
+  </data>
+  <data name="msgCurrentStageFormat" xml:space="preserve">
+    <value>Aktuelle Bühnenformat</value>
+  </data>
+  <data name="msgBelowMinBitrate_EasyMode" xml:space="preserve">
+    <value>Sie haben eine Bitrate von {0} eingestellt. Dieser Wert liegt unter YouTubes empfohlener Minimalbitrate von {1} für Ihre aktuelle Auflösung von {2}.
+Dennoch fortfahren?</value>
+  </data>
+</root>

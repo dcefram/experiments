@@ -1,0 +1,41 @@
+{
+	"streamSettings.freeUserLimitationStreamReso": {
+		"message": "XSplit Broadcaster可以輸出高於%resolution%. 但是, 這個功能只限於XSplit付費用戶.[br][br]請選擇您需要如何著手."
+	},
+	"streamSettings.freeUserLimitationRecordReso": {
+		"message": "XSplit Broadcaster可以輸出高於%resolution%. 但是, 這個功能只限於XSplit付費用戶.[br][br]請選擇您需要如何著手."
+	},
+	"streamSettings.freeUserLimitationStreamFps": {
+		"message": "XSplit Broadcaster可以直播在%fps% 以上的幀速率. 然而, 此功能只有付費XSplit 用戶可用.[br][br]請選擇如何繼續."
+	},
+	"streamSettings.freeUserLimitationRecordFps": {
+		"message": "XSplit Broadcaster可以錄製在%fps% 以上的幀速率. 然而, 此功能只有付費XSplit 用戶可用.[br][br]請選擇如何繼續."
+	},
+	"streamSettings.freeUserLimitationStreamResoFps": {
+		"message": "XSplit Broadcaster可以直播在高於%resolution% 高分辨率和幀速率%fps% 以上. 然而, 這些功能為XSplit付費用戶可用.[br][br]請用戶選擇繼續保留."
+	},
+	"streamSettings.freeUserLimitationRecordResoFps": {
+		"message": "XSplit Broadcaster可以錄製在高於%resolution% 高分辨率和幀速率%fps% 以上. 然而, 這些功能為XSplit付費用戶可用.[br][br]請用戶選擇繼續保留."
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonReso": {
+		"message": "%type%在%resolution%[br]不包含[br]水印"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonFps": {
+		"message": "%type%在%fps%[br]不包含[br]水印"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonResoFps": {
+		"message": "%type%在 %resolution%[br]@ %fps%[br]不包含[br]水印"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonReso": {
+		"message": "%type%在%resolution%[br]包含[br]水印"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonFps": {
+		"message": "%type%在%fps%[br]包含[br]水印"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonResoFps": {
+		"message": "%type%在 %resolution%[br]@ %fps%[br]包含[br]水印"
+	},
+	"streamSettings.buyLicenseButton": {
+		"message": "購買證書[br]刪除[br]水印"
+	}
+}

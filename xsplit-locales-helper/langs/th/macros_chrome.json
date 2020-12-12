@@ -1,0 +1,485 @@
+{
+  "permission_header": {
+    "message": "ต้องการการอนุญาตก่อน"
+  },
+  "permission_body": {
+    "message": "ต้องการเข้าถึง DLL โปรดไปที่ [เครื่องมือ -> การอนุญาต]() แล้วอนุญาตให้ส่วนขยายนี้เข้าถึงได้เพื่อจะดำเนินการต่อ"
+  },
+  "permission_button": {
+    "message": "ไปที่การอนุญาต"
+  },
+  "macro_exceeded_header": {
+    "message": "ไม่สามารถเพิ่มหรือทำซ้ำมาโครได้"
+  },
+  "macro_exceeded_body": {
+    "message": "คุณถึงลิมิตของ 100 มา่โครแล้ว"
+  },
+  "macro_executor_header": {
+    "message": "สร้างมาโครเพื่อตั้งค่าการทำงานอัตโนมัติของ XSplit Broadcaster อย่างต่อเนื่อง การทำงานจะถูกรันอย่างต่อเนื่องเมื่อการตั้งค่าอีเว้นท์เป็นที่น่าพอใจ"
+  },
+  "note_title": {
+    "message": "สำหรับเวอร์ชั่นนี้:"
+  },
+  "warning_note": {
+    "message": "ถ้าค่าบางตัวไม่ได้ถูกอัพเดท (เช่น เปลี่ยนชื่อฉาก) โปรดโหลดตัวเสริมมาโครใหม่อีกครั้ง[br]อีเว้นท์และแอคชั่นบางตัวอาจจะทำงานอย่างไม่ถูกต้องในโหมด Split หรือในพรีวิวอิดิเตอร์ ดังนั้นเราแนะนำให้ใช้โหมดคลาสสิคเมื่อใช้มาโคร"
+  },
+  "button_ok": {
+    "message": "โอเค"
+  },
+  "button_cancel": {
+    "message": "ยกเลิก"
+  },
+  "delete_confirmation_header": {
+    "message": "ลบมาโคร"
+  },
+  "delete_confirmation_body": {
+    "message": "คุณแน่ใจหรือไม่ว่าต้องการลบ **%macroName%?**"
+  },
+  "add_macro": {
+    "message": "เพิ่มมาโคร"
+  },
+  "continue_on_error": {
+    "message": "รันมาโครต่อไปเมื่อเกิดข้อผิดพลาด"
+  },
+  "stop_macro": {
+    "message": "หยุด"
+  },
+  "test_macro": {
+    "message": "ทดสอบ"
+  },
+  "event_label": {
+    "message": "อีเว้นท์:"
+  },
+  "action_label": {
+    "message": "แอคชั่น"
+  },
+  "condition_label": {
+    "message": "เงื่อนไข"
+  },
+  "add_action": {
+    "message": "เพิ่มแอคชั่น"
+  },
+  "add_condition": {
+    "message": "เพิ่มเงื่อนไข"
+  },
+  "enable_event_listener": {
+    "message": "เปิดใช้อีเว้นท์ลิสเทนเนอร์"
+  },
+  "enable_event_listener_help_title_description": {
+    "message": "[ค่าเริ่มต้น: ไม่เลือก]"
+  },
+  "enable_event_listener_help_message": {
+    "message": "เปิดการใช้งานนี้จะเป็นการตรวจอีเว้นท์อย่างต่อเนื่อง เมื่ออีเว้นท์ถึงจุดที่พอใจแล้ว จะเริ่มทำการรันมาโคร[br] (จะเริ่มทำงานแอ็คชั่นตามลำดับไป)ถ้าอีเว้นท์คือ =\"เมื่อกดปุ่ม\", จะแนะนำให้ปิดโดยการเปลี่ยนค่าปุ่มเคีย์ลัด ไม่เช่นนั้นแล้วจะมีรันมาโครอย่างอัตโนมัติเมื่อมีการเปลี่ยนค่า"
+  },
+  "script_copied_to_clipboard": {
+    "message": "สคริปต์ถูกคัดลอกไปสู่คลิปบอร์ดแล้ว"
+  },
+  "enable_condition_check_per_action": {
+    "message": "เปิดใช้การตรวจสอบเงื่อนไขสำหรับแต่ละแอ็คชั่น"
+  },
+  "no_options": {
+    "message": "ไม่มีตัวเลือกที่ใช้งานได้"
+  },
+  "macro_tooltip": {
+    "message": "#### **%macroName%** [br] %triggerName%"
+  },
+  "key_stroke_placeholder": {
+    "message": "ป้อนการใช้ปุ่มแบบผสมผสานหรือการคลิ๊กเม้าส์"
+  },
+  "select_action_placeholder": {
+    "message": "เลือกแอ็คชั่น..."
+  },
+  "select_condition_placeholder": {
+    "message": "เลือกเงื่อนไข..."
+  },
+  "select_trigger_placeholder": {
+    "message": "เลือกทริกเกอร์..."
+  },
+  "select_scene_placeholder": {
+    "message": "เลือกฉาก..."
+  },
+  "select_stream_source_placeholder": {
+    "message": "เลือกสตรีมซอส..."
+  },
+  "select_status_placeholder": {
+    "message": "เลือกสถานะ..."
+  },
+  "select_media_source_placeholder": {
+    "message": "เลือกมีเดียซอส..."
+  },
+  "select_output_placeholder": {
+    "message": "เลือกเอาต์พุตแชนแนล..."
+  },
+  "select_function_placeholder": {
+    "message": "เลือกฟังก์ชั่น..."
+  },
+  "select_transition_placeholder": {
+    "message": "เลือกการเปลี่ยน..."
+  },
+  "select_source_placeholder": {
+    "message": "เลือกซอส..."
+  },
+  "select_visibility_placeholder": {
+    "message": "เลือกความชัด.."
+  },
+  "select_playback_state_placeholder": {
+    "message": "เลือกสถานะการเล่น..."
+  },
+  "select_source_with_audio_placeholder": {
+    "message": "เลือกซอสพร้อมเสียง..."
+  },
+  "select_mute_state_placeholder": {
+    "message": "เลือกสถานะการปิดเสียง..."
+  },
+  "select_macro_placeholder": {
+    "message": "เลือกมาโคร..."
+  },
+  "select_media_state_placeholder": {
+    "message": "เลือกสถานะมีเดีย..."
+  },
+  "select_macro_state_placeholder": {
+    "message": "เลือกสถานะมาโคร..."
+  },
+  "edit_macro_name_placeholder": {
+    "message": "ป้อนชื่อมาโคร..."
+  },
+  "disabled_trigger_display_name": {
+    "message": "(ปิดการใช้ลิสเทนเนอร์) %displayName%"
+  },
+  "trigger_display_name": {
+    "message": "%displayName%"
+  },
+  "new_action": {
+    "message": "แอ็คชั่นใหม่"
+  },
+  "trigger_display_name_manual_run": {
+    "message": "ไม่มีอีเว้นท์"
+  },
+  "trigger_display_name_on_key_press": {
+    "message": "เมื่อ **%keyInput%**"
+  },
+  "trigger_display_name_every_interval": {
+    "message": "ทุก ๆ **%time%** ms"
+  },
+  "trigger_display_name_on_scheduled_time": {
+    "message": "ที่ **%timeSchedule%**"
+  },
+  "trigger_display_name_on_scene_switch": {
+    "message": "เมื่อฉากสลับไปสู่ **%scene%**"
+  },
+  "trigger_display_name_stream_source_state_change": {
+    "message": "เมื่อ **%stream%** ไปยัง **%state%**"
+  },
+  "trigger_display_name_after_media_playback": {
+    "message": "เมื่อ **%id%** หยุด"
+  },
+  "trigger_display_name_custom_function": {
+    "message": "สคริปต์แบบกำหนดเอง"
+  },
+  "trigger_display_name_default_manual_run": {
+    "message": "ไม่มีอีเว้นท์"
+  },
+  "trigger_display_name_default_on_key_press": {
+    "message": "เมื่อกดปุ่ม [?]"
+  },
+  "trigger_display_name_default_every_interval": {
+    "message": "ทุก ๆ ระยะห่าง [?]"
+  },
+  "trigger_display_name_default_on_scheduled_time": {
+    "message": "ตามตารางเวลา [?]"
+  },
+  "trigger_display_name_default_on_scene_switch": {
+    "message": "เมื่อสลับฉาก [?]"
+  },
+  "trigger_display_name_default_stream_source_state_change": {
+    "message": "เมื่อสตรีมซอสเปลี่ยนเป็น ออนไลน์/ออฟไลน์ [?]"
+  },
+  "trigger_display_name_default_after_media_playback": {
+    "message": "เมื่อซอสมีเดียหยุด [?]"
+  },
+  "trigger_display_name_default_custom_function": {
+    "message": "สคริปต์แบบกำหนดเอง [?]"
+  },
+  "trigger_option_display_manual_run": {
+    "message": "ไม่มีอีเว้นท์"
+  },
+  "trigger_option_display_on_key_press": {
+    "message": "เมื่อกดปุ่ม"
+  },
+  "trigger_option_display_every_interval": {
+    "message": "ทุก ๆ ระยะห่าง"
+  },
+  "trigger_option_display_on_scheduled_time": {
+    "message": "ตามตารางเวลา"
+  },
+  "trigger_option_display_on_scene_switch": {
+    "message": "เมื่อสลับฉาก"
+  },
+  "trigger_option_display_stream_source_state_change": {
+    "message": "เมื่อสตรีมซอสเปลี่ยนเป็น ออนไลน์/ออฟไลน์"
+  },
+  "trigger_option_display_after_media_playback": {
+    "message": "เมื่อซอสมีเดียหยุด"
+  },
+  "trigger_option_display_custom_function": {
+    "message": "สคริปต์แบบกำหนดเอง"
+  },
+  "trigger_presets_time": {
+    "message": "เวลา"
+  },
+  "trigger_presets_time_schedule": {
+    "message": "กำหนดการ"
+  },
+  "trigger_presets_state_online": {
+    "message": "ออน์ไลน์"
+  },
+  "trigger_presets_state_offline": {
+    "message": "ออฟไลน์"
+  },
+  "trigger_presets_custom_function_placeholder": {
+    "message": "พิมพ์หรือวางสคริปต์ที่นี่...[br]สคริปต์มีค่าพารามิเตอร์เหล่านี้ (callFunctionArray, xjs) [br] สคริปต์อีเว้นท์แบบกำหนดเองต้องมีการคืนค่าไปยังฟังก์ชั่นเพื่อล้างหรือลบอีเว้นท์ลิสเทนเนอร์"
+  },
+  "action_display_name_wait": {
+    "message": "รอเป็นเวลา %time% ms"
+  },
+  "action_display_name_start_stop_broadcast": {
+    "message": "%broadcastState% บรอดแคสต์ไป %output%"
+  },
+  "action_display_name_scene_change": {
+    "message": "สลับไปเป็น %scene%"
+  },
+  "action_display_name_scene_transition_change": {
+    "message": "ตั้งค่าการเปลี่ยนฉากเป็น %transition%, %time% ms"
+  },
+  "action_display_name_set_source_visibilty": {
+    "message": "%visibility% %videoItem%"
+  },
+  "action_display_name_playback_media": {
+    "message": "%newPlaybackState% %id%"
+  },
+  "action_display_name_toggle_mute": {
+    "message": "%mute% %itemAudio%"
+  },
+  "action_display_name_run_macro": {
+    "message": "รัน %macro%"
+  },
+  "action_display_name_stop_macro": {
+    "message": "หยุด %stopMacroId%"
+  },
+  "action_display_name_push_to_live": {
+    "message": "กดเพื่อไลฟ์"
+  },
+  "action_display_name_enable_disable_macro": {
+    "message": "%toggle% %macro% ลิสเทนเนอร์"
+  },
+  "action_display_name_go_to_action": {
+    "message": "ไปยัง %action%"
+  },
+  "action_display_name_custom_function": {
+    "message": "สคริปต์แบบกำหนดเอง (%customFunctionAction%...)"
+  },
+  "action_display_name_default_wait": {
+    "message": "รอ [?]"
+  },
+  "action_display_name_default_start_stop_broadcast": {
+    "message": "เริ่ม/หยุด บรอดแคสต์ [?]"
+  },
+  "action_display_name_default_scene_change": {
+    "message": "สลับไปเป็น %scene% [?]"
+  },
+  "action_display_name_default_scene_transition_change": {
+    "message": "ตั้งค่าการเปลี่ยนฉาก [?]"
+  },
+  "action_display_name_default_set_source_visibilty": {
+    "message": "ตั้งค่าความชัดของซอส [?]"
+  },
+  "action_display_name_default_playback_media": {
+    "message": "ตั้งค่าสถานะการเล่นของมีเดียซอส [?]"
+  },
+  "action_display_name_default_toggle_mute": {
+    "message": "ตั้งค่าสถานะซอสของเสียง [?]"
+  },
+  "action_display_name_default_run_macro": {
+    "message": "รันมาโคร [?]"
+  },
+  "action_display_name_default_stop_macro": {
+    "message": "หยุดมาโคร [?]"
+  },
+  "action_display_name_default_push_to_live": {
+    "message": "กดเพื่อไลฟ์"
+  },
+  "action_display_name_default_enable_disable_macro": {
+    "message": "ใช้งาน/ปิดการใช้งาน มาโครอีเว้นท์ลิสเทนเนอร์"
+  },
+  "action_display_name_default_go_to_action": {
+    "message": "ไปที่แอ็คชั่น [?]"
+  },
+  "action_display_name_default_custom_function": {
+    "message": "สคริปต์แบบกำหนดเอง [?]"
+  },
+  "action_option_display_wait": {
+    "message": "รอ"
+  },
+  "action_option_display_start_stop_broadcast": {
+    "message": "เริ่ม/หยุด บรอดแคสต์"
+  },
+  "action_option_display_scene_change": {
+    "message": "สลับไปยังฉาก"
+  },
+  "action_option_display_scene_transition_change": {
+    "message": "ตั้งค่าการเปลี่ยนฉาก"
+  },
+  "action_option_display_set_source_visibilty": {
+    "message": "ตั้งค่าความชัดของซอส"
+  },
+  "action_option_display_playback_media": {
+    "message": "ตั้งค่าสถานะการเล่นของมีเดียซอส"
+  },
+  "action_option_display_toggle_mute": {
+    "message": "ตั้งค่าสถานะซอสของเสียง"
+  },
+  "action_option_display_run_macro": {
+    "message": "รันมาโคร"
+  },
+  "action_option_display_stop_macro": {
+    "message": "หยุดมาโคร"
+  },
+  "action_option_display_push_to_live": {
+    "message": "กดเพื่อไลฟ์"
+  },
+  "action_option_display_enable_disable_macro": {
+    "message": "ใช้งาน/ปิดการใช้งาน มาโครอีเว้นท์ลิสเทนเนอร์"
+  },
+  "action_option_display_go_to_action": {
+    "message": "ไปที่แอ็คชั่น"
+  },
+  "action_option_display_custom_function": {
+    "message": "สคริปต์แบบกำหนดเอง"
+  },
+  "action_presets_time": {
+    "message": "เวลา"
+  },
+  "action_presets_wait_until_done": {
+    "message": "รอจนกว่าจะเสร็จ"
+  },
+  "action_presets_custom_function_placeholder": {
+    "message": "พิมพ์หรือวางสคริปต์ที่นี่... [br]สคริปต์มีค่าพารามิเตอร์เหล่านี้ (resolve, reject, xjs) [br] สคริปต์แอ็คชั่นแบบกำหนดเองต้องเสร็จหรือถูกยกเลิก"
+  },
+  "action_presets_start": {
+    "message": "เริ่ม"
+  },
+  "action_presets_stop": {
+    "message": "หยุด"
+  },
+  "action_presets_show": {
+    "message": "แสดง"
+  },
+  "action_presets_hide": {
+    "message": "ซ่อน"
+  },
+  "action_presets_toggle_visibility": {
+    "message": "สลับค่าความชัดเจน"
+  },
+  "action_presets_play": {
+    "message": "เล่น"
+  },
+  "action_presets_pause": {
+    "message": "หยุด"
+  },
+  "action_presets_mute": {
+    "message": "ปิดเสียง"
+  },
+  "action_presets_unmute": {
+    "message": "เปิดเสียง"
+  },
+  "action_presets_toggle_audio": {
+    "message": "เปลี่ยนค่าสถานะเสียง"
+  },
+  "action_presets_enable": {
+    "message": "เปิดใช้งาน"
+  },
+  "action_presets_disable": {
+    "message": "ปิดใช้งาน"
+  },
+  "condition_display_name_active_scene": {
+    "message": "ถ้าฉากที่กำลังทำงานอยุ่คือ %scene%"
+  },
+  "condition_display_name_stream_source": {
+    "message": "ถ้า %stream% คือ %state%"
+  },
+  "condition_display_name_source_visibility": {
+    "message": "ถ้า %videoItem% คือ %visibility%"
+  },
+  "condition_display_name_media_state": {
+    "message": "ถ้า %id% คือ %mediaState%"
+  },
+  "condition_display_name_macro_state": {
+    "message": "ถ้า %macro% คือ %state%"
+  },
+  "condition_display_name_custom_function": {
+    "message": "เงื่อนไขแบบกำหนดเอง (%customFunctionCondition%)"
+  },
+  "condition_display_name_default_active_scene": {
+    "message": "ตรวจสอบฉากที่กำลังทำงาน [?]"
+  },
+  "condition_display_name_default_stream_source": {
+    "message": "ตรวจสอบสตรีมซอส [?]"
+  },
+  "condition_display_name_default_source_visibility": {
+    "message": "ตรวจความชัดเจนของซอส [?]"
+  },
+  "condition_display_name_default_media_state": {
+    "message": "ตรวจสอบสถานะมีเดีย [?]"
+  },
+  "condition_display_name_default_macro_state": {
+    "message": "ตรวจสอบสถานะมีเดีย [?]"
+  },
+  "condition_display_name_default_custom_function": {
+    "message": "เงื่อนไขแบบกำหนดเอง [?]"
+  },
+  "condition_option_display_active_scene": {
+    "message": "ตรวจสอบฉากที่กำลังทำงาน"
+  },
+  "condition_option_display_stream_source": {
+    "message": "ตรวจสอบสตรีมซอส"
+  },
+  "condition_option_display_source_visibility": {
+    "message": "ตรวจความชัดเจนของซอส"
+  },
+  "condition_option_display_media_state": {
+    "message": "ตรวจสอบสถานะมีเดีย"
+  },
+  "condition_option_display_macro_state": {
+    "message": "ตรวจสอบสถานะมีเดีย"
+  },
+  "condition_option_display_custom_function": {
+    "message": "เงื่อนไขแบบกำหนดเอง"
+  },
+  "condition_presets_online": {
+    "message": "ออน์ไลน์"
+  },
+  "condition_presets_offline": {
+    "message": "ออฟไลน์"
+  },
+  "condition_presets_visible": {
+    "message": "ชัดเจน"
+  },
+  "condition_presets_hidden": {
+    "message": "ซ่อน"
+  },
+  "condition_presets_playing": {
+    "message": "กำลังเล่น"
+  },
+  "condition_presets_not_playing": {
+    "message": "ไม่ได้กำลังเล่น"
+  },
+  "condition_presets_enabled": {
+    "message": "เปิดใช้งาน"
+  },
+  "condition_presets_disabled": {
+    "message": "ปิดใช้งาน"
+  },
+  "condition_presets_custom_function_placeholder": {
+    "message": "พิมพ์หรือวางสคริปต์ที่นี่...[br]สคริปต์มีค่าพารามิเตอร์เหล่านี้ (resolve, reject, xjs, args, callFunctionArray)[br] สคริปต์เงื่อนไขแบบกำหนดเองต้องเสร็จหรือถูกยกเลิก"
+  }
+}

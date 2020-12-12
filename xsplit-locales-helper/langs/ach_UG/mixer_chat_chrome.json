@@ -1,0 +1,95 @@
+{
+	"mixer.chat.tabheader": {
+		"message": "crwdns54228:0crwdne54228:0"
+	},
+	"mixer.chat.source": {
+		"message": "crwdns54230:0crwdne54230:0"
+	},
+	"mixer.chat.not_connected": {
+		"message": "crwdns54232:0crwdne54232:0"
+	},
+	"mixer.chat.connected": {
+		"message": "crwdns63226:0crwdne63226:0"
+	},
+	"mixer.chat.channel": {
+		"message": "crwdns54234:0crwdne54234:0"
+	},
+	"mixer.chat.connect": {
+		"message": "crwdns54236:0crwdne54236:0"
+	},
+	"mixer.chat.disconnect": {
+		"message": "crwdns54238:0crwdne54238:0"
+	},
+	"mixer.chat.invalid.channel": {
+		"message": "crwdns54240:0crwdne54240:0"
+	},
+	"mixer.chat.display": {
+		"message": "crwdns54242:0crwdne54242:0"
+	},
+	"mixer.chat.preview": {
+		"message": "crwdns54244:0crwdne54244:0"
+	},
+	"mixer.chat.chat_box": {
+		"message": "crwdns54246:0crwdne54246:0"
+	},
+	"mixer.chat.opacity": {
+		"message": "crwdns54248:0crwdne54248:0"
+	},
+	"mixer.chat.viewers": {
+		"message": "crwdns54250:0crwdne54250:0"
+	},
+	"mixer.chat.message": {
+		"message": "crwdns54252:0crwdne54252:0"
+	},
+	"mixer.chat.text_size": {
+		"message": "crwdns54254:0crwdne54254:0"
+	},
+	"mixer.chat.pixel_unit": {
+		"message": "crwdns54256:0crwdne54256:0"
+	},
+	"mixer.chat.default_color": {
+		"message": "crwdns54258:0crwdne54258:0"
+	},
+	"mixer.chat.hide_user_icons": {
+		"message": "crwdns54260:0crwdne54260:0"
+	},
+	"mixer.chat.hide_timestamp": {
+		"message": "crwdns54262:0crwdne54262:0"
+	},
+	"mixer.chat.hide_on_idle": {
+		"message": "crwdns54264:0crwdne54264:0"
+	},
+	"mixer.chat.seconds_unit": {
+		"message": "crwdns54266:0crwdne54266:0"
+	},
+	"mixer.chat.blocking": {
+		"message": "crwdns63590:0crwdne63590:0"
+	},
+	"mixer.chat.blockedlist": {
+		"message": "crwdns63592:0crwdne63592:0"
+	},
+	"mixer.chat.block_help": {
+		"message": "crwdns63594:0[br]crwdnd63594:0[br]crwdne63594:0"
+	},
+	"mixer.chat.blocking_name": {
+		"message": "crwdns63596:0crwdne63596:0"
+	},
+	"mixer.chat.block_name": {
+		"message": "crwdns63598:0crwdne63598:0"
+	},
+	"mixer.chat.block_add": {
+		"message": "crwdns63600:0crwdne63600:0"
+	},
+	"mixer.chat.block_remove": {
+		"message": "crwdns63602:0crwdne63602:0"
+	},
+	"mixer.chat.account": {
+		"message": "crwdns98992:0crwdne98992:0"
+	},
+	"mixer.chat.authorize": {
+		"message": "crwdns98994:0crwdne98994:0"
+	},
+	"mixer.chat.remove_authorization": {
+		"message": "crwdns98996:0%api%crwdne98996:0"
+	}
+}

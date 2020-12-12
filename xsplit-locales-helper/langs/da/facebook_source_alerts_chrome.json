@@ -1,0 +1,107 @@
+{
+  "facebook.source_alert.tabheader": {
+    "message": "alert"
+  },
+  "facebook.source_alert.source": {
+    "message": "Source"
+  },
+  "facebook.source_alert.account": {
+    "message": "Account"
+  },
+  "facebook.source_alert.authorize": {
+    "message": "Authorize XSplit to use Facebook"
+  },
+  "facebook.source_alert.remove_authorization": {
+    "message": "**%api%** Remove authorization"
+  },
+  "facebook.source_alert.switch_account": {
+    "message": "**%api%** Switch account"
+  },
+  "facebook.source_alert.not_connected": {
+    "message": "Alerts will automatically load once stream is live"
+  },
+  "facebook.source_alert.connected": {
+    "message": "Connected"
+  },
+  "facebook.source_alert.connect": {
+    "message": "Connect"
+  },
+  "facebook.source_alert.disconnect": {
+    "message": "Disconnect"
+  },
+  "facebook.source_alert.error_auth": {
+    "message": "Please try authorizing again and grant access to all permission required by XSplit for this functionality"
+  },
+  "facebook.source_alert.not_seeing_videos": {
+    "message": "Not seeing your live video?"
+  },
+  "facebook.source_alert.not_seeing_videos_help": {
+    "message": "We might not have permission to access some of your pages' live videos."
+  },
+  "facebook.source_alert.not_seeing_videos_link": {
+    "message": "Click here to re-authorize"
+  },
+  "facebook.source_alert.hide_connection_message": {
+    "message": "Hide connection messages"
+  },
+  "facebook.source_alert.alertLabel": {
+    "message": "Alert"
+  },
+  "facebook.source_alert.animation_text": {
+    "message": "Animation"
+  },
+  "facebook.source_alert.duration": {
+    "message": "Duration"
+  },
+  "facebook.source_alert.delay": {
+    "message": "Display Time"
+  },
+  "facebook.source_alert.animateIn": {
+    "message": "Animate in"
+  },
+  "facebook.source_alert.animateOut": {
+    "message": "Animate out"
+  },
+  "facebook.source_alert.audio": {
+    "message": "Audio"
+  },
+  "facebook.source_alert.generalHeader": {
+    "message": "General"
+  },
+  "facebook.source_alert.customizeHeader": {
+    "message": "Customize"
+  },
+  "facebook.source_alert.theme": {
+    "message": "Theme"
+  },
+  "facebook.source_alert.minStars": {
+    "message": "Min. stars"
+  },
+  "facebook.source_alert.type": {
+    "message": "Type"
+  },
+  "facebook.source_alert.nameStyleAndSettings": {
+    "message": "Name style and setting"
+  },
+  "facebook.source_alert.sound": {
+    "message": "Sound"
+  },
+  "facebook.source_alert.show_alert": {
+    "message": "Preview"
+  },
+  "facebook.source_alert.hide_alert": {
+    "message": "Hide Preview"
+  },
+  "facebook.source_alert.test_alert": {
+    "message": "Test Alert"
+  },
+  "facebook.source_alert.Color": {
+    "message": "Color"
+  },
+  "facebook.source_alert.layout": {
+    "message": "Layout"
+  },
+  "facebook.source_alert.shareNote": {
+    "message": "Only works when shared to public"
+  }
+}

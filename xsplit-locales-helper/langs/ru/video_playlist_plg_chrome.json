@@ -1,0 +1,65 @@
+{
+  "video_playlist.audio_output": {
+    "message": "Аудио выход"
+  },
+  "video_playlist.playback": {
+    "message": "Воспроизведение"
+  },
+  "video_playlist.when_finished": {
+    "message": "После завершения"
+  },
+  "video_playlist.start_on_load": {
+    "message": "Воспроизвести при появлении сцены"
+  },
+  "video_playlist.remember_playback_position": {
+    "message": "Запомнить позицию воспроизведения"
+  },
+  "video_playlist.show_playback_position": {
+    "message": "Показать видео позиции воспроизведения"
+  },
+  "video_playlist.start_at": {
+    "message": "Начать в"
+  },
+  "video_playlist.set": {
+    "message": "Установить"
+  },
+  "video_playlist.end_at": {
+    "message": "Закончить в"
+  },
+  "video_playlist.reset": {
+    "message": "Сбросить"
+  },
+  "video_playlist.force_deinterlace": {
+    "message": "Принудительное устранение черезстрочности"
+  },
+  "video_playlist.videos": {
+    "message": "Видео"
+  },
+  "video_playlist.playlist": {
+    "message": "ПЛЕЙЛИСТ"
+  },
+  "video_playlist.add": {
+    "message": "Добавить"
+  },
+  "video_playlist.remove": {
+    "message": "Удалить"
+  },
+  "video_playlist.ok": {
+    "message": "Ok"
+  },
+  "video_playlist.cancel": {
+    "message": "Отменить"
+  },
+  "video_playlist.hint.videos_section": {
+    "message": "Добавить, удалить и упорядочить видео"
+  },
+  "video_playlist.hint.video_playback_section": {
+    "message": "Управлять воспроизведением, задать громкость видео, и определить устройство вывода звука."
+  },
+  "video_playlist.hint.video_missing": {
+    "message": "Исходный файл отсутствует. Возможно, файл был переименован или удален."
+  },
+  "video_playlist.processing": {
+    "message": "Обработка видео..."
+  }
+}

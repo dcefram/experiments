@@ -1,0 +1,485 @@
+{
+  "permission_header": {
+    "message": "Berechtigung ist erforderlich"
+  },
+  "permission_body": {
+    "message": "DLL ist erforderlich. Bitte gehen Sie auf [Extras -> Berechtigungen]() und gewähren Sie Zugang für diese Erweiterung, um fortfahren zu können."
+  },
+  "permission_button": {
+    "message": "Zu Berechtigungen gehen"
+  },
+  "macro_exceeded_header": {
+    "message": "Kann Makro nicht hinzufügen oder duplizieren"
+  },
+  "macro_exceeded_body": {
+    "message": "Sie haben das Limit von 100 Makros erreicht."
+  },
+  "macro_executor_header": {
+    "message": "Erstellen Sie ein Makro um eine automatisierte, nacheinanderfolgende Ausführung von XSplit Broadcaster-Aktionen einzurichten. Es wird automatisch ausgeführt, wenn das eingestellte Ereignis erfüllt ist."
+  },
+  "note_title": {
+    "message": "Für diese Version:"
+  },
+  "warning_note": {
+    "message": "Falls einige Werte nicht aktualisiert werden (z.B. Szenen-Name ändert sich), laden Sie die Makro-Erweiterung bitte neu.[br]Einige Ereignisse und Aktionen können möglicherweise nicht richtig funktionieren, wenn Sie sich im Split-Modus oder Vorschau-Editor befinden, daher wird empfohlen den klassischen Modus zu verwenden, wenn Sie Makros ausführen."
+  },
+  "button_ok": {
+    "message": "Ok"
+  },
+  "button_cancel": {
+    "message": "Abbrechen"
+  },
+  "delete_confirmation_header": {
+    "message": "Makro löschen"
+  },
+  "delete_confirmation_body": {
+    "message": "Sind Sie sicher, dass Sie **%macroName%** löschen möchten?"
+  },
+  "add_macro": {
+    "message": "Makro hinzufügen"
+  },
+  "continue_on_error": {
+    "message": "Makros bei Fehler weiter ausführen"
+  },
+  "stop_macro": {
+    "message": "Anhalten"
+  },
+  "test_macro": {
+    "message": "Test"
+  },
+  "event_label": {
+    "message": "Ereignis"
+  },
+  "action_label": {
+    "message": "Aktion"
+  },
+  "condition_label": {
+    "message": "Bedingung"
+  },
+  "add_action": {
+    "message": "Aktion hinzufügen"
+  },
+  "add_condition": {
+    "message": "Bedingung hinzufügen"
+  },
+  "enable_event_listener": {
+    "message": "Ereignis-Listener aktivieren"
+  },
+  "enable_event_listener_help_title_description": {
+    "message": "[Standard: abgewählt]"
+  },
+  "enable_event_listener_help_message": {
+    "message": "Aktivieren führt dazu, dass das Ereignis kontinuierlich überprüft wird. Sobald ein Ereignis erfüllt ist, wird das Makro ausgeführt (sequentielles Ausführen der Aktionen).[br]Wenn Ereignis = 'Auf Tastendruck', empfehlen wir dies erst zu deaktivieren, da sonst beim Ändern des Tastenkürzels automatisch das Makro ausgeführt werden würde."
+  },
+  "script_copied_to_clipboard": {
+    "message": "Skript in die Zwischenablage kopiert"
+  },
+  "enable_condition_check_per_action": {
+    "message": "Aktivieren der Überprüfung für jede Aktionsbedingung"
+  },
+  "no_options": {
+    "message": "Keine verfügbaren Optionen"
+  },
+  "macro_tooltip": {
+    "message": "#### **%macroName%** [br] %triggerName%"
+  },
+  "key_stroke_placeholder": {
+    "message": "Tastenkombination oder Mausklick eingeben..."
+  },
+  "select_action_placeholder": {
+    "message": "Aktion auswählen..."
+  },
+  "select_condition_placeholder": {
+    "message": "Bedingung auswählen..."
+  },
+  "select_trigger_placeholder": {
+    "message": "Auslöser auswählen..."
+  },
+  "select_scene_placeholder": {
+    "message": "Szene auswählen..."
+  },
+  "select_stream_source_placeholder": {
+    "message": "Streamquelle auswählen..."
+  },
+  "select_status_placeholder": {
+    "message": "Status auswählen..."
+  },
+  "select_media_source_placeholder": {
+    "message": "Medienquelle auswählen..."
+  },
+  "select_output_placeholder": {
+    "message": "Ausgabe/Kanal auswählen..."
+  },
+  "select_function_placeholder": {
+    "message": "Funktion auswählen..."
+  },
+  "select_transition_placeholder": {
+    "message": "Übergang auswählen..."
+  },
+  "select_source_placeholder": {
+    "message": "Quelle auswählen..."
+  },
+  "select_visibility_placeholder": {
+    "message": "Sichtbarkeit auswählen..."
+  },
+  "select_playback_state_placeholder": {
+    "message": "Wiedergabestatus auswählen..."
+  },
+  "select_source_with_audio_placeholder": {
+    "message": "Quelle mit Audio auswählen..."
+  },
+  "select_mute_state_placeholder": {
+    "message": "Stumschaltungsstatus auswählen..."
+  },
+  "select_macro_placeholder": {
+    "message": "Makro auswählen..."
+  },
+  "select_media_state_placeholder": {
+    "message": "Medienstatus auswählen..."
+  },
+  "select_macro_state_placeholder": {
+    "message": "Makrostatus auswählen..."
+  },
+  "edit_macro_name_placeholder": {
+    "message": "Makroname eingeben"
+  },
+  "disabled_trigger_display_name": {
+    "message": "(Listener deaktivieren) %displayName%"
+  },
+  "trigger_display_name": {
+    "message": "%displayName%"
+  },
+  "new_action": {
+    "message": "Neue Aktion"
+  },
+  "trigger_display_name_manual_run": {
+    "message": "Kein Ereignis"
+  },
+  "trigger_display_name_on_key_press": {
+    "message": "Bei **%keyInput%**"
+  },
+  "trigger_display_name_every_interval": {
+    "message": "Alle **%time%** ms"
+  },
+  "trigger_display_name_on_scheduled_time": {
+    "message": "Um **%timeSchedule%**"
+  },
+  "trigger_display_name_on_scene_switch": {
+    "message": "Bei Szenenwechsel auf **%scene%**"
+  },
+  "trigger_display_name_stream_source_state_change": {
+    "message": "Wenn **%stream%** sich zu **%state%** ändert"
+  },
+  "trigger_display_name_after_media_playback": {
+    "message": "Wenn **%id%** anhält"
+  },
+  "trigger_display_name_custom_function": {
+    "message": "Benutzerdefiniertes Skript"
+  },
+  "trigger_display_name_default_manual_run": {
+    "message": "Kein Ereignis"
+  },
+  "trigger_display_name_default_on_key_press": {
+    "message": "Auf Tastendruck [?]"
+  },
+  "trigger_display_name_default_every_interval": {
+    "message": "Jedes Intervall [?]"
+  },
+  "trigger_display_name_default_on_scheduled_time": {
+    "message": "Zu planmäßiger Zeit [?]"
+  },
+  "trigger_display_name_default_on_scene_switch": {
+    "message": "Bei Szenenwechsel [?]"
+  },
+  "trigger_display_name_default_stream_source_state_change": {
+    "message": "Wenn eine Streamquelle online/offline geht [?]"
+  },
+  "trigger_display_name_default_after_media_playback": {
+    "message": "Wenn eine Medien-Quelle stoppt [?]"
+  },
+  "trigger_display_name_default_custom_function": {
+    "message": "Benutzerdefiniertes Skript [?]"
+  },
+  "trigger_option_display_manual_run": {
+    "message": "Kein Ereignis"
+  },
+  "trigger_option_display_on_key_press": {
+    "message": "Auf Tastendruck"
+  },
+  "trigger_option_display_every_interval": {
+    "message": "Jedes Intervall"
+  },
+  "trigger_option_display_on_scheduled_time": {
+    "message": "Zu planmäßiger Zeit"
+  },
+  "trigger_option_display_on_scene_switch": {
+    "message": "Bei Szenenwechsel"
+  },
+  "trigger_option_display_stream_source_state_change": {
+    "message": "Wenn eine Streamquelle online/offline geht"
+  },
+  "trigger_option_display_after_media_playback": {
+    "message": "Wenn eine Medien-Quelle stoppt"
+  },
+  "trigger_option_display_custom_function": {
+    "message": "Benutzerdefiniertes Skript"
+  },
+  "trigger_presets_time": {
+    "message": "Zeit"
+  },
+  "trigger_presets_time_schedule": {
+    "message": "Zeitplan"
+  },
+  "trigger_presets_state_online": {
+    "message": "online"
+  },
+  "trigger_presets_state_offline": {
+    "message": "offline"
+  },
+  "trigger_presets_custom_function_placeholder": {
+    "message": "Hier können Sie Ihr Skript eingeben bzw. einfügen...[br]Skripte haben diese Parameter (callFunctionArray, xls).[br]Benutzerdefinierte Skripte müssen eine Funktion zurückgeben, um Ereignis-Listener zu leeren/löschen."
+  },
+  "action_display_name_wait": {
+    "message": "Für %time% ms warten"
+  },
+  "action_display_name_start_stop_broadcast": {
+    "message": "%broadcastState% broadcasten auf %output%"
+  },
+  "action_display_name_scene_change": {
+    "message": "Zu %scene% wechseln"
+  },
+  "action_display_name_scene_transition_change": {
+    "message": "Szenen-Übergang auf %transition%, %time% ms setzen"
+  },
+  "action_display_name_set_source_visibilty": {
+    "message": "%visibility% %videoItem%"
+  },
+  "action_display_name_playback_media": {
+    "message": "%newPlaybackState% %id%"
+  },
+  "action_display_name_toggle_mute": {
+    "message": "%mute% %itemAudio%"
+  },
+  "action_display_name_run_macro": {
+    "message": "%macro% ausführen"
+  },
+  "action_display_name_stop_macro": {
+    "message": "%stopMacroId% anhalten"
+  },
+  "action_display_name_push_to_live": {
+    "message": "Live schalten"
+  },
+  "action_display_name_enable_disable_macro": {
+    "message": "%macro%-Listener %toggle%"
+  },
+  "action_display_name_go_to_action": {
+    "message": "Zu %action% gehen"
+  },
+  "action_display_name_custom_function": {
+    "message": "Benutzerdefiniertes Skript (%customFunctionAction%...)"
+  },
+  "action_display_name_default_wait": {
+    "message": "Warten [?]"
+  },
+  "action_display_name_default_start_stop_broadcast": {
+    "message": "Broadcast beginnen/anhalten [?]"
+  },
+  "action_display_name_default_scene_change": {
+    "message": "Zu Szene wechseln [?]"
+  },
+  "action_display_name_default_scene_transition_change": {
+    "message": "Szenen-Übergang einstellen [?]"
+  },
+  "action_display_name_default_set_source_visibilty": {
+    "message": "Quellensichtbarkeit einstellen [?]"
+  },
+  "action_display_name_default_playback_media": {
+    "message": "Medien-Quellen-Wiedergabestatus einstellen [?]"
+  },
+  "action_display_name_default_toggle_mute": {
+    "message": "Audio-Quellen-Status einstellen [?]"
+  },
+  "action_display_name_default_run_macro": {
+    "message": "Makro ausführen [?]"
+  },
+  "action_display_name_default_stop_macro": {
+    "message": "Makro anhalten [?]"
+  },
+  "action_display_name_default_push_to_live": {
+    "message": "Live schalten"
+  },
+  "action_display_name_default_enable_disable_macro": {
+    "message": "Makro-Ereignis-Listener aktivieren/deaktivieren [?]"
+  },
+  "action_display_name_default_go_to_action": {
+    "message": "Zu Aktion gehen [?]"
+  },
+  "action_display_name_default_custom_function": {
+    "message": "Benutzerdefiniertes Skript [?]"
+  },
+  "action_option_display_wait": {
+    "message": "Warten"
+  },
+  "action_option_display_start_stop_broadcast": {
+    "message": "Broadcast beginnen/anhalten"
+  },
+  "action_option_display_scene_change": {
+    "message": "Zu Szene wechseln"
+  },
+  "action_option_display_scene_transition_change": {
+    "message": "Szenen-Übergang einstellen"
+  },
+  "action_option_display_set_source_visibilty": {
+    "message": "Quellensichtbarkeit einstellen"
+  },
+  "action_option_display_playback_media": {
+    "message": "Medien-Quellen-Wiedergabestatus einstellen"
+  },
+  "action_option_display_toggle_mute": {
+    "message": "Medien-Quellen-Status einstellen"
+  },
+  "action_option_display_run_macro": {
+    "message": "Makro ausführen"
+  },
+  "action_option_display_stop_macro": {
+    "message": "Makro anhalten"
+  },
+  "action_option_display_push_to_live": {
+    "message": "Live schalten"
+  },
+  "action_option_display_enable_disable_macro": {
+    "message": "Makro-Ereignis-Listener aktivieren/deaktivieren"
+  },
+  "action_option_display_go_to_action": {
+    "message": "Zu Aktion gehen"
+  },
+  "action_option_display_custom_function": {
+    "message": "Benutzerdefiniertes Skript"
+  },
+  "action_presets_time": {
+    "message": "Zeit"
+  },
+  "action_presets_wait_until_done": {
+    "message": "warten bis fertig"
+  },
+  "action_presets_custom_function_placeholder": {
+    "message": "Hier können Sie Ihr Skript eingeben bzw. einfügen...[br]Skripte haben diese Parameter (resolve, reject, xjs).[br]Benutzerdefiniertes Aktionsskript muss entweder resolve oder reject zurückgeben."
+  },
+  "action_presets_start": {
+    "message": "Starten"
+  },
+  "action_presets_stop": {
+    "message": "Anhalten"
+  },
+  "action_presets_show": {
+    "message": "Anzeigen"
+  },
+  "action_presets_hide": {
+    "message": "Ausblenden"
+  },
+  "action_presets_toggle_visibility": {
+    "message": "Sichtbarkeit umschalten"
+  },
+  "action_presets_play": {
+    "message": "Abspielen"
+  },
+  "action_presets_pause": {
+    "message": "Pause"
+  },
+  "action_presets_mute": {
+    "message": "Stummschalten"
+  },
+  "action_presets_unmute": {
+    "message": "Stummschaltung aufheben"
+  },
+  "action_presets_toggle_audio": {
+    "message": "Audio-Status umschalten"
+  },
+  "action_presets_enable": {
+    "message": "Aktivieren"
+  },
+  "action_presets_disable": {
+    "message": "Deaktivieren"
+  },
+  "condition_display_name_active_scene": {
+    "message": "Wenn aktive Szene %scene% ist"
+  },
+  "condition_display_name_stream_source": {
+    "message": "Wenn %stream% %state% ist"
+  },
+  "condition_display_name_source_visibility": {
+    "message": "Wenn %videoItem% %visibility% ist"
+  },
+  "condition_display_name_media_state": {
+    "message": "Wenn %id% %mediaState% ist"
+  },
+  "condition_display_name_macro_state": {
+    "message": "Wenn %macro% %state% ist"
+  },
+  "condition_display_name_custom_function": {
+    "message": "Benutzerdefiniertes Bedingung (%customFunctionCondition%)"
+  },
+  "condition_display_name_default_active_scene": {
+    "message": "Aktive Szene überprüfen [?]"
+  },
+  "condition_display_name_default_stream_source": {
+    "message": "Streamquelle überprüfen [?]"
+  },
+  "condition_display_name_default_source_visibility": {
+    "message": "Quellensichtbarkeit überprüfen [?]"
+  },
+  "condition_display_name_default_media_state": {
+    "message": "Medienstatus überprüfen [?]"
+  },
+  "condition_display_name_default_macro_state": {
+    "message": "Makrostatus überprüfen [?]"
+  },
+  "condition_display_name_default_custom_function": {
+    "message": "Benutzerdefiniertes Bedingung [?]"
+  },
+  "condition_option_display_active_scene": {
+    "message": "Aktive Szene überprüfen"
+  },
+  "condition_option_display_stream_source": {
+    "message": "Streamquelle überprüfen"
+  },
+  "condition_option_display_source_visibility": {
+    "message": "Quellensichtbarkeit überprüfen"
+  },
+  "condition_option_display_media_state": {
+    "message": "Medienstatus überprüfen"
+  },
+  "condition_option_display_macro_state": {
+    "message": "Makrostatus überprüfen"
+  },
+  "condition_option_display_custom_function": {
+    "message": "Benutzerdefinierte Bedingung"
+  },
+  "condition_presets_online": {
+    "message": "online"
+  },
+  "condition_presets_offline": {
+    "message": "offline"
+  },
+  "condition_presets_visible": {
+    "message": "sichtbar"
+  },
+  "condition_presets_hidden": {
+    "message": "versteckt"
+  },
+  "condition_presets_playing": {
+    "message": "wird abgespielt"
+  },
+  "condition_presets_not_playing": {
+    "message": "wird nicht abgespielt"
+  },
+  "condition_presets_enabled": {
+    "message": "aktiviert"
+  },
+  "condition_presets_disabled": {
+    "message": "deaktiviert"
+  },
+  "condition_presets_custom_function_placeholder": {
+    "message": "Hier können Sie Ihr Skript eingeben bzw. einfügen...[br]Skripte haben diese Parameter (resolve, reject, xjs, args, callFunctionArray).[br]Benutzerdefiniertes Bedingungsskript muss immer resolve zurückgeben."
+  }
+}

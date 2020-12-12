@@ -1,0 +1,95 @@
+{
+	"mixer_source_alert.source": {
+		"message": "资源"
+	},
+	"mixer_source_alert.not_connected": {
+		"message": "未连接"
+	},
+	"mixer_source_alert.channel": {
+		"message": "频道"
+	},
+	"mixer_source_alert.connect": {
+		"message": "连接"
+	},
+	"mixer_source_alert.invalid_channel": {
+		"message": "请提供有效的通道."
+	},
+	"mixer_source_alert.alertLabel": {
+		"message": "警报"
+	},
+	"mixer_source_alert.type": {
+		"message": "类型"
+	},
+	"mixer_source_alert.theme": {
+		"message": "主题"
+	},
+	"mixer_source_alert.color": {
+		"message": "色彩"
+	},
+	"mixer_source_alert.layout": {
+		"message": "布局"
+	},
+	"mixer_source_alert.animation_text": {
+		"message": "动画"
+	},
+	"mixer_source_alert.duration": {
+		"message": "持续时间"
+	},
+	"mixer_source_alert.delay": {
+		"message": "显示时间"
+	},
+	"mixer_source_alert.animateIn": {
+		"message": "动画入场"
+	},
+	"mixer_source_alert.animateOut": {
+		"message": "动画出场"
+	},
+	"mixer_source_alert.nameStyleAndSettings": {
+		"message": "名称风格和设置"
+	},
+	"mixer_source_alert.name": {
+		"message": "名称"
+	},
+	"mixer_source_alert.minMonth": {
+		"message": "最低月份"
+	},
+	"mixer_source_alert.minViewers": {
+		"message": "最低观众量"
+	},
+	"mixer_source_alert.audio": {
+		"message": "音频"
+	},
+	"mixer_source_alert.sound": {
+		"message": "声音"
+	},
+	"mixer_source_alert.show_alert": {
+		"message": "预览"
+	},
+	"mixer_source_alert.test_alert": {
+		"message": "测试警报"
+	},
+	"mixer_source_alert.connected": {
+		"message": "连接"
+	},
+	"mixer_source_alert.disconnect": {
+		"message": "断开连接"
+	},
+	"mixer_source_alert.generalHeader": {
+		"message": "常规"
+	},
+	"mixer_source_alert.customizeHeader": {
+		"message": "自定义"
+	},
+	"mixer_source_alert.hide_alert": {
+		"message": "隐藏预览"
+	},
+	"mixer_source_alert.account": {
+		"message": "帐户"
+	},
+	"mixer_source_alert.authorize": {
+		"message": "授权XSplit使用 Mixer"
+	},
+	"mixer_source_alert.remove_authorization": {
+		"message": "**%api%** 删除授权"
+	}
+}

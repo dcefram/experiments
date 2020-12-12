@@ -1,0 +1,80 @@
+{
+  "facebook.reactions.counter.tabheader": {
+    "message": "รีแอคชั่น"
+  },
+  "facebook.reactions.counter.source": {
+    "message": "ซอส"
+  },
+  "facebook.reactions.counter.account": {
+    "message": "บัญชี"
+  },
+  "facebook.reactions.counter.automatic": {
+    "message": "อัตโนมัติ"
+  },
+  "facebook.reactions.counter.authorize": {
+    "message": "อนุญาตให้ XSplit ใช้งาน Facebook Live"
+  },
+  "facebook.reactions.counter.remove_authorization": {
+    "message": "**%api%** ถอนการอนุญาต"
+  },
+  "facebook.reactions.counter.switch_account": {
+    "message": "**%api%** สลับบัญชี"
+  },
+  "facebook.reactions.counter.error_auth": {
+    "message": "โปรดลองอนุญาตให้ใช้ใหม่อีกครั้งและเพิ่มการเข้าถึงสิทธิ์การใช้งานที่ XSplit ต้องใช้สำหรับฟังก์ชั่นนี้"
+  },
+  "facebook.reactions.counter.not_connected": {
+    "message": "รีแอคชั่นจะถูกโหลดโดยอัตโนมัติเมื่อสตรีมไลฟ์แล้ว"
+  },
+  "facebook.reactions.counter.connected": {
+    "message": "เชื่อมต่อแล้ว"
+  },
+  "facebook.reactions.counter.display": {
+    "message": "แสดงผล"
+  },
+  "facebook.reactions.counter.lock_components": {
+    "message": "ล็อคส่วนประกอบ"
+  },
+  "facebook.reactions.counter.lock_components_text": {
+    "message": "เลือกตัวนี้จะปิดการใช้งานโฮเวอร์เมาส์, การปรับตำแหน่งและปรับขนาดของส่วนประกอบ [br][br]เลือกตัวเลือกนี้ถ้าคุณไม่ต้องการให้การโฮเวอร์เมาส์แสดงผลบนส่วนประกอบต่างๆ โดยเฉพาะเวลาที่คุณกำลังสตรีมหรือกำลังบันทึก"
+  },
+  "facebook.reactions.counter.type": {
+    "message": "ชนิด"
+  },
+  "facebook.reactions.counter.show_reactions_labels": {
+    "message": "แสดงรีแอคชั่นและป้ายชื่อ"
+  },
+  "facebook.reactions.counter.reset": {
+    "message": "รีเซ็ต"
+  },
+  "facebook.reactions.counter.counter_background": {
+    "message": "เค้าเตอร์ BG"
+  },
+  "facebook.reactions.counter.opacity": {
+    "message": "ความทึบแสง"
+  },
+  "facebook.reactions.counter.counter": {
+    "message": "เค้าเตอร์"
+  },
+  "facebook.reactions.counter.label": {
+    "message": "ป้ายชื่อ"
+  },
+  "facebook.reactions.counter.dropdown.type.poll": {
+    "message": "รีแอคชั่นโพล"
+  },
+  "facebook.reactions.counter.dropdown.type.counter": {
+    "message": "ตัวนับรีแอคชั่น"
+  },
+  "facebook.reactions.hide_connection_message": {
+    "message": "ซ่อนข้อความการเชื่อมต่อ"
+  },
+  "facebook.reactions.not_seeing_videos": {
+    "message": "ไม่เห็นภาพการไลฟ์ของคุณเหรอ?"
+  },
+  "facebook.reactions.not_seeing_videos_help": {
+    "message": "เราอาจจะไม่มีสิทธิเข้าถึงหน้าเพจไลฟ์วิดีโอบางอัน"
+  },
+  "facebook.reactions.not_seeing_videos_link": {
+    "message": "คลิ๊กที่นี่เพื่อทำการอนุญาตอีกครั้ง"
+  }
+}

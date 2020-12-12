@@ -1,0 +1,485 @@
+{
+  "permission_header": {
+    "message": "권한이 필요합니다."
+  },
+  "permission_body": {
+    "message": "DLL 권한이 필요합니다. [도구 -> Permissions]() 로 들어가신 뒤 해당 익스텐션에 권한을 부여해주세요."
+  },
+  "permission_button": {
+    "message": "권한 설정 가기"
+  },
+  "macro_exceeded_header": {
+    "message": "매크로를 추가하거나 복제할 수 없습니다."
+  },
+  "macro_exceeded_body": {
+    "message": "매크로 갯수 제한인 100개를 도달했습니다."
+  },
+  "macro_executor_header": {
+    "message": "매크로를 설정하여 엑스플릿 브로드캐스터 기능을 연계로 자동화 할 수 있습니다. 이벤트 조건이 만족하다면 자동으로 실행될 것 입니다."
+  },
+  "note_title": {
+    "message": "현재 버전:"
+  },
+  "warning_note": {
+    "message": "특정 값이 업데이트 되지 않으면 (예: 장면 제목 변경), 매크로 익스텐션을 갱신해보시기 바랍니다.[br]특정 이벤트와 액션은 Split Mode 혹은 미리보기 편집기에서 정상적으로 실행되지 않을 수 있습니다. 이러하여 매크로를 실행하실땐 Classic Mode 를 추천합니다."
+  },
+  "button_ok": {
+    "message": "Ok"
+  },
+  "button_cancel": {
+    "message": "취소"
+  },
+  "delete_confirmation_header": {
+    "message": "매크로 지우기"
+  },
+  "delete_confirmation_body": {
+    "message": "정말로 **%macroName%?** 매크로를 삭제 하시겠습니까?"
+  },
+  "add_macro": {
+    "message": "매크로 추가"
+  },
+  "continue_on_error": {
+    "message": "오류와 관계없이 매크로 지속"
+  },
+  "stop_macro": {
+    "message": "정지"
+  },
+  "test_macro": {
+    "message": "테스트"
+  },
+  "event_label": {
+    "message": "이벤트"
+  },
+  "action_label": {
+    "message": "액션"
+  },
+  "condition_label": {
+    "message": "조건"
+  },
+  "add_action": {
+    "message": "액션 추가"
+  },
+  "add_condition": {
+    "message": "조건 추가"
+  },
+  "enable_event_listener": {
+    "message": "이벤트 리스너 활성화"
+  },
+  "enable_event_listener_help_title_description": {
+    "message": "[기본값: 비활성화]"
+  },
+  "enable_event_listener_help_message": {
+    "message": "이를 활성화 하면 이벤트를 지속적으로 확인 합니다. 이벤트 조건이 만족스럽다면 매크로를 실행할 것 입니다. (연속적으로 액션을 실행).[br]만약 이벤트 ='단축키 누를시', 로 설정 되었을시엔 단축키를 만약 변경하게 될때 반드시 매크로를 먼저 비활성화 하시기 바랍니다. 이 방법을 준수하지 않으시면 단축키를 변경하려는 도중에 매크로가 실행될 수 있음을 주의하시기 바랍니다."
+  },
+  "script_copied_to_clipboard": {
+    "message": "클립보드에 스크립트 복사"
+  },
+  "enable_condition_check_per_action": {
+    "message": "모든 액션의 조건을 확인함을 활성화"
+  },
+  "no_options": {
+    "message": "사용할 선택이 없습니다"
+  },
+  "macro_tooltip": {
+    "message": "#### **%macroName%**[br] %triggerName%"
+  },
+  "key_stroke_placeholder": {
+    "message": "키 조합 또는 마우스 클릭 입력..."
+  },
+  "select_action_placeholder": {
+    "message": "액션 선택..."
+  },
+  "select_condition_placeholder": {
+    "message": "조건 선택..."
+  },
+  "select_trigger_placeholder": {
+    "message": "트리거 선택..."
+  },
+  "select_scene_placeholder": {
+    "message": "장면 선택..."
+  },
+  "select_stream_source_placeholder": {
+    "message": "스트림 소스 선택..."
+  },
+  "select_status_placeholder": {
+    "message": "상태 선택..."
+  },
+  "select_media_source_placeholder": {
+    "message": "미디어 소스 선택..."
+  },
+  "select_output_placeholder": {
+    "message": "송출/채널 선택..."
+  },
+  "select_function_placeholder": {
+    "message": "기능 선택..."
+  },
+  "select_transition_placeholder": {
+    "message": "장면전환 선택..."
+  },
+  "select_source_placeholder": {
+    "message": "소스 선택..."
+  },
+  "select_visibility_placeholder": {
+    "message": "활성화/비활성화 선택..."
+  },
+  "select_playback_state_placeholder": {
+    "message": "재생 상태 선택..."
+  },
+  "select_source_with_audio_placeholder": {
+    "message": "오디오 소스 선택..."
+  },
+  "select_mute_state_placeholder": {
+    "message": "음소거 상태 선택..."
+  },
+  "select_macro_placeholder": {
+    "message": "매크로 선택..."
+  },
+  "select_media_state_placeholder": {
+    "message": "미디어 상태 선택..."
+  },
+  "select_macro_state_placeholder": {
+    "message": "매크로 상태 선택..."
+  },
+  "edit_macro_name_placeholder": {
+    "message": "매크로 제목 입력"
+  },
+  "disabled_trigger_display_name": {
+    "message": "(리스너 비활성화됨) %displayName%"
+  },
+  "trigger_display_name": {
+    "message": "%displayName%"
+  },
+  "new_action": {
+    "message": "신규 액션"
+  },
+  "trigger_display_name_manual_run": {
+    "message": "이벤트 없음"
+  },
+  "trigger_display_name_on_key_press": {
+    "message": "**%keyInput%** 누를시"
+  },
+  "trigger_display_name_every_interval": {
+    "message": "모든 **%time%** ms"
+  },
+  "trigger_display_name_on_scheduled_time": {
+    "message": "**%timeSchedule%** 일 시"
+  },
+  "trigger_display_name_on_scene_switch": {
+    "message": "**%scene%** 으로 장면 전환시"
+  },
+  "trigger_display_name_stream_source_state_change": {
+    "message": "**%stream%** 이(가) **%state%** 일 시"
+  },
+  "trigger_display_name_after_media_playback": {
+    "message": "**%id%** 가 중지되면"
+  },
+  "trigger_display_name_custom_function": {
+    "message": "사용자 지정 스크립트"
+  },
+  "trigger_display_name_default_manual_run": {
+    "message": "이벤트 없음"
+  },
+  "trigger_display_name_default_on_key_press": {
+    "message": "단축키 누를시 [?]"
+  },
+  "trigger_display_name_default_every_interval": {
+    "message": "모든 간격에 [?]"
+  },
+  "trigger_display_name_default_on_scheduled_time": {
+    "message": "예정된 시간에 [?]"
+  },
+  "trigger_display_name_default_on_scene_switch": {
+    "message": "장면 전환시 [?]"
+  },
+  "trigger_display_name_default_stream_source_state_change": {
+    "message": "스트림 소스가 활성화/비활성화 일 시 [?]"
+  },
+  "trigger_display_name_default_after_media_playback": {
+    "message": "미디어 소스가 정지되면 [?]"
+  },
+  "trigger_display_name_default_custom_function": {
+    "message": "사용자 지정 스크립트 [?]"
+  },
+  "trigger_option_display_manual_run": {
+    "message": "이벤트 없음"
+  },
+  "trigger_option_display_on_key_press": {
+    "message": "단축키 누를시"
+  },
+  "trigger_option_display_every_interval": {
+    "message": "모든 간격에"
+  },
+  "trigger_option_display_on_scheduled_time": {
+    "message": "예정된 시간에"
+  },
+  "trigger_option_display_on_scene_switch": {
+    "message": "장면 전환시"
+  },
+  "trigger_option_display_stream_source_state_change": {
+    "message": "스트림 소스가 활성화/비활성화 일 시"
+  },
+  "trigger_option_display_after_media_playback": {
+    "message": "미디어 소스가 정지되면"
+  },
+  "trigger_option_display_custom_function": {
+    "message": "사용자 지정 스크립트"
+  },
+  "trigger_presets_time": {
+    "message": "시간"
+  },
+  "trigger_presets_time_schedule": {
+    "message": "예정 일"
+  },
+  "trigger_presets_state_online": {
+    "message": "온라인"
+  },
+  "trigger_presets_state_offline": {
+    "message": "오프라인"
+  },
+  "trigger_presets_custom_function_placeholder": {
+    "message": "이곳에 스크립트를 입력하시거나 붙혀넣기 하세요...[br]스크립트는 callFunctionArray, xjs 매개 변수가 있습니다.[br]사용자 지정 스크립트는 반드시 특정 기능으로 이벤트 리스너를 제거/삭제 해야 합니다."
+  },
+  "action_display_name_wait": {
+    "message": "%time% ms 동안 대기"
+  },
+  "action_display_name_start_stop_broadcast": {
+    "message": "%broadcastState% 송출은 %output% 으(로) 방송"
+  },
+  "action_display_name_scene_change": {
+    "message": "%scene% 으로 바꾸기"
+  },
+  "action_display_name_scene_transition_change": {
+    "message": "%time% ms 의 %transition% 으(로) 장면전환 설정,"
+  },
+  "action_display_name_set_source_visibilty": {
+    "message": "%visibility% %videoItem%"
+  },
+  "action_display_name_playback_media": {
+    "message": "%newPlaybackState%%id%"
+  },
+  "action_display_name_toggle_mute": {
+    "message": "%mute% %itemAudio%"
+  },
+  "action_display_name_run_macro": {
+    "message": "%macro% 실행"
+  },
+  "action_display_name_stop_macro": {
+    "message": "%stopMacroId% 중지"
+  },
+  "action_display_name_push_to_live": {
+    "message": "라이브 송출"
+  },
+  "action_display_name_enable_disable_macro": {
+    "message": "%toggle% %macro% 리스너"
+  },
+  "action_display_name_go_to_action": {
+    "message": "%action% 으로 이동"
+  },
+  "action_display_name_custom_function": {
+    "message": "사용자 지정 스크립트 (%customFunctionAction% ...)"
+  },
+  "action_display_name_default_wait": {
+    "message": "대기 [?]"
+  },
+  "action_display_name_default_start_stop_broadcast": {
+    "message": "방송 시작/중지 [?]"
+  },
+  "action_display_name_default_scene_change": {
+    "message": "선택 장면 전환 [?]"
+  },
+  "action_display_name_default_scene_transition_change": {
+    "message": "장면 전환 설정 [?]"
+  },
+  "action_display_name_default_set_source_visibilty": {
+    "message": "소스 활성화 설정 [?]"
+  },
+  "action_display_name_default_playback_media": {
+    "message": "미디어 재생 상태 설정 [?]"
+  },
+  "action_display_name_default_toggle_mute": {
+    "message": "오디오 소스 상태 설정 [?]"
+  },
+  "action_display_name_default_run_macro": {
+    "message": "매크로 실행 [?]"
+  },
+  "action_display_name_default_stop_macro": {
+    "message": "매크로 정지 [?]"
+  },
+  "action_display_name_default_push_to_live": {
+    "message": "라이브 송출"
+  },
+  "action_display_name_default_enable_disable_macro": {
+    "message": "매크로 이벤트 리스너 활성화/비활성화 [?]"
+  },
+  "action_display_name_default_go_to_action": {
+    "message": "액션으로 이동 [?]"
+  },
+  "action_display_name_default_custom_function": {
+    "message": "사용자 지정 스크립트 [?]"
+  },
+  "action_option_display_wait": {
+    "message": "대기"
+  },
+  "action_option_display_start_stop_broadcast": {
+    "message": "방송 시작/중지"
+  },
+  "action_option_display_scene_change": {
+    "message": "선택 장면 전환"
+  },
+  "action_option_display_scene_transition_change": {
+    "message": "장면 전환 설정"
+  },
+  "action_option_display_set_source_visibilty": {
+    "message": "소스 활성화 설정"
+  },
+  "action_option_display_playback_media": {
+    "message": "미디어 재생 상태 설정"
+  },
+  "action_option_display_toggle_mute": {
+    "message": "오디오 소스 상태 설정"
+  },
+  "action_option_display_run_macro": {
+    "message": "매크로 실행"
+  },
+  "action_option_display_stop_macro": {
+    "message": "매크로 정지"
+  },
+  "action_option_display_push_to_live": {
+    "message": "라이브 송출"
+  },
+  "action_option_display_enable_disable_macro": {
+    "message": "매크로 이벤트 리스너 활성화/비활성화"
+  },
+  "action_option_display_go_to_action": {
+    "message": "액션으로 이동"
+  },
+  "action_option_display_custom_function": {
+    "message": "사용자 지정 스크립트"
+  },
+  "action_presets_time": {
+    "message": "시간"
+  },
+  "action_presets_wait_until_done": {
+    "message": "완료 될 때까지 대기"
+  },
+  "action_presets_custom_function_placeholder": {
+    "message": "스크립트를 여기에 입력하거나 붙혀넣기 하세요...[br]스크립트는 resolve, reject, xjs 의 매개 변수가 있습니다.[br]사용자 지정 스크립트는 반드시 해결되어야 하거나 거부해야 합니다."
+  },
+  "action_presets_start": {
+    "message": "시작"
+  },
+  "action_presets_stop": {
+    "message": "정지"
+  },
+  "action_presets_show": {
+    "message": "보이기"
+  },
+  "action_presets_hide": {
+    "message": "숨기기"
+  },
+  "action_presets_toggle_visibility": {
+    "message": "활성화/비활성화"
+  },
+  "action_presets_play": {
+    "message": "재생"
+  },
+  "action_presets_pause": {
+    "message": "정지"
+  },
+  "action_presets_mute": {
+    "message": "음소거"
+  },
+  "action_presets_unmute": {
+    "message": "음소거 해제"
+  },
+  "action_presets_toggle_audio": {
+    "message": "오디오 상태 설정/해제"
+  },
+  "action_presets_enable": {
+    "message": "활성화"
+  },
+  "action_presets_disable": {
+    "message": "비활성화"
+  },
+  "condition_display_name_active_scene": {
+    "message": "활성화된 장면이 %scene% 일 경우"
+  },
+  "condition_display_name_stream_source": {
+    "message": "만약 %stream% 이(가) %state% 일 경우"
+  },
+  "condition_display_name_source_visibility": {
+    "message": "만약 %videoItem% 이(가) %visibility% 일 경우"
+  },
+  "condition_display_name_media_state": {
+    "message": "만약 %id% 이(가) %mediaState% 일 경우"
+  },
+  "condition_display_name_macro_state": {
+    "message": "만약 %macro% 이(가) %state% 일 경우"
+  },
+  "condition_display_name_custom_function": {
+    "message": "사용자 지정 조건 (%customFunctionCondition%)"
+  },
+  "condition_display_name_default_active_scene": {
+    "message": "활성화된 장면 확인 [?]"
+  },
+  "condition_display_name_default_stream_source": {
+    "message": "스트리밍 소스 확인 [?]"
+  },
+  "condition_display_name_default_source_visibility": {
+    "message": "소스 활성화 확인 [?]"
+  },
+  "condition_display_name_default_media_state": {
+    "message": "미디어 상태 확인 [?]"
+  },
+  "condition_display_name_default_macro_state": {
+    "message": "매크로 상태 확인 [?]"
+  },
+  "condition_display_name_default_custom_function": {
+    "message": "사용자 지정 조건 [?]"
+  },
+  "condition_option_display_active_scene": {
+    "message": "활성화된 장면 확인"
+  },
+  "condition_option_display_stream_source": {
+    "message": "스트리밍 소스 확인"
+  },
+  "condition_option_display_source_visibility": {
+    "message": "소스 활성화 확인"
+  },
+  "condition_option_display_media_state": {
+    "message": "미디어 상태 확인"
+  },
+  "condition_option_display_macro_state": {
+    "message": "매크로 상태 확인"
+  },
+  "condition_option_display_custom_function": {
+    "message": "사용자 지정 조건"
+  },
+  "condition_presets_online": {
+    "message": "온라인"
+  },
+  "condition_presets_offline": {
+    "message": "오프라인"
+  },
+  "condition_presets_visible": {
+    "message": "표시"
+  },
+  "condition_presets_hidden": {
+    "message": "숨김"
+  },
+  "condition_presets_playing": {
+    "message": "재생중"
+  },
+  "condition_presets_not_playing": {
+    "message": "일시 정지"
+  },
+  "condition_presets_enabled": {
+    "message": "활성화"
+  },
+  "condition_presets_disabled": {
+    "message": "비활성화"
+  },
+  "condition_presets_custom_function_placeholder": {
+    "message": "스크립트를 여기에 입력하거나 붙혀넣기 하세요...[br]스크립트는 resolve, reject, xjs, args, callFunctionArray 의 매개 변수가 있습니다.[br]사용자 지정 스크립트는 반드시 해결로 마무리 되어야 합니다."
+  }
+}

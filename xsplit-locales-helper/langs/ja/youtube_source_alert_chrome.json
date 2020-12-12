@@ -1,0 +1,95 @@
+{
+  "youtube.source_alert.tabheader": {
+    "message": "アラート"
+  },
+  "youtube.source_alert.source": {
+    "message": "ソース"
+  },
+  "youtube.source_alert.account": {
+    "message": "アカウント"
+  },
+  "youtube.source_alert.authorize": {
+    "message": "XSplitに対してYouTube Liveの使用を許可します。"
+  },
+  "youtube.source_alert.remove_authorization": {
+    "message": "**%api%** 認証取り消し"
+  },
+  "youtube.source_alert.switch_account": {
+    "message": "**%api%** アカウントを切り替える"
+  },
+  "youtube.source_alert.not_connected": {
+    "message": "配信が始まると自動的にアラートが読み込まれます"
+  },
+  "youtube.source_alert.connected": {
+    "message": "接続しました。"
+  },
+  "youtube.source_alert.connect": {
+    "message": "接続"
+  },
+  "youtube.source_alert.disconnect": {
+    "message": "接続を切る"
+  },
+  "youtube.source_alert.alertLabel": {
+    "message": "アラート"
+  },
+  "youtube.source_alert.animation_text": {
+    "message": "アニメーション"
+  },
+  "youtube.source_alert.duration": {
+    "message": "期間"
+  },
+  "youtube.source_alert.delay": {
+    "message": "表示時間"
+  },
+  "youtube.source_alert.animateIn": {
+    "message": "入りアニメーション"
+  },
+  "youtube.source_alert.animateOut": {
+    "message": "出アニメーション"
+  },
+  "youtube.source_alert.audio": {
+    "message": "オーディオ"
+  },
+  "youtube.source_alert.generalHeader": {
+    "message": "一般"
+  },
+  "youtube.source_alert.customizeHeader": {
+    "message": "カスタマイズ"
+  },
+  "youtube.source_alert.theme": {
+    "message": "テーマ"
+  },
+  "youtube.source_alert.minAmount": {
+    "message": "最低値"
+  },
+  "youtube.source_alert.type": {
+    "message": "種類"
+  },
+  "youtube.source_alert.nameStyleAndSettings": {
+    "message": "設定とスタイルの名前"
+  },
+  "youtube.source_alert.sound": {
+    "message": "音"
+  },
+  "youtube.source_alert.show_alert": {
+    "message": "プレビュー"
+  },
+  "youtube.source_alert.hide_alert": {
+    "message": "プレビューを非表示にする"
+  },
+  "youtube.source_alert.test_alert": {
+    "message": "アラートテスト"
+  },
+  "youtube.source_alert.Color": {
+    "message": "色"
+  },
+  "youtube.source_alert.layout": {
+    "message": "レイアウト"
+  },
+  "youtube.source_alert.loggingInTo": {
+    "message": "YouTubeにログイン中..."
+  },
+  "youtube.source_alert.pleaseComplete": {
+    "message": "ブラウザからログインを完了させてください"
+  }
+}

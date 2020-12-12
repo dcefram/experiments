@@ -1,0 +1,95 @@
+{
+	"mixer.chat.tabheader": {
+		"message": "聊天"
+	},
+	"mixer.chat.source": {
+		"message": "資源"
+	},
+	"mixer.chat.not_connected": {
+		"message": "未連接"
+	},
+	"mixer.chat.connected": {
+		"message": "連接"
+	},
+	"mixer.chat.channel": {
+		"message": "通道"
+	},
+	"mixer.chat.connect": {
+		"message": "連接"
+	},
+	"mixer.chat.disconnect": {
+		"message": "斷開連接"
+	},
+	"mixer.chat.invalid.channel": {
+		"message": "請提供有效的通道."
+	},
+	"mixer.chat.display": {
+		"message": "顯示"
+	},
+	"mixer.chat.preview": {
+		"message": "預覽"
+	},
+	"mixer.chat.chat_box": {
+		"message": "聊天框"
+	},
+	"mixer.chat.opacity": {
+		"message": "透明度"
+	},
+	"mixer.chat.viewers": {
+		"message": "觀眾"
+	},
+	"mixer.chat.message": {
+		"message": "消息"
+	},
+	"mixer.chat.text_size": {
+		"message": "文本大小"
+	},
+	"mixer.chat.pixel_unit": {
+		"message": "px"
+	},
+	"mixer.chat.default_color": {
+		"message": "使用Mixer聊天顏色"
+	},
+	"mixer.chat.hide_user_icons": {
+		"message": "隱藏用戶圖示"
+	},
+	"mixer.chat.hide_timestamp": {
+		"message": "隱藏時間戳記"
+	},
+	"mixer.chat.hide_on_idle": {
+		"message": "空閒時隱藏聊天"
+	},
+	"mixer.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"mixer.chat.blocking": {
+		"message": "阻止中"
+	},
+	"mixer.chat.blockedlist": {
+		"message": "阻止列表"
+	},
+	"mixer.chat.block_help": {
+		"message": "您可以通過在阻止列表中添加觀眾的姓名或用戶名 (包括機器人，如果適用) 來阻止觀眾, 這樣他們的消息就不會出現在聊天信息。 [br][br]此阻止列表未連接到您的頻道的阻止列表。它只適用於此聊天源。"
+	},
+	"mixer.chat.blocking_name": {
+		"message": "輸入要阻止的觀眾的名稱或用戶名。"
+	},
+	"mixer.chat.block_name": {
+		"message": "名稱"
+	},
+	"mixer.chat.block_add": {
+		"message": "添加"
+	},
+	"mixer.chat.block_remove": {
+		"message": "移除"
+	},
+	"mixer.chat.account": {
+		"message": "帳戶"
+	},
+	"mixer.chat.authorize": {
+		"message": "授權XSplit使用 Mixer"
+	},
+	"mixer.chat.remove_authorization": {
+		"message": "**%api%** 刪除授權"
+	}
+}

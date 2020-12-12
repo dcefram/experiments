@@ -1,0 +1,95 @@
+{
+	"mixer_source_alert.source": {
+		"message": "Источник"
+	},
+	"mixer_source_alert.not_connected": {
+		"message": "Не подключен"
+	},
+	"mixer_source_alert.channel": {
+		"message": "Канал"
+	},
+	"mixer_source_alert.connect": {
+		"message": "Подключение"
+	},
+	"mixer_source_alert.invalid_channel": {
+		"message": "Пожалуйста, укажите существующий канал."
+	},
+	"mixer_source_alert.alertLabel": {
+		"message": "Оповещение"
+	},
+	"mixer_source_alert.type": {
+		"message": "По типу"
+	},
+	"mixer_source_alert.theme": {
+		"message": "Тема"
+	},
+	"mixer_source_alert.color": {
+		"message": "Цвет"
+	},
+	"mixer_source_alert.layout": {
+		"message": "Макет"
+	},
+	"mixer_source_alert.animation_text": {
+		"message": "Анимация"
+	},
+	"mixer_source_alert.duration": {
+		"message": "Длительность"
+	},
+	"mixer_source_alert.delay": {
+		"message": "Время показа"
+	},
+	"mixer_source_alert.animateIn": {
+		"message": "Добавить анимацию"
+	},
+	"mixer_source_alert.animateOut": {
+		"message": "Убрать анимацию"
+	},
+	"mixer_source_alert.nameStyleAndSettings": {
+		"message": "Задайте имя стилю и настройке"
+	},
+	"mixer_source_alert.name": {
+		"message": "По имени"
+	},
+	"mixer_source_alert.minMonth": {
+		"message": "Минимум месяцев"
+	},
+	"mixer_source_alert.minViewers": {
+		"message": "Минимум зрителей"
+	},
+	"mixer_source_alert.audio": {
+		"message": "Аудио"
+	},
+	"mixer_source_alert.sound": {
+		"message": "Звук"
+	},
+	"mixer_source_alert.show_alert": {
+		"message": "Предварительный просмотр"
+	},
+	"mixer_source_alert.test_alert": {
+		"message": "Тестовое оповещение"
+	},
+	"mixer_source_alert.connected": {
+		"message": "Подключен"
+	},
+	"mixer_source_alert.disconnect": {
+		"message": "Отсоединить"
+	},
+	"mixer_source_alert.generalHeader": {
+		"message": "Общие"
+	},
+	"mixer_source_alert.customizeHeader": {
+		"message": "Настроить"
+	},
+	"mixer_source_alert.hide_alert": {
+		"message": "Скрыть предварительный просмотр"
+	},
+	"mixer_source_alert.account": {
+		"message": "Учетная запись"
+	},
+	"mixer_source_alert.authorize": {
+		"message": "Разрешить XSplit использовать Mixer"
+	},
+	"mixer_source_alert.remove_authorization": {
+		"message": "**%api%** Отозвать авторизацию"
+	}
+}

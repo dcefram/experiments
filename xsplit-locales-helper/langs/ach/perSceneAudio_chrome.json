@@ -1,0 +1,29 @@
+{
+  "perSceneAudio.header_text": {
+    "message": "crwdns162214:0crwdne162214:0"
+  },
+  "perSceneAudio.sync_volume": {
+    "message": "crwdns162216:0crwdne162216:0"
+  },
+  "perSceneAudio.scene_crossfade": {
+    "message": "crwdns162218:0crwdne162218:0"
+  },
+  "perSceneAudio.scene_crossfade_tooltip": {
+    "message": "crwdns162220:0crwdne162220:0"
+  },
+  "perSceneAudio.scene_selector_default": {
+    "message": "crwdns162222:0crwdne162222:0"
+  },
+  "perSceneAudio.default": {
+    "message": "crwdns162224:0crwdne162224:0"
+  },
+  "perSceneAudio.default_tooltip_header": {
+    "message": "crwdns162226:0crwdne162226:0"
+  },
+  "perSceneAudio.default_tooltip": {
+    "message": "crwdns162228:0crwdne162228:0"
+  },
+  "perSceneAudio.add_button": {
+    "message": "crwdns162230:0crwdne162230:0"
+  }
+}

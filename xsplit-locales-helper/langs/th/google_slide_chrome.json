@@ -1,0 +1,41 @@
+{
+  "googleSlide.presentation": {
+    "message": "การนำเสนอ"
+  },
+  "googleSlide.go_button": {
+    "message": "ไป"
+  },
+  "googleSlide.url": {
+    "message": "URL"
+  },
+  "googleSlide.enter_google_slide_link": {
+    "message": "ใส่ลิงก์แชร์ Google Slides ของคุณ"
+  },
+  "googleSlide.remove_controls_ui": {
+    "message": "นำออก UI ควบคุม"
+  },
+  "googleSlide.connected": {
+    "message": "เชื่อมต่อแล้ว"
+  },
+  "googleSlide.valid_url_warning": {
+    "message": "ใส่ Google Slides URL ที่ใช้งานได้"
+  },
+  "googleSlide.slide_private_warning": {
+    "message": "Slide เป็นส่วนตัว เปิด 'หรือใครที่มีลิงก์นี้สามารถดูได้'"
+  },
+  "googleSlide.playback": {
+    "message": "เล่น:"
+  },
+  "googleSlide.system_sound": {
+    "message": "เสียงของระบบ"
+  },
+  "googleSlide.stream_only": {
+    "message": "สตรีมเท่านั้น"
+  },
+  "googleSlide.stream_only_install": {
+    "message": "สตรีมเท่านั้น(ติดตั้ง)"
+  },
+  "googleSlide.default_speakers": {
+    "message": "ลำโพงที่เป็นค่าเริ่มต้น"
+  }
+}

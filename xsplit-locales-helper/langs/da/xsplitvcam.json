@@ -1,0 +1,146 @@
+{
+  "menu.language": {
+    "message": "Change Language"
+  },
+  "menu.calibrate": {
+    "message": "Calibrate"
+  },
+  "menu.account": {
+    "message": "My Account"
+  },
+  "menu.help": {
+    "message": "Hjælp"
+  },
+  "menu.signin": {
+    "message": "Sign in with"
+  },
+  "menu.logout": {
+    "message": "Sign out"
+  },
+  "menu.about": {
+    "message": "About"
+  },
+  "menu.source": {
+    "message": "Source"
+  },
+  "menu.filter": {
+    "message": "Filter"
+  },
+  "menu.bgFilter.og": {
+    "message": "Original Background"
+  },
+  "menu.bgFilter.replace": {
+    "message": "Replace Background"
+  },
+  "menu.bgFilter.remove": {
+    "message": "Remove Background"
+  },
+  "menu.bgImage": {
+    "message": "Background Image"
+  },
+  "menu.bgBlur": {
+    "message": "Background Blur"
+  },
+  "menu.filterMenu.automatic": {
+    "message": "Automatic"
+  },
+  "menu.filterMenu.accel": {
+    "message": "Hardware acceleration"
+  },
+  "menu.filterMenu.quality": {
+    "message": "Quality Controls"
+  },
+  "menu.filterMenu.quality.low": {
+    "message": "Low"
+  },
+  "menu.filterMenu.quality.med": {
+    "message": "Standard"
+  },
+  "menu.filterMenu.quality.high": {
+    "message": "High"
+  },
+  "menu.filterMenu.addtl": {
+    "message": "Additional Options"
+  },
+  "menu.filterMenu.addtl.chair": {
+    "message": "Remove Chair"
+  },
+  "menu.browse.local": {
+    "message": "Browse local files"
+  },
+  "menu.browse.online": {
+    "message": "Online Webpage"
+  },
+  "calibrate.title": {
+    "message": "Calibrate XSplit VCam"
+  },
+  "calibrate.subtitle": {
+    "message": "Calibrating XSplit VCam allows us to improve the performance for you environment and camera."
+  },
+  "calibrate.source": {
+    "message": "Select camera source:"
+  },
+  "calibrate.vidConsent": {
+    "message": "Upload a 15s video and calibration data for improving performance"
+  },
+  "calibrate.title2": {
+    "message": "Calibrating..."
+  },
+  "calibrate.subtitle2": {
+    "message": "Stay in front of your camera for 15 seconds, look to the sides, raise your arms, or do what you usually do on camera."
+  },
+  "calibrate.title3": {
+    "message": "Done!"
+  },
+  "calibrate.subtitle3": {
+    "message": "XSplit VCam is now ready. Just select \"XSplit VCam\" as your camera in Skype, OBS, XSplit Broadcaster or any other application that uses a camera."
+  },
+  "calibrate.denyConsent": {
+    "message": "Are you sure you don't want to upload your calibration data? We will ONLY use your data to improve the background removal AI, without it we cannot improve your experience."
+  },
+  "feedback.ask": {
+    "message": "How do you like our app?"
+  },
+  "feedback.rating.low": {
+    "message": "We're sorry you're having a bad time."
+  },
+  "feedback.rating.med": {
+    "message": "How can we do better"
+  },
+  "feedback.rating.high": {
+    "message": "Thanks for the five stars!"
+  },
+  "feedback.vidConsent": {
+    "message": "I want to record a sample video"
+  },
+  "feedback.question": {
+    "message": "Is there anything else we could improve? Feature requests?"
+  },
+  "feedback.comments": {
+    "message": "Comment optional"
+  },
+  "feedback.thanks": {
+    "message": "Thank you for the feedback!"
+  },
+  "feedback.assurance": {
+    "message": "We'll be working on improving your experience."
+  },
+  "purchase.buy": {
+    "message": "Buy now!"
+  },
+  "window.continue": {
+    "message": "Continue"
+  },
+  "window.close": {
+    "message": "Close"
+  },
+  "window.cancel": {
+    "message": "Cancel"
+  },
+  "window.redo": {
+    "message": "Redo"
+  },
+  "window.submit": {
+    "message": "Submit"
+  }
+}

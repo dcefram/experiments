@@ -1,0 +1,314 @@
+{
+	"toptitle": {
+		"message": "Управление запланированными онлайн трансляциями"
+	},
+	"details": {
+		"message": "Детали трансляции"
+	},
+	"livevideo.label": {
+		"message": "Онлайн видео"
+	},
+	"livevideo.tooltip": {
+		"message": "Select how you want to go live.[br][br]**New Live** - Go live now with a new live video[br]**Scheduled** - Broadcast to an existing scheduled live video"
+	},
+	"livevideovalues.0": {
+		"message": "Новое онлайн видео"
+	},
+	"scheduledvideovalues.new": {
+		"message": "Новое запланированное видео"
+	},
+	"delete": {
+		"message": "Удалить"
+	},
+	"stop": {
+		"message": "Остановить"
+	},
+	"status.label": {
+		"message": "Статус"
+	},
+	"status.tooltip": {
+		"message": "Установите статус запланированного онлайн видео.[br][br]**Запланированное** - автоматически идет в прямом эфире, когда данные транслируются на него по расписанию времени начала. Вы можете транслировать его и до запланированного времени с целью предварительного просмотра.[br]**Онлайн (живое)** - начинает трансляцию и переходит в режим онлайн.[br]**Настроенное вручную** - предварительный просмотр трансляции и переключение видео с запланированного на настроенное вручную. В основном используется, когда вы не успеваетет к началу и вам нужно предварительно просмотреть трансляцию, прежде чем сразу переходить в онлайн. Обратите внимание, что трансляции, настроенные вручную, никогда не смогут быть переключены обратно в режим работы по-расписанию, но если всё же это необходимо - это можно будет сделать с помощью интерфейса Facebook."
+	},
+	"statusvalues.scheduled": {
+		"message": "Запланированное"
+	},
+	"statusvalues.live": {
+		"message": "Онлайн (живое)"
+	},
+	"statusvalues.manual": {
+		"message": "Вручную"
+	},
+	"title": {
+		"message": "Название"
+	},
+	"description": {
+		"message": "Описание"
+	},
+	"tags.label": {
+		"message": "Теги содержимого"
+	},
+	"tags.tooltip": {
+		"message": "Теги помогают сделать видео более легким для поиска. Они невидимы для пользователей."
+	},
+	"videogame.label": {
+		"message": "Видеоигра"
+	},
+	"videogame.tooltip": {
+		"message": "Отметьте игру, геймплэй которой вы будете транслировать в Facebook Gaming."
+	},
+	"checkin.label": {
+		"message": "Указание местоположения"
+	},
+	"checkin.tooltip": {
+		"message": "Местоположение из которого вы транслируете видео."
+	},
+	"privacy.label": {
+		"message": "Конфиденциальность"
+	},
+	"privacy.tooltip": {
+		"message": "Использование настроек конфиденциальности из приложения Facebook может быть ограничено для XSplit. Чтобы убедиться, что вы можете контролировать настройки конфиденциальности, убедитесь, что ваши настройки конфиденциальности для XSplit в приложениях Facebook установлены в значение **Public (для всех)**. [Подробнее](https://xspl.it/fbxspriv)"
+	},
+	"privacyvalues.EVERYONE": {
+		"message": "Общие"
+	},
+	"privacyvalues.ALL_FRIENDS": {
+		"message": "Друзья"
+	},
+	"privacyvalues.SELF": {
+		"message": "Только для меня"
+	},
+	"pageaudience.label": {
+		"message": "Аудитория страницы"
+	},
+	"pageaudience.tooltip": {
+		"message": "Выберите местоположения людей, с которыми вы хотите связаться."
+	},
+	"locations.label": {
+		"message": "Местоположения"
+	},
+	"locations.tooltip": {
+		"message": "Установите по умолчанию доступность трансляции для всех, либо укажите конкретные страны, в которых проживают те люди, для которых вы собираетесь вести трансляцию."
+	},
+	"support.label": {
+		"message": "Продолжающаяся онлайн"
+	},
+	"support.tooltip": {
+		"message": "Этот параметр позволяет вам выполнять трансляцию в течение более чем 4 часов, но без сохранения вашей трансляции в ленте Facebook."
+	},
+	"manageschedule": {
+		"message": "Управление запланированными онлайн видео"
+	},
+	"createschedule": {
+		"message": "Создать запланированное видео"
+	},
+	"scheduledstart.label": {
+		"message": "Запланированное начало"
+	},
+	"scheduledstart.tooltip": {
+		"message": "Старт запланированных видео должен быть в момент времени в интервале от 11 минут до 7 дней (168 часов) с момента его создания."
+	},
+	"customimage.label": {
+		"message": "Пользовательское изображение"
+	},
+	"customimage.tooltip": {
+		"message": "Можно добавить пользовательское изображение для запланированных вами трансляций."
+	},
+	"scheduleerror": {
+		"message": "Недопустимое расписание"
+	},
+	"uploadimage": {
+		"message": "Загрузить изображение..."
+	},
+	"deleteimage": {
+		"message": "Удалить изображение"
+	},
+	"errormessage": {
+		"message": "Старт запланированных видео должен быть в момент времени в интервале от 11 минут до 7 дней (168 часов) с момента его создания."
+	},
+	"addScheduleHeader": {
+		"message": "Добавить расписание"
+	},
+	"addSchedule": {
+		"message": "Добавить расписание"
+	},
+	"editSchedule": {
+		"message": "Изменить расписание"
+	},
+	"updateSchedule": {
+		"message": "Обновить расписание"
+	},
+	"start": {
+		"message": "Запуск трансляции"
+	},
+	"resume": {
+		"message": "Возобновить трансляцию"
+	},
+	"ok": {
+		"message": "ОК"
+	},
+	"cancel": {
+		"message": "Отменить"
+	},
+	"close": {
+		"message": "Закрыть"
+	},
+	"loading.create": {
+		"message": "Создание запланированных онлайн-видео..."
+	},
+	"loading.update": {
+		"message": "Обновление запланированных онлайн-видео..."
+	},
+	"youtube.liveEvent.label": {
+		"message": "Онлайн событие"
+	},
+	"youtube.liveEvent.tooltip": {
+		"message": "Select how you want to go live.[br][br]**New Live Event -** Create a new live event and go live[br]**Scheduled -** Select an existing live event.[br]**Live Now -** Resume an existing live now event"
+	},
+	"youtube.tags.label": {
+		"message": "Теги"
+	},
+	"youtube.tags.tooltip": {
+		"message": "Теги — это описательные ключевые слова, которые можно добавить к вашему видео, чтобы помочь людям найти его найти по содержанию.[br][br]Для разделения тегов используйте запятые."
+	},
+	"youtube.category.label": {
+		"message": "Категория"
+	},
+	"youtube.schedule": {
+		"message": "Запланировано"
+	},
+	"youtube.noSchedule": {
+		"message": "Стрим невозможно запустить по расписанию"
+	},
+	"youtube.duration": {
+		"message": "Длительность"
+	},
+	"youtube.endSchedule": {
+		"message": "Конец запланированного события (необязательно)"
+	},
+	"youtube.hours": {
+		"message": "Часы"
+	},
+	"youtube.minutes": {
+		"message": "Минут(ы)"
+	},
+	"youtube.enable360.label": {
+		"message": "Включить панорамное (360°) видео"
+	},
+	"youtube.enable360.title": {
+		"message": "Включить панорамное (360°) видео"
+	},
+	"youtube.enable360.tooltip": {
+		"message": "Обозначьте вашу трансляцию (стрим) как панорамное видео. Включение этого пункта позволит зрителям просматривать видео с любой позиции во всех направлениях.[br][br]Опция не поддерживается для видео с низкой задержкой."
+	},
+	"youtube.enableLowLatency": {
+		"message": "Включить низкую задержку"
+	},
+	"youtube.enableDvr": {
+		"message": "Включить DVR"
+	},
+	"youtube.allowEmbed": {
+		"message": "Разрешить вставку"
+	},
+	"youtube.useBackupServer": {
+		"message": "Использовать сервер резервного копирования"
+	},
+	"youtube.manualTransition.label": {
+		"message": "Ручной переход"
+	},
+	"youtube.manualTransition.tooltip": {
+		"message": "Установите этот флажок для контроля состояния вашей трансляции в панели управления YouTube Live. Если флажок снят, XSplit автоматически после начала вещания установит статус трансляции в \"онлайн\" и даст возможность завершить её после остановки."
+	},
+	"youtube.liveEvent.values.scheduled": {
+		"message": "Запланировано: %date% - %title%"
+	},
+	"youtube.liveEvent.values.liveNow": {
+		"message": "Текущая онлайн трансляция: Начало %date% - %title%"
+	},
+	"youtube.liveEvent.defaults.new": {
+		"message": "Новое онлайн событие"
+	},
+	"youtube.category.values.1": {
+		"message": "Фильмы и Анимация"
+	},
+	"youtube.category.values.2": {
+		"message": "Транспорт и Автомобили"
+	},
+	"youtube.category.values.10": {
+		"message": "Музыка"
+	},
+	"youtube.category.values.15": {
+		"message": "Различные животные"
+	},
+	"youtube.category.values.17": {
+		"message": "Спорт"
+	},
+	"youtube.category.values.19": {
+		"message": "Поездки и Мероприятия"
+	},
+	"youtube.category.values.20": {
+		"message": "Гейминг"
+	},
+	"youtube.category.values.22": {
+		"message": "Люди и Блоги"
+	},
+	"youtube.category.values.23": {
+		"message": "Комедия"
+	},
+	"youtube.category.values.24": {
+		"message": "Развлекательная программа"
+	},
+	"youtube.category.values.25": {
+		"message": "Новости и Политика"
+	},
+	"youtube.category.values.26": {
+		"message": "Руководство и Стиль"
+	},
+	"youtube.category.values.27": {
+		"message": "Образование"
+	},
+	"youtube.category.values.28": {
+		"message": "Наука и Технологии"
+	},
+	"youtube.category.values.29": {
+		"message": "Некоммерческие организации и активная деятельность"
+	},
+	"youtube.privacy.public": {
+		"message": "Общие"
+	},
+	"youtube.privacy.unlisted": {
+		"message": "Непосчитанные"
+	},
+	"youtube.privacy.private": {
+		"message": "Частные"
+	},
+	"youtube.latency.label": {
+		"message": "Задержка"
+	},
+	"youtube.latency.tooltip": {
+		"message": "**Нормальная задержка** - ЛУЧШЕ ВСЕГО ДЛЯ: высочайшего качества просмотра при повышенном разрешении.[br]**Низкая задержка** - ЛУЧШЕ ВСЕГО ДЛЯ: взаимодействия в реальном времени с минимальной буферизацией воспроизведения.[br]**Очень низкая задержка** - ЛУЧШЕ ВСЕГО ДЛЯ: взаимодействия в реальном времени.[br]**НЕ ПОДДЕРЖИВАЮТСЯ**: DVR, субтитры, разрешение 1440p и 4k"
+	},
+	"youtube.latency.values.normal": {
+		"message": "Нормальный задержка"
+	},
+	"youtube.latency.values.low": {
+		"message": "Низкая задержка"
+	},
+	"youtube.latency.values.ultraLow": {
+		"message": "Очень низкая задержка"
+	},
+	"youtube.emptyTitle": {
+		"message": "Название не может быть пустым."
+	},
+	"youtube.noEndSchedule": {
+		"message": "окончание не запланировано"
+	},
+	"youtube.endScheduleInvalid": {
+		"message": "Окончание трансляции указано неверно. Если вы хотите добавить время окончания - установите допустимые дату и время."
+	},
+	"youtube.endScheduleFuture": {
+		"message": "Укажите момент окончания трансляции в будущем."
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "Поиск предложений..."
+	}
+}

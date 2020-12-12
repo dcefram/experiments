@@ -1,0 +1,50 @@
+{
+  "whiteboard_overlay.drawing": {
+    "message": "그리기"
+  },
+  "whiteboard_overlay.reminder": {
+    "message": "그리기를 시작하려면, 레이아웃 탭에 있는 위치 고정 체크 박스에 체크가 되어있는지 확인하고 소스가 회전되어 있지 않는지 확인하세요."
+  },
+  "whiteboard_overlay.tool": {
+    "message": "도구"
+  },
+  "whiteboard_overlay.size": {
+    "message": "사이즈"
+  },
+  "whiteboard_overlay.color": {
+    "message": "색"
+  },
+  "whiteboard_overlay.clear_whiteboard": {
+    "message": "화이트보드 초기화"
+  },
+  "whiteboard_overlay.hotkeys": {
+    "message": "화이트보드 초기화"
+  },
+  "whiteboard_overlay.hotkey_header": {
+    "message": "소스가 선택되었을 때 이 단축키를 사용:"
+  },
+  "whiteboard_overlay.hotkey_s": {
+    "message": "사이즈(S\/M\/L) 중에서 토글링 하려면 &quot;**S**&quot;를 누르세요"
+  },
+  "whiteboard_overlay.hotkey_shift": {
+    "message": "다른 도구를 사용하려면 &quot;**Shift**&quot;키를 꾹 누르고 계세요[br]모양 : Freeform -> 모양 감지 (선, 삼각형, 원, 사각형)"
+  },
+  "whiteboard_overlay.hotkey_d": {
+    "message": "현재 그리기를 저장하려면 &quot;**D**&quot;를 누르세요"
+  },
+  "whiteboard_overlay.hotkey_esc": {
+    "message": "화이트보드를 초기화하려면 &quot;**ESC**&quot;를 누르세요"
+  },
+  "whiteboard_overlay.tool_options_freehand": {
+    "message": "프리스타일"
+  },
+  "whiteboard_overlay.size_options_thin": {
+    "message": "얇음"
+  },
+  "whiteboard_overlay.size_options_normal": {
+    "message": "일반"
+  },
+  "whiteboard_overlay.size_options_thick": {
+    "message": "굵음"
+  }
+}

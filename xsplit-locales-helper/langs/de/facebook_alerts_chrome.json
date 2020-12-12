@@ -1,0 +1,83 @@
+{
+  "facebook.alerts.tabheader": {
+    "message": "Warnung"
+  },
+  "facebook.alerts.notification": {
+    "message": "Benachrichtigung"
+  },
+  "facebook.alerts.status": {
+    "message": "Status"
+  },
+  "facebook.alerts.authorize": {
+    "message": "XSplit autorisieren, Facebook Live zu verwenden"
+  },
+  "facebook.alerts.remove_authorization": {
+    "message": "**%api%** Autorisierung entfernen"
+  },
+  "facebook.alerts.type.stars": {
+    "message": "Sterne"
+  },
+  "facebook.alerts.type.share": {
+    "message": "Teilen"
+  },
+  "facebook.alerts.alert_type": {
+    "message": "Warntyp"
+  },
+  "facebook.alerts.minimum_stars": {
+    "message": "Mindestanzahl Sterne"
+  },
+  "facebook.alerts.relogin": {
+    "message": "Erneute Anmeldung"
+  },
+  "facebook.alerts.style": {
+    "message": "Stil"
+  },
+  "facebook.alerts.theme": {
+    "message": "Design"
+  },
+  "facebook.alerts.layout": {
+    "message": "Layout"
+  },
+  "facebook.alerts.color": {
+    "message": "Farbe"
+  },
+  "facebook.alerts.sound": {
+    "message": "Warnton"
+  },
+  "facebook.alerts.test_alert": {
+    "message": "Testwarnung"
+  },
+  "facebook.alerts.hide_connection_message": {
+    "message": "Verbindungsmeldungen ausblenden"
+  },
+  "facebook.alerts.source": {
+    "message": "Quelle"
+  },
+  "facebook.alerts.account": {
+    "message": "Konto"
+  },
+  "facebook.alerts.error_auth": {
+    "message": "Bitte versuchen Sie erneut zu autorisieren und gewähren Sie den Zugriff auf alle Berechtigungen, die von XSplit für diese Funktionalität benötigt werden"
+  },
+  "facebook.alerts.not_connected": {
+    "message": "Warnungen werden automatisch geladen, sobald der Stream live ist"
+  },
+  "facebook.alerts.settings": {
+    "message": "Einstellungen"
+  },
+  "facebook.alerts.switch_account": {
+    "message": "**%api%** Konto wechseln"
+  },
+  "facebook.alerts.connected": {
+    "message": "Verbunden"
+  },
+  "facebook.alerts.not_seeing_videos": {
+    "message": "Ihr Live-Video wird nicht angezeigt?"
+  },
+  "facebook.alerts.not_seeing_videos_help": {
+    "message": "Sie haben uns eventuell keine Berechtigung für einige der Live-Videos Ihrer Seite erteilt."
+  },
+  "facebook.alerts.not_seeing_videos_link": {
+    "message": "Klicken Sie hier, um erneut zu autorisieren"
+  }
+}

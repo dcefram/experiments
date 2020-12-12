@@ -1,0 +1,395 @@
+{
+    "home_newToStore": {
+        "message": "พบกับปลั๊กอินอันทรงพลังของเราและเพิ่มพลังให้กับการบรอดแคสของคุณ!"
+    },
+    "home_search": {
+        "message": "คลิ๊กที่ไอค่อนด้านบนหรือล่างเพื่อเริ่มต้นเรียกดู"
+    },
+    "home_sourceTip": {
+        "message": "แสดงซอส"
+    },
+    "home_extensionTip": {
+        "message": "แสดงส่วนขยาย"
+    },
+    "home_outputTip": {
+        "message": "แสดงเอาต์พุต"
+    },
+    "home_libraryTip": {
+        "message": "แสดงปลั๊กอินของฉัน"
+    },
+    "home_sourceTipIn": {
+        "message": "ซ่อนซอส"
+    },
+    "home_outputTipIn": {
+        "message": "ซ่อนเอาท์พุต"
+    },
+    "home_extensionTipIn": {
+        "message": "ซ่อนส่วนขยาย"
+    },
+    "home_tooltipToggle": {
+        "message": "คุณไม่สามารถปิดไอคอนทั้งหมดได้ขณะอยู่ในโหมดค้นหา"
+    },
+    "plugin_developer": {
+        "message": "ผู้พัฒนา"
+    },
+    "plugin_publicVersion": {
+        "message": "รุ่นสาธารณะ:"
+    },
+    "plugin_updated": {
+        "message": "อัพเดท:"
+    },
+    "plugin_dllDownloadWarning": {
+        "message": "การดาวน์โหลดนี้อาจจะมีไฟล์ที่ไม่ปลอดภัยซึ่งอาจจะทำให้มีการเข้าถึงเครื่องของคุณได้ไม่ได้รับอนุญาตได้"
+    },
+    "plugin_install": {
+        "message": "ติดตั้ง"
+    },
+    "plugin_uninstall": {
+        "message": "ถอนการติดตั้ง"
+    },
+    "plugin_update": {
+        "message": "อัพเดท"
+    },
+    "plugin_published": {
+        "message": "เผยแพร่"
+    },
+    "plugin_size": {
+        "message": "ขนาด"
+    },
+    "plugin_currentVersion": {
+        "message": "เวอร์ชั้นปัจจุบัน"
+    },
+    "plugin_installs": {
+        "message": "ติดตั้ง"
+    },
+    "plugin_minimumXBCLabel": {
+        "message": "ความต้องการขั้นต่ำของ XBC"
+    },
+    "plugin_minimumXBC": {
+        "message": "%version% หรือเวอร์ชั้นที่สูงกว่า"
+    },
+    "plugin_report": {
+        "message": "รายงานปลั๊กอิน"
+    },
+    "plugin_developerLabel": {
+        "message": "ผู้พัฒนา"
+    },
+    "plugin_developerVisit": {
+        "message": "เยี่ยมชมเวปไซต์"
+    },
+    "plugin_developerMail": {
+        "message": "ส่งเมล์"
+    },
+    "plugin_readMore": {
+        "message": "อ่านเพิ่มเติม"
+    },
+    "plugin_rateThisplugin": {
+        "message": "ให้คะแนะปลั๊กอินนี้"
+    },
+    "plugin_rating": {
+        "message": "คุุณต้องติดตั้งปลั๊กอินนี้ก่อนจึงจะสามารถรีวิวได้"
+    },
+    "plugin_reviews": {
+        "message": "รีวิว"
+    },
+    "plugin_votes": {
+        "message": "โหวต"
+    },
+    "plugin_filter-recent": {
+        "message": "ก่อนหน้านี้"
+    },
+    "plugin_filter-rating": {
+        "message": "การเรท"
+    },
+    "plugin_viewAllReviews": {
+        "message": "ดูรีวิวทั้งหมด"
+    },
+    "plugin_warning": {
+        "message": "ปลั๊กอินนี้ไม่ได้ถูกคุ้มครองโดยนโยบายความเป็นส่วนตัวของ XSplit โดยที่มีการใช้งานโปรแกรมหรือบริการภายนอก ปลั๊กอินอาจจะรวมฟังก์ชั่่นที่เก็บรวบรวมข้อมูลส่วนตัว รวมถึง แต่ไม่จำกัดเพียง รายละเอียดเกี่ยวกับระบบคอมพิวเตอร์ของคุณและการใช้ซอฟต์แวร์นี้"
+    },
+    "plugin_myReview": {
+        "message": "รีวิวของฉัน"
+    },
+    "plugin_empty-search": {
+        "message": "ไม่พบผลการค้นหาของคุณ โปรดลองค้นหาใหม่อีกครั้งหรือลองค้นหาปลั๊กอินด้วยตัวเอง"
+    },
+    "plugin_back": {
+        "message": "<กลับไปสู่รายละเอียดปลั๊กอิน"
+    },
+    "plugin_tag": {
+        "message": "แท็ก"
+    },
+    "plugin_minimum": {
+        "message": "ต้องการ OS ขั้นต่ำ:"
+    },
+    "plugin_windows": {
+        "message": "Windows 10"
+    },
+    "plugin_windows-warning": {
+        "message": "ไม่สามารถลงปลั๊กอินนี้ได้ ความต้องการ OS ขั้นต่ำไม่เพียงพอ"
+    },
+    "plugin_local-recording": {
+        "message": "จำเป็นต้องใช้ปลั๊กอินนี้และไม่สามารถถอนการติดตั้งได้"
+    },
+    "myPlugins_myPlugins": {
+        "message": "ปลั๊กอินของฉัน"
+    },
+    "myPlugins_updateAll": {
+        "message": "อัพเดททั้งหมด"
+    },
+    "myPlugins_cancelAll": {
+        "message": "ยกเลิกทั้งหมด"
+    },
+    "myPlugins_update": {
+        "message": "อัพเดท"
+    },
+    "myPlugins_uninstall": {
+        "message": "ถอนการติดตั้ง"
+    },
+    "myPlugins_size": {
+        "message": "ขนาด"
+    },
+    "search_results": {
+        "message": "ผลการค้นหาสำหรับ "
+    },
+    "search_searching": {
+        "message": "กำลังค้นหา..."
+    },
+    "search_zero-search1": {
+        "message": "เราไม่พบอะไรสำหรับการค้นหาของคุณ"
+    },
+    "search_zero-search2": {
+        "message": "แนะนำ:"
+    },
+    "search_zero-search3": {
+        "message": "โปรดแน่ใจว่าสะกดคำทั้งหมดได้อย่างถูกต้อง"
+    },
+    "search_zero-search4": {
+        "message": "ลองค้นหาด้วยคำค้นหาอื่น"
+    },
+    "search_zero-search5": {
+        "message": "ลองคำค้นหาที่เป็นคำทั่ว ๆ ไปมากขึ้น"
+    },
+    "search_name": {
+        "message": "ชื่อ"
+    },
+    "search_downloads": {
+        "message": "# ของการดาว์นโหลด"
+    },
+    "search_rating": {
+        "message": "การเรท"
+    },
+    "search_updated": {
+        "message": "วันที่อัพเดท"
+    },
+    "search_installed": {
+        "message": "ติดตั้งแล้ว"
+    },
+    "search_clear-search": {
+        "message": "ลบการค้นหา"
+    },
+    "search_download-all": {
+        "message": "ดาวน์โหลดทั้งหมด"
+    },
+    "search_download": {
+        "message": "ดาวน์โหลด (%count%)"
+    },
+    "help_what": {
+        "message": "ปลั๊กอินเหล่านี้คืออะไร?"
+    },
+    "help_source": {
+        "message": "**แหล่งที่มา** คือปลั๊กอินที่ถูกวางไว้บนสเตจ คลิ๊กขวาแหล่งที่่มาในหน้าต่างหลักเพื่อเปิดหน้าต่างคุณสมบัติ"
+    },
+    "help_extension": {
+        "message": "**ส่วนขยาย** คือปลั๊กอินในระดับโกลบอลที่สามารถควบคุมฉากของคุณได้ ปลั๊กอินเหล่านี้จะมีความสามารถของแหล่งที่มาและอื่น ๆ"
+    },
+    "help_output": {
+        "message": "**เอาต์พุต** สนับสนุนสตรีมไซต์ยอดนิยม เช่น Twitch, YouTube Live, Smashcast และ Ustream."
+    },
+    "help_installed": {
+        "message": "คุณสามารถปลั๊กอินที่ติดตั้งไว้ อัพเดท หรือถอนการติดตั้งได้จากหน้าปลั๊กอินของฉัน โดยสามารถเปิดหน้านี้ได้จากการคลิ๊กไอค่อนทางด้านขวาของแถบค้นหา หรือไปที่เมนูเครื่องมือและคลิ๊กที่ปลั๊กอินของฉัน"
+    },
+    "help_developer": {
+        "message": "คุณเป็นผู้พัฒนาหรือเปล่า?"
+    },
+    "help_buildYourOwn": {
+        "message": "คุณสามารถสร้าปลั๊กอินสำหรับตัวคุณให้ให้ XSplit Broadcaster ได้! เรามีทางเลือกมากมายที่จะช่วยเหลือคุณ ลองไป [ที่นี่](https://xspl.it/developers)"
+    },
+    "overlay_uninstall": {
+        "message": "ถอนการติดตั้งเสร็จสมบูรณ์"
+    },
+    "overlay_uninstallMessage": {
+        "message": "%name% ได้ถูกถอนการติดตั้งแล้ว \n เรายินดีที่จะรับฟังฟีดแบ็คและความเห็นจากคุณ"
+    },
+    "overlay_rateThisPlugin": {
+        "message": "ให้คะแนะปลั๊กอินนี้"
+    },
+    "overlay_yourRating": {
+        "message": "เรตติ้งของคุณ: "
+    },
+    "overlay_rating-0": {
+        "message": "ไม่มีเรตติ้ง"
+    },
+    "overlay_rating-1": {
+        "message": "ต้องปรับปรุง"
+    },
+    "overlay_rating-2": {
+        "message": "ไม่เลว"
+    },
+    "overlay_rating-3": {
+        "message": "โอเค"
+    },
+    "overlay_rating-4": {
+        "message": "ชอบมาก"
+    },
+    "overlay_rating-5": {
+        "message": "เจ๋งสุด"
+    },
+    "overlay_placeholder": {
+        "message": "เขียนรีวิว (ทางเลือก)"
+    },
+    "overlay_charlimit": {
+        "message": "เหลืออีก %action% ตัวอักษร"
+    },
+    "overlay_submit": {
+        "message": "ส่ง"
+    },
+    "overlay_cancel": {
+        "message": "ยกเลิก"
+    },
+    "overlay_skip": {
+        "message": "ข้าม"
+    },
+    "overlay_ratingError": {
+        "message": "โอ้! เกิดปัญหาขึ้นระหว่างที่คุณได้ทำการส่งเรตและคอมเม้นต์ โปรดลองใหม่อีกครั้ง"
+    },
+    "overlay_action-error": {
+        "message": "เกิดข้อผิดพลาดขึ้นระหว่าง %action% โปรดลองใหม่อีกครั้งหรือติดต่อฝ่ายสนับสนุนของ XSplit"
+    },
+    "overlay_action-error-download": {
+        "message": "ไม่สามารถดาวน์โหลดปลั๊กอิน_ ลองตรวจสอบการเชื่อมต่ออินเตอร์เน็ตของคุณแล้วลองใหม่อีกครั้ง"
+    },
+    "overlay_action-error-multiple": {
+        "message": "มีปลั๊กอิน %count% ตัวต้องการการอัพเดท"
+    },
+    "overlay_action-rating": {
+        "message": ""
+    },
+    "overlay_action-searching": {
+        "message": "กำลังค้นหา..."
+    },
+    "overlay_action-loading": {
+        "message": "กำลังโหลด..."
+    },
+    "overlay_action-downloading": {
+        "message": "กำลังดาวน์โหลด..."
+    },
+    "overlay_action-installing": {
+        "message": "กำลังติดตั้ง..."
+    },
+    "overlay_action-updating": {
+        "message": "กำลังอัพเดท..."
+    },
+    "overlay_action-uninstalling": {
+        "message": "กำลังถอนการติดตั้ง..."
+    },
+    "overlay_action-updating-multiple": {
+        "message": "กำลังดาวน์โหลด ปลั๊กอิน %count%/%total% ตัว"
+    },
+    "overlay_complete-installing": {
+        "message": "%name% ได้ถูกเพิ่มไปยังเมนู %type% และหน้าปลั๊กอินของฉัน"
+    },
+    "overlay_complete-updating": {
+        "message": "%name% ถูกอัพเดทแล้ว"
+    },
+    "overlay_complete-updating-multiple": {
+        "message": "ปลั๊กอินทั้งหมดได้ถูกดาวน์โหลดแล้ว"
+    },
+    "overlay_complete-uninstalling": {
+        "message": "%name% ถูกถอนการติดตั้งแล้ว"
+    },
+    "overlay_title-complete-installing": {
+        "message": "การติดตั้งเสร็จสิ้น!"
+    },
+    "overlay_title-complete-uninstalling": {
+        "message": "ถอนการติดตั้งเสร็จสมบูรณ์"
+    },
+    "overlay_title-complete-updating": {
+        "message": "อัพเดทเสร็จสิ้น!"
+    },
+    "overlay_title-complete-updating-multiple": {
+        "message": "ดาวน์โหลดเสร็จสิ้น!"
+    },
+    "overlay_button-downloading": {
+        "message": "ดาวน์โหลด"
+    },
+    "overlay_button-installing": {
+        "message": "ติดตั้ง"
+    },
+    "overlay_button-updating": {
+        "message": "อัพเดท"
+    },
+    "overlay_button-updating-multiple": {
+        "message": "อัพเดททั้งหมด"
+    },
+    "overlay_button-uninstalling": {
+        "message": "ถอนการติดตั้ง"
+    },
+    "overlay_button-ok": {
+        "message": "ตกลง"
+    },
+    "overlay_button-loading": {
+        "message": "ตกลง"
+    },
+    "overlay_toClose": {
+        "message": "คุณต้องการปิดปลั๊กอินสโตร์หรือไม่?"
+    },
+    "overlay_cancel-action": {
+        "message": "นี่จะเป็นการยกเลิก %action%"
+    },
+    "overlay_generic-error-header": {
+        "message": "ไม่ได้รับข้อมูล!"
+    },
+    "overlay_generic-internet-fail": {
+        "message": "อุ๊ปส์! เกิดข้อผิดพลาดขึ้น คุณอาจจะลองเชื่อมต่ออินเตอร์เน็ตและลองใหม่อีกครั้ง"
+    },
+    "overlay_generic-error-text": {
+        "message": "เกิดข้อผิดพลาดขึ้นระหว่างกำลังดึงข้อมูล โปรดลองใหม่อีกครั้ง"
+    },
+    "overlay_install-restart-now": {
+        "message": "รีสตาร์ทตอนนี้"
+    },
+    "overlay_install-restart-later": {
+        "message": "รีสตาร์ทภายหลัง"
+    },
+    "overlay_needs-restart-info": {
+        "message": "ต้องรีสตาร์ท XSplit เพื่อให้การเปลี่ยนแปลงมีผล"
+    },
+    "extension_label": {
+        "message": "ส่วนขยาย"
+    },
+    "source_label": {
+        "message": "ซอส"
+    },
+    "output_label": {
+        "message": "เอาต์พุต"
+    },
+    "myPlugins_plugin_types": {
+        "message": "ปลั๊กอินทุกประเภท"
+    },
+    "myPlugins_show_plugins_with_update": {
+        "message": "แสดงเฉพาะปลั๊กอินที่มีการอัพเดท"
+    },
+    "search_ascending": {
+        "message": "จากน้อยไปมาก"
+    },
+    "search_descending": {
+        "message": "จากมากไปน้อย"
+    },
+    "search_and_separator": {
+        "message": "และ"
+    },
+    "home_search_placeholder": {
+        "message": "ค้นหาในสโตร์..."
+    }
+}

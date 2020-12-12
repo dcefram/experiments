@@ -1,0 +1,38 @@
+{
+	"currentResolutionNotSupported": {
+		"message": "您當前的視頻解析度設置為 %resolution%. 您的當前視頻畫面播放速率是 %fps%."
+	},
+	"currentResolutionNotSupportedYouTube": {
+		"message": "你視頻的分辨率設置為%resolution% %fps% 幀每秒而不支持YouTube直播. 從下面的表格, 將你的分辨率設置為支持的分辨率."
+	},
+	"currentResolutionSupported": {
+		"message": "您當前的視頻解析度設置為%resolution%. 您的當前視頻幀速率是*%fps%*. 請查看參閱下表推薦的比特率."
+	},
+	"currentResolutionSupportedYouTube": {
+		"message": "你 *當前視頻的決議* 設置為 *%resolution% *。您的當前視頻畫面播放速率是 *%fps%*。請參閱以下指南推薦的視頻位元速率。"
+	},
+	"currentResolutionCapable1080pYouTube": {
+		"message": "你* 當前視頻的分辨率*(視圖->分辨率) 設置為*%resolution%*. 您的當前視頻幀速率是*%fps%*. 你應該*考慮使用1080p或更高分辨率除非你有非常強的CPU 以及超強寬帶互聯網連接."
+	},
+	"currentResolutionNotCapable1080pYouTube": {
+		"message": "你* 當前視頻的分辨率*(視圖->分辨率) 設置為*%resolution%*. 您的當前視頻幀速率是*%fps%*. 你應該*考慮使用1080p或更高分辨率除非你有非常強的CPU(你可能沒有) 以及超強寬帶互聯網連接."
+	},
+	"defaultMessage": {
+		"message": "%service%我們只建議任何以下分辨率. 更改分辨率在分辨率菜單"
+	},
+	"resolution": {
+		"message": "分辨率"
+	},
+	"suggestedBitRate": {
+		"message": "建議比特率"
+	},
+	"maximumBitRate": {
+		"message": "最大比特率"
+	},
+	"minimumBitRate": {
+		"message": "最小比特率"
+	},
+	"warning": {
+		"message": "不要嘗試%resolutions%,除非你有一個強大的CPU和互聯網連接"
+	}
+}

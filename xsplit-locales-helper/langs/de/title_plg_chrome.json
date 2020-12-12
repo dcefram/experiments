@@ -1,0 +1,173 @@
+{
+  "title.content": {
+    "message": "Inhalt"
+  },
+  "title.use_custom_script": {
+    "message": "Benutzerdefiniertes Skript verwenden"
+  },
+  "title.edit_script": {
+    "message": "Skript bearbeiten"
+  },
+  "title.format": {
+    "message": "Format"
+  },
+  "title.font": {
+    "message": "Schriftart"
+  },
+  "title.color": {
+    "message": "Farbe"
+  },
+  "title.outline": {
+    "message": "Gliederung"
+  },
+  "title.opacity": {
+    "message": "Deckkraft"
+  },
+  "title.style": {
+    "message": "Stil"
+  },
+  "title.align": {
+    "message": "Ausrichten"
+  },
+  "title.shadow": {
+    "message": "Schatten"
+  },
+  "title.distance": {
+    "message": "Entfernung"
+  },
+  "title.blur": {
+    "message": "Weichzeichnung"
+  },
+  "title.angle": {
+    "message": "Winkel"
+  },
+  "title.animation": {
+    "message": "Animation"
+  },
+  "title.none": {
+    "message": "Nichts"
+  },
+  "title.scroll": {
+    "message": "Scrollen"
+  },
+  "title.fade": {
+    "message": "Überblenden"
+  },
+  "title.scrolling": {
+    "message": "Scrollen"
+  },
+  "title.line_limit": {
+    "message": "Zeilenbegrenzung"
+  },
+  "title.direction": {
+    "message": "Richtung"
+  },
+  "title.speed": {
+    "message": "Geschwindigkeit"
+  },
+  "title.scroll_units": {
+    "message": "px/Sek."
+  },
+  "title.delimeter": {
+    "message": "Trennzeichen"
+  },
+  "title.interval": {
+    "message": "Intervall"
+  },
+  "title.fade_speed": {
+    "message": "Überblenden-Geschwindigkeit"
+  },
+  "title.enable_60_fps": {
+    "message": "Bis zu 60 FPS aktivieren"
+  },
+  "title.enable_60_fps_tooltip": {
+    "message": "Erfordert möglicherweise zusätzliche GPU/CPU-Ressourcen. Beachten Sie, dass Umschalten dieser Option eine Aktualisierung der Quelle auslöst. Für eine optimale Leistung aktivieren Sie Spezielle Optimierung der Browser-Quelle unter Extras -> Einstellungen -> Erweitert."
+  },
+  "title.ok": {
+    "message": "Ok"
+  },
+  "title.cancel": {
+    "message": "Abbrechen"
+  },
+  "title.hint.content_section": {
+    "message": "Geben Sie hier Ihren Text ein. Sie können &amp;lt;br&amp;gt; verwenden, um Zeilenumbrüche einzufügen. Sie können auch BBcode verwenden, um Ihren Text darüberhinaus zu formatieren. Klicken Sie [here](https://xspl.it/bbcode), um mehr zu erfahren."
+  },
+  "title.deprecated_scripts": {
+    "message": "Das Skript, welches in dieser Textdatei-Datenquelle verwendet wird, enthält einige veraltete Skriptmethoden. Aktualisieren Sie das Skript, indem Sie folgendes tun:[br]1. Klicken Sie die 'Skript bearbeiten'-Schaltfläche in der Text-Registerkarte[br]2. Wählen Sie eine Skript-Vorlage und drücken Sie die 'Text aktualisieren'-Schaltfläche"
+  },
+  "title.outdated_scripts": {
+    "message": "Das Skript, welches in dieser Textdatei-Datenquelle verwendet wird, ist möglicherweise überholt. Sie könne das Skript aktualisieren, indem Sie folgendes tun:[br]1. Klicken Sie die 'Skript bearbeiten'-Schaltfläche in der Text-Registerkarte[br]2. Wählen Sie eine Skript-Vorlage, konfigurieren Sie die Einstellungen, und drücken Sie die 'Text aktualisieren'-Schaltfläche"
+  },
+  "title.script_editor.edit_script": {
+    "message": "Skript bearbeiten - "
+  },
+  "title.script_editor.title": {
+    "message": "Skript"
+  },
+  "title.script_editor.template": {
+    "message": "Vorlage"
+  },
+  "title.script_editor.settings": {
+    "message": "Einstellungen"
+  },
+  "title.script_editor.script": {
+    "message": "Skript"
+  },
+  "title.script_editor.back": {
+    "message": "Zurück"
+  },
+  "title.script_editor.update_title": {
+    "message": "Text aktualisieren"
+  },
+  "title.help.outline_title": {
+    "message": "Gliederung für Text-Quelle verwenden"
+  },
+  "title.help.outline_message": {
+    "message": "Es gibt Beschränkung des Schriftgrades, wenn Sie Gliederung verwenden. Sie können die Größe der Text-Quelle auf Ihrer Bühne verändern, jedoch wird der Text nur bis zum maximalen Schriftgrad angepasst."
+  },
+  "title.help.pause_script_title": {
+    "message": "Skript anhalten oder fortsetzen"
+  },
+  "title.help.pause_script_message": {
+    "message": "Sie können ein unterstütztes Skript, z. B. die Timer- und Dauer-Modi des Allzweck-Uhr-Skriptes und anderer unterstützender, benutzerdefinierter Skripte pausieren/abspielen."
+  },
+  "title.help.delimeter_title": {
+    "message": "Trennzeichen"
+  },
+  "title.help.delimeter_message": {
+    "message": "Ein Trennzeichen ist ein Zeichen oder eine Gruppe von Zeichen, die den Text in Segmente trennt, die per Überblend-Effekt gezeigt werden."
+  },
+  "title.help.interval_title": {
+    "message": "Intervall"
+  },
+  "title.help.interval_message": {
+    "message": "Interval ist die Zeit, die ein Text angezeigt wird, bevor ein weiterer Überblend-Effekt geschehen wird."
+  },
+  "title.pause_hotkey": {
+    "message": "Wenn Quelle auf der Bühne ausgewählt ist, können Sie den Hotkey (drücken Sie \"P\") verwenden, um ein unterstütztes Skript zu pausieren/abzuspielen."
+  },
+  "title.direction_options_right_to_left": {
+    "message": "Rechts nach links"
+  },
+  "title.direction_options_left_to_right": {
+    "message": "Links nach rechts"
+  },
+  "title.direction_options_bottom_to_top": {
+    "message": "Unten nach oben"
+  },
+  "title.direction_options_top_to_bottom": {
+    "message": "Oben nach unten"
+  },
+  "title.outline_options_none": {
+    "message": "Nichts"
+  },
+  "title.outline_options_thin": {
+    "message": "Dünn"
+  },
+  "title.outline_options_thick": {
+    "message": "Dick"
+  },
+  "title.outline_options_thickest": {
+    "message": "Dickste"
+  }
+}

@@ -1,0 +1,95 @@
+{
+	"mixer.chat.tabheader": {
+		"message": "チャット"
+	},
+	"mixer.chat.source": {
+		"message": "ソース"
+	},
+	"mixer.chat.not_connected": {
+		"message": "接続されていません。"
+	},
+	"mixer.chat.connected": {
+		"message": "接続しました。"
+	},
+	"mixer.chat.channel": {
+		"message": "チャンネル"
+	},
+	"mixer.chat.connect": {
+		"message": "接続"
+	},
+	"mixer.chat.disconnect": {
+		"message": "接続を切る"
+	},
+	"mixer.chat.invalid.channel": {
+		"message": "有効のチャンネルを入力してください。"
+	},
+	"mixer.chat.display": {
+		"message": "ディスプレイ"
+	},
+	"mixer.chat.preview": {
+		"message": "プレビュー"
+	},
+	"mixer.chat.chat_box": {
+		"message": "チャットボックス"
+	},
+	"mixer.chat.opacity": {
+		"message": "透明度"
+	},
+	"mixer.chat.viewers": {
+		"message": "閲覧者"
+	},
+	"mixer.chat.message": {
+		"message": "メッセージ"
+	},
+	"mixer.chat.text_size": {
+		"message": "テキストサイズ"
+	},
+	"mixer.chat.pixel_unit": {
+		"message": "px"
+	},
+	"mixer.chat.default_color": {
+		"message": "Mixerチャットの色を使用する"
+	},
+	"mixer.chat.hide_user_icons": {
+		"message": "ユーザーアイコンを隠す"
+	},
+	"mixer.chat.hide_timestamp": {
+		"message": "タイムスタンプを隠す"
+	},
+	"mixer.chat.hide_on_idle": {
+		"message": "無反応時にチャットを隠す"
+	},
+	"mixer.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"mixer.chat.blocking": {
+		"message": "ブロッキング"
+	},
+	"mixer.chat.blockedlist": {
+		"message": "ブロックリスト"
+	},
+	"mixer.chat.block_help": {
+		"message": "ブロックリストに視聴者（それ以外にもBOTなど）の名前やユーザーネームを入力する事でチャットビューアーにメッセージが表示されない用にする事が出来ます。[br][br] このリストはあなたのチャンネルのブロックリストとは別です。こちらのチャットビューアーにのみ適応されます。"
+	},
+	"mixer.chat.blocking_name": {
+		"message": "ブロックしたい視聴者の名前かユーザーネームを入力してください。"
+	},
+	"mixer.chat.block_name": {
+		"message": "名前"
+	},
+	"mixer.chat.block_add": {
+		"message": "追加"
+	},
+	"mixer.chat.block_remove": {
+		"message": "削除"
+	},
+	"mixer.chat.account": {
+		"message": "アカウント"
+	},
+	"mixer.chat.authorize": {
+		"message": "XSplitに対してMixerの使用を許可します。"
+	},
+	"mixer.chat.remove_authorization": {
+		"message": "**%api%** 認証取り消し"
+	}
+}

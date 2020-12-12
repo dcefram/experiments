@@ -1,0 +1,62 @@
+{
+	"youtube.html.tabheader": {
+		"message": "Чат"
+	},
+	"youtube.html.source": {
+		"message": "Источник"
+	},
+	"youtube.html.account": {
+		"message": "Учетная запись"
+	},
+	"youtube.html.preview": {
+		"message": "Предварительный просмотр"
+	},
+	"youtube.html.not_connected": {
+		"message": "Не подключен"
+	},
+	"youtube.html.connected": {
+		"message": "Подключен"
+	},
+	"youtube.html.error_channel_not_found": {
+		"message": "Пожалуйста, укажите правильный идентификатор видео."
+	},
+	"youtube.html.display": {
+		"message": "Дисплей"
+	},
+	"youtube.html.chat_box": {
+		"message": "Окно чата"
+	},
+	"youtube.html.opacity": {
+		"message": "Прозрачность"
+	},
+	"youtube.html.viewers": {
+		"message": "Зрители"
+	},
+	"youtube.html.message": {
+		"message": "Сообщение"
+	},
+	"youtube.html.text_size": {
+		"message": "Размер текста"
+	},
+	"youtube.html.hide_user_icons": {
+		"message": "Скрыть иконки пользователей"
+	},
+	"youtube.html.hide_timestamps": {
+		"message": "Скрыть метки времени"
+	},
+	"youtube.html.hide_on_idle": {
+		"message": "Скрывать чат в режиме простоя"
+	},
+	"youtube.html.video_id": {
+		"message": "Идентификатор видео"
+	},
+	"youtube.html.video_id_help": {
+		"message": "Чтобы получить идентификатор видео из вашего канала YouTube live, щелкните в браузере правой кнопкой мыши на этом видео и выберите «Копировать URL видео». Из скопированного URL скопируйте символы в последней части URL-адреса (после знака =)."
+	},
+	"youtube.html.connect": {
+		"message": "Подключение"
+	},
+	"youtube.html.disconnect": {
+		"message": "Отсоединить"
+	}
+}

@@ -1,0 +1,95 @@
+{
+	"twitch.alert.tabheader": {
+		"message": "إنذار"
+	},
+	"twitch.alert.source": {
+		"message": "مصدر"
+	},
+	"twitch.alert.account": {
+		"message": "الحساب"
+	},
+	"twitch.alert.authorize": {
+		"message": "تخويل XSplit لاستخدام Twitch"
+	},
+	"twitch.alert.remove_authorization": {
+		"message": "أزل التفويض"
+	},
+	"twitch.alert.switch_account": {
+		"message": " تبديل الحساب"
+	},
+	"twitch.alert.not_connected": {
+		"message": "غير متصل"
+	},
+	"twitch.alert.connected": {
+		"message": "متصل"
+	},
+	"twitch.alert.connect": {
+		"message": "متصل"
+	},
+	"twitch.alert.disconnect": {
+		"message": "قطع الاتصال"
+	},
+	"twitch.alert.alertLabel": {
+		"message": "إنذار"
+	},
+	"twitch.alert.animation_text": {
+		"message": "حيوية"
+	},
+	"twitch.alert.duration": {
+		"message": "المدة الزمنية"
+	},
+	"twitch.alert.delay": {
+		"message": "وقت العرض"
+	},
+	"twitch.alert.animateIn": {
+		"message": "تحريك في"
+	},
+	"twitch.alert.animateOut": {
+		"message": "تحريك بها"
+	},
+	"twitch.alert.audio": {
+		"message": "الصوت"
+	},
+	"twitch.alert.generalHeader": {
+		"message": "عامة"
+	},
+	"twitch.alert.customizeHeader": {
+		"message": "تعديل"
+	},
+	"twitch.alert.theme": {
+		"message": "الخلفيات"
+	},
+	"twitch.alert.minMonth": {
+		"message": "دقيقة. الشهور"
+	},
+	"twitch.alert.minViewers": {
+		"message": "دقيقة. المشاهدين"
+	},
+	"twitch.alert.minCheer": {
+		"message": "دقيقة. في صحتك"
+	},
+	"twitch.alert.type": {
+		"message": "النوع"
+	},
+	"twitch.alert.nameStyleAndSettings": {
+		"message": "اسم النمط والإعداد"
+	},
+	"twitch.alert.sound": {
+		"message": "صوت"
+	},
+	"twitch.alert.show_alert": {
+		"message": "معاينة"
+	},
+	"twitch.alert.hide_alert": {
+		"message": "إخفاء المعاينة"
+	},
+	"twitch.alert.test_alert": {
+		"message": "اختبار الانذار"
+	},
+	"twitch.alert.Color": {
+		"message": "الون"
+	},
+	"twitch.alert.layout": {
+		"message": "Layout"
+	}
+}

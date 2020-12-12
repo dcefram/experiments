@@ -1,0 +1,314 @@
+{
+	"toptitle": {
+		"message": "crwdns13082:0crwdne13082:0"
+	},
+	"details": {
+		"message": "crwdns13922:0crwdne13922:0"
+	},
+	"livevideo.label": {
+		"message": "crwdns12860:0crwdne12860:0"
+	},
+	"livevideo.tooltip": {
+		"message": "crwdns122382:0[br]crwdnd122382:0[br]crwdnd122382:0[br]crwdne122382:0"
+	},
+	"livevideovalues.0": {
+		"message": "crwdns12862:0crwdne12862:0"
+	},
+	"scheduledvideovalues.new": {
+		"message": "crwdns13083:0crwdne13083:0"
+	},
+	"delete": {
+		"message": "crwdns13084:0crwdne13084:0"
+	},
+	"stop": {
+		"message": "crwdns13085:0crwdne13085:0"
+	},
+	"status.label": {
+		"message": "crwdns14145:0crwdne14145:0"
+	},
+	"status.tooltip": {
+		"message": "crwdns14146:0[br]crwdnd14146:0[br]crwdnd14146:0[br]crwdnd14146:0[br]crwdne14146:0"
+	},
+	"statusvalues.scheduled": {
+		"message": "crwdns14147:0crwdne14147:0"
+	},
+	"statusvalues.live": {
+		"message": "crwdns14148:0crwdne14148:0"
+	},
+	"statusvalues.manual": {
+		"message": "crwdns14149:0crwdne14149:0"
+	},
+	"title": {
+		"message": "crwdns12812:0crwdne12812:0"
+	},
+	"description": {
+		"message": "crwdns12813:0crwdne12813:0"
+	},
+	"tags.label": {
+		"message": "crwdns12814:0crwdne12814:0"
+	},
+	"tags.tooltip": {
+		"message": "crwdns12815:0crwdne12815:0"
+	},
+	"videogame.label": {
+		"message": "crwdns14677:0crwdne14677:0"
+	},
+	"videogame.tooltip": {
+		"message": "crwdns14678:0crwdne14678:0"
+	},
+	"checkin.label": {
+		"message": "crwdns12816:0crwdne12816:0"
+	},
+	"checkin.tooltip": {
+		"message": "crwdns12817:0crwdne12817:0"
+	},
+	"privacy.label": {
+		"message": "crwdns12847:0crwdne12847:0"
+	},
+	"privacy.tooltip": {
+		"message": "crwdns12848:0crwdne12848:0"
+	},
+	"privacyvalues.EVERYONE": {
+		"message": "crwdns12819:0crwdne12819:0"
+	},
+	"privacyvalues.ALL_FRIENDS": {
+		"message": "crwdns12820:0crwdne12820:0"
+	},
+	"privacyvalues.SELF": {
+		"message": "crwdns12821:0crwdne12821:0"
+	},
+	"pageaudience.label": {
+		"message": "crwdns12822:0crwdne12822:0"
+	},
+	"pageaudience.tooltip": {
+		"message": "crwdns18080:0crwdne18080:0"
+	},
+	"locations.label": {
+		"message": "crwdns12824:0crwdne12824:0"
+	},
+	"locations.tooltip": {
+		"message": "crwdns12825:0crwdne12825:0"
+	},
+	"support.label": {
+		"message": "crwdns12857:0crwdne12857:0"
+	},
+	"support.tooltip": {
+		"message": "crwdns12832:0crwdne12832:0"
+	},
+	"manageschedule": {
+		"message": "crwdns13086:0crwdne13086:0"
+	},
+	"createschedule": {
+		"message": "crwdns12865:0crwdne12865:0"
+	},
+	"scheduledstart.label": {
+		"message": "crwdns12866:0crwdne12866:0"
+	},
+	"scheduledstart.tooltip": {
+		"message": "crwdns14292:0crwdne14292:0"
+	},
+	"customimage.label": {
+		"message": "crwdns14150:0crwdne14150:0"
+	},
+	"customimage.tooltip": {
+		"message": "crwdns14151:0crwdne14151:0"
+	},
+	"scheduleerror": {
+		"message": "crwdns12869:0crwdne12869:0"
+	},
+	"uploadimage": {
+		"message": "crwdns12870:0crwdne12870:0"
+	},
+	"deleteimage": {
+		"message": "crwdns12871:0crwdne12871:0"
+	},
+	"errormessage": {
+		"message": "crwdns14283:0crwdne14283:0"
+	},
+	"addScheduleHeader": {
+		"message": "crwdns12885:0crwdne12885:0"
+	},
+	"addSchedule": {
+		"message": "crwdns13087:0crwdne13087:0"
+	},
+	"editSchedule": {
+		"message": "crwdns13088:0crwdne13088:0"
+	},
+	"updateSchedule": {
+		"message": "crwdns12873:0crwdne12873:0"
+	},
+	"start": {
+		"message": "crwdns12833:0crwdne12833:0"
+	},
+	"resume": {
+		"message": "crwdns12887:0crwdne12887:0"
+	},
+	"ok": {
+		"message": "crwdns12874:0crwdne12874:0"
+	},
+	"cancel": {
+		"message": "crwdns12834:0crwdne12834:0"
+	},
+	"close": {
+		"message": "crwdns13924:0crwdne13924:0"
+	},
+	"loading.create": {
+		"message": "crwdns13226:0crwdne13226:0"
+	},
+	"loading.update": {
+		"message": "crwdns13227:0crwdne13227:0"
+	},
+	"youtube.liveEvent.label": {
+		"message": "crwdns14101:0crwdne14101:0"
+	},
+	"youtube.liveEvent.tooltip": {
+		"message": "crwdns160598:0[br]crwdnd160598:0[br]crwdnd160598:0[br]crwdnd160598:0[br]crwdne160598:0"
+	},
+	"youtube.tags.label": {
+		"message": "crwdns14103:0crwdne14103:0"
+	},
+	"youtube.tags.tooltip": {
+		"message": "crwdns14104:0[br]crwdnd14104:0[br]crwdne14104:0"
+	},
+	"youtube.category.label": {
+		"message": "crwdns14105:0crwdne14105:0"
+	},
+	"youtube.schedule": {
+		"message": "crwdns14106:0crwdne14106:0"
+	},
+	"youtube.noSchedule": {
+		"message": "crwdns14107:0crwdne14107:0"
+	},
+	"youtube.duration": {
+		"message": "crwdns14108:0crwdne14108:0"
+	},
+	"youtube.endSchedule": {
+		"message": "crwdns14284:0crwdne14284:0"
+	},
+	"youtube.hours": {
+		"message": "crwdns14109:0crwdne14109:0"
+	},
+	"youtube.minutes": {
+		"message": "crwdns14110:0crwdne14110:0"
+	},
+	"youtube.enable360.label": {
+		"message": "crwdns14111:0crwdne14111:0"
+	},
+	"youtube.enable360.title": {
+		"message": "crwdns14112:0crwdne14112:0"
+	},
+	"youtube.enable360.tooltip": {
+		"message": "crwdns14113:0[br]crwdnd14113:0[br]crwdne14113:0"
+	},
+	"youtube.enableLowLatency": {
+		"message": "crwdns14114:0crwdne14114:0"
+	},
+	"youtube.enableDvr": {
+		"message": "crwdns14115:0crwdne14115:0"
+	},
+	"youtube.allowEmbed": {
+		"message": "crwdns14116:0crwdne14116:0"
+	},
+	"youtube.useBackupServer": {
+		"message": "crwdns14117:0crwdne14117:0"
+	},
+	"youtube.manualTransition.label": {
+		"message": "crwdns14118:0crwdne14118:0"
+	},
+	"youtube.manualTransition.tooltip": {
+		"message": "crwdns14119:0crwdne14119:0"
+	},
+	"youtube.liveEvent.values.scheduled": {
+		"message": "crwdns14120:0%date%crwdnd14120:0%title%crwdne14120:0"
+	},
+	"youtube.liveEvent.values.liveNow": {
+		"message": "crwdns14121:0%date%crwdnd14121:0%title%crwdne14121:0"
+	},
+	"youtube.liveEvent.defaults.new": {
+		"message": "crwdns14123:0crwdne14123:0"
+	},
+	"youtube.category.values.1": {
+		"message": "crwdns14124:0crwdne14124:0"
+	},
+	"youtube.category.values.2": {
+		"message": "crwdns14125:0crwdne14125:0"
+	},
+	"youtube.category.values.10": {
+		"message": "crwdns14126:0crwdne14126:0"
+	},
+	"youtube.category.values.15": {
+		"message": "crwdns14127:0crwdne14127:0"
+	},
+	"youtube.category.values.17": {
+		"message": "crwdns14128:0crwdne14128:0"
+	},
+	"youtube.category.values.19": {
+		"message": "crwdns14129:0crwdne14129:0"
+	},
+	"youtube.category.values.20": {
+		"message": "crwdns14130:0crwdne14130:0"
+	},
+	"youtube.category.values.22": {
+		"message": "crwdns14131:0crwdne14131:0"
+	},
+	"youtube.category.values.23": {
+		"message": "crwdns14132:0crwdne14132:0"
+	},
+	"youtube.category.values.24": {
+		"message": "crwdns14133:0crwdne14133:0"
+	},
+	"youtube.category.values.25": {
+		"message": "crwdns14134:0crwdne14134:0"
+	},
+	"youtube.category.values.26": {
+		"message": "crwdns14135:0crwdne14135:0"
+	},
+	"youtube.category.values.27": {
+		"message": "crwdns14136:0crwdne14136:0"
+	},
+	"youtube.category.values.28": {
+		"message": "crwdns14137:0crwdne14137:0"
+	},
+	"youtube.category.values.29": {
+		"message": "crwdns14138:0crwdne14138:0"
+	},
+	"youtube.privacy.public": {
+		"message": "crwdns14139:0crwdne14139:0"
+	},
+	"youtube.privacy.unlisted": {
+		"message": "crwdns14140:0crwdne14140:0"
+	},
+	"youtube.privacy.private": {
+		"message": "crwdns14141:0crwdne14141:0"
+	},
+	"youtube.latency.label": {
+		"message": "crwdns14190:0crwdne14190:0"
+	},
+	"youtube.latency.tooltip": {
+		"message": "crwdns14191:0[br]crwdnd14191:0[br]crwdnd14191:0[br]crwdne14191:0"
+	},
+	"youtube.latency.values.normal": {
+		"message": "crwdns14192:0crwdne14192:0"
+	},
+	"youtube.latency.values.low": {
+		"message": "crwdns14193:0crwdne14193:0"
+	},
+	"youtube.latency.values.ultraLow": {
+		"message": "crwdns14194:0crwdne14194:0"
+	},
+	"youtube.emptyTitle": {
+		"message": "crwdns14285:0crwdne14285:0"
+	},
+	"youtube.noEndSchedule": {
+		"message": "crwdns14286:0crwdne14286:0"
+	},
+	"youtube.endScheduleInvalid": {
+		"message": "crwdns14287:0crwdne14287:0"
+	},
+	"youtube.endScheduleFuture": {
+		"message": "crwdns14288:0crwdne14288:0"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "crwdns18075:0crwdne18075:0"
+	}
+}

@@ -1,0 +1,167 @@
+{
+	"title": {
+		"message": "今天购买XSplit证书来体验更多功能"
+	},
+	"purchasePoint.header": {
+		"message": "XSplit 个人证书起价每月 $5"
+	},
+	"purchasePoint.tagLine": {
+		"message": "马上购买证书并立即体验XSplit Broadcaster功能"
+	},
+	"purchasePoint.discountTag": {
+		"message": "高达 * * 50%* * 折扣"
+	},
+	"purchasePoint.buyNow": {
+		"message": "现在购买"
+	},
+	"purchasePoint.upgradeNow": {
+		"message": "立即升级"
+	},
+	"purchasePoint.upgradeLicenseNow": {
+		"message": "现在升级你的证书!"
+	},
+	"purchasePoint.personalLicense": {
+		"message": "个人证书"
+	},
+	"purchasePoint.premiumLicense": {
+		"message": "高级证书"
+	},
+	"purchasePoint.gameSource.label": {
+		"message": "Gamesource-高性能 [br] \n游戏捕捉"
+	},
+	"purchasePoint.noWatermark.label": {
+		"message": "高分辨率无 XSplit 水印"
+	},
+	"purchasePoint.gameCard.label": {
+		"message": "Hauppauge HD PVR2/GE/GE+ [br]\n和Roxio Game Capture HD Pro"
+	},
+	"purchasePoint.encodingOffload.label": {
+		"message": "支持 NVidia® NVENC,[br]\nIntel® Quick Sync和 AMD® VCE"
+	},
+	"purchasePoint.maxFPS.label": {
+		"message": "更高的 FPS 设置"
+	},
+	"purchasePoint.projector.label": {
+		"message": "预览场景"
+	},
+	"purchasePoint.localStreaming.label": {
+		"message": "本地直播"
+	},
+	"purchasePoint.videoEditor.label": {
+		"message": "Express Video Editor"
+	},
+	"purchasePoint.streamDelay.label": {
+		"message": "直播延迟"
+	},
+	"purchasePoint.commercialUse.label": {
+		"message": "商业用途"
+	},
+	"purchasePoint.andManyMore.label": {
+		"message": "以及更多!"
+	},
+	"purchasePoint.previewEditor.label": {
+		"message": "预览编辑"
+	},
+	"purchasePoint.audioPreview.label": {
+		"message": "音频混合预览"
+	},
+	"purchasePoint.AMDVCE.label": {
+		"message": "AMD ® VCE 支持"
+	},
+	"purchasePoint.NVidiaNVENC.label": {
+		"message": "NVidia ® NVENC 支持"
+	},
+	"purchasePoint.intelQuickSync.label": {
+		"message": "Intel® Quick Sync支持"
+	},
+	"purchasePoint.gameSource.description": {
+		"message": "允许在窗口和全屏模式捕获pc游戏.XSplit游戏资源的使用几乎没有影响对游戏性能"
+	},
+	"purchasePoint.noWatermark.description": {
+		"message": "所有用户都都能够使用XSplit Broadcaster在分辨率中达到 %resolution% 并不带商标. 免费用户使用高分辨率有水印."
+	},
+	"purchasePoint.gameCard.description": {
+		"message": "这些捕获卡在XSplit Broadcaster的免费版本中不可用. 成为高级证书用户启动支持."
+	},
+	"purchasePoint.encodingOffload.description": {
+		"message": "使用您的Nvidia® NVENC, Intel® Quick Sync, 或 AMD® Video Codec Engine (VCE) 启动 CPU 转移庞大的硬件需求到您的GPU"
+	},
+	"purchasePoint.maxFPS.description": {
+		"message": "启动大于%fps%. XSplit Broadcaster甚至支持输出120FPS,确保流畅广播"
+	},
+	"purchasePoint.projector.description": {
+		"message": "XSplit Broadcaster全屏投影预览到任何现有的监视器.可用于与预览监视器的更多工作处理"
+	},
+	"purchasePoint.localStreaming.description": {
+		"message": "广播您的直播到LAN设置或将两个直播合并成一个(Vpn 跨平台工作).如果您的观众是本地观众那么忽略对互联网的上传/下载带宽的需要."
+	},
+	"purchasePoint.videoEditor.description": {
+		"message": "组装和编辑使用我们简单易懂的视频编辑器, 使你剪切和缝合在一起你的视频都来自应用程序内的录制."
+	},
+	"purchasePoint.streamDelay.description": {
+		"message": "自定义设置选择延迟你的直播,使用此项来消除直播狙击/作弊等."
+	},
+	"purchasePoint.commercialUse.description": {
+		"message": "XSplit 高级证书允许您使用软件用于盈利目的.您可以通过从第三方供应商运行广告赚钱类似您的直播服务提供商."
+	},
+	"purchasePoint.andManyMore.description": {
+		"message": "XSplit Broadcaster个人和高级证书提供更多的功能使我们可以容纳在此对话中!一些额外的功能包括一个高度灵活的虚拟摄像机输出预览到例如Skype 或其他软件.你可以使用 Skype的视频源作为输入捕获和直播视频通话.若要查看完整列表,请访问我们的网站 [www.xsplit.com](https://xsplit.com/broadcaster)."
+	},
+	"purchasePoint.previewEditor.description": {
+		"message": "直播时编辑任何场景.选择加载或保存的场景,并应用或者放弃对你的直播的更改."
+	},
+	"purchasePoint.audioPreview.description": {
+		"message": "此功能使您可以监视您的输出音频-你的观众会听到一样的音频."
+	},
+	"purchasePoint.paymentMethods": {
+		"message": "接受以下付款方式:"
+	},
+	"purchasePoint.visitOurWebsite": {
+		"message": "请访问我们 [website](https://xspl.it/bc/website)阅读更多有关产品功能."
+	},
+	"purchasePoint.getTwo.header": {
+		"message": "翻倍!你会得到两种产品!"
+	},
+	"purchasePoint.getTwo.description": {
+		"message": "一个XSplit证书可同时在 XSplit Broadcaster和XSplit Gamecaster使用. [Read more](https://xsplit.com)"
+	},
+	"purchasePoint.doNotShow": {
+		"message": "不再提醒"
+	},
+	"purchasePoint.wait": {
+		"message": "等待... %count%"
+	},
+	"purchasePoint.continue": {
+		"message": "继续"
+	},
+	"purchasePoint.maybeLater": {
+		"message": "稍等片刻"
+	},
+	"purchasePoint.licenseAgreement": {
+		"message": "通过单击 * * 继续 * * 按钮,证明我已经阅读,理解并同意 [XSplit License Agreement](https://www.xsplit.com/terms) 中规定的条款."
+	},
+	"purchasePoint.advertisment.label": {
+		"message": "Friends of XSplit"
+	},
+	"purchasePoint.advertisment.paid.label": {
+		"message": "欢迎来到 XSplit"
+	},
+	"purchasePoint.buyxsplitnow": {
+		"message": "XSplit 个人证书起价每月 $5"
+	},
+	"purchasePoint.newsandupdates": {
+		"message": "COMMUNITY NEWS AND UPDATES"
+	},
+	"purchasePoint.news.previous": {
+		"message": "[Previous](previousClick)"
+	},
+	"purchasePoint.news.next": {
+		"message": "[Next](nextClick)"
+	},
+	"purchasePoint.tutorials": {
+		"message": "XSplit Tutorials"
+	},
+	"purchasePoint.upgrade": {
+		"message": "升级"
+	}
+}

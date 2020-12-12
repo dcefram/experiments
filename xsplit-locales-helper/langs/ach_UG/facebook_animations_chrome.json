@@ -1,0 +1,110 @@
+{
+  "title.source": {
+    "message": "crwdns14741:0crwdne14741:0"
+  },
+  "subtitle.account": {
+    "message": "crwdns14742:0crwdne14742:0"
+  },
+  "link.authorize": {
+    "message": "crwdns14743:0crwdne14743:0"
+  },
+  "authenticate.switch": {
+    "message": "crwdns14842:0%user%crwdne14842:0"
+  },
+  "authenticate.remove": {
+    "message": "crwdns14843:0%user%crwdne14843:0"
+  },
+  "subtitle2.authorize.error": {
+    "message": "crwdns14746:0crwdne14746:0"
+  },
+  "subtitle.source": {
+    "message": "crwdns14747:0crwdne14747:0"
+  },
+  "source.values.automatic": {
+    "message": "crwdns14748:0crwdne14748:0"
+  },
+  "chat.reaction.not_connected": {
+    "message": "crwdns14780:0crwdne14780:0"
+  },
+  "chat.comment.not_connected": {
+    "message": "crwdns14781:0crwdne14781:0"
+  },
+  "chat.connected": {
+    "message": "crwdns14782:0crwdne14782:0"
+  },
+  "title.display": {
+    "message": "crwdns14750:0crwdne14750:0"
+  },
+  "help.display.title": {
+    "message": "crwdns14751:0crwdne14751:0"
+  },
+  "help.display.text": {
+    "message": "crwdns14752:0[br]crwdnd14752:0[br]crwdnd14752:0[br]crwdne14752:0"
+  },
+  "animation.text": {
+    "message": "crwdns14753:0crwdne14753:0"
+  },
+  "label.streamprops": {
+    "message": "crwdns14754:0crwdne14754:0"
+  },
+  "button.reset": {
+    "message": "crwdns14755:0crwdne14755:0"
+  },
+  "label.direction": {
+    "message": "crwdns14756:0crwdne14756:0"
+  },
+  "label.time": {
+    "message": "crwdns14757:0crwdne14757:0"
+  },
+  "label.seconds": {
+    "message": "crwdns14758:0crwdne14758:0"
+  },
+  "label.timevariation": {
+    "message": "crwdns14759:0crwdne14759:0"
+  },
+  "label.emoji.size": {
+    "message": "crwdns14760:0crwdne14760:0"
+  },
+  "label.pixels": {
+    "message": "crwdns14761:0crwdne14761:0"
+  },
+  "label.sizevariation": {
+    "message": "crwdns14762:0crwdne14762:0"
+  },
+  "label.hide_connection_message": {
+    "message": "crwdns63954:0crwdne63954:0"
+  },
+  "button.preview": {
+    "message": "crwdns14763:0crwdne14763:0"
+  },
+  "animation.types.stream": {
+    "message": "crwdns14764:0crwdne14764:0"
+  },
+  "animation.types.pop": {
+    "message": "crwdns14765:0crwdne14765:0"
+  },
+  "stream.directions.leftToRight": {
+    "message": "crwdns14766:0crwdne14766:0"
+  },
+  "stream.directions.topToBottom": {
+    "message": "crwdns14767:0crwdne14767:0"
+  },
+  "stream.directions.rightToLeft": {
+    "message": "crwdns14768:0crwdne14768:0"
+  },
+  "stream.directions.bottomToTop": {
+    "message": "crwdns14769:0crwdne14769:0"
+  },
+  "tabheader.title": {
+    "message": "crwdns14770:0crwdne14770:0"
+  },
+  "label.not_seeing_videos": {
+    "message": "crwdns79210:0crwdne79210:0"
+  },
+  "label.not_seeing_videos_help": {
+    "message": "crwdns81458:0crwdne81458:0"
+  },
+  "label.not_seeing_videos_link": {
+    "message": "crwdns79214:0crwdne79214:0"
+  }
+}

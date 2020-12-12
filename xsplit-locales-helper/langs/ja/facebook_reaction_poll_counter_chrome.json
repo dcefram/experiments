@@ -1,0 +1,80 @@
+{
+  "facebook.reactions.counter.tabheader": {
+    "message": "リアクション"
+  },
+  "facebook.reactions.counter.source": {
+    "message": "ソース"
+  },
+  "facebook.reactions.counter.account": {
+    "message": "アカウント"
+  },
+  "facebook.reactions.counter.automatic": {
+    "message": "自動"
+  },
+  "facebook.reactions.counter.authorize": {
+    "message": "XSplitに対してFacebook Liveの使用を許可します。"
+  },
+  "facebook.reactions.counter.remove_authorization": {
+    "message": "**%api%** 認証取り消し"
+  },
+  "facebook.reactions.counter.switch_account": {
+    "message": "**%api%** アカウントを切り替える"
+  },
+  "facebook.reactions.counter.error_auth": {
+    "message": "XSplitが要求している権限を許可させる為、もう一度認証を行ってください。"
+  },
+  "facebook.reactions.counter.not_connected": {
+    "message": "配信が始まると自動的にリアクションが読み込まれます"
+  },
+  "facebook.reactions.counter.connected": {
+    "message": "接続しました。"
+  },
+  "facebook.reactions.counter.display": {
+    "message": "ディスプレイ"
+  },
+  "facebook.reactions.counter.lock_components": {
+    "message": "ロックコンポーネント"
+  },
+  "facebook.reactions.counter.lock_components_text": {
+    "message": "このオプションを有効にするとコンポーネントのマウスホバー、位置調整、サイズ変更などが出来なくなります。 [br][br]  特に配信中やレコーディング中にこれらの機能を無効にしたい場合はこのオプションを有効にしてください。"
+  },
+  "facebook.reactions.counter.type": {
+    "message": "種類"
+  },
+  "facebook.reactions.counter.show_reactions_labels": {
+    "message": "リアクションとラベルを表示する"
+  },
+  "facebook.reactions.counter.reset": {
+    "message": "リセット"
+  },
+  "facebook.reactions.counter.counter_background": {
+    "message": "カウンターBG"
+  },
+  "facebook.reactions.counter.opacity": {
+    "message": "透明度"
+  },
+  "facebook.reactions.counter.counter": {
+    "message": "カウンター"
+  },
+  "facebook.reactions.counter.label": {
+    "message": "ラベル"
+  },
+  "facebook.reactions.counter.dropdown.type.poll": {
+    "message": "リアクション統計"
+  },
+  "facebook.reactions.counter.dropdown.type.counter": {
+    "message": "リアクションカウンター"
+  },
+  "facebook.reactions.hide_connection_message": {
+    "message": "接続メッセージを非表示にする"
+  },
+  "facebook.reactions.not_seeing_videos": {
+    "message": "ライブ映像が表示されておりませんか？"
+  },
+  "facebook.reactions.not_seeing_videos_help": {
+    "message": "あなたのページへアクセスする許可がない可能性があります。"
+  },
+  "facebook.reactions.not_seeing_videos_link": {
+    "message": "こちらをクリックし、再承認を行ってください"
+  }
+}

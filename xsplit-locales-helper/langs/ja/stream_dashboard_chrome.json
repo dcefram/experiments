@@ -1,0 +1,38 @@
+{
+  "streamDashBoard.offline": {
+    "message": "OFFLINE"
+  },
+  "streamDashBoard.live": {
+    "message": "LIVE"
+  },
+  "streamDashBoard.chat_empty": {
+    "message": "Nothing here yet. <br /> Start a stream and we'll pipe in messages as they come in."
+  },
+  "streamDashBoard.stream_empty": {
+    "message": "It's empty here. <br />Set up a broadcast output and we'll show your channel's dashboard here."
+  },
+  "streamDashBoard.event_empty": {
+    "message": "Nothing here yet. <br /> Start a stream and we'll let you know about events as they happen."
+  },
+  "streamDashBoard.streaming_to": {
+    "message": "Streaming To"
+  },
+  "streamDashBoard.stats": {
+    "message": "Stats"
+  },
+  "streamDashBoard.viewers": {
+    "message": "Viewers:"
+  },
+  "streamDashBoard.running_time": {
+    "message": "Running Time"
+  },
+  "streamDashBoard.resolution": {
+    "message": "Resolution/FPS"
+  },
+  "streamDashBoard.bitrate": {
+    "message": "Bitrate"
+  },
+  "streamDashBoard.dropped_frames": {
+    "message": "Dropped Frames"
+  }
+}

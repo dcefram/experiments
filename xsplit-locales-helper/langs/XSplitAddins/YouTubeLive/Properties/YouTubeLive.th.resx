@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="NoAuthenticationExists" xml:space="preserve">
+    <value>ไม่พบโทเค็นการเข้าถึง โปรดทำการยืนยันใหม่อีกครั้ง
+ถ้ายังพบปัญหากรุณาติดต่อฝ่ายสนับสนุน</value>
+  </data>
+  <data name="msgAuthExpiredOrInvalid" xml:space="preserve">
+    <value>ไม่พบโทเค็นการเข้าถึง, หมดอายุ, หรือไม่ถูกต้อง โปรดทำการยืนยันใหม่อีกครั้ง</value>
+  </data>
+  <data name="cbBackupServer_Tooltip" xml:space="preserve">
+    <value>เลือกจะสตรีมไปที่ใดระหว่างเซิร์ฟเวอร์ค่าตั้งต้นหรือตัวแบ็คอัพ ถ้าคุณพบปัญหาเกี่ยวกับเซิร์ฟเวอร์โปรดลองใหม่อีกครั้ง</value>
+  </data>
+  <data name="msgLicenseOffer_StartStream" xml:space="preserve">
+    <value>{0} ไม่ได้ให้บริการฟรีเป็นสาธารณะ การสตรีมไปยัง {0} จึงให้บริการเฉพาะกับผู้ใช้ที่มีสิทธิ์การใช้งานเท่านั้น
+
+อัพเกรดสิทธิ์การใช้งานของคุณตอนนี้?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="lblLiveUsername" xml:space="preserve">
+    <value>ไอดี:</value>
+  </data>
+  <data name="msgNotAllowedToReconfigureVec" xml:space="preserve">
+    <value>ไม่อนุญาตให้ปรับการตั้งค่าของการเข้ารหัสของวิดีโออื่นระหว่างทำการไลฟ์สตรีม</value>
+  </data>
+  <data name="msgAdjustmentTitle" xml:space="preserve">
+    <value>ปรับความเข้ากันได้ของ Youtube Live</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>เกิดข้อผิดพลาดของการสื่อสารกับ YouTube Live.</value>
+  </data>
+  <data name="msgCategoryIsEmpty" xml:space="preserve">
+    <value>ต้องระบุประเภท</value>
+  </data>
+  <data name="msgDescriptionHasInvalidChars" xml:space="preserve">
+    <value>รายละเอียดไม่สามารถมีตัวอักษร '&lt;' และ '&gt;' ได้</value>
+  </data>
+  <data name="msgDescriptionMaxLength" xml:space="preserve">
+    <value>รายละเอียดไม่สามารถมีเกิน 5000 ตัวอักษรได้ (ปัจจุบันอยู่ที {0} ตัวอักษร)</value>
+  </data>
+  <data name="msgEmailAddressIsInvalid" xml:space="preserve">
+    <value>โปรดป้อนที่อยู่อีเมล์ให้ถูกต้อง</value>
+  </data>
+  <data name="msgEndContinuousLiveVideo" xml:space="preserve">
+    <value>คุณหยุดการสตรีมไปยัง YouTube Live 
+  คุณต้องการที่จะหยุดไลฟ์นี้ด้วยเลยหรือไม่</value>
+  </data>
+  <data name="msgNotAuthenticated" xml:space="preserve">
+    <value>โปรดอนุญาตผู้ใช้งานก่อนเป็นอันดับแรก</value>
+  </data>
+  <data name="msgStageFramerateAdjusted" xml:space="preserve">
+    <value>เฟรมเรตของคุณถูกปรับเป็น {0} FPS</value>
+  </data>
+  <data name="msgStageFramerateNotAdjusted" xml:space="preserve">
+    <value>ไม่สามารถปรับเฟรมเรตได้เนื่องจากกำลังสตรีมไปยังแชนเนลอื่นอยู่ คุณอาจจะพบปัญหากับสตรีมของคุณได้</value>
+  </data>
+  <data name="msgStageResolutionAdjusted" xml:space="preserve">
+    <value>ความละเอียดของสเตจของคุณถูกเปลี่ยนเป็น {0}p</value>
+  </data>
+  <data name="msgStageResolutionAdjusted1" xml:space="preserve">
+    <value>ความละเอียดของสเตจของคุณถูกเปลี่ยนเป็น {0}p เพื่อให้ตรงกับความละเอียดของอีเว้นท์</value>
+  </data>
+  <data name="msgStreamResolutionAdjusted" xml:space="preserve">
+    <value>ความละเอียดของบรอดแคสต์ของคุณถูกเปลี่ยนเป็น {0}p</value>
+  </data>
+  <data name="msgStreamResolutionAdjusted1" xml:space="preserve">
+    <value>ความละเอียดของบรอดแคสต์ของคุณถูกเปลี่ยนเป็น {0}p เพื่อให้ตรงกับความละเอียดของอีเว้นท์</value>
+  </data>
+  <data name="msgStreamResolutionAdjustedXbc5003" xml:space="preserve">
+    <value>ความละเอียดของเอาต์พุตของคุณถูกเปลี่ยนเป็น {0}p</value>
+  </data>
+  <data name="msgStreamResolutionAdjusted1Xbc5003" xml:space="preserve">
+    <value>ความละเอียดของเอาต์พุตของคุณถูกเปลี่ยนเป็น {0}p เพื่อให้ตรงกับความละเอียดของอีเว้นท์</value>
+  </data>
+  <data name="msgTagMaxLength" xml:space="preserve">
+    <value>แท็ก '{0}' เกินข้อกำหนด 100 ตัวอักษรของ Youtube</value>
+  </data>
+  <data name="msgTagsHasInvalidChars" xml:space="preserve">
+    <value>แท็กไม่สามารถมีตัวอักษร '&lt;' และ '&gt;' ได้</value>
+  </data>
+  <data name="msgTagsMaxLength" xml:space="preserve">
+    <value>จำนวนตัวอักษรของแท็กทั้งหมดต้องไม่เกิน 500 ตัวอักษร (ปัจจุบันอยู่ที {0} ตัวอักษร)</value>
+  </data>
+  <data name="msgTitleHasInvalidChars" xml:space="preserve">
+    <value>ไตเติ้ลไม่สามารถมีตัวอักษร '&lt;' และ '&gt;' ได้</value>
+  </data>
+  <data name="msgTitleIsEmpty" xml:space="preserve">
+    <value>จำเป็นต้องป้อนไตเติ้ล</value>
+  </data>
+  <data name="msgTitleMaxLength" xml:space="preserve">
+    <value>ไตเติ้ลไม่สามารถมีเกิน 100 ตัวอักษรได้ (ปัจจุบันอยู่ที {0} ตัวอักษร)</value>
+  </data>
+  <data name="msgTOSNotAccepted" xml:space="preserve">
+    <value>คุณยังไม่ได้รับข้อตกลงเงื่อนไขการให้บริการของ YouTube Live
+
+โปรดคลิ๊ก [ที่นี่](https://xspl.it/ytltos) เพื่อยอมรับเงื่อนไขและเริ่มต้นการรับรองการใช้งานอีกครั้งเมื่อคุณพร้อม</value>
+  </data>
+  <data name="msgVideoBitrateAdjusted" xml:space="preserve">
+    <value>บิตเรทเของคุณถูกปรับเป็น {0} Fps</value>
+  </data>
+  <data name="txtTags_Tooltip" xml:space="preserve">
+    <value>ใช้คอมม่าเพื่อแบ่งแท็ก</value>
+  </data>
+  <data name="msgAPIError1" xml:space="preserve">
+    <value>มีข้อผิดพลาดในการสื่อสารกับเซิร์ฟเวอร์ของ YouTube Live อาจจะเป็นปัญหาเน็ตเวิร์คหรือคุณอาจจะไม่สามารถเข้าถึง YouTube Live ได้</value>
+  </data>
+  <data name="msgBelowMinBitrate" xml:space="preserve">
+    <value>คุณตั้งบิตเรทเป็น {0} การตั้งนี้ตั้งกว่าขั้นต่ำที่ Youtube แนะนำบิตเรทของ {1} สำหรับ{2} โปรดอ้างอิงถึงการช่วยเหลือที่ไอค่อน (?)</value>
+  </data>
+  <data name="lblNote" xml:space="preserve">
+    <value>หมายเหตุ: การตั้งค่าการเข้ารหัสบางตัวอาจถูกปิดไว้เพื่อความเข้ากันได้กับ YouTube Live</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>มีปัญหากับการสตรีมไปยัง Youtube? มาเริ่มต้นเรียกไปด้วยกันได้ที่นี่</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="cbDetails" xml:space="preserve">
+    <value>ตั้งรายละเอียดก่อนการบรอดแคสต์ทุกครั้ง</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="msgDailyLimitExceeded" xml:space="preserve">
+    <value>ข้อจำกัดรายวันของ API ของ Youtube เกินลิมิตแล้ว โควต้านี้จะรีเซ็ตตอนเที่ยงคืนของเวลาแปซิฟิค (PT)</value>
+  </data>
+  <data name="msgAPIError2" xml:space="preserve">
+    <value>พบข้อผิดพลาดของ Youtube API</value>
+  </data>
+  <data name="frmYouTubeLive" xml:space="preserve">
+    <value>คุณสมบัติ YouTube Live</value>
+  </data>
+  <data name="lblEvents" xml:space="preserve">
+    <value>อีเว้นท์:</value>
+  </data>
+  <data name="btnStartBroadcast" xml:space="preserve">
+    <value>เริ่มบรอดแคสต์</value>
+  </data>
+  <data name="cbAllowEmbed" xml:space="preserve">
+    <value>อนุญาตการฝัง</value>
+  </data>
+  <data name="cbBackupServer" xml:space="preserve">
+    <value>ใช้เซิร์ฟเวอร์สำรอง</value>
+  </data>
+  <data name="cbEnableDvr" xml:space="preserve">
+    <value>เปิดการใช้ DVR</value>
+  </data>
+  <data name="cbEnableLowLat" xml:space="preserve">
+    <value>เปิดใช้งาน Low latency</value>
+  </data>
+  <data name="cbRecordFromStart" xml:space="preserve">
+    <value>บันทึกตั้งแต่เริ่ม</value>
+  </data>
+  <data name="lblCategory" xml:space="preserve">
+    <value>หมวดหมู่:</value>
+  </data>
+  <data name="lblDescription" xml:space="preserve">
+    <value>รายละเอียด:</value>
+  </data>
+  <data name="lblDuration" xml:space="preserve">
+    <value>ระยะเวลา:</value>
+  </data>
+  <data name="lblHrs" xml:space="preserve">
+    <value>ชม.</value>
+  </data>
+  <data name="lblLiveEvent" xml:space="preserve">
+    <value>ไลฟ์:{0:d} - {1}</value>
+  </data>
+  <data name="lblMin" xml:space="preserve">
+    <value>นาที</value>
+  </data>
+  <data name="lblNewLiveEvent" xml:space="preserve">
+    <value>สร้างไลฟ์อีเว้นท์ใหม่</value>
+  </data>
+  <data name="lblPrivacy" xml:space="preserve">
+    <value>ส่วนตัว:</value>
+  </data>
+  <data name="lblScheduledLiveEvent" xml:space="preserve">
+    <value>ตารางเวลา:{0:d} - {1}</value>
+  </data>
+  <data name="lblStreamNow" xml:space="preserve">
+    <value>สตรีมตอนนี้</value>
+  </data>
+  <data name="lblTags" xml:space="preserve">
+    <value>แท็ก:</value>
+  </data>
+  <data name="lblTitle" xml:space="preserve">
+    <value>ไตเติ้ล:</value>
+  </data>
+  <data name="lblStreamNowHasNoSchedule" xml:space="preserve">
+    <value>สตรีมตอนนี้โดนไม่มีตารางเวลา</value>
+  </data>
+  <data name="lblLiveEventHasNoEndTime" xml:space="preserve">
+    <value>ไม่มีเวลาจบ</value>
+  </data>
+  <data name="cbManualTransition" xml:space="preserve">
+    <value>เปลี่ยนแบบกำหนดเอง</value>
+  </data>
+  <data name="cbManualTransition_Tooltip" xml:space="preserve">
+    <value>เลือกตัวเลือกนี้เพื่อที่จะบังคับสถานะของคุณในการบรอดแคสต์ของคุณจากคอนโทรลพาเนลของ Youtube Live 
+ถ้าไม่เลือก XSplit จะทำการเปลี่ยนสถานะเป็น "ไลฟ์" โดยอัตโนมัติเมื่อคุณเริ่มทำการบรอดแคสต์ 
+และให้ตัวเลือกเป็นการ "เสร็จสิ้น" หลังจากหยุดการบรอดแคสต์แล้ว</value>
+  </data>
+  <data name="cbManualTransitionDisabled_Tooltip" xml:space="preserve">
+    <value>การตรวจสอบสตรีมถูกยกเลิกสำหรับอีเวนต์นี้ การเปลี่ยนแบบทำด้วยตัวเองไม่สามารถทำได้</value>
+  </data>
+  <data name="cbManualTransitionDisabledForDefaultStream_Tooltip" xml:space="preserve">
+    <value>การเปลี่ยนด้วยตัวเองไม่สามารถทำได้กับอีเวนต์นี้</value>
+  </data>
+  <data name="msgStreamNowIsMissing" xml:space="preserve">
+    <value>สตีรมที่เป็นค่าเริ่มต้น(สตรีมตอนนี้) ใน Youtube แชนแนลของคุณไม่ได้มีการตั้งค่าไว้
+โปรดไปที่ [แผงควบคุมการไลฟ์สตรีม](https://xspl.it/ytldashboard) ของคุณ หรือ โปรดติดต่อฝ่ายช่วยเหลือของ Youtube live</value>
+  </data>
+  <data name="msgStreamNowIsMissingUseAdhoc" xml:space="preserve">
+    <value>สตีรมที่เป็นค่าเริ่มต้น(สตรีมตอนนี้) ใน Youtube แชนแนลของคุณไม่ได้มีการตั้งค่าไว้
+โปรดไปที่ [แผงควบคุมการไลฟ์สตรีม](https://xspl.it/ytldashboard) ของคุณ หรือ โปรดติดต่อฝ่ายช่วยเหลือของ Youtube live
+ดำเนินการต่อด้วยการเริ่มต้นไลฟ์อีเวนต์ใหม่หรือไม่</value>
+  </data>
+  <data name="msgUltraLowLatencyResolutionDownscale" xml:space="preserve">
+    <value>การตั้งค่าแบบ อัลตราโลว์ latency นั้นไม่สนับสนุนการใช้งานแบบ 1440p หรือสูงกกว่า
+เอ้าท์พุตความละเอียดของคุณถูกเปลี่ยนเป็น 1080p</value>
+  </data>
+  <data name="lblAuthorize" xml:space="preserve">
+    <value>เชื่อมต่อ Xsplit เพื่อใช้ {0}</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>ถอนการอนุญาต</value>
+  </data>
+  <data name="lblSwitchAccount" xml:space="preserve">
+    <value>สลับบัญชี</value>
+  </data>
+</root>

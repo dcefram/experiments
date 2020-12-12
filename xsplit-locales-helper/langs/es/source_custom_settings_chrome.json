@@ -1,0 +1,83 @@
+{
+	"button.ok": {
+		"message": "OK"
+	},
+	"button.cancel": {
+		"message": "Cancelar"
+	},
+	"button.browse": {
+		"message": "Buscar..."
+	},
+	"resolution.width": {
+		"message": "Anchura"
+	},
+	"resolution.height": {
+		"message": "Altura"
+	},
+	"resolution.desc": {
+		"message": "Descripción"
+	},
+	"framerate.fps": {
+		"message": "FPS"
+	},
+	"rtsp.webpage.header": {
+		"message": "Escriba la dirección URL o haga clic en examinar para seleccionar un archivo HTML."
+	},
+	"rtsp.url": {
+		"message": "URL"
+	},
+	"rtsp.protocol.label": {
+		"message": "Protocolo"
+	},
+	"rtsp.protocol2.label": {
+		"message": "PROTOCOLO"
+	},
+	"rtsp.protocol.tooltip": {
+		"message": "Establece el nivel de bajo protocol de transporte RTSP.[br][br] Se usted vea tartamudeo o desincronización, tratar de cambiar el protocolo de TCP a UDP. Si bloqueado por un firewall, tratar de establecer el protocolo HTTP."
+	},
+	"rtsp.protocoldd.values.tcp": {
+		"message": "TCP"
+	},
+	"rtsp.protocoldd.values.udp": {
+		"message": "UDP"
+	},
+	"rtsp.protocoldd.values.http": {
+		"message": "HTTP"
+	},
+	"rtsp.protocoldd.values.custom": {
+		"message": "Personalizado"
+	},
+	"rtmp.url": {
+		"message": "URL"
+	},
+	"rtmp.streamName": {
+		"message": "Nombre del Stream"
+	},
+	"rtmp.buffer": {
+		"message": "Buffer (seg)"
+	},
+	"script_plugin.header": {
+		"message": "Escribe la URL o haz clic en buscar para seleccionar un archivo HTML o PLG."
+	},
+	"locationCaption": {
+		"message": "Selecciona ubicación para extraer los archivos **%location%**."
+	},
+	"locationLabel": {
+		"message": "Ubicación"
+	},
+	"easingLabel": {
+		"message": "Suavizar"
+	},
+	"easing.none": {
+		"message": "Ninguno"
+	},
+	"easing.in": {
+		"message": "Entrada"
+	},
+	"easing.out": {
+		"message": "Salida"
+	},
+	"easing.inout": {
+		"message": "Entrada/Salida"
+	}
+}

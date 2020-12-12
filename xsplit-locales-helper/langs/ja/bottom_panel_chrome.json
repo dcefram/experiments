@@ -1,0 +1,89 @@
+{
+  "scene_label": {
+    "message": "現在のシーン"
+  },
+  "add_source": {
+    "message": "Add Source"
+  },
+  "copy": {
+    "message": "コピー"
+  },
+  "paste": {
+    "message": "ペースト"
+  },
+  "remove": {
+    "message": "削除"
+  },
+  "rename": {
+    "message": "リネーム"
+  },
+  "settings": {
+    "message": "セッティング"
+  },
+  "group": {
+    "message": "Group Sources"
+  },
+  "lock": {
+    "message": "ポジションを固定する"
+  },
+  "fit": {
+    "message": "Fit to Screen"
+  },
+  "restore": {
+    "message": "デフォルトに戻す"
+  },
+  "move_up": {
+    "message": "ソースを上に移動します"
+  },
+  "move_down": {
+    "message": "ソースを下に移動します"
+  },
+  "mute_mic": {
+    "message": "Mutes/Unmutes Default Microphone"
+  },
+  "mute_spk": {
+    "message": "Mutes/Unmutes Default Speakers"
+  },
+  "open_mixer": {
+    "message": "Open Audio Mixer"
+  },
+  "transition_label": {
+    "message": "切り替え(&T)"
+  },
+  "transition_menu": {
+    "message": "トランジション効果と速度を設定する"
+  },
+  "add_favorite": {
+    "message": "Set selected transition to favorite"
+  },
+  "open_favorite": {
+    "message": "お気に入りトランジションを開く"
+  },
+  "push_live": {
+    "message": "ライブにする"
+  },
+  "push_live_menu": {
+    "message": "Push Live Menu"
+  },
+  "stream": {
+    "message": "ストリーミング"
+  },
+  "record": {
+    "message": "レコード"
+  },
+  "pause_recording": {
+    "message": "Pause Recording"
+  },
+  "resume_recording": {
+    "message": "Resume Recording"
+  },
+  "screenshot": {
+    "message": "Screenshot"
+  },
+  "empty_channel": {
+    "message": "There seems to be nothing here.<br/><br/>Click on the stream button to set up your first Streaming output."
+  },
+  "empty_list": {
+    "message": "It's pretty empty here.<br/>Click the button below to add your first source."
+  }
+}

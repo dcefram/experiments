@@ -1,0 +1,80 @@
+{
+  "facebook.reactions.counter.tabheader": {
+    "message": "Отклики"
+  },
+  "facebook.reactions.counter.source": {
+    "message": "Источник"
+  },
+  "facebook.reactions.counter.account": {
+    "message": "Учетная запись"
+  },
+  "facebook.reactions.counter.automatic": {
+    "message": "Автоматически"
+  },
+  "facebook.reactions.counter.authorize": {
+    "message": "Разрешите XSplit использовать Facebook Live"
+  },
+  "facebook.reactions.counter.remove_authorization": {
+    "message": "**%api%** Отозвать авторизацию"
+  },
+  "facebook.reactions.counter.switch_account": {
+    "message": "**%api%** Сменить учетную запись"
+  },
+  "facebook.reactions.counter.error_auth": {
+    "message": "Пожалуйста, попробуйте авторизоваться ещё раз и предоставить доступ для всех разрешений, необходимых для успешного функционирования XSplit"
+  },
+  "facebook.reactions.counter.not_connected": {
+    "message": "Отклики будут загружаться автоматически как только трансляция станет активна"
+  },
+  "facebook.reactions.counter.connected": {
+    "message": "Подключен"
+  },
+  "facebook.reactions.counter.display": {
+    "message": "Дисплей"
+  },
+  "facebook.reactions.counter.lock_components": {
+    "message": "Заблокированные компоненты"
+  },
+  "facebook.reactions.counter.lock_components_text": {
+    "message": "Активация этого параметра отключит реакцию на наведение указателя мыши, перемещение и изменение размеров компонентов.[br][br]Активируйте этот параметр, если вы не хотите отображать эффекты при наведении на компоненты, особенно во время трансляции или записи."
+  },
+  "facebook.reactions.counter.type": {
+    "message": "По типу"
+  },
+  "facebook.reactions.counter.show_reactions_labels": {
+    "message": "Показывать отклики и метки"
+  },
+  "facebook.reactions.counter.reset": {
+    "message": "Сбросить"
+  },
+  "facebook.reactions.counter.counter_background": {
+    "message": "Фон счётчика эмодзи"
+  },
+  "facebook.reactions.counter.opacity": {
+    "message": "Прозрачность"
+  },
+  "facebook.reactions.counter.counter": {
+    "message": "Счетчик"
+  },
+  "facebook.reactions.counter.label": {
+    "message": "Метка"
+  },
+  "facebook.reactions.counter.dropdown.type.poll": {
+    "message": "Опрос"
+  },
+  "facebook.reactions.counter.dropdown.type.counter": {
+    "message": "Счётчик откликов"
+  },
+  "facebook.reactions.hide_connection_message": {
+    "message": "Скрыть сообщения о процессе соединения"
+  },
+  "facebook.reactions.not_seeing_videos": {
+    "message": "Не видите своё онлайн видео?"
+  },
+  "facebook.reactions.not_seeing_videos_help": {
+    "message": "У нас может не быть разрешения на доступ к некоторым онлайн видео с вашей страницы."
+  },
+  "facebook.reactions.not_seeing_videos_link": {
+    "message": "Нажмите сюда, чтобы авторизоваться повторно"
+  }
+}

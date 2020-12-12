@@ -1,0 +1,68 @@
+{
+  "gamepad.tabheader": {
+    "message": "Gamepad Visualizer"
+  },
+  "gamepad.source": {
+    "message": "ซอส"
+  },
+  "gamepad.device": {
+    "message": "อุปกรณ์"
+  },
+  "gamepad.no_device": {
+    "message": "ไม่ได้เลือกอุปกรณ์"
+  },
+  "gamepad.appearance": {
+    "message": "รูปร่าง"
+  },
+  "gamepad.joystick_input": {
+    "message": "ใส่อุปกรณ์จอย"
+  },
+  "gamepad.face_buttons": {
+    "message": "ปุ่มพื้นผิว"
+  },
+  "gamepad.remap_inputs": {
+    "message": "ปรับแต่งปุ่ม"
+  },
+  "gamepad.cancel_remap": {
+    "message": "ยกเลิกปรับแต่ง"
+  },
+  "gamepad.reset_default": {
+    "message": "คืนค่าเริ่มต้น"
+  },
+  "gamepad.reset": {
+    "message": "รีเซ็ต"
+  },
+  "gamepad.skin": {
+    "message": "สกิน"
+  },
+  "gamepad.joystick_color_light": {
+    "message": "แสง"
+  },
+  "gamepad.joystick_color_dark": {
+    "message": "โทนมืด"
+  },
+  "gamepad.skin_ms_style": {
+    "message": "Gamepad รูปแบบ MS"
+  },
+  "gamepad.skin_ps_style": {
+    "message": "Gamepad รูปแบบ PS"
+  },
+  "gamepad.skin_8_button": {
+    "message": "คันโยกอาร์เคต 8 ปุ่ม"
+  },
+  "gamepad.skin_6_button": {
+    "message": "คันโยกอาร์เคต 6 ปุ่ม"
+  },
+  "gamepad.skin_hitbox": {
+    "message": "กล่องคันโยกอาร์เคต"
+  },
+  "gamepad.skin_wasd": {
+    "message": "คันโยกอาร์เคต WASD"
+  },
+  "gamepad.waiting_for_input": {
+    "message": "กำลังรอการใส่"
+  },
+  "gamepad.press_any_button": {
+    "message": "โปรดกดปุ่มใดๆบนเครื่องควบคุมคุณ"
+  }
+}

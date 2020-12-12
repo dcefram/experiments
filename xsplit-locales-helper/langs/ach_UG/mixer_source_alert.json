@@ -1,0 +1,95 @@
+{
+	"mixer_source_alert.source": {
+		"message": "crwdns86158:0crwdne86158:0"
+	},
+	"mixer_source_alert.not_connected": {
+		"message": "crwdns86160:0crwdne86160:0"
+	},
+	"mixer_source_alert.channel": {
+		"message": "crwdns86162:0crwdne86162:0"
+	},
+	"mixer_source_alert.connect": {
+		"message": "crwdns86164:0crwdne86164:0"
+	},
+	"mixer_source_alert.invalid_channel": {
+		"message": "crwdns86166:0crwdne86166:0"
+	},
+	"mixer_source_alert.alertLabel": {
+		"message": "crwdns86168:0crwdne86168:0"
+	},
+	"mixer_source_alert.type": {
+		"message": "crwdns86170:0crwdne86170:0"
+	},
+	"mixer_source_alert.theme": {
+		"message": "crwdns86172:0crwdne86172:0"
+	},
+	"mixer_source_alert.color": {
+		"message": "crwdns86174:0crwdne86174:0"
+	},
+	"mixer_source_alert.layout": {
+		"message": "crwdns86176:0crwdne86176:0"
+	},
+	"mixer_source_alert.animation_text": {
+		"message": "crwdns86178:0crwdne86178:0"
+	},
+	"mixer_source_alert.duration": {
+		"message": "crwdns86180:0crwdne86180:0"
+	},
+	"mixer_source_alert.delay": {
+		"message": "crwdns98998:0crwdne98998:0"
+	},
+	"mixer_source_alert.animateIn": {
+		"message": "crwdns86184:0crwdne86184:0"
+	},
+	"mixer_source_alert.animateOut": {
+		"message": "crwdns86186:0crwdne86186:0"
+	},
+	"mixer_source_alert.nameStyleAndSettings": {
+		"message": "crwdns86188:0crwdne86188:0"
+	},
+	"mixer_source_alert.name": {
+		"message": "crwdns86190:0crwdne86190:0"
+	},
+	"mixer_source_alert.minMonth": {
+		"message": "crwdns86192:0crwdne86192:0"
+	},
+	"mixer_source_alert.minViewers": {
+		"message": "crwdns86194:0crwdne86194:0"
+	},
+	"mixer_source_alert.audio": {
+		"message": "crwdns86214:0crwdne86214:0"
+	},
+	"mixer_source_alert.sound": {
+		"message": "crwdns86216:0crwdne86216:0"
+	},
+	"mixer_source_alert.show_alert": {
+		"message": "crwdns86200:0crwdne86200:0"
+	},
+	"mixer_source_alert.test_alert": {
+		"message": "crwdns86202:0crwdne86202:0"
+	},
+	"mixer_source_alert.connected": {
+		"message": "crwdns86204:0crwdne86204:0"
+	},
+	"mixer_source_alert.disconnect": {
+		"message": "crwdns86206:0crwdne86206:0"
+	},
+	"mixer_source_alert.generalHeader": {
+		"message": "crwdns86208:0crwdne86208:0"
+	},
+	"mixer_source_alert.customizeHeader": {
+		"message": "crwdns86210:0crwdne86210:0"
+	},
+	"mixer_source_alert.hide_alert": {
+		"message": "crwdns86212:0crwdne86212:0"
+	},
+	"mixer_source_alert.account": {
+		"message": "crwdns99000:0crwdne99000:0"
+	},
+	"mixer_source_alert.authorize": {
+		"message": "crwdns99002:0crwdne99002:0"
+	},
+	"mixer_source_alert.remove_authorization": {
+		"message": "crwdns99004:0%api%crwdne99004:0"
+	}
+}

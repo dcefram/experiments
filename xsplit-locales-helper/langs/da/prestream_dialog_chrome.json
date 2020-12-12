@@ -1,0 +1,314 @@
+{
+	"toptitle": {
+		"message": "Manage Scheduled Live Videos"
+	},
+	"details": {
+		"message": "Broadcast Details"
+	},
+	"livevideo.label": {
+		"message": "Live Video"
+	},
+	"livevideo.tooltip": {
+		"message": "Select how you want to go live.[br][br]**New Live** - Go live now with a new live video[br]**Scheduled** - Broadcast to an existing scheduled live video"
+	},
+	"livevideovalues.0": {
+		"message": "New Live"
+	},
+	"scheduledvideovalues.new": {
+		"message": "New Scheduled Live"
+	},
+	"delete": {
+		"message": "Delete"
+	},
+	"stop": {
+		"message": "Stop"
+	},
+	"status.label": {
+		"message": "Status"
+	},
+	"status.tooltip": {
+		"message": "Set the status of your scheduled live video.[br][br]**Scheduled** - Automatically goes live when data is being broadcasted to it on scheduled start time. You can broadcast before the start time for the purpose of previewing your stream.[br]**Live** - Start broadcast and go live.[br]**Manual** - Preview your broadcast and switch live video from Scheduled to Manual. Mainly used when you're running late and need to preview broadcast before manually going live. Note that Manual items can never be switched back to Scheduled and needs to be manually set to live in Facebook."
+	},
+	"statusvalues.scheduled": {
+		"message": "Scheduled"
+	},
+	"statusvalues.live": {
+		"message": "Live"
+	},
+	"statusvalues.manual": {
+		"message": "Manual"
+	},
+	"title": {
+		"message": "Title"
+	},
+	"description": {
+		"message": "Description"
+	},
+	"tags.label": {
+		"message": "Content Tags"
+	},
+	"tags.tooltip": {
+		"message": "Tags help make the video more discoverable. They are not visible to the public."
+	},
+	"videogame.label": {
+		"message": "Video Game"
+	},
+	"videogame.tooltip": {
+		"message": "Tag the video game you'll be playing on stream for Facebook Gaming."
+	},
+	"checkin.label": {
+		"message": "Location Check In"
+	},
+	"checkin.tooltip": {
+		"message": "The location you are broadcasting from."
+	},
+	"privacy.label": {
+		"message": "Privacy"
+	},
+	"privacy.tooltip": {
+		"message": "The privacy scope may be limited by the privacy ceiling set for XSplit in your Facebook Apps. To ensure that you can control the privacy scope here, please make sure your privacy setting for XSplit in your Facebook Apps is set to **Public**. [Read more](https://xspl.it/fbxspriv)"
+	},
+	"privacyvalues.EVERYONE": {
+		"message": "Public"
+	},
+	"privacyvalues.ALL_FRIENDS": {
+		"message": "Friends"
+	},
+	"privacyvalues.SELF": {
+		"message": "Only me"
+	},
+	"pageaudience.label": {
+		"message": "Page Audience"
+	},
+	"pageaudience.tooltip": {
+		"message": "Select the locations of the people you want to connect with."
+	},
+	"locations.label": {
+		"message": "Locations"
+	},
+	"locations.tooltip": {
+		"message": "Set to all locations by default, or you can enter specific countries where the people you most want to connect with are located."
+	},
+	"support.label": {
+		"message": "Continuous live"
+	},
+	"support.tooltip": {
+		"message": "This option allows you to broadcast for more than 4 hours but will not generate a recording of your live stream on your Facebook."
+	},
+	"manageschedule": {
+		"message": "Manage scheduled live videos"
+	},
+	"createschedule": {
+		"message": "Create Scheduled Live"
+	},
+	"scheduledstart.label": {
+		"message": "Scheduled Start"
+	},
+	"scheduledstart.tooltip": {
+		"message": "Scheduled live videos must be scheduled between 11 minutes and 7 days (168 hours) from when you create them."
+	},
+	"customimage.label": {
+		"message": "Custom Image"
+	},
+	"customimage.tooltip": {
+		"message": "You can add a custom image for your schedule live announcement."
+	},
+	"scheduleerror": {
+		"message": "Invalid schedule"
+	},
+	"uploadimage": {
+		"message": "Upload image..."
+	},
+	"deleteimage": {
+		"message": "Delete image"
+	},
+	"errormessage": {
+		"message": "Scheduled live videos must be scheduled between 11 minutes and 7 days (168 hours) from when you created them."
+	},
+	"addScheduleHeader": {
+		"message": "Add Schedule"
+	},
+	"addSchedule": {
+		"message": "Add Schedule"
+	},
+	"editSchedule": {
+		"message": "Edit Schedule"
+	},
+	"updateSchedule": {
+		"message": "Update Schedule"
+	},
+	"start": {
+		"message": "Start broadcast"
+	},
+	"resume": {
+		"message": "Resume broadcast"
+	},
+	"ok": {
+		"message": "OK"
+	},
+	"cancel": {
+		"message": "Cancel"
+	},
+	"close": {
+		"message": "Close"
+	},
+	"loading.create": {
+		"message": "Creating Scheduled Live Video..."
+	},
+	"loading.update": {
+		"message": "Updating Scheduled Live Video..."
+	},
+	"youtube.liveEvent.label": {
+		"message": "Live Event"
+	},
+	"youtube.liveEvent.tooltip": {
+		"message": "Select how you want to go live.[br][br]**New Live Event -** Create a new live event and go live[br]**Scheduled -** Select an existing live event.[br]**Live Now -** Resume an existing live now event"
+	},
+	"youtube.tags.label": {
+		"message": "Tags"
+	},
+	"youtube.tags.tooltip": {
+		"message": "Tags are descriptive keywords you can add to your video to help people find your content.[br][br]Use commas to separate tags."
+	},
+	"youtube.category.label": {
+		"message": "Category"
+	},
+	"youtube.schedule": {
+		"message": "Schedule"
+	},
+	"youtube.noSchedule": {
+		"message": "Stream has no schedule"
+	},
+	"youtube.duration": {
+		"message": "Duration"
+	},
+	"youtube.endSchedule": {
+		"message": "End Schedule (optional)"
+	},
+	"youtube.hours": {
+		"message": "Hours"
+	},
+	"youtube.minutes": {
+		"message": "Minutes"
+	},
+	"youtube.enable360.label": {
+		"message": "Enable 360° video"
+	},
+	"youtube.enable360.title": {
+		"message": "Enable 360° Video"
+	},
+	"youtube.enable360.tooltip": {
+		"message": "Set your stream as a 360° video. Enabling this will let your viewers explore the 360° video in all direction.[br][br]Low-latency live streaming is not supported for 360° video."
+	},
+	"youtube.enableLowLatency": {
+		"message": "Enable low latency"
+	},
+	"youtube.enableDvr": {
+		"message": "Enable DVR"
+	},
+	"youtube.allowEmbed": {
+		"message": "Allow Embed"
+	},
+	"youtube.useBackupServer": {
+		"message": "Use backup server"
+	},
+	"youtube.manualTransition.label": {
+		"message": "Manual Transition"
+	},
+	"youtube.manualTransition.tooltip": {
+		"message": "Check this option to control the status of your broadcast from the YouTube Live Control Panel. If unchecked, XSplit will automatically transition status to \"live\" upon starting of broadcast and give option to \"complete\" it after stopping broadcast."
+	},
+	"youtube.liveEvent.values.scheduled": {
+		"message": "Scheduled: Start %date% - %title%"
+	},
+	"youtube.liveEvent.values.liveNow": {
+		"message": "Live Now: Start %date% - %title%"
+	},
+	"youtube.liveEvent.defaults.new": {
+		"message": "New Live Event"
+	},
+	"youtube.category.values.1": {
+		"message": "Film & Animation"
+	},
+	"youtube.category.values.2": {
+		"message": "Autos & Vehicles"
+	},
+	"youtube.category.values.10": {
+		"message": "Music"
+	},
+	"youtube.category.values.15": {
+		"message": "Pets & Animals"
+	},
+	"youtube.category.values.17": {
+		"message": "Sports"
+	},
+	"youtube.category.values.19": {
+		"message": "Travel & Events"
+	},
+	"youtube.category.values.20": {
+		"message": "Gaming"
+	},
+	"youtube.category.values.22": {
+		"message": "People & Blogs"
+	},
+	"youtube.category.values.23": {
+		"message": "Comedy"
+	},
+	"youtube.category.values.24": {
+		"message": "Entertainment"
+	},
+	"youtube.category.values.25": {
+		"message": "News & Politics"
+	},
+	"youtube.category.values.26": {
+		"message": "Howto & Style"
+	},
+	"youtube.category.values.27": {
+		"message": "Education"
+	},
+	"youtube.category.values.28": {
+		"message": "Science & Technology"
+	},
+	"youtube.category.values.29": {
+		"message": "Nonprofits & Activism"
+	},
+	"youtube.privacy.public": {
+		"message": "Public"
+	},
+	"youtube.privacy.unlisted": {
+		"message": "Unlisted"
+	},
+	"youtube.privacy.private": {
+		"message": "Private"
+	},
+	"youtube.latency.label": {
+		"message": "Latency"
+	},
+	"youtube.latency.tooltip": {
+		"message": "**Normal latency** - BEST FOR: highest quality viewer playbacks and higher resolutions.[br]**Low-latency** - BEST FOR: near real-time interaction with minimal playback buffering.[br]**Ultra low-latency** - BEST FOR: real-time interaction.[br]**DOES NOT SUPPORT**: DVR, closed captions, 1440p, and 4k resolutions"
+	},
+	"youtube.latency.values.normal": {
+		"message": "Normal latency"
+	},
+	"youtube.latency.values.low": {
+		"message": "Low-latency"
+	},
+	"youtube.latency.values.ultraLow": {
+		"message": "Ultra low-latency"
+	},
+	"youtube.emptyTitle": {
+		"message": "The title cannot be empty."
+	},
+	"youtube.noEndSchedule": {
+		"message": "no end schedule"
+	},
+	"youtube.endScheduleInvalid": {
+		"message": "End schedule is invalid. Set a valid date and time if you want to add an end schedule."
+	},
+	"youtube.endScheduleFuture": {
+		"message": "Please select an end schedule in the future."
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "Looking for suggestions..."
+	}
+}

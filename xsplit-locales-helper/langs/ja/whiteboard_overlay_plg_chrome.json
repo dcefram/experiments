@@ -1,0 +1,50 @@
+{
+  "whiteboard_overlay.drawing": {
+    "message": "描く"
+  },
+  "whiteboard_overlay.reminder": {
+    "message": "描き始める前に、レイアウトタブの位置固定モードを有効にして、ソースが回転されていない事を確認してください。"
+  },
+  "whiteboard_overlay.tool": {
+    "message": "ツール"
+  },
+  "whiteboard_overlay.size": {
+    "message": "サイズ"
+  },
+  "whiteboard_overlay.color": {
+    "message": "色"
+  },
+  "whiteboard_overlay.clear_whiteboard": {
+    "message": "ホワイトボードを消す"
+  },
+  "whiteboard_overlay.hotkeys": {
+    "message": "ホットキー"
+  },
+  "whiteboard_overlay.hotkey_header": {
+    "message": "ソースが選択されている時にこれらのホットキーを使用します："
+  },
+  "whiteboard_overlay.hotkey_s": {
+    "message": "サイズ（S\/M\/L）を切り替えるには&quot;**S**&quot;を押してください"
+  },
+  "whiteboard_overlay.hotkey_shift": {
+    "message": "別のツールを使用するには&quot;**Shift**&quot;長押ししてください[br]図形：フリーフォーム ->図形を検出する（線、三角形、円、長方形）"
+  },
+  "whiteboard_overlay.hotkey_d": {
+    "message": "現在の絵を保存するには&quot;**D**&quot;を押してください"
+  },
+  "whiteboard_overlay.hotkey_esc": {
+    "message": "ホワイトボードを消すには&quot;**Esc**&quot;を押してください"
+  },
+  "whiteboard_overlay.tool_options_freehand": {
+    "message": "フリーハンド"
+  },
+  "whiteboard_overlay.size_options_thin": {
+    "message": "薄い"
+  },
+  "whiteboard_overlay.size_options_normal": {
+    "message": "通常"
+  },
+  "whiteboard_overlay.size_options_thick": {
+    "message": "太い"
+  }
+}

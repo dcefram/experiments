@@ -1,0 +1,65 @@
+{
+  "streamChat.tabheader": {
+    "message": "Чат"
+  },
+  "streamChat.chat_sources": {
+    "message": "Chat Sources"
+  },
+  "streamChat.linked": {
+    "message": "Linked"
+  },
+  "streamChat.extra": {
+    "message": "Extra"
+  },
+  "streamChat.account": {
+    "message": "Учетная запись"
+  },
+  "streamChat.channel": {
+    "message": "Канал"
+  },
+  "streamChat.listen": {
+    "message": "Listen"
+  },
+  "streamChat.add_channels_here": {
+    "message": "Add your channels here to automatically listen to chat when you go live"
+  },
+  "streamChat.already_added_error": {
+    "message": "You've already added this channel!"
+  },
+  "streamChat.appearance": {
+    "message": "Внешний вид"
+  },
+  "streamChat.chat_box": {
+    "message": "Chat box"
+  },
+  "streamChat.opacity": {
+    "message": "Прозрачность"
+  },
+  "streamChat.font": {
+    "message": "Шрифт"
+  },
+  "streamChat.size": {
+    "message": "По размеру"
+  },
+  "streamChat.message_color": {
+    "message": "Message color"
+  },
+  "streamChat.hide_icons": {
+    "message": "Hide service icons"
+  },
+  "streamChat.text_direction": {
+    "message": "Text direction"
+  },
+  "streamChat.text_direction_down": {
+    "message": "Down"
+  },
+  "streamChat.text_direction_up": {
+    "message": "Up"
+  },
+  "streamChat.hide_timestamps": {
+    "message": "Скрыть метки времени"
+  },
+  "streamChat.hide_chat_when_idle": {
+    "message": "Скрывать чат в режиме простоя"
+  }
+}

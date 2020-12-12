@@ -1,0 +1,674 @@
+{
+	"title": {
+		"message": "XSplit Broadcaster - 我的视频"
+	},
+	"myRecordings.back": {
+		"message": "后退..."
+	},
+	"myRecordings.processing": {
+		"message": "加载记录中..."
+	},
+	"myRecordings.openWith": {
+		"message": "和...打开"
+	},
+	"myRecordings.edit": {
+		"message": "编辑视频"
+	},
+	"myRecordings.CONVERT_TO_MP4": {
+		"message": "转换为 MP4"
+	},
+	"myRecordings.REPAIR_FILE": {
+		"message": "修复文件"
+	},
+	"myRecordings.FIX_MOV_FILE": {
+		"message": "为网络优化"
+	},
+	"myRecordings.FIX_MOV_FILE_TOOLTIP": {
+		"message": "此选项将文件上载到需求服务如 YouTube 视频后所需的处理时间降至最低. 从末尾到开头优化为联机查看基本上迁址视频文件的所有媒体的信息. 更详细的技术信息. 请单击 [here](https://xspl.it/j5hfit)."
+	},
+	"myRecordings.openFileLocation": {
+		"message": "打开文件位置"
+	},
+	"myRecordings.openFolderLocation": {
+		"message": "打开文件夹的位置"
+	},
+	"myRecordings.sortBy": {
+		"message": "分类于"
+	},
+	"myRecordings.orderBy": {
+		"message": "顺序于"
+	},
+	"myRecordings.ascending": {
+		"message": "升序"
+	},
+	"myRecordings.descending": {
+		"message": "降序"
+	},
+	"myRecordings.header.name": {
+		"message": "名称"
+	},
+	"myRecordings.header.date": {
+		"message": "日期"
+	},
+	"myRecordings.header.type": {
+		"message": "类型"
+	},
+	"myRecordings.header.videoLength": {
+		"message": "长度"
+	},
+	"myRecordings.header.size": {
+		"message": "大小"
+	},
+	"myRecordings.details.recordedOn": {
+		"message": "录制在"
+	},
+	"myRecordings.details.deleteRecordings": {
+		"message": "选择项目"
+	},
+	"myRecordings.details.files": {
+		"message": "项目"
+	},
+	"myRecordings.details.selected": {
+		"message": "选择"
+	},
+	"myRecordings.details.total": {
+		"message": "全部"
+	},
+	"myRecordings.details.uploading": {
+		"message": "正在上传您的视频.%percent%%完成."
+	},
+	"myRecordings.details.rename": {
+		"message": "重命名"
+	},
+	"myRecordings.details.delete": {
+		"message": "删除本地视频"
+	},
+	"myRecordings.details.editSettings": {
+		"message": "编辑设置"
+	},
+	"myRecordings.details.link": {
+		"message": "链接"
+	},
+	"myRecordings.details.open": {
+		"message": "转到链接"
+	},
+	"myRecordings.details.copy": {
+		"message": "复制链接"
+	},
+	"myRecordings.details.deleteVideoFromYoutube": {
+		"message": "删除YouTube的影片"
+	},
+	"myRecordings.details.deleteVideoFromDailymotion": {
+		"message": "删除Dailymotion影片"
+	},
+	"myRecordings.details.filename.errors.FILE_ALREADY_EXISTS": {
+		"message": "文件存在重名."
+	},
+	"myRecordings.details.filename.errors.INVALID_FILENAME": {
+		"message": "新文件名无效字符"
+	},
+	"myRecordings.details.filename.hoverMessage": {
+		"message": "右键单击可选择更多选项"
+	},
+	"myRecordings.youtube.error.upload": {
+		"message": "上传视频时出错"
+	},
+	"myRecordings.youtube.error.tryAgain": {
+		"message": "再试一次?"
+	},
+	"myRecordings.youtube.error.cancel": {
+		"message": "取消"
+	},
+	"myRecordings.youtube.link.copy": {
+		"message": "复制链接"
+	},
+	"myRecordings.youtube.link.open": {
+		"message": "在浏览器中打开"
+	},
+	"myRecordings.youtube.privacy.unlisted": {
+		"message": "未收录"
+	},
+	"myRecordings.youtube.privacy.private": {
+		"message": "私人"
+	},
+	"myRecordings.youtube.privacy.public": {
+		"message": "公共"
+	},
+	"myRecordings.youtube.cancelUpload": {
+		"message": "取消上传?"
+	},
+	"myRecordings.location.label": {
+		"message": "位置"
+	},
+	"myRecordings.location.open": {
+		"message": "打开文件"
+	},
+	"uploadVideoDialog.dialogTitle": {
+		"message": "上传到YouTube"
+	},
+	"uploadVideoDialog.edit": {
+		"message": "编辑视频设置"
+	},
+	"uploadVideoDialog.title": {
+		"message": "名称"
+	},
+	"uploadVideoDialog.description": {
+		"message": "描述"
+	},
+	"uploadVideoDialog.category": {
+		"message": "类别"
+	},
+	"uploadVideoDialog.categoryValues.Autos": {
+		"message": "汽车&车辆"
+	},
+	"uploadVideoDialog.categoryValues.Comedy": {
+		"message": "喜剧"
+	},
+	"uploadVideoDialog.categoryValues.Education": {
+		"message": "教育"
+	},
+	"uploadVideoDialog.categoryValues.Entertainment": {
+		"message": "娱乐"
+	},
+	"uploadVideoDialog.categoryValues.Film": {
+		"message": "电影& 动画"
+	},
+	"uploadVideoDialog.categoryValues.Gaming": {
+		"message": "游戏"
+	},
+	"uploadVideoDialog.categoryValues.Howto": {
+		"message": "教程 & 风格"
+	},
+	"uploadVideoDialog.categoryValues.Music": {
+		"message": "音乐"
+	},
+	"uploadVideoDialog.categoryValues.News": {
+		"message": "新闻&政治"
+	},
+	"uploadVideoDialog.categoryValues.Nonprofit": {
+		"message": "非营利 &能动性"
+	},
+	"uploadVideoDialog.categoryValues.People": {
+		"message": "人群&博客"
+	},
+	"uploadVideoDialog.categoryValues.Pets&Animals": {
+		"message": "宠物&动物"
+	},
+	"uploadVideoDialog.categoryValues.Tech": {
+		"message": "科学与技术"
+	},
+	"uploadVideoDialog.categoryValues.Sports": {
+		"message": "体育"
+	},
+	"uploadVideoDialog.categoryValues.Travel": {
+		"message": "旅游&活动"
+	},
+	"uploadVideoDialog.gameName": {
+		"message": "游戏名称"
+	},
+	"uploadVideoDialog.tags.label": {
+		"message": "标签"
+	},
+	"uploadVideoDialog.tags.tooltip": {
+		"message": "使用逗号来分隔标记. 双击要编辑的文本标记."
+	},
+	"uploadVideoDialog.privacy": {
+		"message": "隐私"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Unlisted": {
+		"message": "未收录"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Private": {
+		"message": "隐私"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Public": {
+		"message": "公开"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Private": {
+		"message": "隐私"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Public": {
+		"message": "公开"
+	},
+	"uploadVideoDialog.applyClose": {
+		"message": "应用 & 关闭"
+	},
+	"uploadVideoDialog.uploadNow": {
+		"message": "立即上传"
+	},
+	"uploadVideoDialog.title-youtube": {
+		"message": "上传影片到YouTube"
+	},
+	"uploadVideoDialog.title-dailymotion": {
+		"message": "将视频上传到 Dailymotion"
+	},
+	"uploadVideoDialog.editVideo-youtube": {
+		"message": "编辑YouTube视频设置"
+	},
+	"uploadVideoDialog.cancel": {
+		"message": "CANCEL"
+	},
+	"uploadVideoDialog.allowEmbed": {
+		"message": "允许"
+	},
+	"uploadVideoDialog.embed.label": {
+		"message": "嵌入"
+	},
+	"uploadVideoDialog.processing": {
+		"message": "处理中"
+	},
+	"uploadVideoDialog.uploadNotification": {
+		"message": "通过单击立即上载, 你证明你上传的内容符合 [YouTube 的服务条款](https://xspl.it/ox4uyd) (包括 YouTube 社区准则). 请务必不侵犯他人的版权或隐私的权利."
+	},
+	"youtubeUpload.dialogTitle": {
+		"message": "上传到YouTube"
+	},
+	"youtubeUpload.edit": {
+		"message": "编辑视频设置"
+	},
+	"youtubeUpload.title": {
+		"message": "名称"
+	},
+	"youtubeUpload.description": {
+		"message": "描述"
+	},
+	"youtubeUpload.category": {
+		"message": "类别"
+	},
+	"youtubeUpload.categoryValues.Autos": {
+		"message": "汽车&车辆"
+	},
+	"youtubeUpload.categoryValues.Comedy": {
+		"message": "喜剧"
+	},
+	"youtubeUpload.categoryValues.Education": {
+		"message": "教育"
+	},
+	"youtubeUpload.categoryValues.Entertainment": {
+		"message": "娱乐"
+	},
+	"youtubeUpload.categoryValues.Film": {
+		"message": "电影& 动画"
+	},
+	"youtubeUpload.categoryValues.Gaming": {
+		"message": "游戏"
+	},
+	"youtubeUpload.categoryValues.Howto": {
+		"message": "教程 & 风格"
+	},
+	"youtubeUpload.categoryValues.Music": {
+		"message": "音乐"
+	},
+	"youtubeUpload.categoryValues.News": {
+		"message": "新闻&政治"
+	},
+	"youtubeUpload.categoryValues.Nonprofit": {
+		"message": "非营利 &能动性"
+	},
+	"youtubeUpload.categoryValues.People": {
+		"message": "人群&博客"
+	},
+	"youtubeUpload.categoryValues.Pets&Animals": {
+		"message": "宠物&动物"
+	},
+	"youtubeUpload.categoryValues.Tech": {
+		"message": "科学与技术"
+	},
+	"youtubeUpload.categoryValues.Sports": {
+		"message": "体育"
+	},
+	"youtubeUpload.categoryValues.Travel": {
+		"message": "旅游&活动"
+	},
+	"youtubeUpload.tags.label": {
+		"message": "标签"
+	},
+	"youtubeUpload.tags.tooltip": {
+		"message": "使用逗号来区分标签"
+	},
+	"youtubeUpload.privacy": {
+		"message": "隐私"
+	},
+	"youtubeUpload.privacyValues.Unlisted": {
+		"message": "未收录"
+	},
+	"youtubeUpload.privacyValues.Private": {
+		"message": "隐私"
+	},
+	"youtubeUpload.privacyValues.Public": {
+		"message": "公开"
+	},
+	"youtubeUpload.applyClose": {
+		"message": "应用 & 关闭"
+	},
+	"youtubeUpload.uploadNow": {
+		"message": "立即上传"
+	},
+	"youtubeUpload.uploadVideo": {
+		"message": "上传影片到YouTube"
+	},
+	"youtubeUpload.editVideo": {
+		"message": "编辑YouTube视频设置"
+	},
+	"youtubeUpload.cancel": {
+		"message": "CANCEL"
+	},
+	"youtubeUpload.allowEmbed": {
+		"message": "允许"
+	},
+	"youtubeUpload.embed.label": {
+		"message": "嵌入"
+	},
+	"youtubeUpload.processing": {
+		"message": "处理中"
+	},
+	"facebookShare.addMessage": {
+		"message": "在这里输入信息"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "分享视频到Facebook"
+	},
+	"facebookShare.via": {
+		"message": "通过XSplit Broadcaster"
+	},
+	"facebookShare.privacy": {
+		"message": "隐私"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "公众"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "朋友"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "朋友的朋友"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "只有我"
+	},
+	"facebookShare.shareVideo": {
+		"message": "共享"
+	},
+	"facebookShare.cancel": {
+		"message": "取消"
+	},
+	"facebookShare.processing": {
+		"message": "处理中"
+	},
+	"facebookShare.postAs": {
+		"message": "发布到"
+	},
+	"facebookShare.timeline": {
+		"message": "Facebook 时间线"
+	},
+	"facebookShare.managePage": {
+		"message": "你的管理页"
+	},
+	"twitterShare.addMessage": {
+		"message": "在这里输入信息"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "分享视频到Twitter"
+	},
+	"twitterShare.privacy": {
+		"message": "隐私"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "共享"
+	},
+	"twitterShare.cancel": {
+		"message": "取消"
+	},
+	"twitterShare.processing": {
+		"message": "处理中"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "在这里输入信息"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "分享视频到Google+"
+	},
+	"googlePlusShare.via": {
+		"message": "通过XSplit Broadcaster"
+	},
+	"googlePlusShare.privacy": {
+		"message": "隐私"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "所有人"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "所有朋友"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "朋友的朋友"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "自身"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "共享"
+	},
+	"googlePlusShare.cancel": {
+		"message": "取消"
+	},
+	"googlePlusShare.processing": {
+		"message": "处理中"
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "分享视频"
+	},
+	"vodShare.processing": {
+		"message": "处理中"
+	},
+	"vodShare.addLink": {
+		"message": "添加链接"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "Facebook 隐私"
+	},
+	"vodShare.gameCheckin": {
+		"message": "游戏签入"
+	},
+	"vodShare.gameCheckin.placeholder": {
+		"message": "游戏签入"
+	},
+	"vodShare.shareVideo": {
+		"message": "共享"
+	},
+	"vodShare.cancel": {
+		"message": "CANCEL"
+	},
+	"vodShare.shareTo.1": {
+		"message": "只共享到 %service1%"
+	},
+	"vodShare.shareTo.2": {
+		"message": "共享到 %service1% 和 %service2%"
+	},
+	"vodShare.shareTo.3": {
+		"message": "共享到 %service1%， %service2% 和 %service3%"
+	},
+	"vodShare.shareTo.4": {
+		"message": "共享到 %service1%，%service2%，%service3% 和 %service4%"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "TWITTER 消息计数器"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "所剩下的东西的字符计数可以发送到 Twitter.在邮件中而不仅仅是唯一的文字将过帐到 Twitter,你会发现蓝色的彩色的文本."
+	},
+	"vodShare.gameNameWarning": {
+		"message": "在 Player.me 数据库中不存在的游戏名称. 因此它不会显示在你的张贴上。"
+	},
+	"vodShare.loadMore": {
+		"message": "加载更多..."
+	},
+	"vodStatus.title": {
+		"message": "共享状态"
+	},
+	"vodStatus.facebook": {
+		"message": "Facebook"
+	},
+	"vodStatus.twitter": {
+		"message": "Twitter"
+	},
+	"vodStatus.playerme": {
+		"message": "Player.me"
+	},
+	"vodStatus.gplus": {
+		"message": "Google Plus"
+	},
+	"vodStatus.posting": {
+		"message": "发布到 %social%..."
+	},
+	"vodStatus.success": {
+		"message": "已成功发布在 %social%.[br][%message%](%url%) 上"
+	},
+	"vodStatus.message.facebook": {
+		"message": "查看帖子"
+	},
+	"vodStatus.message.twitter": {
+		"message": "查看微博"
+	},
+	"vodStatus.message.playerme": {
+		"message": "查看帖子"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "查看详细信息"
+	},
+	"vodStatus.error": {
+		"message": "未能在 %social% 上发布."
+	},
+	"vodStatus.failed": {
+		"message": "发布失败在 %social%.[br][%message%](%url%) 上"
+	},
+	"vodStatus.invalid": {
+		"message": "无法发送到 %social%."
+	},
+	"vodStatus.edit": {
+		"message": "编辑"
+	},
+	"vodStatus.retry": {
+		"message": "重试"
+	},
+	"dialog.ok": {
+		"message": "关闭"
+	},
+	"myRecordings.shareupload.loading": {
+		"message": "连接到YouTube ... [br]在浏览器中继续将Youtube连接到XSplit"
+	},
+	"growl.yes": {
+		"message": "YES"
+	},
+	"growl.no": {
+		"message": "NO"
+	},
+	"growl.error": {
+		"message": "报错"
+	},
+	"growl.info": {
+		"message": "Info"
+	},
+	"growl.warning": {
+		"message": "警告"
+	},
+	"growl.question": {
+		"message": "问题"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.title": {
+		"message": "验证错误",
+		"type": "error"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.message": {
+		"message": "您输入的文件名是一个受限制字符.被Windows 限制的词不能用于命名的文件夹和文件."
+	},
+	"growl.messages.BLANK_FILENAME.title": {
+		"message": "验证错误",
+		"type": "error"
+	},
+	"growl.messages.BLANK_FILENAME.message": {
+		"message": "文件名不能为空."
+	},
+	"growl.messages.INVALID_FILENAME.title": {
+		"message": "验证错误",
+		"type": "error"
+	},
+	"growl.messages.INVALID_FILENAME.message": {
+		"message": "文件名不能包含以下字符: \\ / : * ? \" < > |"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.title": {
+		"message": "验证错误",
+		"type": "error"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.message": {
+		"message": "文件名已存在."
+	},
+	"growl.messages.TOO_LONG_FILENAME.title": {
+		"message": "目标路径太长",
+		"type": "error"
+	},
+	"growl.messages.TOO_LONG_FILENAME.message": {
+		"message": "文件名称为目标文件太长.缩短文件名,或尝试一个具有更短路径的位置."
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.title": {
+		"message": "验证错误",
+		"type": "error"
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.message": {
+		"message": "文件可能被锁或正在被使用."
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.title": {
+		"message": "所需的视频链接",
+		"type": "warning"
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.message": {
+		"message": "在分享视频链接到社交平台之前, 请先将视频使用YouTube键上传到YouTube."
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.title": {
+		"message": "不能分享到 Twitter",
+		"type": "error"
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.message": {
+		"message": "您的消息已超过Twitter最大允许的字符. 您的邮件将不会发送到 Twitter, 但你仍然可以共享到 Facebook."
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.title": {
+		"message": "不能分享到 Twitter",
+		"type": "error"
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.message": {
+		"message": "图像超过最大附件大小为 3 Mb."
+	},
+	"myScreenshots.emptyMessage": {
+		"message": "在这里空的"
+	},
+	"myScreenshots.watchTutorial": {
+		"message": "看看这些 [tutorials](https://xspl.it/tutorials) 了解更多!"
+	},
+	"myRecordings.title": {
+		"message": "记录"
+	},
+	"myRecordings.emptyFileLocation": {
+		"message": "记录你令人敬畏的 gameplays 上, 传到视频分享服务，使其立即扩散!"
+	},
+	"imgShare.unauthorized": {
+		"message": "在您可以共享您的视频之前, 您需要授权至少 1 个社交媒体帐户通过点击上面的图标."
+	},
+	"imgShare.shareImageTitle": {
+		"message": "共享图像"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "正在寻找建议..."
+	},
+	"myScreenshots.title": {
+		"message": "屏幕截图"
+	},
+	"myScreenshots.processing": {
+		"message": "正在加载屏幕截图..."
+	},
+	"myScreenshots.details.takenon": {
+		"message": "采取"
+	},
+	"myScreenshots.emptyFileLocation": {
+		"message": "用你截图快捷键 (下-设置-快捷键 > 的工具) 马上捕获和共享你的场景图像!"
+	}
+}

@@ -1,0 +1,17 @@
+{
+    "stinger.title": {
+        "message": "تعديل اسم ستينغر أو نقطة الانتقال."
+    },
+    "stinger.name": {
+        "message": "اسم ستينغر"
+    },
+    "stinger.transition": {
+        "message": "نقطة التحول (مللي ثانية)"
+    },
+    "button.ok": {
+        "message": "حسنا"
+    },
+    "button.cancel": {
+        "message": "Cancel"
+    }
+}

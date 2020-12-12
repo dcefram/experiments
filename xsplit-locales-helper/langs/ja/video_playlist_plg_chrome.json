@@ -1,0 +1,65 @@
+{
+  "video_playlist.audio_output": {
+    "message": "オーディオ出力"
+  },
+  "video_playlist.playback": {
+    "message": "プレイバック"
+  },
+  "video_playlist.when_finished": {
+    "message": "終了時"
+  },
+  "video_playlist.start_on_load": {
+    "message": "シーン入場時に再生"
+  },
+  "video_playlist.remember_playback_position": {
+    "message": "プレイバック位置の記憶"
+  },
+  "video_playlist.show_playback_position": {
+    "message": "動画の再生位置を表示"
+  },
+  "video_playlist.start_at": {
+    "message": "開始:"
+  },
+  "video_playlist.set": {
+    "message": "セット"
+  },
+  "video_playlist.end_at": {
+    "message": "終了:"
+  },
+  "video_playlist.reset": {
+    "message": "リセット"
+  },
+  "video_playlist.force_deinterlace": {
+    "message": "インターレース解除"
+  },
+  "video_playlist.videos": {
+    "message": "動画"
+  },
+  "video_playlist.playlist": {
+    "message": "プレイリスト"
+  },
+  "video_playlist.add": {
+    "message": "追加"
+  },
+  "video_playlist.remove": {
+    "message": "削除"
+  },
+  "video_playlist.ok": {
+    "message": "OK"
+  },
+  "video_playlist.cancel": {
+    "message": "キャンセル"
+  },
+  "video_playlist.hint.videos_section": {
+    "message": "動画を追加、削除、並び替える"
+  },
+  "video_playlist.hint.video_playback_section": {
+    "message": "コントロール再生、ビデオの音声の設定、オーディオ出力デバイスの設定を行います。"
+  },
+  "video_playlist.hint.video_missing": {
+    "message": "ソースファイルが見つかりません。名前が変更されているか、削除されている可能性があります。"
+  },
+  "video_playlist.processing": {
+    "message": "動画を処理中…"
+  }
+}

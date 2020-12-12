@@ -1,0 +1,1304 @@
+{
+  "title": {
+    "message": "XSplit Broadcaster - ユーザー設定"
+  },
+  "tab.profile": {
+    "message": "プロフィール"
+  },
+  "tab.general": {
+    "message": "一般"
+  },
+  "tab.audio": {
+    "message": "オーディオ"
+  },
+  "tab.hotkeys": {
+    "message": "ホットキー"
+  },
+  "tab.sharing": {
+    "message": "共有"
+  },
+  "tab.advanced": {
+    "message": "高度"
+  },
+  "profile.fullName.label": {
+    "message": "本名"
+  },
+  "profile.screenName.label": {
+    "message": "ユーザー名"
+  },
+  "profile.country.label": {
+    "message": "国"
+  },
+  "profile.gender.label": {
+    "message": "性别"
+  },
+  "profile.gender.male.label": {
+    "message": "男性"
+  },
+  "profile.gender.female.label": {
+    "message": "女性"
+  },
+  "profile.birthday.label": {
+    "message": "誕生日"
+  },
+  "profile.addImage.label": {
+    "message": "プロフィール画像の追加"
+  },
+  "profile.changePassword.label": {
+    "message": "ここでパスワードを変更します"
+  },
+  "profile.countries.af": {
+    "message": "アフガニスタン"
+  },
+  "profile.countries.ax": {
+    "message": "オーランド諸島"
+  },
+  "profile.countries.al": {
+    "message": "アルバニア"
+  },
+  "profile.countries.dz": {
+    "message": "アルジェリア"
+  },
+  "profile.countries.as": {
+    "message": "アメリカ領サモア"
+  },
+  "profile.countries.ad": {
+    "message": "アンドラ"
+  },
+  "profile.countries.ao": {
+    "message": "アンゴラ"
+  },
+  "profile.countries.ai": {
+    "message": "アンギラ"
+  },
+  "profile.countries.aq": {
+    "message": "南極大陸"
+  },
+  "profile.countries.ag": {
+    "message": "アンティグア ・ バーブーダ"
+  },
+  "profile.countries.ar": {
+    "message": "アルゼンチン"
+  },
+  "profile.countries.am": {
+    "message": "アルメニア"
+  },
+  "profile.countries.aw": {
+    "message": "アルバ"
+  },
+  "profile.countries.au": {
+    "message": "オーストラリア"
+  },
+  "profile.countries.at": {
+    "message": "オーストリア"
+  },
+  "profile.countries.az": {
+    "message": "アゼルバイジャン"
+  },
+  "profile.countries.bs": {
+    "message": "バハマ"
+  },
+  "profile.countries.bh": {
+    "message": "バーレーン"
+  },
+  "profile.countries.bd": {
+    "message": "バングラデシュ"
+  },
+  "profile.countries.bb": {
+    "message": "バルバドス"
+  },
+  "profile.countries.by": {
+    "message": "ベラルーシ"
+  },
+  "profile.countries.be": {
+    "message": "ベルギー"
+  },
+  "profile.countries.bz": {
+    "message": "ベリーズ"
+  },
+  "profile.countries.bj": {
+    "message": "ベナン"
+  },
+  "profile.countries.bm": {
+    "message": "バミューダ諸島"
+  },
+  "profile.countries.bt": {
+    "message": "ブータン"
+  },
+  "profile.countries.bo": {
+    "message": "ボリビア"
+  },
+  "profile.countries.ba": {
+    "message": "ボスニア・ヘルツェゴビナ"
+  },
+  "profile.countries.bw": {
+    "message": "ボツワナ"
+  },
+  "profile.countries.bv": {
+    "message": "ブーベ島"
+  },
+  "profile.countries.br": {
+    "message": "ブラジル"
+  },
+  "profile.countries.io": {
+    "message": "英領インド洋地域"
+  },
+  "profile.countries.bn": {
+    "message": "ブルネイ・ダルサラーム国"
+  },
+  "profile.countries.bg": {
+    "message": "ブルガリア"
+  },
+  "profile.countries.bf": {
+    "message": "ブルキナファソ"
+  },
+  "profile.countries.bi": {
+    "message": "ブルンジ"
+  },
+  "profile.countries.kh": {
+    "message": "カンボジア"
+  },
+  "profile.countries.cm": {
+    "message": "カメルーン"
+  },
+  "profile.countries.ca": {
+    "message": "カナダ"
+  },
+  "profile.countries.cv": {
+    "message": "カーボベルデ"
+  },
+  "profile.countries.ky": {
+    "message": "ケイマン諸島"
+  },
+  "profile.countries.cf": {
+    "message": "中央アフリカ共和国"
+  },
+  "profile.countries.td": {
+    "message": "チャド"
+  },
+  "profile.countries.cl": {
+    "message": "チリ"
+  },
+  "profile.countries.cn": {
+    "message": "中国"
+  },
+  "profile.countries.cx": {
+    "message": "クリスマス島"
+  },
+  "profile.countries.cc": {
+    "message": "ココス (キーリング) 諸島"
+  },
+  "profile.countries.co": {
+    "message": "コロンビア"
+  },
+  "profile.countries.km": {
+    "message": "コモロ"
+  },
+  "profile.countries.cg": {
+    "message": "コンゴ"
+  },
+  "profile.countries.cd": {
+    "message": "コンゴ民主共和国"
+  },
+  "profile.countries.ck": {
+    "message": "クック諸島"
+  },
+  "profile.countries.cr": {
+    "message": "コスタリカ"
+  },
+  "profile.countries.ci": {
+    "message": "コートジボワール"
+  },
+  "profile.countries.hr": {
+    "message": "クロアチア"
+  },
+  "profile.countries.cu": {
+    "message": "キューバ"
+  },
+  "profile.countries.cy": {
+    "message": "キプロス"
+  },
+  "profile.countries.cz": {
+    "message": "チェコ共和国"
+  },
+  "profile.countries.dk": {
+    "message": "デンマーク"
+  },
+  "profile.countries.dj": {
+    "message": "ジブチ"
+  },
+  "profile.countries.dm": {
+    "message": "ドミニカ国"
+  },
+  "profile.countries.do": {
+    "message": "ドミニカ共和国"
+  },
+  "profile.countries.ec": {
+    "message": "エクアドル"
+  },
+  "profile.countries.eg": {
+    "message": "エジプト"
+  },
+  "profile.countries.sv": {
+    "message": "エルサルバドル"
+  },
+  "profile.countries.gq": {
+    "message": "赤道ギニア"
+  },
+  "profile.countries.er": {
+    "message": "エリトリア"
+  },
+  "profile.countries.ee": {
+    "message": "エストニア"
+  },
+  "profile.countries.et": {
+    "message": "エチオピア"
+  },
+  "profile.countries.fk": {
+    "message": "フォークランド (マルビナス) 諸島"
+  },
+  "profile.countries.fo": {
+    "message": "フェロー諸島"
+  },
+  "profile.countries.fj": {
+    "message": "フィジー"
+  },
+  "profile.countries.fi": {
+    "message": "フィンランド"
+  },
+  "profile.countries.fr": {
+    "message": "フランス"
+  },
+  "profile.countries.gf": {
+    "message": "フランス領ギアナ"
+  },
+  "profile.countries.pf": {
+    "message": "フランス領ポリネシア"
+  },
+  "profile.countries.tf": {
+    "message": "仏領極南諸島"
+  },
+  "profile.countries.ga": {
+    "message": "ガボン"
+  },
+  "profile.countries.gm": {
+    "message": "ガンビア"
+  },
+  "profile.countries.ge": {
+    "message": "グルジア"
+  },
+  "profile.countries.de": {
+    "message": "ドイツ"
+  },
+  "profile.countries.gh": {
+    "message": "ガーナ"
+  },
+  "profile.countries.gi": {
+    "message": "ジブラルタル"
+  },
+  "profile.countries.gr": {
+    "message": "ギリシャ"
+  },
+  "profile.countries.gl": {
+    "message": "グリーンランド"
+  },
+  "profile.countries.gd": {
+    "message": "グレナダ"
+  },
+  "profile.countries.gp": {
+    "message": "グアドループ (仏領)"
+  },
+  "profile.countries.gu": {
+    "message": "グアム"
+  },
+  "profile.countries.gt": {
+    "message": "グアテマラ"
+  },
+  "profile.countries.gg": {
+    "message": "ガーンジー島"
+  },
+  "profile.countries.gn": {
+    "message": "ギニア"
+  },
+  "profile.countries.gw": {
+    "message": "ギニアビサウ"
+  },
+  "profile.countries.gy": {
+    "message": "ガイアナ"
+  },
+  "profile.countries.ht": {
+    "message": "ハイチ"
+  },
+  "profile.countries.hm": {
+    "message": "ハード島とマクドナルド諸島"
+  },
+  "profile.countries.va": {
+    "message": "教皇庁 (バチカン市国)"
+  },
+  "profile.countries.hn": {
+    "message": "ホンジュラス"
+  },
+  "profile.countries.hk": {
+    "message": "香港"
+  },
+  "profile.countries.hu": {
+    "message": "ハンガリー"
+  },
+  "profile.countries.is": {
+    "message": "アイスランド"
+  },
+  "profile.countries.in": {
+    "message": "インド"
+  },
+  "profile.countries.id": {
+    "message": "インドネシア"
+  },
+  "profile.countries.ir": {
+    "message": "イラン ・ イスラム共和国"
+  },
+  "profile.countries.iq": {
+    "message": "イラク"
+  },
+  "profile.countries.ie": {
+    "message": "アイルランド"
+  },
+  "profile.countries.im": {
+    "message": "マン島"
+  },
+  "profile.countries.il": {
+    "message": "イスラエル"
+  },
+  "profile.countries.it": {
+    "message": "イタリア"
+  },
+  "profile.countries.jm": {
+    "message": "ジャマイカ"
+  },
+  "profile.countries.jp": {
+    "message": "日本"
+  },
+  "profile.countries.je": {
+    "message": "ジャージー"
+  },
+  "profile.countries.jo": {
+    "message": "ヨルダン"
+  },
+  "profile.countries.kz": {
+    "message": "カザフスタン"
+  },
+  "profile.countries.ke": {
+    "message": "ケニア"
+  },
+  "profile.countries.ki": {
+    "message": "キリバス"
+  },
+  "profile.countries.kp": {
+    "message": "北朝鮮"
+  },
+  "profile.countries.kr": {
+    "message": "南朝鮮"
+  },
+  "profile.countries.kw": {
+    "message": "クウェート"
+  },
+  "profile.countries.kg": {
+    "message": "キルギス"
+  },
+  "profile.countries.la": {
+    "message": "ラオス人民民主共和国"
+  },
+  "profile.countries.lv": {
+    "message": "ラトビア"
+  },
+  "profile.countries.lb": {
+    "message": "レバノン"
+  },
+  "profile.countries.ls": {
+    "message": "レソト"
+  },
+  "profile.countries.lr": {
+    "message": "リベリア"
+  },
+  "profile.countries.ly": {
+    "message": "リビア ・ アラブ国"
+  },
+  "profile.countries.li": {
+    "message": "リヒテンシュタイン"
+  },
+  "profile.countries.lt": {
+    "message": "リトアニア"
+  },
+  "profile.countries.lu": {
+    "message": "ルクセンブルク"
+  },
+  "profile.countries.mo": {
+    "message": "マカオ"
+  },
+  "profile.countries.mk": {
+    "message": "マケドニア"
+  },
+  "profile.countries.mg": {
+    "message": "マダガスカル"
+  },
+  "profile.countries.mw": {
+    "message": "マラウイ"
+  },
+  "profile.countries.my": {
+    "message": "マレーシア"
+  },
+  "profile.countries.mv": {
+    "message": "モルディブ"
+  },
+  "profile.countries.ml": {
+    "message": "マリ"
+  },
+  "profile.countries.mt": {
+    "message": "マルタ"
+  },
+  "profile.countries.mh": {
+    "message": "マーシャル諸島"
+  },
+  "profile.countries.mq": {
+    "message": "マルティニーク島"
+  },
+  "profile.countries.mr": {
+    "message": "モーリタニア"
+  },
+  "profile.countries.mu": {
+    "message": "モーリシャス"
+  },
+  "profile.countries.yt": {
+    "message": "マイヨット島"
+  },
+  "profile.countries.mx": {
+    "message": "メキシコ"
+  },
+  "profile.countries.fm": {
+    "message": "ミクロネシア連邦"
+  },
+  "profile.countries.md": {
+    "message": "モルドバ共和国"
+  },
+  "profile.countries.mc": {
+    "message": "モナコ"
+  },
+  "profile.countries.mn": {
+    "message": "モンゴル国"
+  },
+  "profile.countries.me": {
+    "message": "モンテネグロ"
+  },
+  "profile.countries.ms": {
+    "message": "モントセラト"
+  },
+  "profile.countries.ma": {
+    "message": "モロッコ"
+  },
+  "profile.countries.mz": {
+    "message": "モザンビーク"
+  },
+  "profile.countries.mm": {
+    "message": "ミャンマー"
+  },
+  "profile.countries.na": {
+    "message": "ナミビア"
+  },
+  "profile.countries.nr": {
+    "message": "ナウル"
+  },
+  "profile.countries.np": {
+    "message": "ネパール"
+  },
+  "profile.countries.nl": {
+    "message": "オランダ"
+  },
+  "profile.countries.an": {
+    "message": "オランダ領アンティル諸島"
+  },
+  "profile.countries.nc": {
+    "message": "ニューカレドニア"
+  },
+  "profile.countries.nz": {
+    "message": "ニュージーランド"
+  },
+  "profile.countries.ni": {
+    "message": "ニカラグア"
+  },
+  "profile.countries.ne": {
+    "message": "ニジェール"
+  },
+  "profile.countries.ng": {
+    "message": "ナイジェリア"
+  },
+  "profile.countries.nu": {
+    "message": "ニウエ"
+  },
+  "profile.countries.nf": {
+    "message": "ノーフォーク島"
+  },
+  "profile.countries.mp": {
+    "message": "北マリアナ諸島"
+  },
+  "profile.countries.no": {
+    "message": "ノルウェー"
+  },
+  "profile.countries.om": {
+    "message": "オマーン"
+  },
+  "profile.countries.pk": {
+    "message": "パキスタン"
+  },
+  "profile.countries.pw": {
+    "message": "パラオ"
+  },
+  "profile.countries.ps": {
+    "message": "パレスチナ領土"
+  },
+  "profile.countries.pa": {
+    "message": "パナマ"
+  },
+  "profile.countries.pg": {
+    "message": "パプアニューギニア"
+  },
+  "profile.countries.py": {
+    "message": "パラグアイ"
+  },
+  "profile.countries.pe": {
+    "message": "ペルー"
+  },
+  "profile.countries.ph": {
+    "message": "フィリピン"
+  },
+  "profile.countries.pn": {
+    "message": "ピトケアン"
+  },
+  "profile.countries.pl": {
+    "message": "ポーランド"
+  },
+  "profile.countries.pt": {
+    "message": "ポルトガル"
+  },
+  "profile.countries.pr": {
+    "message": "プエルトリコ"
+  },
+  "profile.countries.qa": {
+    "message": "カタール"
+  },
+  "profile.countries.re": {
+    "message": "レユニオン"
+  },
+  "profile.countries.ro": {
+    "message": "ルーマニア"
+  },
+  "profile.countries.ru": {
+    "message": "ロシア連邦"
+  },
+  "profile.countries.rw": {
+    "message": "ルワンダ"
+  },
+  "profile.countries.sh": {
+    "message": "セントヘレナ"
+  },
+  "profile.countries.kn": {
+    "message": "セントクリストファーネイビス"
+  },
+  "profile.countries.lc": {
+    "message": "セントルシア"
+  },
+  "profile.countries.pm": {
+    "message": "サンピエール・ミクロン"
+  },
+  "profile.countries.vc": {
+    "message": "セントビンセント・グレナディーン"
+  },
+  "profile.countries.ws": {
+    "message": "サモア"
+  },
+  "profile.countries.sm": {
+    "message": "サンマリノ"
+  },
+  "profile.countries.st": {
+    "message": "サントメ・プリンシペ"
+  },
+  "profile.countries.sa": {
+    "message": "サウジアラビア"
+  },
+  "profile.countries.sn": {
+    "message": "セネガル"
+  },
+  "profile.countries.rs": {
+    "message": "セルビア"
+  },
+  "profile.countries.sc": {
+    "message": "セイシェル"
+  },
+  "profile.countries.sl": {
+    "message": "シエラレオネ"
+  },
+  "profile.countries.sg": {
+    "message": "シンガポール"
+  },
+  "profile.countries.sk": {
+    "message": "スロバキア"
+  },
+  "profile.countries.si": {
+    "message": "スロベニア"
+  },
+  "profile.countries.sb": {
+    "message": "ソロモン諸島"
+  },
+  "profile.countries.so": {
+    "message": "ソマリア"
+  },
+  "profile.countries.za": {
+    "message": "南アフリカ"
+  },
+  "profile.countries.gs": {
+    "message": "南ジョージア島・南サンドイッチ諸島"
+  },
+  "profile.countries.es": {
+    "message": "スペイン"
+  },
+  "profile.countries.lk": {
+    "message": "スリランカ"
+  },
+  "profile.countries.sd": {
+    "message": "スーダン"
+  },
+  "profile.countries.sr": {
+    "message": "スリナム"
+  },
+  "profile.countries.sj": {
+    "message": "スバールバル諸島とヤンマイエン島"
+  },
+  "profile.countries.sz": {
+    "message": "スワジランド"
+  },
+  "profile.countries.se": {
+    "message": "スウェーデン"
+  },
+  "profile.countries.ch": {
+    "message": "スイス"
+  },
+  "profile.countries.sy": {
+    "message": "シリア・アラブ共和国"
+  },
+  "profile.countries.tw": {
+    "message": "台湾"
+  },
+  "profile.countries.tj": {
+    "message": "タジキスタン"
+  },
+  "profile.countries.tz": {
+    "message": "タンザニア連合共和国"
+  },
+  "profile.countries.th": {
+    "message": "タイ"
+  },
+  "profile.countries.tl": {
+    "message": "東ティモール"
+  },
+  "profile.countries.tg": {
+    "message": "トーゴ"
+  },
+  "profile.countries.tk": {
+    "message": "トケラウ諸島"
+  },
+  "profile.countries.to": {
+    "message": "トンガ"
+  },
+  "profile.countries.tt": {
+    "message": "トリニダード・トバゴ"
+  },
+  "profile.countries.tn": {
+    "message": "チュニジア"
+  },
+  "profile.countries.tr": {
+    "message": "トルコ"
+  },
+  "profile.countries.tm": {
+    "message": "トルクメニスタン"
+  },
+  "profile.countries.tc": {
+    "message": "タークス ・ カイコス諸島"
+  },
+  "profile.countries.tv": {
+    "message": "ツバル"
+  },
+  "profile.countries.ug": {
+    "message": "ウガンダ"
+  },
+  "profile.countries.ua": {
+    "message": "ウクライナ"
+  },
+  "profile.countries.ae": {
+    "message": "アラブ首長国連邦"
+  },
+  "profile.countries.gb": {
+    "message": "英国"
+  },
+  "profile.countries.us": {
+    "message": "米国"
+  },
+  "profile.countries.um": {
+    "message": "アメリカ合衆国外諸島"
+  },
+  "profile.countries.uy": {
+    "message": "ウルグアイ"
+  },
+  "profile.countries.uz": {
+    "message": "ウズベキスタン"
+  },
+  "profile.countries.vu": {
+    "message": "バヌアツ"
+  },
+  "profile.countries.ve": {
+    "message": "ベネズエラ"
+  },
+  "profile.countries.vn": {
+    "message": "ベトナム"
+  },
+  "profile.countries.vg": {
+    "message": "英領バージン諸島"
+  },
+  "profile.countries.vi": {
+    "message": "米領バージン諸島"
+  },
+  "profile.countries.wf": {
+    "message": "ウォリス ・ フツナ"
+  },
+  "profile.countries.eh": {
+    "message": "西サハラ"
+  },
+  "profile.countries.ye": {
+    "message": "イエメン"
+  },
+  "profile.countries.zm": {
+    "message": "ザンビア"
+  },
+  "profile.countries.zw": {
+    "message": "ジンバブエ"
+  },
+  "profile.months.1": {
+    "message": "1月"
+  },
+  "profile.months.2": {
+    "message": "2月"
+  },
+  "profile.months.3": {
+    "message": "3月"
+  },
+  "profile.months.4": {
+    "message": "4月"
+  },
+  "profile.months.5": {
+    "message": "5月"
+  },
+  "profile.months.6": {
+    "message": "6月"
+  },
+  "profile.months.7": {
+    "message": "7月"
+  },
+  "profile.months.8": {
+    "message": "8月"
+  },
+  "profile.months.9": {
+    "message": "9月"
+  },
+  "profile.months.10": {
+    "message": "10月"
+  },
+  "profile.months.11": {
+    "message": "11月"
+  },
+  "profile.months.12": {
+    "message": "12月"
+  },
+  "profile.startYear": {
+    "message": "1920"
+  },
+  "general.disableAeroTheme.label": {
+    "message": "Aeroテーマを無効にする"
+  },
+  "general.enableGPUPriority.label": {
+    "message": "GPU優先を有効にする"
+  },
+  "general.enableVirtualCameraOutput.label": {
+    "message": "仮想カメラの出力を有効にする"
+  },
+  "general.enableGameSource.label": {
+    "message": "ゲームのソースを有効にする"
+  },
+  "general.hideXsplitFromDisplayCapture.label": {
+    "message": "Hide XSplit Broadcaster from display capture"
+  },
+  "general.hideXsplitFromDisplayCapture2.label": {
+    "message": "Hide XSplit Broadcaster from display capture (Default: %default%)"
+  },
+  "general.hideXsplitFromDisplayCapture.tooltip": {
+    "message": "XSplit Broadcasterをディスプレイキャプチャから除外する事で他のディスプレイキャプチャをするアプリからも非表示にします。"
+  },
+  "general.hideTopControlBar.label": {
+    "message": "Hide top control bar"
+  },
+  "general.enableHUD.label": {
+    "message": "ゲーム内HUDを有効にする"
+  },
+  "general.enableCopyLink.label": {
+    "message": "生放送を開始時にクリップボードにリンクをコピーする"
+  },
+  "general.hideViewerCount.label": {
+    "message": "配信ステータスのビューアーカウントを隠す"
+  },
+  "general.hideFromScreenRegion.label": {
+    "message": "スクリーンリージョンから非表示にする"
+  },
+  "general.logSystemInfo.label": {
+    "message": "システム情報のログ"
+  },
+  "general.scenePreview.label": {
+    "message": "サムネイルのプレビュー"
+  },
+  "general.screenshotCapture.label": {
+    "message": "スクリーンショットのキャプチャ"
+  },
+  "general.scenePreview.values.1": {
+    "message": "シーンボタンホバーで常にプレビューを表示する"
+  },
+  "general.scenePreview.values.2": {
+    "message": "Shiftキーが押されたときにシーンボタンホバーでプレビューを表示します"
+  },
+  "general.scenePreview.values.3": {
+    "message": "シーンボタンホバーでプレビューを表示しない"
+  },
+  "general.screenshotCapture.values.JPEG": {
+    "message": "JPEG"
+  },
+  "general.screenshotCapture.values.BMP": {
+    "message": "BMP"
+  },
+  "general.optimizedTransition.label": {
+    "message": "シーン切り替えを最適化する"
+  },
+  "general.optimizedTransition.tooltip": {
+    "message": "グラフィックソースを多めに必要とする可能性がございますが、シーン切り替えをスムーズに行う事ができるようになります。[br][br]グラフィックソースを節約したい場合はこちらのオプションを解除し、サムネイルプレビューも解除してください。"
+  },
+  "audio.microphone.label": {
+    "message": "マイク"
+  },
+  "audio.audioDelay.label": {
+    "message": "遅延 (ms)"
+  },
+  "audio.boost.label": {
+    "message": "ボリューム範囲 (%)"
+  },
+  "audio.noiseSuppression.label": {
+    "message": "ノイズ抑制"
+  },
+  "audio.silenceDetection.label": {
+    "message": "無音検出"
+  },
+  "audio.threshold.label": {
+    "message": "Threshold (dB)"
+  },
+  "audio.hold.label": {
+    "message": "Hold (ms)"
+  },
+  "audio.attack.label": {
+    "message": "Attack (ms)"
+  },
+  "audio.release.label": {
+    "message": "Release (ms)"
+  },
+  "audio.silenceDetection.blogLink": {
+    "message": "無音検出を使用する方法を学ぶ"
+  },
+  "audio.systemSound.label": {
+    "message": "システムサウンド"
+  },
+  "audio.monitor.label": {
+    "message": "音声プレビュー"
+  },
+  "audio.monitor.tooltip": {
+    "message": "オーディオモニターは選択した出力デバイスを通じて、プレゼンテーションからの最終出力を監視する為に使用されます"
+  },
+  "audio.monoMix.label": {
+    "message": "マイクモノラルミックス"
+  },
+  "audio.monoMix.values.0": {
+    "message": "無し(デフォルト)"
+  },
+  "audio.monoMix.values.1": {
+    "message": "左から右へコピーする"
+  },
+  "audio.monoMix.values.2": {
+    "message": "右から左へコピーする"
+  },
+  "audio.monoMix.values.3": {
+    "message": "左と右を平均化する"
+  },
+  "audio.audioMixingSampleRate.label": {
+    "message": "オーディオミクシングのサンプルレート"
+  },
+  "audio.audioMixingSampleRate.values.0": {
+    "message": "自動 (デフォルト)"
+  },
+  "audio.audioMixingSampleRate.values.44100": {
+    "message": "44.1 kHz"
+  },
+  "audio.audioMixingSampleRate.values.48000": {
+    "message": "48 kHz"
+  },
+  "hotkeys.category.scenes": {
+    "message": "シーン"
+  },
+  "hotkeys.category.presets": {
+    "message": "シーンプリセット"
+  },
+  "hotkeys.category.audio": {
+    "message": "オーディオ"
+  },
+  "hotkeys.category.broadcast": {
+    "message": "ブロードキャスト"
+  },
+  "hotkeys.category.recording": {
+    "message": "レコード"
+  },
+  "hotkeys.category.playout": {
+    "message": "プレイアウト"
+  },
+  "hotkeys.category.hud": {
+    "message": "HUD"
+  },
+  "hotkeys.category.sources": {
+    "message": "ソース"
+  },
+  "hotkeys.message": {
+    "message": "ゲーム内や他のアプリケーションの使用中であっても、ホットキーを使用して、シーンの切り替えやその他のコマンドが利用可能です"
+  },
+  "hotkeys.instruction": {
+    "message": "ダブルクリックしてホットキーをタイピングするか手動で選択して下さい"
+  },
+  "hotkeys.shift.label": {
+    "message": "Shift"
+  },
+  "hotkeys.ctrl.label": {
+    "message": "Ctrl"
+  },
+  "hotkeys.alt.label": {
+    "message": "Alt"
+  },
+  "hotkeys.none": {
+    "message": "なし"
+  },
+  "hotkeys.hotkeymode.description": {
+    "message": "ホットキーモード選択してください"
+  },
+  "hotkeys.hotkeymode.label": {
+    "message": "ホットキーモード選択してください"
+  },
+  "hotkeys.hotkeymode.tooltip": {
+    "message": "ホットキーを選択するか、ダイレクトパスを設定する事が出来ます。[br][br]**基本** - Windows キーボードのみを使用して、モディファイアーとの組み合わせが必要です。[br]**高度** - MIDIデバイスにキーを設定する事ができ、モディファイアー無しでも設定可能。[br][br] 高度モードから基本モードに変更する時は、高度モードで設定したキーを基本モードのキーに変更する必要があります。"
+  },
+  "hotkeys.hotkeymode.basic.label": {
+    "message": "基本"
+  },
+  "hotkeys.hotkeymode.advanced.label": {
+    "message": "高度"
+  },
+  "hotkeys.hotkeybehavior.description": {
+    "message": "ホットキーの動作を変更する"
+  },
+  "hotkeys.hotkeybehavior.label": {
+    "message": "ホットキーの動作を変更する"
+  },
+  "hotkeys.hotkeybehavior.tooltip": {
+    "message": "XSplit Broadcasterがこのページに割り当てられているホットキーにどう反応するか設定でいます。[br][br]**グローバル** - ホットキーをどこからでも使用できる様にします[br]**Application** - ホットキーをXSplit Broadcaster使用中のみ有効にする[br]**無効** - 全てのホットキーを無効にする"
+  },
+  "hotkeys.hotkeyBehavior.values.0": {
+    "message": "グローバル"
+  },
+  "hotkeys.hotkeyBehavior.values.1": {
+    "message": "アプリケーション"
+  },
+  "hotkeys.hotkeyBehavior.values.2": {
+    "message": "無効になっています"
+  },
+  "accounts.videoSharing.label": {
+    "message": "ビデオの共有"
+  },
+  "accounts.youtube.label": {
+    "message": "YouTube"
+  },
+  "accounts.youtube.authorize.label": {
+    "message": "YouTubeへのビデオのアップロードの承認"
+  },
+  "accounts.socials.label": {
+    "message": "ソーシャルネットワーク"
+  },
+  "accounts.facebook.label": {
+    "message": "Facebook"
+  },
+  "accounts.facebook.authorize.label": {
+    "message": "Facebookへの投稿の承認"
+  },
+  "accounts.twitter.label": {
+    "message": "Twitter"
+  },
+  "accounts.twitter.authorize.label": {
+    "message": "Twitterへの投稿の承認"
+  },
+  "accounts.google.label": {
+    "message": "Google+"
+  },
+  "accounts.google.authorize.label": {
+    "message": "Google+への投稿を承認する"
+  },
+  "accounts.playerme.label": {
+    "message": "Player.me"
+  },
+  "accounts.playerme.authorize.label": {
+    "message": "Player.meに投稿する事を承認する"
+  },
+  "accounts.service.deauthorize.label": {
+    "message": "承認を取り消す"
+  },
+  "accounts.service.switch.label": {
+    "message": "アカウントを切り替える"
+  },
+  "advanced.caution.label": {
+    "message": "こちらの詳細設定を変更する際は慎重に進めてください。ここで行われた設定によって起こる事は責任を負いかねますので自己責任ですすめてください。この件に関しての詳細はヒントを参照にしてください。"
+  },
+  "advanced.enableOptimizedRender.label": {
+    "message": "上級ビデオレンダラー (EVR)"
+  },
+  "advanced.enableOptimizedRender2.label": {
+    "message": "上級ビデオレンダラー (EVR)を使用する"
+  },
+  "advanced.enableOptimizedRender.tooltip": {
+    "message": "**このオプションは実験的なもので将来のリリースで削除される可能性もあります。**[br][br] 上級ビデオレンダラーはXSplit Broadcasterにある別のレンダラーです。もし現在のプレゼンテーションで問題が起こっている場合このオプションを有効にしてみてください。"
+  },
+  "advanced.videoProcessingMode.label": {
+    "message": "ビデオ処理モード"
+  },
+  "advanced.videoProcessingMode2.label": {
+    "message": "ビデオ処理モード (デフォルト: レガシービデオ処理オプションを使用する)"
+  },
+  "advanced.videoProcessingMode.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  Use CPU mode when you play games on the same hardware to minimize impact on the game. Use GPU mode if you want XSplit to take advantage of GPU functions for accelerated video decoding and processing. Available on Windows 8+."
+  },
+  "advanced.videoProcessingMode.values.1": {
+    "message": "レガシーモードのビデオ処理オプションを使用する"
+  },
+  "advanced.videoProcessingMode.values.2": {
+    "message": "ビデオ処理にCPUを優先する"
+  },
+  "advanced.videoProcessingMode.values.3": {
+    "message": "ビデオ処理にGPUを優先する"
+  },
+  "advanced.enableGlobalScript.label": {
+    "message": "拡張機能を有効する"
+  },
+  "advanced.enableGlobalScript2.label": {
+    "message": "拡張機能を有効にする (デフォルト: %default%)"
+  },
+  "advanced.enabled.label": {
+    "message": "有効になっています"
+  },
+  "advanced.disabled.label": {
+    "message": "無効になっています"
+  },
+  "advanced.enableGlobalScript.tooltip": {
+    "message": "このバージョンのXSplit Broadcasterでは、ユーザーが作成したXSplit BroadcasterのAPIとインタラクトが出来る拡張機能を使用する事ができます。現在の所、こちらの機能はまだ試験段階です。[br][詳細はこちら！](https://xspl.it/bc/custom)"
+  },
+  "advanced.enableFlashSound.label": {
+    "message": "ネイティブFlashとブラウザーの音声コントロールを有効にする"
+  },
+  "advanced.enableFlashSound2.label": {
+    "message": "ネイティブFlashとブラウザーの音声コントロールを有効にする(デフォルト：%default%)"
+  },
+  "advanced.enableFlashSound.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  Enabling this option will allow XSplit to automatically mute audio from flash and browser sources in XSplit preview. This option will also allow you to use Stream Only audio option for flash and browser sources."
+  },
+  "advanced.enableWasapi.label": {
+    "message": "WASAPIオーディオレンダラーを有効にする"
+  },
+  "advanced.enableWasapi2.label": {
+    "message": "WASAPIオーディオレンダーを有効にする（デフォルト： %default%）"
+  },
+  "advanced.enableWasapi.tooltip": {
+    "message": "このオプションではDirect ShowのソースをDirectサウンドの代わりにWASAPIオーディオレンダーを使用さえます。このオプションを使用すれば、オーディオのブツブツ音が解消されるかもしれません。"
+  },
+  "advanced.enableMFEngine.label": {
+    "message": "Use Media Foundation Engine for video playback"
+  },
+  "advanced.enableMFEngine2.label": {
+    "message": "Use Media Foundation Engine for video playback (Default: %default%)"
+  },
+  "advanced.enableMFEngine.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  This option enables Microsoft MF engine for playback of supported video files (MP4, WMV, AVI, ASF). Using the MF engine will enable DXVA2 hardware acceleration and uses less CPU resources."
+  },
+  "advanced.enableHardwareAccelerateUSB2.label": {
+    "message": "USB2キャプチャデバイスにはハードウェアアクセラレーションを使用する"
+  },
+  "advanced.enableHardwareAccelerateUSB22.label": {
+    "message": "USB2キャプチャデバイスにはハードウェアアクセラレーションを使用する(デフォルト：%default%)"
+  },
+  "advanced.enableHardwareAccelerateUSB2.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  This option uses DXVA2 hardware acceleration to decode video from USB 2 capture devices such as AverMedia LGP, Happauge HDPVR, Elgato HD and HD60."
+  },
+  "advanced.antiAliasing.label": {
+    "message": "GPUアンチエイリアシング"
+  },
+  "advanced.antiAliasing.tooltip": {
+    "message": "**このオプションは実験的なもので将来のリリースで削除される可能性もあります。**[br][br]MSAAを使用時に極度なGPU使用を避ける為にサンプルカウント４、クォリティ０を最大設定にする事をお勧めします。MLAAはポストプロセスシェーダーであり、少なめなリソースを必要としますが、視覚的エフェクトが異なる可能性もあります。"
+  },
+  "advanced.antiAliasing.values.1": {
+    "message": "無し(デフォルト)"
+  },
+  "advanced.antiAliasing.values.2": {
+    "message": "MLAA"
+  },
+  "advanced.antiAliasing.values.3": {
+    "message": "MSAA"
+  },
+  "advanced.antiAliasing.quality.label": {
+    "message": "クオリティ"
+  },
+  "advanced.antiAliasing.sampleCount.label": {
+    "message": "サンプルカウント"
+  },
+  "advanced.antiAliasing.stencilBuffer.label": {
+    "message": "ステンシルバッファーを使用する"
+  },
+  "advanced.antiAliasing.threshold.label": {
+    "message": "しきい値"
+  },
+  "advanced.network.label": {
+    "message": "ネットワーク接続"
+  },
+  "advanced.network.tooltip": {
+    "message": "生放送の為のアクティブなネットワークアダプタを選択する"
+  },
+  "advanced.customNetworkConnection.label": {
+    "message": "各放送プラグインに別のネットワークアダプターの使用を許可する"
+  },
+  "advanced.customNetworkConnection.labelXbc5003": {
+    "message": "各出力にネットワークアダプターを指定する許可を与える。"
+  },
+  "advanced.customNetworkConnection.tooltip": {
+    "message": "これを有効にすると、各生放送に別のネットワークアダプタの使用を許可します。"
+  },
+  "advanced.autoSelectNetworkAdapter.label": {
+    "message": "選択したネットワークアダプタが使用できない場合は自動的に別のアダプタを選択する"
+  },
+  "advanced.enableScriptSecurity.label": {
+    "message": "ソースと拡張機能のスクリプトのセキュリティを有効にする"
+  },
+  "advanced.enableScriptSecurity2.label": {
+    "message": "ソースと拡張機能のスクリプトのセキュリティを有効にする(デフォルト：%default%)"
+  },
+  "advanced.enableScriptSecurity.tooltip": {
+    "message": "このオプションを無効にするという事はすべてのソースからのスクリプトや拡張機能を承認なしで使用を許可する事になります。"
+  },
+  "advanced.browserSourceOptimization.label": {
+    "message": "ブラウザソースの最適化"
+  },
+  "advanced.browserSourceOptimization2.label": {
+    "message": "ブラウザソースの最適化 (デフォルト: %default%)"
+  },
+  "advanced.browserSourceOptimization.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  This option uses a special optimization for the capture pipeline of HTML sources. This option should provide for smoother animation of HTML sources in both 30 and 60 FPS, but may not work on all systems (on some systems, the HTML may show only black). Default FPS for HTML sources is 30 FPS, with option for JavaScript to request 60 FPS (see [this post](https://xspl.it/bc/svw6qh) for more information)."
+  },
+  "advanced.enableDeveloperMode.label": {
+    "message": "開発者モードを有効にする"
+  },
+  "advanced.enableDeveloperMode2.label": {
+    "message": "開発者モードを有効にする(デフォルト：%default%)"
+  },
+  "advanced.enableDeveloperMode.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  This option will perform additional logging, enable plugin debugging and allow unsigned DLLs to be loaded by plugins."
+  },
+  "advanced.enhancedLogging.label": {
+    "message": "最適ログを有効にする"
+  },
+  "advanced.enhancedLogging2.label": {
+    "message": "最適ログを有効にする (デフォルト: %default%)"
+  },
+  "advanced.enhancedLogging.tooltip": {
+    "message": "このオプションではXSplitがエラーやトラブルシュートをより簡単に行いやすくする為のログを残す様になります。[Logs fikder](%path%) にてログがすべて収集されます。ログを送信する時はこのフォルダを圧縮し、グーグルドライブやドロップボックスなどのファイル共有プログラムを使用する事をお勧めいたします。[br][br]XSplitを再起動時はこのオプションは無効になります。ログを集め終わったらこのオプションを無効にする事をお勧めいたします。"
+  },
+  "advanced.dx12Capture.label": {
+    "message": "DX12でのゲームキャプチャを有効にする"
+  },
+  "advanced.dx12Capture2.label": {
+    "message": "DX12ゲームキャプチャを有効にする（デフォルト：有効）"
+  },
+  "advanced.dx12Capture.tooltip": {
+    "message": "**Sources in your presentation may refresh as a result of changes being applied.** [br][br]  Enable this option to capture DX12 games. There may be incompatibility with some systems/drivers which may prevent capture of any game - even non-DX12 games, this option may be disabled should such issue arise. Game/application may need to be restarted for option change to take effect."
+  },
+  "advanced.vulkan.label": {
+    "message": "Vulkanでのゲームキャプチャを有効にする"
+  },
+  "advanced.vulkan2.label": {
+    "message": "Vulkanゲームキャプチャを有効にする（デフォルト：有効）"
+  },
+  "advanced.vulkan.tooltip": {
+    "message": "Enable this option to capture Vulkan games. Game/application may need to be restarted for option change to take effect."
+  },
+  "advanced.projectorBorder.label": {
+    "message": "プロジェクター画面の選択範囲の境界線"
+  },
+  "advanced.projectorBorder.values.always": {
+    "message": "境界線をマウスでホバーするとかならず表示する"
+  },
+  "advanced.projectorBorder.values.shift": {
+    "message": "Shiftキーが押されたときにスクリーン選択のホバーで境界線を表示します"
+  },
+  "advanced.projectorBorder.values.never": {
+    "message": "境界線を絶対に見せない"
+  },
+  "advanced.gpuAdapter.label": {
+    "message": "GPU Adapter"
+  },
+  "advanced.gpuAdapter2.label": {
+    "message": "Select GPU Adapter (Default: Automatic)"
+  },
+  "advanced.gpuAdapter.tooltip": {
+    "message": "This will force XSplit Broadcaster to run on the selected graphics adapter (GPU). If set to automatic, XSplit Broadcaster will run on your primary graphics adapter set in Windows or your GPU control panel."
+  },
+  "advanced.gpuAdapter.values.0": {
+    "message": "自動"
+  },
+  "menu.mixerColorspace.label": {
+    "message": "カラースペースミキサー"
+  },
+  "menu.mixerColorspace.ayuv.label": {
+    "message": "AYUV"
+  },
+  "menu.mixerColorspace.yuy2.label": {
+    "message": "YUY2"
+  },
+  "menu.mixerColorspace.rgb1624.label": {
+    "message": "RGB16/24"
+  },
+  "menu.mixerColorspace.rgb32.label": {
+    "message": "RGB32"
+  },
+  "menu.enableVirtualCameraWhileStreaming.label": {
+    "message": "仮想カメラをストリーミング中に有効にする"
+  },
+  "button.restore": {
+    "message": "デフォルトの値を復帰する"
+  },
+  "button.ok": {
+    "message": "OK"
+  },
+  "button.cancel": {
+    "message": "キャンセル"
+  },
+  "button.apply": {
+    "message": "適用"
+  }
+}

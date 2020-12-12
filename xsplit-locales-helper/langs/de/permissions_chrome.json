@@ -1,0 +1,35 @@
+{
+	"title": {
+		"message": "XSplit Broadcaster - Berechtigungen"
+	},
+	"header": {
+		"message": "Die folgenden Quellen und Erweiterungen erfordern Ihre Berechtigung für die Ausführung von Skripts, die möglicherweise Schaden an Ihrem Computer verursachen könnten."
+	},
+	"hide_permission_alerts": {
+		"message": "Berechtigungswarnungen verbergen"
+	},
+	"column1": {
+		"message": "Neue Berechtigungsforderungen sind hervorgehoben"
+	},
+	"column2": {
+		"message": "Zugriff bei Auswahl erlauben"
+	},
+	"sources": {
+		"message": "Quellen"
+	},
+	"extensions": {
+		"message": "Erweiterungen"
+	},
+	"footer": {
+		"message": "Es ist ratsam nur vertrauenswürdigen Quellen Zugriff zu gewähren. Ein bösartiges Skript kann Ihrem Computer auf vielfältige Weise Schaden zufügen."
+	},
+	"button.ok": {
+		"message": "OK"
+	},
+	"button.cancel": {
+		"message": "Abbrechen"
+	},
+	"button.apply": {
+		"message": "Anwenden"
+	}
+}

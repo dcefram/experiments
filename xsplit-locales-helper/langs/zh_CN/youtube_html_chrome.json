@@ -1,0 +1,62 @@
+{
+	"youtube.html.tabheader": {
+		"message": "聊天"
+	},
+	"youtube.html.source": {
+		"message": "资源"
+	},
+	"youtube.html.account": {
+		"message": "帐户"
+	},
+	"youtube.html.preview": {
+		"message": "预览"
+	},
+	"youtube.html.not_connected": {
+		"message": "未连接"
+	},
+	"youtube.html.connected": {
+		"message": "连接"
+	},
+	"youtube.html.error_channel_not_found": {
+		"message": "请提供有效的视频ID."
+	},
+	"youtube.html.display": {
+		"message": "显示"
+	},
+	"youtube.html.chat_box": {
+		"message": "聊天框"
+	},
+	"youtube.html.opacity": {
+		"message": "透明度"
+	},
+	"youtube.html.viewers": {
+		"message": "观众"
+	},
+	"youtube.html.message": {
+		"message": "消息"
+	},
+	"youtube.html.text_size": {
+		"message": "文本大小"
+	},
+	"youtube.html.hide_user_icons": {
+		"message": "隐藏用户图标"
+	},
+	"youtube.html.hide_timestamps": {
+		"message": "隐藏时间戳"
+	},
+	"youtube.html.hide_on_idle": {
+		"message": "空闲时隐藏聊天"
+	},
+	"youtube.html.video_id": {
+		"message": "视频ID"
+	},
+	"youtube.html.video_id_help": {
+		"message": "要在浏览器中获取YouTube直播视频的ID，请右键点击视频，然后选择“复制视频网址”。 复制视频网址最后部分的字符。"
+	},
+	"youtube.html.connect": {
+		"message": "连接"
+	},
+	"youtube.html.disconnect": {
+		"message": "断开连接"
+	}
+}

@@ -1,0 +1,62 @@
+{
+	"twitch.html.tabheader": {
+		"message": "แชท"
+	},
+	"twitch.html.source": {
+		"message": "ซอส"
+	},
+	"twitch.html.account": {
+		"message": "บัญชี"
+	},
+	"twitch.html.preview": {
+		"message": "ดูตัวอย่าง"
+	},
+	"twitch.html.not_connected": {
+		"message": "ไม่ได้เชื่อมต่อ"
+	},
+	"twitch.html.connected": {
+		"message": "เชื่อมต่อแล้ว"
+	},
+	"twitch.html.error_channel_not_found": {
+		"message": "กรุณาระบุ แชนแนลที่ถูกต้อง"
+	},
+	"twitch.html.display": {
+		"message": "แสดงผล"
+	},
+	"twitch.html.chat_box": {
+		"message": "ช่องแชท"
+	},
+	"twitch.html.opacity": {
+		"message": "ความทึบแสง"
+	},
+	"twitch.html.viewers": {
+		"message": "ผู้ชม"
+	},
+	"twitch.html.message": {
+		"message": "ข้อความ"
+	},
+	"twitch.html.text_size": {
+		"message": "ขนาดข้อความ"
+	},
+	"twitch.html.hide_user_icons": {
+		"message": "ซ่อนไอค่อนผู้ใช้"
+	},
+	"twitch.html.hide_timestamps": {
+		"message": "ซ่อนเวลา"
+	},
+	"twitch.html.hide_on_idle": {
+		"message": "ซ่อนแชทเมื่อปล่อยว่างเป็นเวลา"
+	},
+	"twitch.html.channel": {
+		"message": "แชนแนล"
+	},
+	"twitch.html.connect": {
+		"message": "เชื่อมต่อ"
+	},
+	"twitch.html.disconnect": {
+		"message": "ตัดการเชื่อมต่อ"
+	},
+	"twitch.html.use_twitch_colors": {
+		"message": "ใช้สีแชทของ Twitch"
+	}
+}

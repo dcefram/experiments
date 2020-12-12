@@ -1,0 +1,74 @@
+{
+  "webm_encoder.info_text": {
+    "message": "Convert an MOV or PNG sequence into WebM format and use it as a stinger transition or an overlay video with transparency. Using the default output will automatically add the file to your stingers or add it directly under the Transitions menu."
+  },
+  "webm_encoder.source": {
+    "message": "Source file(s)"
+  },
+  "webm_encoder.source_description": {
+    "message": "Allowed file formats are MOV and PNG sequence files.<br><br>For PNG sequence, filename should have a numeric suffix of 2 digits or more starting from 0 i.e. <span>image_00.png</span> or <span>sequence000000.png.</span>"
+  },
+  "webm_encoder.destination": {
+    "message": "Output file"
+  },
+  "webm_encoder.reset_output_folder": {
+    "message": "Reset to default output file"
+  },
+  "webm_encoder.show_advanced_settings": {
+    "message": "Show advanced settings"
+  },
+  "webm_encoder.frame_rate_settings": {
+    "message": "Frame rate (fps)"
+  },
+  "webm_encoder.video_bit_rate": {
+    "message": "Video bitrate (kbps)"
+  },
+  "webm_encoder.audio_bit_rate": {
+    "message": "Audio bitrate (kbps)"
+  },
+  "webm_encoder.key_frame_interval": {
+    "message": "Keyframe interval"
+  },
+  "webm_encoder.transition_point": {
+    "message": "Punto de transición (ms)"
+  },
+  "webm_encoder.disable_audio": {
+    "message": "Disable audio"
+  },
+  "webm_encoder.convert_webm": {
+    "message": "Convert to WebM"
+  },
+  "webm_encoder.close": {
+    "message": "Cerrar"
+  },
+  "webm_encoder.converting": {
+    "message": "Converting"
+  },
+  "webm_encoder.cancel": {
+    "message": "Cancelar"
+  },
+  "webm_encoder.checking_video": {
+    "message": "Checking video..."
+  },
+  "webm_encoder.ok": {
+    "message": "OK"
+  },
+  "webm_encoder.title": {
+    "message": "Creador de Stinger"
+  },
+  "webm_encoder.alert_yes": {
+    "message": "SI"
+  },
+  "webm_encoder.alert_no": {
+    "message": "NO"
+  },
+  "webm_encoder.save_as": {
+    "message": "Save As..."
+  },
+  "webm_encoder.try_again": {
+    "message": "Try Again"
+  },
+  "webm_encoder.dll_permission": {
+    "message": "Dll access is required. Please go to <span id='goToPermissions'>Permissions</span> and grant access for this extension in order to proceed."
+  }
+}

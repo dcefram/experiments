@@ -1,0 +1,50 @@
+{
+  "whiteboard_overlay.drawing": {
+    "message": "Desenho"
+  },
+  "whiteboard_overlay.reminder": {
+    "message": "Para começar a desenhar, lembre-se sempre de verificar a caixa de seleção Bloquear Posição na guia layout e certifique-se de que a fonte não está rotacionada."
+  },
+  "whiteboard_overlay.tool": {
+    "message": "Ferramenta"
+  },
+  "whiteboard_overlay.size": {
+    "message": "Tamanho"
+  },
+  "whiteboard_overlay.color": {
+    "message": "Cor"
+  },
+  "whiteboard_overlay.clear_whiteboard": {
+    "message": "Limpar o Quadro"
+  },
+  "whiteboard_overlay.hotkeys": {
+    "message": "Teclas de Atalho"
+  },
+  "whiteboard_overlay.hotkey_header": {
+    "message": "Use estas teclas de atalho quando a fonte for selecionada:"
+  },
+  "whiteboard_overlay.hotkey_s": {
+    "message": "Pressione &quot;**S**&quot; para alternar entre os tamanhos (P\/M\/G)"
+  },
+  "whiteboard_overlay.hotkey_shift": {
+    "message": "Pressione e Segure &quot;**Shift**&quot; para utilizar o modo Ferramenta Alternativa[br]Formas: Forma livre -> Detecção de forma (linha, triângulo, círculo, retângulo)"
+  },
+  "whiteboard_overlay.hotkey_d": {
+    "message": "Pressione &quot;**D**&quot; para salvar o desenho atual"
+  },
+  "whiteboard_overlay.hotkey_esc": {
+    "message": "Pressione &quot;**Esc**&quot; para limpar o quadro"
+  },
+  "whiteboard_overlay.tool_options_freehand": {
+    "message": "À mão livre"
+  },
+  "whiteboard_overlay.size_options_thin": {
+    "message": "Fina"
+  },
+  "whiteboard_overlay.size_options_normal": {
+    "message": "Normal"
+  },
+  "whiteboard_overlay.size_options_thick": {
+    "message": "Grossa"
+  }
+}

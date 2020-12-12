@@ -1,0 +1,110 @@
+{
+  "title.source": {
+    "message": "Источник"
+  },
+  "subtitle.account": {
+    "message": "Учетная запись"
+  },
+  "link.authorize": {
+    "message": "Разрешите XSplit использовать Facebook Live"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** Сменить учетную запись"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** Удалить авторизацию"
+  },
+  "subtitle2.authorize.error": {
+    "message": "Пожалуйста, попробуйте авторизоваться ещё раз и предоставить доступ для всех разрешений, необходимых для успешного функционирования XSplit"
+  },
+  "subtitle.source": {
+    "message": "Источник"
+  },
+  "source.values.automatic": {
+    "message": "Автоматически"
+  },
+  "chat.reaction.not_connected": {
+    "message": "Отклики будут загружаться автоматически как только трансляция станет активна"
+  },
+  "chat.comment.not_connected": {
+    "message": "Комментарии будут появляться автоматически, как только трансляция станет активна"
+  },
+  "chat.connected": {
+    "message": "Подключен"
+  },
+  "title.display": {
+    "message": "Дисплей"
+  },
+  "help.display.title": {
+    "message": "Анимация откликов"
+  },
+  "help.display.text": {
+    "message": "Настройте способ появления откликов в вашей трансляции![br]Выберите тип анимации и другие параметры.[br][br]Используйте кнопку \"Просмотр\" чтобы проверить как будет выглядеть анимация прежде чем выводить её в эфир."
+  },
+  "animation.text": {
+    "message": "Анимация"
+  },
+  "label.streamprops": {
+    "message": "Свойства стрима"
+  },
+  "button.reset": {
+    "message": "Сбросить"
+  },
+  "label.direction": {
+    "message": "Направление"
+  },
+  "label.time": {
+    "message": "Время"
+  },
+  "label.seconds": {
+    "message": "секунды"
+  },
+  "label.timevariation": {
+    "message": "Изменение времени"
+  },
+  "label.emoji.size": {
+    "message": "Размер эмодзи"
+  },
+  "label.pixels": {
+    "message": "пикселей"
+  },
+  "label.sizevariation": {
+    "message": "Границы изменения размера"
+  },
+  "label.hide_connection_message": {
+    "message": "Скрыть сообщения о процессе соединения"
+  },
+  "button.preview": {
+    "message": "Предварительный просмотр"
+  },
+  "animation.types.stream": {
+    "message": "Стримить отклики"
+  },
+  "animation.types.pop": {
+    "message": "В отдельном/родительском окне"
+  },
+  "stream.directions.leftToRight": {
+    "message": "Слева направо"
+  },
+  "stream.directions.topToBottom": {
+    "message": "Сверху вниз"
+  },
+  "stream.directions.rightToLeft": {
+    "message": "Справа налево"
+  },
+  "stream.directions.bottomToTop": {
+    "message": "Снизу вверх"
+  },
+  "tabheader.title": {
+    "message": "Отклики"
+  },
+  "label.not_seeing_videos": {
+    "message": "Не видите своё онлайн видео?"
+  },
+  "label.not_seeing_videos_help": {
+    "message": "У нас может не быть разрешения на доступ к некоторым онлайн видео с вашей страницы."
+  },
+  "label.not_seeing_videos_link": {
+    "message": "Нажмите сюда, чтобы авторизоваться повторно"
+  }
+}

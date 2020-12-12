@@ -1,0 +1,314 @@
+{
+	"toptitle": {
+		"message": "Planmäßige Live-Videos verwalten"
+	},
+	"details": {
+		"message": "Broadcast-Details"
+	},
+	"livevideo.label": {
+		"message": "Live-Video"
+	},
+	"livevideo.tooltip": {
+		"message": "Bitte wähle die Art der Live-Übertragung aus.[br][br]**New Live** - Jetzt mit einem neuen Live-Video auf Sendung gehen[br]**Geplant** - Zu einem bestehenden geplanten Live-Video übertragen"
+	},
+	"livevideovalues.0": {
+		"message": "Neues Live"
+	},
+	"scheduledvideovalues.new": {
+		"message": "Neues geplantes Live"
+	},
+	"delete": {
+		"message": "Löschen"
+	},
+	"stop": {
+		"message": "Anhalten"
+	},
+	"status.label": {
+		"message": "Status"
+	},
+	"status.tooltip": {
+		"message": "Den Status Ihres geplanten Live-Videos einstellen.[br][br]**Geplant** - Geht automatisch live, wenn Daten darauf zur geplanten Startzeit gebroadcastet werden. Sie können vor der Startzeit broadcasten, mit dem Ziel Ihren Broadcast als Vorschau zu betrachten.[br]**Live** - Broadcast starten und live gehen.[br]**Manuell** - Betrachten Sie Ihren Broadcast als Vorschau und schalten Sie das Live-Video von Geplant auf Manuell um. Wird hauptsächlich verwendet, wenn Sie verspätet laufen und den Broadcast vorher anschauen müssen, bevor Sie manuell live gehen. Bedenken Sie, dass manuelle Einträge nicht mehr zurück auf Geplant geschaltet werden können und in Facebook manuell auf live eingestellt werden müssen."
+	},
+	"statusvalues.scheduled": {
+		"message": "Geplant"
+	},
+	"statusvalues.live": {
+		"message": "Live"
+	},
+	"statusvalues.manual": {
+		"message": "Manuell"
+	},
+	"title": {
+		"message": "Titel"
+	},
+	"description": {
+		"message": "Beschreibung"
+	},
+	"tags.label": {
+		"message": "Inhalts Tags"
+	},
+	"tags.tooltip": {
+		"message": "Tags sind hilfreich, damit das Video besser entdeckt werden kann. Sie sind nicht für die Öffentlichkeit sichtbar."
+	},
+	"videogame.label": {
+		"message": "Videospiel"
+	},
+	"videogame.tooltip": {
+		"message": "Markieren Sie das Videospiel, das Sie als Stream für Facebook Gaming spielen werden."
+	},
+	"checkin.label": {
+		"message": "Standort-Check-in"
+	},
+	"checkin.tooltip": {
+		"message": "Der Standort von wo aus Sie übertragen werden."
+	},
+	"privacy.label": {
+		"message": "Privatsphäre"
+	},
+	"privacy.tooltip": {
+		"message": "Der Bereich der Privatsphäre kann für XSplit in Ihren Facebook-Apps durch das Privatsphäre-Level eingeschränkt werden. Um sicherzustellen, dass Sie hier den Bereich der Privatsphäre steuern können, vergewissern Sie sich, dass Ihre Privatsphäre-Einstellung für XSplit in Ihren Facebook-Apps auf **Public** festgelegt ist. [Mehr lesen](https://xspl.it/fbxspriv)"
+	},
+	"privacyvalues.EVERYONE": {
+		"message": "Öffentlich"
+	},
+	"privacyvalues.ALL_FRIENDS": {
+		"message": "Freunde"
+	},
+	"privacyvalues.SELF": {
+		"message": "Nur Ich"
+	},
+	"pageaudience.label": {
+		"message": "Seitenpublikum"
+	},
+	"pageaudience.tooltip": {
+		"message": "Wählen Sie die Standorte der Personen, mit denen Sie sich verbinden möchten."
+	},
+	"locations.label": {
+		"message": "Standort"
+	},
+	"locations.tooltip": {
+		"message": "Standardmäßig auf allen Standorten, andernfalls können Sie bestimmte Länder eingeben, in welchen sich die Menschen befinden, mit denen Sie sich hauptsächlich verbinden möchten."
+	},
+	"support.label": {
+		"message": "Kontinuierlich live"
+	},
+	"support.tooltip": {
+		"message": "Diese Option erlaubt Ihnen, länger als 4 Stunden zu broadcasten, generiert jedoch keine Aufnahme Ihres Live-Streams in Ihrem Facebook."
+	},
+	"manageschedule": {
+		"message": "Geplante Live-Videos verwalten"
+	},
+	"createschedule": {
+		"message": "Geplantes Live erstellen"
+	},
+	"scheduledstart.label": {
+		"message": "Geplanter Start"
+	},
+	"scheduledstart.tooltip": {
+		"message": "Geplante Live-Videos müssen zwischen 11 Minuten und 7 Tagen (168 Stunden) ab wann Sie sie erstellt haben, angesetzt sein."
+	},
+	"customimage.label": {
+		"message": "Benutzerdefiniertes Bild"
+	},
+	"customimage.tooltip": {
+		"message": "Sie können ein benutzerdefiniertes Bild zur Ankündigung für Ihr planmäßiges Live hinzufügen."
+	},
+	"scheduleerror": {
+		"message": "Ungültiger Zeitplan"
+	},
+	"uploadimage": {
+		"message": "Bild hochladen..."
+	},
+	"deleteimage": {
+		"message": "Bild löschen"
+	},
+	"errormessage": {
+		"message": "Geplante Live-Videos müssen zwischen 11 Minuten und 7 Tagen (168 Stunden) ab wann Sie sie erstellt haben, angesetzt sein."
+	},
+	"addScheduleHeader": {
+		"message": "Zeitplan hinzufügen"
+	},
+	"addSchedule": {
+		"message": "Zeitplan hinzufügen"
+	},
+	"editSchedule": {
+		"message": "Zeitplan bearbeiten"
+	},
+	"updateSchedule": {
+		"message": "Zeitplan aktualisieren"
+	},
+	"start": {
+		"message": "Broadcast starten"
+	},
+	"resume": {
+		"message": "Broadcast fortsetzen"
+	},
+	"ok": {
+		"message": "OK"
+	},
+	"cancel": {
+		"message": "Abbrechen"
+	},
+	"close": {
+		"message": "Schließen"
+	},
+	"loading.create": {
+		"message": "Geplantes Live-Video erstellen..."
+	},
+	"loading.update": {
+		"message": "Geplantes Live-Video aktualisieren..."
+	},
+	"youtube.liveEvent.label": {
+		"message": "Live-Veranstaltung"
+	},
+	"youtube.liveEvent.tooltip": {
+		"message": "Wähle die Art und Weise aus, in der Du auf Sendung gehen möchtest.[br][br]**Neues Live-Event -** Erstelle ein neues Live-Event und gehe auf Sendung[br]**Terminiert -** Wähle ein bestehendes Live-Event aus.[br]**Jetzt auf Sendung gehen -** Fahre mit einem bestehenden Live-Event fort"
+	},
+	"youtube.tags.label": {
+		"message": "Tags"
+	},
+	"youtube.tags.tooltip": {
+		"message": "Tags sind aussagekräftige Schlüsselwörter, die Sie zu Ihrem Video hinzufügen können, um Nutzern das Finden Ihrer Inhalte zu erleichtern.[br][br]Verwenden Sie Kommas, um Tags zu trennen."
+	},
+	"youtube.category.label": {
+		"message": "Kategorie"
+	},
+	"youtube.schedule": {
+		"message": "Zeitplan"
+	},
+	"youtube.noSchedule": {
+		"message": "Stream hat keinen Zeitplan"
+	},
+	"youtube.duration": {
+		"message": "Dauer"
+	},
+	"youtube.endSchedule": {
+		"message": "Zeitplan beenden (optional)"
+	},
+	"youtube.hours": {
+		"message": "Stunden"
+	},
+	"youtube.minutes": {
+		"message": "Minuten"
+	},
+	"youtube.enable360.label": {
+		"message": "360˚-Video erlauben"
+	},
+	"youtube.enable360.title": {
+		"message": "360˚-Video erlauben"
+	},
+	"youtube.enable360.tooltip": {
+		"message": "Stellt Ihren Stream als 360˚-Video ein. Aktivieren dieser Option erlaubt Ihren Zuschauern, das 360˚-Video in jeder Richtung zu erkunden.[br][br]Live-Streamen mit niedriger Latenz wird für 360˚-Video nicht unterstützt."
+	},
+	"youtube.enableLowLatency": {
+		"message": "Niedrige Latenz erlauben"
+	},
+	"youtube.enableDvr": {
+		"message": "DVR aktivieren"
+	},
+	"youtube.allowEmbed": {
+		"message": "Einbetten erlauben"
+	},
+	"youtube.useBackupServer": {
+		"message": "Backup-Server verwenden"
+	},
+	"youtube.manualTransition.label": {
+		"message": "Manueller Übergang"
+	},
+	"youtube.manualTransition.tooltip": {
+		"message": "Aktivieren Sie diese Option, um den Status Ihres Broadcasts aus dem YouTube Live-Kontrollpanel zu steuern. Ist diese Option deaktiviert, wird XSplit den Status automatisch auf \"live\" umstellen, sobald der Broadcast gestartet ist und die Möglichkeit zum \"abschließen\" desselben nach Beendigung des Broadcasts geben."
+	},
+	"youtube.liveEvent.values.scheduled": {
+		"message": "Geplant: Start %date% - %title%"
+	},
+	"youtube.liveEvent.values.liveNow": {
+		"message": "Jetzt Live: Start %date% - %title%"
+	},
+	"youtube.liveEvent.defaults.new": {
+		"message": "Neue Live-Veranstaltung"
+	},
+	"youtube.category.values.1": {
+		"message": "Film & Animation"
+	},
+	"youtube.category.values.2": {
+		"message": "Autos & Fahrzeuge"
+	},
+	"youtube.category.values.10": {
+		"message": "Musik"
+	},
+	"youtube.category.values.15": {
+		"message": "Tiere"
+	},
+	"youtube.category.values.17": {
+		"message": "Sport"
+	},
+	"youtube.category.values.19": {
+		"message": "Reisen & Veranstaltungen"
+	},
+	"youtube.category.values.20": {
+		"message": "Gaming"
+	},
+	"youtube.category.values.22": {
+		"message": "Menschen & Blogs"
+	},
+	"youtube.category.values.23": {
+		"message": "Komödien"
+	},
+	"youtube.category.values.24": {
+		"message": "Unterhaltung"
+	},
+	"youtube.category.values.25": {
+		"message": "Nachrichten & Politik"
+	},
+	"youtube.category.values.26": {
+		"message": "Ratgeber & Style"
+	},
+	"youtube.category.values.27": {
+		"message": "Bildung"
+	},
+	"youtube.category.values.28": {
+		"message": "Wissenschaft & Technologie"
+	},
+	"youtube.category.values.29": {
+		"message": "Aktionen & Gemeinnütziges"
+	},
+	"youtube.privacy.public": {
+		"message": "Öffentlich"
+	},
+	"youtube.privacy.unlisted": {
+		"message": "Ungelistet"
+	},
+	"youtube.privacy.private": {
+		"message": "Privat"
+	},
+	"youtube.latency.label": {
+		"message": "Latenz"
+	},
+	"youtube.latency.tooltip": {
+		"message": "**Normale Latenz** - AM BESTEN FÜR: höchste Wiedergabequalität und höhere Auflösungen.[br]**Niedrige Latenz** - AM BESTEN FÜR: Nahezu Echtzeit-Interaktion mit minimalem Wiedergabe-Puffer.[br]**Ultra-niedrige Latenz** - AM BESTEN FÜR: Echtzeit-Interaktion.[br]**UNTERSTÜTZT NICHT**: DVR, Untertitel, 1440p und 4k-Auflösungen"
+	},
+	"youtube.latency.values.normal": {
+		"message": "Normale Latenz erlauben"
+	},
+	"youtube.latency.values.low": {
+		"message": "Niedrige Latenz"
+	},
+	"youtube.latency.values.ultraLow": {
+		"message": "Ultra-niedrige Latenz"
+	},
+	"youtube.emptyTitle": {
+		"message": "Der Titel darf nicht leer sein."
+	},
+	"youtube.noEndSchedule": {
+		"message": "kein Endzeitplan"
+	},
+	"youtube.endScheduleInvalid": {
+		"message": "Endzeitplan ist ungültig. Stellen sein ein gültiges Datum und Zeit ein, wenn Sie einen Endzeitplan hinzufügen wollen."
+	},
+	"youtube.endScheduleFuture": {
+		"message": "Bitte wählen Sie einen Endzeitplan in der Zukunft."
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "Suche nach Vorschlägen..."
+	}
+}

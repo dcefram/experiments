@@ -1,0 +1,155 @@
+{
+	"twitch.chat.tabheader": {
+		"message": "แชท"
+	},
+	"twitch.chat.source": {
+		"message": "ซอส"
+	},
+	"twitch.chat.account": {
+		"message": "บัญชี"
+	},
+	"twitch.chat.authorize": {
+		"message": "เชื่อมต่อ Xsplit เพื่อใช้ Twitch"
+	},
+	"twitch.chat.remove_authorization": {
+		"message": "**%api%** ถอนการอนุญาต"
+	},
+	"twitch.chat.switch_account": {
+		"message": "**%api%** สลับบัญชี"
+	},
+	"twitch.chat.not_connected": {
+		"message": "ไม่ได้เชื่อมต่อ"
+	},
+	"twitch.chat.connected": {
+		"message": "เชื่อมต่อแล้ว"
+	},
+	"twitch.chat.connect": {
+		"message": "เชื่อมต่อ"
+	},
+	"twitch.chat.disconnect": {
+		"message": "ตัดการเชื่อมต่อ"
+	},
+	"twitch.chat.channel": {
+		"message": "แชนแนล"
+	},
+	"twitch.chat.error_channel_not_found": {
+		"message": "โปรดระบุแชนแนลที่ถูกต้อง"
+	},
+	"twitch.chat.display": {
+		"message": "แสดงผล"
+	},
+	"twitch.chat.chat_box": {
+		"message": "ช่องแชท"
+	},
+	"twitch.chat.opacity": {
+		"message": "ความทึบแสง"
+	},
+	"twitch.chat.viewers": {
+		"message": "ผู้ชม"
+	},
+	"twitch.chat.message": {
+		"message": "ข้อความ"
+	},
+	"twitch.chat.outline_text": {
+		"message": "เอาท์ไลน์"
+	},
+	"twitch.chat.text_size": {
+		"message": "ขนาดข้อความ"
+	},
+	"twitch.chat.hide_user_name": {
+		"message": "ซ่อนชื่อผู้ใช้"
+	},
+	"twitch.chat.hide_timestamp": {
+		"message": "ซ่อนเวลา"
+	},
+	"twitch.chat.hide_user_icons": {
+		"message": "ซ่อนไอค่อนผู้ใช้"
+	},
+	"twitch.chat.hide_on_idle": {
+		"message": "ซ่อนแชทเมื่อปล่อยว่างเป็นเวลา"
+	},
+	"twitch.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"twitch.chat.animation_text": {
+		"message": "อนิเมชั่น"
+	},
+	"twitch.chat.animation_direction_text": {
+		"message": "ทิศทาง"
+	},
+	"twitch.chat.animation_randomize": {
+		"message": "สุ่ม"
+	},
+	"twitch.chat.animation_override_settings": {
+		"message": "ส่วนนี้จะแทนที่การตั้งค่าการแสดงผลด้วยตนเอง"
+	},
+	"twitch.chat.animation_duration": {
+		"message": "ระยะเวลา"
+	},
+	"twitch.chat.animation_set_duration": {
+		"message": "นี่จะเป็นการกำหนดระยะเวลาของภาพอนิเมชั่นที่กำลังเลื่อน"
+	},
+	"twitch.chat.animation_text_size": {
+		"message": "ขนาดข้อความ"
+	},
+	"twitch.chat.seconds": {
+		"message": "วินาที"
+	},
+	"twitch.chat.animation_text_color": {
+		"message": "สีข้อความ"
+	},
+	"twitch.chat.animation_none": {
+		"message": "ว่าง"
+	},
+	"twitch.chat.animation_scroll": {
+		"message": "เลื่อน"
+	},
+	"twitch.chat.animation_scroll_text": {
+		"message": "นี่จะเป็นการเลือนชื่อผู้ใช้แบบไดนามิคไปบนหน้าจอ[br][br]วิธีที่ดีที่สุดที่จะแสดงปลั๊กอินนี้คือปรับซอสหน้าจอของคุณไปเป็นแบบมุมมองขนาดเต็ม"
+	},
+	"twitch.chat.animation_direction_rightToLeft": {
+		"message": "ขวาไปซ้าย"
+	},
+	"twitch.chat.animation_direction_leftToRight": {
+		"message": "ซ้ายไปขวา"
+	},
+	"twitch.chat.animation_direction_randomize": {
+		"message": "สุ่ม"
+	},
+	"twitch.chat.outline_none": {
+		"message": "ว่าง"
+	},
+	"twitch.chat.outline_thin": {
+		"message": "บาง"
+	},
+	"twitch.chat.outline_thick": {
+		"message": "หนา"
+	},
+	"twitch.chat.outline_thickest": {
+		"message": "หนาที่สุด"
+	},
+	"twitch.chat.blocking": {
+		"message": "การบล็อค"
+	},
+	"twitch.chat.blockedlist": {
+		"message": "รายชื่อที่ถูกบล็อค"
+	},
+	"twitch.chat.block_help": {
+		"message": "คุณสามารถบล็อคผู้ชมได้โดยเพิ่มชื่อหรือชื่อผู้ใช้ (รวมทั้งบอท ถ้าต้องการ) ในช่องรายชื่อที่ถูกบล็อค โดยข้อความของพวกเขาจะไม่ปรากฏในช่องแชท[br][br]รายชื่อการบล็อคนี้จะไม่เชื่อโยงกับการบล็อคแชนแนลของคุณ รายชื่อนี้จะทำงานจากซอสของแชทนี้เท่านััน"
+	},
+	"twitch.chat.blocking_name": {
+		"message": "ป้อนชื่อ หรือชื่อผู้ใช้ ผู้ชมที่คุณต้องการจะบล็อค"
+	},
+	"twitch.chat.block_name": {
+		"message": "ชื่อ"
+	},
+	"twitch.chat.block_add": {
+		"message": "เพิ่มเติม"
+	},
+	"twitch.chat.block_remove": {
+		"message": "เอาออก"
+	},
+	"twitch.chat.preview": {
+		"message": "ตัวอย่าง"
+	}
+}

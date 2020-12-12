@@ -1,0 +1,38 @@
+{
+	"currentResolutionNotSupported": {
+		"message": "crwdns8419:0%resolution%crwdnd8419:0%fps%crwdne8419:0"
+	},
+	"currentResolutionNotSupportedYouTube": {
+		"message": "crwdns9856:0%resolution%crwdnd9856:0%fps%crwdne9856:0"
+	},
+	"currentResolutionSupported": {
+		"message": "crwdns8421:0%resolution%crwdnd8421:0%fps%crwdne8421:0"
+	},
+	"currentResolutionSupportedYouTube": {
+		"message": "crwdns9857:0%resolution%crwdnd9857:0%fps%crwdne9857:0"
+	},
+	"currentResolutionCapable1080pYouTube": {
+		"message": "crwdns14068:0%resolution%crwdnd14068:0%fps%crwdne14068:0"
+	},
+	"currentResolutionNotCapable1080pYouTube": {
+		"message": "crwdns14069:0%resolution%crwdnd14069:0%fps%crwdne14069:0"
+	},
+	"defaultMessage": {
+		"message": "crwdns9833:0%service%crwdne9833:0"
+	},
+	"resolution": {
+		"message": "crwdns4182:0crwdne4182:0"
+	},
+	"suggestedBitRate": {
+		"message": "crwdns4183:0crwdne4183:0"
+	},
+	"maximumBitRate": {
+		"message": "crwdns4184:0crwdne4184:0"
+	},
+	"minimumBitRate": {
+		"message": "crwdns4185:0crwdne4185:0"
+	},
+	"warning": {
+		"message": "crwdns4186:0%resolutions%crwdne4186:0"
+	}
+}

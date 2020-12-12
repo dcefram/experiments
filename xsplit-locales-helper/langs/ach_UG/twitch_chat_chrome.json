@@ -1,0 +1,155 @@
+{
+	"twitch.chat.tabheader": {
+		"message": "crwdns54486:0crwdne54486:0"
+	},
+	"twitch.chat.source": {
+		"message": "crwdns54488:0crwdne54488:0"
+	},
+	"twitch.chat.account": {
+		"message": "crwdns54490:0crwdne54490:0"
+	},
+	"twitch.chat.authorize": {
+		"message": "crwdns54492:0crwdne54492:0"
+	},
+	"twitch.chat.remove_authorization": {
+		"message": "crwdns54494:0%api%crwdne54494:0"
+	},
+	"twitch.chat.switch_account": {
+		"message": "crwdns54496:0%api%crwdne54496:0"
+	},
+	"twitch.chat.not_connected": {
+		"message": "crwdns54498:0crwdne54498:0"
+	},
+	"twitch.chat.connected": {
+		"message": "crwdns54500:0crwdne54500:0"
+	},
+	"twitch.chat.connect": {
+		"message": "crwdns54502:0crwdne54502:0"
+	},
+	"twitch.chat.disconnect": {
+		"message": "crwdns54504:0crwdne54504:0"
+	},
+	"twitch.chat.channel": {
+		"message": "crwdns54506:0crwdne54506:0"
+	},
+	"twitch.chat.error_channel_not_found": {
+		"message": "crwdns54508:0crwdne54508:0"
+	},
+	"twitch.chat.display": {
+		"message": "crwdns54510:0crwdne54510:0"
+	},
+	"twitch.chat.chat_box": {
+		"message": "crwdns54512:0crwdne54512:0"
+	},
+	"twitch.chat.opacity": {
+		"message": "crwdns54514:0crwdne54514:0"
+	},
+	"twitch.chat.viewers": {
+		"message": "crwdns54516:0crwdne54516:0"
+	},
+	"twitch.chat.message": {
+		"message": "crwdns54518:0crwdne54518:0"
+	},
+	"twitch.chat.outline_text": {
+		"message": "crwdns54520:0crwdne54520:0"
+	},
+	"twitch.chat.text_size": {
+		"message": "crwdns54522:0crwdne54522:0"
+	},
+	"twitch.chat.hide_user_name": {
+		"message": "crwdns54524:0crwdne54524:0"
+	},
+	"twitch.chat.hide_timestamp": {
+		"message": "crwdns54526:0crwdne54526:0"
+	},
+	"twitch.chat.hide_user_icons": {
+		"message": "crwdns54528:0crwdne54528:0"
+	},
+	"twitch.chat.hide_on_idle": {
+		"message": "crwdns54530:0crwdne54530:0"
+	},
+	"twitch.chat.seconds_unit": {
+		"message": "crwdns54532:0crwdne54532:0"
+	},
+	"twitch.chat.animation_text": {
+		"message": "crwdns54534:0crwdne54534:0"
+	},
+	"twitch.chat.animation_direction_text": {
+		"message": "crwdns54536:0crwdne54536:0"
+	},
+	"twitch.chat.animation_randomize": {
+		"message": "crwdns54538:0crwdne54538:0"
+	},
+	"twitch.chat.animation_override_settings": {
+		"message": "crwdns54540:0crwdne54540:0"
+	},
+	"twitch.chat.animation_duration": {
+		"message": "crwdns54542:0crwdne54542:0"
+	},
+	"twitch.chat.animation_set_duration": {
+		"message": "crwdns54544:0crwdne54544:0"
+	},
+	"twitch.chat.animation_text_size": {
+		"message": "crwdns54546:0crwdne54546:0"
+	},
+	"twitch.chat.seconds": {
+		"message": "crwdns54548:0crwdne54548:0"
+	},
+	"twitch.chat.animation_text_color": {
+		"message": "crwdns54550:0crwdne54550:0"
+	},
+	"twitch.chat.animation_none": {
+		"message": "crwdns54552:0crwdne54552:0"
+	},
+	"twitch.chat.animation_scroll": {
+		"message": "crwdns54554:0crwdne54554:0"
+	},
+	"twitch.chat.animation_scroll_text": {
+		"message": "crwdns54556:0[br]crwdnd54556:0[br]crwdne54556:0"
+	},
+	"twitch.chat.animation_direction_rightToLeft": {
+		"message": "crwdns54558:0crwdne54558:0"
+	},
+	"twitch.chat.animation_direction_leftToRight": {
+		"message": "crwdns54560:0crwdne54560:0"
+	},
+	"twitch.chat.animation_direction_randomize": {
+		"message": "crwdns54562:0crwdne54562:0"
+	},
+	"twitch.chat.outline_none": {
+		"message": "crwdns54564:0crwdne54564:0"
+	},
+	"twitch.chat.outline_thin": {
+		"message": "crwdns54566:0crwdne54566:0"
+	},
+	"twitch.chat.outline_thick": {
+		"message": "crwdns54568:0crwdne54568:0"
+	},
+	"twitch.chat.outline_thickest": {
+		"message": "crwdns54570:0crwdne54570:0"
+	},
+	"twitch.chat.blocking": {
+		"message": "crwdns63572:0crwdne63572:0"
+	},
+	"twitch.chat.blockedlist": {
+		"message": "crwdns63574:0crwdne63574:0"
+	},
+	"twitch.chat.block_help": {
+		"message": "crwdns63576:0[br]crwdnd63576:0[br]crwdne63576:0"
+	},
+	"twitch.chat.blocking_name": {
+		"message": "crwdns63578:0crwdne63578:0"
+	},
+	"twitch.chat.block_name": {
+		"message": "crwdns63580:0crwdne63580:0"
+	},
+	"twitch.chat.block_add": {
+		"message": "crwdns63582:0crwdne63582:0"
+	},
+	"twitch.chat.block_remove": {
+		"message": "crwdns63584:0crwdne63584:0"
+	},
+	"twitch.chat.preview": {
+		"message": "crwdns98744:0crwdne98744:0"
+	}
+}

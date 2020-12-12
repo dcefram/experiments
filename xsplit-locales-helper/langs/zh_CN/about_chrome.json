@@ -1,0 +1,38 @@
+{
+	"copyright": {
+		"message": "版权所有 &copy; %dates%"
+	},
+	"terms": {
+		"message": "此程序的部分使用开源软件库, 请参阅 [一般许可条款](%termslink%)"
+	},
+	"licenseBenefitsLine": {
+		"message": "购买 XSplit 获得同时联播,1080px + 更多!"
+	},
+	"licenseWillExpire": {
+		"message": "您的证书将在 **%expiry_date%** 过期"
+	},
+	"license-named": {
+		"message": "你有 **%name%**证书"
+	},
+	"license-scoped": {
+		"message": "你有 * *%name% * * 证书到期日期 * *%date% * *"
+	},
+	"license-outsourced": {
+		"message": "你有执照从 **%source%**"
+	},
+	"license-complimentary": {
+		"message": "你免费的扩展了你 **%name%** 今天的证书"
+	},
+	"upgrade": {
+		"message": "点击这里升级您的证书"
+	},
+	"extend": {
+		"message": "点击这里延长您的证书"
+	},
+	"buy": {
+		"message": "点击这里升级!"
+	},
+	"steam-header": {
+		"message": "选择你想要启动的应用程序."
+	}
+}

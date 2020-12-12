@@ -1,0 +1,287 @@
+{
+	"socials.stream.label": {
+		"message": "シェアするストリーミングの選択"
+	},
+	"socials.facebook.tab": {
+		"message": "Facebook"
+	},
+	"socials.facebook.logged": {
+		"message": "**%username%**でログインしています"
+	},
+	"socials.facebook.title": {
+		"message": "Facebookでストリーミングをシェアする"
+	},
+	"socials.facebook.messagePlaceholder": {
+		"message": "ここにメッセージを入力して下さい"
+	},
+	"socials.facebook.privacy.label": {
+		"message": "プライバシー"
+	},
+	"socials.facebook.privacy.values.EVERYONE": {
+		"message": "パブリック"
+	},
+	"socials.facebook.privacy.values.ALL_FRIENDS": {
+		"message": "友人"
+	},
+	"socials.facebook.privacy.values.FRIENDS_OF_FRIENDS": {
+		"message": "友人の友人"
+	},
+	"socials.facebook.privacy.values.SELF": {
+		"message": "自分だけ"
+	},
+	"socials.facebook.share": {
+		"message": "共有"
+	},
+	"socials.facebook.cancel": {
+		"message": "キャンセル"
+	},
+	"socials.facebook.authenticate": {
+		"message": "Facebookへの投稿の承認"
+	},
+	"socials.facebook.unauthenticated": {
+		"message": "Facebookにあなたの放送を共有するにはログインする必要があります。"
+	},
+	"socials.twitter.tab": {
+		"message": "Twitter"
+	},
+	"socials.twitter.logged": {
+		"message": "**%username%**でログインしています"
+	},
+	"socials.twitter.title": {
+		"message": "Twitterでストリーミングをシェアする"
+	},
+	"socials.twitter.messagePlaceholder": {
+		"message": "ここにメッセージを入力して下さい"
+	},
+	"socials.twitter.tweet": {
+		"message": "共有"
+	},
+	"socials.twitter.cancel": {
+		"message": "キャンセル"
+	},
+	"socials.twitter.authenticate": {
+		"message": "Twitterへの投稿の承認"
+	},
+	"socials.twitter.unauthenticated": {
+		"message": "Twitterにあなたの放送を共有するにはログインする必要があります。"
+	},
+	"socials.google.tab": {
+		"message": "Google+"
+	},
+	"socials.google.logged": {
+		"message": "**%username%**でログインしています"
+	},
+	"socials.google.title": {
+		"message": "Google+でストリーミングをシェアする"
+	},
+	"socials.google.share": {
+		"message": "共有"
+	},
+	"socials.google.cancel": {
+		"message": "キャンセル"
+	},
+	"socials.google.authenticate": {
+		"message": "Google+への投稿を承認する"
+	},
+	"socials.google.unauthenticated": {
+		"message": "Google+にあなたの放送を共有するにはログインする必要があります。"
+	},
+	"socials.processing": {
+		"message": "処理中"
+	},
+	"facebookShare.addMessage": {
+		"message": "ここにメッセージを入力して下さい"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "Facebookにビデオをシェアする"
+	},
+	"facebookShare.via": {
+		"message": "XSplit Broadcaster経由"
+	},
+	"facebookShare.privacy": {
+		"message": "プライバシー"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "パブリック"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "友人"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "友人の友人"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "自分だけ"
+	},
+	"facebookShare.shareVideo": {
+		"message": "ビデオ共有"
+	},
+	"facebookShare.cancel": {
+		"message": "キャンセル"
+	},
+	"facebookShare.processing": {
+		"message": "処理中"
+	},
+	"facebookShare.postAs": {
+		"message": "投稿先"
+	},
+	"facebookShare.timeline": {
+		"message": "Facebookタイムライン"
+	},
+	"facebookShare.managePage": {
+		"message": "管理するページ"
+	},
+	"twitterShare.addMessage": {
+		"message": "ここにメッセージを入力して下さい"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "Twitterにビデオをシェアする"
+	},
+	"twitterShare.privacy": {
+		"message": "プライバシー"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "ビデオ共有"
+	},
+	"twitterShare.cancel": {
+		"message": "キャンセル"
+	},
+	"twitterShare.processing": {
+		"message": "処理中"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "ここにメッセージを入力して下さい"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "Google+でビデオをシェアする"
+	},
+	"googlePlusShare.via": {
+		"message": "XSplit Broadcaster経由"
+	},
+	"googlePlusShare.privacy": {
+		"message": "プライバシー"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "全員"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "すべての友人"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "友人の友人"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "自分"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "ビデオ共有"
+	},
+	"googlePlusShare.cancel": {
+		"message": "キャンセル"
+	},
+	"googlePlusShare.processing": {
+		"message": "処理中"
+	},
+	"vodShare.unauthorized": {
+		"message": "放送を共有する前に、上部のアイコンをクリックし、少なくとも一つのSNSアカウントを承認する必要があります。"
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "放送を共有する"
+	},
+	"vodShare.processing": {
+		"message": "処理中"
+	},
+	"vodShare.addLink": {
+		"message": "放送リンクを追加する"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "プライバシー設定"
+	},
+	"vodShare.gameCheckin": {
+		"message": "ゲームチェックイン"
+	},
+	"vodShare.shareVideo": {
+		"message": "ビデオ共有"
+	},
+	"vodShare.cancel": {
+		"message": "キャンセル"
+	},
+	"vodShare.shareTo.1": {
+		"message": "%service1% にのみ共有する"
+	},
+	"vodShare.shareTo.2": {
+		"message": "%service1% と %service2% に共有する"
+	},
+	"vodShare.shareTo.3": {
+		"message": "%service1%と%service2%と%service3% に共有する"
+	},
+	"vodShare.shareTo.4": {
+		"message": "%service1%と%service2%と%service3%と%service4% に共有する"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "TWITTERメッセージカウンター"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "Twitterに投稿できるのこり文字数を計算します。青色のテキストがメッセージ内表示され、このテキストのみTwitterに投稿されます。"
+	},
+	"vodShare.gameNameWarning": {
+		"message": "Player.meのデータベースに入力されたゲーム名は存在しません。その為、投稿にゲーム名は表示されません。"
+	},
+	"vodShare.loadMore": {
+		"message": "さらに読み込む..."
+	},
+	"vodStatus.title": {
+		"message": "放送を共有する"
+	},
+	"vodStatus.facebook": {
+		"message": "Facebook"
+	},
+	"vodStatus.twitter": {
+		"message": "Twitter"
+	},
+	"vodStatus.playerme": {
+		"message": "Player.me"
+	},
+	"vodStatus.gplus": {
+		"message": "Google Plus"
+	},
+	"vodStatus.posting": {
+		"message": "%social%に投稿中..."
+	},
+	"vodStatus.success": {
+		"message": "正常に%social%へ投稿しました。[br][%message%](%url%)"
+	},
+	"vodStatus.message.facebook": {
+		"message": "投稿を表示する"
+	},
+	"vodStatus.message.twitter": {
+		"message": "ツイートを表示する"
+	},
+	"vodStatus.message.playerme": {
+		"message": "投稿を表示する"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "詳細を表示する"
+	},
+	"vodStatus.error": {
+		"message": "%social%の投稿に失敗しました。"
+	},
+	"vodStatus.failed": {
+		"message": "%social%の投稿に失敗しました。[br][%message%](%url%)"
+	},
+	"vodStatus.invalid": {
+		"message": "%social%に投稿できません。"
+	},
+	"vodStatus.edit": {
+		"message": "編集する"
+	},
+	"vodStatus.retry": {
+		"message": "リトライ"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "提案を検索中..."
+	},
+	"dialog.ok": {
+		"message": "閉じる"
+	}
+}

@@ -1,0 +1,287 @@
+{
+	"socials.stream.label": {
+		"message": "เลือกสตรีมที่จะแชร์"
+	},
+	"socials.facebook.tab": {
+		"message": "Facebook"
+	},
+	"socials.facebook.logged": {
+		"message": "ลงชื่อเข้าใช้เป็น: **%username%**"
+	},
+	"socials.facebook.title": {
+		"message": "แชร์สตรีมของคุณไปยัง Facebook"
+	},
+	"socials.facebook.messagePlaceholder": {
+		"message": "พิมพ์ข้อความของคุณที่นี่"
+	},
+	"socials.facebook.privacy.label": {
+		"message": "ส่วนตัว"
+	},
+	"socials.facebook.privacy.values.EVERYONE": {
+		"message": "สาธารณะ"
+	},
+	"socials.facebook.privacy.values.ALL_FRIENDS": {
+		"message": "เพื่อน"
+	},
+	"socials.facebook.privacy.values.FRIENDS_OF_FRIENDS": {
+		"message": "เพื่อนของเพื่อน"
+	},
+	"socials.facebook.privacy.values.SELF": {
+		"message": "เฉพาะฉัน"
+	},
+	"socials.facebook.share": {
+		"message": "แชร์"
+	},
+	"socials.facebook.cancel": {
+		"message": "ยกเลิก"
+	},
+	"socials.facebook.authenticate": {
+		"message": "อนุญาตให้โพสไปยัง Facebook"
+	},
+	"socials.facebook.unauthenticated": {
+		"message": "คุณต้องทำการลงชื่อเข้าใช้เพื่อที่จะแชร์บรอดแคสต์ของคุณไปยัง Facebook"
+	},
+	"socials.twitter.tab": {
+		"message": "Twitter"
+	},
+	"socials.twitter.logged": {
+		"message": "ลงชื่อเข้าใช้เป็น: **%username%**"
+	},
+	"socials.twitter.title": {
+		"message": "แชร์สตรีมของคุณไปยัง Twitter"
+	},
+	"socials.twitter.messagePlaceholder": {
+		"message": "พิมพ์ข้อความของคุณที่นี่"
+	},
+	"socials.twitter.tweet": {
+		"message": "แชร์"
+	},
+	"socials.twitter.cancel": {
+		"message": "ยกเลิก"
+	},
+	"socials.twitter.authenticate": {
+		"message": "อนุญาตให้โพสไปยัง Twitter"
+	},
+	"socials.twitter.unauthenticated": {
+		"message": "คุณต้องทำการลงชื่อเข้าใช้เพื่อที่จะแชร์บรอดแคสต์ของคุณไปยัง Twitter"
+	},
+	"socials.google.tab": {
+		"message": "Google+"
+	},
+	"socials.google.logged": {
+		"message": "ลงชื่อเข้าใช้เป็น: **%username%**"
+	},
+	"socials.google.title": {
+		"message": "แชร์สตรีมของคุณไปยัง Google+"
+	},
+	"socials.google.share": {
+		"message": "แชร์"
+	},
+	"socials.google.cancel": {
+		"message": "ยกเลิก"
+	},
+	"socials.google.authenticate": {
+		"message": "อนุญาตให้โพสไปยัง Google+"
+	},
+	"socials.google.unauthenticated": {
+		"message": "คุณต้องทำการลงชื่อเข้าใช้เพื่อที่จะแชร์บรอดแคสต์ของคุณไปยัง Google+"
+	},
+	"socials.processing": {
+		"message": "กำลังประมวลผล"
+	},
+	"facebookShare.addMessage": {
+		"message": "พิมพ์ข้อความของคุณที่นี่"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "แชร์วิดีโอไปยัง Facebook"
+	},
+	"facebookShare.via": {
+		"message": "ผ่านทาง XSplit Broadcaster"
+	},
+	"facebookShare.privacy": {
+		"message": "ส่วนตัว"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "สาธารณะ"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "เพื่อน"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "เพื่อนของเพื่อน"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "เฉพาะฉัน"
+	},
+	"facebookShare.shareVideo": {
+		"message": "แชร์"
+	},
+	"facebookShare.cancel": {
+		"message": "ยกเลิก"
+	},
+	"facebookShare.processing": {
+		"message": "กำลังประมวลผล"
+	},
+	"facebookShare.postAs": {
+		"message": "โพสไปยัง"
+	},
+	"facebookShare.timeline": {
+		"message": "Facebook ทามไลน์"
+	},
+	"facebookShare.managePage": {
+		"message": "เพจที่คุณเป็นคนจัดการ"
+	},
+	"twitterShare.addMessage": {
+		"message": "พิมพ์ข้อความของคุณที่นี่"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "แชร์วิดีโอไปยัง Twitter"
+	},
+	"twitterShare.privacy": {
+		"message": "ส่วนตัว"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "แชร์"
+	},
+	"twitterShare.cancel": {
+		"message": "ยกเลิก"
+	},
+	"twitterShare.processing": {
+		"message": "กำลังประมวลผล"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "พิมพ์ข้อความของคุณที่นี่"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "แชร์วิดีโอไปยัง Google+"
+	},
+	"googlePlusShare.via": {
+		"message": "ผ่านทาง XSplit Broadcaster"
+	},
+	"googlePlusShare.privacy": {
+		"message": "ส่วนตัว"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "ทุกคน"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "เพื่อนทั้งหมด"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "เพื่อนของเพื่อน"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "ตัวเอง"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "แชร์"
+	},
+	"googlePlusShare.cancel": {
+		"message": "ยกเลิก"
+	},
+	"googlePlusShare.processing": {
+		"message": "กำลังประมวลผล"
+	},
+	"vodShare.unauthorized": {
+		"message": "ก่อนที่คุณจะสามารถแชร์สตรีมของคุณได้ คุณต้องอนุญาตให้ใช้งานบัญชีของโซเชียลมีเดียอย่างน้อย 1 บัญชี โดยคลิ๊กที่ไอค่อนด้านบน"
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "แชร์สตรีม"
+	},
+	"vodShare.processing": {
+		"message": "กำลังประมวลผล"
+	},
+	"vodShare.addLink": {
+		"message": "เพิ่มสตรีมลิงก์"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "การตั้งค่าความเป็นส่วนตัว"
+	},
+	"vodShare.gameCheckin": {
+		"message": "เกมเช็คอิน"
+	},
+	"vodShare.shareVideo": {
+		"message": "แชร์"
+	},
+	"vodShare.cancel": {
+		"message": "ยกเลิก"
+	},
+	"vodShare.shareTo.1": {
+		"message": "แชร์ไปยัง %service1% เท่านั้น"
+	},
+	"vodShare.shareTo.2": {
+		"message": "แชร์ไปยัง %service1% และ %service2%"
+	},
+	"vodShare.shareTo.3": {
+		"message": "แชร์ไปยัง %service1%, %service2% และ %service3%"
+	},
+	"vodShare.shareTo.4": {
+		"message": "แชร์ไปยัง %service1%, %service2%, %service3% และ %service4%"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "ตัวนับจำนวนข้อความ Twitter"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "นับจำนวนตัวอักษรที่เหลือที่สามารถโพสไปยัง Twitter คุณจะพบตัวอักษรสีฟ้าอยู่ในข้อความ โดยตัวอักษรสีน้ำเงินเท่านั้นที่จะถูกโพสไปยัง Twitter"
+	},
+	"vodShare.gameNameWarning": {
+		"message": "ชื่อเกมไม่มีอยุ่ในฐานข้อมูลของ Player.me ดังนั้นมันจะไม่แสดงลงในโพสของคุณ"
+	},
+	"vodShare.loadMore": {
+		"message": "โหลดเพิ่มเติม"
+	},
+	"vodStatus.title": {
+		"message": "แชร์สตรีม"
+	},
+	"vodStatus.facebook": {
+		"message": "Facebook"
+	},
+	"vodStatus.twitter": {
+		"message": "Twitter"
+	},
+	"vodStatus.playerme": {
+		"message": "Player.me"
+	},
+	"vodStatus.gplus": {
+		"message": "Google Plus"
+	},
+	"vodStatus.posting": {
+		"message": "กำลังโพสไปยัง %social%..."
+	},
+	"vodStatus.success": {
+		"message": "โพสลงบน %social% สำเร็จ [br][%message%](%url%)"
+	},
+	"vodStatus.message.facebook": {
+		"message": "ดูโพส"
+	},
+	"vodStatus.message.twitter": {
+		"message": "ดู Tweet"
+	},
+	"vodStatus.message.playerme": {
+		"message": "ดูโพส"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "ดูรายละเอียด"
+	},
+	"vodStatus.error": {
+		"message": "โพสไปยัง %social% ไม่สำเร็จ"
+	},
+	"vodStatus.failed": {
+		"message": "โพสไปยัง %social% ไม่สำเร็จ [br][%message%](%url%)"
+	},
+	"vodStatus.invalid": {
+		"message": "ไม่สามารถโพสไปยัง %social%"
+	},
+	"vodStatus.edit": {
+		"message": "แก้ไข"
+	},
+	"vodStatus.retry": {
+		"message": "ลองใหม่อีกครั้ง"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "มองหาคำแนะนำ..."
+	},
+	"dialog.ok": {
+		"message": "ปิด"
+	}
+}

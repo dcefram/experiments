@@ -1,0 +1,104 @@
+{
+  "image_slideshow.images": {
+    "message": "Изображения"
+  },
+  "image_slideshow.add": {
+    "message": "Добавить"
+  },
+  "image_slideshow.remove": {
+    "message": "Удалить"
+  },
+  "image_slideshow.preview": {
+    "message": "Предварительный просмотр"
+  },
+  "image_slideshow.transition_preview": {
+    "message": "Просмотр перехода"
+  },
+  "image_slideshow.browser_60_fps": {
+    "message": "Показывать при частоте до 60 FPS"
+  },
+  "image_slideshow.effects": {
+    "message": "Транзакция"
+  },
+  "image_slideshow.transition": {
+    "message": "Транзакция"
+  },
+  "image_slideshow.loop": {
+    "message": "Цикл"
+  },
+  "image_slideshow.interval": {
+    "message": "Интервал"
+  },
+  "image_slideshow.seconds": {
+    "message": "секунды"
+  },
+  "image_slideshow.shuffle_images": {
+    "message": "Перестановка изображений"
+  },
+  "image_slideshow.auto_refresh_images": {
+    "message": "Автообновление изображений"
+  },
+  "image_slideshow.remember_playback_position": {
+    "message": "Запомнить позицию воспроизведения"
+  },
+  "image_slideshow.ok": {
+    "message": "Ok"
+  },
+  "image_slideshow.cancel": {
+    "message": "Отменить"
+  },
+  "image_slideshow.hint.images_section": {
+    "message": "Добавить, удалить и изменить порядок изображений"
+  },
+  "image_slideshow.hint.effects_section": {
+    "message": "Применить переходы, включить зацикливание и установить длительность интервала"
+  },
+  "image_slideshow.hint.browser_60_fps_title": {
+    "message": "Показывать при частоте до 60 FPS"
+  },
+  "image_slideshow.hint.browser_60_fps_message": {
+    "message": "Могут потребоваться дополнительные ресурсы процессора или видеокарты. Учтите, что переключение этой опции приведёт к обновлению источника. Для достижения наилучшей производительности активируйте в браузере параметр \"Специальная оптимизация браузерного источника\" в пункте меню Инструменты -> Настройки -> Дополнительно."
+  },
+  "image_slideshow.hint.auto_refresh_images_message": {
+    "message": "Активация данной опции приведёт к автоматическому обновлению изображений после завершения каждого цикла. Однако, включение этой опции может замедлить показ слайдшоу в источнике."
+  },
+  "image_slideshow.hotkeys": {
+    "message": "Горячие клавиши"
+  },
+  "image_slideshow.hotkey_header": {
+    "message": "Используйте данные клавиши, когда  источник выбран:"
+  },
+  "image_slideshow.hotkey_p": {
+    "message": "Нажмите &quot;**P**&quot; для приостановки слайд-шоу (режим слайд-шоу)"
+  },
+  "image_slideshow.hotkey_s": {
+    "message": "Нажмите &quot;**S**&quot; для прекращения слайд-шоу (режим слайд-шоу)"
+  },
+  "image_slideshow.hotkey_r": {
+    "message": "Нажмите &quot;**R**&quot; для перезапуска слайд-шоу (режим слайд-шоу)"
+  },
+  "image_slideshow.hotkey_n": {
+    "message": "Нажмите &quot;**N**&quot; для того, чтобы перейти на следующий слайд (режим слайд-шоу)"
+  },
+  "image_slideshow.hotkey_b": {
+    "message": "Нажмите &quot;**B**&quot; для того, чтобы перейти на предыдущий слайд (режим слайд-шоу)"
+  },
+  "image_slideshow.double_click_main": {
+    "message": "Необходимо дважды кликнуть по основному изображению для того чтобы отобразились эскизы (режим слайд-шоу)"
+  },
+  "image_slideshow.double_click_thumbnail": {
+    "message": "Необходимо дважды кликнуть на эскиз для того чтобы отобразилось основное изображение (режим слайд-шоу)"
+  },
+  "image_slideshow.browse": {
+    "message": "Просмотр загруженных эскизов возможен путем перетаскивания их иконок. &quot;Lock Position&quot; свойства источника должны быть проверены. (Галочка для позиции Lock расположена во вкладке &quot;Layout&quot;)"
+  },
+  "image_slideshow.loop_select_options_hide": {
+    "message": "1 раз, затем скрыть"
+  },
+  "image_slideshow.loop_select_options_nothing": {
+    "message": "Единоразово"
+  },
+  "image_slideshow.loop_select_options_loop": {
+    "message": "Всегда"
+  }
+}

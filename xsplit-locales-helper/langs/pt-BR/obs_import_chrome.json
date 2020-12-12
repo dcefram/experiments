@@ -1,0 +1,23 @@
+{
+  "obsImport.permission_error": {
+    "message": "DLL access is required. Please go to [Tools -> Permissions] and grant access for this extension in order to proceed."
+  },
+  "obsImport.permission_button": {
+    "message": "Va a permissões"
+  },
+  "obsImport.import_text": {
+    "message": "Import your OBS Scene Collections as a new XSplit Broadcaster Presentation. Some source types may not be compatible."
+  },
+  "obsImport.text_link": {
+    "message": "Click here to learn more"
+  },
+  "obsImport.file_error": {
+    "message": "Please select a valid OBS Scene Collection json file"
+  },
+  "obsImport.logs_link": {
+    "message": "Click here to see logs"
+  },
+  "obsImport.import": {
+    "message": "Import"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "video_playlist.audio_output": {
+    "message": "Audio Output"
+  },
+  "video_playlist.playback": {
+    "message": "Playback"
+  },
+  "video_playlist.when_finished": {
+    "message": "عند الانتهاء"
+  },
+  "video_playlist.start_on_load": {
+    "message": "Play on scene enter"
+  },
+  "video_playlist.remember_playback_position": {
+    "message": "تذكر موضع التشغيل"
+  },
+  "video_playlist.show_playback_position": {
+    "message": "إظهار موقف التشغيل في مقاطع الفيديو"
+  },
+  "video_playlist.start_at": {
+    "message": "Start at"
+  },
+  "video_playlist.set": {
+    "message": "ضبط"
+  },
+  "video_playlist.end_at": {
+    "message": "End at"
+  },
+  "video_playlist.reset": {
+    "message": "إعادة تعيين "
+  },
+  "video_playlist.force_deinterlace": {
+    "message": "قوة التشابك"
+  },
+  "video_playlist.videos": {
+    "message": "أشرطة فيديو"
+  },
+  "video_playlist.playlist": {
+    "message": "قائمة التشغيل"
+  },
+  "video_playlist.add": {
+    "message": "إضافة"
+  },
+  "video_playlist.remove": {
+    "message": "إزالة "
+  },
+  "video_playlist.ok": {
+    "message": "Ok"
+  },
+  "video_playlist.cancel": {
+    "message": "Cancel"
+  },
+  "video_playlist.hint.videos_section": {
+    "message": "إضافة وإزالة وطلب الفيديو"
+  },
+  "video_playlist.hint.video_playback_section": {
+    "message": "التحكم في التشغيل ، وضبط حجم الفيديو ، وضبط جهاز إخراج الصوت."
+  },
+  "video_playlist.hint.video_missing": {
+    "message": "The source file is missing. It may have been renamed or deleted."
+  },
+  "video_playlist.processing": {
+    "message": "جارٍ معالجة مقاطع الفيديو ..."
+  }
+}

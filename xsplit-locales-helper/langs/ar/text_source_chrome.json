@@ -1,0 +1,122 @@
+{
+  "textSource.tabheader_content": {
+    "message": "يحتوى"
+  },
+  "textSource.tabheader_style": {
+    "message": "Styles"
+  },
+  "textSource.style_dropshadow": {
+    "message": "Drop shadow"
+  },
+  "textSource.style_dropshadow_color": {
+    "message": "Color"
+  },
+  "textSource.style_dropshadow_distance": {
+    "message": "مسافه"
+  },
+  "textSource.style_dropshadow_angle": {
+    "message": "زاوية"
+  },
+  "textSource.style_dropshadow_blur": {
+    "message": "Blur"
+  },
+  "textSource.style_dropshadow_opacity": {
+    "message": "الشفافيه"
+  },
+  "textSource.style_animation": {
+    "message": "حيوية"
+  },
+  "textSource.style_animation_scroll": {
+    "message": "التمرير"
+  },
+  "textSource.style_animation_fade": {
+    "message": "تلاشى"
+  },
+  "textSource.style_animation_enable_60fps": {
+    "message": "Enable up to 60 FPS"
+  },
+  "textSource.style_animation_fade_delimeter": {
+    "message": "محدد"
+  },
+  "textSource.style_animation_fade_interval": {
+    "message": "Interval"
+  },
+  "textSource.style_animation_scroll_direction": {
+    "message": "اتجاه"
+  },
+  "textSource.style_animation_scroll_direction_rightToLeft": {
+    "message": "Right to Left"
+  },
+  "textSource.style_animation_scroll_direction_leftToRight": {
+    "message": "Left to Right"
+  },
+  "textSource.style_animation_scroll_direction_bottomToTop": {
+    "message": "Bottom to Top"
+  },
+  "textSource.style_animation_scroll_direction_topToBottom": {
+    "message": "Top to Bottom"
+  },
+  "textSource.style_animation_scroll_speed": {
+    "message": "Speed"
+  },
+  "textSource.style_animation_scroll_lineLimit": {
+    "message": "حد الخط"
+  },
+  "textSource.content_text": {
+    "message": "Text/BBCode"
+  },
+  "textSource.content_textFile": {
+    "message": "Text file"
+  },
+  "textSource.content_script": {
+    "message": "النصي"
+  },
+  "textSource.content_script_clock": {
+    "message": "ساعة "
+  },
+  "textSource.content_script_stopwatch": {
+    "message": "Stopwatch"
+  },
+  "textSource.content_script_timer": {
+    "message": "Timer"
+  },
+  "textSource.content_script_load_url": {
+    "message": "Load text from Remote URL"
+  },
+  "textSource.content_script_rss": {
+    "message": "RSS Feed Reader"
+  },
+  "textSource.content_script_videoList": {
+    "message": "Video List"
+  },
+  "textSource.content_script_custom": {
+    "message": "Custom script"
+  },
+  "textSource.content_header_formatting": {
+    "message": "Formatting"
+  },
+  "textSource.formatting_font": {
+    "message": "الخط"
+  },
+  "textSource.formatting_outline": {
+    "message": "الخطوط العريضة"
+  },
+  "textSource.formatting_style": {
+    "message": "المظهر"
+  },
+  "textSource.formatting_align": {
+    "message": "محاذاة"
+  },
+  "textSource.formatting_sizing": {
+    "message": "Sizing"
+  },
+  "textSource.formatting_sizing_automatic": {
+    "message": "تلقائي"
+  },
+  "textSource.formatting_sizing_fixed": {
+    "message": "Fixed"
+  },
+  "textSource.formatting_sizing_wordWrap": {
+    "message": "Word wrap"
+  }
+}

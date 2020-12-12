@@ -1,0 +1,98 @@
+{
+  "title.source": {
+    "message": "Fonte"
+  },
+  "subtitle.account": {
+    "message": "Conta"
+  },
+  "link.authorize": {
+    "message": "Autorizar o XSplit para usar a Live no Facebook"
+  },
+  "subtitle2.authorize.error": {
+    "message": "Por favor, autorize novamente e conceda acesso a todas permissões exigidas pelo XSplit para essa funcionalidade"
+  },
+  "subtitle.connect": {
+    "message": "URL do post"
+  },
+  "chat.disconnected": {
+    "message": "Não conectado"
+  },
+  "chat.connected": {
+    "message": "Conectado"
+  },
+  "help.post.title": {
+    "message": "URL do post"
+  },
+  "help.post.text": {
+    "message": "URLs permitidas são posts públicos, seus próprios posts (vídeos, imagens, etc) em sua timeline ou posts de imagens e vídeos de uma página que você gerencia."
+  },
+  "chat.connect": {
+    "message": "Conectar-se"
+  },
+  "chat.disconnect": {
+    "message": "Desconectar-se"
+  },
+  "subtitle2.connect.error": {
+    "message": "Por favor informe um endereço válido de vídeo ou publicação."
+  },
+  "title.display": {
+    "message": "Tela"
+  },
+  "label.lock": {
+    "message": "Travar componentes"
+  },
+  "help.lock.title": {
+    "message": "Travar componentes"
+  },
+  "help.lock.text": {
+    "message": "Ao marcar esta opção você irá desativar o hover do mouse, reposicionamento e redimensionamento dos componentes.[br]Marque se você não deseja exibir efeitos de hover sobre os componentes, especialmente durante a transmissão ou gravação."
+  },
+  "label.reactions": {
+    "message": "Mostrar reações e etiquetas"
+  },
+  "button.reset": {
+    "message": "Redefinir"
+  },
+  "label.bg": {
+    "message": "Fundo do contador"
+  },
+  "label.counter": {
+    "message": "Contador"
+  },
+  "label.label": {
+    "message": "Etiqueta"
+  },
+  "label.opacity": {
+    "message": "Opacidade"
+  },
+  "label.hide_connection_message": {
+    "message": "Ocultar mensagens de conexão"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** alternar conta"
+  },
+  "authenticate.remove": {
+    "message": "**%user** Remover autorização"
+  },
+  "input.like": {
+    "message": "Curtir"
+  },
+  "input.love": {
+    "message": "Amei"
+  },
+  "input.haha": {
+    "message": "Haha"
+  },
+  "input.sad": {
+    "message": "Triste"
+  },
+  "input.wow": {
+    "message": "Uau"
+  },
+  "input.angry": {
+    "message": "Raivoso"
+  },
+  "tabheader.title": {
+    "message": "Reações à publicação"
+  }
+}

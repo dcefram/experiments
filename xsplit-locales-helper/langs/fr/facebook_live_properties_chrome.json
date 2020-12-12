@@ -1,0 +1,95 @@
+{
+	"title": {
+		"message": "Propriétés Facebook Live"
+	},
+	"save_close": {
+		"message": "Enregistrer et Fermer"
+	},
+	"start_streaming": {
+		"message": "Continuer"
+	},
+	"logged_in_as": {
+		"message": "Connecté en tant que: %fullname%"
+	},
+	"switch_account": {
+		"message": "[Changer de compte](switchAccount)"
+	},
+	"remove_auth": {
+		"message": "[Supprimer l’autorisation](removeAuth)"
+	},
+	"stream_settings": {
+		"message": "Paramètres Stream"
+	},
+	"stream_to.label": {
+		"message": "Streamer vers: "
+	},
+	"stream_to.values.timeline": {
+		"message": "Fil d'actualité"
+	},
+	"stream_to.values.page": {
+		"message": "Page"
+	},
+	"stream_to.values.group": {
+		"message": "Groupe"
+	},
+	"stream_to.values.event": {
+		"message": "Événement "
+	},
+	"stream_to.pageauth": {
+		"message": "Page - Nécessite une permission"
+	},
+	"stream_to.groupauth": {
+		"message": "Groupe - Nécessite une permission"
+	},
+	"stream_to.eventauth": {
+		"message": "Événement - Nécessite une permission"
+	},
+	"page": {
+		"message": "Page: "
+	},
+	"timeline": {
+		"message": "Fil d'actualité: "
+	},
+	"group": {
+		"message": "Groupe: "
+	},
+	"event": {
+		"message": "Événement : "
+	},
+	"format.label": {
+		"message": "Format: "
+	},
+	"encoder.label": {
+		"message": "Encodeur: "
+	},
+	"bitrate": {
+		"message": "Bitrate: "
+	},
+	"saveVideo": {
+		"message": "Enregistrer vidéo dans Mes Enregistrements"
+	},
+	"resolutionWarning": {
+		"message": "Votre matériel peut rencontrer des problèmes de performance à cette résolution."
+	},
+	"bitrateWarning": {
+		"message": "Votre bande passante peut ne pas suffire pour streamer à ce débit."
+	},
+	"streamingWarning": {
+		"message": "Tests de bande passante et de hardware ne peuvent être effectué pendant que vous streamez/enregistrez."
+	},
+	"checkAgain": {
+		"message": "[Tester à nouveau?](testAgain)"
+	},
+	"authorize": {
+		"message": "Cliquer pour autoriser XSplit à streamer sur votre compte Facebook"
+	},
+	"configuring": {
+		"message": "Réglage de vos paramètres..."
+	},
+	"system_test": {
+		"message": "Dernier test du système : %timestamp% [Tester à nouveau](testAgain)"
+	},
+	"advanced_settings": {
+		"message": "[Paramètres avancés](advancedSettings)"
+	}
+}

@@ -1,0 +1,110 @@
+{
+  "title.source": {
+    "message": "Quelle"
+  },
+  "subtitle.account": {
+    "message": "Konto"
+  },
+  "link.authorize": {
+    "message": "XSplit autorisieren, Facebook Live zu verwenden"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** Konto wechseln"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** Autorisierung entfernen"
+  },
+  "subtitle2.authorize.error": {
+    "message": "Bitte versuchen Sie erneut zu autorisieren und gewähren Sie den Zugriff auf alle Berechtigungen, die von XSplit für diese Funktionalität benötigt werden"
+  },
+  "subtitle.source": {
+    "message": "Quelle"
+  },
+  "source.values.automatic": {
+    "message": "Automatisch"
+  },
+  "chat.reaction.not_connected": {
+    "message": "Reaktionen werden automatisch geladen, sobald Stream live ist"
+  },
+  "chat.comment.not_connected": {
+    "message": "Kommentare werden automatisch geladen, sobald Stream live ist"
+  },
+  "chat.connected": {
+    "message": "Verbunden"
+  },
+  "title.display": {
+    "message": "Anzeige"
+  },
+  "help.display.title": {
+    "message": "Reaktionen-Animation"
+  },
+  "help.display.text": {
+    "message": "Anpassen wie Live-Reaktionen in Ihrem Live-Stream angezeigt werden![br]Wählen Sie einen Animationstyp und kontrollieren Sie verschiedene Einstellungen.[br][br]Verwenden Sie die Vorschau-Schaltfläche, um Ihre Animationen bevor Sie live gehen zu überprüfen."
+  },
+  "animation.text": {
+    "message": "Animation"
+  },
+  "label.streamprops": {
+    "message": "Stream-Eigenschaften"
+  },
+  "button.reset": {
+    "message": "Zurücksetzen"
+  },
+  "label.direction": {
+    "message": "Richtung"
+  },
+  "label.time": {
+    "message": "Zeit"
+  },
+  "label.seconds": {
+    "message": "Sekunden"
+  },
+  "label.timevariation": {
+    "message": "Zeitabweichung"
+  },
+  "label.emoji.size": {
+    "message": "Emoji-Größe"
+  },
+  "label.pixels": {
+    "message": "Pixel"
+  },
+  "label.sizevariation": {
+    "message": "Größenabweichung"
+  },
+  "label.hide_connection_message": {
+    "message": "Verbindungsmeldungen ausblenden"
+  },
+  "button.preview": {
+    "message": "Vorschau"
+  },
+  "animation.types.stream": {
+    "message": "Reaktionenstream"
+  },
+  "animation.types.pop": {
+    "message": "Hinein- und Herausspringen"
+  },
+  "stream.directions.leftToRight": {
+    "message": "Links nach rechts"
+  },
+  "stream.directions.topToBottom": {
+    "message": "Oben nach unten"
+  },
+  "stream.directions.rightToLeft": {
+    "message": "Rechts nach links"
+  },
+  "stream.directions.bottomToTop": {
+    "message": "Unten nach oben"
+  },
+  "tabheader.title": {
+    "message": "Reaktionen"
+  },
+  "label.not_seeing_videos": {
+    "message": "Ihr Live-Video wird nicht angezeigt?"
+  },
+  "label.not_seeing_videos_help": {
+    "message": "Sie haben uns eventuell keine Berechtigung für den Zugriff auf einige der Live-Videos Ihrer Seite erteilt."
+  },
+  "label.not_seeing_videos_link": {
+    "message": "Klicken Sie hier, um erneut zu autorisieren"
+  }
+}

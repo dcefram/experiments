@@ -1,0 +1,89 @@
+{
+    "loadingStatus.messages.splashScreenStatus_LoggingIn.message": {
+        "message": "تسجيل الدخول..."
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingBroadcastPlugins.message": {
+        "message": "جارٍ تحميل مكونات البث ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingBroadcastPluginsXbc5003.message": {
+        "message": "جارٍ تحميل المخرجات ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingBroadcastPlugins.message": {
+        "message": "جارٍ فحص المكونات الإضافية للبث ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingBroadcastPluginsXbc5003.message": {
+        "message": "جارٍ فحص المخرجات ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingForUpdates.message": {
+        "message": "البحث عن تحديثات..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingSourcePlugins.message": {
+        "message": "جارٍ فحص المكونات الإضافية للمصدر..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingSourcePluginsXbc5003.message": {
+        "message": "التحقق من المصادر ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_Initializing.message": {
+        "message": "جار تهيئة..."
+    },
+    "loadingStatus.messages.splashScreenStatus_InstallingBroadcastPlugins.message": {
+        "message": "تثبيت الإضافات الإذاعية ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_InstallingBroadcastPluginsXbc5003.message": {
+        "message": "تثبيت المخرجات ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingMainWindow.message": {
+        "message": "جارٍ تحميل النافذة الرئيسية ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingBroadcastPlugins.message": {
+        "message": "تحديث الإضافات الإذاعية ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingBroadcastPluginsXbc5003.message": {
+        "message": "جارٍ تحديث المخرجات ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingSourcePlugins.message": {
+        "message": "جارٍ تحديث المكونات الإضافية للمصدر ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingSourcePluginsXbc5003.message": {
+        "message": "تحديث المصادر ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_VerifyingGCComponent.message": {
+        "message": "التحقق من مكون التقاط اللعبة ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_VerifyingGCComponentWithFilename.message": {
+        "message": "التحقق من مكون التقاط اللعبة ...٪ filename٪"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingAppConflict.message": {
+        "message": "غير قادر على تحديث مكون Game Capture ... جارٍ التحقق من تعارض التطبيق ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CleaningUp32.message": {
+        "message": "غير قادر على تحديث مكون Game Capture ... التنظيف (32 بت) ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CleaningUp64.message": {
+        "message": "غير قادر على تحديث مكون Game Capture ... التنظيف (64 بت) ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingAppComponentLoaded.message": {
+        "message": "غير قادر على تحديث مكون Game Capture ... جارٍ التحقق من التطبيقات حيث تم تحميل المكون ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingGCComponent.message": {
+        "message": "جارٍ تحديث مكون التقاط اللعبة ...٪ filename٪"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingExtensions.message": {
+        "message": "جارٍ فحص الإضافات ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingExtensions.message": {
+        "message": "جارٍ تحديث الإضافات ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallSourcePluginsXbc5003.message": {
+        "message": "تثبيت المصادر الافتراضية ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallExtensions.message": {
+        "message": "تثبيت الملحقات الافتراضية ..."
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallBroadcastPluginsXbc5003.message": {
+        "message": "تثبيت المخرجات الافتراضية ..."
+    },
+    "oem.optimizedFor": {
+        "message": "محسن من أجل"
+    }
+}

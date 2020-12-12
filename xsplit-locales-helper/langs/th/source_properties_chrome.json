@@ -1,0 +1,1415 @@
+{
+	"main.pin": {
+		"message": "ปักหมุด"
+	},
+	"main.refresh": {
+		"message": "รีเฟรช"
+	},
+	"main.keep_in_memory": {
+		"message": "เก็บซอสไว้ในหน่วยความจำ"
+	},
+	"main.see_linked_sources": {
+		"message": "เชื่อมต่อซอส"
+	},
+	"main.unlink": {
+		"message": "ยกเลิกการเชื่อมต่อ"
+	},
+	"main.linked_sources": {
+		"message": "ซอสที่เชื่อมต่อ:"
+	},
+	"main.none": {
+		"message": "`-` ไม่มี -"
+	},
+	"main.error_details_source": {
+		"message": "ไม่พบไฟล์ต้นฉบับ ไฟล์อาจจะถูกเปลี่ยนชื่อหรือถูกลบ"
+	},
+	"main.go_to_store": {
+		"message": "ไปที่ ซอสปลั๊กอินสโตร์"
+	},
+	"main.or": {
+		"message": " หรือ "
+	},
+	"main.browse_file": {
+		"message": "เรียกดูไฟล์"
+	},
+	"main.add_loading": {
+		"message": "กำลังโหลด..."
+	},
+	"main.add_text": {
+		"message": "เพิ่มข้อความ"
+	},
+	"main.add_image_slideshow": {
+		"message": "เพิ่มภาพสไลด์โชว์"
+	},
+	"main.add_video_playlist": {
+		"message": "เพิ่มรายการเล่นวิดีโอ"
+	},
+	"main.add_skype_ndi": {
+		"message": "เพิ่ม Skype NDI"
+	},
+	"main.add_plugin": {
+		"message": "เพิ่ม %plugin_name%"
+	},
+	"main.ok": {
+		"message": "โอเค"
+	},
+	"main.cancel": {
+		"message": "ยกเลิก"
+	},
+	"main.disable_audio_wrapper_warning": {
+		"message": "แนะนำให้ปิดการใช้ audio wrapper[br]ในขณะที่เปิดใช้งาน \"ใช้การควบคุมเสียงจาก Native Flash\""
+	},
+	"main.win7_aero_desktop_capture_warning": {
+		"message": "ไม่แนะนำการแคปเจอร์เดสก์ท็อปในธีม Aero เพราะอาจจะส่งผลถึงประสิทธิภาของ XSplit ถ้าต้องการทำการแคปเจอร์เดสก์ท็อป โปรดเปลี่ยนธีมของคุณไปสู่ Windoes 7 Basice อ่านเพิ่มเติม[ที่นี่](https://xspl.it/bc/jn2qeo)"
+	},
+	"main.ndi_in_beta": {
+		"message": "ซอส NDI ยังอยู่ในขั้นเบต้า ยังไม่สนับสนุนการเรนเดอร์เสียง"
+	},
+	"main.ndi_in_beta_audio_supported": {
+		"message": "ซอส NDI ยังอยู่ในขั้นเบต้า"
+	},
+	"main.ndi_audio_not_supported": {
+		"message": "ยังไม่สนับสนุนการเรนเดอร์เสียง"
+	},
+	"main.file_contains_ac3": {
+		"message": "ไฟล์นี้มีการเข้ารหัสเสียงแบบ AC3 อยู่ Microsoft และ XSplit ไม่มีสิทธิ์การใช้งานสำหรับการถอดรหัสเสียงแบบ AC3 การที่จะถอดรหัส AC3 ได้คุณอาจจะต้องทำการดาวน์โหลดและติดตั้ง [ฟิลเตอร์นี้](https://xspl.it/orsexj) และรีเฟรชซอส[br]ข้อสงวนสิทธิ์การใช้งาน:มีความเสี่ยงในการใช้งานและควรจะติดตั้งเมื่อคุณมีสิทธิในการดาวน์โหลดและใช้งาน(อ่านเงื่อนไขการใช้งาน)"
+	},
+	"main.flash_player_not_installed_outdated": {
+		"message": "ไม่ได้มีการติดตั้ง ตัวเล่น Flash หรือเป็นเวอร์ชั่นที่เก่าเกินไป [ดาวน์โหลดหรืออัพเดท Flash ตอนนี้](https://xspl.it/getflash)"
+	},
+	"main.sync_with_elgato": {
+		"message": "เพื่อที่จะ Sync ซอสนี้กับ %device% ของคุณด้วยดีเลย์ที่เพิ่มขึ้น (ในฉากเดียวกัน) คุณต้องเพิ่ม %elgatodelay% ms ไปที่ดีเลย์"
+	},
+	"main.stream_only_unsupported": {
+		"message": "สตรีมเป็นเนื้อหาเฉพาะที่สนับสนุนการใช้งานบนระบบ Windows 10 หรือใหม่กว่า"
+	},
+	"main.help.linked_sources_title": {
+		"message": "เชื่อมต่อซอส"
+	},
+	"main.help.linked_sources_message": {
+		"message": "ลิงก์ซอสคือซอสที่เป็นตัวที่ถูกใช้งาน 1 ฉาก หรือมากกว่า ฉากเหล่านี้จะมีชื่อเดียวกันเสมอและจะมีความละเอียดแบบเดียวกัน เลือก \"เก็บซอสไว้ในหน่วยความจำ\" ในคุณสมบัติของฉากที่เป็นลิงก์ซอสเหล่านี้เพื่อที่จะเก็บลิงก์ซอสไว้ในหน่วยความจำ"
+	},
+	"main.audio_output_options_system_sound": {
+		"message": "เสียงของระบบ"
+	},
+	"main.audio_output_options_stream_only": {
+		"message": "สตรีมเท่านั้น"
+	},
+	"main.audio_output_options_stream_only_unsupported": {
+		"message": "สตรีมเท่านั้น"
+	},
+	"main.audio_output_options_stream_only_install": {
+		"message": "สตรีมเท่านั้น(ติดตั้ง)"
+	},
+	"main.audio_output_options_default_speakers": {
+		"message": "ลำโพงที่เป็นค่าเริ่มต้น"
+	},
+	"main.when_finished_options_nothing": {
+		"message": "ไม่มี"
+	},
+	"main.when_finished_options_rewind": {
+		"message": "ย้อนกลับ"
+	},
+	"main.when_finished_options_loop": {
+		"message": "วน"
+	},
+	"main.when_finished_options_hide": {
+		"message": "ซ่อน"
+	},
+	"main.when_finished_options_transparent": {
+		"message": "โปร่งใส"
+	},
+	"tabheader.color": {
+		"message": "สี"
+	},
+	"tabheader.layout": {
+		"message": "เลย์เอ้าท์"
+	},
+	"tabheader.transition": {
+		"message": "แอฟเฟค"
+	},
+	"tabheader.debug": {
+		"message": "ดีบั๊ก"
+	},
+	"tabheader.video_playlist": {
+		"message": "เพลย์ลิส"
+	},
+	"tabheader.ip_cam": {
+		"message": "IP Cam"
+	},
+	"tabheader.media": {
+		"message": "มีเดีย"
+	},
+	"tabheader.audio": {
+		"message": "เสียง"
+	},
+	"tabheader.cam": {
+		"message": "กล้อง"
+	},
+	"tabheader.title": {
+		"message": "ไตเติ้ล"
+	},
+	"tabheader.screen": {
+		"message": "หน้าจอ"
+	},
+	"tabheader.stream": {
+		"message": "สตรีม"
+	},
+	"tabheader.swf": {
+		"message": "SWF"
+	},
+	"tabheader.skype": {
+		"message": "Skype"
+	},
+	"tabheader.game": {
+		"message": "เกม"
+	},
+	"tabheader.text": {
+		"message": "ข้อความ"
+	},
+	"tabheader.slideshow": {
+		"message": "สไลด์โชว์"
+	},
+	"tabheader.hotkeys": {
+		"message": "คีย์ลัด"
+	},
+	"tabheader.whiteboard": {
+		"message": "ไวท์บอร์ด"
+	},
+	"tabheader.html": {
+		"message": "HTML"
+	},
+	"tabheader.rtmp": {
+		"message": "RTMP"
+	},
+	"tabheader.ndi": {
+		"message": "NDI"
+	},
+	"tabheader.tobii": {
+		"message": "Tobii"
+	},
+	"tabheader.replay": {
+		"message": "เล่นซ้ำ"
+	},
+	"tabheader.scene": {
+		"message": "ฉาก"
+	},
+	"colortab.picture": {
+		"message": "ภาพ"
+	},
+	"colortab.keying": {
+		"message": "คีย์ริงค์"
+	},
+	"colortab.reset": {
+		"message": "รีเซ็ต"
+	},
+	"colortab.none": {
+		"message": "ว่าง"
+	},
+	"colortab.chroma_key": {
+		"message": "โครม่าคีย์"
+	},
+	"colortab.color_key": {
+		"message": "คีย์สี"
+	},
+	"colortab.quality": {
+		"message": "คุณภาพ"
+	},
+	"colortab.real_sense": {
+		"message": "Intel&reg; RealSense&trade;"
+	},
+	"colortab.realsense_info": {
+		"message": "Intel&reg; RealSense&trade; เปิดการใช้งานกล้อง 3D โดยอัตโนมัติและลบฉากหลังออกโดยไม่จำเป็นต้องใช้กรีนสกรีน"
+	},
+	"colortab.realsense_not_installed": {
+		"message": "ไม่พบส่วนประกอบที่ต้องการสำหรับการใช้ตัวลบฉากหลัง Intel&reg; RealSense&trade; [เปิดตัวติดตั้ง Intel RealSense SDK runtime](%link%) (ส่วนประกอบที่จำเป็นทั้งหมดของ XSplit ได้ถูกเลือกไว้ให้แล้ว)"
+	},
+	"colortab.realsense_error": {
+		"message": "ส่วนประกอบบางตัวที่จำเป็นต่อการใช้ตัวลบฉากหลัง Intel&reg; RealSense&trade; อาจจะถูกติดตั้งอย่างไม่สมบูรณ์ [อ่านโพสนี้](https://xspl.it/realsense) สำหรับข้อมูลเพิ่มเติม"
+	},
+	"colortab.legacy": {
+		"message": "โหมดดั้งเดิม"
+	},
+	"colortab.keycolor": {
+		"message": "สีของปุ่ม"
+	},
+	"colortab.anti_aliasing": {
+		"message": "Anti-aliasing"
+	},
+	"colortab.eyedrop": {
+		"message": "เครื่องมือ Eyedrop"
+	},
+	"colortab.copy_color_settings": {
+		"message": "คัดลอกการตั้งค่าโครม่าคีย์"
+	},
+	"colortab.paste_color_settings": {
+		"message": "คัดลอกการตั้งค่าโครม่าคีย์"
+	},
+	"colortab.help.full_dynamic_range_title": {
+		"message": "Full dynamic range"
+	},
+	"colortab.help.full_dynamic_range_message": {
+		"message": "Full dynamic range เป็นค่าที่ถูกใช้แบบโกลบอลจาก อุปกรณ์กล้อง/แคปเจอร์การ์ด ที่จะถูกใช้เป็นซอส"
+	},
+	"colortab.enable_full_dynamic_range": {
+		"message": "Full dynamic range"
+	},
+	"colortab.apply_globally": {
+		"message": "บันทึกค่าลิงก์ซอสทั้งหมด"
+	},
+	"colortab.help.smartcam_quality_title": {
+		"message": "คุณภาพ"
+	},
+	"colortab.help.smartcam_quality_message": {
+		"message": "ยิ่งคุณภาพสูงเท่าไหร่ ยิ่งใช้ CPU มากขึ้นเท่านั้น (1 - ต่ำ/5 -สูง)"
+	},
+	"colortab.key_color_options_green": {
+		"message": "เขียว"
+	},
+	"colortab.key_color_options_red": {
+		"message": "แดง"
+	},
+	"colortab.key_color_options_blue": {
+		"message": "น้ำเงิน"
+	},
+	"colortab.anti_aliasing_options_high": {
+		"message": "สูง"
+	},
+	"colortab.anti_aliasing_options_low": {
+		"message": "ต่ำ"
+	},
+	"colortab.anti_aliasing_options_none": {
+		"message": "ว่าง"
+	},
+	"colortab.no_greenscreen": {
+		"message": "ไม่มีกรีนสกรีนหรือ?"
+	},
+	"colortab.try_vcam": {
+		"message": "ลอง XSplit VCam!"
+	},
+	"layouttab.position": {
+		"message": "ตำแหน่ง"
+	},
+	"layouttab.3d": {
+		"message": "แปลง 2D/3D"
+	},
+	"layouttab.cropping": {
+		"message": "การตัด"
+	},
+	"layouttab.source_rotate": {
+		"message": "การจะหมุนซอสแบบ 3D นั้น ให้กดปุ่ม Shift ค้างไว้ในขณะที่ลากเมาส์"
+	},
+	"layouttab.x": {
+		"message": "X"
+	},
+	"layouttab.y": {
+		"message": "Y"
+	},
+	"layouttab.z": {
+		"message": "Z"
+	},
+	"layouttab.rotate": {
+		"message": "หมุน"
+	},
+	"layouttab.flip": {
+		"message": "กลับ"
+	},
+	"layouttab.counter_clockwise": {
+		"message": "ทวนเข็ม"
+	},
+	"layouttab.clockwise": {
+		"message": "ตามเข็ม"
+	},
+	"layouttab.width": {
+		"message": "ความกว้าง"
+	},
+	"layouttab.height": {
+		"message": "ความสูง"
+	},
+	"layouttab.reset": {
+		"message": "รีเซ็ต"
+	},
+	"layouttab.crop_alt_key": {
+		"message": "พยายามลากเอ้าท์ไลน์ของซอสขณะที่กดปุ่ม ALT ไปได้วย"
+	},
+	"layouttab.top": {
+		"message": "ด้านบน"
+	},
+	"layouttab.bottom": {
+		"message": "ด้านล่าง"
+	},
+	"layouttab.left": {
+		"message": "ซ้าย"
+	},
+	"layouttab.right": {
+		"message": "ขวา"
+	},
+	"layouttab.autocrop": {
+		"message": "ครอปอัตโนมัติ"
+	},
+	"layouttab.keep_aspect_ratio": {
+		"message": "ใช้อัตราส่วนภาพนี้"
+	},
+	"layouttab.lock_position": {
+		"message": "ล็อคตำแหน่ง"
+	},
+	"layouttab.enhance_resize": {
+		"message": "ปรับเพิ่มขนาด"
+	},
+	"layouttab.pan_360": {
+		"message": "ฉายแบบ 360"
+	},
+	"layouttab.help.pan_360_message": {
+		"message": "เปิดใช้ \"ล็อคตำแหน่ง\" เพื่อตอบสนอง ใช้เม้าส์วีลเพื่อซูม คลิ๊กและลากเพื่อหมุน"
+	},
+	"transitiontab.masking": {
+		"message": "มาส์ก"
+	},
+	"transitiontab.none": {
+		"message": "ว่าง"
+	},
+	"transitiontab.shape": {
+		"message": "รูปร่าง"
+	},
+	"transitiontab.file": {
+		"message": "ไฟล์"
+	},
+	"transitiontab.filters": {
+		"message": "ตัวกรอง"
+	},
+	"transitiontab.effects": {
+		"message": "การเปลี่ยน"
+	},
+	"transitiontab.shadow": {
+		"message": "เงา"
+	},
+	"transitiontab.size": {
+		"message": "ขนาด"
+	},
+	"transitiontab.radius": {
+		"message": "รัศมี"
+	},
+	"transitiontab.opacity": {
+		"message": "ความทึบแสง"
+	},
+	"transitiontab.border": {
+		"message": "ขอบ"
+	},
+	"transitiontab.color": {
+		"message": "สี"
+	},
+	"transitiontab.reset": {
+		"message": "รีเซ็ต"
+	},
+	"transitiontab.offset_x": {
+		"message": "ออฟเซ็ท X"
+	},
+	"transitiontab.blur": {
+		"message": "เบลอ"
+	},
+	"transitiontab.offset_y": {
+		"message": "ออฟเซ็ท Y"
+	},
+	"transitiontab.mask_source": {
+		"message": "มาส์กไปยังซอส"
+	},
+	"transitiontab.mask_stage": {
+		"message": "มาส์กไปยังสเตจ"
+	},
+	"transitiontab.image_mask_file": {
+		"message": "ไฟล์รูปมาส์ก"
+	},
+	"transitiontab.show_masking_guide": {
+		"message": "แสดงการแนะนำการมาส์ก"
+	},
+	"transitiontab.re2_mode": {
+		"message": "การเปลี่ยนซอสไม่ถูกสนับสนุนในโหมด RE2"
+	},
+	"transitiontab.config_text": {
+		"message": "ค่าเริ่มต้นของ การเปลี่ยน จะทำงานเมื่อซ่อนหรือแสดงซอสบนฉาก(เลือกหรือไม่เลือกเช็คบ็อกในรายชื่อซอส) คุณสามารถเลือกที่่จะใส่ฉากการเปลี่ยนเวลาฉากเข้ามาหรืออกไป อย่างไรก็ตาม การเปลี่ยนฉากจะไม่ทำงานถ้าฉากหลักถูกตั้งค่าการเปลี่ยนไว้เป็น \"ไม่มี\" ถ้าคุณต้องการที่จะตัดฉากสำหรับ การเปลี่ยนแปลงฉากหลัก และยังคงต้องการใช้การเปลี่ยนซอส คุณต้องตั้งค่าการเปลี่ยนหลักไปสู่ \"ตัด\" แทนที่ \"ไม่มี\""
+	},
+	"transitiontab.transition": {
+		"message": "การเปลี่ยน"
+	},
+	"transitiontab.speed": {
+		"message": "ความเร็ว"
+	},
+	"transitiontab.speed_unit": {
+		"message": "ms"
+	},
+	"transitiontab.preview_label": {
+		"message": "ตัวอย่าง"
+	},
+	"transitiontab.no_available_preview": {
+		"message": "ไม่มีตัวอย่าง"
+	},
+	"transitiontab.on_scene_exit": {
+		"message": "ออกจากฉาก"
+	},
+	"transitiontab.on_scene_enter": {
+		"message": "เข้ามาในฉาก"
+	},
+	"transitiontab.lut_file": {
+		"message": "ไฟล์ LUT"
+	},
+	"transitiontab.browse": {
+		"message": "เรียกดู"
+	},
+	"transitiontab.intensity": {
+		"message": "ความแรงของเอฟเฟค"
+	},
+	"transitiontab.bloom_intensity": {
+		"message": "ความเข้าของบลูม"
+	},
+	"transitiontab.magnify_amount": {
+		"message": "ปริมาณที่ขยาย"
+	},
+	"transitiontab.blur_amount": {
+		"message": "ปริมาณการเบลอ"
+	},
+	"transitiontab.filters_none": {
+		"message": "ไม่มีตัวกรอง"
+	},
+	"transitiontab.filters_sharpen": {
+		"message": "คมขึ้น"
+	},
+	"transitiontab.filters_smoothen": {
+		"message": "นุ่มนวลขึ้น"
+	},
+	"transitiontab.filters_cool": {
+		"message": "เย็น"
+	},
+	"transitiontab.filters_warm": {
+		"message": "อุุ่น"
+	},
+	"transitiontab.filters_bloom": {
+		"message": "บลูม"
+	},
+	"transitiontab.filters_mono": {
+		"message": "สีเดียว"
+	},
+	"transitiontab.filters_color_tint": {
+		"message": "สีอ่อน"
+	},
+	"transitiontab.filters_invert": {
+		"message": "สลับสี"
+	},
+	"transitiontab.filters_old_movie": {
+		"message": "หนังเก่า"
+	},
+	"transitiontab.filters_sketch": {
+		"message": "สเก็ต"
+	},
+	"transitiontab.filters_magnify": {
+		"message": "ขยาย"
+	},
+	"transitiontab.filters_blur": {
+		"message": "เบลอ"
+	},
+	"transitiontab.filters_custom": {
+		"message": "LUT แบบกำหนดเอง"
+	},
+	"transitiontab.luts_article": {
+		"message": "อะไรคือ LUTs?"
+	},
+	"transitiontab.transition_select_options_none": {
+		"message": "ว่าง"
+	},
+	"transitiontab.transition_select_options_clock": {
+		"message": "นาฬิกา"
+	},
+	"transitiontab.transition_select_options_collapse": {
+		"message": "ย่อ"
+	},
+	"transitiontab.transition_select_options_ease_in_out_back": {
+		"message": "ถอยออกเร็วไปช้า"
+	},
+	"transitiontab.transition_select_options_ease_out_bounce": {
+		"message": "เด้งช้าไปเร็ว"
+	},
+	"transitiontab.transition_select_options_ease_out_elastic": {
+		"message": "ยืดหยุ่นช้าไปเร็ว"
+	},
+	"transitiontab.transition_select_options_fade": {
+		"message": "จาง"
+	},
+	"transitiontab.transition_select_options_fan": {
+		"message": "พัด"
+	},
+	"transitiontab.transition_select_options_hole": {
+		"message": "หลุม"
+	},
+	"transitiontab.transition_select_options_move_left": {
+		"message": "เลื่อนด้านซ้าย"
+	},
+	"transitiontab.transition_select_options_move_right": {
+		"message": "เลื่อนด้านขวา"
+	},
+	"transitiontab.transition_select_options_move_left_right": {
+		"message": "เลื่อนด้านซ้าย & ขวา"
+	},
+	"transitiontab.transition_select_options_move_top": {
+		"message": "เลื่อนด้านบน"
+	},
+	"transitiontab.transition_select_options_move_bottom": {
+		"message": "เลื่อนด้านล่าง"
+	},
+	"transitiontab.transition_select_options_move_top_bottom": {
+		"message": "เลื่อนด้านบน & ล่าง"
+	},
+	"transitiontab.transition_select_options_wave": {
+		"message": "คลื่น"
+	},
+	"transitiontab.transition_select_options_zoom": {
+		"message": "ซูม"
+	},
+	"debugtab.title": {
+		"message": "ดีบั๊ก"
+	},
+	"debugtab.videoitem_id": {
+		"message": "Videoitem ID"
+	},
+	"debugtab.src_id": {
+		"message": "Source ID"
+	},
+	"debugtab.src_type": {
+		"message": "ประเภทแหล่งภาพ"
+	},
+	"debugtab.copy": {
+		"message": "คัดลอก"
+	},
+	"debugtab.type_undefined": {
+		"message": "ไม่ได้กำหนด"
+	},
+	"debugtab.type_file": {
+		"message": "ไฟล์"
+	},
+	"debugtab.type_live": {
+		"message": "ไลฟ์"
+	},
+	"debugtab.type_text": {
+		"message": "ข้อความ"
+	},
+	"debugtab.type_image": {
+		"message": "ภาพ"
+	},
+	"debugtab.type_screen": {
+		"message": "หน้าจอ"
+	},
+	"debugtab.type_swf": {
+		"message": "SWF"
+	},
+	"debugtab.type_game": {
+		"message": "เกม"
+	},
+	"debugtab.type_html": {
+		"message": "HTML"
+	},
+	"debugtab.type_3ds": {
+		"message": "3DS"
+	},
+	"debugtab.type_ppt": {
+		"message": "การนำเสนอ"
+	},
+	"debugtab.type_scene": {
+		"message": "ฉาก"
+	},
+	"debugtab.type_group": {
+		"message": "กลุ่ม"
+	},
+	"debugtab.type_replay": {
+		"message": "เล่นซ้ำ"
+	},
+	"debugtab.type_view": {
+		"message": "ดู"
+	},
+	"camtab.processing": {
+		"message": "สลับซอส"
+	},
+	"camtab.updating_settings": {
+		"message": "กำลังอัพเดทการตั้งค่า..."
+	},
+	"camtab.playback": {
+		"message": "เล่น:"
+	},
+	"camtab.device_configuration": {
+		"message": "ตั้งค่าอุปกรณ์"
+	},
+	"camtab.delay": {
+		"message": "ดีเลย์ (ms)"
+	},
+	"camtab.audio_input": {
+		"message": "อินพุตเสียง"
+	},
+	"camtab.audio_output": {
+		"message": "เอาท์พุตเสียง"
+	},
+	"camtab.offset": {
+		"message": "ออฟเซ็ท (ms)"
+	},
+	"camtab.offset_text": {
+		"message": "(การซิงโครไนซ์ ภาพและเสียง)"
+	},
+	"camtab.silence_detection": {
+		"message": "การตรวจสอบความเงียบ"
+	},
+	"camtab.threshold": {
+		"message": "เทรชโชล"
+	},
+	"camtab.silence_period": {
+		"message": "ช่วงเงียบ (ms)"
+	},
+	"camtab.camera_source": {
+		"message": "ซอสกล้อง"
+	},
+	"camtab.camera_source_audio": {
+		"message": "ซอสเสียง"
+	},
+	"camtab.configure_text": {
+		"message": "การกำหนดค่าของ การตั้งค่า %device_name% สามารถกดได้ที่ปุ่มด้านล่าง "
+	},
+	"camtab.auto_logitech": {
+		"message": "ใช้การตั้งค่ามาตรฐาน"
+	},
+	"camtab.manual_logitech": {
+		"message": "ตั้งค่าด้วยตัวเอง"
+	},
+	"camtab.configure": {
+		"message": "ตั้งค่า"
+	},
+	"camtab.priority": {
+		"message": "ความสำคัญ"
+	},
+	"camtab.frame_rate_priority_logitech": {
+		"message": "เฟรมเรต"
+	},
+	"camtab.exposure_priority_logitech": {
+		"message": "การเปิดรับแสง"
+	},
+	"camtab.field_of_view": {
+		"message": "ขอบเขตภาพ"
+	},
+	"camtab.orientation": {
+		"message": "ปรับสอดคล้อง"
+	},
+	"camtab.orientation_disabled": {
+		"message": "ปิดใช้งาน"
+	},
+	"camtab.orientation_portrait": {
+		"message": "แนวตั้ง"
+	},
+	"camtab.orientation_landscape": {
+		"message": "แนวนอน"
+	},
+	"camtab.orientation_auto": {
+		"message": "ปรับอัตโนมัติ"
+	},
+	"camtab.enable_hdr": {
+		"message": "เปิดใช้งาน"
+	},
+	"camtab.hdr": {
+		"message": "HDR (High Dynamic Range)"
+	},
+	"camtab.help.hdr": {
+		"message": "เปิดการใช้งานตัวเลือกนี้จะช่วยเพิ่มคุณภาพของแสงของวิดีโอทั้งหมด - แสงน้อย แสงสว่าง ความคมชัดสูง ไฟส่องจากด้านหลัง ทำงานบน 30fps หรือต่ำกว่า"
+	},
+	"camtab.video_source": {
+		"message": "อินพุตวิดีโอ"
+	},
+	"camtab.video_capture_pin": {
+		"message": "เอาท์พุตวิดีโอ"
+	},
+	"camtab.tv_tuner": {
+		"message": "ตัวรับสัญญาณทีวี"
+	},
+	"camtab.video_cross_bar1": {
+		"message": "ครอสบาร์"
+	},
+	"camtab.video_cross_bar2": {
+		"message": "ครอสบาร์ 2"
+	},
+	"camtab.vfw_capture_source": {
+		"message": "VFW อินพุต"
+	},
+	"camtab.vfw_capture_format": {
+		"message": "VFX ฟอร์แมต"
+	},
+	"camtab.vfw_capture_display": {
+		"message": "VFX ดิสเพลย์"
+	},
+	"camtab.hw_video_encoder": {
+		"message": "เข้ารหัส วิดีโอ HW"
+	},
+	"camtab.hw_audio_encoder": {
+		"message": "เข้ารหัสเสียง HW"
+	},
+	"camtab.hw_mux": {
+		"message": "HW MUX"
+	},
+	"camtab.audio_source": {
+		"message": "อินพุตเสียง"
+	},
+	"camtab.audio_capture_pin": {
+		"message": "เอาท์พุตเสียง"
+	},
+	"camtab.tv_audio": {
+		"message": "เสียง TV"
+	},
+	"camtab.video_renderer": {
+		"message": "วิดีโอเรนเดอร์"
+	},
+	"camtab.audio_renderer": {
+		"message": "เรนเดอร์เสียง"
+	},
+	"camtab.force_deinterlace": {
+		"message": "บังคับใช้ deinterlace"
+	},
+	"camtab.auto_configure": {
+		"message": "อนุญาตให้ XSplit ทำการปรับแต่งอัตโนมัติ"
+	},
+	"camtab.use_black_magic_wdm": {
+		"message": "ใช้ Blackmagic WDM Capture"
+	},
+	"camtab.description": {
+		"message": "เรียนรุ้ว่าจะใช้งานกับ XSplitได้อย่างไร ไปยัง:"
+	},
+	"camtab.avermedia.partnersite1_description": {
+		"message": "เพจ AVerMedia Live Gamer HD C985"
+	},
+	"camtab.avermedia.partnersite2_description": {
+		"message": "เพจ AVerMedia C875 Live Gamer Portable"
+	},
+	"camtab.elgato.partnersite1_description": {
+		"message": "เวปไซต์ Elgato Game Capture"
+	},
+	"camtab.elgato.partnersite2_description": {
+		"message": "เพจสนับสนุนของ Elgato"
+	},
+	"camtab.roxio.partnersite1_description": {
+		"message": "เวปไซต์ Roxio"
+	},
+	"camtab.roxio.partnersite2_description": {
+		"message": "เพจ Roxio Game Capture"
+	},
+	"camtab.xsplit_support_page": {
+		"message": "เพจสนับสนุนของ XSplit"
+	},
+	"camtab.youtube": {
+		"message": "%name% Youtube"
+	},
+	"camtab.audio_input_options_builtin": {
+		"message": "บิ้วอิน"
+	},
+	"camtab.audio_input_options_none": {
+		"message": "ว่าง"
+	},
+	"gametab.game_source": {
+		"message": "เกมซอส"
+	},
+	"gametab.show_mouse": {
+		"message": "แสดงเคอร์เซอร์เมาส์"
+	},
+	"gametab.enable_special_optimization": {
+		"message": "เปิดการใช้งานเพิ่มประสิทธิภาพแบบพิเศษ"
+	},
+	"gametab.unable_to_set": {
+		"message": "(ไม่สามารถตั้งค่าเพิ่มประสิทธิภาพได้)"
+	},
+	"gametab.special_optimization_hint": {
+		"message": "(ปิดการแต่งค่าพิเศษเพื่อหลีกเลียงภาพกระตุก บน Crossfire/SLI)"
+	},
+	"gametab.enable_playback_smoothness": {
+		"message": "เปิดใช้เฟรมสมูท"
+	},
+	"gametab.allow_transparency": {
+		"message": "อนุญาตให้โปร่งใส"
+	},
+	"gametab.playback_smoothness": {
+		"message": "FPS factor (%)"
+	},
+	"gametab.limit_game_fps": {
+		"message": "เกม FPS สูงสุด:"
+	},
+	"gametab.offline_image": {
+		"message": "รูปออฟไลน์"
+	},
+	"gametab.offline_image_description": {
+		"message": "รูปภาพออฟไลน์จะถูกนำมาแสดงเมื่อตรวจไม่พบ เกม หรือซอส (ปล่อยว่างไว้ GameSource จะโปร่งใส)"
+	},
+	"mediatab.playback": {
+		"message": "เล่น:"
+	},
+	"mediatab.audio_output": {
+		"message": "เอาท์พุตเสียง"
+	},
+	"mediatab.start_at": {
+		"message": "เริ่มที่"
+	},
+	"mediatab.set": {
+		"message": "ตั้งค่า"
+	},
+	"mediatab.end_at": {
+		"message": "จบที่"
+	},
+	"mediatab.reset": {
+		"message": "รีเซ็ต"
+	},
+	"mediatab.play": {
+		"message": "เล่น"
+	},
+	"mediatab.play_options_once": {
+		"message": "ครั้งหนึ่ง"
+	},
+	"mediatab.play_options_forever": {
+		"message": "ตลอด"
+	},
+	"mediatab.play_options_custom": {
+		"message": "กำหนดเอง..."
+	},
+	"mediatab.loop_times": {
+		"message": "เวลา"
+	},
+	"mediatab.when_finished": {
+		"message": "เมื่อเสร็จสิ้น"
+	},
+	"mediatab.start_on_load": {
+		"message": "เล่นเมื่อฉากเข้ามา"
+	},
+	"mediatab.play_on_show": {
+		"message": "บังคับให้เล่นเมื่อฉากแสดง"
+	},
+	"mediatab.remember_playback_position": {
+		"message": "จำตำแหน่งการเล่น"
+	},
+	"mediatab.force_deinterlace": {
+		"message": "ใช้ deinterlace"
+	},
+	"mediatab.show_playback_position": {
+		"message": "แสดงตำแหน่งการเล่น"
+	},
+	"mediatab.cuepoints": {
+		"message": "Cue Points"
+	},
+	"mediatab.add_to_cuepoints": {
+		"message": "เพิ่มไปที่ Cue Point"
+	},
+	"mediatab.add": {
+		"message": "เพิ่มเติม"
+	},
+	"mediatab.saved_cue_points": {
+		"message": "เซฟ Cue Points"
+	},
+	"mediatab.cue_point_type.cue_point": {
+		"message": "Cue Points"
+	},
+	"mediatab.cue_point_type.start": {
+		"message": "เริ่ม"
+	},
+	"mediatab.cue_point_type.end": {
+		"message": "จบ"
+	},
+	"mediatab.cue_point_type.cut": {
+		"message": "ตัด"
+	},
+	"mediatab.cue_point_type.pause": {
+		"message": "หยุด"
+	},
+	"mediatab.cue_point_type.resume": {
+		"message": "ต่อ"
+	},
+	"mediatab.change": {
+		"message": "เปลี่ยน..."
+	},
+	"mediatab.cue_point_options_resume": {
+		"message": "ต่อ"
+	},
+	"mediatab.cue_point_options_pause": {
+		"message": "หยุด"
+	},
+	"mediatab.cue_point_options_cut": {
+		"message": "ตัด"
+	},
+	"mediatab.help.loop_times_title": {
+		"message": "เล่นแบบกำหนดเอง"
+	},
+	"mediatab.help.loop_times_message": {
+		"message": "ตั้งค่า ค่ากาเล่นแบบกำหนดเองใหม่จะรีเซ็ตตัวนับกลับไปที่ 1"
+	},
+	"picturetab.mediasource": {
+		"message": "มีเดียซอส"
+	},
+	"screentab.processing": {
+		"message": "สลับซอส"
+	},
+	"screentab.window_capture": {
+		"message": "แคปเจอร์หน้าต่าง"
+	},
+	"screentab.desktop_capture": {
+		"message": "แคปเจอร์เดสก์ท็อป"
+	},
+	"screentab.area": {
+		"message": "พื้นที่"
+	},
+	"screentab.capture_options": {
+		"message": "ตัวเลือกการแคปเจอร์"
+	},
+	"screentab.x": {
+		"message": "X"
+	},
+	"screentab.y": {
+		"message": "Y"
+	},
+	"screentab.width": {
+		"message": "ความกว้าง"
+	},
+	"screentab.height": {
+		"message": "ความสูง"
+	},
+	"screentab.client_area": {
+		"message": "บริเวณไคล์เอ้นต์"
+	},
+	"screentab.track_window_title": {
+		"message": "ยึดไว้ที่ไตเติ้ล"
+	},
+	"screentab.window_source": {
+		"message": "ซอสหน้าต่าง"
+	},
+	"screentab.desktop_source": {
+		"message": "เดสก์ท็อปซอส"
+	},
+	"screentab.screen_capture": {
+		"message": "จับภาพหน้าจอ"
+	},
+	"screentab.exclude_xsplit_window": {
+		"message": "ไม่รวม XSplit จากแคปเจอร์การแสดงภาพ"
+	},
+	"screentab.optimize_window_capture": {
+		"message": "ไม่รวมการแคปเจอร์หน้าต่าง"
+	},
+	"screentab.capture_layered_windows": {
+		"message": "แคปเจอร์หน้าต่างที่ถูกซ้อนไว้[br] (ไม่เลือกตัวเลือกนี้เพื่อที่จะหลีกเลี่ยงเม้าส์กระพริบ)"
+	},
+	"screentab.not_supported": {
+		"message": "(ระบบไม่สนับสนุน)"
+	},
+	"screentab.gpu_optimized": {
+		"message": "ปรับให้เหมาะสมกับ GPU"
+	},
+	"screentab.show_mouse": {
+		"message": "แสดงเคอร์เซอร์เมาส์"
+	},
+	"screentab.show_mouse_clicks": {
+		"message": "แสดงการคลิ๊กเม้าส์"
+	},
+	"screentab.fix_black_capture": {
+		"message": "แก้ไขหน้าจอดำ"
+	},
+	"screentab.reset": {
+		"message": "รีเซ็ต"
+	},
+	"skytab.skype": {
+		"message": "Skype"
+	},
+	"skytab.offline_image": {
+		"message": "รูปออฟไลน์"
+	},
+	"skytab.offline_image_description": {
+		"message": "รูปภาพออฟไลน์จะถูกนำมาแสดงเมื่อตรวจไม่พบภาพวิดีโอจาก Skype (ปล่อยว่างไว้ ซอสของ Skype จะโปร่งใส)"
+	},
+	"skytab.source_flicker": {
+		"message": "ซอสจาก Skype อาจจะกระพริบเนื่องจาก:"
+	},
+	"skytab.multiple_calls": {
+		"message": "สายเรียกเข้าหลายสาย(รวมไปถึงสายที่ถูกพักสาย)"
+	},
+	"skytab.skype_show_call_cotrols": {
+		"message": "เปิดการใช้ &quot;แสดงตัวบังคับสายเรียกเข้าเมื่อ Skype อยู่ในเบื้องหลัง:&quot;.ในตัวเลือกของ Skype Options -> Call Settings -> Advanced"
+	},
+	"skytab.ndi_skype_enable": {
+		"message": "จะเปิดการใช้ NDI ใน Skype อย่างไร:"
+	},
+	"skytab.ndi_multiple_calls": {
+		"message": "เวอร์ชั่นต่ำสุดที่ต้องการ - Skype Preview 8.28.76.42"
+	},
+	"skytab.ndi_skype_show_call_cotrols": {
+		"message": "เปิดการใช้ &quot;Allow NDI usage&quot; ใน Skype options > Calling Settings > Advanced Calling"
+	},
+	"skytab.skypeId": {
+		"message": "Skype ID:"
+	},
+	"skytab.computerName": {
+		"message": "ชื่อคอมพิวเตอร์:"
+	},
+	"skytab.skypeNdiLink": {
+		"message": "เรียนรู้เพิ่มเติมเกี่ยวกับ Skype NDI"
+	},
+	"skytab.apply": {
+		"message": "ใช้งาน"
+	},
+	"skytab.search.help.message": {
+		"message": "ป้อนชื่อ Computer ของคุณและ Skype ID ของ Skype NDI ซอสของคุณ หรือคลิ๊กที่แว่นขยายเพื่อหา Skype NDI ซอส ที่พร้อมใช้งานบนเเน็ตเวิร์คของคุณ คลิ๊กปุ่มใช้ เพื่อเชื่อมต่อไปยังซอส"
+	},
+	"skytab.search.help.title": {
+		"message": "ซอส Skype NDI"
+	},
+	"skytab.skype_available_ndi_sources": {
+		"message": "ซอส Skype NDI ที่พร้อมใช้งาน"
+	},
+	"skytab.no_ndi_label": {
+		"message": "ไม่พบสาย Skype NDI"
+	},
+	"streamtab.playback": {
+		"message": "เล่น:"
+	},
+	"streamtab.audio_output": {
+		"message": "เอาท์พุตเสียง"
+	},
+	"streamtab.use_rtmp_flash": {
+		"message": "ใช้ Flash สำหรับการเล่น"
+	},
+	"streamtab.stream_source": {
+		"message": "ซอสสตรีม:"
+	},
+	"streamtab.stream_name": {
+		"message": "ชื่อสตีม"
+	},
+	"streamtab.delay": {
+		"message": "สตรีมบัฟเฟอร์ (วินาที)"
+	},
+	"streamtab.protocol": {
+		"message": "Protocol"
+	},
+	"streamtab.protocol_tooltip": {
+		"message": "ตั้งค่าเป็น สื่อสาร low level RTSP โปรโตคอล[br][br] ถ้าคุณพบการกระตุกหรือไม่ Sync ลองเปลี่ยนโปรโตคอลจาก TCP เป็น UDP ถ้าถูกบล็อคโดย ไฟร์วอลล์ ให้ลองใช้ Protocal HTTP"
+	},
+	"streamtab.apply": {
+		"message": "ใช้งาน"
+	},
+	"nditab.playback": {
+		"message": "เล่น:"
+	},
+	"nditab.audio_output": {
+		"message": "เอาท์พุตเสียง"
+	},
+	"nditab.ndi_source": {
+		"message": "ซอสสตรีม:"
+	},
+	"nditab.quality": {
+		"message": "คุณภาพ"
+	},
+	"nditab.standard": {
+		"message": "มาตรฐาน"
+	},
+	"nditab.maximum": {
+		"message": "สูงสุด"
+	},
+	"nditab.apply": {
+		"message": "ใช้งาน"
+	},
+	"replaytab.saveToDisk": {
+		"message": "บันทึกในดิสก์"
+	},
+	"replaytab.saveToDiskOnPlayback": {
+		"message": "บันทึกลงในดิสก์เพื่อเล่นย้อนหลัง"
+	},
+	"replaytab.source": {
+		"message": "ซอส"
+	},
+	"replaytab.no_output": {
+		"message": "ไม่มีเอ้าพุทถูกเลือกไว้"
+	},
+	"replaytab.output_live": {
+		"message": "เอ้าพุทกำลังไลฟ์"
+	},
+	"replaytab.output_offline": {
+		"message": "เอ้าพุทยังไม่ได้ไลฟ์"
+	},
+	"replaytab.connect_to": {
+		"message": "เชื่อมต่อไปยัง"
+	},
+	"replaytab.help.connect_to_title": {
+		"message": "เชื่อมต่อไปยัง"
+	},
+	"replaytab.help.connect_to_message": {
+		"message": "เลือกเอ้าพุทที่รีเพลย์ซอสนี้สามารถเชื่อมต่อไปได้ การตั้งค่าอัตโนมัตินี้ทำให้ รีเพลย์นี้สามารถเชื่อมต่อไปยังเอ้าพุทถัดไปทันที ที่เริ่มการสตรีม"
+	},
+	"replaytab.help.save_playback_title": {
+		"message": "บันทึกรีเพลย์ลงในดิสก์เพื่อเล่นย้อนหลัง"
+	},
+	"replaytab.help.save_playback_message": {
+		"message": "บันทึกตัดคัดลอกของรีเพลย์คุณลงในโฟล์เดอร์การบันทึกตั้งต้น"
+	},
+	"replaytab.help.saveToDisk_title": {
+		"message": "บันทึกในดิสก์"
+	},
+	"replaytab.help.saveToDisk_message": {
+		"message": "บันทึกรีเพลย์บุฟเฟอร์ไปยังดิสก์โดยไม่ต้องแสดงมันบนสตรีมคุณ"
+	},
+	"replaytab.replay": {
+		"message": "เล่นซ้ำ"
+	},
+	"replaytab.hotkey": {
+		"message": "คีย์ลัด"
+	},
+	"replaytab.replayTime": {
+		"message": "เวลารีเพลย์"
+	},
+	"replaytab.bufferLength": {
+		"message": "ความยาวบัฟเฟอร์"
+	},
+	"replaytab.playback": {
+		"message": "เล่น:"
+	},
+	"replaytab.seconds": {
+		"message": "วินาที"
+	},
+	"replaytab.start_on_load": {
+		"message": "เล่นเมื่อฉากเข้ามา"
+	},
+	"replaytab.audio_output": {
+		"message": "เอาท์พุตเสียง"
+	},
+	"replaytab.display": {
+		"message": "แสดงผล"
+	},
+	"scenetab.display": {
+		"message": "แสดงผล"
+	},
+	"scenetab.scene": {
+		"message": "ซอสฉาก"
+	},
+	"scenetab.scene_description": {
+		"message": "การที่จะแก้ไขซอสฉากนี้ ให้สลับไปยังฉากอ้างอิง[br][br] หรือทางเลือกอื่น ถ้าคุณต้องการแก้ไขโดยไม่ต้องการสลับฉาก ใช้ โหมดแบ่งหน้าจอ หรือ พรีวิวอิดิเตอร์ ต้องแน่ใจว่าได้คลิ๊ก 'Push Live' เพื่อที่จะเปลี่ยนข้อมูลของฉากที่เปลี่ยนไป"
+	},
+	"swftab.playback": {
+		"message": "เล่น:"
+	},
+	"swftab.disable_audio_wrapper": {
+		"message": "ปิดการใช้ Audio wrapper"
+	},
+	"swftab.swf_source": {
+		"message": "SWF ซอส"
+	},
+	"swftab.resolution": {
+		"message": "ความละเอียด"
+	},
+	"swftab.original_resolution": {
+		"message": "ซอสต้นฉบับ"
+	},
+	"swftab.custom_resolution": {
+		"message": "กำหนดเอง"
+	},
+	"swftab.configuration": {
+		"message": "การปรับแต่งค่า"
+	},
+	"swftab.configure_text": {
+		"message": "การจะตั้งค่า SWF ซอส ของคุณ คลิ๊กที่ปุ่มด้านล่าง"
+	},
+	"swftab.configure": {
+		"message": "ตั้งค่า"
+	},
+	"swftab.audio_output": {
+		"message": "เอาท์พุตเสียง"
+	},
+	"swfhotkeystab.hotkeys": {
+		"message": "คีย์ลัด"
+	},
+	"titletab.title": {
+		"message": "ไตเติ้ล"
+	},
+	"titletab.configure_text": {
+		"message": "การจะตั้งค่าซอร์สของหัวเรื่องรี้ คลิ๊กที่ปุ่มด้านล่าง"
+	},
+	"titletab.configure": {
+		"message": "ตั้งค่า"
+	},
+	"tobiitab.title": {
+		"message": "คุณสมบัติ Tobii Eye Tracker"
+	},
+	"tobiitab.cursor_color": {
+		"message": "สีเคอร์เซอร์"
+	},
+	"tobiitab.enable": {
+		"message": "เปิดใช้การติดตาม"
+	},
+	"tobiitab.shape": {
+		"message": "รูปร่าง"
+	},
+	"tobiitab.solid": {
+		"message": "แข็ง"
+	},
+	"tobiitab.bubble": {
+		"message": "ฟอง"
+	},
+	"tobiitab.size": {
+		"message": "ขนาด"
+	},
+	"tobiitab.trail": {
+		"message": "หาง"
+	},
+	"tobiitab.filtering": {
+		"message": "ฟิลเตอร์ริ่ง"
+	},
+	"htmltab.playback": {
+		"message": "เล่น:"
+	},
+	"htmltab.audio_output": {
+		"message": "เอาท์พุตเสียง"
+	},
+	"htmltab.apply": {
+		"message": "ใช้งาน"
+	},
+	"htmltab.invalid_url": {
+		"message": "โปรดป้อน Url ที่ถูกต้อง"
+	},
+	"htmltab.html_source": {
+		"message": "ซอส HTML"
+	},
+	"htmltab.reload_on_scene_enter": {
+		"message": "รีโหลดเมื่อฉากเข้ามา"
+	},
+	"htmltab.reload_on_source_show": {
+		"message": "รีโหลดเมื่อซอสถูกแสดง"
+	},
+	"htmltab.resolution": {
+		"message": "ความละเอียด"
+	},
+	"htmltab.resolution_tooltip": {
+		"message": "ตั้งค่าความละเอียดคงที่สำหรับเวปซอสที่ถูกออกแบบมาสำหรับความละเอียดเฉพาะ ซอสเริ่มต้นจะใช้ขนาดพิกเซลซอสและจะตอบสนองเหมือบกับเวปบราวเซอร์ทั่วไปเมื่อเปลี่ยนขนาด ซอสที่ถูกเชื่อมต่อจะถูกบังคับให้ใช้ความละเอียดคงที่เสมอ"
+	},
+	"htmltab.display": {
+		"message": "แสดงผล"
+	},
+	"htmltab.original_resolution": {
+		"message": "ซอสต้นฉบับ"
+	},
+	"htmltab.custom_resolution": {
+		"message": "กำหนดเอง"
+	},
+	"htmltab.css_overwrite": {
+		"message": "โค้ดกำหนดเอง"
+	},
+	"htmltab.custom_css": {
+		"message": "ใช้ CSS แบบกำหนดเอง"
+	},
+	"htmltab.edit_css": {
+		"message": "แก้ไข CSS"
+	},
+	"htmltab.custom_js": {
+		"message": "ใช้ JS แบบกำหนดเอง"
+	},
+	"htmltab.edit_js": {
+		"message": "แก้ไข JS"
+	},
+	"htmltab.appearance": {
+		"message": "รูปร่าง"
+	},
+	"htmltab.disable_transparency": {
+		"message": "ปิดความโปร่งใส"
+	},
+	"htmltab.disable_scrollbars": {
+		"message": "ปิดการใช้สกอร์บาร์"
+	},
+	"htmltab.enable_60_fps": {
+		"message": "เปิดการใช้งานจนถึง 60 FPS"
+	},
+	"htmltab.enable_60_fps_tooltip": {
+		"message": "อาจจจะต้องการทรัพยากร GPU/CPU เพิ่มเติม โปรดทราบว่าการเปลี่ยนตัวเลือกนี้จะทำให้ซอสทำการรีเฟรช เพื่อประสิทธิภาพที่ดีที่สุดเปิดการใช้ซอสบราวเซอร์ปรับแต่งค่าแบบพิเศษภายใต้ เครื่องมือ -> การตั้งค่า -> ขึ้นสูง"
+	},
+	"htmltab.configuration": {
+		"message": "การปรับแต่งค่า"
+	},
+	"htmltab.configure_text": {
+		"message": "การจะตั้งค่า HTML ซอส ของคุณ คลิ๊กที่ปุ่มด้านล่าง"
+	},
+	"htmltab.configure": {
+		"message": "ตั้งค่า"
+	},
+	"htmlhotkeystab.hotkeys": {
+		"message": "คีย์ลัด"
+	},
+	"presentationtab.playback": {
+		"message": "เล่น:"
+	},
+	"presentationtab.audio_output": {
+		"message": "เอาท์พุตเสียง"
+	},
+	"presentationtab.remember_playback_position": {
+		"message": "จำตำแหน่งการเล่น"
+	},
+	"presentationtab.current_slide": {
+		"message": "สไลด์ปัจจุบัน"
+	},
+	"presentationtab.hotkeys": {
+		"message": "นอกจากนี้ คุณสามารถใช้ปุ่มลูกศรเพื่อไปยังสไลด์ต่อหรือก่อนหน้าเมื่อแหล่งที่มาของภาพถูกตั้งไว้"
+	},
+	"presentationtab.pptSource": {
+		"message": "แหล่งที่มาการนำเสนอ"
+	},
+	"presentationtab.change": {
+		"message": "เปลี่ยน..."
+	},
+	"css_editor.edit_css": {
+		"message": "แก้ไข CSS - "
+	},
+	"css_editor.css": {
+		"message": "CSS"
+	},
+	"css_editor.overwrite_css": {
+		"message": "เขียนทับ CSS"
+	},
+	"css_editor.back": {
+		"message": "ย้อนกลับ"
+	},
+	"js_editor.edit_js": {
+		"message": "แก้ไข JS - "
+	},
+	"js_editor.js": {
+		"message": "JS"
+	},
+	"js_editor.add_custom_js": {
+		"message": "เพิ่ม JS แบบกำหนดเอง"
+	},
+	"js_editor.back": {
+		"message": "ย้อนกลับ"
+	},
+	"hints.picture_section": {
+		"message": "คุณสามารถปรับค่าสีของซอสคุณได้ที่นี่"
+	},
+	"hints.keying_section": {
+		"message": "คุณสามารถตั้งค่าโครม่าคีย์สำหรับการลบภาพหลังได้ที่นี่"
+	},
+	"hints.position_section": {
+		"message": "คุณสามารถตั้งค่าขนาดและตำแหน่งของซอสของคุณบน Viewport ได้ที่นี่"
+	},
+	"hints.threed_section": {
+		"message": "คุณสามารถปรับซอสของคุณในระนาบ 3D ได้ โปรดจำไว้ว่า HTML และ SWF ซอสจะไม่จดจำค่าอีเว้นท์ของเม้าส์เมื่อซอสมีการหมุนหรือพลิก"
+	},
+	"hints.media_playback_section": {
+		"message": "ควบคุมการเล่น, ตั้งค่าความดังของมีเดียเสียง, และตั้งค่ามีเดียเสียงอุปกรณ์เอ้าพุท"
+	},
+	"hints.cue_points_section": {
+		"message": "ตั้งค่าจุดต่างๆ ที่จะทำการหยุด ตัด หรือต่อไฟล์มีเดีย"
+	},
+	"hints.game_source_section": {
+		"message": "แสดง/ซ่อน เม้าส์และ เปิดใช้/ปิดการใช้เซอร์เฟส แชร์ริ่ง"
+	},
+	"hints.camera_playback_section": {
+		"message": "สำหรับอุปกรณ์แบบ USB 2.0 แนะนำให้ตั้งค่าเอ้าพุทเสียงไปยังสตรีมเท่านั้น"
+	},
+	"hints.rtsp_rtmp_playback_section": {
+		"message": "เพื่อที่จะหลีกเลี่ยงเสียงดีเลย์นั้น ตั้งค่าเอ้าพุทเสียงไปยังสตรีมเท่านั้น"
+	},
+	"hints.configuration_section": {
+		"message": "คลิ๊กเพื่อเปิดหน้าต่างคอนโทรลพาเนล/การตั้งค่าเพื่อใช้ในการอัพเดทซอส"
+	},
+	"hints.masking_section": {
+		"message": "มาส์กกิ้งจะทำให้คุณสามารถซ้อนซอสเข้ากับรูปร่างของหน้ากากได้ คุณสามารถเลือกไฟล์เป็นหน้ากากหรือเลือกจากรูปร่าง"
+	},
+	"hints.transition_section": {
+		"message": "ค่าเริ่มต้นของ การเปลี่ยน จะทำงานเมื่อซ่อนหรือแสดงซอสบนฉาก(เลือกหรือไม่เลือกเช็คบ็อกในรายชื่อซอส) คุณสามารถเลือกที่่จะใส่ฉากการเปลี่ยนเวลาฉากเข้ามาหรืออกไป อย่างไรก็ตาม การเปลี่ยนฉากจะไม่ทำงานถ้าฉากหลักถูกตั้งค่าการเปลี่ยนไว้เป็น \"ไม่มี\" ถ้าคุณต้องการที่จะตัดฉากสำหรับ การเปลี่ยนแปลงฉากหลัก และยังคงต้องการใช้การเปลี่ยนซอส คุณต้องตั้งค่าการเปลี่ยนหลักไปสู่ \"ตัด\" แทนที่ \"ไม่มี\""
+	},
+	"hints.ndi_playback_section": {
+		"message": "ตั้งค่าความดังและอุปกรณ์เอ้ทพุทเสียง"
+	}
+}

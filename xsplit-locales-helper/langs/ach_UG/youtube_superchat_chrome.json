@@ -1,0 +1,77 @@
+{
+	"youtube.superchat.tabheader": {
+		"message": "crwdns62236:0crwdne62236:0"
+	},
+	"youtube.superchat.source": {
+		"message": "crwdns62238:0crwdne62238:0"
+	},
+	"youtube.superchat.account": {
+		"message": "crwdns62240:0crwdne62240:0"
+	},
+	"youtube.superchat.preview": {
+		"message": "crwdns62242:0crwdne62242:0"
+	},
+	"youtube.superchat.account_automatic": {
+		"message": "crwdns62244:0crwdne62244:0"
+	},
+	"youtube.superchat.authorize": {
+		"message": "crwdns62246:0crwdne62246:0"
+	},
+	"youtube.superchat.remove_authorization": {
+		"message": "crwdns62248:0%api%crwdne62248:0"
+	},
+	"youtube.superchat.switch_account": {
+		"message": "crwdns62250:0%api%crwdne62250:0"
+	},
+	"youtube.superchat.not_connected": {
+		"message": "crwdns62252:0crwdne62252:0"
+	},
+	"youtube.superchat.connected": {
+		"message": "crwdns62254:0crwdne62254:0"
+	},
+	"youtube.superchat.error_channel_not_found": {
+		"message": "crwdns62256:0crwdne62256:0"
+	},
+	"youtube.superchat.notification": {
+		"message": "crwdns62258:0crwdne62258:0"
+	},
+	"youtube.superchat.lock_components": {
+		"message": "crwdns62260:0crwdne62260:0"
+	},
+	"youtube.superchat.lock_components_help": {
+		"message": "crwdns62262:0[br]crwdne62262:0"
+	},
+	"youtube.superchat.show_ticker": {
+		"message": "crwdns62264:0crwdne62264:0"
+	},
+	"youtube.superchat.show_alert": {
+		"message": "crwdns62998:0crwdne62998:0"
+	},
+	"youtube.superchat.opacity": {
+		"message": "crwdns62266:0crwdne62266:0"
+	},
+	"youtube.superchat.font": {
+		"message": "crwdns62268:0crwdne62268:0"
+	},
+	"youtube.superchat.text_size": {
+		"message": "crwdns62270:0crwdne62270:0"
+	},
+	"youtube.superchat.hide_message": {
+		"message": "crwdns62272:0crwdne62272:0"
+	},
+	"youtube.superchat.duration": {
+		"message": "crwdns62274:0crwdne62274:0"
+	},
+	"youtube.superchat.sound": {
+		"message": "crwdns62276:0crwdne62276:0"
+	},
+	"youtube.superchat.test_alert": {
+		"message": "crwdns62278:0crwdne62278:0"
+	},
+	"youtube.superchat.loggingInTo": {
+		"message": "crwdns115385:0crwdne115385:0"
+	},
+	"youtube.superchat.pleaseComplete": {
+		"message": "crwdns115387:0crwdne115387:0"
+	}
+}

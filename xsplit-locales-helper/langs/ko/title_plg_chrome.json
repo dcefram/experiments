@@ -1,0 +1,173 @@
+{
+  "title.content": {
+    "message": "내용"
+  },
+  "title.use_custom_script": {
+    "message": "커스텀 스크립트 사용"
+  },
+  "title.edit_script": {
+    "message": "스크립트 편집"
+  },
+  "title.format": {
+    "message": "형식"
+  },
+  "title.font": {
+    "message": "글꼴"
+  },
+  "title.color": {
+    "message": "색"
+  },
+  "title.outline": {
+    "message": "테두리"
+  },
+  "title.opacity": {
+    "message": "투명도"
+  },
+  "title.style": {
+    "message": "스타일"
+  },
+  "title.align": {
+    "message": "정렬"
+  },
+  "title.shadow": {
+    "message": "그림자"
+  },
+  "title.distance": {
+    "message": "거리"
+  },
+  "title.blur": {
+    "message": "흐림"
+  },
+  "title.angle": {
+    "message": "각도"
+  },
+  "title.animation": {
+    "message": "애니메이션"
+  },
+  "title.none": {
+    "message": "없음"
+  },
+  "title.scroll": {
+    "message": "스크롤"
+  },
+  "title.fade": {
+    "message": "흐려지기"
+  },
+  "title.scrolling": {
+    "message": "스크롤"
+  },
+  "title.line_limit": {
+    "message": "라인 한계"
+  },
+  "title.direction": {
+    "message": "방향"
+  },
+  "title.speed": {
+    "message": "속도"
+  },
+  "title.scroll_units": {
+    "message": "픽셀/초"
+  },
+  "title.delimeter": {
+    "message": "Delimeter"
+  },
+  "title.interval": {
+    "message": "간격"
+  },
+  "title.fade_speed": {
+    "message": "페이드 속도"
+  },
+  "title.enable_60_fps": {
+    "message": "최대 초당 프레임 60까지 활성화"
+  },
+  "title.enable_60_fps_tooltip": {
+    "message": "추가적인 GPU 또는 CPU 리소스를 필요로 합니다. 해당 설정을 변경하면 소스가 새로고침이 됩니다. 최적의 성능을 위해서 도구 메뉴의 환경설정 > 고급 탭에서 '브라우저 소스 최적화' 기능을 활성화 하시기 바랍니다."
+  },
+  "title.ok": {
+    "message": "Ok"
+  },
+  "title.cancel": {
+    "message": "닫기"
+  },
+  "title.hint.content_section": {
+    "message": "이곳에 텍스트를 입력합니다. &amp;lt;br&amp;gt; 를 입력하여 문단을 분리할수 있습니다. BBcode 를 사용하여 추가적인 효과를 적용할수 있습니다. 여기[here](https://xspl.it/bbcode) 를 클릭하여 더 알아보기."
+  },
+  "title.deprecated_scripts": {
+    "message": "이 텍스트 소스에 사용되는 스크립트 중 일부는 사용되지 않는 스크립트 내용이 포함되어 있습니다. 이것을 따라해 스크립트를 업데이트하세요:[br]1. 텍스트 탭의 '스크립트 수정' 버튼을 누르세요[br]2. 스크립트 템플릿을 선택하시고 '텍스트 업데이트' 버튼을 누르세요"
+  },
+  "title.outdated_scripts": {
+    "message": "텍스트 소스로 사용하고 있는 스크립트가 업데이트 된지 오래되었습니다. 다음과 같은 방법으로 업데이트할 수 있습니다:[br]1. 텍스트 탭에 있는 '스크립트 수정'버튼을 누른다[br]2. 스크립트 템플릿을 누르고 설정을 세팅한 후 '텍스트 업데이트' 버튼을 누르면 됩니다"
+  },
+  "title.script_editor.edit_script": {
+    "message": "스크립트 편집 - "
+  },
+  "title.script_editor.title": {
+    "message": "스크립트"
+  },
+  "title.script_editor.template": {
+    "message": "템플릿"
+  },
+  "title.script_editor.settings": {
+    "message": "세팅"
+  },
+  "title.script_editor.script": {
+    "message": "스크립트"
+  },
+  "title.script_editor.back": {
+    "message": "뒤로"
+  },
+  "title.script_editor.update_title": {
+    "message": "텍스트 업데이트"
+  },
+  "title.help.outline_title": {
+    "message": "텍스트 소스를 위해 개요를 사용해보세요"
+  },
+  "title.help.outline_message": {
+    "message": "아웃라인을 사용할 때 글꼴 사이즈 크기에 제한이 있습니다. 사용자는 텍스트 소스를 스테이지에서 조절할 수 있습니다. 하지만 글자는 최대 텍스트 크기로 맞춰질 것입니다."
+  },
+  "title.help.pause_script_title": {
+    "message": "스크립트 정지 또는 재생"
+  },
+  "title.help.pause_script_message": {
+    "message": "지원되는 커스텀 제작 스크립트 외에 기본 시계 스크립트 의 시간과 초시계 기능 스크립트를 일지 정시/재생 할수 있습니다."
+  },
+  "title.help.delimeter_title": {
+    "message": "Delimeter"
+  },
+  "title.help.delimeter_message": {
+    "message": "구분문자는 정해진 글자 혹은 글자 세트로써 원하시는 문구 후에 입력하면 Fade 효과가 적용됩니다."
+  },
+  "title.help.interval_title": {
+    "message": "간격"
+  },
+  "title.help.interval_message": {
+    "message": "인터벌(간격)은 화면이 사라지고 다른 화면이 나올 때까지 걸리는 시간입니다."
+  },
+  "title.pause_hotkey": {
+    "message": "소스가 스테이지에서 선택되었을 때 단축키 [P] 를 누르면 지원되는 스크립트가 재생/정지됩니다."
+  },
+  "title.direction_options_right_to_left": {
+    "message": "오른쪽에서 왼쪽"
+  },
+  "title.direction_options_left_to_right": {
+    "message": "왼쪽에서 오른쪽"
+  },
+  "title.direction_options_bottom_to_top": {
+    "message": "아래서 위로"
+  },
+  "title.direction_options_top_to_bottom": {
+    "message": "위에서 아래로"
+  },
+  "title.outline_options_none": {
+    "message": "없음"
+  },
+  "title.outline_options_thin": {
+    "message": "얇음"
+  },
+  "title.outline_options_thick": {
+    "message": "굵음"
+  },
+  "title.outline_options_thickest": {
+    "message": "제일 굵음"
+  }
+}

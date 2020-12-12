@@ -1,0 +1,167 @@
+{
+	"title": {
+		"message": "crwdns4201:0crwdne4201:0"
+	},
+	"purchasePoint.header": {
+		"message": "crwdns14564:0crwdne14564:0"
+	},
+	"purchasePoint.tagLine": {
+		"message": "crwdns5825:0crwdne5825:0"
+	},
+	"purchasePoint.discountTag": {
+		"message": "crwdns4204:0crwdne4204:0"
+	},
+	"purchasePoint.buyNow": {
+		"message": "crwdns4205:0crwdne4205:0"
+	},
+	"purchasePoint.upgradeNow": {
+		"message": "crwdns12492:0crwdne12492:0"
+	},
+	"purchasePoint.upgradeLicenseNow": {
+		"message": "crwdns12231:0crwdne12231:0"
+	},
+	"purchasePoint.personalLicense": {
+		"message": "crwdns4206:0crwdne4206:0"
+	},
+	"purchasePoint.premiumLicense": {
+		"message": "crwdns4207:0crwdne4207:0"
+	},
+	"purchasePoint.gameSource.label": {
+		"message": "crwdns5569:0[br]crwdne5569:0"
+	},
+	"purchasePoint.noWatermark.label": {
+		"message": "crwdns4209:0crwdne4209:0"
+	},
+	"purchasePoint.gameCard.label": {
+		"message": "crwdns5570:0[br]crwdne5570:0"
+	},
+	"purchasePoint.encodingOffload.label": {
+		"message": "crwdns5571:0[br]crwdne5571:0"
+	},
+	"purchasePoint.maxFPS.label": {
+		"message": "crwdns4212:0crwdne4212:0"
+	},
+	"purchasePoint.projector.label": {
+		"message": "crwdns12987:0crwdne12987:0"
+	},
+	"purchasePoint.localStreaming.label": {
+		"message": "crwdns4214:0crwdne4214:0"
+	},
+	"purchasePoint.videoEditor.label": {
+		"message": "crwdns8009:0crwdne8009:0"
+	},
+	"purchasePoint.streamDelay.label": {
+		"message": "crwdns7342:0crwdne7342:0"
+	},
+	"purchasePoint.commercialUse.label": {
+		"message": "crwdns4216:0crwdne4216:0"
+	},
+	"purchasePoint.andManyMore.label": {
+		"message": "crwdns4217:0crwdne4217:0"
+	},
+	"purchasePoint.previewEditor.label": {
+		"message": "crwdns7332:0crwdne7332:0"
+	},
+	"purchasePoint.audioPreview.label": {
+		"message": "crwdns12988:0crwdne12988:0"
+	},
+	"purchasePoint.AMDVCE.label": {
+		"message": "crwdns4218:0crwdne4218:0"
+	},
+	"purchasePoint.NVidiaNVENC.label": {
+		"message": "crwdns4219:0crwdne4219:0"
+	},
+	"purchasePoint.intelQuickSync.label": {
+		"message": "crwdns4220:0crwdne4220:0"
+	},
+	"purchasePoint.gameSource.description": {
+		"message": "crwdns4221:0crwdne4221:0"
+	},
+	"purchasePoint.noWatermark.description": {
+		"message": "crwdns11447:0%resolution%crwdne11447:0"
+	},
+	"purchasePoint.gameCard.description": {
+		"message": "crwdns14565:0crwdne14565:0"
+	},
+	"purchasePoint.encodingOffload.description": {
+		"message": "crwdns4224:0crwdne4224:0"
+	},
+	"purchasePoint.maxFPS.description": {
+		"message": "crwdns5844:0%fps%crwdne5844:0"
+	},
+	"purchasePoint.projector.description": {
+		"message": "crwdns4226:0crwdne4226:0"
+	},
+	"purchasePoint.localStreaming.description": {
+		"message": "crwdns4227:0crwdne4227:0"
+	},
+	"purchasePoint.videoEditor.description": {
+		"message": "crwdns8010:0crwdne8010:0"
+	},
+	"purchasePoint.streamDelay.description": {
+		"message": "crwdns4228:0crwdne4228:0"
+	},
+	"purchasePoint.commercialUse.description": {
+		"message": "crwdns4229:0crwdne4229:0"
+	},
+	"purchasePoint.andManyMore.description": {
+		"message": "crwdns14566:0[www.xsplit.com]crwdne14566:0"
+	},
+	"purchasePoint.previewEditor.description": {
+		"message": "crwdns7330:0crwdne7330:0"
+	},
+	"purchasePoint.audioPreview.description": {
+		"message": "crwdns7331:0crwdne7331:0"
+	},
+	"purchasePoint.paymentMethods": {
+		"message": "crwdns4231:0crwdne4231:0"
+	},
+	"purchasePoint.visitOurWebsite": {
+		"message": "crwdns5708:0[website]crwdne5708:0"
+	},
+	"purchasePoint.getTwo.header": {
+		"message": "crwdns4233:0crwdne4233:0"
+	},
+	"purchasePoint.getTwo.description": {
+		"message": "crwdns5709:0crwdne5709:0"
+	},
+	"purchasePoint.doNotShow": {
+		"message": "crwdns12232:0crwdne12232:0"
+	},
+	"purchasePoint.wait": {
+		"message": "crwdns4235:0%count%crwdne4235:0"
+	},
+	"purchasePoint.continue": {
+		"message": "crwdns4236:0crwdne4236:0"
+	},
+	"purchasePoint.maybeLater": {
+		"message": "crwdns4237:0crwdne4237:0"
+	},
+	"purchasePoint.licenseAgreement": {
+		"message": "crwdns5710:0crwdne5710:0"
+	},
+	"purchasePoint.advertisment.label": {
+		"message": "crwdns12111:0crwdne12111:0"
+	},
+	"purchasePoint.advertisment.paid.label": {
+		"message": "crwdns12233:0crwdne12233:0"
+	},
+	"purchasePoint.buyxsplitnow": {
+		"message": "crwdns14567:0crwdne14567:0"
+	},
+	"purchasePoint.newsandupdates": {
+		"message": "crwdns12114:0crwdne12114:0"
+	},
+	"purchasePoint.news.previous": {
+		"message": "crwdns12115:0[Previous]crwdne12115:0"
+	},
+	"purchasePoint.news.next": {
+		"message": "crwdns12116:0[Next]crwdne12116:0"
+	},
+	"purchasePoint.tutorials": {
+		"message": "crwdns12117:0crwdne12117:0"
+	},
+	"purchasePoint.upgrade": {
+		"message": "crwdns12118:0crwdne12118:0"
+	}
+}

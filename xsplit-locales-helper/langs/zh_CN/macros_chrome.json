@@ -1,0 +1,485 @@
+{
+  "permission_header": {
+    "message": "需要授权"
+  },
+  "permission_body": {
+    "message": "DLL访问是必需的. 请转到[工具 - >权限]() 并为此扩展程序授予访问权限以继续."
+  },
+  "permission_button": {
+    "message": "去授权"
+  },
+  "macro_exceeded_header": {
+    "message": "無法添加或复制macro"
+  },
+  "macro_exceeded_body": {
+    "message": "您已达到100个 macros的限制."
+  },
+  "macro_executor_header": {
+    "message": "创建一个macro按顺序设置XSplit Broadcaster操作的自动执行. 当事件集合满足时它将自动运行."
+  },
+  "note_title": {
+    "message": "对于这个版本:"
+  },
+  "warning_note": {
+    "message": "如果某些值未更新(即场景名称更改), 请重新加载Macros扩展. 在分割模式或预览编辑器中, [br]某些事件和操作可能无法正常工作. 因此建议在运行Macros时使用经典模式."
+  },
+  "button_ok": {
+    "message": "Ok"
+  },
+  "button_cancel": {
+    "message": "取消"
+  },
+  "delete_confirmation_header": {
+    "message": "删除Macro"
+  },
+  "delete_confirmation_body": {
+    "message": "您确定要删除**%macroName%?**"
+  },
+  "add_macro": {
+    "message": "添加macro"
+  },
+  "continue_on_error": {
+    "message": "错误时继续运行macros"
+  },
+  "stop_macro": {
+    "message": "停止"
+  },
+  "test_macro": {
+    "message": "测试"
+  },
+  "event_label": {
+    "message": "事件"
+  },
+  "action_label": {
+    "message": "动作"
+  },
+  "condition_label": {
+    "message": "条件"
+  },
+  "add_action": {
+    "message": "添加动作"
+  },
+  "add_condition": {
+    "message": "添加条件"
+  },
+  "enable_event_listener": {
+    "message": "启用事件听音器"
+  },
+  "enable_event_listener_help_title_description": {
+    "message": "[默认: 未选中]"
+  },
+  "enable_event_listener_help_message": {
+    "message": "启用此功能将开始持续检查事件. 一旦事件满足, 它将会运行 macro(按顺序执行操作). [br]如果Event ='On key press', 则建议在更改快捷键值时禁用此功能, 否则会在更改数值时自动运行macro."
+  },
+  "script_copied_to_clipboard": {
+    "message": "脚本复制到剪贴板"
+  },
+  "enable_condition_check_per_action": {
+    "message": "为每个动作启用检查条件"
+  },
+  "no_options": {
+    "message": "没有可用的选项"
+  },
+  "macro_tooltip": {
+    "message": "#### **%macroName%** [br] %triggerName%"
+  },
+  "key_stroke_placeholder": {
+    "message": "输入组合键或点击鼠标..."
+  },
+  "select_action_placeholder": {
+    "message": "选择动作..."
+  },
+  "select_condition_placeholder": {
+    "message": "选择条件..."
+  },
+  "select_trigger_placeholder": {
+    "message": "选择触发条件..."
+  },
+  "select_scene_placeholder": {
+    "message": "选择场景..."
+  },
+  "select_stream_source_placeholder": {
+    "message": "选择直播源..."
+  },
+  "select_status_placeholder": {
+    "message": "选择状态..."
+  },
+  "select_media_source_placeholder": {
+    "message": "选择介质源..."
+  },
+  "select_output_placeholder": {
+    "message": "选择输出/通道..."
+  },
+  "select_function_placeholder": {
+    "message": "选择功能..."
+  },
+  "select_transition_placeholder": {
+    "message": "选择过渡..."
+  },
+  "select_source_placeholder": {
+    "message": "选择源..."
+  },
+  "select_visibility_placeholder": {
+    "message": "选择可见性..."
+  },
+  "select_playback_state_placeholder": {
+    "message": "选择回放状态..."
+  },
+  "select_source_with_audio_placeholder": {
+    "message": "选择带有音频的源..."
+  },
+  "select_mute_state_placeholder": {
+    "message": "选择静音状态..."
+  },
+  "select_macro_placeholder": {
+    "message": "选择macro..."
+  },
+  "select_media_state_placeholder": {
+    "message": "选择媒体状态..."
+  },
+  "select_macro_state_placeholder": {
+    "message": "选择macro 状态..."
+  },
+  "edit_macro_name_placeholder": {
+    "message": "输入macro 名称"
+  },
+  "disabled_trigger_display_name": {
+    "message": "(禁用听音器) %displayName%"
+  },
+  "trigger_display_name": {
+    "message": "%displayName%"
+  },
+  "new_action": {
+    "message": "新操作"
+  },
+  "trigger_display_name_manual_run": {
+    "message": "无事件"
+  },
+  "trigger_display_name_on_key_press": {
+    "message": "在 **%keyInput% **"
+  },
+  "trigger_display_name_every_interval": {
+    "message": "每 **%time%** ms"
+  },
+  "trigger_display_name_on_scheduled_time": {
+    "message": "在 **%timeSchedule% **"
+  },
+  "trigger_display_name_on_scene_switch": {
+    "message": "现场切换到 **%scene%**"
+  },
+  "trigger_display_name_stream_source_state_change": {
+    "message": "当 **%stream%** 到 **%state%**"
+  },
+  "trigger_display_name_after_media_playback": {
+    "message": "当 **%id%** 停止时"
+  },
+  "trigger_display_name_custom_function": {
+    "message": "自定义脚本"
+  },
+  "trigger_display_name_default_manual_run": {
+    "message": "无事件"
+  },
+  "trigger_display_name_default_on_key_press": {
+    "message": "在按键上 [?]"
+  },
+  "trigger_display_name_default_every_interval": {
+    "message": "每隔一段时间 [?]"
+  },
+  "trigger_display_name_default_on_scheduled_time": {
+    "message": "在计划的时间 [?]"
+  },
+  "trigger_display_name_default_on_scene_switch": {
+    "message": "现场切换 [?]"
+  },
+  "trigger_display_name_default_stream_source_state_change": {
+    "message": "当直播源联机/脱机时 [?]"
+  },
+  "trigger_display_name_default_after_media_playback": {
+    "message": "当媒体源停止 [?]"
+  },
+  "trigger_display_name_default_custom_function": {
+    "message": "自定义脚本 [?]"
+  },
+  "trigger_option_display_manual_run": {
+    "message": "无事件"
+  },
+  "trigger_option_display_on_key_press": {
+    "message": "在按键上"
+  },
+  "trigger_option_display_every_interval": {
+    "message": "每隔一段时间"
+  },
+  "trigger_option_display_on_scheduled_time": {
+    "message": "在计划的时间"
+  },
+  "trigger_option_display_on_scene_switch": {
+    "message": "现场切换"
+  },
+  "trigger_option_display_stream_source_state_change": {
+    "message": "当直播源联机/脱机时"
+  },
+  "trigger_option_display_after_media_playback": {
+    "message": "当媒体源停止"
+  },
+  "trigger_option_display_custom_function": {
+    "message": "自定义脚本"
+  },
+  "trigger_presets_time": {
+    "message": "时间"
+  },
+  "trigger_presets_time_schedule": {
+    "message": "计划"
+  },
+  "trigger_presets_state_online": {
+    "message": "联机"
+  },
+  "trigger_presets_state_offline": {
+    "message": "脱机"
+  },
+  "trigger_presets_custom_function_placeholder": {
+    "message": "在此处键入或粘贴脚本...[br]脚本具有这些参数 (callFunctionArray、xjs). [br]自定义事件脚本必须返回一个函数以清除/删除事件听音器."
+  },
+  "action_display_name_wait": {
+    "message": "等待 %time% ms"
+  },
+  "action_display_name_start_stop_broadcast": {
+    "message": "%broadcastState% 广播到 %output%"
+  },
+  "action_display_name_scene_change": {
+    "message": "切换至%scene%"
+  },
+  "action_display_name_scene_transition_change": {
+    "message": "设置场景过渡到 %transition%, %time% ms"
+  },
+  "action_display_name_set_source_visibilty": {
+    "message": "%visibility% %videoItem%"
+  },
+  "action_display_name_playback_media": {
+    "message": "%newPlaybackState% %id%"
+  },
+  "action_display_name_toggle_mute": {
+    "message": "%mute% %itemAudio%"
+  },
+  "action_display_name_run_macro": {
+    "message": "运行 %macro%"
+  },
+  "action_display_name_stop_macro": {
+    "message": "停止 %stopMacroId%"
+  },
+  "action_display_name_push_to_live": {
+    "message": "开始直播"
+  },
+  "action_display_name_enable_disable_macro": {
+    "message": "%toggle% %macro% 听音器"
+  },
+  "action_display_name_go_to_action": {
+    "message": "去 %action%"
+  },
+  "action_display_name_custom_function": {
+    "message": "自定义脚本 (%customFunctionAction% ...)"
+  },
+  "action_display_name_default_wait": {
+    "message": "等待 [?]"
+  },
+  "action_display_name_default_start_stop_broadcast": {
+    "message": "开始/停止广播 [?]"
+  },
+  "action_display_name_default_scene_change": {
+    "message": "切换至场景 [?]"
+  },
+  "action_display_name_default_scene_transition_change": {
+    "message": "设置场景转换 [?]"
+  },
+  "action_display_name_default_set_source_visibilty": {
+    "message": "设置源可见性 [?]"
+  },
+  "action_display_name_default_playback_media": {
+    "message": "设置媒体源播放状态 [?]"
+  },
+  "action_display_name_default_toggle_mute": {
+    "message": "设置音频源状态 [?]"
+  },
+  "action_display_name_default_run_macro": {
+    "message": "运行 macro [?]"
+  },
+  "action_display_name_default_stop_macro": {
+    "message": "停止 macro [?]"
+  },
+  "action_display_name_default_push_to_live": {
+    "message": "开始直播"
+  },
+  "action_display_name_default_enable_disable_macro": {
+    "message": "启用/禁用macro 事件听音器 [?]"
+  },
+  "action_display_name_default_go_to_action": {
+    "message": "去 action [?]"
+  },
+  "action_display_name_default_custom_function": {
+    "message": "自定义脚本 [?]"
+  },
+  "action_option_display_wait": {
+    "message": "等待"
+  },
+  "action_option_display_start_stop_broadcast": {
+    "message": "开始/停止广播"
+  },
+  "action_option_display_scene_change": {
+    "message": "切换至场景"
+  },
+  "action_option_display_scene_transition_change": {
+    "message": "设置场景转换"
+  },
+  "action_option_display_set_source_visibilty": {
+    "message": "设置源可见性"
+  },
+  "action_option_display_playback_media": {
+    "message": "设置媒体源播放状态"
+  },
+  "action_option_display_toggle_mute": {
+    "message": "设置音频源状态"
+  },
+  "action_option_display_run_macro": {
+    "message": "运行 macro"
+  },
+  "action_option_display_stop_macro": {
+    "message": "停止 macro"
+  },
+  "action_option_display_push_to_live": {
+    "message": "开始直播"
+  },
+  "action_option_display_enable_disable_macro": {
+    "message": "启用/禁用macro 事件听音器"
+  },
+  "action_option_display_go_to_action": {
+    "message": "去 action"
+  },
+  "action_option_display_custom_function": {
+    "message": "自定义脚本"
+  },
+  "action_presets_time": {
+    "message": "时间"
+  },
+  "action_presets_wait_until_done": {
+    "message": "等到完成"
+  },
+  "action_presets_custom_function_placeholder": {
+    "message": "在这里键入或粘贴脚本...[br]脚本具有这些参数 (解决, 拒绝, Xjs). [br]自定义操作脚本必须解决或拒绝."
+  },
+  "action_presets_start": {
+    "message": "开始"
+  },
+  "action_presets_stop": {
+    "message": "停止"
+  },
+  "action_presets_show": {
+    "message": "展示"
+  },
+  "action_presets_hide": {
+    "message": "隐藏"
+  },
+  "action_presets_toggle_visibility": {
+    "message": "切换可见性"
+  },
+  "action_presets_play": {
+    "message": "播放"
+  },
+  "action_presets_pause": {
+    "message": "暂停"
+  },
+  "action_presets_mute": {
+    "message": "静音"
+  },
+  "action_presets_unmute": {
+    "message": "停止静音"
+  },
+  "action_presets_toggle_audio": {
+    "message": "切换音频状态"
+  },
+  "action_presets_enable": {
+    "message": "执行"
+  },
+  "action_presets_disable": {
+    "message": "禁用"
+  },
+  "condition_display_name_active_scene": {
+    "message": "如果活动场景是 %scene%"
+  },
+  "condition_display_name_stream_source": {
+    "message": "如果 %stream% 是 %state%"
+  },
+  "condition_display_name_source_visibility": {
+    "message": "如果 %videoItem% 是 %visibility%"
+  },
+  "condition_display_name_media_state": {
+    "message": "如果 %id% 是 %mediaState%"
+  },
+  "condition_display_name_macro_state": {
+    "message": "如果 %macro% 是 %state%"
+  },
+  "condition_display_name_custom_function": {
+    "message": "自定义条件 (%customFunctionCondition%)"
+  },
+  "condition_display_name_default_active_scene": {
+    "message": "检查活动场景 [?]"
+  },
+  "condition_display_name_default_stream_source": {
+    "message": "检查直播源 [?]"
+  },
+  "condition_display_name_default_source_visibility": {
+    "message": "检查源可见性 [?]"
+  },
+  "condition_display_name_default_media_state": {
+    "message": "检查媒体状态 [?]"
+  },
+  "condition_display_name_default_macro_state": {
+    "message": "检查macro 状态 [?]"
+  },
+  "condition_display_name_default_custom_function": {
+    "message": "自定义条件 [?]"
+  },
+  "condition_option_display_active_scene": {
+    "message": "检查活动场景"
+  },
+  "condition_option_display_stream_source": {
+    "message": "检查直播源"
+  },
+  "condition_option_display_source_visibility": {
+    "message": "检查源可见性"
+  },
+  "condition_option_display_media_state": {
+    "message": "检查媒体状态"
+  },
+  "condition_option_display_macro_state": {
+    "message": "检查macro 状态"
+  },
+  "condition_option_display_custom_function": {
+    "message": "自定义条件"
+  },
+  "condition_presets_online": {
+    "message": "联机"
+  },
+  "condition_presets_offline": {
+    "message": "脱机"
+  },
+  "condition_presets_visible": {
+    "message": "可见"
+  },
+  "condition_presets_hidden": {
+    "message": "隐藏"
+  },
+  "condition_presets_playing": {
+    "message": "播放中"
+  },
+  "condition_presets_not_playing": {
+    "message": "未播放"
+  },
+  "condition_presets_enabled": {
+    "message": "启用"
+  },
+  "condition_presets_disabled": {
+    "message": "禁用"
+  },
+  "condition_presets_custom_function_placeholder": {
+    "message": "在这里键入或粘贴脚本...[br]脚本具有这些参数 (解决, 拒绝, Xjs, args, callFunctionArray). [br]自定义条件脚本必须解决."
+  }
+}

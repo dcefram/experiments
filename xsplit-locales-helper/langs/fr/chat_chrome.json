@@ -1,0 +1,71 @@
+{
+  "chat.title": {
+    "message": "Configuration de la messagerie %service%"
+  },
+  "chat.source": {
+    "message": "Source"
+  },
+  "chat.account": {
+    "message": "Compte"
+  },
+  "chat.authorize": {
+    "message": "Autoriser XSplit à utiliser %service%"
+  },
+  "chat.deauthorize": {
+    "message": "%username% (supprimer autorisation)"
+  },
+  "chat.connected": {
+    "message": "Connecté"
+  },
+  "chat.not_connected": {
+    "message": "Non connecté"
+  },
+  "chat.channel_text": {
+    "message": "Saisissez le canal de la messagerie %service% que vous souhaitez afficher."
+  },
+  "chat.channel": {
+    "message": "Chaîne"
+  },
+  "chat.channel_name": {
+    "message": "Nom de chaîne"
+  },
+  "chat.connect": {
+    "message": "Connexion"
+  },
+  "chat.error_channel_not_found": {
+    "message": "Chaîne %service% introuvable. Veuillez réessayer."
+  },
+  "chat.error_no_connection": {
+    "message": "Vérifiez votre connexion Internet et réessayez."
+  },
+  "chat.display": {
+    "message": "Affichage"
+  },
+  "chat.chat_box": {
+    "message": "Fenêtre de discussion"
+  },
+  "chat.opacity": {
+    "message": "Opacité"
+  },
+  "chat.viewers": {
+    "message": "Spectateurs"
+  },
+  "chat.message": {
+    "message": "Message"
+  },
+  "chat.text_size": {
+    "message": "Taille du texte"
+  },
+  "chat.disconnect": {
+    "message": "Déconnexion"
+  },
+  "chat.connecting": {
+    "message": "Connexion..."
+  },
+  "chat.connect_error": {
+    "message": "%service% ne parvient pas à se connecter à la chaîne. Veuillez réessayer."
+  },
+  "chat.invalid_channel": {
+    "message": "Veuillez fournir une chaîne %service% valide."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "googleSlide.presentation": {
+    "message": "Presentation"
+  },
+  "googleSlide.go_button": {
+    "message": "Go"
+  },
+  "googleSlide.url": {
+    "message": "URL"
+  },
+  "googleSlide.enter_google_slide_link": {
+    "message": "Enter your Google Slides share link"
+  },
+  "googleSlide.remove_controls_ui": {
+    "message": "Remove Controls UI"
+  },
+  "googleSlide.connected": {
+    "message": "连接"
+  },
+  "googleSlide.valid_url_warning": {
+    "message": "Enter a valid Google Slides URL"
+  },
+  "googleSlide.slide_private_warning": {
+    "message": "Slide is private. Enable 'Anyone with the link can view'"
+  },
+  "googleSlide.playback": {
+    "message": "回放"
+  },
+  "googleSlide.system_sound": {
+    "message": "系统声音"
+  },
+  "googleSlide.stream_only": {
+    "message": "仅直播"
+  },
+  "googleSlide.stream_only_install": {
+    "message": "仅直播(安装)"
+  },
+  "googleSlide.default_speakers": {
+    "message": "默认扬声器"
+  }
+}

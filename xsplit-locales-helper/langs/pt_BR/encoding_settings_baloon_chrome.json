@@ -1,0 +1,38 @@
+{
+	"currentResolutionNotSupported": {
+		"message": "A sua resolução de vídeo atual está configurada para %resolution%. A sua taxa de quadros atual é %fps%."
+	},
+	"currentResolutionNotSupportedYouTube": {
+		"message": "Sua resolução de vídeo é %resolution% em %fps% frames por segundo, o que não é suportado pelo YouTube Live. Defina a resolução para uma resolução com suporte da tabela abaixo."
+	},
+	"currentResolutionSupported": {
+		"message": "A sua resolução de vídeo atual está definida para %resolution%.  A taxa de quadros atual do seu vídeo é *%fps%*. Consulte a tabela abaixo para ver a velocidade de transmissão recomendada"
+	},
+	"currentResolutionSupportedYouTube": {
+		"message": "Sua *resolução de vídeo atual* é *%resolution%*. Sua taxa de quadros atual é *%fps% *. Consulte guia abaixo para o bitrate recomendado."
+	},
+	"currentResolutionCapable1080pYouTube": {
+		"message": "Sua *resolução de vídeo atual* é *%resolution%*. Sua taxa de quadros atual é *%fps%*. Você deverá *considerar duas vezes antes de transmitir em 1080p ou superior* a menos que tenha uma CPU muito forte junto com uma ótima conexão de internet banda larga."
+	},
+	"currentResolutionNotCapable1080pYouTube": {
+		"message": "Sua *resolução de vídeo atual* é *%resolution%*. Sua taxa de quadros atual é *%fps%*. Você deverá *considerar duas vezes antes de transmitir em 1080p ou superior* a menos que tenha uma CPU muito forte (que pode ser que você não possua) junto com uma ótima conexão de internet banda larga."
+	},
+	"defaultMessage": {
+		"message": "Para o %service% recomendamos apenas as resoluções indicadas abaixo. Altere a sua resolução no menu Resolução"
+	},
+	"resolution": {
+		"message": "Resolução"
+	},
+	"suggestedBitRate": {
+		"message": "Velocidade de transmissão sugerida"
+	},
+	"maximumBitRate": {
+		"message": "Velocidade de transmissão máxima"
+	},
+	"minimumBitRate": {
+		"message": "Velocidade de transmissão mínima"
+	},
+	"warning": {
+		"message": "Não tente utilizar %resolutions% exceto se possuir um CPU potente e uma ligação de Internet veloz"
+	}
+}

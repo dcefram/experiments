@@ -1,0 +1,146 @@
+{
+  "menu.language": {
+    "message": "언어 변경"
+  },
+  "menu.calibrate": {
+    "message": "보정"
+  },
+  "menu.account": {
+    "message": "내 계정"
+  },
+  "menu.help": {
+    "message": "도움말"
+  },
+  "menu.signin": {
+    "message": "로그인 방법"
+  },
+  "menu.logout": {
+    "message": "로그 아웃"
+  },
+  "menu.about": {
+    "message": "정보"
+  },
+  "menu.source": {
+    "message": "소스"
+  },
+  "menu.filter": {
+    "message": "필터"
+  },
+  "menu.bgFilter.og": {
+    "message": "기본 배경"
+  },
+  "menu.bgFilter.replace": {
+    "message": "배경 대체"
+  },
+  "menu.bgFilter.remove": {
+    "message": "배경 제거"
+  },
+  "menu.bgImage": {
+    "message": "배경 이미지"
+  },
+  "menu.bgBlur": {
+    "message": "배경 흐리기"
+  },
+  "menu.filterMenu.automatic": {
+    "message": "자동"
+  },
+  "menu.filterMenu.accel": {
+    "message": "하드웨어 가속"
+  },
+  "menu.filterMenu.quality": {
+    "message": "품질 제어"
+  },
+  "menu.filterMenu.quality.low": {
+    "message": "낮음"
+  },
+  "menu.filterMenu.quality.med": {
+    "message": "일반"
+  },
+  "menu.filterMenu.quality.high": {
+    "message": "높음"
+  },
+  "menu.filterMenu.addtl": {
+    "message": "추가 설정"
+  },
+  "menu.filterMenu.addtl.chair": {
+    "message": "의자 제거"
+  },
+  "menu.browse.local": {
+    "message": "로컬 파일 찾아보기"
+  },
+  "menu.browse.online": {
+    "message": "온라인 웹 페이지"
+  },
+  "calibrate.title": {
+    "message": "엑스플릿 브이캠 보정하기"
+  },
+  "calibrate.subtitle": {
+    "message": "엑스플릿 브이캠을 보정하시면 사용자님이 해당한 방송 환경에 맞춰 성능을 향상 시킬 수 있습니다."
+  },
+  "calibrate.source": {
+    "message": "카메라 소스 선택:"
+  },
+  "calibrate.vidConsent": {
+    "message": "15초의 영상을 업로드 하여 성능 향상을 위한 데이터 보정을 합니다"
+  },
+  "calibrate.title2": {
+    "message": "보정중..."
+  },
+  "calibrate.subtitle2": {
+    "message": "카메라 앞에서 15초 가량 머물러 있으세요. 양 옆으로 고개를 돌리거나, 팔을 흔들거나 기존에 하시는 행동을 취하세요."
+  },
+  "calibrate.title3": {
+    "message": "완료!"
+  },
+  "calibrate.subtitle3": {
+    "message": "이제 엑스플릿 브이캠이 준비되었습니다. 스카이프, OBS, 엑스플릿 브로드캐스터 외 다른 영상 캡처 프로그램 실행시 \"XSplit VCam\" 을 카메라/영상 소스로 선택할 수 있습니다."
+  },
+  "calibrate.denyConsent": {
+    "message": "데이터 보정을 위한 업로드를 취소하시겠습니까? 사용자님의 정보는 오직 현재 방송 환경에 적합한 AI 정보를 보정하는데에만 사용 됩니다. 이 설정 없이는 최적화된 환경을 제공해드릴 수 없습니다."
+  },
+  "feedback.ask": {
+    "message": "이 어플리케이션에 만족하셨습니까?"
+  },
+  "feedback.rating.low": {
+    "message": "불편하게 해서 죄송합니다."
+  },
+  "feedback.rating.med": {
+    "message": "더 발전하도록 의견을 공유해주세요"
+  },
+  "feedback.rating.high": {
+    "message": "별 5개 감사합니다!"
+  },
+  "feedback.vidConsent": {
+    "message": "샘플 영상을 녹화하고 싶습니다"
+  },
+  "feedback.question": {
+    "message": "추가 기능 및 품질 개선을 위한 의견이 있으신가요?"
+  },
+  "feedback.comments": {
+    "message": "댓글을 선택 요소 입니다"
+  },
+  "feedback.thanks": {
+    "message": "피드백 해주셔서 감사합니다!"
+  },
+  "feedback.assurance": {
+    "message": "더욱 좋은 경험을 선사해드리고자 노력하겠습니다."
+  },
+  "purchase.buy": {
+    "message": "지금 구매하십시오!"
+  },
+  "window.continue": {
+    "message": "계속"
+  },
+  "window.close": {
+    "message": "닫기"
+  },
+  "window.cancel": {
+    "message": "취소"
+  },
+  "window.redo": {
+    "message": "번복하기"
+  },
+  "window.submit": {
+    "message": "제출"
+  }
+}

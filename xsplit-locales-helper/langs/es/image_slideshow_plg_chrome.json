@@ -1,0 +1,104 @@
+{
+  "image_slideshow.images": {
+    "message": "Imágenes"
+  },
+  "image_slideshow.add": {
+    "message": "Añadir"
+  },
+  "image_slideshow.remove": {
+    "message": "Eliminar"
+  },
+  "image_slideshow.preview": {
+    "message": "Previsualización"
+  },
+  "image_slideshow.transition_preview": {
+    "message": "Vista previa de la transición"
+  },
+  "image_slideshow.browser_60_fps": {
+    "message": "Permite hasta 60 FPS"
+  },
+  "image_slideshow.effects": {
+    "message": "Transición"
+  },
+  "image_slideshow.transition": {
+    "message": "Transición"
+  },
+  "image_slideshow.loop": {
+    "message": "Repetir"
+  },
+  "image_slideshow.interval": {
+    "message": "Intervalo"
+  },
+  "image_slideshow.seconds": {
+    "message": "segundos"
+  },
+  "image_slideshow.shuffle_images": {
+    "message": "Imágenes aleatorias"
+  },
+  "image_slideshow.auto_refresh_images": {
+    "message": "Actualización automática de imágenes"
+  },
+  "image_slideshow.remember_playback_position": {
+    "message": "Recordar posición de la reproducción"
+  },
+  "image_slideshow.ok": {
+    "message": "Ok"
+  },
+  "image_slideshow.cancel": {
+    "message": "Cancelar"
+  },
+  "image_slideshow.hint.images_section": {
+    "message": "Agregar, quitar y ordenar las imágenes"
+  },
+  "image_slideshow.hint.effects_section": {
+    "message": "Aplique transiciones, permiten crear bucles y definir la duración de intervalo"
+  },
+  "image_slideshow.hint.browser_60_fps_title": {
+    "message": "Permite hasta 60 FPS"
+  },
+  "image_slideshow.hint.browser_60_fps_message": {
+    "message": "Posiblemente se requieran recursos adicionales del GPU/CPU. Ten en cuenta que cambiar esta opción activará la actualización de la fuente. Para tener un mejor rendimiento, permite la optimización especial de la fuente del navegador en Herramientas -> Configuración-> Avanzado."
+  },
+  "image_slideshow.hint.auto_refresh_images_message": {
+    "message": "La activación de esta opción será actualizar las imágenes automáticamente después de cada ciclo. Sin embargo, esta opción puede retardar su presentación de diapositivas de imagen fuente."
+  },
+  "image_slideshow.hotkeys": {
+    "message": "Atajos Rápidos"
+  },
+  "image_slideshow.hotkey_header": {
+    "message": "Utilizar estas teclas de acceso directo cuando se selecciona la fuente:"
+  },
+  "image_slideshow.hotkey_p": {
+    "message": "Prensa &quot;**P** &quot; para pausar/reanudar slideshow (modo presentación)"
+  },
+  "image_slideshow.hotkey_s": {
+    "message": "Prensa &quot;**S**&quot; para detener la presentación de diapositivas (modo presentación de diapositivas)"
+  },
+  "image_slideshow.hotkey_r": {
+    "message": "Prensa &quot;**R**&quot; para reanudar la presentación de diapositivas (modo presentación de diapositivas)"
+  },
+  "image_slideshow.hotkey_n": {
+    "message": "Prensa &quot;**N**&quot; para ir a la siguiente imagen de la presentación de diapositivas (modo presentación de diapositivas)"
+  },
+  "image_slideshow.hotkey_b": {
+    "message": "Prensa &quot;**B**&quot; para ir a la imagen anterior de la presentación de diapositivas (modo presentación de diapositivas)"
+  },
+  "image_slideshow.double_click_main": {
+    "message": "Haga doble clic en la imagen principal para mostrar las miniaturas (modo presentación)"
+  },
+  "image_slideshow.double_click_thumbnail": {
+    "message": "Haga doble clic en la miniatura para mostrar la imagen principal (modo de presentación)"
+  },
+  "image_slideshow.browse": {
+    "message": "Buscar imágenes en miniaturas cargadas arrastrando la tira de miniaturas. &quot;Posición de Bloqueo&quot; debe estar marcada. (Casilla de posición de bloqueo se encuentra en la pestaña &quot;Diseño&quot;)"
+  },
+  "image_slideshow.loop_select_options_hide": {
+    "message": "Una vez entonces ocultar"
+  },
+  "image_slideshow.loop_select_options_nothing": {
+    "message": "Una Vez"
+  },
+  "image_slideshow.loop_select_options_loop": {
+    "message": "Para siempre"
+  }
+}

@@ -1,0 +1,234 @@
+{
+	"email": {
+		"message": "电子邮箱"
+	},
+	"password": {
+		"message": "密码"
+	},
+	"rememberMe": {
+		"message": "记住我"
+	},
+	"newXSplitUser": {
+		"message": "新XSplit 用户?"
+	},
+	"noAccount": {
+		"message": "现在注册"
+	},
+	"forgotPassword": {
+		"message": "忘记密码"
+	},
+	"enterCode": {
+		"message": "输入代码"
+	},
+	"loginAutomatically": {
+		"message": "自动登入"
+	},
+	"login": {
+		"message": "登录"
+	},
+	"selectLanguage": {
+		"message": "选择语言"
+	},
+	"agreement": {
+		"message": "我已阅读并接受 [XSplit License Agreement](http://xspl.it/bc/terms) 和[Privacy Policy](https://xspl.it/bc/privacy)."
+	},
+	"updates": {
+		"message": "通过电子邮件向我发送更新和特别优惠。"
+	},
+	"noEmailMessage": {
+		"message": "您选择不接收更新电子邮件。点击继续确认您的选择。"
+	},
+	"growl.warning": {
+		"message": "警告"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.title": {
+		"message": "锁定大写已启用",
+		"type": "warning"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.message": {
+		"message": "大写锁定可能会导致您输入您的密码不正确.请确保输入密码前关闭它."
+	},
+	"registration.message": {
+		"message": "新XSplit用户? [隐私政策](https://xspl.it/bc/privacy)"
+	},
+	"screenName.placeholder": {
+		"message": "选择一个用户名称"
+	},
+	"fullName.placeholder": {
+		"message": "全名"
+	},
+	"emailInput.placeholder": {
+		"message": "电子邮箱"
+	},
+	"passwordInput.placeholder": {
+		"message": "密码"
+	},
+	"retypePassword.placeholder": {
+		"message": "重新输入密码"
+	},
+	"register.label": {
+		"message": "现在注册"
+	},
+	"loginUsingExisting": {
+		"message": "**已经拥有账户?** [登录]() 使用已存在账户"
+	},
+	"registration.confirm.message": {
+		"message": "**请确保您的电子邮件地址正确无误，并且您已阅读XSplit许可协议和隐私政策，然后再继续。**"
+	},
+	"registration.confirm.continue": {
+		"message": "继续"
+	},
+	"registration.confirm.goBack": {
+		"message": "后退"
+	},
+	"registration.processing": {
+		"message": "注册新账号..."
+	},
+	"registration.success": {
+		"message": "**注册成功!**[br]\n[br]\n一封邮件已经被发送到 **%email%**指导您如何激活账户."
+	},
+	"continue.label": {
+		"message": "继续 XSplit Broadcaster"
+	},
+	"screenName.hint": {
+		"message": "昵称必须在4-50个字符之间.并使用在论坛中."
+	},
+	"screenName.check": {
+		"message": "检查您的用户名是否可用..."
+	},
+	"screenName.unavailable": {
+		"message": "用户名已被占用.请选择另一个."
+	},
+	"fullName.hint": {
+		"message": "全名必须在6-50个字符之间."
+	},
+	"emailInput.hint": {
+		"message": "有效的电子邮件所需的激活帐户."
+	},
+	"emailInput.notValid": {
+		"message": "电子邮件可能已被使用或无效"
+	},
+	"passwordInput.hint": {
+		"message": "密码必须是 6-50 字符. 请确保关闭您大写锁定键, 因为它可能会导致您输入您的密码不正确."
+	},
+	"passwordInput.notMatch": {
+		"message": "密码和再次输入密码必须匹配,并且必须为 6-50 个字符"
+	},
+	"copyright": {
+		"message": "版权所有 &copy; %dates%"
+	},
+	"oem.login.optimizedFor": {
+		"message": "为优化"
+	},
+	"oem.login.bannerMessage": {
+		"message": "免费的 %license% XSplit 超值证书! 由 %oem% 提供注册或登录以获得证书."
+	},
+	"oem.redeemed.message": {
+		"message": "恭喜! 你 **%oem% 笔记本** 连带获得 **%oemfreelicense% 超值证书** 来使用完整的 XSplit Broadcaster功能. 证书已经添加到您的账户 **(%email%)**."
+	},
+	"oem.redeemed.messageNewAccount": {
+		"message": "恭喜! 你 **%oem% 笔记本** 连带获得 **%oemfreelicense% 超值证书** 来使用完整的 XSplit Broadcaster功能. 证书已经添加到您的账户 **(%email%)**."
+	},
+	"oem.redeemed.letsGetStarted": {
+		"message": "好吧, 让我们开始吧"
+	},
+	"oem.redeem.emailSentMessage": {
+		"message": "有关如何激活您的帐户的说明连同给你一封电子邮件."
+	},
+	"oem.redeemed.newFail": {
+		"message": "祝贺你! 已成功注册. 一封电子邮件关于如何激活您的帐户的指示将给你发送. 请务必在 24 小时内激活."
+	},
+	"oem.redeemed.redeemError": {
+		"message": "获取证书时出错. 试着再获取许可证可通过重新启动 XSplit Broadcaster 或联系**license@xsplit.com** 如果此错误仍然存在."
+	},
+	"REFURBISHED_REDEMPTION_NOT_ALLOWED_FOR_SAME_XSPLIT_ACCOUNT": {
+		"message": "赎回证书时出错. 试着再赎回证书. 通过重新启动 XSplit Broadcaster 并使用另一个 XSplit 帐户. 如果错误仍然存在, 请联系**license@xsplit.com**."
+	},
+	"cannot_apply_with_recurring": {
+		"message": "错误: 当当前证书处于激活状态时不能应用礼品证书."
+	},
+	"oem.login.letsGetStarted": {
+		"message": "好吧, 让我们开始吧"
+	},
+	"oem.login.continueToXBC": {
+		"message": "继续 XSplit Broadcaster"
+	},
+	"carousel.slide1.header": {
+		"message": "简单但功能强大直播和记录软件"
+	},
+	"carousel.slide1.content": {
+		"message": "XSplit Broadcaster是革命性的音频/视频混合应用程序, 它允许任何人创建专业品质的直播和录像, 制作使用简单和直观的界面, 任何人都可以掌握."
+	},
+	"carousel.slide2.header": {
+		"message": "自定义插件和集成"
+	},
+	"carousel.slide2.content": {
+		"message": "XSplit Broadcaster 的丰富功能有源于插件商店, 让你进一步的自定义个性化与捐赠报音广播音乐和更多. 你甚至可以开发你自己喜欢的! 无止境的可能性."
+	},
+	"carousel.slide3.header": {
+		"message": "编辑和上传录像"
+	},
+	"carousel.slide3.content": {
+		"message": "XSplit Broadcaster 让您简单的排序和管理您记录的游戏素材. 让你可以在内置编辑器上一起组合和编辑. 一旦完成后直接向 YouTube 上传你的视频, 分享到在你最喜欢的社交网络上. 并且不需要退出软件."
+	},
+	"carousel.slide4.header": {
+		"message": "本机支持所有流行的捕获卡"
+	},
+	"carousel.slide4.content": {
+		"message": "XSplit Broadcaster, 以今天支持范围最广的捕获卡品牌可用. -[支持的捕获卡列表中产品页面](https://xspl.it/bc/capture_card_list)"
+	},
+	"carousel.freeLicenseText": {
+		"message": "_**FREE**XSplit 证书_"
+	},
+	"carousel.sponsor": {
+		"message": "由 %oem% 赞助"
+	},
+	"carousel.lucky": {
+		"message": "恭喜, 这台 %oem% 机获赠与**%duration% XSplit 证书!**"
+	},
+	"carousel.continue": {
+		"message": "继续"
+	},
+	"carousel.title": {
+		"message": "XSplit Broadcaster"
+	},
+	"label.default": {
+		"message": "使用 %connect% 登录"
+	},
+	"label.connect": {
+		"message": "或使用登录"
+	},
+	"label.authorized": {
+		"message": "授权为"
+	},
+	"label.changeaccount": {
+		"message": "[使用不同的帐户](更改账户)"
+	},
+	"label.learnMore": {
+		"message": "刚接触直播? [Learn more here!](https://xspl.it/bc/tutorials)"
+	},
+	"label.otherOptions": {
+		"message": "[更多登录选项](otherOptions)"
+	},
+	"label.welcome": {
+		"message": "欢迎来到 XSplit!"
+	},
+	"label.loggingInTo": {
+		"message": "登录到 %service%..."
+	},
+	"label.pleaseComplete": {
+		"message": "请在浏览器中完成登录过程 [br][br][br][Cancel](cancelLogin)[br][br][br][Having issues? Try in-app login instead](externalLogin)"
+	},
+	"label.somethingWrong": {
+		"message": "出了点问题."
+	},
+	"label.retryAuth": {
+		"message": "请重试授权或选择其他[br]服务登录。"
+	},
+	"button.back": {
+		"message": "返回"
+	},
+	"button.retry": {
+		"message": "重试"
+	}
+}

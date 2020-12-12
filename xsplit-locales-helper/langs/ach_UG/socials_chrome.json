@@ -1,0 +1,287 @@
+{
+	"socials.stream.label": {
+		"message": "crwdns4681:0crwdne4681:0"
+	},
+	"socials.facebook.tab": {
+		"message": "crwdns4682:0crwdne4682:0"
+	},
+	"socials.facebook.logged": {
+		"message": "crwdns4683:0%username%crwdne4683:0"
+	},
+	"socials.facebook.title": {
+		"message": "crwdns4684:0crwdne4684:0"
+	},
+	"socials.facebook.messagePlaceholder": {
+		"message": "crwdns4685:0crwdne4685:0"
+	},
+	"socials.facebook.privacy.label": {
+		"message": "crwdns4686:0crwdne4686:0"
+	},
+	"socials.facebook.privacy.values.EVERYONE": {
+		"message": "crwdns4687:0crwdne4687:0"
+	},
+	"socials.facebook.privacy.values.ALL_FRIENDS": {
+		"message": "crwdns4688:0crwdne4688:0"
+	},
+	"socials.facebook.privacy.values.FRIENDS_OF_FRIENDS": {
+		"message": "crwdns4689:0crwdne4689:0"
+	},
+	"socials.facebook.privacy.values.SELF": {
+		"message": "crwdns4690:0crwdne4690:0"
+	},
+	"socials.facebook.share": {
+		"message": "crwdns4691:0crwdne4691:0"
+	},
+	"socials.facebook.cancel": {
+		"message": "crwdns4692:0crwdne4692:0"
+	},
+	"socials.facebook.authenticate": {
+		"message": "crwdns4693:0crwdne4693:0"
+	},
+	"socials.facebook.unauthenticated": {
+		"message": "crwdns80934:0crwdne80934:0"
+	},
+	"socials.twitter.tab": {
+		"message": "crwdns4694:0crwdne4694:0"
+	},
+	"socials.twitter.logged": {
+		"message": "crwdns4695:0%username%crwdne4695:0"
+	},
+	"socials.twitter.title": {
+		"message": "crwdns4696:0crwdne4696:0"
+	},
+	"socials.twitter.messagePlaceholder": {
+		"message": "crwdns4697:0crwdne4697:0"
+	},
+	"socials.twitter.tweet": {
+		"message": "crwdns4698:0crwdne4698:0"
+	},
+	"socials.twitter.cancel": {
+		"message": "crwdns4699:0crwdne4699:0"
+	},
+	"socials.twitter.authenticate": {
+		"message": "crwdns4700:0crwdne4700:0"
+	},
+	"socials.twitter.unauthenticated": {
+		"message": "crwdns80936:0crwdne80936:0"
+	},
+	"socials.google.tab": {
+		"message": "crwdns5704:0crwdne5704:0"
+	},
+	"socials.google.logged": {
+		"message": "crwdns4702:0%username%crwdne4702:0"
+	},
+	"socials.google.title": {
+		"message": "crwdns5705:0crwdne5705:0"
+	},
+	"socials.google.share": {
+		"message": "crwdns4704:0crwdne4704:0"
+	},
+	"socials.google.cancel": {
+		"message": "crwdns4705:0crwdne4705:0"
+	},
+	"socials.google.authenticate": {
+		"message": "crwdns5706:0crwdne5706:0"
+	},
+	"socials.google.unauthenticated": {
+		"message": "crwdns80938:0crwdne80938:0"
+	},
+	"socials.processing": {
+		"message": "crwdns4707:0crwdne4707:0"
+	},
+	"facebookShare.addMessage": {
+		"message": "crwdns7403:0crwdne7403:0"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "crwdns7404:0crwdne7404:0"
+	},
+	"facebookShare.via": {
+		"message": "crwdns7405:0crwdne7405:0"
+	},
+	"facebookShare.privacy": {
+		"message": "crwdns7406:0crwdne7406:0"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "crwdns7407:0crwdne7407:0"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "crwdns7408:0crwdne7408:0"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "crwdns7409:0crwdne7409:0"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "crwdns7410:0crwdne7410:0"
+	},
+	"facebookShare.shareVideo": {
+		"message": "crwdns7411:0crwdne7411:0"
+	},
+	"facebookShare.cancel": {
+		"message": "crwdns7412:0crwdne7412:0"
+	},
+	"facebookShare.processing": {
+		"message": "crwdns7413:0crwdne7413:0"
+	},
+	"facebookShare.postAs": {
+		"message": "crwdns14655:0crwdne14655:0"
+	},
+	"facebookShare.timeline": {
+		"message": "crwdns14218:0crwdne14218:0"
+	},
+	"facebookShare.managePage": {
+		"message": "crwdns14219:0crwdne14219:0"
+	},
+	"twitterShare.addMessage": {
+		"message": "crwdns7414:0crwdne7414:0"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "crwdns7415:0crwdne7415:0"
+	},
+	"twitterShare.privacy": {
+		"message": "crwdns7416:0crwdne7416:0"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "crwdns7417:0crwdne7417:0"
+	},
+	"twitterShare.cancel": {
+		"message": "crwdns7418:0crwdne7418:0"
+	},
+	"twitterShare.processing": {
+		"message": "crwdns7419:0crwdne7419:0"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "crwdns7420:0crwdne7420:0"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "crwdns7421:0crwdne7421:0"
+	},
+	"googlePlusShare.via": {
+		"message": "crwdns9809:0crwdne9809:0"
+	},
+	"googlePlusShare.privacy": {
+		"message": "crwdns7423:0crwdne7423:0"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "crwdns7424:0crwdne7424:0"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "crwdns7425:0crwdne7425:0"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "crwdns7426:0crwdne7426:0"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "crwdns7427:0crwdne7427:0"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "crwdns7428:0crwdne7428:0"
+	},
+	"googlePlusShare.cancel": {
+		"message": "crwdns7429:0crwdne7429:0"
+	},
+	"googlePlusShare.processing": {
+		"message": "crwdns7430:0crwdne7430:0"
+	},
+	"vodShare.unauthorized": {
+		"message": "crwdns7464:0crwdne7464:0"
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "crwdns54135:0crwdne54135:0"
+	},
+	"vodShare.processing": {
+		"message": "crwdns7432:0crwdne7432:0"
+	},
+	"vodShare.addLink": {
+		"message": "crwdns7636:0crwdne7636:0"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "crwdns54136:0crwdne54136:0"
+	},
+	"vodShare.gameCheckin": {
+		"message": "crwdns12554:0crwdne12554:0"
+	},
+	"vodShare.shareVideo": {
+		"message": "crwdns7435:0crwdne7435:0"
+	},
+	"vodShare.cancel": {
+		"message": "crwdns7436:0crwdne7436:0"
+	},
+	"vodShare.shareTo.1": {
+		"message": "crwdns14772:0%service1%crwdne14772:0"
+	},
+	"vodShare.shareTo.2": {
+		"message": "crwdns14773:0%service1%crwdnd14773:0%service2%crwdne14773:0"
+	},
+	"vodShare.shareTo.3": {
+		"message": "crwdns14774:0%service1%crwdnd14774:0%service2%crwdnd14774:0%service3%crwdne14774:0"
+	},
+	"vodShare.shareTo.4": {
+		"message": "crwdns14775:0%service1%crwdnd14775:0%service2%crwdnd14775:0%service3%crwdnd14775:0%service4%crwdne14775:0"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "crwdns7444:0crwdne7444:0"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "crwdns7445:0crwdne7445:0"
+	},
+	"vodShare.gameNameWarning": {
+		"message": "crwdns12726:0crwdne12726:0"
+	},
+	"vodShare.loadMore": {
+		"message": "crwdns14685:0crwdne14685:0"
+	},
+	"vodStatus.title": {
+		"message": "crwdns54159:0crwdne54159:0"
+	},
+	"vodStatus.facebook": {
+		"message": "crwdns54164:0crwdne54164:0"
+	},
+	"vodStatus.twitter": {
+		"message": "crwdns54165:0crwdne54165:0"
+	},
+	"vodStatus.playerme": {
+		"message": "crwdns54166:0crwdne54166:0"
+	},
+	"vodStatus.gplus": {
+		"message": "crwdns54167:0crwdne54167:0"
+	},
+	"vodStatus.posting": {
+		"message": "crwdns54168:0%social%crwdne54168:0"
+	},
+	"vodStatus.success": {
+		"message": "crwdns54169:0%social%crwdnd54169:0[br]crwdnd54169:0[%message%]crwdnd54169:0%url%crwdne54169:0"
+	},
+	"vodStatus.message.facebook": {
+		"message": "crwdns54170:0crwdne54170:0"
+	},
+	"vodStatus.message.twitter": {
+		"message": "crwdns54171:0crwdne54171:0"
+	},
+	"vodStatus.message.playerme": {
+		"message": "crwdns54172:0crwdne54172:0"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "crwdns54173:0crwdne54173:0"
+	},
+	"vodStatus.error": {
+		"message": "crwdns54174:0%social%crwdne54174:0"
+	},
+	"vodStatus.failed": {
+		"message": "crwdns54175:0%social%crwdnd54175:0[br]crwdnd54175:0[%message%]crwdnd54175:0%url%crwdne54175:0"
+	},
+	"vodStatus.invalid": {
+		"message": "crwdns54176:0%social%crwdne54176:0"
+	},
+	"vodStatus.edit": {
+		"message": "crwdns54177:0crwdne54177:0"
+	},
+	"vodStatus.retry": {
+		"message": "crwdns54178:0crwdne54178:0"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "crwdns54137:0crwdne54137:0"
+	},
+	"dialog.ok": {
+		"message": "crwdns54160:0crwdne54160:0"
+	}
+}

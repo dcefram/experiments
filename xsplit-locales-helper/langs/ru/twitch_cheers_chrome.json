@@ -1,0 +1,77 @@
+{
+	"twitch.cheers.tabheader": {
+		"message": "Оповещение"
+	},
+	"twitch.cheers.source": {
+		"message": "Источник"
+	},
+	"twitch.cheers.account": {
+		"message": "Учетная запись"
+	},
+	"twitch.cheers.authorize": {
+		"message": "Разрешить XSplit использовать Twitch"
+	},
+	"twitch.cheers.remove_authorization": {
+		"message": "**%api%** Отозвать авторизацию"
+	},
+	"twitch.cheers.switch_account": {
+		"message": "**%api%** Сменить учетную запись"
+	},
+	"twitch.cheers.not_connected": {
+		"message": "Не подключен"
+	},
+	"twitch.cheers.connected": {
+		"message": "Подключен"
+	},
+	"twitch.cheers.error_channel_not_found": {
+		"message": "Пожалуйста, укажите существующий канал."
+	},
+	"twitch.cheers.notification": {
+		"message": "Уведомление"
+	},
+	"twitch.cheers.lock_components": {
+		"message": "Заблокированные компоненты"
+	},
+	"twitch.cheers.lock_components_help": {
+		"message": "Активация этого параметра отключит реакцию на наведение указателя мыши, перемещение и изменение размеров компонентов.[br]Активируйте параметр если вы не хотите отображать эффекты при наведении на компоненты, особенно во время трансляции или записи."
+	},
+	"twitch.cheers.show_stats": {
+		"message": "Показать статистику"
+	},
+	"twitch.cheers.show_stats_help": {
+		"message": "Это приведёт к отображению последних и недавних благодарностей (cheer) в адрес вашего канала Twitch. Чтобы очистить данные статистики, отключитесь от канала и снова подключитесь к нему. Чтобы предотвратить очистку данных при переключении сцен, убедитесь, что у вас в настройках отмечен флажок \"Хранить источник в памяти\"."
+	},
+	"twitch.cheers.opacity": {
+		"message": "Прозрачность"
+	},
+	"twitch.cheers.user_name": {
+		"message": "Имя пользователя"
+	},
+	"twitch.cheers.labels": {
+		"message": "Метки"
+	},
+	"twitch.cheers.show_alert": {
+		"message": "Показать оповещение"
+	},
+	"twitch.cheers.message": {
+		"message": "Сообщение"
+	},
+	"twitch.cheers.show_message": {
+		"message": "Показать сообщение"
+	},
+	"twitch.cheers.duration": {
+		"message": "Длительность"
+	},
+	"twitch.cheers.millisecond_unit": {
+		"message": "MS"
+	},
+	"twitch.cheers.sound": {
+		"message": "Звук"
+	},
+	"twitch.cheers.preview": {
+		"message": "Предварительный просмотр"
+	},
+	"twitch.cheers.test_alert": {
+		"message": "Тестовое оповещение"
+	}
+}

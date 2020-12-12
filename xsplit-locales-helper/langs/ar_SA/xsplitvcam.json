@@ -1,0 +1,146 @@
+{
+  "menu.language": {
+    "message": "تغير اللغة"
+  },
+  "menu.calibrate": {
+    "message": "معايرة"
+  },
+  "menu.account": {
+    "message": "حسابي"
+  },
+  "menu.help": {
+    "message": "مساعدة"
+  },
+  "menu.signin": {
+    "message": "سجل دخولك بواسطة"
+  },
+  "menu.logout": {
+    "message": "تسجيل الخروج"
+  },
+  "menu.about": {
+    "message": "حول"
+  },
+  "menu.source": {
+    "message": "مصدر"
+  },
+  "menu.filter": {
+    "message": "فلتر"
+  },
+  "menu.bgFilter.og": {
+    "message": "الخلفية الأصلية"
+  },
+  "menu.bgFilter.replace": {
+    "message": "استبدال الخلفية"
+  },
+  "menu.bgFilter.remove": {
+    "message": "إزالة الخلفية"
+  },
+  "menu.bgImage": {
+    "message": "الصورة الخلفية"
+  },
+  "menu.bgBlur": {
+    "message": "طمس الخلفية"
+  },
+  "menu.filterMenu.automatic": {
+    "message": "تلقائي"
+  },
+  "menu.filterMenu.accel": {
+    "message": "تسريع الأجهزة"
+  },
+  "menu.filterMenu.quality": {
+    "message": "ضوابط الجودة"
+  },
+  "menu.filterMenu.quality.low": {
+    "message": "Low"
+  },
+  "menu.filterMenu.quality.med": {
+    "message": "Standard"
+  },
+  "menu.filterMenu.quality.high": {
+    "message": "High"
+  },
+  "menu.filterMenu.addtl": {
+    "message": "خيارات اضافية"
+  },
+  "menu.filterMenu.addtl.chair": {
+    "message": "إزالة كرسي"
+  },
+  "menu.browse.local": {
+    "message": "تصفح الملفات المحلية"
+  },
+  "menu.browse.online": {
+    "message": "صفحة الويب على الإنترنت"
+  },
+  "calibrate.title": {
+    "message": "معايرة XSplit VCam"
+  },
+  "calibrate.subtitle": {
+    "message": "تتيح لك معايرة XSplit VCam تحسين أداء البيئة والكاميرا لك."
+  },
+  "calibrate.source": {
+    "message": "حدد مصدر الكاميرا:"
+  },
+  "calibrate.vidConsent": {
+    "message": "قم بتحميل فيديو ومعايرة لمدة 15 ثانية لتحسين الأداء"
+  },
+  "calibrate.title2": {
+    "message": "معايرة ..."
+  },
+  "calibrate.subtitle2": {
+    "message": "ابق أمام الكاميرا لمدة 15 ثانية ، وانظر إلى الجوانب ، ارفع ذراعيك ، أو افعل ما تفعله عادة في الكاميرا."
+  },
+  "calibrate.title3": {
+    "message": "تم!"
+  },
+  "calibrate.subtitle3": {
+    "message": "XSplit VCam جاهز الآن. ما عليك سوى اختيار \"XSplit VCam\" ككاميرا في Skype أو OBS أو XSplit Broadcaster أو أي تطبيق آخر يستخدم الكاميرا."
+  },
+  "calibrate.denyConsent": {
+    "message": "هل أنت متأكد من أنك لا تريد تحميل بيانات المعايرة الخاصة بك؟ سنستخدم فقط بياناتك لتحسين إزالة الخلفية AI ، وبدونها لن نستطيع تحسين تجربتك."
+  },
+  "feedback.ask": {
+    "message": "كيف تحب التطبيق لدينا؟"
+  },
+  "feedback.rating.low": {
+    "message": "نأسف لأنك تمر بوقت سيء."
+  },
+  "feedback.rating.med": {
+    "message": "كيف يمكننا أن نفعل أفضل"
+  },
+  "feedback.rating.high": {
+    "message": "شكرا للنجوم الخمسة!"
+  },
+  "feedback.vidConsent": {
+    "message": "اريد تسجيل فيديو عينة"
+  },
+  "feedback.question": {
+    "message": "هل هناك أي شيء آخر يمكننا تحسينه؟ طلبات مخصصة؟"
+  },
+  "feedback.comments": {
+    "message": "التعليق (اختياري)"
+  },
+  "feedback.thanks": {
+    "message": "شكرا لك على ملاحظاتك!"
+  },
+  "feedback.assurance": {
+    "message": "سنعمل على تحسين تجربتك."
+  },
+  "purchase.buy": {
+    "message": "اشتري الآن!"
+  },
+  "window.continue": {
+    "message": "استمرار"
+  },
+  "window.close": {
+    "message": "Close"
+  },
+  "window.cancel": {
+    "message": "Cancel"
+  },
+  "window.redo": {
+    "message": "الإعادة"
+  },
+  "window.submit": {
+    "message": "اقترح"
+  }
+}

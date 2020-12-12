@@ -1,0 +1,98 @@
+{
+  "title.source": {
+    "message": "crwdns14691:0crwdne14691:0"
+  },
+  "subtitle.account": {
+    "message": "crwdns14692:0crwdne14692:0"
+  },
+  "link.authorize": {
+    "message": "crwdns14693:0crwdne14693:0"
+  },
+  "subtitle2.authorize.error": {
+    "message": "crwdns14694:0crwdne14694:0"
+  },
+  "subtitle.connect": {
+    "message": "crwdns14695:0crwdne14695:0"
+  },
+  "chat.disconnected": {
+    "message": "crwdns14696:0crwdne14696:0"
+  },
+  "chat.connected": {
+    "message": "crwdns14697:0crwdne14697:0"
+  },
+  "help.post.title": {
+    "message": "crwdns14698:0crwdne14698:0"
+  },
+  "help.post.text": {
+    "message": "crwdns14699:0crwdne14699:0"
+  },
+  "chat.connect": {
+    "message": "crwdns14700:0crwdne14700:0"
+  },
+  "chat.disconnect": {
+    "message": "crwdns14701:0crwdne14701:0"
+  },
+  "subtitle2.connect.error": {
+    "message": "crwdns14702:0crwdne14702:0"
+  },
+  "title.display": {
+    "message": "crwdns14703:0crwdne14703:0"
+  },
+  "label.lock": {
+    "message": "crwdns14704:0crwdne14704:0"
+  },
+  "help.lock.title": {
+    "message": "crwdns14705:0crwdne14705:0"
+  },
+  "help.lock.text": {
+    "message": "crwdns14706:0[br]crwdne14706:0"
+  },
+  "label.reactions": {
+    "message": "crwdns14707:0crwdne14707:0"
+  },
+  "button.reset": {
+    "message": "crwdns14708:0crwdne14708:0"
+  },
+  "label.bg": {
+    "message": "crwdns14709:0crwdne14709:0"
+  },
+  "label.counter": {
+    "message": "crwdns14710:0crwdne14710:0"
+  },
+  "label.label": {
+    "message": "crwdns14711:0crwdne14711:0"
+  },
+  "label.opacity": {
+    "message": "crwdns14712:0crwdne14712:0"
+  },
+  "label.hide_connection_message": {
+    "message": "crwdns70654:0crwdne70654:0"
+  },
+  "authenticate.switch": {
+    "message": "crwdns14844:0%user%crwdne14844:0"
+  },
+  "authenticate.remove": {
+    "message": "crwdns14845:0%user%crwdne14845:0"
+  },
+  "input.like": {
+    "message": "crwdns14715:0crwdne14715:0"
+  },
+  "input.love": {
+    "message": "crwdns14716:0crwdne14716:0"
+  },
+  "input.haha": {
+    "message": "crwdns14717:0crwdne14717:0"
+  },
+  "input.sad": {
+    "message": "crwdns14718:0crwdne14718:0"
+  },
+  "input.wow": {
+    "message": "crwdns14719:0crwdne14719:0"
+  },
+  "input.angry": {
+    "message": "crwdns14720:0crwdne14720:0"
+  },
+  "tabheader.title": {
+    "message": "crwdns70656:0crwdne70656:0"
+  }
+}

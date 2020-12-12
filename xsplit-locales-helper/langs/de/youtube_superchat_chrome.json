@@ -1,0 +1,77 @@
+{
+	"youtube.superchat.tabheader": {
+		"message": "Warnung"
+	},
+	"youtube.superchat.source": {
+		"message": "Quelle"
+	},
+	"youtube.superchat.account": {
+		"message": "Konto"
+	},
+	"youtube.superchat.preview": {
+		"message": "Vorschau"
+	},
+	"youtube.superchat.account_automatic": {
+		"message": "Automatisch"
+	},
+	"youtube.superchat.authorize": {
+		"message": "XSplit autorisieren, YouTube Live zu verwenden"
+	},
+	"youtube.superchat.remove_authorization": {
+		"message": "**%api%** Autorisierung entfernen"
+	},
+	"youtube.superchat.switch_account": {
+		"message": "**%api%** Konto wechseln"
+	},
+	"youtube.superchat.not_connected": {
+		"message": "Widget wird automatisch verbunden, sobald Stream live ist"
+	},
+	"youtube.superchat.connected": {
+		"message": "Verbunden"
+	},
+	"youtube.superchat.error_channel_not_found": {
+		"message": "Bitte geben Sie einen gültigen Kanal an."
+	},
+	"youtube.superchat.notification": {
+		"message": "Benachrichtigung"
+	},
+	"youtube.superchat.lock_components": {
+		"message": "Komponenten fixieren"
+	},
+	"youtube.superchat.lock_components_help": {
+		"message": "Aktivieren dieser Option wird das Bewegen der Maus über Komponenten, deren Repositionierung und Größenänderung deaktivieren.[br]Vergewissern Sie sich, ob Sie wirklich kein Bewegen der Maus auf den Komponenten anzeigen möchten, insbesondere beim Streamen oder Aufzeichnen."
+	},
+	"youtube.superchat.show_ticker": {
+		"message": "Ticker anzeigen"
+	},
+	"youtube.superchat.show_alert": {
+		"message": "Warnung anzeigen"
+	},
+	"youtube.superchat.opacity": {
+		"message": "Deckkraft"
+	},
+	"youtube.superchat.font": {
+		"message": "Schriftart"
+	},
+	"youtube.superchat.text_size": {
+		"message": "Textgröße"
+	},
+	"youtube.superchat.hide_message": {
+		"message": "Super Chat-Meldung ausblenden"
+	},
+	"youtube.superchat.duration": {
+		"message": "Dauer"
+	},
+	"youtube.superchat.sound": {
+		"message": "Ton"
+	},
+	"youtube.superchat.test_alert": {
+		"message": "Testwarnung"
+	},
+	"youtube.superchat.loggingInTo": {
+		"message": "Anmeldung bei YouTube..."
+	},
+	"youtube.superchat.pleaseComplete": {
+		"message": "Bitte schliesse den Anmeldevorgang in Deinem Browser ab."
+	}
+}

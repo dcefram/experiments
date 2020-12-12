@@ -1,0 +1,65 @@
+{
+  "streamChat.tabheader": {
+    "message": "crwdns162142:0crwdne162142:0"
+  },
+  "streamChat.chat_sources": {
+    "message": "crwdns162144:0crwdne162144:0"
+  },
+  "streamChat.linked": {
+    "message": "crwdns162146:0crwdne162146:0"
+  },
+  "streamChat.extra": {
+    "message": "crwdns162148:0crwdne162148:0"
+  },
+  "streamChat.account": {
+    "message": "crwdns162150:0crwdne162150:0"
+  },
+  "streamChat.channel": {
+    "message": "crwdns162152:0crwdne162152:0"
+  },
+  "streamChat.listen": {
+    "message": "crwdns162154:0crwdne162154:0"
+  },
+  "streamChat.add_channels_here": {
+    "message": "crwdns162156:0crwdne162156:0"
+  },
+  "streamChat.already_added_error": {
+    "message": "crwdns162158:0crwdne162158:0"
+  },
+  "streamChat.appearance": {
+    "message": "crwdns162160:0crwdne162160:0"
+  },
+  "streamChat.chat_box": {
+    "message": "crwdns162162:0crwdne162162:0"
+  },
+  "streamChat.opacity": {
+    "message": "crwdns162164:0crwdne162164:0"
+  },
+  "streamChat.font": {
+    "message": "crwdns162166:0crwdne162166:0"
+  },
+  "streamChat.size": {
+    "message": "crwdns162168:0crwdne162168:0"
+  },
+  "streamChat.message_color": {
+    "message": "crwdns162170:0crwdne162170:0"
+  },
+  "streamChat.hide_icons": {
+    "message": "crwdns162172:0crwdne162172:0"
+  },
+  "streamChat.text_direction": {
+    "message": "crwdns162174:0crwdne162174:0"
+  },
+  "streamChat.text_direction_down": {
+    "message": "crwdns162176:0crwdne162176:0"
+  },
+  "streamChat.text_direction_up": {
+    "message": "crwdns162178:0crwdne162178:0"
+  },
+  "streamChat.hide_timestamps": {
+    "message": "crwdns162180:0crwdne162180:0"
+  },
+  "streamChat.hide_chat_when_idle": {
+    "message": "crwdns162182:0crwdne162182:0"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "image_slideshow.images": {
+    "message": "ภาพ"
+  },
+  "image_slideshow.add": {
+    "message": "เพิ่มเติม"
+  },
+  "image_slideshow.remove": {
+    "message": "เอาออก"
+  },
+  "image_slideshow.preview": {
+    "message": "ตัวอย่าง"
+  },
+  "image_slideshow.transition_preview": {
+    "message": "ตัวอย่างการเปลี่ยน"
+  },
+  "image_slideshow.browser_60_fps": {
+    "message": "เปิดการใช้งานจนถึง 60 FPS"
+  },
+  "image_slideshow.effects": {
+    "message": "การเปลี่ยน"
+  },
+  "image_slideshow.transition": {
+    "message": "การเปลี่ยน"
+  },
+  "image_slideshow.loop": {
+    "message": "วน"
+  },
+  "image_slideshow.interval": {
+    "message": "ระยะห่าง"
+  },
+  "image_slideshow.seconds": {
+    "message": "วินาที"
+  },
+  "image_slideshow.shuffle_images": {
+    "message": "สลับภาพ"
+  },
+  "image_slideshow.auto_refresh_images": {
+    "message": "รีเฟรชภาพอัตโนมัติ"
+  },
+  "image_slideshow.remember_playback_position": {
+    "message": "จำตำแหน่งการเล่น"
+  },
+  "image_slideshow.ok": {
+    "message": "โอเค"
+  },
+  "image_slideshow.cancel": {
+    "message": "ยกเลิก"
+  },
+  "image_slideshow.hint.images_section": {
+    "message": "เพิ่ม ลบ และเรียงลำดับรูปภาพ"
+  },
+  "image_slideshow.hint.effects_section": {
+    "message": "ใช้งานการเปลี่ยน เปิดใช้การวน และตั้งค่าระยะเวลาระยะห่าง"
+  },
+  "image_slideshow.hint.browser_60_fps_title": {
+    "message": "เปิดการใช้งานจนถึง 60 FPS"
+  },
+  "image_slideshow.hint.browser_60_fps_message": {
+    "message": "อาจจจะต้องการทรัพยากร GPU/CPU เพิ่มเติม โปรดทราบว่าการเปลี่ยนตัวเลือกนี้จะทำให้ซอสทำการรีเฟรช เพื่อประสิทธิภาพที่ดีที่สุดเปิดการใช้ซอสบราวเซอร์ปรับแต่งค่าแบบพิเศษภายใต้ เครื่องมือ -> การตั้งค่า -> ขึ้นสูง"
+  },
+  "image_slideshow.hint.auto_refresh_images_message": {
+    "message": "เปิดตัวเลือกนี้จะทำการรีเฟรชรูปภาพอัตโนมัติทุกครั้งหลังจากจบการวน อย่างไรก็ตาม การเลือกตัวเลือกนี้อาจจะทำให้ ซอสรูปภาพสไลด์โชว์ช้าลง"
+  },
+  "image_slideshow.hotkeys": {
+    "message": "คีย์ลัด"
+  },
+  "image_slideshow.hotkey_header": {
+    "message": "ใช้คีย์ลัดเหล่านี้เมื่อซอสถูกเลือก:"
+  },
+  "image_slideshow.hotkey_p": {
+    "message": "กด &quot;**P**&quot; เพื่อหยุดชั่วครู/ต่อ สไลด์โชว์ (โหมดสไลด์โชว์)"
+  },
+  "image_slideshow.hotkey_s": {
+    "message": "กด &quot;**S**&quot; เพื่อหยุดสไลด์โชว์ (โหมดสไลด์โชว์)"
+  },
+  "image_slideshow.hotkey_r": {
+    "message": "กด &quot;**R**&quot; เพื่อรีสตาร์ทสไลด์โชว์ (โหมดสไลด์โชว์)"
+  },
+  "image_slideshow.hotkey_n": {
+    "message": "กด &quot;**N**&quot; เพื่อไปยังสไลด์โชว์ถัดไป (โหมดสไลด์โชว์)"
+  },
+  "image_slideshow.hotkey_b": {
+    "message": "กด &quot;**B**&quot; เพื่อไปยังสไลด์โชว์ก่อนหน้า (โหมดสไลด์โชว์)"
+  },
+  "image_slideshow.double_click_main": {
+    "message": "ดับเบิ้ลคลิ๊กบนรูปหลักเพื่อที่จะแสดงรูปขนาดย่อ (โหมดสไลด์โชว์)"
+  },
+  "image_slideshow.double_click_thumbnail": {
+    "message": "ดับเบิ้ลคลิ๊กบนรูปขนาดย่อเพื่อที่จะแสดงรูปหลัก(โหมดสไลด์โชว์)"
+  },
+  "image_slideshow.browse": {
+    "message": "เรียกดูรูปที่โหลดขึ้นมาบนรูปย่อโดยลากขึ้นมาจากแถบรูปย่อ &quot;ล็อคตำแหน่ง&quot; คุณสมบัติของซอสต้องถูกตรวจสอบก่อน (ปุ่มเช็คบ็อกของการล็อคตำแหน่งอยู่ที่แถบ &quot;Layout&quot;)"
+  },
+  "image_slideshow.loop_select_options_hide": {
+    "message": "ซ่อนแล้วจากครั้งหนึ่ง"
+  },
+  "image_slideshow.loop_select_options_nothing": {
+    "message": "ครั้งหนึ่ง"
+  },
+  "image_slideshow.loop_select_options_loop": {
+    "message": "ตลอด"
+  }
+}

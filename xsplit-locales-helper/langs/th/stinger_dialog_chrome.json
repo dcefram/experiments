@@ -1,0 +1,17 @@
+{
+    "stinger.title": {
+        "message": "แก้ไขชื่อ stinger ของคุณ หรือจุดเปลี่ยน"
+    },
+    "stinger.name": {
+        "message": "ชื่อ stinger"
+    },
+    "stinger.transition": {
+        "message": "จุดเปลี่ยน (ms)"
+    },
+    "button.ok": {
+        "message": "ตกลง"
+    },
+    "button.cancel": {
+        "message": "ยกเลิก"
+    }
+}

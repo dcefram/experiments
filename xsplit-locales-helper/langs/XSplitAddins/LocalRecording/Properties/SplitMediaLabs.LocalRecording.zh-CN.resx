@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AvermediaHint" xml:space="preserve">
+    <value>AVerMedia H264 Encoder 通过捕捉卡来记录视频无播放点击.</value>
+  </data>
+  <data name="chkForceCfr" xml:space="preserve">
+    <value>固定帧速率</value>
+  </data>
+  <data name="chkOptimizeYT" xml:space="preserve">
+    <value>YouTube 优化</value>
+  </data>
+  <data name="CustomQualityHint" xml:space="preserve">
+    <value>[ ! ] 自定义质量配置仅适用于高级用户. 请使用您自担风险.</value>
+  </data>
+  <data name="lblCuePoints" xml:space="preserve">
+    <value>突出显示提示点的时刻</value>
+  </data>
+  <data name="lblMinutes" xml:space="preserve">
+    <value>分钟</value>
+  </data>
+  <data name="lblNever" xml:space="preserve">
+    <value>永不</value>
+  </data>
+  <data name="lnkOptimizeYT" xml:space="preserve">
+    <value>此选项优化编码器设置根据 YouTube 的&lt;a href="https://xspl.it/a0tpuy"&gt;建议&lt;/a&gt;.</value>
+  </data>
+  <data name="NVENCHint" xml:space="preserve">
+    <value>NVIDIA Encoder (NVENC) 与 GPU encoder记录视频带来虚拟无播放点击.</value>
+  </data>
+  <data name="pbCuePoints_Tooltip" xml:space="preserve">
+    <value>您可以在录制时插入提示点. 这些是用来帮助您识别关键时刻, 当编辑视频在快速视频编辑器可以找到的工具→快速编辑器. 添加提示点只是在设置中指定一个快捷键→快捷键选项卡. 插入提示点也适用于直播到输出的 "保存录制" 功能.</value>
+  </data>
+  <data name="QSHint" xml:space="preserve">
+    <value>Quick Sync 与 iGPU encoder记录视频带来虚拟无播放点击.</value>
+  </data>
+  <data name="QualityHint" xml:space="preserve">
+    <value>请注意高品质的录制使用了更多的磁盘空间.</value>
+  </data>
+  <data name="VCEHint" xml:space="preserve">
+    <value>视频编解码器引擎记录视频 (i) GPU 编码器为几乎没有性能损失.</value>
+  </data>
+  <data name="x264Hint" xml:space="preserve">
+    <value>{0} 记录视频与 CPU 可能造成性能损失在较高的质量.</value>
+  </data>
+  <data name="lblNFileType" xml:space="preserve">
+    <value>文件类型</value>
+  </data>
+  <data name="lblNSplitFilesAt" xml:space="preserve">
+    <value>拆分文件到</value>
+  </data>
+  <data name="lblOutput" xml:space="preserve">
+    <value>输出</value>
+  </data>
+  <data name="Props" xml:space="preserve">
+    <value>本地录制属性</value>
+  </data>
+  <data name="customQuality" xml:space="preserve">
+    <value>自定义</value>
+  </data>
+  <data name="highQuality" xml:space="preserve">
+    <value>高</value>
+  </data>
+  <data name="standardQuality" xml:space="preserve">
+    <value>标准</value>
+  </data>
+  <data name="ultraHighQuality" xml:space="preserve">
+    <value>极高</value>
+  </data>
+  <data name="veryHighQuality" xml:space="preserve">
+    <value>超高</value>
+  </data>
+  <data name="lblRecordTarget" xml:space="preserve">
+    <value>录制目标</value>
+  </data>
+</root>

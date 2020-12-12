@@ -1,0 +1,83 @@
+{
+  "facebook.alerts.tabheader": {
+    "message": "Alert"
+  },
+  "facebook.alerts.notification": {
+    "message": "Notification"
+  },
+  "facebook.alerts.status": {
+    "message": "Status"
+  },
+  "facebook.alerts.authorize": {
+    "message": "Authorize XSplit to use Facebook Live"
+  },
+  "facebook.alerts.remove_authorization": {
+    "message": "**%api%** Remove authorization"
+  },
+  "facebook.alerts.type.stars": {
+    "message": "Stars"
+  },
+  "facebook.alerts.type.share": {
+    "message": "Share"
+  },
+  "facebook.alerts.alert_type": {
+    "message": "Alert Type"
+  },
+  "facebook.alerts.minimum_stars": {
+    "message": "Minimum Stars"
+  },
+  "facebook.alerts.relogin": {
+    "message": "Relogin"
+  },
+  "facebook.alerts.style": {
+    "message": "Style"
+  },
+  "facebook.alerts.theme": {
+    "message": "Theme"
+  },
+  "facebook.alerts.layout": {
+    "message": "Layout"
+  },
+  "facebook.alerts.color": {
+    "message": "Color"
+  },
+  "facebook.alerts.sound": {
+    "message": "Alert Sound"
+  },
+  "facebook.alerts.test_alert": {
+    "message": "Test Alert"
+  },
+  "facebook.alerts.hide_connection_message": {
+    "message": "Hide connection messages"
+  },
+  "facebook.alerts.source": {
+    "message": "Source"
+  },
+  "facebook.alerts.account": {
+    "message": "Account"
+  },
+  "facebook.alerts.error_auth": {
+    "message": "Please try authorizing again and grant access to all permission required by XSplit for this functionality"
+  },
+  "facebook.alerts.not_connected": {
+    "message": "Alerts will automatically load once stream is live"
+  },
+  "facebook.alerts.settings": {
+    "message": "Settings"
+  },
+  "facebook.alerts.switch_account": {
+    "message": "**%api%** Switch account"
+  },
+  "facebook.alerts.connected": {
+    "message": "Connected"
+  },
+  "facebook.alerts.not_seeing_videos": {
+    "message": "Not seeing your live video?"
+  },
+  "facebook.alerts.not_seeing_videos_help": {
+    "message": "We might not have permission to some of your pages' live videos."
+  },
+  "facebook.alerts.not_seeing_videos_link": {
+    "message": "Click here to re-authorize"
+  }
+}

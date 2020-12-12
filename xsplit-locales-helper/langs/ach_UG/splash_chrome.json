@@ -1,0 +1,89 @@
+{
+    "loadingStatus.messages.splashScreenStatus_LoggingIn.message": {
+        "message": "crwdns6023:0crwdne6023:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingBroadcastPlugins.message": {
+        "message": "crwdns6024:0crwdne6024:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingBroadcastPluginsXbc5003.message": {
+        "message": "crwdns12388:0crwdne12388:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingBroadcastPlugins.message": {
+        "message": "crwdns6025:0crwdne6025:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingBroadcastPluginsXbc5003.message": {
+        "message": "crwdns12389:0crwdne12389:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingForUpdates.message": {
+        "message": "crwdns6026:0crwdne6026:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingSourcePlugins.message": {
+        "message": "crwdns6027:0crwdne6027:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingSourcePluginsXbc5003.message": {
+        "message": "crwdns12390:0crwdne12390:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_Initializing.message": {
+        "message": "crwdns6028:0crwdne6028:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_InstallingBroadcastPlugins.message": {
+        "message": "crwdns6029:0crwdne6029:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_InstallingBroadcastPluginsXbc5003.message": {
+        "message": "crwdns14234:0crwdne14234:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_LoadingMainWindow.message": {
+        "message": "crwdns6030:0crwdne6030:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingBroadcastPlugins.message": {
+        "message": "crwdns6031:0crwdne6031:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingBroadcastPluginsXbc5003.message": {
+        "message": "crwdns12392:0crwdne12392:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingSourcePlugins.message": {
+        "message": "crwdns6032:0crwdne6032:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingSourcePluginsXbc5003.message": {
+        "message": "crwdns12393:0crwdne12393:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_VerifyingGCComponent.message": {
+        "message": "crwdns6115:0crwdne6115:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_VerifyingGCComponentWithFilename.message": {
+        "message": "crwdns6116:0%filename%crwdne6116:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingAppConflict.message": {
+        "message": "crwdns6117:0crwdne6117:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_CleaningUp32.message": {
+        "message": "crwdns6118:0crwdne6118:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_CleaningUp64.message": {
+        "message": "crwdns6119:0crwdne6119:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingAppComponentLoaded.message": {
+        "message": "crwdns6120:0crwdne6120:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingGCComponent.message": {
+        "message": "crwdns6121:0%filename%crwdne6121:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_CheckingExtensions.message": {
+        "message": "crwdns12394:0crwdne12394:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_UpdatingExtensions.message": {
+        "message": "crwdns12395:0crwdne12395:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallSourcePluginsXbc5003.message": {
+        "message": "crwdns14232:0crwdne14232:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallExtensions.message": {
+        "message": "crwdns14233:0crwdne14233:0"
+    },
+    "loadingStatus.messages.splashScreenStatus_AutoInstallBroadcastPluginsXbc5003.message": {
+        "message": "crwdns14235:0crwdne14235:0"
+    },
+    "oem.optimizedFor": {
+        "message": "crwdns9771:0crwdne9771:0"
+    }
+}

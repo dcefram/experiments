@@ -1,0 +1,41 @@
+{
+	"streamSettings.freeUserLimitationStreamReso": {
+		"message": "XSplit Broadcaster kann zum Streamen mit hohen Auflösungen jenseits von %resolution% eingesetzt werden. Allerdings ist diese Funktion XSplit-Benutzern mit einer kostenpflichtigen Lizenz vorbehalten.[br][br]Bitte wählen Sie, wie Sie fortfahren möchten."
+	},
+	"streamSettings.freeUserLimitationRecordReso": {
+		"message": "XSplit Broadcaster kann zum Aufnehmen mit hohen Auflösungen jenseits von %resolution% eingesetzt werden. Allerdings ist diese Funktion XSplit-Benutzern mit einer kostenpflichtigen Lizenz vorbehalten.[br][br]Bitte wählen Sie, wie Sie fortfahren möchten."
+	},
+	"streamSettings.freeUserLimitationStreamFps": {
+		"message": "XSplit Broadcaster kann zum Streamen mit Frameraten über %fps% eingesetzt werden. Allerdings ist diese Funktion XSplit-Benutzern mit einer kostenpflichtigen Lizenz vorbehalten.[br][br]Bitte wählen Sie, wie Sie fortfahren möchten."
+	},
+	"streamSettings.freeUserLimitationRecordFps": {
+		"message": "XSplit Broadcaster kann zur Aufnahme mit Frameraten über %fps% eingesetzt werden. Allerdings ist diese Funktion XSplit-Benutzern mit einer kostenpflichtigen Lizenz vorbehalten.[br][br]Bitte wählen Sie, wie Sie fortfahren möchten."
+	},
+	"streamSettings.freeUserLimitationStreamResoFps": {
+		"message": "XSplit Broadcaster kann zum Streamen mit hohen Auflösungen jenseits von %resolution% und Frameraten über %fps% eingesetzt werden. Allerdings sind diese Funktionen XSplit-Benutzern mit einer kostenpflichtigen Lizenz vorbehalten.[br][br]Bitte wählen Sie, wie Sie fortfahren möchten."
+	},
+	"streamSettings.freeUserLimitationRecordResoFps": {
+		"message": "XSplit Broadcaster kann zur Aufnahme mit hohen Auflösungen jenseits von %resolution% und Frameraten über %fps% eingesetzt werden. Allerdings sind diese Funktionen XSplit-Benutzern mit einer kostenpflichtigen Lizenz vorbehalten.[br][br]Bitte wählen Sie, wie Sie fortfahren möchten."
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonReso": {
+		"message": "%type% in %resolution%[br]ohne[br]Wasserzeichen"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonFps": {
+		"message": "%type% in %fps%[br]ohne[br]Wasserzeichen"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonResoFps": {
+		"message": "%type% in %resolution%[br]@ %fps%[br]ohne[br]Wasserzeichen"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonReso": {
+		"message": "%type% in %resolution%[br]mit[br]Wasserzeichen"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonFps": {
+		"message": "%type% in %fps%[br]mit[br]Wasserzeichen"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonResoFps": {
+		"message": "%type% in %resolution%[br]@ %fps%[br]mit[br]Wasserzeichen"
+	},
+	"streamSettings.buyLicenseButton": {
+		"message": "Erwerben Sie eine Lizenz[br]um Wasserzeichen[br]zu entfernen"
+	}
+}

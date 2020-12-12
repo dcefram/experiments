@@ -1,0 +1,19 @@
+{
+  "name": "dns-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "domain-info": "^0.1.2",
+    "follow-redirects": "^1.13.0",
+    "node-dig-dns": "^0.2.12",
+    "node-fetch": "^2.6.1"
+  }
+}

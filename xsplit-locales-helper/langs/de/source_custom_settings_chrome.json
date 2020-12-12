@@ -1,0 +1,83 @@
+{
+	"button.ok": {
+		"message": "OK"
+	},
+	"button.cancel": {
+		"message": "Abbrechen"
+	},
+	"button.browse": {
+		"message": "Durchsuchen..."
+	},
+	"resolution.width": {
+		"message": "Breite"
+	},
+	"resolution.height": {
+		"message": "Höhe"
+	},
+	"resolution.desc": {
+		"message": "Beschreibung"
+	},
+	"framerate.fps": {
+		"message": "FPS"
+	},
+	"rtsp.webpage.header": {
+		"message": "Geben Sie die URL ein, oder klicken Sie auf Durchsuchen, um eine HTML-Datei auszuwählen."
+	},
+	"rtsp.url": {
+		"message": "URL"
+	},
+	"rtsp.protocol.label": {
+		"message": "Protokoll"
+	},
+	"rtsp.protocol2.label": {
+		"message": "PROTOKOLL"
+	},
+	"rtsp.protocol.tooltip": {
+		"message": "Stellt das Low-Level-RTSP-Transport-Protokoll ein.[br][br]Wenn Ihnen Flackern oder Desync auffällt, versuchen Sie das Protokoll von TCP auf UDP zu ändern. Wenn eine Firewall blockiert, versuchen Sie HTTP als Protokoll."
+	},
+	"rtsp.protocoldd.values.tcp": {
+		"message": "TCP"
+	},
+	"rtsp.protocoldd.values.udp": {
+		"message": "UDP"
+	},
+	"rtsp.protocoldd.values.http": {
+		"message": "HTTP"
+	},
+	"rtsp.protocoldd.values.custom": {
+		"message": "Benutzerdefiniert"
+	},
+	"rtmp.url": {
+		"message": "URL"
+	},
+	"rtmp.streamName": {
+		"message": "Streamname"
+	},
+	"rtmp.buffer": {
+		"message": "Puffer (Sek.)"
+	},
+	"script_plugin.header": {
+		"message": "Geben Sie die URL oder PLG-Datei ein, oder klicken Sie auf Durchsuchen, um eine HTML-Datei auszuwählen."
+	},
+	"locationCaption": {
+		"message": "Wählen Sie den Speicherort für das Extrahieren der **%location%** Dateien aus."
+	},
+	"locationLabel": {
+		"message": "Speicherort"
+	},
+	"easingLabel": {
+		"message": "Erleichtern"
+	},
+	"easing.none": {
+		"message": "Nichts"
+	},
+	"easing.in": {
+		"message": "In"
+	},
+	"easing.out": {
+		"message": "Out"
+	},
+	"easing.inout": {
+		"message": "In/Out"
+	}
+}

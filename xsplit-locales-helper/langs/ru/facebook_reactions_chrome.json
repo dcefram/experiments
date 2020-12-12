@@ -1,0 +1,98 @@
+{
+  "title.source": {
+    "message": "Источник"
+  },
+  "subtitle.account": {
+    "message": "Учетная запись"
+  },
+  "link.authorize": {
+    "message": "Разрешите XSplit использовать Facebook Live"
+  },
+  "subtitle2.authorize.error": {
+    "message": "Пожалуйста, попробуйте авторизоваться ещё раз и предоставить доступ для всех разрешений, необходимых для успешного функционирования XSplit"
+  },
+  "subtitle.connect": {
+    "message": "Опубликовать URL-адрес"
+  },
+  "chat.disconnected": {
+    "message": "Не подключен"
+  },
+  "chat.connected": {
+    "message": "Подключен"
+  },
+  "help.post.title": {
+    "message": "Опубликовать URL-адрес"
+  },
+  "help.post.text": {
+    "message": "Допустимыми URL-адресами являются адреса публичных записей, ваших собственных записей (видео, изображений и т.д.) в вашей ленте, либо записей, изображений и видео со страниц, которыми вы управляете."
+  },
+  "chat.connect": {
+    "message": "Подключение"
+  },
+  "chat.disconnect": {
+    "message": "Отсоединить"
+  },
+  "subtitle2.connect.error": {
+    "message": "Укажите корректный URL-адрес видео или записи."
+  },
+  "title.display": {
+    "message": "Дисплей"
+  },
+  "label.lock": {
+    "message": "Заблокированные компоненты"
+  },
+  "help.lock.title": {
+    "message": "Заблокированные компоненты"
+  },
+  "help.lock.text": {
+    "message": "Активация этого параметра отключит реакцию на наведение указателя мыши, перемещение и изменение размеров компонентов.[br]Активируйте параметр если вы не хотите отображать эффекты при наведении на компоненты, особенно во время трансляции или записи."
+  },
+  "label.reactions": {
+    "message": "Показывать отклики и метки"
+  },
+  "button.reset": {
+    "message": "Сбросить"
+  },
+  "label.bg": {
+    "message": "Фон счётчика эмодзи"
+  },
+  "label.counter": {
+    "message": "Счетчик"
+  },
+  "label.label": {
+    "message": "Метка"
+  },
+  "label.opacity": {
+    "message": "Прозрачность"
+  },
+  "label.hide_connection_message": {
+    "message": "Скрыть сообщения о процессе соединения"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** Сменить учетную запись"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** Удалить авторизацию"
+  },
+  "input.like": {
+    "message": "Лайк"
+  },
+  "input.love": {
+    "message": "Любовь"
+  },
+  "input.haha": {
+    "message": "Ха-ха"
+  },
+  "input.sad": {
+    "message": "Грустно"
+  },
+  "input.wow": {
+    "message": "Вау"
+  },
+  "input.angry": {
+    "message": "Злой"
+  },
+  "tabheader.title": {
+    "message": "Реакции на публикации"
+  }
+}

@@ -1,0 +1,95 @@
+{
+	"title": {
+		"message": "Facebookライブプロパティ"
+	},
+	"save_close": {
+		"message": "保存して閉じる"
+	},
+	"start_streaming": {
+		"message": "続行"
+	},
+	"logged_in_as": {
+		"message": "%fullname%でログインしています"
+	},
+	"switch_account": {
+		"message": "[アカウント変更](switchAccount)"
+	},
+	"remove_auth": {
+		"message": "[承認を除去](removeAuth)"
+	},
+	"stream_settings": {
+		"message": "配信設定"
+	},
+	"stream_to.label": {
+		"message": "配信先: "
+	},
+	"stream_to.values.timeline": {
+		"message": "タイムライン"
+	},
+	"stream_to.values.page": {
+		"message": "ページ"
+	},
+	"stream_to.values.group": {
+		"message": "グループ"
+	},
+	"stream_to.values.event": {
+		"message": "イベント"
+	},
+	"stream_to.pageauth": {
+		"message": "ページ - 許可が必要"
+	},
+	"stream_to.groupauth": {
+		"message": "グループ - 許可が必要"
+	},
+	"stream_to.eventauth": {
+		"message": "イベント - 許可が必要"
+	},
+	"page": {
+		"message": "ページ: "
+	},
+	"timeline": {
+		"message": "タイムライン: "
+	},
+	"group": {
+		"message": "グループ: "
+	},
+	"event": {
+		"message": "イベント: "
+	},
+	"format.label": {
+		"message": "フォーマット: "
+	},
+	"encoder.label": {
+		"message": "エンコーダー: "
+	},
+	"bitrate": {
+		"message": "ビットレート: "
+	},
+	"saveVideo": {
+		"message": "マイレコーディングに動画を保存する"
+	},
+	"resolutionWarning": {
+		"message": "あなたのハードウェアだとこの解像度では良いパフォーマンスを行う事が出来ないかもしれません。"
+	},
+	"bitrateWarning": {
+		"message": "あなたの帯域ではこのビットレートで配信するのは適切ではないかもしれません。"
+	},
+	"streamingWarning": {
+		"message": "配信/レコーディングを行っている為、帯域やハードウェアテストを行う事が出来ません。"
+	},
+	"checkAgain": {
+		"message": "[もう一度お試ししますか？](testAgain)"
+	},
+	"authorize": {
+		"message": "Facebookアカウントへ配信する為にこちらをクリックしアカウント承認を行ってください。"
+	},
+	"configuring": {
+		"message": "構成を設定中... "
+	},
+	"system_test": {
+		"message": "最近のシステムテスト: %timestamp% [もう一度お試ししますか？](testAgain)"
+	},
+	"advanced_settings": {
+		"message": "[詳細設定](advancedSettings)"
+	}
+}

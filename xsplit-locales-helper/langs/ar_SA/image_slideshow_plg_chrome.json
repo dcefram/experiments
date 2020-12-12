@@ -1,0 +1,104 @@
+{
+  "image_slideshow.images": {
+    "message": "Images"
+  },
+  "image_slideshow.add": {
+    "message": "إضافة"
+  },
+  "image_slideshow.remove": {
+    "message": "إزالة "
+  },
+  "image_slideshow.preview": {
+    "message": "Preview"
+  },
+  "image_slideshow.transition_preview": {
+    "message": "Transition Preview"
+  },
+  "image_slideshow.browser_60_fps": {
+    "message": "Enable up to 60 FPS"
+  },
+  "image_slideshow.effects": {
+    "message": "Transition"
+  },
+  "image_slideshow.transition": {
+    "message": "Transition"
+  },
+  "image_slideshow.loop": {
+    "message": "Loop"
+  },
+  "image_slideshow.interval": {
+    "message": "Interval"
+  },
+  "image_slideshow.seconds": {
+    "message": "seconds"
+  },
+  "image_slideshow.shuffle_images": {
+    "message": "Shuffle Images"
+  },
+  "image_slideshow.auto_refresh_images": {
+    "message": "Auto-refresh images"
+  },
+  "image_slideshow.remember_playback_position": {
+    "message": "تذكر موضع التشغيل"
+  },
+  "image_slideshow.ok": {
+    "message": "Ok"
+  },
+  "image_slideshow.cancel": {
+    "message": "Cancel"
+  },
+  "image_slideshow.hint.images_section": {
+    "message": "Add, remove and order images"
+  },
+  "image_slideshow.hint.effects_section": {
+    "message": "Apply transitions, enable looping, and set interval duration"
+  },
+  "image_slideshow.hint.browser_60_fps_title": {
+    "message": "Enable up to 60 FPS"
+  },
+  "image_slideshow.hint.browser_60_fps_message": {
+    "message": "May require additional GPU/CPU resources. Note that toggling this option will trigger source refresh. For best performance, enable Browser Source Special Optimization under Tools -> Settings -> Advanced."
+  },
+  "image_slideshow.hint.auto_refresh_images_message": {
+    "message": "Enabling this option will refresh the images automatically after every loop. However, checking this option may slow down your Image Slideshow source."
+  },
+  "image_slideshow.hotkeys": {
+    "message": "Hotkeys"
+  },
+  "image_slideshow.hotkey_header": {
+    "message": "Use these hotkeys when the source is selected:"
+  },
+  "image_slideshow.hotkey_p": {
+    "message": "Press &quot;**P**&quot; to pause/resume slideshow (Slideshow Mode)"
+  },
+  "image_slideshow.hotkey_s": {
+    "message": "Press &quot;**S**&quot; to stop slideshow (Slideshow Mode)"
+  },
+  "image_slideshow.hotkey_r": {
+    "message": "Press &quot;**R**&quot; to restart slideshow (Slideshow Mode)"
+  },
+  "image_slideshow.hotkey_n": {
+    "message": "Press &quot;**N**&quot; to go to next slideshow image (Slideshow Mode)"
+  },
+  "image_slideshow.hotkey_b": {
+    "message": "Press &quot;**B**&quot; to go to previous slideshow image (Slideshow Mode)"
+  },
+  "image_slideshow.double_click_main": {
+    "message": "Double click on the main image to show thumbnails (Slideshow Mode)"
+  },
+  "image_slideshow.double_click_thumbnail": {
+    "message": "Double click on the thumbnail to show main image (Slideshow Mode)"
+  },
+  "image_slideshow.browse": {
+    "message": "Browse loaded images on thumbnails by dragging the thumbnail strip. &quot;Lock Position&quot; source property must be checked. (Lock position checkbox is located at the &quot;Layout&quot; Tab)"
+  },
+  "image_slideshow.loop_select_options_hide": {
+    "message": "Once then hide"
+  },
+  "image_slideshow.loop_select_options_nothing": {
+    "message": "Once"
+  },
+  "image_slideshow.loop_select_options_loop": {
+    "message": "Forever"
+  }
+}

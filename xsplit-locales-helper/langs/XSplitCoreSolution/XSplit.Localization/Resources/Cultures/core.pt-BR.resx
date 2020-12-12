@@ -1,0 +1,3652 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutBroadcaster" xml:space="preserve">
+    <value>Sobre o Broadcaster</value>
+  </data>
+  <data name="AboutBroadcaster_Acknowledgements" xml:space="preserve">
+    <value>Agradecimentos:</value>
+  </data>
+  <data name="AboutBroadcaster_AcknowledgementsFullText" xml:space="preserve">
+    <value>Agradecimentos: XSplit BROADCASTER é baseado no código fonte original da Multicam Studio, um produto desenvolvido por Vladimir Hmelyoff e Egor Hmelyoff. Partes deste programa usam bibliotecas de código aberto, por favor consulte os termos de licença geral e detalhes aqui.</value>
+  </data>
+  <data name="AboutBroadcaster_LicenseLinkText" xml:space="preserve">
+    <value>termos de licenciamento geral e detalhes aqui</value>
+  </data>
+  <data name="aboutToolStripMenuItem" xml:space="preserve">
+    <value>Sobre(&amp;A)</value>
+  </data>
+  <data name="addCameraToolStripMenuItem" xml:space="preserve">
+    <value>Vídeo</value>
+  </data>
+  <data name="addCameraToolStripMenuItem2" xml:space="preserve">
+    <value>Vídeo</value>
+  </data>
+  <data name="addChannelsToolStripMenuItem" xml:space="preserve">
+    <value>Adicionar canal...</value>
+  </data>
+  <data name="addChannelsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>Configurar uma nova saída</value>
+  </data>
+  <data name="addGameTsmi2" xml:space="preserve">
+    <value>&amp;Game capture</value>
+  </data>
+  <data name="addMediaFileToolStripMenuItem2" xml:space="preserve">
+    <value>&amp;Arquivo de mídia (vídeos, imagens)...</value>
+  </data>
+  <data name="addMoreTsmi2" xml:space="preserve">
+    <value>Obter mais plugins na loja</value>
+  </data>
+  <data name="addMoreTsmi2Xbc5003" xml:space="preserve">
+    <value>Buscar mais fontes</value>
+  </data>
+  <data name="addRTSPSourceToolStripMenuItem" xml:space="preserve">
+    <value>Adicionar transmissão ao vi&amp;vo...</value>
+  </data>
+  <data name="addScreenRegionToolStripMenuItem2" xml:space="preserve">
+    <value>Captura de Te&amp;la...</value>
+  </data>
+  <data name="addSource" xml:space="preserve">
+    <value>Adicionar fonte</value>
+  </data>
+  <data name="addSource_Tooltip" xml:space="preserve">
+    <value>Adicionar fonte</value>
+  </data>
+  <data name="addSwfPluginToolStripMenuItem" xml:space="preserve">
+    <value>Adicionar plugin SWF...</value>
+  </data>
+  <data name="AddSwfRtmp" xml:space="preserve">
+    <value>Adicionar Câmera IP/Transmissão RTSP</value>
+  </data>
+  <data name="addTitleToolStripMenuItem" xml:space="preserve">
+    <value>Adicionar &amp;Título...</value>
+  </data>
+  <data name="addUrlTsmi" xml:space="preserve">
+    <value>Câmera IP (RTSP)...</value>
+  </data>
+  <data name="addUrlTsmi2" xml:space="preserve">
+    <value>Câmera IP (RTSP)...</value>
+  </data>
+  <data name="announceToolStripMenuItem" xml:space="preserve">
+    <value>C&amp;ompartilhar a sua transmissão...</value>
+  </data>
+  <data name="announceToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>Compartil&amp;har a sua transmissão...</value>
+  </data>
+  <data name="AskToRetrySync" xml:space="preserve">
+    <value> Não é possível sincronizar o seu perfil com o servidor.</value>
+  </data>
+  <data name="BandwidthTester" xml:space="preserve">
+    <value>Teste de largura de banda</value>
+  </data>
+  <data name="boostCaptureFramerateTsmi" xml:space="preserve">
+    <value>Aumentar velocidade de taxa de quadros</value>
+  </data>
+  <data name="BroadcasterSceneX_desc" xml:space="preserve">
+    <value>Mudar para [SceneX]</value>
+  </data>
+  <data name="BroadcasterScene1_desc" xml:space="preserve">
+    <value>Mudar para [Scene1]</value>
+  </data>
+  <data name="BroadcasterScene10_desc" xml:space="preserve">
+    <value>Mudar para [Scene10]</value>
+  </data>
+  <data name="BroadcasterScene11_desc" xml:space="preserve">
+    <value>Mudar para [Scene11]</value>
+  </data>
+  <data name="BroadcasterScene12_desc" xml:space="preserve">
+    <value>Mudar para [Scene12]</value>
+  </data>
+  <data name="BroadcasterScene2_desc" xml:space="preserve">
+    <value>Mudar para [Scene2]</value>
+  </data>
+  <data name="BroadcasterScene3_desc" xml:space="preserve">
+    <value>Mudar para [Scene3]</value>
+  </data>
+  <data name="BroadcasterScene4_desc" xml:space="preserve">
+    <value>Mudar para [Scene4]</value>
+  </data>
+  <data name="BroadcasterScene5_desc" xml:space="preserve">
+    <value>Mudar para [Scene5]</value>
+  </data>
+  <data name="BroadcasterScene6_desc" xml:space="preserve">
+    <value>Mudar para [Scene6]</value>
+  </data>
+  <data name="BroadcasterScene7_desc" xml:space="preserve">
+    <value>Mudar para [Scene7]</value>
+  </data>
+  <data name="BroadcasterScene8_desc" xml:space="preserve">
+    <value>Mudar para [Scene8]</value>
+  </data>
+  <data name="BroadcasterScene9_desc" xml:space="preserve">
+    <value>Mudar para [Scene9]</value>
+  </data>
+  <data name="BroadcasterSettings" xml:space="preserve">
+    <value>Configurações</value>
+  </data>
+  <data name="BroadcasterToggleBroadcast" xml:space="preserve">
+    <value>Iniciar/parar transmissão - {0}</value>
+  </data>
+  <data name="BroadcasterToggleBroadcastXbc5003" xml:space="preserve">
+    <value>Iniciar/parar transmissão - {0}</value>
+  </data>
+  <data name="BroadcasterToggleBroadcast1" xml:space="preserve">
+    <value>Iniciar/parar {0}</value>
+  </data>
+  <data name="BroadcasterToggleBroadcast2" xml:space="preserve">
+    <value>Start/stop recording {0}</value>
+  </data>
+  <data name="BroadcasterTogglePauseRecording" xml:space="preserve">
+    <value>Pause/resume recording {0}</value>
+  </data>
+  <data name="BroadcasterToggleMic_desc" xml:space="preserve">
+    <value>Ativar/desativar microfone</value>
+  </data>
+  <data name="BroadcasterToggleSpeaker_desc" xml:space="preserve">
+    <value>Ativar/desativar alto-falante</value>
+  </data>
+  <data name="PTT_desc" xml:space="preserve">
+    <value>Push to Talk</value>
+  </data>
+  <data name="BroadcasterTogglePauseRecording_desc" xml:space="preserve">
+    <value>Pause/resume recording</value>
+  </data>
+  <data name="BroadcasterToggleOverlay_desc" xml:space="preserve">
+    <value>Show/Hide Overlay</value>
+  </data>
+  <data name="BroadcasterToggleOverlay2_desc" xml:space="preserve">
+    <value>Show/Hide Overlay</value>
+  </data>
+  <data name="BroadcasterResizeSource1_desc" xml:space="preserve">
+    <value>Fit Source to Screen</value>
+  </data>
+  <data name="BroadcasterResizeSource2_desc" xml:space="preserve">
+    <value>Resize Source (1/4)</value>
+  </data>
+  <data name="BroadcasterResizeSource3_desc" xml:space="preserve">
+    <value>Resize Source (1/8)</value>
+  </data>
+  <data name="BroadcasterScnPreset1_desc" xml:space="preserve">
+    <value>Switch to Preset 1 (live scene)</value>
+  </data>
+  <data name="BroadcasterScnPreset2_desc" xml:space="preserve">
+    <value>Switch to Preset 2 (live scene)</value>
+  </data>
+  <data name="BroadcasterScnPreset3_desc" xml:space="preserve">
+    <value>Switch to Preset 3 (live scene)</value>
+  </data>
+  <data name="BroadcastStatus_AcquiringConfiguration" xml:space="preserve">
+    <value>Adquirir a configuração de transmissão{0}</value>
+  </data>
+  <data name="BroadcastStatus_AcquiringConfigurationLR" xml:space="preserve">
+    <value>Acquiring recording configuration</value>
+  </data>
+  <data name="BroadcastStatus_InitiatingStream" xml:space="preserve">
+    <value>Iniciar transmissão{0}</value>
+  </data>
+  <data name="BroadcastStatus_InitiatingStreamLR" xml:space="preserve">
+    <value>Initiating recording</value>
+  </data>
+  <data name="BroadcastStatus_Streaming" xml:space="preserve">
+    <value>{0}Em transmissão</value>
+  </data>
+  <data name="broadcastToolStripMenuItem" xml:space="preserve">
+    <value>&amp;Transmissão</value>
+  </data>
+  <data name="broadcastToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>Saídas (&amp;O)</value>
+  </data>
+  <data name="btnAddChannel" xml:space="preserve">
+    <value>Adicionar...</value>
+  </data>
+  <data name="btnAddRes" xml:space="preserve">
+    <value>Adicionar...</value>
+  </data>
+  <data name="btnAddService" xml:space="preserve">
+    <value>Adicionar Serviço</value>
+  </data>
+  <data name="btnApply" xml:space="preserve">
+    <value>Aplicar</value>
+  </data>
+  <data name="btnAuthorize" xml:space="preserve">
+    <value>Autorizar</value>
+  </data>
+  <data name="btnCamDS" xml:space="preserve">
+    <value>Configurar</value>
+  </data>
+  <data name="btnCancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="btnCheckAllRes" xml:space="preserve">
+    <value>Selecionar tudo</value>
+  </data>
+  <data name="btnClearAllRes" xml:space="preserve">
+    <value>Limpar tudo</value>
+  </data>
+  <data name="btnColorChromaEyedrop" xml:space="preserve">
+    <value>Ferramente Eyedrop</value>
+  </data>
+  <data name="btnColorPicReset" xml:space="preserve">
+    <value>Redefinir</value>
+  </data>
+  <data name="btnContinue" xml:space="preserve">
+    <value>Continuar</value>
+  </data>
+  <data name="btnEditChannel" xml:space="preserve">
+    <value>Editar...</value>
+  </data>
+  <data name="btnEditRes" xml:space="preserve">
+    <value>Editar...</value>
+  </data>
+  <data name="btnFinish" xml:space="preserve">
+    <value>Concluir</value>
+  </data>
+  <data name="btnLiveApply" xml:space="preserve">
+    <value>Aplicar</value>
+  </data>
+  <data name="btnLogin" xml:space="preserve">
+    <value>Fazer login</value>
+  </data>
+  <data name="btnLogout" xml:space="preserve">
+    <value>Terminar sessão</value>
+  </data>
+  <data name="btnPos3DReset" xml:space="preserve">
+    <value>Redefinir</value>
+  </data>
+  <data name="btnPosCropReset" xml:space="preserve">
+    <value>Redefinir</value>
+  </data>
+  <data name="btnRemoveChannel" xml:space="preserve">
+    <value>Remover</value>
+  </data>
+  <data name="btnRemoveRes" xml:space="preserve">
+    <value>Remover</value>
+  </data>
+  <data name="btnRestoreAdvancedSettings" xml:space="preserve">
+    <value>Restaurar os valores padrão</value>
+  </data>
+  <data name="btnRestoreDefaultHotKeys" xml:space="preserve">
+    <value>Restaurar os valores padrão</value>
+  </data>
+  <data name="btnRestoreInternalSettings" xml:space="preserve">
+    <value>Restaurar os valores padrão</value>
+  </data>
+  <data name="btnRestoreResolutions" xml:space="preserve">
+    <value>Restaurar os valores padrão</value>
+  </data>
+  <data name="btnScrCapReset" xml:space="preserve">
+    <value>Redefinir</value>
+  </data>
+  <data name="btnSignIn" xml:space="preserve">
+    <value>Iniciar sessão</value>
+  </data>
+  <data name="btnSignOut" xml:space="preserve">
+    <value>Terminar sessão</value>
+  </data>
+  <data name="btnStartTest_2" xml:space="preserve">
+    <value>Testar novamente</value>
+  </data>
+  <data name="btnUpdateChannel" xml:space="preserve">
+    <value>Atualizar Canal</value>
+  </data>
+  <data name="btnVidCueAddCuePoint" xml:space="preserve">
+    <value>Adicionar marcadores</value>
+  </data>
+  <data name="btnVidCueDelete" xml:space="preserve">
+    <value>Excluir</value>
+  </data>
+  <data name="btnVidCueEditCuePoint" xml:space="preserve">
+    <value>Editar</value>
+  </data>
+  <data name="btnVidPlayReset" xml:space="preserve">
+    <value>Redefinir</value>
+  </data>
+  <data name="btnVidPlaySetEndTime" xml:space="preserve">
+    <value>Definir</value>
+  </data>
+  <data name="btnVidPlaySetStartTime" xml:space="preserve">
+    <value>Definir</value>
+  </data>
+  <data name="btnXSplitSearch" xml:space="preserve">
+    <value>Adicionar imagem do perfil...</value>
+  </data>
+  <data name="BwTester_Aborted" xml:space="preserve">
+    <value>Abortado.</value>
+  </data>
+  <data name="BwTester_Done" xml:space="preserve">
+    <value>Concluído.</value>
+  </data>
+  <data name="BwTester_FinalStats" xml:space="preserve">
+    <value>Taxa de transmissão de dados média: {0} kbps.</value>
+  </data>
+  <data name="BwTester_Green" xml:space="preserve">
+    <value>Resultado do teste: Verde</value>
+  </data>
+  <data name="BwTester_Init0" xml:space="preserve">
+    <value>Tentando transmitir à taxa de transmissão de dados máxima de {0} kbps...</value>
+  </data>
+  <data name="BwTester_Init01" xml:space="preserve">
+    <value>Tentando transmitir a {0} kbps para {1}</value>
+  </data>
+  <data name="BwTester_Init1" xml:space="preserve">
+    <value>Iniciando conexão ao servidor...</value>
+  </data>
+  <data name="BwTester_Init2" xml:space="preserve">
+    <value>Inicializando a transmissão para o servidor...</value>
+  </data>
+  <data name="BwTester_Red" xml:space="preserve">
+    <value>Resultado do teste: Vermelho</value>
+  </data>
+  <data name="BwTester_RedOffer" xml:space="preserve">
+    <value>Você pode voltar a efetuar o teste, mas se o teste apresentar consistentemente um sinal VERMELHO, considere diminuir a velocidade de transmissão de áudio combinado e a velocidade de transmissão de vídeo máx {0}.</value>
+  </data>
+  <data name="BwTester_RedOffer2" xml:space="preserve">
+    <value> para menos de {0} kbps</value>
+  </data>
+  <data name="BwTester_Sending" xml:space="preserve">
+    <value>Taxa de transferência de dados obtida durante {1:0} ms: {0} kbps...</value>
+  </data>
+  <data name="BwTester_Sending1" xml:space="preserve">
+    <value>Taxa de Saída atual: {0} kbps</value>
+  </data>
+  <data name="BwTester_Sending2" xml:space="preserve">
+    <value>Taxa de transmissão de dados média: {0} kbps...</value>
+  </data>
+  <data name="BwTester_Sending3" xml:space="preserve">
+    <value>Dados médios após {1:0} s/s: {0} kbps...</value>
+  </data>
+  <data name="BwTester_AvgBitrate" xml:space="preserve">
+    <value>Taxa de transmissão de dados média calculada: {0} kbps</value>
+  </data>
+  <data name="BwTester_Yellow" xml:space="preserve">
+    <value>Resultado do teste: Amarelo</value>
+  </data>
+  <data name="BwTester_ResultLegend" xml:space="preserve">
+    <value>Legenda dos resultados:
+Verde: a velocidade de transmissão de destino foi atingida sem perda na taxa de quadros
+Amarelo: a velocidade de transmissão de destino não foi atingida em todas as medições. Você deve diminuir a velocidade de transmissão e tentar novamente.
+Vermelho: ocorreram perdas na taxa de quadros. Esta velocidade de transmissão de destino não deve ser utilizada.</value>
+  </data>
+  <data name="BwTester_YellowOffer" xml:space="preserve">
+    <value>Se o teste apresenta consistentemente um sinal AMARELO, considere diminuir a velocidade de transmissão de áudio combinado e a velocidade de transmissão de vídeo máx {0}.</value>
+  </data>
+  <data name="BwTester_YellowOffer2" xml:space="preserve">
+    <value> para ligeiramente inferior a {0} kbps</value>
+  </data>
+  <data name="cboMaxBitrate_Tooltip" xml:space="preserve">
+    <value>Ajuste a velocidade de transmissão máxima que pretende transmitir</value>
+  </data>
+  <data name="cboQuality_Tooltip" xml:space="preserve">
+    <value>Qualidade: 0 - pior qualidade de largura de banda (CRF = 35) Qualidade: 10 - melhor qualidade de largura de banda (CRF = 25)</value>
+  </data>
+  <data name="cboVBitrate_Auto" xml:space="preserve">
+    <value>Automático</value>
+  </data>
+  <data name="ChannelNameAlreadyExists" xml:space="preserve">
+    <value>{0} já existe.</value>
+  </data>
+  <data name="ChannelNameIsEmpty" xml:space="preserve">
+    <value>É necessário especificar o nome do canal.</value>
+  </data>
+  <data name="checkStatus" xml:space="preserve">
+    <value>Verificando níveis de atualização... Aguarde...</value>
+  </data>
+  <data name="checkStatus_Tier4" xml:space="preserve">
+    <value>Verificando Nível 4... Aguarde...</value>
+  </data>
+  <data name="checkUpdatesToolStripMenuItem" xml:space="preserve">
+    <value>Verificando se há atualizações</value>
+  </data>
+  <data name="chkAdvCapSpkrOut" xml:space="preserve">
+    <value>Capturar a saída de alto-falantes por predefinição</value>
+  </data>
+  <data name="chkAlwaysEnableAero" xml:space="preserve">
+    <value>Sempre habilitar o tema Aero</value>
+  </data>
+  <data name="chkAutoLogin" xml:space="preserve">
+    <value>Iniciar sessão automaticamente</value>
+  </data>
+  <data name="chkColorChromaKey" xml:space="preserve">
+    <value>Chroma key</value>
+  </data>
+  <data name="chkDisableAero" xml:space="preserve">
+    <value>Desativar o tema Aero</value>
+  </data>
+  <data name="chkEnableGameSource" xml:space="preserve">
+    <value>Ativar Game Source</value>
+  </data>
+  <data name="chkEnableGameSource_Tooltip" xml:space="preserve">
+    <value>O Game Source pode ser utilizado para capturar um jogo em modo de tela cheia.</value>
+  </data>
+  <data name="chkEnableSkypeInteraction" xml:space="preserve">
+    <value>Habilitar interação com o Skype</value>
+  </data>
+  <data name="chkEnableVCamOutput" xml:space="preserve">
+    <value>Ativar saída de câmera virtual</value>
+  </data>
+  <data name="chkGain" xml:space="preserve">
+    <value>Detecção de silêncio</value>
+  </data>
+  <data name="chkLogSysInfo" xml:space="preserve">
+    <value>Registrar informações do sistema</value>
+  </data>
+  <data name="chkLogSysInfo_Tooltip" xml:space="preserve">
+    <value>Registra informações de sistema no servidor XSplit. As informações incluem SO, processador, placa de vídeo, resolução do tela.</value>
+  </data>
+  <data name="chkPosKeepAR" xml:space="preserve">
+    <value>Manter proporção</value>
+  </data>
+  <data name="chkPosLock" xml:space="preserve">
+    <value>Bloquear posição</value>
+  </data>
+  <data name="chkRecordStream" xml:space="preserve">
+    <value>Salvar automaticamente a gravação no disco local</value>
+  </data>
+  <data name="chkRememberMe" xml:space="preserve">
+    <value>Lembre-me</value>
+  </data>
+  <data name="chkScrCapLayered" xml:space="preserve">
+    <value>Capturar janelas sobrepostas</value>
+  </data>
+  <data name="chkScrCapNoAero" xml:space="preserve">
+    <value>Desativar a captura de janelas sobrepostas</value>
+  </data>
+  <data name="chkScrCapOptiTextResize" xml:space="preserve">
+    <value>Otimizar redimensionamento de texto</value>
+  </data>
+  <data name="chkScrCapShowMouse" xml:space="preserve">
+    <value>Mostrar mouse</value>
+  </data>
+  <data name="chkScrCapShowMouseclicks" xml:space="preserve">
+    <value>Mostrar cliques do mouse</value>
+  </data>
+  <data name="chkSkipIntro" xml:space="preserve">
+    <value>Não mostrar esta janela novamente.</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace" xml:space="preserve">
+    <value>Forçar função de desintrelaçar</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace1" xml:space="preserve">
+    <value>Forçar função de desintrelaçar: padrão</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace2" xml:space="preserve">
+    <value>Forçar função de desintrelaçar: otimizado</value>
+  </data>
+  <data name="chkVidPlayRememberPosition" xml:space="preserve">
+    <value>Memorizar posição da reprodução</value>
+  </data>
+  <data name="chkVidPlayStartOnLoad" xml:space="preserve">
+    <value>Iniciar junto com a Cena</value>
+  </data>
+  <data name="clockTransition" xml:space="preserve">
+    <value>Relógio</value>
+  </data>
+  <data name="collapseTransition" xml:space="preserve">
+    <value>Fechar</value>
+  </data>
+  <data name="ConfirmCreationOfNonExistingFolder" xml:space="preserve">
+    <value>"{0}" não existe. Pretende criar?</value>
+  </data>
+  <data name="contentToolStripMenuItem" xml:space="preserve">
+    <value>Manual</value>
+  </data>
+  <data name="CustomFramerateLabel" xml:space="preserve">
+    <value>Personalizar FPS...</value>
+  </data>
+  <data name="debugOptions" xml:space="preserve">
+    <value>Opções de depuração</value>
+  </data>
+  <data name="editChannelsToolStripMenuItem" xml:space="preserve">
+    <value>Editar canais...</value>
+  </data>
+  <data name="EditCuePoints" xml:space="preserve">
+    <value>Marcadores</value>
+  </data>
+  <data name="editResolutions" xml:space="preserve">
+    <value>Editar resoluções...</value>
+  </data>
+  <data name="enableVcamWhileStreamingTsmi" xml:space="preserve">
+    <value>Ativar câmera virtual durante a transmissão</value>
+  </data>
+  <data name="exitToolStripMenuItem" xml:space="preserve">
+    <value>S&amp;air</value>
+  </data>
+  <data name="ExternalViewport" xml:space="preserve">
+    <value>Projetor</value>
+  </data>
+  <data name="externalViewportTsmi" xml:space="preserve">
+    <value>Projetor</value>
+  </data>
+  <data name="fadeTransition" xml:space="preserve">
+    <value>Desvanecer</value>
+  </data>
+  <data name="FailureCreatingNonExistingFolder" xml:space="preserve">
+    <value>Não é possível criar a pasta "{0}". {1}.</value>
+  </data>
+  <data name="fanTransition" xml:space="preserve">
+    <value>Leque</value>
+  </data>
+  <data name="feedbackToolStripMenuItem" xml:space="preserve">
+    <value>Enviar feedback...</value>
+  </data>
+  <data name="fileToolStripMenuItem" xml:space="preserve">
+    <value>&amp;Arquivo</value>
+  </data>
+  <data name="folderLocationLabel" xml:space="preserve">
+    <value>Localização:</value>
+  </data>
+  <data name="frameRateToolStripMenuItem" xml:space="preserve">
+    <value>&amp;Taxa de quadros</value>
+  </data>
+  <data name="FreePopup" xml:space="preserve">
+    <value>Aviso</value>
+  </data>
+  <data name="frmAnnounce" xml:space="preserve">
+    <value>Compartilhar transmissão</value>
+  </data>
+  <data name="frmChannelProps" xml:space="preserve">
+    <value>Propriedades do canal</value>
+  </data>
+  <data name="gainLatencyLabel" xml:space="preserve">
+    <value>Período de silêncio:</value>
+  </data>
+  <data name="grpAudio" xml:space="preserve">
+    <value>Áudio</value>
+  </data>
+  <data name="grpAudioEncoding" xml:space="preserve">
+    <value>Codificação de Áudio</value>
+  </data>
+  <data name="grpChannel" xml:space="preserve">
+    <value>Canal</value>
+  </data>
+  <data name="grpEncoding" xml:space="preserve">
+    <value>Codificação</value>
+  </data>
+  <data name="grpGeneral" xml:space="preserve">
+    <value>Geral</value>
+  </data>
+  <data name="grpMyRecordings" xml:space="preserve">
+    <value>Gravações</value>
+  </data>
+  <data name="grpVideoEncoding" xml:space="preserve">
+    <value>Codificação de Vídeo</value>
+  </data>
+  <data name="helpToolStripMenuItem" xml:space="preserve">
+    <value>&amp;Ajuda</value>
+  </data>
+  <data name="holeTransition" xml:space="preserve">
+    <value>Buraco</value>
+  </data>
+  <data name="InputCustomFramerate" xml:space="preserve">
+    <value>Velocidade de Quadros personalizada</value>
+  </data>
+  <data name="InvalidChannelCredentials" xml:space="preserve">
+    <value>Ocorreu um problema durante a autenticação das suas credenciais. Por favor, verifique se o nome de usuário e a senha estão corretos e se a conexão com a Internet está funcionando.</value>
+  </data>
+  <data name="InvalidCharactersInChannelName" xml:space="preserve">
+    <value>O nome do canal contém um caractere inválido.</value>
+  </data>
+  <data name="label1BroadcastShare" xml:space="preserve">
+    <value>Você está transmitindo ao vivo para {0}. Clique &lt;a href="{1}"&gt; aqui&lt;/a&gt; para abrir um navegador e visualizar a transmissão (não se esqueça de silenciar a transmissão para evitar o retorno de áudio).</value>
+  </data>
+  <data name="label1BroadcastShare1" xml:space="preserve">
+    <value>Você agora está transmitindo ao vivo para {0}.</value>
+  </data>
+  <data name="label1BroadcastShare2" xml:space="preserve">
+    <value>Foi iniciada uma gravação.
+Os arquivos gravados estarão disponíveis acessando Arquivo -&gt; Minhas gravações.</value>
+  </data>
+  <data name="label1BroadcastShare3" xml:space="preserve">
+    <value>You are now recording the Active Scene. Recorded files can be accessed from the File menu -&gt; My Recordings.</value>
+  </data>
+  <data name="label1BroadcastShare4" xml:space="preserve">
+    <value>You are now recording {0}. Recorded files can be accessed from the File menu -&gt; My Recordings.</value>
+  </data>
+  <data name="label3" xml:space="preserve">
+    <value>Atualização Bem Sucedida</value>
+  </data>
+  <data name="label4" xml:space="preserve">
+    <value>Utilizando esta funcionalidade, você pode editar o status do seu canal durante a transmissão.</value>
+  </data>
+  <data name="LatestNews" xml:space="preserve">
+    <value>Últimas notícias</value>
+  </data>
+  <data name="latestNewsToolStripMenuItem" xml:space="preserve">
+    <value>Últimas notícias</value>
+  </data>
+  <data name="lblAbitrate" xml:space="preserve">
+    <value>Velocidade de transmissão de áudio:</value>
+  </data>
+  <data name="lblACodec" xml:space="preserve">
+    <value>Codec:</value>
+  </data>
+  <data name="lblAudioBitrate" xml:space="preserve">
+    <value>Velocidade de transmissão:</value>
+  </data>
+  <data name="lblAudioFormat" xml:space="preserve">
+    <value>Formato:</value>
+  </data>
+  <data name="lblAudioIn" xml:space="preserve">
+    <value>Microfone</value>
+  </data>
+  <data name="lblBirthDay" xml:space="preserve">
+    <value>Data de Aniversário:</value>
+  </data>
+  <data name="lblBufferSize" xml:space="preserve">
+    <value>VBV Buffer (kbit):</value>
+  </data>
+  <data name="lblBufferSize_Tooltip" xml:space="preserve">
+    <value>Velocidade de transmissão máxima corresponde a este buffer. O buffer não deve ser maior do que o buffer dos assinantes. (Geralmente, os serviços de transmissão configuram o buffer para 2 segundos se não houver necessidade de baixa latência.)</value>
+  </data>
+  <data name="lblBufferTime" xml:space="preserve">
+    <value>Buffer Flash (seg):</value>
+  </data>
+  <data name="lblCamDS" xml:space="preserve">
+    <value>Configuração do dispositivo</value>
+  </data>
+  <data name="lblCamDSHint" xml:space="preserve">
+    <value>Para configurar suas definições de {0}, clique no botão abaixo.</value>
+  </data>
+  <data name="lblChannelNameLabel" xml:space="preserve">
+    <value>Nome do canal:</value>
+  </data>
+  <data name="lblCodec" xml:space="preserve">
+    <value>Codec:</value>
+  </data>
+  <data name="lblColorChromaSel" xml:space="preserve">
+    <value>Chave</value>
+  </data>
+  <data name="lblColorPicture" xml:space="preserve">
+    <value>Imagem</value>
+  </data>
+  <data name="lblCountry" xml:space="preserve">
+    <value>País:</value>
+  </data>
+  <data name="lblCuePoints" xml:space="preserve">
+    <value>Marcadores:</value>
+  </data>
+  <data name="lblCuePointsHint" xml:space="preserve">
+    <value>Insira na caixa de texto abaixo os marcadores, separados por vírgula, que pretende utilizar. Utilize o formato hh:mm:ss</value>
+  </data>
+  <data name="lblDescription" xml:space="preserve">
+    <value>Descrição:</value>
+  </data>
+  <data name="lblDescription_Tooltip" xml:space="preserve">
+    <value>Descreva brevemente este canal.</value>
+  </data>
+  <data name="lblEmail" xml:space="preserve">
+    <value>E-mail</value>
+  </data>
+  <data name="lblFileType" xml:space="preserve">
+    <value>Tipo de arquivo:</value>
+  </data>
+  <data name="lblFlashPlayback" xml:space="preserve">
+    <value>Reprodução</value>
+  </data>
+  <data name="lblFlashUserAgent" xml:space="preserve">
+    <value>Agente de usuário:</value>
+  </data>
+  <data name="lblFramerate" xml:space="preserve">
+    <value>Taxa de quadros:</value>
+  </data>
+  <data name="lblFramerate_Tooltip" xml:space="preserve">
+    <value>A configuração de Quadros por segundo superior a 15 pode causar a utilização excessiva de CPU e uma maior exigência de largura de banda.</value>
+  </data>
+  <data name="lblFullName" xml:space="preserve">
+    <value>Nome completo:</value>
+  </data>
+  <data name="lblGain" xml:space="preserve">
+    <value>Limiar:</value>
+  </data>
+  <data name="lblGender" xml:space="preserve">
+    <value>Sexo:</value>
+  </data>
+  <data name="lblIngest" xml:space="preserve">
+    <value>Servidor:</value>
+  </data>
+  <data name="lblInternal2" xml:space="preserve">
+    <value>Se você possuir uma assinatura do Twitch, Ustream ou outro serviço online, você pode adicionar um ou mais canais para cada serviço que suporte a transmissão aberta por RTMP ou RTMPT.</value>
+  </data>
+  <data name="lblInternal3" xml:space="preserve">
+    <value>Clique aqui para saber mais...</value>
+  </data>
+  <data name="lblLanguage" xml:space="preserve">
+    <value>Idioma:</value>
+  </data>
+  <data name="lblLink" xml:space="preserve">
+    <value>Compartilhar Link:</value>
+  </data>
+  <data name="lblLink_Tooltip" xml:space="preserve">
+    <value>Este é o URL aonde a sua transmissão pode ser visualizada por outros usuários. Quando a transmissão começar, este link é automaticamente copiado para a área de transferência.</value>
+  </data>
+  <data name="lblLivePassword" xml:space="preserve">
+    <value>Senha:</value>
+  </data>
+  <data name="lblLivePlayback" xml:space="preserve">
+    <value>Reprodução</value>
+  </data>
+  <data name="lblLiveSource" xml:space="preserve">
+    <value>Origem da Transmissão</value>
+  </data>
+  <data name="lblLiveStreamName" xml:space="preserve">
+    <value>Nome da Transmissão:</value>
+  </data>
+  <data name="lblLiveUsername" xml:space="preserve">
+    <value>Usuário:</value>
+  </data>
+  <data name="lblLoginTitle" xml:space="preserve">
+    <value>XSplit</value>
+  </data>
+  <data name="lblMaxBitrate" xml:space="preserve">
+    <value>Velocidade de transmissão máx VBV (kbps):</value>
+  </data>
+  <data name="lblMaxBitrate_Tooltip" xml:space="preserve">
+    <value>Ajuste a velocidade de transmissão máxima que pretende transmitir</value>
+  </data>
+  <data name="lblName" xml:space="preserve">
+    <value>Nome:</value>
+  </data>
+  <data name="lblName_Tooltip" xml:space="preserve">
+    <value>Nome atribuído a este canal para fácil identificação.</value>
+  </data>
+  <data name="lblPassword" xml:space="preserve">
+    <value>Senha</value>
+  </data>
+  <data name="lblPos" xml:space="preserve">
+    <value>Posição</value>
+  </data>
+  <data name="lblPos3DHint" xml:space="preserve">
+    <value>Para rotacionar a origem, segure a tecla Shift enquanto move o mouse</value>
+  </data>
+  <data name="lblPosCrop" xml:space="preserve">
+    <value>Cortar</value>
+  </data>
+  <data name="lblPosCropBottom" xml:space="preserve">
+    <value>Inferior</value>
+  </data>
+  <data name="lblPosCropLeft" xml:space="preserve">
+    <value>Esquerda</value>
+  </data>
+  <data name="lblPosCropRight" xml:space="preserve">
+    <value>Direita</value>
+  </data>
+  <data name="lblPosCropTop" xml:space="preserve">
+    <value>Superior</value>
+  </data>
+  <data name="lblPosHeight" xml:space="preserve">
+    <value>Altura</value>
+  </data>
+  <data name="lblPosWidth" xml:space="preserve">
+    <value>Largura</value>
+  </data>
+  <data name="lblPreset" xml:space="preserve">
+    <value>Predefinição:</value>
+  </data>
+  <data name="lblPreset_Tooltip" xml:space="preserve">
+    <value>Apenas para uso interno.</value>
+  </data>
+  <data name="lblQuality" xml:space="preserve">
+    <value>Qualidade:</value>
+  </data>
+  <data name="lblQuality_Tooltip" xml:space="preserve">
+    <value>Qualidade: 0 - pior qualidade de largura de banda (CRF = 35) Qualidade: 10 - melhor qualidade de largura de banda (CRF = 25)</value>
+  </data>
+  <data name="lblResolution" xml:space="preserve">
+    <value>Resolução:</value>
+  </data>
+  <data name="lblRtmpUrl" xml:space="preserve">
+    <value>URL do RTMP:</value>
+  </data>
+  <data name="lblScrArea" xml:space="preserve">
+    <value>Área</value>
+  </data>
+  <data name="lblScrAreaHeight" xml:space="preserve">
+    <value>Altura</value>
+  </data>
+  <data name="lblScrAreaWidth" xml:space="preserve">
+    <value>Largura</value>
+  </data>
+  <data name="lblScrCap" xml:space="preserve">
+    <value>Captura de tela</value>
+  </data>
+  <data name="lblScrCapLayeredHint" xml:space="preserve">
+    <value>(Desmarque isto para corrigir a cintilação do mouse)</value>
+  </data>
+  <data name="lblScrCapOptiTextResizeHint" xml:space="preserve">
+    <value>(Desmarque esta para melhor desempenho)
+(Apenas funciona quando a origem ocupa a tela toda)</value>
+  </data>
+  <data name="lblStatus" xml:space="preserve">
+    <value>O que você está transmitindo?</value>
+  </data>
+  <data name="lblStreamChannel" xml:space="preserve">
+    <value>Canal:</value>
+  </data>
+  <data name="lblStreamName" xml:space="preserve">
+    <value>Nome da Transmissão:</value>
+  </data>
+  <data name="lblTitleHint" xml:space="preserve">
+    <value>Para configurar a sua origem de Título, clique no botão abaixo.</value>
+  </data>
+  <data name="lblUserName" xml:space="preserve">
+    <value>Nome de Usuário:</value>
+  </data>
+  <data name="lblVidCueSavedCuePoints" xml:space="preserve">
+    <value>Marcadores salvos</value>
+  </data>
+  <data name="lblVideoCuePoints" xml:space="preserve">
+    <value>Marcadores</value>
+  </data>
+  <data name="lblVideoPlayback" xml:space="preserve">
+    <value>Reprodução</value>
+  </data>
+  <data name="lblVidPlayActionOnEnd" xml:space="preserve">
+    <value>Quando terminado:</value>
+  </data>
+  <data name="lblVidPlayEndTime" xml:space="preserve">
+    <value>Termina em:</value>
+  </data>
+  <data name="lblVidPlayStartTime" xml:space="preserve">
+    <value>Inicia em:</value>
+  </data>
+  <data name="LivestreamNameIsEmtpy" xml:space="preserve">
+    <value>Indique o nome da transmissão.</value>
+  </data>
+  <data name="lnkBandwidthTesterGuide" xml:space="preserve">
+    <value>Veja como funciona o teste de largura de banda.</value>
+  </data>
+  <data name="lnkForgotPassword" xml:space="preserve">
+    <value>Esqueci a senha</value>
+  </data>
+  <data name="lnklblChangePassword" xml:space="preserve">
+    <value>Altere aqui a sua senha</value>
+  </data>
+  <data name="lnkNoAccount" xml:space="preserve">
+    <value>Registrar</value>
+  </data>
+  <data name="loadPresetsToolStripMenuItem" xml:space="preserve">
+    <value>C&amp;arregar apresentação...</value>
+  </data>
+  <data name="LocalRecording" xml:space="preserve">
+    <value>Gravação local</value>
+  </data>
+  <data name="localRecordingToolStripMenuItem" xml:space="preserve">
+    <value>Gravação local</value>
+  </data>
+  <data name="MakeXSplitLayeredWindowWarning" xml:space="preserve">
+    <value>Transformar o XSplit em uma janela sobreposta pode reduzir o desempenho de captura de tela quando XSplit não está minimizado na barra de tarefas.
+
+Pretende continuar a transformar o XSplit em uma janela sobreposta?</value>
+  </data>
+  <data name="MoreStreamAddins" xml:space="preserve">
+    <value>Loja de plugins</value>
+  </data>
+  <data name="moreStreamAddinTsmi" xml:space="preserve">
+    <value>Mais serviços</value>
+  </data>
+  <data name="moreStreamAddinTsmiXbc5003" xml:space="preserve">
+    <value>Buscar mais fontes</value>
+  </data>
+  <data name="moveSourceDown_Tooltip" xml:space="preserve">
+    <value>Mover origem para baixo</value>
+  </data>
+  <data name="moveSourceUp_Tooltip" xml:space="preserve">
+    <value>Mover origem para cima</value>
+  </data>
+  <data name="msgAbortPluginInstall" xml:space="preserve">
+    <value>A instalação do plugin está em andamento. Se pressionar OK antes da transferência chegar ao fim, a instalação do plugin será abortada.</value>
+  </data>
+  <data name="msgAddGameNotice" xml:space="preserve">
+    <value>Antes de poder capturar um jogo ou player de mídia, você deve clicar no interior da janela que pretende capturar. Em seguida, clique primeiro no jogo e depois volte a escolher este item de menu.</value>
+  </data>
+  <data name="msgAddGameNoticeGsDisabled" xml:space="preserve">
+    <value>Antes de poder capturar um jogo ou player de mídia, você deve ativar o GameSource no menu Ferramentas &gt; Definições gerais e depois clicar no interior da janela que pretende capturar. Em seguida, deve ativar o GameSource, clicar no seu jogo e depois voltar a escolher este item de menu.</value>
+  </data>
+  <data name="msgAddinDownloadFailed" xml:space="preserve">
+    <value>Falha na transferência.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_ArgumentError" xml:space="preserve">
+    <value>Não é possível instalar devido a um problema com os parâmetros de instalação. Por favor, tente novamente ou contate o suporte do XSplit.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallFailed" xml:space="preserve">
+    <value>A instalação foi interrompida prematuramente. Reinicie o XSplit para evitar comportamentos indesejados.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallFileNotFound" xml:space="preserve">
+    <value>Não é possível instalar porque há arquivos faltantes. Tente novamente ou contate o suporte do XSplit.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallHashCheckFailed" xml:space="preserve">
+    <value>Não é possível instalar devido a um arquivo com hash sem correspondência. Tente novamente ou contate o suporte do XSplit.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_Unknown" xml:space="preserve">
+    <value>A instalação foi interrompida prematuramente. Reinicie o XSplit para evitar comportamentos indesejados.</value>
+  </data>
+  <data name="msgAddinInstallerIsBusy_Text" xml:space="preserve">
+    <value>Outra instalação de plugin está em andamento. Por favor, tente novamente mais tarde.</value>
+  </data>
+  <data name="msgAddinInstallerIsBusy_Title" xml:space="preserve">
+    <value>O instalador está ocupado</value>
+  </data>
+  <data name="msgAddinInstallSucceeded" xml:space="preserve">
+    <value>Concluído. Reinicie o XSplit para aplicar as alterações. 
+
+O XSplit vai reiniciar.</value>
+  </data>
+  <data name="msgAddinInstallSucceeded1" xml:space="preserve">
+    <value>Concluído. Reinicie o XSplit para aplicar as alterações.</value>
+  </data>
+  <data name="msgAddinInstallSucceeded2" xml:space="preserve">
+    <value>Plugin(s) instalado(s) com sucesso. Reinicie o XSplit para aplicar as alterações. 
+
+O XSplit vai agora fechar.</value>
+  </data>
+  <data name="msgAddinInstallSucceeded3" xml:space="preserve">
+    <value>Plugin(s) instalado(s) com sucesso. O XSplit deve reiniciar para aplicar as alterações. 
+
+Pretende reiniciar agora?</value>
+  </data>
+  <data name="msgAddinInstallSucceeded4" xml:space="preserve">
+    <value>Concluído. O XSplit tem que reiniciar para que as alterações sejam aplicadas. 
+
+Reiniciar agora?</value>
+  </data>
+  <data name="msgAddinInstallSucceeded5" xml:space="preserve">
+    <value>Plugin(s) instalado(s) com sucesso. O XSplit tem que reiniciar para que as alterações sejam aplicadas.</value>
+  </data>
+  <data name="msgAddinUinstallationFailed" xml:space="preserve">
+    <value>A desinstalação foi interrompida prematuramente. Reinicie o XSplit para evitar comportamentos indesejados.</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_ArgumentError" xml:space="preserve">
+    <value>Não é possível desinstalar devido a problema com os parâmetros de instalação. Tente novamente ou contacte o suporte do XSplit.</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_UninstallFailed" xml:space="preserve">
+    <value>A desinstalação foi interrompida prematuramente. Reinicie o XSplit para evitar comportamentos indesejados.</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_Unknown" xml:space="preserve">
+    <value>A desinstalação foi interrompida prematuramente. Reinicie o XSplit para evitar comportamentos indesejados.</value>
+  </data>
+  <data name="msgAddinUninstallConfirm_Text" xml:space="preserve">
+    <value>Tem certeza que pretende desinstalar "{0}"?</value>
+  </data>
+  <data name="msgAddinUninstallConfirm_Title" xml:space="preserve">
+    <value>Desinstalar {0}</value>
+  </data>
+  <data name="msgAudioDevice_None" xml:space="preserve">
+    <value>Nenhum</value>
+  </data>
+  <data name="msgCantCreateRecordingOutDir" xml:space="preserve">
+    <value>Não é possível criar o diretório de gravação '{0}'. Tente criá-lo manualmente e gravar novamente.</value>
+  </data>
+  <data name="msgCantEditActiveStream" xml:space="preserve">
+    <value>Não é possível editar as configurações durante a transmissão.</value>
+  </data>
+  <data name="msgCantEditActiveStreamAdaptiveBr" xml:space="preserve">
+    <value>Não é possível editar as configurações durante a transmissão com 'Adaptive CBR'</value>
+  </data>
+  <data name="msgCantEditActiveStreamCbr" xml:space="preserve">
+    <value>Não é possível editar as configurações durante a transmissão em modo CBR estrito.</value>
+  </data>
+  <data name="msgCantEditActiveRecording" xml:space="preserve">
+    <value>Não é possível editar as configurações durante a gravação local.</value>
+  </data>
+  <data name="msgCantEditActiveRecordingCbr" xml:space="preserve">
+    <value>Não é possível editar as configurações durante a gravação local no modo CBR estrito.</value>
+  </data>
+  <data name="msgCantEditChannelOfMissingAddin" xml:space="preserve">
+    <value>O plugin {0} não está disponível nesta máquina. Tente instalar o plugin através da loja clicando em Adicionar &gt; Mais...</value>
+  </data>
+  <data name="msgCantRemoveActiveStream" xml:space="preserve">
+    <value>Não é possível remover um canal durante a transmissão.</value>
+  </data>
+  <data name="msgClickContinue" xml:space="preserve">
+    <value>Por favor, clique no botão \"Continuar\".</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported" xml:space="preserve">
+    <value>O XSplit não suporta resoluções superiores a 1920 x 1080 para sistemas XP. Estas resoluções não estarão disponíveis no menu Resoluções. O XSplit vai reverter a sua resolução para a padrão.</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported1" xml:space="preserve">
+    <value>O XSplit não suporta resoluções superiores a 1920 x 1080 para sistemas XP. Estas resoluções não estarão disponíveis no menu Visualizar &gt; Resoluções.</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported3" xml:space="preserve">
+    <value>O XSplit não oferece suporte para resoluções de tela menores do que {0:N0} pixels.</value>
+  </data>
+  <data name="msgDefaultStageResolutionWarning" xml:space="preserve">
+    <value>Ao definir uma resolução e/ou quantidade de quadros inferior à sua resolução e/ou quantidade de quadros atual, é possível codificar várias transmissões ao mesmo tempo com diferentes resoluções e/ou Fps.
+
+Deste modo, pode configurar a transmissão ou gravação local para utilizar a resolução / quantidade de quadros predefinida e, em seguida, configurar outra transmissão, forçando uma resolução / quantidade de quadros inferior à predefinição.
+
+Esta definição não é mantida na sua conta e tem de ser configurada em cada início de sessão.</value>
+  </data>
+  <data name="msgDeviceNotFound_SndCap" xml:space="preserve">
+    <value>Não é possível localizar o dispositivo de captura de áudio.</value>
+  </data>
+  <data name="msgDeviceNotFound_VidCap" xml:space="preserve">
+    <value>Não é possível localizar o dispositivo de captura de vídeo.</value>
+  </data>
+  <data name="msgEnableAeroWarning" xml:space="preserve">
+    <value>No Windows 7 e Vista, a janela sobreposta será sempre captura quando o tema Aero estive ativado. Não permitir que o XSplit desative o tema Aero pode resultar em algumas opções de fonte de captura de tela não tendo o efeito esperado. Deseja continuar?</value>
+  </data>
+  <data name="msgEnableD3D" xml:space="preserve">
+    <value>O hardware de seu PC não possui os [requerimentos](https://xspl.it/bc/req) mínimos de hardware gráfico, por favor contate o [suporte](https://xspl.it/support) para mais informações.</value>
+  </data>
+  <data name="msgEnableVcamCheckedChangedHint" xml:space="preserve">
+    <value>Por favor, note que a camera virtual é automaticamente desativada durante a transmissão.</value>
+  </data>
+  <data name="msgFailedGettingRtmp" xml:space="preserve">
+    <value>Falha ao obter o RTMP</value>
+  </data>
+  <data name="msgFailedGettingRtmp_HowUserAffected" xml:space="preserve">
+    <value>O site de transmissão pode estar inativo ou com problemas.</value>
+  </data>
+  <data name="msgFailedGettingRtmp_WhatUserCanDo" xml:space="preserve">
+    <value>Tente novamente mais tarde, entre em contato com o fornecedor de serviço ou contate {0}</value>
+  </data>
+  <data name="msgFailedLoadingAddinStore" xml:space="preserve">
+    <value>Falha ao carregar a loja de plugins. Por favor, tente novamente mais tarde.</value>
+  </data>
+  <data name="msgFailureLoadinAddin_HowUserAffected" xml:space="preserve">
+    <value>As transmissões adicionadas utilizando este plugin podem não estar disponíveis.</value>
+  </data>
+  <data name="msgFailureLoadingAddin" xml:space="preserve">
+    <value>Falha ao carregar o plugin "{0}"</value>
+  </data>
+  <data name="msgFlashAxFailure" xml:space="preserve">
+    <value>Falha no funcionamento do Flash Player para Windows Internet Explorer: {0}</value>
+  </data>
+  <data name="msgFlashAxIsOld" xml:space="preserve">
+    <value>O XSplit detectou que você está utilizando uma versão antiga do Flash Player para o Internet Explorer.
+
+O XSplit necessita que esteja instalada a versão 10.3.181 ou posterior do Flash Player para o Internet Explorer. A não instalação da versão mais recenete do Flash Player para o Internet Explorer pode causar um comportamento inesperado.
+
+Gostaria de obter a versão mais recente do Flash Player para o Internet Explorer agora?</value>
+  </data>
+  <data name="msgFlashAxIsRequired" xml:space="preserve">
+    <value>O XSplit detectou que o Flash Player para o Internet Explorer não está instalado.
+
+O XSplit necessita que esteja instalada a versão 10.3.181 ou posterior do Flash Player para o Internet Explorer. A não instalação da versão mais recenete do Flash Player para o Internet Explorer pode causar um comportamento inesperado.
+
+Gostaria de obter a versão mais recente do Flash Player para o Internet Explorer agora?</value>
+  </data>
+  <data name="msgFlashAxNotInstalled" xml:space="preserve">
+    <value>Esta funcionalidade necessita do Flash Player para Internet Explorer para funcionar.</value>
+  </data>
+  <data name="msgFlashConfigLoadFailure" xml:space="preserve">
+    <value>Falha ao carregar a caixa de diálogo de configuração: {0}</value>
+  </data>
+  <data name="msgForcedUpdate" xml:space="preserve">
+    <value>Está versão {0} expirou. Uma nova versão {1} do XSplit Broadcaster está disponível. Você deverá atualizar para esta nova versão. Se por algum motivo a atualização falhar ou caso você tenha problemas ao utilizar o XSplit após a atualização automática, desinstale o XSplit e volte a instalá-lo após fazer o download da versão mais recente pelo site [www.xsplit.com](http://www.xsplit.com)</value>
+  </data>
+  <data name="msgFramerateDefined" xml:space="preserve">
+    <value>A Taxa de Quadros já está disponível no menu</value>
+  </data>
+  <data name="msgHotKeyRegException1" xml:space="preserve">
+    <value>Ocorreu uma falha ao registar as seguintes teclas de atalho.</value>
+  </data>
+  <data name="msgHotKeyRegException2" xml:space="preserve">
+    <value>As teclas de atalho atribuídas não serão aplicadas.</value>
+  </data>
+  <data name="msgHotKeyRegException3" xml:space="preserve">
+    <value>Você pode atribuir diferentes combinações que não sejam utilizadas por outra aplicação ativa.</value>
+  </data>
+  <data name="msgHotKeyRegException4" xml:space="preserve">
+    <value>Gostaria de reconfigurar as teclas de atalho?</value>
+  </data>
+  <data name="msgHotKeyRegException5" xml:space="preserve">
+    <value>Não é possível atribuir as seguintes teclas de atalho com as mesmas teclas.
+
+{0}</value>
+  </data>
+  <data name="msgHotKeyRegException6" xml:space="preserve">
+    <value>Você está atualmente em modo hotkey básico. As seguintes teclas de atalho só podem ser atribuídas em combinação com teclas modificadoras (Control, Shift, Alt).
+
+{0}</value>
+  </data>
+  <data name="msgHotKeyRegException7" xml:space="preserve">
+    <value>Você está atualmente em modo hotkey básico. As seguintes teclas de atalho podem ser atribuídas apenas no modo avançado. {0}</value>
+  </data>
+  <data name="msgIncorrectCredentialsOrServerDown" xml:space="preserve">
+    <value>A senha ou a chave de transmissão não é válida ou o servidor pode estar inativo. Tente reintroduzir as suas credenciais.</value>
+  </data>
+  <data name="msgInitializeFolder1" xml:space="preserve">
+    <value>Ocorreu um erro ao tentar inicializar as suas pastas.</value>
+  </data>
+  <data name="msgInitializeFolder2" xml:space="preserve">
+    <value>A pasta pode não ter sido criada corretamente.</value>
+  </data>
+  <data name="msgInitializeFolder3" xml:space="preserve">
+    <value>Certifique-se de que você tem privilégios para criar arquivos e pastas.</value>
+  </data>
+  <data name="msgInputTransitionSpeed" xml:space="preserve">
+    <value>Velocidade (ms)</value>
+  </data>
+  <data name="msgInvalidEmail" xml:space="preserve">
+    <value>O formato do e-mail é inválido. São permitidos apenas letras, números, ponto, traço e sublinhado.</value>
+  </data>
+  <data name="msgInvalidFilenameChars" xml:space="preserve">
+    <value>O nome do arquivo não pode conter os seguintes caracteres</value>
+  </data>
+  <data name="msgInvalidPassword" xml:space="preserve">
+    <value>O formato da senha é inválido. Apenas são permitidos letras, números, ponto, traço e a senha deve conter no mínimo 6 caracteres.</value>
+  </data>
+  <data name="msgInvalidTransitionTime" xml:space="preserve">
+    <value>Velocidade de transição inválida.</value>
+  </data>
+  <data name="msgLoginInitializationException1" xml:space="preserve">
+    <value>Ocorreu um erro ao iniciar a janela de início de sessão.</value>
+  </data>
+  <data name="msgLoginMessageTitle" xml:space="preserve">
+    <value>Iniciar sessão</value>
+  </data>
+  <data name="msgLoginOpenLinkException1" xml:space="preserve">
+    <value>Ocorreu um erro ao redirecionar para a página de alteração da senha.</value>
+  </data>
+  <data name="msgLoginOpenLinkException2" xml:space="preserve">
+    <value>Você não será redirecionado para a página de alteração de senha.</value>
+  </data>
+  <data name="msgLoginOpenLinkException3" xml:space="preserve">
+    <value>Você pode acessar o nosso site visitando %url%.</value>
+  </data>
+  <data name="msgLoginSaveAutoLogin" xml:space="preserve">
+    <value>Ocorreu um erro ao tentar salvar as definições de início automático de sessão.</value>
+  </data>
+  <data name="msgLoginSaveStartup" xml:space="preserve">
+    <value>Ocorreu um erro ao tentar salvar as definições de inicialização.</value>
+  </data>
+  <data name="msgLoginTitle" xml:space="preserve">
+    <value>XSplit</value>
+  </data>
+  <data name="msgLoginValidation1" xml:space="preserve">
+    <value>O campo de endereço de e-mail não pode estar vazio.</value>
+  </data>
+  <data name="msgLoginValidation2" xml:space="preserve">
+    <value>Por favor, não deixe o campo de senha em branco.</value>
+  </data>
+  <data name="msgMaxFps" xml:space="preserve">
+    <value>A Taxa de quadros máxima permitida é de {0} FPS.</value>
+  </data>
+  <data name="msgOptionalUpdate" xml:space="preserve">
+    <value>Está disponível uma nova versão {0} do XSplit Broadcaster. Exceto se a equipe da SplitMediaLabs identificar erros significativos nesta nova atualização, todos os usuários terão que atualizar até {1}. 
+
+Se você escolher instalar esta atualização agora, você pode sempre reverter para a versão anterior do XSplit Broadcaster desinstalando e instalando a versão oficial disponível para transferência em [www.xsplit.com](http://www.xsplit.com).
+
+Se, por qualquer motivo, a atualização falhar ou se ocorrer algum problema durante a utilização do XSplit após a atualização, desinstale e volte a instalar o XSplit instalando a versão mais recente disponível em [www.xsplit.com](http://www.xsplit.com)</value>
+  </data>
+  <data name="msgOptionalUpdate2" xml:space="preserve">
+    <value>Está disponível uma nova versão {0} do XSplit Broadcaster. 
+
+Se você escolher instalar esta atualização agora, você pode sempre reverter para a versão anterior do XSplit Broadcaster desinstalando e instalando a versão oficial disponível para transferência em [www.xsplit.com](http://www.xsplit.com).
+
+Se, por qualquer motivo, a atualização falhar ou se ocorrer algum problema durante a utilização do XSplit após a atualização, desinstale e volte a instalar o XSplit instalando a versão mais recente disponível em [www.xsplit.com](http://www.xsplit.com)</value>
+  </data>
+  <data name="msgOptionalUpdateConfirm" xml:space="preserve">
+    <value>Atualizar agora?</value>
+  </data>
+  <data name="msgRegistrationValidation6" xml:space="preserve">
+    <value>O endereço de e-mail na aba Perfil não pode estar em branco.</value>
+  </data>
+  <data name="msgSaveBeforeCloseConfirmation" xml:space="preserve">
+    <value>Você quer salvar as alterações antes de fechar esta caixa de diálogo?</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90012" xml:space="preserve">
+    <value>Endereço de e-mail ou senha incorreta. Por favor, tente novamente.</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90013" xml:space="preserve">
+    <value>Endereço de e-mail ou senha incorreta. Por favor, tente novamente.</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90024" xml:space="preserve">
+    <value>Um e-mail com um link de ativação foi enviado para sua conta de e-mail. Você precisará ativar a sua conta XSplit para iniciar uma sessão.
+
+Gostaria que nós reenviássemos o link de ativação?</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90027" xml:space="preserve">
+    <value>O XSplit não conseguiu validar as suas informações como usuário registrado. Se já estiver registrado no 321meet.com, volte a [re-register](https://xspl.it/register) a sua conta no website da XSplit.
+
+Posteriormente, as suas contas XSplit e 321meet podem compartilhar e utilizar as mesmas credenciais.</value>
+  </data>
+  <data name="msgSettingsSaved_SyncFailed" xml:space="preserve">
+    <value>Ocorreu uma falha ao sincronizar as suas definições com o servidor.{0}As suas definições foram salvas localmente.</value>
+  </data>
+  <data name="msgSignUpOpenLinkException1" xml:space="preserve">
+    <value>Ocorreu um erro ao redirecionar você para a página de registro.</value>
+  </data>
+  <data name="msgSignUpOpenLinkException2" xml:space="preserve">
+    <value>Você não será redirecionado para a página de registro.</value>
+  </data>
+  <data name="msgSignUpOpenLinkException3" xml:space="preserve">
+    <value>Você pode acessar manualmente o nosso site visitando %url%</value>
+  </data>
+  <data name="msgSourceConfigurationHandlerIsMissing" xml:space="preserve">
+    <value>O processador de configuração está ausente.</value>
+  </data>
+  <data name="msgSourceHandlerIsMissing" xml:space="preserve">
+    <value>O processador de origem está ausente.</value>
+  </data>
+  <data name="growlStageResolutionIsHigh" xml:space="preserve">
+    <value>Qualquer resolução acima {0} x {1} não é recomendada. Sua resolução será redefinida para full HD (1080p) quando você reiniciar o XSplit Broadcaster.</value>
+  </data>
+  <data name="growlStageResolutionIsHighForWEI" xml:space="preserve">
+    <value>O seu sistema pode não suportar a transmissão ou gravação sem problemas em {0}.</value>
+  </data>
+  <data name="msgStreamResolutionIsHigh" xml:space="preserve">
+    <value>Você definiu a resolução de saída da sua transmissão para {0} x {1}. Não se recomenda a transmissão ao vivo pela Internet com uma resolução superior a 1280 x 720.
+
+Pretende continuar?</value>
+  </data>
+  <data name="growlStreamResolutionIsHigh" xml:space="preserve">
+    <value>Você definiu a resolução de saída da sua transmissão para {0} x {1}. Não se recomenda a transmissão ao vivo pela Internet com uma resolução superior a 1280 x 720.</value>
+  </data>
+  <data name="msgStreamResolutionIsHigherThanStageResolution" xml:space="preserve">
+    <value>Você selecionou para gravar/transmitir com uma resolução superior ao plano atual. O seu vídeo não será dimensionado, apenas preenchido.</value>
+  </data>
+  <data name="msgSyncFailure" xml:space="preserve">
+    <value>Ocorreu uma falha ao sincronizar as suas definições com o servidor. Você pode estar sem conexão a Internet.</value>
+  </data>
+  <data name="msgUnableToValidateWithServer" xml:space="preserve">
+    <value>Não é possível validar com o servidor. A Marca d´água pode ser ativada, exceto para gravação local!</value>
+  </data>
+  <data name="msgUpdatedPlugins" xml:space="preserve">
+    <value>O XSplit detectou que existem plugins atualizados disponíveis:
+
+{0}
+
+Pressione OK para instalar estes plugins.
+		</value>
+  </data>
+  <data name="msgUpdatedPluginsXbc5003" xml:space="preserve">
+    <value>O XSplit detectou que existem saídas atualizadas disponíveis:
+
+{0}
+
+Pressione OK para instalar estas saídas.
+		</value>
+  </data>
+  <data name="msgVersionIsExpired" xml:space="preserve">
+    <value>Esta versão do XSplit Broadcaster expirou.</value>
+  </data>
+  <data name="MyRecordings_FilesExistInPreviousLocation" xml:space="preserve">
+    <value>Os arquivos já existe em "{0}".
+
+Você pode mover manualmente estes arquivos para a nova localização antes de aplicar a alteração da pasta.</value>
+  </data>
+  <data name="myRecordingsMenuItem" xml:space="preserve">
+    <value>Gravações</value>
+  </data>
+  <data name="recordingsToolStripMenuItem" xml:space="preserve">
+    <value>Minhas Gravações</value>
+  </data>
+  <data name="newPresetsToolStripMenuItem" xml:space="preserve">
+    <value>&amp;Nova apresentação</value>
+  </data>
+  <data name="NicoVideo" xml:space="preserve">
+    <value>Niconico</value>
+  </data>
+  <data name="numBufferSize_Tooltip" xml:space="preserve">
+    <value>Velocidade de transmissão máxima corresponde a este buffer. O buffer não deve ser maior do que o buffer dos assinantes. (Geralmente, os serviços de transmissão configuram o buffer para 2 segundos se não houver necessidade de baixa latência.)</value>
+  </data>
+  <data name="numFramerate_Tooltip" xml:space="preserve">
+    <value>A configuração de Quadros por segundo superior a 15 pode causar a utilização excessiva de CPU e uma maior exigência de largura de banda.</value>
+  </data>
+  <data name="optFemale" xml:space="preserve">
+    <value>Feminino</value>
+  </data>
+  <data name="optMale" xml:space="preserve">
+    <value>Masculino</value>
+  </data>
+  <data name="par1" xml:space="preserve">
+    <value>Utilizando a funcionalidade de anúncio, você pode publicar sobre a sua transmissão em diferentes redes sociais como o Twitter e o Facebook.</value>
+  </data>
+  <data name="par2" xml:space="preserve">
+    <value>Se o seu canal suportar, você também pode alterar a descrição da sua transmissão.</value>
+  </data>
+  <data name="par3" xml:space="preserve">
+    <value>Para anunciar a sua transmissão, selecione o serviço que pretende utilizar no lado esquerdo.</value>
+  </data>
+  <data name="PasswordIsEmpty" xml:space="preserve">
+    <value>É necessário especificar a senha.</value>
+  </data>
+  <data name="PresetDoesNotExist" xml:space="preserve">
+    <value>Preset "{0}" não existe.</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_ADD" xml:space="preserve">
+    <value>Adicionar fonte</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_DELETE" xml:space="preserve">
+    <value>Remover origem selecionada</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GLBSET" xml:space="preserve">
+    <value>Abrir definções de áudio</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MIC" xml:space="preserve">
+    <value>Ativa/Desativa o som de {0}</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MOVEDOWN" xml:space="preserve">
+    <value>Mover origem para baixo</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MOVEUP" xml:space="preserve">
+    <value>Mover origem para cima</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SETTINGS" xml:space="preserve">
+    <value>Definições de origem selecionadas</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SPK" xml:space="preserve">
+    <value>Ativa/Desativa o som de {0}</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_MICVOL" xml:space="preserve">
+    <value>Volume do Microfone</value>
+  </data>
+  <data name="rb1_AV" xml:space="preserve">
+    <value>Mídia</value>
+  </data>
+  <data name="rb1_Cam" xml:space="preserve">
+    <value>Camera</value>
+  </data>
+  <data name="rb1_Screen" xml:space="preserve">
+    <value>Tela</value>
+  </data>
+  <data name="rb1_Stream" xml:space="preserve">
+    <value>Transmissão</value>
+  </data>
+  <data name="rb1_Title" xml:space="preserve">
+    <value>Título</value>
+  </data>
+  <data name="rbColor" xml:space="preserve">
+    <value>Cor</value>
+  </data>
+  <data name="rbColorChromaNone" xml:space="preserve">
+    <value>Nenhum</value>
+  </data>
+  <data name="rbColorChroma" xml:space="preserve">
+    <value>Chroma Key</value>
+  </data>
+  <data name="rbColorChromaColor" xml:space="preserve">
+    <value>Chave de cor</value>
+  </data>
+  <data name="rbPosition" xml:space="preserve">
+    <value>Layout</value>
+  </data>
+  <data name="removeSource" xml:space="preserve">
+    <value>Remover</value>
+  </data>
+  <data name="removeSource_Tooltip" xml:space="preserve">
+    <value>Remover origem selecionada</value>
+  </data>
+  <data name="ResolutionAlreadyExists" xml:space="preserve">
+    <value>A resolução {0} x {1} já existe.</value>
+  </data>
+  <data name="resolutionToolStripMenuItem" xml:space="preserve">
+    <value>&amp;Resolução</value>
+  </data>
+  <data name="rtmp1ch" xml:space="preserve">
+    <value>Intercalar áudio e vídeo no canal RTMP</value>
+  </data>
+  <data name="RtmpUrlIsEmpty" xml:space="preserve">
+    <value>É necessário especificar o URL do RTMP.</value>
+  </data>
+  <data name="RtmpUrlIsInvalid" xml:space="preserve">
+    <value>O URL do RTMP é inválido.</value>
+  </data>
+  <data name="savePresetToolStripMenuItem" xml:space="preserve">
+    <value>&amp;Salvar apresentação...</value>
+  </data>
+  <data name="sbtnInsertLink" xml:space="preserve">
+    <value>Inserir Link</value>
+  </data>
+  <data name="scaleViewportToolStripMenuItem" xml:space="preserve">
+    <value>&amp;Dimensionar viewport</value>
+  </data>
+  <data name="SelectPresentation" xml:space="preserve">
+    <value>XSplit - Selecionar a apresentação</value>
+  </data>
+  <data name="settingsToolStripMenuItem" xml:space="preserve">
+    <value>&amp;Configurações gerais...</value>
+  </data>
+  <data name="settingsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>Configuraçõe&amp;s</value>
+  </data>
+  <data name="ShareLinkIsEmpty" xml:space="preserve">
+    <value>Link de Compartilhamento deve ser especificado.</value>
+  </data>
+  <data name="ShareLinkIsInvalid" xml:space="preserve">
+    <value>Link de Compartilhamento é inválido.</value>
+  </data>
+  <data name="ShowException_HowUserAffected" xml:space="preserve">
+    <value>Algumas funcionalidades podem não funcionar bem devido a este problema.</value>
+  </data>
+  <data name="ShowException_WhatUserCanDo" xml:space="preserve">
+    <value>Envie-nos esta informação para nos ajudar a resolver este problema.</value>
+  </data>
+  <data name="SourcePluginStore" xml:space="preserve">
+    <value>Loja de plugins</value>
+  </data>
+  <data name="sourceSettings" xml:space="preserve">
+    <value>Configurações</value>
+  </data>
+  <data name="sourceSettings_Tooltip" xml:space="preserve">
+    <value>Definições de origem selecionadas</value>
+  </data>
+  <data name="spApply" xml:space="preserve">
+    <value>Continuar</value>
+  </data>
+  <data name="spMessage" xml:space="preserve">
+    <value>O XSplit não foi encerrado corretamente da última vez que foi utilizado. Isto pode ter sido causado por diversos problemas referenciados &lt;a name="blog" href="https://xspl.it/bc/satbhu"&gt;neste link&lt;/a&gt;, podendo incluir erros de fonte ou programa. Se pretender comunicar um erro, clique &lt;a name="logreporter"&gt;aqui&lt;/a&gt;.</value>
+  </data>
+  <data name="spOptContinue" xml:space="preserve">
+    <value>Carregar a apresentação atual</value>
+  </data>
+  <data name="spOptCreateNew" xml:space="preserve">
+    <value>Criar uma nova apresentação (Desconsiderar a apresentação atual)</value>
+  </data>
+  <data name="spOptLoadFromFile" xml:space="preserve">
+    <value>Carregar uma apresentação anteriormente salva em arquivo</value>
+  </data>
+  <data name="spOptLoadFromRegistry" xml:space="preserve">
+    <value>Carregar uma apresentação anteriormente salva em uma cópia de segurança do sistema</value>
+  </data>
+  <data name="sPostAgain" xml:space="preserve">
+    <value>Publicar novamente</value>
+  </data>
+  <data name="StreamChannelIsEmpty" xml:space="preserve">
+    <value>O seu canal ainda não está disponível. Certifique-se de que introduziu corretamente as suas credenciais e que configurou adequadamente o seu canal no website do {0}.</value>
+  </data>
+  <data name="StreamNameIsEmpty" xml:space="preserve">
+    <value>É necessário especificar o nome da transmissão.</value>
+  </data>
+  <data name="tbpChannels" xml:space="preserve">
+    <value>Canais</value>
+  </data>
+  <data name="tbpGeneral" xml:space="preserve">
+    <value>Geral</value>
+  </data>
+  <data name="tbpHotkeys" xml:space="preserve">
+    <value>Teclas de Atalho</value>
+  </data>
+  <data name="tbpProfile" xml:space="preserve">
+    <value>Perfil</value>
+  </data>
+  <data name="tbpResolutions" xml:space="preserve">
+    <value>Resoluções</value>
+  </data>
+  <data name="tierVersionUpdateButton" xml:space="preserve">
+    <value>Atualizar para esta versão...</value>
+  </data>
+  <data name="titleConfigButton" xml:space="preserve">
+    <value>Configurar</value>
+  </data>
+  <data name="titleLabel" xml:space="preserve">
+    <value>Título</value>
+  </data>
+  <data name="toolsToolStripMenuItem" xml:space="preserve">
+    <value>&amp;Ferramentas</value>
+  </data>
+  <data name="transitionTimeTsmi" xml:space="preserve">
+    <value>Alterar a velocidade de transição</value>
+  </data>
+  <data name="transitionToolStripMenuItem" xml:space="preserve">
+    <value>&amp;Transição de Cenas</value>
+  </data>
+  <data name="txtDescription_Tooltip" xml:space="preserve">
+    <value>Descreva brevemente este canal.</value>
+  </data>
+  <data name="txtLink_Tooltip" xml:space="preserve">
+    <value>Este é o URL aonde a sua transmissão pode ser visualizada por outros usuários. Quando a transmissão começar, este link é automaticamente copiado para a área de transferência.</value>
+  </data>
+  <data name="txtName_Tooltip" xml:space="preserve">
+    <value>Nome atribuído a este canal para fácil identificação.</value>
+  </data>
+  <data name="txtPreset_ForInternalUseOnly" xml:space="preserve">
+    <value>Apenas para uso interno.</value>
+  </data>
+  <data name="txtPreset_Tooltip" xml:space="preserve">
+    <value>Apenas para uso interno.</value>
+  </data>
+  <data name="UpdateDialog_GetMoreInfo" xml:space="preserve">
+    <value>Obtenha mais informações sobre como atualizar a sua instalação atual do XSplit Broadcaster.</value>
+  </data>
+  <data name="UpdateDialog_NewReleaseFound" xml:space="preserve">
+    <value>Está disponível uma versão de teste mais recente em {0}.</value>
+  </data>
+  <data name="UpdateDialog_NoNewReleaseFound" xml:space="preserve">
+    <value>Não existem versões mais recentes disponíveis.</value>
+  </data>
+  <data name="UsernameIsEmpty" xml:space="preserve">
+    <value>É necessário especificar o Usuário.</value>
+  </data>
+  <data name="UsernameIsUnknown" xml:space="preserve">
+    <value>O Usuário é desconhecido.</value>
+  </data>
+  <data name="viewToolStripMenuItem" xml:space="preserve">
+    <value>&amp;Visualizar</value>
+  </data>
+  <data name="waveTransition" xml:space="preserve">
+    <value>Onda</value>
+  </data>
+  <data name="XSplitBroadcasterIsAlreadyRunning" xml:space="preserve">
+    <value>O XSplit Broadcaster já está em execução.</value>
+  </data>
+  <data name="XSplitNetIsNotAllowed" xml:space="preserve">
+    <value>O serviço MultiStream permite retransmitir para vários destinos a partir de uma transmissão. Com este serviço, também é possível conectar transmissões entre Usuários.
+
+Contacte a SplitMediaLabs para saber como utilizar o serviço MultiStream.</value>
+  </data>
+  <data name="XSplitNetNonPremiumNotice" xml:space="preserve">
+    <value>Atualmente, o serviço MultiStream está disponível apenas para quem fez a pré-venda de uma Licença Premium. Para encomendar uma Licença Premium clique em OK.</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgRecordingFileTypeLicenseOffer" xml:space="preserve">
+    <value>O tipo de arquivo de gravação {0} apenas está disponível apenas para usuários com licença. 
+
+Gostaria de comprar uma licença agora?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxAllowedResLicenseOffer" xml:space="preserve">
+    <value>As resoluções superiores a {0} têm uma marca d´água para usuários sem licença.
+
+Gostaria de comprar uma licença agora?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxAllowedFpsLicenseOffer" xml:space="preserve">
+    <value>As taxas de quadros superiores a {0} estão disponíveis apenas para usuários com licença. 
+
+Gostaria de comprar uma licença agora?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgFreeUserSimulcastLicenseOffer" xml:space="preserve">
+    <value>A versão gratuita do XSplit não permite a transmissão para vários canais simultaneamente.
+    
+Gostaria de comprar uma licença agora?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxBitrateIsTooLow" xml:space="preserve">
+    <value>A velocidade de transmissão máxima não pode ser inferior a {0} kbps.</value>
+  </data>
+  <data name="msgMaxBitrateIsTooLow_VBR" xml:space="preserve">
+    <value>A velocidade de transmissão máxima não pode ser inferior a {0} kbps.</value>
+  </data>
+  <data name="msgMaxBitrateIsTooLow_CBR" xml:space="preserve">
+    <value>A velocidade de transmissão não pode ser inferior a {0} kbps.</value>
+  </data>
+  <data name="chkGameSurfSharing" xml:space="preserve">
+    <value>Ativar otimização especial</value>
+  </data>
+  <data name="ControlIds.IDC_STATIC_SCENECUR" xml:space="preserve">
+    <value>Cena</value>
+  </data>
+  <data name="ControlIds.ID_FILE_ADDGAMESOURCE" xml:space="preserve">
+    <value>Adicionar &amp;jogo</value>
+  </data>
+  <data name="msgNetFxIsRequired" xml:space="preserve">
+    <value>O XSplit necessita do Microsoft .NET Framework {0} para ser executado.
+
+Gostaria de baixar e instalar o Microsoft .NET Framework {0} agora?</value>
+  </data>
+  <data name="servermessage_dlogtitle" xml:space="preserve">
+    <value>Login em mais de uma máquina identificado</value>
+  </data>
+  <data name="servermessage_dlogdesc" xml:space="preserve">
+    <value>A sua conta está ativa em outro computador. Se você pretende fazer login novamente, introduza as suas credenciais mais uma vez. Note que esta ação vai encerrar a sessão da sua conta no outro computador, o que irá interromper todas as transmissões em execução no momento.</value>
+  </data>
+  <data name="servermessage_fdistitle" xml:space="preserve">
+    <value>A sua sessão foi encerrada</value>
+  </data>
+  <data name="servermessage_fdisdesc" xml:space="preserve">
+    <value>A sua conta foi acessada por outro computador. A sessão neste cliente foi encerrada porque a sua licença permite o login em apenas uma máquina de cada vez. Se você pretende fazer login novamente, introduza as suas credenciais mais uma vez. Note que esta ação vai encerrar a sessão da sua conta no outro computador, o que irá interromper todas as transmissões em execução no momento.</value>
+  </data>
+  <data name="DefaultStageResolution" xml:space="preserve">
+    <value>Resolução de plano atual</value>
+  </data>
+  <data name="msgLocalLoginFailed" xml:space="preserve">
+    <value>Não é possível autenticar o usuário. Por favor, envie {0} para support@xsplit.com para análise.</value>
+  </data>
+  <data name="msgProjectorBuyPremiumOffer" xml:space="preserve">
+    <value>Esta funcionalidade necessita de uma licença Premium. Clique em OK para obter uma licença Premium.</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="picCopyChromaKey" xml:space="preserve">
+    <value>Copiar as configurações do chroma key</value>
+  </data>
+  <data name="btnPosCropEasyCrop" xml:space="preserve">
+    <value>Recorte rápido</value>
+  </data>
+  <data name="FailureSettingDirectoryAcl" xml:space="preserve">
+    <value>Não é possível definir as permissões necessárias para a pasta {0}.
+{1}</value>
+  </data>
+  <data name="chkKeepOnTop" xml:space="preserve">
+    <value>Manter o XSplit visível</value>
+  </data>
+  <data name="msgEasyCropPreReqPrompt" xml:space="preserve">
+    <value>Para recorte rápido, a escala tem que ser configurada para o tamanho atual e, em seguida, novamente configurada para a escala preferida. Pretende continuar?</value>
+  </data>
+  <data name="enableInternalRtmpServerToolStripMenuItem" xml:space="preserve">
+    <value>Ativar servidor de atraso...</value>
+  </data>
+  <data name="InternalRtmpServer" xml:space="preserve">
+    <value>Servidor de Atraso</value>
+  </data>
+  <data name="msgInternalServerBuyPremiumOffer" xml:space="preserve">
+    <value>Esta funcionalidade necessita de uma licença Premium. Clique em OK para obter uma licença Premium.</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="btnRefreshSource" xml:space="preserve">
+    <value>Atualizar</value>
+  </data>
+  <data name="growlFramerateAndResIsHighForWei" xml:space="preserve">
+    <value>O seu sistema pode não suportar a transmissão ou gravação sem problemas em {0} a {1:N2} fps.</value>
+  </data>
+  <data name="msgAddSkypeVideoSourceNotice" xml:space="preserve">
+    <value>Antes de capturar o vídeo do Skype, você deve clicar no interior da janela de video chamada do Skype. Clique primeiro na janela de video chamada do Skype e depois regresse e escolha este item de menu.</value>
+  </data>
+  <data name="msgAddSkypeVideoSourceNoticeGsDisabled" xml:space="preserve">
+    <value>Antes de capturar o vídeo do Skype, você deve ativar o GameSource no menu Ferramentas &gt; Definições gerais e, em seguida, clicar no interior da janela de video chamada do Skype. Ative o GameSource, clique na janela de video chamada do Skype e depois regresse e escolha este item de menu.</value>
+  </data>
+  <data name="LicenseExpiry" xml:space="preserve">
+    <value>A sua licença vai expirar em {0}.</value>
+  </data>
+  <data name="rtfSkypeHint" xml:space="preserve">
+    <value>A janela do monitor de chamadas do Skype pode causar a instabilidade do vídeo. 
+Para evitar isto, você pode desativar o monitor de chamadas no Skype:
+
+1. Acesse Ferramentas &gt; Opções
+2. Acesse Chamadas &gt; Definições de chamadas
+3. Clique no botão "Mostrar opções avançadas"
+4. Desmarque a opção "Mostrar controles da chamada quando o Skype estiver em segundo plano"</value>
+  </data>
+  <data name="faster_Tooltip" xml:space="preserve">
+    <value>Compressão média,
+Utilização de CPU média
+(NÃO TENTAR SEM UM I7)</value>
+  </data>
+  <data name="fast_Tooltip" xml:space="preserve">
+    <value>Compressão média-alta
+Utilização de CPU média-alta
+(NÃO TENTAR SEM UM I7 2GEN)</value>
+  </data>
+  <data name="medium_Tooltip" xml:space="preserve">
+    <value>Compressão alta
+Utilização de CPU alta
+(NÃO TENTAR SEM UM I7 2GEN)</value>
+  </data>
+  <data name="slow_Tooltip" xml:space="preserve">
+    <value>Compressão muito alta,
+Utilização de CPU muito alta
+(NÃO TENTAR SEM UMA CPU MONSTRO)</value>
+  </data>
+  <data name="superfast_Tooltip" xml:space="preserve">
+    <value>Compressão muito baixa
+Utilização de CPU muito baixa
+(RECOMENDADO PARA UMA CPU PEQUENA)</value>
+  </data>
+  <data name="veryfast" xml:space="preserve">
+    <value>muito rápido (padrão)</value>
+  </data>
+  <data name="veryfast_Tooltip" xml:space="preserve">
+    <value>Compressão razoável
+Utilização de CPU baixa
+(RECOMENDADO PARA A MAIORIA DOS USUÁRIOS)</value>
+  </data>
+  <data name="lblMaxFileSize" xml:space="preserve">
+    <value>Tamanho máximo de arquivos MP4:</value>
+  </data>
+  <data name="lblMaxFileSize_Tooltip" xml:space="preserve">
+    <value>Tamanho máximo de gravação por segmento (ex. 5120 kB, 5 MB, 2 GB).
+Indique zero (0) para manter um único arquivo (poderá causar problemas de gravação de arquivos em gravações MP4 longas).
+Se a unidade não for especificada, presume-se que o valor introduzido é em bytes.</value>
+  </data>
+  <data name="msgInvalidMaxRecordingFileSize" xml:space="preserve">
+    <value>Tamanho máximo de arquivo MP4 especificado.</value>
+  </data>
+  <data name="txtMaxFileSize_Tooltip" xml:space="preserve">
+    <value>Tamanho máximo de gravação por segmento (ex. 5120 kB, 5 MB, 2 GB).
+Indique zero (0) para manter um único arquivo (poderá causar problemas de gravação de arquivos em gravações MP4 longas).
+Se a unidade não for especificada, presume-se que o valor introduzido é em bytes.</value>
+  </data>
+  <data name="lnkAudioStutterGuide" xml:space="preserve">
+    <value>Problemas de áudio?</value>
+  </data>
+  <data name="msgBroadcastTerminated" xml:space="preserve">
+    <value>Your {0} broadcast was terminated.
+Please check your channel settings and confirm that you can stream by clicking the "{1}" button. &lt;a href="https://xspl.it/bc/s8s19t#{2:X}"&gt;Click here&lt;/a&gt; to learn more.</value>
+  </data>
+  <data name="lblGameImageHint" xml:space="preserve">
+    <value>A imagem offline será mostrada se não for detectado o jogo ou a origem (deixe em branco para tornar o Gamesource transparente)</value>
+  </data>
+  <data name="lblSkypeImageHint" xml:space="preserve">
+    <value>A imagem offline será mostrada se não for detectada uma transmissão de vídeo do Skype (deixe em branco para tornar o Gamesource transparente)</value>
+  </data>
+  <data name="msgAddSkypeNoticeGsDisabled" xml:space="preserve">
+    <value>A origem de vídeo do Skype necessita da função Gamesource para funcionar. Ative o Gamesource no menu Ferramentas &gt; Definições gerais e depois regresse e escolha este item no menu.</value>
+  </data>
+  <data name="msgInternetExplorerIsRequired" xml:space="preserve">
+    <value>O XSplit detectou que o Internet Explorer não está instalado.
+
+O XSplit necessita da versão 7 ou posterior do Internet Explorer para funcionar corretamente.
+
+Gostaria de obter a versão mais recente do Internet Explorer agora?</value>
+  </data>
+  <data name="msgInternetExplorerIsOld" xml:space="preserve">
+    <value>O XSplit detectou que está você está utilizando uma versão antiga do Internet Explorer.
+
+O XSplit necessita da versão 7 ou posterior do Internet Explorer para funcionar corretamente.
+
+Gostaria de obter a versão mais recente do Internet Explorer agora?</value>
+  </data>
+  <data name="MyRecordings_DirectoryFailedToOpen" xml:space="preserve">
+    <value>Falha ao abrir o diretório "{0}".</value>
+  </data>
+  <data name="MyRecordings_DirectoryNotFound" xml:space="preserve">
+    <value>O diretório "{0}" não existe.</value>
+  </data>
+  <data name="msgAmdRadeonHd7xxxWarning" xml:space="preserve">
+    <value>O XSplit detectou que você está utilizando uma placa gráfica AMD Radeon HD série 7xxx que pode ser incompatível com o XSplit.
+
+Clique &lt;a href="{0}"&gt;aqui&lt;/a&gt; para mais informações.
+
+&lt;a name="dontshowagain"&gt;Não me mostre novamente.&lt;/a&gt;</value>
+  </data>
+  <data name="msgDefaultStageResolutionWarning AVerMedia H.264 Encoder" xml:space="preserve">
+    <value>As definições de resolução e/ou taxa de quadros não são mantidas na sua conta e tem que ser definidas novamente em cada início de sessão.</value>
+  </data>
+  <data name="chkWinXPSound" xml:space="preserve">
+    <value>Utilizar o som do WinXP</value>
+  </data>
+  <data name="msgLicenseOffer_libh264aver" xml:space="preserve">
+    <value>Com a placa de captura AVerMedia c985 Live Gamer instalada na sua estação de trabalho, agora é possível utilizar o codificador de hardware incorporado com o XSplit. Esta funcionalidade está disponível apenas para usuários com licença Premium. Considere atualizar a sua licença atual para uma licença Premium.[br][br] Gostaria de atualizar a sua licença agora?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgLicenseOffer_libh264aver1" xml:space="preserve">
+    <value>A sua licença não permite a utilização do codificador incorporado da placa gráfica {0}. O XSplit vai mudar para o codificador {1} padrão.</value>
+  </data>
+  <data name="msgNoNetNoLocal" xml:space="preserve">
+    <value>O XSplit não detectou uma conexão com a Internet. É necessário estar conectado para iniciar uma sessão pela primeira vez neste computador.</value>
+  </data>
+  <data name="msgMaintModeHasLocal" xml:space="preserve">
+    <value>{0} XSplit will proceed to log in in offline mode which will allow you to use most functions not requiring a direct XSplit server connection.</value>
+    <comment>do not translate</comment>
+  </data>
+  <data name="msgMaintModeNoLocal" xml:space="preserve">
+    <value>{0} A conexão aos servidores XSplit é necessária ao iniciar uma sessão pela primeira vez neste computador. Tente novamente mais tarde.</value>
+    <comment>do not translate</comment>
+  </data>
+  <data name="PreviewMain_confApplyPreviewToActual" xml:space="preserve">
+    <value>Aplicar conteúdo da cena de pré-visualização à cena atual?</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromFile" xml:space="preserve">
+    <value>A cena de pré-visualização foi modificada. Pretende eliminar as alterações e salvar o conteúdo do arquivo de cena salvo na janela de pré-visualização?</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromFile_InvalidSceneFile" xml:space="preserve">
+    <value>O arquivo de cena não é válido.</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromScene" xml:space="preserve">
+    <value>Você está prestes a mudar para outra cena, mas você modificou a cena atual. Aplicar as alterações para "{0}"?</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_Revert" xml:space="preserve">
+    <value>A cena de pré-visualização foi modificada. Pretende eliminar as alterações e reverter para o conteúdo de cena atual?</value>
+  </data>
+  <data name="PreviewMain_confSavePreviewBeforeClose" xml:space="preserve">
+    <value>A cena de pré-visualização foi modificada. Pretende aplicar as alterações à cena atual antes de fechar?</value>
+  </data>
+  <data name="PreviewMain_confPreviewGoLive" xml:space="preserve">
+    <value>Transmitir a cena de pré-visualização?</value>
+  </data>
+  <data name="PreviewPIP_msgBottom" xml:space="preserve">
+    <value>Clique com o botão direito no botão da cena para editar na Janela de Pré-Visualização</value>
+  </data>
+  <data name="PreviewPIP_msgTop" xml:space="preserve">
+    <value>Foto de "{0}"</value>
+  </data>
+  <data name="btnPosCropEasyCrop_Tooltip" xml:space="preserve">
+    <value>Esta ferramenta pode dimensionar temporariamente a viewport para o tamanho atual e repor as definições de posição 3D do item de vídeo durante a utilização.</value>
+  </data>
+  <data name="msgAddinLoadedFromPreviosSession" xml:space="preserve">
+    <value>Alguns plugins já carregados na sessão XSplit atual não estão disponíveis na sua conta de usuário. Para recarregar os plugins associados à sua conta é necessário reiniciar o XSplit.</value>
+  </data>
+  <data name="StartStreamLicenseNotice_Watermarked" xml:space="preserve">
+    <value>A transmissão para {0} necessita de uma licença XSplit. Será ativada a marca d´água.
+
+Gostaria de comprar uma licença agora?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="StartStreamLicenseNotice_Disallowed" xml:space="preserve">
+    <value>A transmissão para {0} necessita de uma licença XSplit.
+
+Gostaria de comprar uma licença agora?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaintMode" xml:space="preserve">
+    <value>O XSplit está sendo executado no modo de manutenção.</value>
+  </data>
+  <data name="msgFinalizingRecordings" xml:space="preserve">
+    <value>As suas gravações recentes ainda estão sendo finalizadas. Este processo poderá demorar vários minutos dependendo do tamanho do arquivo.
+
+Se abortar este processo agora, as suas gravações continuarão a ser reproduzíveis no seu software mas poderão ter que ser reprocessadas antes do carregamento nos sites de vídeo.
+
+Pretende abortar a finalização agora?</value>
+  </data>
+  <data name="tsmiAddAudioDevice" xml:space="preserve">
+    <value>Áudio (&amp;A)</value>
+  </data>
+  <data name="tsmiAddAudioDevice2" xml:space="preserve">
+    <value>Áudio (&amp;A)</value>
+  </data>
+  <data name="msgFinalizeRecordingFileStarted" xml:space="preserve">
+    <value>Pós-processamento de {0} iniciado.</value>
+  </data>
+  <data name="msgFinalizeRecordingFileFinished" xml:space="preserve">
+    <value>Pós-processamento de {0} concluído.</value>
+  </data>
+  <data name="msgResponseProcessingFailedHasLocal" xml:space="preserve">
+    <value>XSplit was unable to log you in.
+
+The error has been logged into {0}.
+
+If this problem persists, please contact support@xsplit.com and attach the log file.
+
+XSplit will proceed to log in in offline mode which will allow you to use most functions.</value>
+  </data>
+  <data name="msgResponseProcessingFailedNoLocal" xml:space="preserve">
+    <value>O XSplit não conseguiu iniciar a sessão.
+
+O erro ficou registado em {0}.
+
+Se o problema persistir, contate support@xsplit.com e anexe o arquivo de relatório.</value>
+  </data>
+  <data name="msgStreamResolutionIsNotSupportedResolution" xml:space="preserve">
+    <value>A sua resolução atual não é suportada pelo codificador de hardware.
+O seu vídeo será codificado utilizando a resolução suportada mais próxima (sem perda de qualidade).
+
+Consulte a &lt;a href="{0}"&gt;documentação do XSplit&lt;/a&gt; para maiores informações.</value>
+  </data>
+  <data name="msgUpdateCheckOffline" xml:space="preserve">
+    <value>Não é possível procurar atualizações no modo offline.</value>
+  </data>
+  <data name="msgLatestNewsFailedLoadDoc" xml:space="preserve">
+    <value>Não existem notícias disponíveis.</value>
+  </data>
+  <data name="msgGeneralGameSourceConflict" xml:space="preserve">
+    <value>O(s) seguinte(s) processo(s) podem(rão) ter problemas com o XSplit. Você pode tentar fechar estes processos se achar que as funcionalidades do XSplit não estão funcionando da forma esperada.
+
+{0}</value>
+  </data>
+  <data name="msgDroppedFrameThresholdHit" xml:space="preserve">
+    <value>Quadros Ignorados detectados. A qualidade da transmissão poderá ser afetada.
+
+&lt;a href="https://xspl.it/bc/tz7q3i" name="learnmore"&gt;Clique aqui&lt;/a&gt; para ajuda na análise do problema.</value>
+  </data>
+  <data name="msgRecordingsAbortedOnDiskFullError" xml:space="preserve">
+    <value>A gravação foi interrompida. Verifique se o seu disco está cheio.</value>
+  </data>
+  <data name="msgRecordingsAbortedOnDiskFull" xml:space="preserve">
+    <value>Não é possível iniciar a gravação. Verifique se o seu disco está cheio.</value>
+  </data>
+  <data name="msgRecordingsStoppedOnInsufficientDiskSpace" xml:space="preserve">
+    <value>A gravação foi interrompida. Verifique se você possui, no mínimo, {0} de espaço livre disponível.</value>
+  </data>
+  <data name="msgRecordingsAbortedOnInsufficientDiskSpace" xml:space="preserve">
+    <value>Não é possível iniciar a gravação. Verifique se você possui, no mínimo, {0} de espaço livre disponível.</value>
+  </data>
+  <data name="chkScrCapMethod1" xml:space="preserve">
+    <value>Aplicar otimização especial</value>
+  </data>
+  <data name="chkScrCapOptCapture1" xml:space="preserve">
+    <value>Otimizar captura de janela</value>
+  </data>
+  <data name="lblScrCapMethod1Hint" xml:space="preserve">
+    <value>(Experimental)</value>
+  </data>
+  <data name="lblScrCapOptCapture1" xml:space="preserve">
+    <value>(Funciona apenas no tema Aero)</value>
+  </data>
+  <data name="BandwidthTesterCountdown" xml:space="preserve">
+    <value>Teste de largura de banda - {0} segundo(s) restante(s)</value>
+  </data>
+  <data name="chkScrCapMethod0" xml:space="preserve">
+    <value>Modo Legado</value>
+  </data>
+  <data name="showViewportToolStripMenuItem" xml:space="preserve">
+    <value>Mostrar viewport</value>
+  </data>
+  <data name="lblGameSurfSharing" xml:space="preserve">
+    <value>(Experimental)</value>
+  </data>
+  <data name="hideViewportToolStripMenuItem" xml:space="preserve">
+    <value>Ocultar viewport</value>
+  </data>
+  <data name="AAC LC HQ_Tooltip" xml:space="preserve">
+    <value>Complexidade AAC Baixa para Velocidade de Transmissão Média e Alta</value>
+  </data>
+  <data name="AAC LC LQ_Tooltip" xml:space="preserve">
+    <value>Complexidade AAC Baixa Velocidade de Transmissão Baixa</value>
+  </data>
+  <data name="Speex_Tooltip" xml:space="preserve">
+    <value>Speex</value>
+  </data>
+  <data name="MP3_Tooltip" xml:space="preserve">
+    <value>MP3</value>
+  </data>
+  <data name="btnColorChromaEyedropCK_Tooltip" xml:space="preserve">
+    <value>Escolha a tonalidade/cor que pretende remover</value>
+  </data>
+  <data name="picColorChromaHueCK_Tooltip" xml:space="preserve">
+    <value>Tonalidade/cor que você pretende remover</value>
+  </data>
+  <data name="picColorChromaRangeCK_Tooltip" xml:space="preserve">
+    <value>Margem de tolerância para tonalidade/cor selecionada (gama de tonalidade/cor)</value>
+  </data>
+  <data name="picColorChromaRangeAlphaCK_Tooltip" xml:space="preserve">
+    <value>Suavização alfa para contornos (suaviza os contornos das áreas removidas)</value>
+  </data>
+  <data name="picColorChromaSatCK_Tooltip" xml:space="preserve">
+    <value>Excluir pixels abaixo desta saturação no Chroma (Corrige ruído)</value>
+  </data>
+  <data name="picColorChromaBrightnessCK_Tooltip" xml:space="preserve">
+    <value>Excluir pixels abaixo desta luminosidade no Chroma (Corrige ruído)</value>
+  </data>
+  <data name="lblChannel" xml:space="preserve">
+    <value>Canal</value>
+  </data>
+  <data name="lblNACodec" xml:space="preserve">
+    <value>Codec</value>
+  </data>
+  <data name="lblNAudioBitrate" xml:space="preserve">
+    <value>Bitrate (kbps)</value>
+  </data>
+  <data name="lblNAudioFormat" xml:space="preserve">
+    <value>Format</value>
+  </data>
+  <data name="lblNBuffer1" xml:space="preserve">
+    <value>VBV Buffer</value>
+  </data>
+  <data name="lblNBuffer2" xml:space="preserve">
+    <value>(kbit)</value>
+  </data>
+  <data name="lblNCodec" xml:space="preserve">
+    <value>Codec</value>
+  </data>
+  <data name="lblNExtra" xml:space="preserve">
+    <value>Extra Param</value>
+  </data>
+  <data name="lblNMaxBitrate_CBR" xml:space="preserve">
+    <value>Bitrate (kbps)</value>
+  </data>
+  <data name="lblNMaxBitrate_VBR" xml:space="preserve">
+    <value>Max Bitrate (kbps)</value>
+  </data>
+  <data name="lblNMaxKeyint1" xml:space="preserve">
+    <value>Keyframes</value>
+  </data>
+  <data name="lblNMaxKeyint2" xml:space="preserve">
+    <value>(secs)</value>
+  </data>
+  <data name="lblNPreset" xml:space="preserve">
+    <value>Preset</value>
+  </data>
+  <data name="lblNQuality" xml:space="preserve">
+    <value>Qualidade</value>
+  </data>
+  <data name="lblNResolution" xml:space="preserve">
+    <value>Tamanho do vídeo</value>
+  </data>
+  <data name="lblNVExtra_NoData" xml:space="preserve">
+    <value>sem dados</value>
+  </data>
+  <data name="lblNVExtra_WithData" xml:space="preserve">
+    <value>com dados</value>
+  </data>
+  <data name="lblQMode" xml:space="preserve">
+    <value>Modo</value>
+  </data>
+  <data name="lblStrictCBR" xml:space="preserve">
+    <value>Strict CBR</value>
+  </data>
+  <data name="lblTestBW" xml:space="preserve">
+    <value>Testar largura de banda</value>
+  </data>
+  <data name="lblVideoEncoding" xml:space="preserve">
+    <value>Codificação de Vídeo</value>
+  </data>
+  <data name="lblAudioEncoding" xml:space="preserve">
+    <value>Codificação de Áudio</value>
+  </data>
+  <data name="chkCBR" xml:space="preserve">
+    <value>Aplicar CBR restrito</value>
+  </data>
+  <data name="lblDefault" xml:space="preserve">
+    <value>Restaurar</value>
+  </data>
+  <data name="lblExtra" xml:space="preserve">
+    <value>Parâmetros de codificador extra:</value>
+  </data>
+  <data name="lblKeyInt" xml:space="preserve">
+    <value>Intervalo de Quadro-chave máximo (seg):</value>
+  </data>
+  <data name="lblPreset2" xml:space="preserve">
+    <value>Codificador Predefinido:</value>
+  </data>
+  <data name="lblVecTitle" xml:space="preserve">
+    <value>Configuração de codificação de vídeo</value>
+  </data>
+  <data name="rb1_Audio" xml:space="preserve">
+    <value>Áudio</value>
+  </data>
+  <data name="msgSwitchingToRE2" xml:space="preserve">
+    <value>O seu hardware gráfico não suporta o D3D 11 versão 10.1. O XSplit irá reverter para o motor de compressão legado.
+
+&lt;a href="http://#" name="dontshowagain"&gt;Não voltar a mostrar novamente.&lt;/a&gt;</value>
+  </data>
+  <data name="msgCloseWhileStreaming" xml:space="preserve">
+    <value>A stream/recording is currently active. Are you sure you want to log out/exit?</value>
+  </data>
+  <data name="chkEnhanceResize" xml:space="preserve">
+    <value>Otimizar redimensionamento</value>
+  </data>
+  <data name="chkEnableEvrMf" xml:space="preserve">
+    <value>Ativar renderizador otimizado</value>
+  </data>
+  <data name="chkEnableEvrMf_Tooltip" xml:space="preserve">
+    <value>Esta opção melhora o desempenho geral da maioria dos sistemas.
+Esta opção será a padrão no lançamento da próxima versão do XSplit.</value>
+  </data>
+  <data name="lblEnableEvrMfHint" xml:space="preserve">
+    <value>(Experimental, é necessário reiniciar)</value>
+  </data>
+  <data name="lblEnableEvrMfHint_Tooltip" xml:space="preserve">
+    <value>Esta opção melhora o desempenho geral da maioria dos sistemas.
+Esta opção será a padrão no lançamento da próxima versão do XSplit.</value>
+  </data>
+  <data name="BwTester_Autosel" xml:space="preserve">
+    <value>Determinando o melhor servidor...</value>
+  </data>
+  <data name="BwTester_Autosel1" xml:space="preserve">
+    <value>Tentando transmitir para {0}</value>
+  </data>
+  <data name="lblHotkeyWarning" xml:space="preserve">
+    <value>Você pode utilizar teclas de atalho para ativar mudanças de cena e outros comandos através do seu teclado, mesmo durante um jogo ou outra aplicação</value>
+  </data>
+  <data name="GlobalHotkeyWarningText" xml:space="preserve">
+    <value>As suas teclas de atalho do XSplit podem ser ativadas a partir de outras aplicações. Certifique-se de que as teclas de atalho configuradas no XSplit não estejam em conflito com aplicações ou jogos que as utilize ao mesmo tempo.</value>
+  </data>
+  <data name="WarningTitle" xml:space="preserve">
+    <value>Aviso</value>
+  </data>
+  <data name="InformationTitle" xml:space="preserve">
+    <value>Informações</value>
+  </data>
+  <data name="BroadcastStatus_Live" xml:space="preserve">
+    <value>{0} Em transmissão</value>
+  </data>
+  <data name="BroadcastStatus_SendingFrames" xml:space="preserve">
+    <value>{0} Enviando quadros</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally" xml:space="preserve">
+    <value>Gravando Localmente</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally2" xml:space="preserve">
+    <value>Recording {0}</value>
+  </data>
+  <data name="removeChannelsToolStripMenuItem" xml:space="preserve">
+    <value>Remover canal...</value>
+  </data>
+  <data name="removeChannelsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>Remover esta saída</value>
+  </data>
+  <data name="msgUncPathIsNotSupported" xml:space="preserve">
+    <value>A pasta de rede não é suportada. Tente mapear a pasta de rede para uma unidade e defina a localização das suas gravações para essa unidade.</value>
+  </data>
+  <data name="lblDecklinkPlayoutIntro" xml:space="preserve">
+    <value>Com o Decklink Playout, você pode transmitir/reproduzir vídeo e áudio do XSplit diretamente para a sua placa de captura Blackmagic Design Decklink. Utilize esta funcionalidade para reproduzir uma transmissão HDMI com vídeo e áudio do XSplit.</value>
+  </data>
+  <data name="lblDecklinkPlayoutTo" xml:space="preserve">
+    <value>Reproduzir para:</value>
+  </data>
+  <data name="lblDecklinkPlayoutResFps" xml:space="preserve">
+    <value>Resoluções e taxas de quadros suportadas:
+{0}
+
+A resolução e taxa de quadros do XSplit deve corresponder ao formato de vídeo da Blackmagic Media Express.
+
+Esta funcionalidade necessita que a câmera virtual esteja ativada em Ferramentas &gt; Configurações gerais.</value>
+  </data>
+  <data name="msgLicenseOffer_libh264qs" xml:space="preserve">
+    <value>O codificador QuickSync está disponível apenas para usuários com licença {0}. Considere atualizar a sua licença atual.
+
+Gostaria de atualizar a sua licença agora?</value>
+  </data>
+  <data name="msgLicenseOffer_libh264qsext" xml:space="preserve">
+    <value>O codificador QuickSync está disponível apenas para usuários com licença {0}. Considere atualizar a sua licença atual.
+
+Gostaria de atualizar a sua licença agora?</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_SCENECUR" xml:space="preserve">
+    <value>Cena</value>
+  </data>
+  <data name="msgLicenseOffer_AAC" xml:space="preserve">
+    <value>A ativação do áudio AAC de melhor qualidade está disponível apenas para utilizadores com licença XSplit.
+
+Gostaria de atualizar a sua licença agora?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgCantReconfigureYet" xml:space="preserve">
+    <value>No momento, não é possível reconfigurar a transmissão. Por favor, tente novamente mais tarde.</value>
+  </data>
+  <data name="lblEnterCaptcha" xml:space="preserve">
+    <value>Introduzir código</value>
+  </data>
+  <data name="msgNotLiveForAnnounce" xml:space="preserve">
+    <value>Você tem que iniciar a transmissão antes de poder anunciar nas redes sociais.</value>
+  </data>
+  <data name="titleNotLiveForAnnounce" xml:space="preserve">
+    <value>Hey! Você precisa estar ao vivo.</value>
+  </data>
+  <data name="LocalStreamingNonPremiumNotice" xml:space="preserve">
+    <value>Esta funcionalidade está disponível apenas para usuários com licença Pessoal ou Premium. Clique em Sim para obter a sua licença e começar a usufruir de todo o potencial do XSplit Broadcaster!</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgSkypeVideoSourceBuyXSplitOffer" xml:space="preserve">
+    <value>Esta funcionalidade está disponível apenas para usuários com licença Pessoal ou Premium. Clique em Sim para obter a sua licença e começar a usufruir de todo o potencial do XSplit Broadcaster!</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="RoxioGameCaptureNotice" xml:space="preserve">
+    <value>Esta funcionalidade está disponível apenas para usuários com licença Pessoal ou Premium. Clique em Sim para obter a sua licença e começar a usufruir de todo o potencial do XSplit Broadcaster!</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="HauppaugeHdPvr2Notice" xml:space="preserve">
+    <value>Esta funcionalidade está disponível apenas para usuários com licença Pessoal ou Premium. Clique em Sim para obter a sua licença e começar a usufruir de todo o potencial do XSplit Broadcaster!</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="titleShareFailed" xml:space="preserve">
+    <value>Falha ao compartilhar</value>
+  </data>
+  <data name="msgRecordingPathIsTooLong" xml:space="preserve">
+    <value>O caminho de gravação {0} é longo demais. Defina um caminho de gravação mais curto.</value>
+  </data>
+  <data name="msgGamesourceUpdateNeedsRestart" xml:space="preserve">
+    <value>O XSplit Broadcaster inclui um componente de Captura de Jogo atualizado, mas mas existe atualmente um componente mais antigo carregado no seu sistema. Reinicie o computador e execute novamente o XSplit Broadcaster.</value>
+  </data>
+  <data name="msgGamesourceCantLoadMayNeedRestart" xml:space="preserve">
+    <value>O XSplit Broadcaster detectou um comportamento anormal durante o carregamento do componente de Captura de Jogo. Tente novamente ou reinicie o computador para limpar a memória do sistema.</value>
+  </data>
+  <data name="msgProfileSyncFailed" xml:space="preserve">
+    <value>O seu pedido anterior para definições de perfil foi recusado.
+
+{0}</value>
+  </data>
+  <data name="msgCantRemoveResolution" xml:space="preserve">
+    <value>Não é possível remover a resolução selecionada. Selecione outra resolução.</value>
+  </data>
+  <data name="msgCantDeleteChannel" xml:space="preserve">
+    <value>Não é possível eliminar o canal.</value>
+  </data>
+  <data name="msgCantCreateRecordingFile" xml:space="preserve">
+    <value>Não é possível gravar o arquivo em '{0}'. Certifique-se de que tem permissões suficientes para gravar nessa pasta.</value>
+  </data>
+  <data name="activationReminderTitle" xml:space="preserve">
+    <value>Lembrete</value>
+  </data>
+  <data name="msgStreamResolutionIsNotSupportedResolution1" xml:space="preserve">
+    <value>A resolução atual não é suportada pelo codificador de hardware.
+O seu vídeo será codificado usando a resolução suportada mais próxima possível (sem perda de qualidade).</value>
+  </data>
+  <data name="msgBwtestTerminated" xml:space="preserve">
+    <value>O seu teste da largura de banda {0} terminou.
+Verifique as configurações do seu canal.</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally_Paused" xml:space="preserve">
+    <value>Gravação pausada. Pressione {0} para retomar</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally_Paused1" xml:space="preserve">
+    <value>Gravação Pausada</value>
+  </data>
+  <data name="WatermarkOn" xml:space="preserve">
+    <value>Marca d'água Ativada</value>
+  </data>
+  <data name="CustomFramerateLabel1" xml:space="preserve">
+    <value>(personalizado...)</value>
+  </data>
+  <data name="PreviewWindow" xml:space="preserve">
+    <value>Editor de pré-visualização</value>
+  </data>
+  <data name="msgPausedRecordingWarning" xml:space="preserve">
+    <value>Uma gravação em curso está pausada. Se pretende retomar a gravação, pressione {0}.
+
+Pretende interromper a gravação?</value>
+  </data>
+  <data name="msgPausedRecordingWarning1" xml:space="preserve">
+    <value>Uma gravação em curso está pausada. Se pretende retomar a gravação, clique em "{0}" no menu {1}.
+
+Pretende interromper a gravação?</value>
+  </data>
+  <data name="addGameAutoDetect" xml:space="preserve">
+    <value>Detecção automática</value>
+  </data>
+  <data name="addGameAutoDetect1" xml:space="preserve">
+    <value>Jogo: Detecção automática</value>
+  </data>
+  <data name="lblNBuffer1_Tooltip" xml:space="preserve">
+    <value>VBV Buffer</value>
+  </data>
+  <data name="lblNExtra_Tooltip" xml:space="preserve">
+    <value>Extra Param</value>
+  </data>
+  <data name="lblNMaxKeyint1_Tooltip" xml:space="preserve">
+    <value>Keyframe Interval</value>
+  </data>
+  <data name="lblNPreset_Tooltip" xml:space="preserve">
+    <value>Preset</value>
+  </data>
+  <data name="lblNQuality_Tooltip" xml:space="preserve">
+    <value>Qualidade</value>
+  </data>
+  <data name="lblNResolution_Tooltip" xml:space="preserve">
+    <value>Tamanho do vídeo</value>
+  </data>
+  <data name="lblStrictCBR_Tooltip" xml:space="preserve">
+    <value>Strict CBR</value>
+  </data>
+  <data name="runLogReportToolToolStripMenuItem" xml:space="preserve">
+    <value>Reportar um problema...</value>
+  </data>
+  <data name="logoutToolStripMenuItem" xml:space="preserve">
+    <value>Terminar sessão</value>
+  </data>
+  <data name="growlStreamIsDelayed" xml:space="preserve">
+    <value>Atraso de transmissão ativado. A transmissão ao vivo irá começar em {0} segundos...</value>
+  </data>
+  <data name="growlStreamIsDelayedStopping" xml:space="preserve">
+    <value>A sua transmissão {0} tem o atraso ativado e vai continuar a enviar dados durante {1} segundos...</value>
+  </data>
+  <data name="chkRecordStream_Tooltip" xml:space="preserve">
+    <value>Exceto se for utilizada a função de atraso, isto cria uma cópia do que é codificado.
+Você pode rever este arquivo para verificar se ocorreram interrupções ou perdas de quadros durante a codificação.</value>
+  </data>
+  <data name="AddWebUrl" xml:space="preserve">
+    <value>Adicionar URL da página web</value>
+  </data>
+  <data name="AddRtmpStream" xml:space="preserve">
+    <value>Adicionar transmissão RTMP</value>
+  </data>
+  <data name="AddScriptPlugin" xml:space="preserve">
+    <value>Adicionar extensão personalizada</value>
+  </data>
+  <data name="lblAudioOut" xml:space="preserve">
+    <value>Som do sistema</value>
+  </data>
+  <data name="StopLocalRecording" xml:space="preserve">
+    <value>Parar gravação local</value>
+  </data>
+  <data name="PauseLocalRecording" xml:space="preserve">
+    <value>Pausar gravação local</value>
+  </data>
+  <data name="ResumeLocalRecording" xml:space="preserve">
+    <value>Retomar gravação local</value>
+  </data>
+  <data name="msgMixerFpsNotSupportedByVideoCodec" xml:space="preserve">
+    <value>{0} apenas suporta a seguinte taxa de quadros durante a codificação. 
+
+{1}
+
+Por favor faça a correspondência da taxa de quadros de saíde no menu "Visualizar &gt; Taxa de Quadros".</value>
+  </data>
+  <data name="msgVideoCodecMaxEncodeLimited" xml:space="preserve">
+    <value>{0} apenas suporta até {1} codificações simultâneas por vez.</value>
+  </data>
+  <data name="frmFeedback" xml:space="preserve">
+    <value>Adoraríamos ouvir a sua opinião!</value>
+  </data>
+  <data name="msgdiskwritefailure_recording" xml:space="preserve">
+    <value>A gravação foi interrompida devido a uma falha de disco.</value>
+  </data>
+  <data name="msgdiskwritefailure_streaming" xml:space="preserve">
+    <value>A gravação foi interrompida devido a uma falha no disco rígido. A sua transmissão não foi interrompida.</value>
+  </data>
+  <data name="msgRE2ParameterWarning" xml:space="preserve">
+    <value>O parâmetro exe "{0}" foi detectado. Esta opção não é mais recomendada.</value>
+  </data>
+  <data name="growlMinAvailMemWarning" xml:space="preserve">
+    <value>O XSplit está utilizando níveis elevados de memória, o que pode causar instabilidade. As origens que estão ocultas e não são utilizadas continuam a utilizar memória. Para resolver este problema, remova algumas origens na apresentação.
+
+Para obter mais ajuda consulte &lt;a href="{0}" name="memstats" &gt;esta&lt;/a&gt; publicação no blog.</value>
+  </data>
+  <data name="growlD3dOnIntelWarning" xml:space="preserve">
+    <value>Você está executando o XSplit com uma Intel HD Graphics. Recomendamos uma GPU Nvidia ou Radeon Class dedicada para garantir estabilidade e desempenho.</value>
+  </data>
+  <data name="growlD3dOnIntelWarningHasOtherGPUOnDesktop" xml:space="preserve">
+    <value>Seu monitor principal está conectado a sua Intel HD GPU. Recomenda-se conectar o seu monitor principal a sua Nvidia ou Radeon GPU dedicada para estabilidade e desempenho. &lt;a href="https://xspl.it/bhg75v" name="learnmore"&gt;Clique aqui&lt;/a&gt; para maiores detalhes</value>
+  </data>
+  <data name="growlMp4FinalizationFailed" xml:space="preserve">
+    <value>A desfragmentação da gravação não foi concluída para "{0}".
+
+Pode ser necessário reparar o arquivo abrindo o menu Ferramentas -&gt; Gravações e clicando com o botão direito no arquivo.</value>
+  </data>
+  <data name="growlRestartingWithEncoderError" xml:space="preserve">
+    <value>A codificação falhou e será reiniciada, leia &lt;a href="https://xspl.it/err/{2}"&gt; este post&lt;/a&gt; para obter maiores informações. Arquivo de destino "{0}" foi renomeado para "{1}".</value>
+  </data>
+  <data name="growlRestartingWithEncoderError2" xml:space="preserve">
+    <value>A codificação falhou e será reiniciada, leia &lt;a href="https://xspl.it/err/{1}"&gt; este post&lt;/a&gt; para obter maiores informações. O arquivo de destino "{0}" será sobrescrito.</value>
+  </data>
+  <data name="growlDesktopCaptureOnAeroWarning" xml:space="preserve">
+    <value>A captura do ambiente de trabalho no Aero não é recomendada e pode afetar o desempenho do XSplit. Se for necessário capturar o ambiente de trabalho, altere o seu tema para o Windows 7 Basic. Saiba mais &lt;a name="readmore" href="https://xspl.it/bc/jn2qeo"&gt;aqui&lt;/a&gt;.
+
+&lt;a name="dontshowagain"&gt;Não voltar a mostrar.&lt;/a&gt;</value>
+  </data>
+  <data name="msgStreamingUnsupportedVideoCodec1" xml:space="preserve">
+    <value>A sua transmissão {0} foi terminada. Certifique-se de que as funções de captura ou codificador {1} não estão a sendo utilizadas por outra aplicação</value>
+  </data>
+  <data name="msgConfirmStreamingCodecInStage" xml:space="preserve">
+    <value>O seu {0} não suporta a codificação de hardware enquanto está sendo utilizado como origem de captura. Para utilizar o codificador de hardware, remova-o primeiro como origem de captura da(s) sua(s) cena(s). Pretende alterar para o codificador {1} padrão?
+
+Para maiores informações sobre a utilização e resolução de problemas da sua placa de captura {0}, clique no botão "Ajuda".</value>
+  </data>
+  <data name="msgStreamingUnsupportedVideoCodec2Confirm" xml:space="preserve">
+    <value>A placa {0} apenas suporta a codificação para um canal, {1} já está a sendo utilizado para transmitir no seu canal {2}. Pretende alterar para o codificador {3} padrão?
+
+Para maiores informações sobre a utilização e resolução de problemas da sua placa de captura {0}, clique no botão "Ajuda".</value>
+  </data>
+  <data name="msgCefGpuRendererStateChangedWarning" xml:space="preserve">
+    <value>Foi detectado uma mudança no estado de renderização da GPU. O XSplit Broadcaster será reiniciado para uma melhor utilização.</value>
+  </data>
+  <data name="volumeRange" xml:space="preserve">
+    <value>Intervalo de volume (%): {0}</value>
+  </data>
+  <data name="goLiveAndCloseSceneEditorTsmi" xml:space="preserve">
+    <value>Fechar a janela de pré-visualização</value>
+  </data>
+  <data name="goLiveAndReloadSceneEditor" xml:space="preserve">
+    <value>Recarregar a janela de pré-visualização</value>
+  </data>
+  <data name="goLiveAndSwapLiveWithSceneEditor" xml:space="preserve">
+    <value>Trocar o Ao Vivo por Pré-visualização</value>
+  </data>
+  <data name="goLiveAndSwitchSceneEditor" xml:space="preserve">
+    <value>Alterar cena da janela de pré-visualização para</value>
+  </data>
+  <data name="goLiveAndSwitchToLiveSceneEditor" xml:space="preserve">
+    <value>Cena ao vivo</value>
+  </data>
+  <data name="goLiveAndSwitchToLiveSceneSplit" xml:space="preserve">
+    <value>Cena ao vivo</value>
+  </data>
+  <data name="growlNonDefaultStreamResFpsXbc5003" xml:space="preserve">
+    <value>Você selecionou para gravar/transmitir com uma taxa de resolução/quadros ({0}) diferente do que a taxa de resolução/quadro da cena atual ({1}). Você pode mudar a taxa de resolução/quadros para padrão na seção de codificação de vídeo na janela de configurações de saída.</value>
+  </data>
+  <data name="growlNonDefaultStreamResFps" xml:space="preserve">
+    <value>Você selecionou para gravar/transmitir com uma taxa de resolução/quadros ({0}) diferente do que a taxa de resolução/quadro da cena atual ({1}). Você pode mudar a taxa de resolução/quadros para padrão na seção de codificação de vídeo na janela de configurações do plugin de transmissão.</value>
+  </data>
+  <data name="growlNonDefaultStreamResFpsForInvalidLicense" xml:space="preserve">
+    <value>Você selecionou para gravar/transmitir com uma taxa de resolução/quadros ({0}) diferente do que a taxa de resolução/quadro atual ({1}).</value>
+  </data>
+  <data name="chkStreamDelay" xml:space="preserve">
+    <value>Ativar o Atraso de Transmissão</value>
+  </data>
+  <data name="lblStreamDelay" xml:space="preserve">
+    <value>segundos</value>
+  </data>
+  <data name="msgNonDefaultStreamAspectRatioDifferent" xml:space="preserve">
+    <value>A proporção do tamanho do vídeo especificada nas configurações {0} é diferente da proporção de tamanho da resolução atual. Alterar a resolução para coincidir com o tamanho do vídeo de {1}?</value>
+  </data>
+  <data name="msgNonDefaultStreamResLarger" xml:space="preserve">
+    <value>Tamanho do vídeo de {0} especificado nas configurações de {1} é maior do que a resolução atual. Alterar a resolução para coincidir com o tamanho do vídeo?</value>
+  </data>
+  <data name="transitionSpeedTsmi" xml:space="preserve">
+    <value>Velocidade de Transição</value>
+  </data>
+  <data name="favTransitionAddTip" xml:space="preserve">
+    <value>Para adicionar uma transição favorita, definia a transição e a velocidade no lado esquerdo e clique no ícone de estrela.</value>
+  </data>
+  <data name="favTransitionMaxTip" xml:space="preserve">
+    <value>Você atingiu o número máximo de transições favoritas. Você pode remover uma transição favorita para adicionar uma nova.</value>
+  </data>
+  <data name="favTransitionShortcutTip" xml:space="preserve">
+    <value>Atalho: Clique com o botão direito do mouse em uma cena para definir uma nova transição enquanto muda para uma nova cena.</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_FAVTRANSADD" xml:space="preserve">
+    <value>Adicionar a transições favoritas</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_FAVTRANSLIST" xml:space="preserve">
+    <value>Abrir transições favoritas</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GOLIVELIST" xml:space="preserve">
+    <value>Abrir as opções Ao Vivo</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SCENELIST" xml:space="preserve">
+    <value>Mudar Cena</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_TRANSLIST" xml:space="preserve">
+    <value>Definir estilo e velocidade da transição</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_SCENESRC" xml:space="preserve">
+    <value>Transição</value>
+  </data>
+  <data name="favTransitionAddTip1" xml:space="preserve">
+    <value>A lista de transições favotitas está vazia. Para adicionar uma transição favorita, clique no ícone da estrela acima.</value>
+  </data>
+  <data name="msgAskToBackupPresDueToNewSceneIndexes" xml:space="preserve">
+    <value>O XSplit Broadcaster agora suporta clicar e arrastar na reordenação de cenas e enumera-las em uma ordem da esquerda para a direita. Por causa disso, a ordem das suas cenas mudaram, mas isto pode ser facilmente sanado arrastando-as e soltando-as em seu layout desejado. Se você reordenar suas cenas, lembre-se também de ajustar suas teclas de atalho!</value>
+  </data>
+  <data name="msgFunctionUnavailableDueToClosedPort" xml:space="preserve">
+    <value>Função não disponível devido a porta fechada {0}.</value>
+  </data>
+  <data name="AutoSetup" xml:space="preserve">
+    <value>Assistente de configuração de canal</value>
+  </data>
+  <data name="btnRedoTest" xml:space="preserve">
+    <value>Refazer o teste</value>
+  </data>
+  <data name="colComputerHw" xml:space="preserve">
+    <value>Hardware de computador</value>
+  </data>
+  <data name="colReqUpload" xml:space="preserve">
+    <value>Upload necessário</value>
+  </data>
+  <data name="colResolution" xml:space="preserve">
+    <value>Resolução</value>
+  </data>
+  <data name="lblLegendText" xml:space="preserve">
+    <value>Configuração recomendada</value>
+  </data>
+  <data name="lnkLogs" xml:space="preserve">
+    <value>Mostrar os logs</value>
+  </data>
+  <data name="scriptAddTsmi" xml:space="preserve">
+    <value>Adicionar extensão...</value>
+  </data>
+  <data name="moreExtensionsToolStripMenuItem" xml:space="preserve">
+    <value>Obter mais extensões</value>
+  </data>
+  <data name="scriptEditorTsmi" xml:space="preserve">
+    <value>Extensões</value>
+  </data>
+  <data name="scriptRemoveTsmi" xml:space="preserve">
+    <value>Remover extensão</value>
+  </data>
+  <data name="msgSettingsSaved_RestartNeeded" xml:space="preserve">
+    <value>O XSplit precisa reiniciar para que as alterações tenham efeito.[table]Setting|Current value|New value[/table]Reiniciar agora?</value>
+  </data>
+  <data name="msgOSCompatiblityModeWarning" xml:space="preserve">
+    <value>O XSplit detectou que o XSplit.core.exe está definido para iniciar em modo de compatibilidade para uma versão mais antiga do Windows. O XSplit quando em execução no modo de compatibilidade de legado não é suportado e pode resultar em comportamento inesperado. (Veja &lt;a href="https://xspl.it/tpyg23"&gt; aqui&lt;/a&gt; como mudar isso.)</value>
+  </data>
+  <data name="growlHighCpuUsageWarning" xml:space="preserve">
+    <value>Alto uso da CPU detectado, podem ocorrer problemas de desempenho.</value>
+  </data>
+  <data name="growlPowerSchemeWarning" xml:space="preserve">
+    <value>É recomendável que você defina as opções de energia para "{0}". Clique &lt;a name="open-powercfg"&gt;aqui&lt;/a&gt; para abrir as opções de energia.</value>
+  </data>
+  <data name="msgEVRWarning" xml:space="preserve">
+    <value>Você está utilizando parâmetros personalizados e experimentais exe, o que não é recomendado para a produção.</value>
+  </data>
+  <data name="msgFeatureRequiresMFP" xml:space="preserve">
+    <value>Esse recurso requer Media Feature Pack para esta edição do Windows. Faça o download e instale-o clicando em [here]({0}).</value>
+  </data>
+  <data name="enableHardwareAccelerateUSB2" xml:space="preserve">
+    <value>Usar aceleração de hardware para dispositivos de captura USB2</value>
+  </data>
+  <data name="enableMFEngine" xml:space="preserve">
+    <value>Usar aceleração de hardware para reprodução de vídeo</value>
+  </data>
+  <data name="BroadcasterTriggerAds" xml:space="preserve">
+    <value>Iniciar anúncios - {0}</value>
+  </data>
+  <data name="enableDeveloperMode" xml:space="preserve">
+    <value>Ativar o modo de desenvolvedor</value>
+  </data>
+  <data name="msgRemoteDebugPortIsBusy" xml:space="preserve">
+    <value>Modo de desenvolvedor habilitado, mas a porta de depuração {0} está ocupada. Se você precisa de plugin de depuração, defina uma porta alternativa, adicionando o argumento "remotedebug: &lt;port number&gt;" 
+
+Modo de desenvolvedor é um modo de depuração de baixa segurança não recomendado para produção ou uso regular. Para desativar o modo de desenvolvedor, va até Ferramentas -&gt; Configurações Gerais-&gt; &lt;a name="open-advanced-settings"&gt;Avançado&lt;/a&gt;.</value>
+  </data>
+  <data name="msgRemoteDebugPortIsOkay" xml:space="preserve">
+    <value>Modo de desenvolvedor habilitado e utilizando a porta {0}.
+
+Modo de desenvolvedor é um modo de depuração de baixa segurança não recomendado para produção ou uso regular. Para desativar o modo de desenvolvedor, va até Ferramentas -&gt; Configurações Gerais-&gt; &lt;a name="open-advanced-settings"&gt;Avançado&lt;/a&gt;.</value>
+  </data>
+  <data name="msgNoNetNoValidLocal" xml:space="preserve">
+    <value>XSplit não detectou uma conexão de Internet e um perfil local válido. Você precisa estar conectado à Internet para continuar.</value>
+  </data>
+  <data name="msgInvalidSocialAccountInfo" xml:space="preserve">
+    <value>Informações de login de conta social atual não é válida, por favor, logar novamente.</value>
+  </data>
+  <data name="lblAdapter" xml:space="preserve">
+    <value>Adaptador</value>
+    <comment>XBC plugins-wide; Properties</comment>
+  </data>
+  <data name="lblNetworkConnection" xml:space="preserve">
+    <value>Conexão de rede</value>
+    <comment>XBC plugins-wide; Properties</comment>
+  </data>
+  <data name="btnSetupWizard" xml:space="preserve">
+    <value>Assistente de instalação...</value>
+    <comment>Plugins with wizard feature (i.e. Dailymotion, Hitbox, Twitch, Ustream); Properties</comment>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>Não possui conta? Cadastre-se aqui.</value>
+    <comment>XBC plugins-wide (default value); Properties</comment>
+  </data>
+  <data name="lblNic_System" xml:space="preserve">
+    <value>Deixe o sistema decidir</value>
+  </data>
+  <data name="msgCarbonCopyTerminatedDueToDiskWriteFailure" xml:space="preserve">
+    <value>A gravação foi interrompida devido a uma falha no disco rígido. A sua transmissão não foi interrompida.</value>
+  </data>
+  <data name="msgRecordingTerminatedDueToDiskWriteFailure" xml:space="preserve">
+    <value>A gravação foi interrompida devido a uma falha de disco.</value>
+  </data>
+  <data name="msgDeckLinkPlayoutStopped_PossiblyUnplugged" xml:space="preserve">
+    <value>Transmissão {0} foi encerrada devido possível desconexão de dispositivo.</value>
+  </data>
+  <data name="msgBMWDMRecommended" xml:space="preserve">
+    <value>A fonte {0} é usada nesta apresentação. Recomenda-se remover esta fonte e substituir a fonte de captura Blackmagic WDM (Desktop vídeo driver versão 10.5.3+ recomendada).</value>
+  </data>
+  <data name="msgDecklinkPlayoutAborted" xml:space="preserve">
+    <value>Seu fluxo {0} foi abortado. Certifique-se que {0} está configurado corretamente e o dispositivo está funcionando. Reiniciaro XSplit pode ser necessário devido ao dispositivo recém instalado.</value>
+  </data>
+  <data name="lblDisabled" xml:space="preserve">
+    <value>desativado</value>
+  </data>
+  <data name="lblEnabled" xml:space="preserve">
+    <value>ativado</value>
+  </data>
+  <data name="enableNativeFlashAndBrowserAudio" xml:space="preserve">
+    <value>Ativar controle de áudio nativo do Flash e do navegador</value>
+  </data>
+  <data name="upgradeExtendLicenseToolStripMenuItem" xml:space="preserve">
+    <value>Upgrade / renove sua licença</value>
+  </data>
+  <data name="upgradeExtendLicenseToolStripMenuItem2" xml:space="preserve">
+    <value>Comprar licença</value>
+  </data>
+  <data name="screenshotsToolStripMenuItem" xml:space="preserve">
+    <value>Minhas capturas de tela</value>
+  </data>
+  <data name="btnDeleteChannel" xml:space="preserve">
+    <value>Remover esta saída</value>
+  </data>
+  <data name="titleDeleteChannel" xml:space="preserve">
+    <value>Remover esta saída</value>
+  </data>
+  <data name="pbNetworkConnection_Tooltip" xml:space="preserve">
+    <value>Para usar um adaptador de rede específico para esta saída, habilite a opção "Permitir que saídas especifiquem seu próprio adaptador de rede" em Configurações &gt; Avançadas, em seguida, escolha um adaptador na lista abaixo.</value>
+  </data>
+  <data name="executeCustomURLToolStripMenuItem" xml:space="preserve">
+    <value>Execute o URL personalizado...</value>
+  </data>
+  <data name="pluginStoreToolStripMenuItem" xml:space="preserve">
+    <value>Loja de plugins</value>
+  </data>
+  <data name="myPluginsToolStripMenuItem" xml:space="preserve">
+    <value>Meus Plugins</value>
+  </data>
+  <data name="deleteSceneToolStripMenuItem" xml:space="preserve">
+    <value>Excluir a cena</value>
+  </data>
+  <data name="duplicateSceneToolStripMenuItem" xml:space="preserve">
+    <value>Duplicar a Cena</value>
+  </data>
+  <data name="loadSceneToolStripMenuItem" xml:space="preserve">
+    <value>Carregar Cena...</value>
+  </data>
+  <data name="newSceneToolStripMenuItem" xml:space="preserve">
+    <value>Nova cena</value>
+  </data>
+  <data name="saveSceneAsImageToolStripMenuItem" xml:space="preserve">
+    <value>Salvar Cena como imagem...</value>
+  </data>
+  <data name="saveSceneToolStripMenuItem" xml:space="preserve">
+    <value>Salvar Cena...</value>
+  </data>
+  <data name="titleExecuteCustomURI" xml:space="preserve">
+    <value>Executar URL personalizado</value>
+  </data>
+  <data name="msgInvalidURI" xml:space="preserve">
+    <value>URL inválido.</value>
+  </data>
+  <data name="titleLicenseIsNearExpiration" xml:space="preserve">
+    <value>Sua licença está quase expirando!</value>
+  </data>
+  <data name="msgLicenseIsNearExpiration" xml:space="preserve">
+    <value>Sua licença irá expirar em {0}. Se você pretende transmitir/gravar além desta data, suas transmissões/gravações podem ter marcas d'água até você renovar sua licença.</value>
+  </data>
+  <data name="msgLicenseIsExpired" xml:space="preserve">
+    <value>Sua licença expirou. suas transmissões/gravações subsequentes podem ter marcas d'água até que você renove sua licença.</value>
+  </data>
+  <data name="titleLicenseIsExpired" xml:space="preserve">
+    <value>Sua licença expirou!</value>
+  </data>
+  <data name="msgLicenseIsNearExpiration2" xml:space="preserve">
+    <value>&lt;a name="buy"&gt;Clique aqui&lt;/a&gt; para renovar sua licença.</value>
+  </data>
+  <data name="btnRenewLicense" xml:space="preserve">
+    <value>Renovar licença</value>
+  </data>
+  <data name="growlScreenshotTaken" xml:space="preserve">
+    <value>Captura de tela salva! As imagens podem ser acessadas no menu Ferramentas -&gt; Screenshots.</value>
+  </data>
+  <data name="LocalFiles" xml:space="preserve">
+    <value>Meus arquivos locais</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem" xml:space="preserve">
+    <value>Permitir a saída de NewTek NDI®</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem1" xml:space="preserve">
+    <value>Desabilitar a saída de NewTek NDI®</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem2" xml:space="preserve">
+    <value>Saída NewTek NDI®</value>
+  </data>
+  <data name="msgCantDeleteSceneWhileEditingOrProjecting" xml:space="preserve">
+    <value>Não é possível excluir a cena durante a edição ou projeção.</value>
+  </data>
+  <data name="msgCantDeleteSceneWhileInUse" xml:space="preserve">
+    <value>Cannot delete scene while it is in use.</value>
+  </data>
+  <data name="msgCannotOpenMultipleXVE" xml:space="preserve">
+    <value>Apenas uma instância do Editor Expresso de Vídeo é suportada. Por favor, feche a instância em execução pelo XSplit Gamecaster</value>
+  </data>
+  <data name="deleteSceneToolStripMenuItem1" xml:space="preserve">
+    <value>Excluir a cena</value>
+  </data>
+  <data name="msgCantParseOutputUriWhileStreaming" xml:space="preserve">
+    <value>Não é possível processar o URL de saída durante uma transmissão.</value>
+  </data>
+  <data name="msgExecuringUri" xml:space="preserve">
+    <value>URL em execução...</value>
+  </data>
+  <data name="newtekNDIStreamBetaToolStripMenuItem" xml:space="preserve">
+    <value>Transmissão NewTek NDI® (Beta)</value>
+  </data>
+  <data name="newtekNDIStreamToolStripMenuItem" xml:space="preserve">
+    <value>Transmissão NewTek NDI®</value>
+  </data>
+  <data name="msgNdiBetaNotice" xml:space="preserve">
+    <value>Obrigado por experimentar o nosso recurso NewTek NDI®. Este recurso ainda está em beta e recomendamos que você leia mais sobre o recurso &lt;a href='https://xspl.it/z8tpys'&gt;aqui&lt;/a&gt;.</value>
+  </data>
+  <data name="msgSystemTimeIsIncorrect" xml:space="preserve">
+    <value>A definição de hora do sistema pode não estar correta. Isto pode afetar o funcionamento do XSplit e serviços associados.</value>
+  </data>
+  <data name="msgWarningOn32bitOS" xml:space="preserve">
+    <value>Você atualmente está executando um sistema operacional de 32 bits. Funções e desempenho podem ser limitadas devido às limitações de memória. Clique &lt;a href='https://xspl.it/qrg6n3'&gt;aqui&lt;/a&gt; para saber mais.</value>
+  </data>
+  <data name="msgSteamLicenseConflict" xml:space="preserve">
+    <value>Nós detectamos que você tem atualmente uma licença XSplit e uma licença Steam ativa. Por favor, entre em contato com o suporte: &lt;a href='https://xspl.it/support'&gt;support@xsplit.com&lt;/a&gt;</value>
+  </data>
+  <data name="msgNonDefaultSystemSoundWarning" xml:space="preserve">
+    <value>Se você não definir o Som do Sistema para "{0}", poderá deixar de ouvir o som das aplicações ou dos jogos durante a gravação ou transmissão.</value>
+  </data>
+  <data name="changeLanguageToolStripMenuItem" xml:space="preserve">
+    <value>Alterar Idioma</value>
+  </data>
+  <data name="msgPort443IsBlocked" xml:space="preserve">
+    <value>O XSplit Broadcaster detectou que a porta TCP/443 está bloqueada. Esta porta é necessária para autenticar diversos serviços externos. Clique &lt;a href=\"http://xspl.it/how-to-unblock-port-443\"&gt;aqui&lt;/a&gt; para saber mais.</value>
+  </data>
+  <data name="titlePort443IsBlocked" xml:space="preserve">
+    <value>Porta 443 está bloqueada</value>
+  </data>
+  <data name="aboutNdiToolStripMenuItem" xml:space="preserve">
+    <value>Saiba mais sobre NDI®</value>
+  </data>
+  <data name="noNdiSourcesFoundOnNetworkToolStripMenuItem" xml:space="preserve">
+    <value>Nenhuma fonte NDI® encontrada na rede</value>
+  </data>
+  <data name="msgHasNoNdiPrereq" xml:space="preserve">
+    <value>Esse recurso requer Visual C++ Redistributable para Visual Studio 2013 x86. Por favor, clique em [here](https://xspl.it/ftbdkn) para fazer o download e instalá-lo.</value>
+  </data>
+  <data name="msgHasNoNdiPrereqX64" xml:space="preserve">
+    <value>Esse recurso requer Visual C++ Redistributable para Visual Studio 2015 x64. Por favor, clique em [aqui](https://xspl.it/vc2015x64) para fazer o download e instalá-lo.</value>
+  </data>
+  <data name="titleHasNoNdiPrereq" xml:space="preserve">
+    <value>Pré-requisitos NDI® faltando</value>
+  </data>
+  <data name="noNdiPrereqToolStripMenuItem" xml:space="preserve">
+    <value>Pré-requisitos ausentes, clique para informações</value>
+  </data>
+  <data name="tsslDisplayFps_Tooltip" xml:space="preserve">
+    <value>Mostrar FPS na tela / saída FPS para gravação ou stream. Mostrar FPS (o que você vê na tela) não é priorizado e pode variar</value>
+  </data>
+  <data name="tsslDisplayFpsVal_Tooltip" xml:space="preserve">
+    <value>Mostrar FPS na tela / saída FPS para gravação ou stream. Mostrar FPS (o que você vê na tela) não é priorizado e pode variar</value>
+  </data>
+  <data name="tsslCPU_Tooltip" xml:space="preserve">
+    <value>Uso total de CPU / CPU usado / clock da CPU</value>
+  </data>
+  <data name="tsslCPUVal_Tooltip" xml:space="preserve">
+    <value>Uso total de CPU / CPU usado / clock da CPU</value>
+  </data>
+  <data name="tsslGPU_Tooltip" xml:space="preserve">
+    <value>Maior carga em todos as GPU / maior carga para qualquer processo relacionado ao XSplit Broadcaster em todos as GPU</value>
+  </data>
+  <data name="tsslGPUVal_Tooltip" xml:space="preserve">
+    <value>Maior carga em todos as GPU's / maior carga para qualquer processo relacionado ao XSplit Broadcaster em todas as GPU's</value>
+  </data>
+  <data name="move_bottomTransition" xml:space="preserve">
+    <value>Mover parte inferior</value>
+  </data>
+  <data name="move_leftTransition" xml:space="preserve">
+    <value>Mover a esquerda</value>
+  </data>
+  <data name="move_left_rightTransition" xml:space="preserve">
+    <value>Mover esquerda e direita</value>
+  </data>
+  <data name="move_rightTransition" xml:space="preserve">
+    <value>Mover direita</value>
+  </data>
+  <data name="move_topTransition" xml:space="preserve">
+    <value>Mover parte superior</value>
+  </data>
+  <data name="move_top_bottomTransition" xml:space="preserve">
+    <value>Mover a parte superior e inferior</value>
+  </data>
+  <data name="msgAudioDevice_DefaultMicrophone" xml:space="preserve">
+    <value>Microfone padrão</value>
+  </data>
+  <data name="msgAudioDevice_DefaultSpeakers" xml:space="preserve">
+    <value>Alto-falantes padrão</value>
+  </data>
+  <data name="noneTransition" xml:space="preserve">
+    <value>Nenhum</value>
+  </data>
+  <data name="msgTobiiPluginDisabled" xml:space="preserve">
+    <value>Uma melhor integração da Tobii EyeTracker agora está disponível para captura de fontes de tela e jogo, clique com o botão direito na fonte para ver a guia "Tobii". Para manter a compatibilidade com a nova integração da Tobii EyeTracker, o plugin Tobii Eye Tracker foi desativado.</value>
+  </data>
+  <data name="msgTobiiSourceRemoved" xml:space="preserve">
+    <value>Uma melhor integração da Tobii EyeTracker agora está disponível para captura de fontes de tela e jogo, clique com o botão direito na fonte para ver a guia "Tobii". 
+
+Para manter a compatibilidade com a nova integração da Tobii EyeTracker, o plugin Tobii Eye Tracker foi removido da sua cena.</value>
+  </data>
+  <data name="newProjectorWindowToolStripMenuItem" xml:space="preserve">
+    <value>Nova janela</value>
+  </data>
+  <data name="newProjectorWindowToolStripMenuItem2" xml:space="preserve">
+    <value>Nova janela</value>
+  </data>
+  <data name="accountSettingsToolStripMenuItem" xml:space="preserve">
+    <value>Detalhes da conta</value>
+  </data>
+  <data name="browserD3dMode" xml:space="preserve">
+    <value>Otimização de Navegador</value>
+  </data>
+  <data name="msgErrorUpdatingYtVideo" xml:space="preserve">
+    <value>Erro ao atualizar o vídeo do YouTube.</value>
+  </data>
+  <data name="msgCancelUpload" xml:space="preserve">
+    <value>Tem certeza que deseja cancelar este upload?</value>
+  </data>
+  <data name="titleCancelUpload" xml:space="preserve">
+    <value>Cancelar upload</value>
+  </data>
+  <data name="msgDeleteYtVideo" xml:space="preserve">
+    <value>Tem certeza que deseja excluir este vídeo do YouTube?</value>
+  </data>
+  <data name="titleDeleteVideo" xml:space="preserve">
+    <value>Excluir vídeo</value>
+  </data>
+  <data name="msgCantDoActionWhileUploading" xml:space="preserve">
+    <value>Não é possível executar ação quando enquanto faz upload para o YouTube</value>
+  </data>
+  <data name="msgTitleIsEmpty" xml:space="preserve">
+    <value>O título não pode estar vazio.</value>
+  </data>
+  <data name="msgCantUploadFileIsInUse" xml:space="preserve">
+    <value>A gravação não pode ser carregada porque está em uso por outro processo. Feche todas as outras janelas, como o Editor de vídeo XSplit e tente novamente.</value>
+  </data>
+  <data name="msgUnknownUploadError" xml:space="preserve">
+    <value>Erro desconhecido encontrado ao tentar iniciar o upload.</value>
+  </data>
+  <data name="msgCantDeleteFilesInUse" xml:space="preserve">
+    <value>Não é possível excluir arquivos caso eles estejam em uso.</value>
+  </data>
+  <data name="msgCantDeleteSomeFilesInUse" xml:space="preserve">
+    <value>Não é possível excluir alguns arquivos, eles podem estar em uso.</value>
+  </data>
+  <data name="msgConfirmDeleteFiles" xml:space="preserve">
+    <value>Tem certeza que deseja excluir esses arquivos {0}?</value>
+  </data>
+  <data name="titleConfirmDeleteFiles" xml:space="preserve">
+    <value>Excluir arquivos</value>
+  </data>
+  <data name="msgConfirmCreateYtChannel" xml:space="preserve">
+    <value>Você está logado no YouTube, mas ainda não tem um canal. Você quer criar um agora?</value>
+  </data>
+  <data name="tsslMemory_Tooltip" xml:space="preserve">
+    <value>Private bytes used by XSplit</value>
+  </data>
+  <data name="tsslMemoryVal_Tooltip" xml:space="preserve">
+    <value>Private bytes used by XSplit</value>
+  </data>
+  <data name="dx12Capture" xml:space="preserve">
+    <value>Habilitar captura DX12</value>
+  </data>
+  <data name="pasteAsLinkedSourceToolStripMenuItem" xml:space="preserve">
+    <value>Colar como fonte vinculada</value>
+  </data>
+  <data name="pasteAsNewSourceToolStripMenuItem" xml:space="preserve">
+    <value>Colar como nova fonte</value>
+  </data>
+  <data name="msgDontShowDialogCheckbox" xml:space="preserve">
+    <value>Não voltar a mostrar esta caixa de diálogo</value>
+  </data>
+  <data name="msgConfirmDiscardScene_loadFromFile" xml:space="preserve">
+    <value>Tem certeza que deseja substituir a cena atual?</value>
+  </data>
+  <data name="msgXSplitCertErrorEncountered" xml:space="preserve">
+    <value>XSplit detectou um erro relacionado a certificado que indica uma conexão insegura entre o XSplit e serviços online. Isso pode impedi-lo de se comunicar com o provedor de serviços de terceiros como o Twitch/YouTube/Facebook ou autenticar. Em alguns casos então poderia ser um resultado de malware instalado no seu computador, o que poderia ser usado para o então chamado ataques man-em-the-middle (MitM). Clique em [this blog post](https://xspl.it/www/ngwv7e) para aprender mais sobre o assunto.[br][br]Se você optar por ignorar este aviso será lembrado por essa sessão na sua conta e risco. Fechar XSplit agora?</value>
+  </data>
+  <data name="workspaceClassicToolStripMenuItem" xml:space="preserve">
+    <value>Modo clássico</value>
+  </data>
+  <data name="workspaceSplitToolStripMenuItem" xml:space="preserve">
+    <value>Modo Dividido</value>
+  </data>
+  <data name="workspaceToolStripMenuItem" xml:space="preserve">
+    <value>Espaço de trabalho</value>
+  </data>
+  <data name="themeClassicToolStripMenuItem" xml:space="preserve">
+    <value>Classic</value>
+  </data>
+  <data name="themeDarkToolStripMenuItem" xml:space="preserve">
+    <value>Dark</value>
+  </data>
+  <data name="themeToolStripMenuItem" xml:space="preserve">
+    <value>Tema</value>
+  </data>
+  <data name="goLiveAndReloadSceneSplit" xml:space="preserve">
+    <value>Permanecer na cena atual</value>
+  </data>
+  <data name="goLiveAndSwapLiveWithSceneSplit" xml:space="preserve">
+    <value>Cena ao vivo</value>
+  </data>
+  <data name="goLiveAndSwitchSceneSplit" xml:space="preserve">
+    <value>Alterar cena da janela de pré-visualização para</value>
+  </data>
+  <data name="splitViewMainTitleL1" xml:space="preserve">
+    <value>AO VIVO: </value>
+  </data>
+  <data name="splitViewPrevTitleL1" xml:space="preserve">
+    <value>Visualizar: </value>
+  </data>
+  <data name="warnNoPreviewEditorOnSplitView" xml:space="preserve">
+    <value>Você precisa estar no espaço de trabalho do modo clássico, antes de abrir o Editor de visualização. Para alternar os espaços de trabalho, clique na seta para baixo do ícone no canto superior direito (ao lado da resolução misturador e dados FPS) e selecione o espaço de trabalho</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GOLIVE" xml:space="preserve">
+    <value>Transmitir ao vivo</value>
+  </data>
+  <data name="tsslDisplayFps" xml:space="preserve">
+    <value>FPS:</value>
+  </data>
+  <data name="tsslMemory" xml:space="preserve">
+    <value>Memória:</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_INVALID" xml:space="preserve">
+    <value>Gravação foi iniciada em um disco de FAT32 e dividir arquivos é tempo baseado, gravação será dividida por max permitido tamanho do arquivo ({0}), se necessário.</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_NOT_SET" xml:space="preserve">
+    <value>A gravação foi iniciada em um disco FAT32 e, se necessário, será dividida no tamanho máximo de arquivo permitido ({0}).</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_TOO_HIGH" xml:space="preserve">
+    <value>Gravação foi iniciada em um disco de FAT32 e dividir arquivos é definido mais elevado do que o tamanho máximo de arquivo permitido ({0}), gravação será dividida por {0} em vez disso.</value>
+  </data>
+  <data name="msgInvalidXSplitAccountInfo" xml:space="preserve">
+    <value>Informações de login da XSplit não é válida, por favor, logar novamente.{0}</value>
+  </data>
+  <data name="otherToolStripMenuItem" xml:space="preserve">
+    <value>Widgets gerais</value>
+  </data>
+  <data name="cutTransition" xml:space="preserve">
+    <value>Cortar</value>
+  </data>
+  <data name="growlMidiGetPortsFailed" xml:space="preserve">
+    <value>Não conseguiu enumerar dispositivos MIDI. Seu hotkeys de MIDI não vai funcionar.</value>
+  </data>
+  <data name="growlMidiGetPortsNoDevices" xml:space="preserve">
+    <value>Sem MIDI dispositivo/s detectada. Seu hotkeys de MIDI não vai funcionar.</value>
+  </data>
+  <data name="growlMidiInitFailed" xml:space="preserve">
+    <value>Falhou a inicialização MIDI dispositivo/s. Algumas teclas de atalho MIDI podem não funcionar.</value>
+  </data>
+  <data name="growlMidiInitFailedAll" xml:space="preserve">
+    <value>Falhou a inicialização MIDI dispositivo/s. Algumas teclas de atalho MIDI podem não funcionar.</value>
+  </data>
+  <data name="msgMidiGetPortsFailed" xml:space="preserve">
+    <value>Não conseguiu enumerar dispositivos MIDI. Seu hotkeys de MIDI não vai funcionar.</value>
+  </data>
+  <data name="msgMidiGetPortsNoDevices" xml:space="preserve">
+    <value>Sem MIDI dispositivo/s detectada. Seu hotkeys de MIDI não vai funcionar.</value>
+  </data>
+  <data name="msgMidiInitFailed" xml:space="preserve">
+    <value>Não serão detectadas falha inicialização MIDI dispositivo/s. controles de dispositivo de MIDI afetados/s.</value>
+  </data>
+  <data name="msgMidiInitFailedAll" xml:space="preserve">
+    <value>Falhou a inicialização MIDI dispositivo/s. Algumas teclas de atalho MIDI podem não funcionar.</value>
+  </data>
+  <data name="msgNdiStreamCantStart" xml:space="preserve">
+    <value>Seu {0} fluxo foi abortado. {1}Please verificar os &lt;a name="logfile"&gt; logs&lt;/a&gt; para obter detalhes.</value>
+  </data>
+  <data name="tsmiProjectLiveScene" xml:space="preserve">
+    <value>Cena ao vivo</value>
+  </data>
+  <data name="tsmiProjectPreviewEditor" xml:space="preserve">
+    <value>Editor de pré-visualização</value>
+  </data>
+  <data name="msgUnableToPostBmpToPlayerMe" xml:space="preserve">
+    <value>Não é possível compartilhar o arquivo de imagem BMP para Player.me, por favor, selecione a imagem JPEG em vez disso.</value>
+  </data>
+  <data name="Permissions" xml:space="preserve">
+    <value>Permissões</value>
+  </data>
+  <data name="BroadcasterCaptureMixerImage_desc" xml:space="preserve">
+    <value>Tirar screenshot da cena ativa</value>
+  </data>
+  <data name="BroadcasterInsertCuepoint_desc" xml:space="preserve">
+    <value>Inserir Cuepoint</value>
+  </data>
+  <data name="BroadcasterPushLive_desc" xml:space="preserve">
+    <value>Transmitir ao vivo</value>
+  </data>
+  <data name="videoProcessingMode" xml:space="preserve">
+    <value>Modo de processamento de vídeo</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc1" xml:space="preserve">
+    <value>Legado</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc2" xml:space="preserve">
+    <value>Preferir CPU</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc3" xml:space="preserve">
+    <value>Preferir GPU</value>
+  </data>
+  <data name="renameSource" xml:space="preserve">
+    <value>Renomear</value>
+  </data>
+  <data name="addWebUrlTsmi" xml:space="preserve">
+    <value>Página da Web...</value>
+  </data>
+  <data name="LiveStream" xml:space="preserve">
+    <value>Fluxo de flash (RTMP)</value>
+  </data>
+  <data name="ablegamersplg" xml:space="preserve">
+    <value>Alerta AbleGamers</value>
+  </data>
+  <data name="beamchatplg" xml:space="preserve">
+    <value>Visualizador de chat</value>
+  </data>
+  <data name="dmchatplg" xml:space="preserve">
+    <value>Visualizador de chat</value>
+  </data>
+  <data name="extralifeplg" xml:space="preserve">
+    <value>Alerta Extra Life</value>
+  </data>
+  <data name="facebookchatplg" xml:space="preserve">
+    <value>Comentários ao vivo</value>
+  </data>
+  <data name="hitboxchatplg" xml:space="preserve">
+    <value>Visualizador de chat</value>
+  </data>
+  <data name="ImageSlideshowplg" xml:space="preserve">
+    <value>Slideshow de Imagens</value>
+  </data>
+  <data name="inputvisualizerplg" xml:space="preserve">
+    <value>Visualizador de entrada</value>
+  </data>
+  <data name="justgivingplg" xml:space="preserve">
+    <value>Alerta JustGiving</value>
+  </data>
+  <data name="mediaslideshowplg" xml:space="preserve">
+    <value>Apresentação de slides de mídia</value>
+  </data>
+  <data name="perSceneAudioplg" xml:space="preserve">
+    <value>Áudio por cena</value>
+  </data>
+  <data name="presentationPackagerplg" xml:space="preserve">
+    <value>Apresentação Packager</value>
+  </data>
+  <data name="sceneSwitcherplg" xml:space="preserve">
+    <value>Switcher de cena</value>
+  </data>
+  <data name="titleplg" xml:space="preserve">
+    <value>Texto</value>
+  </data>
+  <data name="twitchalertsplg" xml:space="preserve">
+    <value>Alertas da Twitch</value>
+  </data>
+  <data name="twitchchathtml5plg" xml:space="preserve">
+    <value>Visualizador HTML5 de chat</value>
+  </data>
+  <data name="twitchchatplg" xml:space="preserve">
+    <value>Visualizador de chat IRC</value>
+  </data>
+  <data name="VideoPlaylistplg" xml:space="preserve">
+    <value>Lista de Reprodução de Vídeo</value>
+  </data>
+  <data name="webMEncoderplg" xml:space="preserve">
+    <value>Criação Stinger</value>
+  </data>
+  <data name="WhiteboardOverlayplg" xml:space="preserve">
+    <value>Quadro Branco</value>
+  </data>
+  <data name="youtubechatplg" xml:space="preserve">
+    <value>Visualizador de chat ao vivo</value>
+  </data>
+  <data name="youtubelivechatplg" xml:space="preserve">
+    <value>Visualizador HTML5 de chat ao vivo</value>
+  </data>
+  <data name="addSkypeTsmi" xml:space="preserve">
+    <value>Vídeo do Skype</value>
+  </data>
+  <data name="addSkypeTsmi2" xml:space="preserve">
+    <value>Vídeo do Skype</value>
+  </data>
+  <data name="ImageSlideshow" xml:space="preserve">
+    <value>Apresentação de Imagens (Legacy)</value>
+  </data>
+  <data name="Starboard" xml:space="preserve">
+    <value>Starboard</value>
+  </data>
+  <data name="title" xml:space="preserve">
+    <value>Título (Legacy)</value>
+  </data>
+  <data name="VideoPlaylist" xml:space="preserve">
+    <value>Lista de reprodução de vídeo (Legacy)</value>
+  </data>
+  <data name="WhiteboardOverlay" xml:space="preserve">
+    <value>Whiteboard (Legacy)</value>
+  </data>
+  <data name="smashcastchatplg" xml:space="preserve">
+    <value>Visualizador de chat</value>
+  </data>
+  <data name="youtubesuperchatplg" xml:space="preserve">
+    <value>Alerta Super Chat</value>
+  </data>
+  <data name="addCustomResolutionToolStripMenuItem" xml:space="preserve">
+    <value>Resolução personalizada...</value>
+  </data>
+  <data name="twitchcheeralertplg" xml:space="preserve">
+    <value>Alerta Cheers</value>
+  </data>
+  <data name="msgMaxResWarning" xml:space="preserve">
+    <value>Qualquer resolução acima {0} x {1} pode não funcionar conforme o esperado e não é recomendada nem em hardware de alta qualidade. Ainda quer adicionar esta resolução?</value>
+  </data>
+  <data name="msgInvalidInputValue" xml:space="preserve">
+    <value>Valor de entrada inválida.</value>
+  </data>
+  <data name="timespanAndSeparator" xml:space="preserve">
+    <value> e </value>
+  </data>
+  <data name="timespanDaysUnit" xml:space="preserve">
+    <value>{0} dias</value>
+  </data>
+  <data name="timespanDayUnit" xml:space="preserve">
+    <value>{0} dia</value>
+  </data>
+  <data name="timespanHoursUnit" xml:space="preserve">
+    <value>{0} horas</value>
+  </data>
+  <data name="timespanHourUnit" xml:space="preserve">
+    <value>{0} hora</value>
+  </data>
+  <data name="timespanMinutesUnit" xml:space="preserve">
+    <value>{0} minutos</value>
+  </data>
+  <data name="timespanMinuteUnit" xml:space="preserve">
+    <value>{0} minutos</value>
+  </data>
+  <data name="timespanSecondsUnit" xml:space="preserve">
+    <value>{0} segundos</value>
+  </data>
+  <data name="timespanSecondUnit" xml:space="preserve">
+    <value>{0} segundo</value>
+  </data>
+  <data name="timespanSeparator" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="msgMicMutedDueToPttKeyAssignedText" xml:space="preserve">
+    <value>O microfone foi silenciado e pode ser ativado pressionando a tecla Push-to-Talk (PTT) "{0}" / s ou clicando no ícone do microfone.</value>
+  </data>
+  <data name="msgMicMutedDueToPttKeyAssignedTitle" xml:space="preserve">
+    <value>O microfone foi silenciado</value>
+  </data>
+  <data name="msgMfpWarning" xml:space="preserve">
+    <value>Você está executando a edição de N ou KN {0} que não tem o Media Feature Pack instalado.
+
+Para obter melhor desempenho e permitir os todos os recursos do XSplit, é recomendável instalar o pacote de recursos de mídia antes de executar a XSplit. (Selecione para instalar as versões de 32 e 64 bit, se disponível)
+
+Leve-me à página de web da Microsoft para baixar e instalar o pacote de recursos de mídia agora?</value>
+  </data>
+  <data name="addStingerToolStripMenuItem" xml:space="preserve">
+    <value>Adicionar transição...</value>
+  </data>
+  <data name="removeStingerToolStripMenuItem" xml:space="preserve">
+    <value>Remover transição</value>
+  </data>
+  <data name="stingersToolStripMenuItem" xml:space="preserve">
+    <value>Transição Stinger</value>
+  </data>
+  <data name="msgCantDeleteStingerInUse" xml:space="preserve">
+    <value>Não é possível remover uma transição em uso.</value>
+  </data>
+  <data name="addStingerplg" xml:space="preserve">
+    <value>Adicione transição</value>
+  </data>
+  <data name="chkMultitrack" xml:space="preserve">
+    <value>Criar gravação multi-trilha de microfone e áudio do sistema</value>
+  </data>
+  <data name="pbMultitrack_Tooltip" xml:space="preserve">
+    <value>Isto irá gravar áudio em faixas diferentes de 
+(mixado, microfone, áudio do sistema, somente stream)
+assim você poderá editar mais tarde cada um individualmente.</value>
+  </data>
+  <data name="growlPluginUpdateText" xml:space="preserve">
+    <value>Atualizações para plugins estão disponíveis.
+
+Ir para &lt;a name="openMyPlugins"&gt;Ferramentas -&gt; meus Plugins&lt;/a&gt; para rever e atualizar seus plugins.</value>
+  </data>
+  <data name="growlOptimusNeedsRestart" xml:space="preserve">
+    <value>Perfil de Nvidia Optimus foi modificado para melhorar o desempenho. Estas mudanças requerem uma reinicialização
+    
+&lt;a name="growlOptimusNeedsRestartNow"&gt;Reiniciar agora&lt;/a&gt;</value>
+  </data>
+  <data name="BroadcastStatus_Connected" xml:space="preserve">
+    <value>Ligado{0}</value>
+  </data>
+  <data name="BroadcastStatus_Connecting" xml:space="preserve">
+    <value>Conectando{0}</value>
+  </data>
+  <data name="BroadcastStatus_Restarting" xml:space="preserve">
+    <value>Reiniciando{0}</value>
+  </data>
+  <data name="msgBroadcastTerminated_TooManyRestarts" xml:space="preserve">
+    <value>A sua transmissão foi terminada devido à reinicializações seguidas.</value>
+  </data>
+  <data name="BroadcastStatus_GettingBestServer" xml:space="preserve">
+    <value>Determinando o servidor de destino de transmissão{0}</value>
+  </data>
+  <data name="BroadcastStatus_BestServerFound" xml:space="preserve">
+    <value>Servidor de destino encontrado: {0}</value>
+  </data>
+  <data name="addReplayTsmi" xml:space="preserve">
+    <value>Replay</value>
+  </data>
+  <data name="addReplayBottomTsmi" xml:space="preserve">
+    <value>Replay</value>
+  </data>
+  <data name="uploadLogFilesToolStripMenuItem" xml:space="preserve">
+    <value>Enviar arquivos de log</value>
+  </data>
+  <data name="UploadLogFilesSuccessAlertMessage" xml:space="preserve">
+    <value>Os arquivos de log foram enviados com sucesso - Clique [aqui]({0}) para visualizar.</value>
+  </data>
+  <data name="UploadLogFilesFailedAlertMessage" xml:space="preserve">
+    <value>Encontramos erros ao enviar os arquivos de log</value>
+  </data>
+  <data name="facebookreactionsplg" xml:space="preserve">
+    <value>Reações à publicação</value>
+  </data>
+  <data name="CurrentStageFPS" xml:space="preserve">
+    <value>FPS atual</value>
+  </data>
+  <data name="Default" xml:space="preserve">
+    <value>Padrão</value>
+  </data>
+  <data name="restoreResFpsDefaultToolStripMenuItem" xml:space="preserve">
+    <value>Restaurar padrão</value>
+  </data>
+  <data name="devicesWebcamCaptureCardsToolStripMenuItem" xml:space="preserve">
+    <value>Dispositivos (webcam, placas de captura...)</value>
+  </data>
+  <data name="streamsToolStripMenuItem" xml:space="preserve">
+    <value>Transmissões</value>
+  </data>
+  <data name="btnSourceMaximize" xml:space="preserve">
+    <value>Fit Source to Screen{0}</value>
+  </data>
+  <data name="btnSourceRestore" xml:space="preserve">
+    <value>Resize Source (1/4){0}</value>
+  </data>
+  <data name="tsmiAddSmartScreen" xml:space="preserve">
+    <value>Seleção inteligente</value>
+  </data>
+  <data name="tsmiAddDesktopCapture" xml:space="preserve">
+    <value>Captura de área de trabalho</value>
+  </data>
+  <data name="tsmiAddWindowCapture" xml:space="preserve">
+    <value>Captura de Janela</value>
+  </data>
+  <data name="tsmiAddDesktopCaptureMonitor" xml:space="preserve">
+    <value>Desktop {0}</value>
+  </data>
+  <data name="btnSourceLock" xml:space="preserve">
+    <value>Bloquear Posição</value>
+  </data>
+  <data name="noSourceLabel" xml:space="preserve">
+    <value>Nenhuma fonte adicionada.
+Ache uma aqui!</value>
+  </data>
+  <data name="addExtensionToolStripMenuItem" xml:space="preserve">
+    <value>Adicionar extensão</value>
+  </data>
+  <data name="facebooklivereactionspollcounterplg" xml:space="preserve">
+    <value>Contador de reações ao vivo</value>
+  </data>
+  <data name="facebooklivereactionsanimationplg" xml:space="preserve">
+    <value>Animação para reações ao vivo</value>
+  </data>
+  <data name="pbShareStream_Tooltip" xml:space="preserve">
+    <value>Compartilhar a sua transmissão</value>
+  </data>
+  <data name="playoutToolStripMenuItem" xml:space="preserve">
+    <value>Re&amp;produzir</value>
+  </data>
+  <data name="recordToolStripMenuItem" xml:space="preserve">
+    <value>G&amp;ravar</value>
+  </data>
+  <data name="addResolutionToolStripMenuItem" xml:space="preserve">
+    <value>Adicionar resolução</value>
+  </data>
+  <data name="removeResolutionToolStripMenuItem" xml:space="preserve">
+    <value>Remover resolução</value>
+  </data>
+  <data name="scaleTo100ToolStripMenuItem" xml:space="preserve">
+    <value>Expandir para 100%</value>
+  </data>
+  <data name="snapToGridToolStripMenuItem2" xml:space="preserve">
+    <value>Ajustar à grade</value>
+  </data>
+  <data name="duplicateSceneToolStripMenuItem1" xml:space="preserve">
+    <value>Duplicar a Cena</value>
+  </data>
+  <data name="lblHardware" xml:space="preserve">
+    <value>Hardware</value>
+  </data>
+  <data name="lblSoftware" xml:space="preserve">
+    <value>Software</value>
+  </data>
+  <data name="msgCloseWhileVideoEditorIsOpen" xml:space="preserve">
+    <value>You're currently video editing. Are you sure you want to log out/exit?
+
+Exiting/Logging out will close down XSplit Broadcaster Express Video Editor. Make sure to save your changes before proceeding.</value>
+  </data>
+  <data name="msgCloseWhileUploadingVod" xml:space="preserve">
+    <value>A recording is currently being uploaded. Are you sure you want to log out/exit?</value>
+  </data>
+  <data name="addSkypeNDITsmi" xml:space="preserve">
+    <value>Skype</value>
+  </data>
+  <data name="msgRtmpsInitException" xml:space="preserve">
+    <value>Erro ao inicializar o stream RTMPS. 
+    
+    Por favor  &lt;a href="https://xspl.it/bc/supportrtmps" name="learnmore"&gt;contate o suporte.&lt;/a&gt;</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90024_Offline" xml:space="preserve">
+    <value>Um e-mail com um link de ativação foi enviado para sua conta de e-mail. Você precisará ativar a sua conta XSplit para iniciar uma sessão.</value>
+  </data>
+  <data name="addLumaToolStripMenuItem" xml:space="preserve">
+    <value>Adicionar transição...</value>
+  </data>
+  <data name="lumaTransitionToolStripMenuItem" xml:space="preserve">
+    <value>Transição Luma</value>
+  </data>
+  <data name="removeLumaToolStripMenuItem" xml:space="preserve">
+    <value>Remover transição</value>
+  </data>
+  <data name="msgFailedDeletingStinger" xml:space="preserve">
+    <value>Não é possível deletar o stinger.</value>
+  </data>
+  <data name="growlNvencProbeErrorInvalidVersion" xml:space="preserve">
+    <value>A verificação do Encoder NVIDIA (NVENC) falhou devido a versão do driver incompatível. Por favor, tente &lt;a href="https://xspl.it/bc/nvidiaDriverDL" name="nvdiaDriverUpdate"&gt;atualizar seu driver NVIDIA GPU.&lt;/a&gt;</value>
+  </data>
+  <data name="transitionSpeedDialogTitle" xml:space="preserve">
+    <value>Transition Speed</value>
+  </data>
+  <data name="addSceneSourceTsmi" xml:space="preserve">
+    <value>Cena</value>
+  </data>
+  <data name="ERROR_NVENCHW" xml:space="preserve">
+    <value>Your {0} stream was terminated due to an unexpected error while using NVENC encoder, stream will proceed using another encoder. &lt;a href="https://xspl.it/bc/s8s19t#{1:X}"&gt;Click here&lt;/a&gt; to learn more.</value>
+  </data>
+  <data name="ERROR_NVENC" xml:space="preserve">
+    <value>Your {0} stream was terminated due to an unexpected error while using NVENC encoder. &lt;a href="https://xspl.it/bc/s8s19t#{1:X}"&gt;Click here&lt;/a&gt; to learn more.</value>
+  </data>
+  <data name="lblDecklinkPlayoutFormat" xml:space="preserve">
+    <value>Formato:</value>
+  </data>
+  <data name="cboPlayoutFormatAuto" xml:space="preserve">
+    <value>Automático</value>
+  </data>
+  <data name="msgNoNetLoginPopup" xml:space="preserve">
+    <value>No internet connection detected. You need an internet connection to log in</value>
+  </data>
+  <data name="msgRetryTokenLoginValidLocal" xml:space="preserve">
+    <value>Unable to login using your saved information. You may proceed to offline mode which will allow you to use most functions not requiring a direct XSplit server connection, or retry to use saved information again.</value>
+  </data>
+  <data name="msgRetryTokenLoginInvalidLocal" xml:space="preserve">
+    <value>Unable to login using your saved information. You may proceed to re-login using your credentials, or retry to use saved information again</value>
+  </data>
+  <data name="msgAutoLoginUserDiffer" xml:space="preserve">
+    <value>You have logged in to a different account from another XSplit application. Do you want to continue as **{0}**?</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTime" xml:space="preserve">
+    <value>Transition (Off)</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeWithVal" xml:space="preserve">
+    <value>Transition ({0} ms)</value>
+  </data>
+  <data name="tsmiScenePresetAdd" xml:space="preserve">
+    <value>Add preset</value>
+  </data>
+  <data name="tsmiScenePresetRemove" xml:space="preserve">
+    <value>Remove preset</value>
+  </data>
+  <data name="tsmiScenePresetLearnMore" xml:space="preserve">
+    <value>Learn more about Presets</value>
+  </data>
+  <data name="btnSourceGroup_Tooltip" xml:space="preserve">
+    <value>Group ({0})</value>
+  </data>
+  <data name="btnSourceUngroup_Tooltip" xml:space="preserve">
+    <value>Ungroup ({0})</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_PRESETLIST" xml:space="preserve">
+    <value>Add, remove presets and set transition</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET1" xml:space="preserve">
+    <value>Go to Preset 1</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET2" xml:space="preserve">
+    <value>Go to Preset 2.
+    
+    Drag the preset icons to reorder</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET3" xml:space="preserve">
+    <value>Go to Preset 3.
+    
+    Drag the preset icons to reorder</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET4" xml:space="preserve">
+    <value>Go to Preset 4.
+    
+    Drag the preset icons to reorder</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogTitle" xml:space="preserve">
+    <value>Preset Transition Speed</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogLabel" xml:space="preserve">
+    <value>Velocidade (ms)</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogHeader" xml:space="preserve">
+    <value>Set the transition speed when switching between presets. This will animate properties such as rotation, scaling, cropping and more.</value>
+  </data>
+  <data name="tsmiScenePresetRemoveDD_Tooltip" xml:space="preserve">
+    <value>Presets will automatically be renamed to follow the number sequence.</value>
+  </data>
+  <data name="msgNoNetHasLocalLoginPopup" xml:space="preserve">
+    <value>XSplit did not detect an internet connection. You may still be able to log in but some functions requiring internet connection may not work, or retry to connect online again</value>
+  </data>
+  <data name="redeemToolStripMenuItem" xml:space="preserve">
+    <value>Redeem gift certificate...</value>
+  </data>
+  <data name="releaseNotesTsmi" xml:space="preserve">
+    <value>Release notes</value>
+  </data>
+  <data name="videoTutorialsToolStripMenuItem" xml:space="preserve">
+    <value>Video tutorials</value>
+  </data>
+  <data name="expressVideoEditorToolStripMenuItem" xml:space="preserve">
+    <value>XSplit Express Video Editor</value>
+  </data>
+  <data name="loadToolStripMenuItem" xml:space="preserve">
+    <value>&amp;Load scene...</value>
+  </data>
+  <data name="permissionsTsmi" xml:space="preserve">
+    <value>Permissões</value>
+  </data>
+  <data name="previewEditorToolStripMenuItem" xml:space="preserve">
+    <value>Editor de pré-visualização</value>
+  </data>
+  <data name="previewEditor2ToolStripMenuItem" xml:space="preserve">
+    <value>Editor de pré-visualização</value>
+  </data>
+  <data name="projectorScreenLabel" xml:space="preserve">
+    <value>Screen {0}</value>
+  </data>
+  <data name="saveToolStripMenuItem" xml:space="preserve">
+    <value>&amp;Save scene...</value>
+  </data>
+  <data name="XSplitBroadcasterTitleText" xml:space="preserve">
+    <value>XSplit Broadcaster</value>
+  </data>
+  <data name="invalidBpzipMessage" xml:space="preserve">
+    <value>Unable to load your zipped presentation file. The file may be invalid or does not contain a broadcaster presentation file (.bpres).</value>
+  </data>
+  <data name="loadPresentationTitle" xml:space="preserve">
+    <value>Load Presentation</value>
+  </data>
+  <data name="overwriteBpresFolderMessage" xml:space="preserve">
+    <value>The folder **'{0}'** already exists in the destination folder.
+
+Would you like to overwrite the folder and its files, and continue to load the presentation?</value>
+  </data>
+  <data name="selectDirectoryBpzipDesc" xml:space="preserve">
+    <value>Select directory to extract files</value>
+  </data>
+  <data name="extractingBpzipFile" xml:space="preserve">
+    <value>Extracting {0} files...</value>
+  </data>
+  <data name="loadingBpresFile" xml:space="preserve">
+    <value>Loading {0}...</value>
+  </data>
+  <data name="checkingBpzipTargetDir" xml:space="preserve">
+    <value>Checking target directory...</value>
+  </data>
+  <data name="ioExceptionMessageWithBpzipExtraction" xml:space="preserve">
+    <value>Unable to extract and overwrite some files. One or more files may be in use.
+
+Close the file and try to load the presentation again.</value>
+  </data>
+  <data name="LocationIsEmpty" xml:space="preserve">
+    <value>Por favor, especifique a localização.</value>
+  </data>
+  <data name="LocationIsInvalid" xml:space="preserve">
+    <value>Localização inválida.</value>
+  </data>
+  <data name="ExtractBpzip" xml:space="preserve">
+    <value>Load Presentation</value>
+  </data>
+  <data name="PathIsNotRooted" xml:space="preserve">
+    <value>"{0}" não é um caminho absoluto.</value>
+  </data>
+  <data name="crispSupportTsmi" xml:space="preserve">
+    <value>Chat with Support</value>
+  </data>
+  <data name="disableSceneTransition" xml:space="preserve">
+    <value>Desativar</value>
+  </data>
+  <data name="sceneTransitionToolStripMenuItem" xml:space="preserve">
+    <value>Transition override</value>
+  </data>
+  <data name="msgConfirmDeleteTransitionInUse" xml:space="preserve">
+    <value>This transition is currently in use. Are you sure you want to remove it?</value>
+  </data>
+  <data name="msgFailedDeletingTransition" xml:space="preserve">
+    <value>Unable to delete transition</value>
+  </data>
+  <data name="msgOverMaxBitrate" xml:space="preserve">
+    <value>Your viewers' experience or stream quality may be negatively affected when setting a bitrate above the recommended maximum of {0} kbps.</value>
+  </data>
+  <data name="CustomResolution" xml:space="preserve">
+    <value>Resolução personalizada</value>
+  </data>
+  <data name="easeInOutBack" xml:space="preserve">
+    <value>Entrada lenta</value>
+  </data>
+  <data name="easeOutBounceTransition" xml:space="preserve">
+    <value>Saída Bounce</value>
+  </data>
+  <data name="easeOutElasticTransition" xml:space="preserve">
+    <value>Saída Elastic</value>
+  </data>
+  <data name="fadetoblackTransition" xml:space="preserve">
+    <value>Fade to Black</value>
+  </data>
+  <data name="fadetowhiteTransition" xml:space="preserve">
+    <value>Fade To White</value>
+  </data>
+  <data name="zoomTransition" xml:space="preserve">
+    <value>Zoom</value>
+  </data>
+  <data name="copySource" xml:space="preserve">
+    <value>Copiar</value>
+  </data>
+  <data name="pasteSource" xml:space="preserve">
+    <value>Colar</value>
+  </data>
+  <data name="NdiPlayoutFormatOptionsTitle" xml:space="preserve">
+    <value>NewTek NDI® Options</value>
+  </data>
+  <data name="frmChangeLog" xml:space="preserve">
+    <value>Update Available</value>
+  </data>
+  <data name="dontAskAgain" xml:space="preserve">
+    <value>Don't ask again</value>
+  </data>
+  <data name="localRecordAddToolStripMenuItem" xml:space="preserve">
+    <value>Set up a new recording output</value>
+  </data>
+  <data name="localRecordRemoveToolStripMenuItem" xml:space="preserve">
+    <value>Remove a recording output</value>
+  </data>
+  <data name="scenesListActive" xml:space="preserve">
+    <value>Active Scene</value>
+  </data>
+  <data name="ProjectorSettingsTitle" xml:space="preserve">
+    <value>Projector Settings</value>
+  </data>
+  <data name="projectorSettingsTsmi" xml:space="preserve">
+    <value>Configurações</value>
+  </data>
+  <data name="msgCantEditActiveNdiOutput" xml:space="preserve">
+    <value>You cannot edit settings while playout is active.</value>
+  </data>
+  <data name="audioEffectsToolStripMenuItem" xml:space="preserve">
+    <value>Audio Effects</value>
+  </data>
+  <data name="virtualCameraTsmi" xml:space="preserve">
+    <value>Virtual Camera</value>
+  </data>
+  <data name="gpuAdapter" xml:space="preserve">
+    <value>GPU Adapter</value>
+  </data>
+  <data name="gpuAdapterAuto" xml:space="preserve">
+    <value>Automático</value>
+  </data>
+</root>

@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="msgAuthExpiredOrInvalid" xml:space="preserve">
+    <value>crwdns12196:0crwdne12196:0</value>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>crwdns45637:0{0}crwdne45637:0</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>crwdns45638:0crwdne45638:0</value>
+  </data>
+  <data name="lblPageAudience" xml:space="preserve">
+    <value>crwdns12772:0crwdne12772:0</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>crwdns12200:0crwdne12200:0</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>crwdns12201:0crwdne12201:0</value>
+  </data>
+  <data name="msgAuthorizeRequired" xml:space="preserve">
+    <value>crwdns12202:0crwdne12202:0</value>
+  </data>
+  <data name="msgStreamTimeLimitReached" xml:space="preserve">
+    <value>crwdns12773:0{0}crwdne12773:0</value>
+  </data>
+  <data name="msgStreamTimeLimitUpdate" xml:space="preserve">
+    <value>crwdns12774:0{0}crwdne12774:0</value>
+  </data>
+  <data name="lblChannels" xml:space="preserve">
+    <value>crwdns12203:0crwdne12203:0</value>
+  </data>
+  <data name="pbPageAudience_Tooltip" xml:space="preserve">
+    <value>crwdns12775:0crwdne12775:0</value>
+  </data>
+  <data name="pbContinuousLive_Tooltip" xml:space="preserve">
+    <value>crwdns12776:0crwdne12776:0</value>
+  </data>
+  <data name="USER_WALL" xml:space="preserve">
+    <value>crwdns13123:0crwdne13123:0</value>
+  </data>
+  <data name="GROUP_WALL" xml:space="preserve">
+    <value>crwdns13124:0crwdne13124:0</value>
+  </data>
+  <data name="PAGE_WALL" xml:space="preserve">
+    <value>crwdns13125:0crwdne13125:0</value>
+  </data>
+  <data name="ALL" xml:space="preserve">
+    <value>crwdns12783:0crwdne12783:0</value>
+  </data>
+  <data name="MALE" xml:space="preserve">
+    <value>crwdns12784:0crwdne12784:0</value>
+  </data>
+  <data name="FEMALE" xml:space="preserve">
+    <value>crwdns12785:0crwdne12785:0</value>
+  </data>
+  <data name="EVERYONE" xml:space="preserve">
+    <value>crwdns12786:0crwdne12786:0</value>
+  </data>
+  <data name="ALL_FRIENDS" xml:space="preserve">
+    <value>crwdns12787:0crwdne12787:0</value>
+  </data>
+  <data name="SELF" xml:space="preserve">
+    <value>crwdns12788:0crwdne12788:0</value>
+  </data>
+  <data name="ALL_LOCATIONS" xml:space="preserve">
+    <value>crwdns12789:0crwdne12789:0</value>
+  </data>
+  <data name="SELECTED_LOCATIONS" xml:space="preserve">
+    <value>crwdns12790:0crwdne12790:0</value>
+  </data>
+  <data name="msgPostAsIsRequired" xml:space="preserve">
+    <value>crwdns12791:0crwdne12791:0</value>
+  </data>
+  <data name="msgTitleLengthExceeded" xml:space="preserve">
+    <value>crwdns12792:0crwdne12792:0</value>
+  </data>
+  <data name="msgAgeRangeInvalid" xml:space="preserve">
+    <value>crwdns12793:0crwdne12793:0</value>
+  </data>
+  <data name="msgCountriesCountExceeded" xml:space="preserve">
+    <value>crwdns12794:0crwdne12794:0</value>
+  </data>
+  <data name="FacebookLiveProps" xml:space="preserve">
+    <value>crwdns12795:0crwdne12795:0</value>
+  </data>
+  <data name="lblLiveUsername" xml:space="preserve">
+    <value>crwdns12796:0crwdne12796:0</value>
+  </data>
+  <data name="msgBelowMinBitrate" xml:space="preserve">
+    <value>crwdns12859:0{0}crwdnd12859:0{1}crwdnd12859:0{2}crwdne12859:0</value>
+  </data>
+  <data name="msgMinFriendsCountForStream" xml:space="preserve">
+    <value>crwdns12900:0{0}crwdne12900:0</value>
+  </data>
+  <data name="msgNoPermissionToCreateLiveVideo" xml:space="preserve">
+    <value>crwdns12901:0crwdne12901:0</value>
+  </data>
+  <data name="msgEndContinuousLiveVideo" xml:space="preserve">
+    <value>crwdns14164:0crwdne14164:0</value>
+  </data>
+  <data name="msgStartScheduledLiveAnyway" xml:space="preserve">
+    <value>crwdns14165:0{0}crwdne14165:0</value>
+  </data>
+  <data name="msgConfirmDeleteScheduledLive" xml:space="preserve">
+    <value>crwdns12904:0crwdne12904:0</value>
+  </data>
+  <data name="msgConfirmEndContinuouLive" xml:space="preserve">
+    <value>crwdns12905:0crwdne12905:0</value>
+  </data>
+  <data name="ContinuousLiveTextTemplate" xml:space="preserve">
+    <value>crwdns12906:0{0}crwdnd12906:0{1}crwdne12906:0</value>
+  </data>
+  <data name="ScheduledLiveTextTemplate" xml:space="preserve">
+    <value>crwdns12907:0{0}crwdnd12907:0{1}crwdne12907:0</value>
+  </data>
+  <data name="EventTextTemplate" xml:space="preserve">
+    <value>crwdns12908:0{0}crwdnd12908:0{1}crwdne12908:0</value>
+  </data>
+  <data name="GroupTextTemplate" xml:space="preserve">
+    <value>crwdns12909:0{0}crwdnd12909:0{1}crwdne12909:0</value>
+  </data>
+  <data name="LiveTextTemplate" xml:space="preserve">
+    <value>crwdns12911:0{0}crwdnd12911:0{1}crwdne12911:0</value>
+  </data>
+  <data name="ManualLiveTextTemplate" xml:space="preserve">
+    <value>crwdns14205:0{0}crwdnd14205:0{1}crwdne14205:0</value>
+  </data>
+  <data name="msgScheduledLiveCreated" xml:space="preserve">
+    <value>crwdns12912:0crwdne12912:0</value>
+  </data>
+  <data name="msgScheduledLiveUpdated" xml:space="preserve">
+    <value>crwdns12913:0crwdne12913:0</value>
+  </data>
+  <data name="EVENT" xml:space="preserve">
+    <value>crwdns13126:0crwdne13126:0</value>
+  </data>
+  <data name="btnManageScheduledLiveVideos" xml:space="preserve">
+    <value>crwdns13127:0crwdne13127:0</value>
+  </data>
+  <data name="msgAdBreakOnboardRequiredTitle" xml:space="preserve">
+    <value>crwdns13793:0crwdne13793:0</value>
+  </data>
+  <data name="msgAdBreakFailTitle" xml:space="preserve">
+    <value>crwdns13781:0crwdne13781:0</value>
+  </data>
+  <data name="msgAdBreakFailBroadcasterViolations" xml:space="preserve">
+    <value>crwdns13782:0{0}crwdnd13782:0{1}crwdne13782:0</value>
+  </data>
+  <data name="msgAdBreakFailMinimumViewers" xml:space="preserve">
+    <value>crwdns13783:0{0}crwdnd13783:0{1}crwdne13783:0</value>
+  </data>
+  <data name="msgAdBreakFailTimeBetweenLastBreak" xml:space="preserve">
+    <value>crwdns13784:0{0}crwdnd13784:0{1}crwdne13784:0</value>
+  </data>
+  <data name="msgAdBreakFailTimeSinceStart" xml:space="preserve">
+    <value>crwdns13785:0{0}crwdnd13785:0{1}crwdne13785:0</value>
+  </data>
+  <data name="msgAdBreakFailNotOnboard" xml:space="preserve">
+    <value>crwdns13786:0{0}crwdnd13786:0{1}crwdnd13786:0{2}crwdne13786:0</value>
+  </data>
+  <data name="msgAdBreakReady" xml:space="preserve">
+    <value>crwdns13787:0{0}crwdne13787:0</value>
+  </data>
+  <data name="msgAdBreakReadyNoHotkey" xml:space="preserve">
+    <value>crwdns13788:0crwdne13788:0</value>
+  </data>
+  <data name="msgAdBreakPreparing" xml:space="preserve">
+    <value>crwdns13789:0{0}crwdnd13789:0{1}crwdne13789:0</value>
+  </data>
+  <data name="msgAdBreakPrepared" xml:space="preserve">
+    <value>crwdns13790:0{0}crwdne13790:0</value>
+  </data>
+  <data name="msgAdBreakWaiting" xml:space="preserve">
+    <value>crwdns13791:0{0}crwdnd13791:0{1}crwdne13791:0</value>
+  </data>
+  <data name="msgAdBreakPlaying" xml:space="preserve">
+    <value>crwdns13792:0{0}crwdne13792:0</value>
+  </data>
+  <data name="msgAdBreakPreparingNoHotkey" xml:space="preserve">
+    <value>crwdns13814:0{0}crwdne13814:0</value>
+  </data>
+  <data name="msgAdBreakPreparedNoHotkey" xml:space="preserve">
+    <value>crwdns13815:0crwdne13815:0</value>
+  </data>
+  <data name="msgAdBreakWaitingNoHotkey" xml:space="preserve">
+    <value>crwdns13816:0{0}crwdne13816:0</value>
+  </data>
+  <data name="msgManualStartWarning" xml:space="preserve">
+    <value>crwdns14166:0crwdne14166:0</value>
+  </data>
+  <data name="LoadMoreGroups" xml:space="preserve">
+    <value>crwdns14152:0crwdne14152:0</value>
+  </data>
+  <data name="LoadMorePageEvents" xml:space="preserve">
+    <value>crwdns14153:0crwdne14153:0</value>
+  </data>
+  <data name="LoadMorePages" xml:space="preserve">
+    <value>crwdns14154:0crwdne14154:0</value>
+  </data>
+  <data name="LoadMoreUserEvents" xml:space="preserve">
+    <value>crwdns14155:0crwdne14155:0</value>
+  </data>
+  <data name="lblSwitchAccount" xml:space="preserve">
+    <value>crwdns14647:0crwdne14647:0</value>
+  </data>
+  <data name="lblRequiresPermission" xml:space="preserve">
+    <value>crwdns14648:0crwdne14648:0</value>
+  </data>
+  <data name="msgCurrentStageFormat" xml:space="preserve">
+    <value>crwdns45639:0crwdne45639:0</value>
+  </data>
+  <data name="msgBelowMinBitrate_EasyMode" xml:space="preserve">
+    <value>crwdns54226:0{0}crwdnd54226:0{1}crwdnd54226:0{2}crwdne54226:0</value>
+  </data>
+</root>

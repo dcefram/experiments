@@ -1,0 +1,86 @@
+{
+  "presentationPackager.info_text": {
+    "message": "บันทึกการนำเสนอของคุณในแบบของตัวเองที่บรรจุไฟล์ <strong>BPRES</strong> หรือส่งออกเป็นไฟล์ <strong>BPZIP</strong>"
+  },
+  "presentationPackager.addtl_info": {
+    "message": "นี่จะเหมาะมากสำหรับพกพาและช่วยคุณในการแชร์การนำเสนอของคุณอย่างง่ายดาย"
+  },
+  "presentationPackager.export_as_bzip": {
+    "message": "ส่งออกเป็นไฟล์ BPZIP"
+  },
+  "presentationPackager.save_as": {
+    "message": "บันทึกเป็น..."
+  },
+  "presentationPackager.warning": {
+    "message": "คำเตือน:"
+  },
+  "presentationPackager.warning_info": {
+    "message": "การอ้างอิง SWF และ HTML เช่น CSS ภายนอกและไฟล์ JavaScript จะไม่รวมอยู่ในขั้นตอนการส่งออก"
+  },
+  "presentationPackager.verify_presentation_files": {
+    "message": "ยืนยันไฟล์การนำเสนอ"
+  },
+  "presentationPackager.export": {
+    "message": "ส่งออก"
+  },
+  "presentationPackager.close": {
+    "message": "ปิด"
+  },
+  "presentationPackager.export_in_progress": {
+    "message": "กำลังดำเนินการส่งออก"
+  },
+  "presentationPackager.moving_files": {
+    "message": "เคลื่อนที่ไฟล์ "
+  },
+  "presentationPackager.cancel": {
+    "message": "ยกเลิก"
+  },
+  "presentationPackager.validating_presentation_files": {
+    "message": "กำลังตรวจสอบไฟล์การนำเสนอ"
+  },
+  "presentationPackager.dll_permission": {
+    "message": "ต้องการสิทธิ์เข้าถึง Dll โปรดไปที่ <span id='goToPermissions'>Permissions/การอนุญาต</span> และมอบสิทธิ์สำหรับส่วนเสริมนี้เพื่อดำเนินการต่อไป"
+  },
+  "presentationPackager.export_successful": {
+    "message": "ส่งออกสำเร็จ"
+  },
+  "presentationPackager.export_cancelled": {
+    "message": "การส่งออกถูกยกเลิก"
+  },
+  "presentationPackager.validation_successful": {
+    "message": "การตรวจสอบเสร็จสิ้น "
+  },
+  "presentationPackager.no_missing_files": {
+    "message": "ไม่มีรายงานไฟล์ที่ขาดหายไป"
+  },
+  "presentationPackager.invalidFields": {
+    "message": "โปรดมอบชื่อไฟล์และเส้นทางที่ถูกต้อง มันต้องไม่บรรจุ &#92; &#47; &#58; &#8727; &#63; &#34; &#62; &#60; &#124; และไม่ควรจบด้วยเว้นว่างหรือจุด(.)"
+  },
+  "presentationPackager.invalidReserved": {
+    "message": "ชื่อไฟล์ที่ใส่คือคำสงวน Windows โปรดใช้ชื่ออื่น"
+  },
+  "presentationPackager.filenameTooLong": {
+    "message": "ชื่อไฟล์และ/หรือเส้นทางที่คุณใส่ไฟลฺ์หรือแหล่งที่มาของคุณอาจยาวเกินไป คุณสามารถตั้งชื่อไฟล์ให้สั้นลงหรือลองตั้งเส้นทางไฟล์ใหม่ให้สั้นลง"
+  },
+  "presentationPackager.periodDetected": {
+    "message": "โปรดเลือกชื่อไฟล์อื่น เพราะชื่อไฟล์ที่มีจุด/(s) ในตอนนี้ไม่ได้รับการสนับสนุนใช้งาน"
+  },
+  "presentationPackager.destinationPresent": {
+    "message": "เส้นทางไฟล์ถูกนำเสนอแล้ว คุณอยากเซฟทับไฟล์ใหม่?"
+  },
+  "presentationPackager.error_report": {
+    "message": "รายงานไฟล์ที่หายไป อาจถูกเปลี่ยนชื่อหรือลบทิ้ง"
+  },
+  "presentationPackager.view_details": {
+    "message": "ดูรายละเอียด"
+  },
+  "presentationPackager.alert_ok": {
+    "message": "ตกลง"
+  },
+  "presentationPackager.alert_yes": {
+    "message": "ใช่"
+  },
+  "presentationPackager.alert_no": {
+    "message": "ไม่ใช่"
+  }
+}

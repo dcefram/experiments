@@ -1,0 +1,83 @@
+{
+  "facebook.alerts.tabheader": {
+    "message": "警报"
+  },
+  "facebook.alerts.notification": {
+    "message": "提醒"
+  },
+  "facebook.alerts.status": {
+    "message": "状态"
+  },
+  "facebook.alerts.authorize": {
+    "message": "授权XSplit使用 Facebook Live"
+  },
+  "facebook.alerts.remove_authorization": {
+    "message": "**%api%** 删除授权"
+  },
+  "facebook.alerts.type.stars": {
+    "message": "星"
+  },
+  "facebook.alerts.type.share": {
+    "message": "共享"
+  },
+  "facebook.alerts.alert_type": {
+    "message": "警报类型"
+  },
+  "facebook.alerts.minimum_stars": {
+    "message": "最小的星"
+  },
+  "facebook.alerts.relogin": {
+    "message": "重新登录"
+  },
+  "facebook.alerts.style": {
+    "message": "风格"
+  },
+  "facebook.alerts.theme": {
+    "message": "主题"
+  },
+  "facebook.alerts.layout": {
+    "message": "布局"
+  },
+  "facebook.alerts.color": {
+    "message": "色彩"
+  },
+  "facebook.alerts.sound": {
+    "message": "警报声音"
+  },
+  "facebook.alerts.test_alert": {
+    "message": "测试警报"
+  },
+  "facebook.alerts.hide_connection_message": {
+    "message": "隐藏连接消息"
+  },
+  "facebook.alerts.source": {
+    "message": "资源"
+  },
+  "facebook.alerts.account": {
+    "message": "帐户"
+  },
+  "facebook.alerts.error_auth": {
+    "message": "请再次尝试授权, 并授予 XSplit 对此功能所需的所有权限的访问权限"
+  },
+  "facebook.alerts.not_connected": {
+    "message": "当直播生效时警报将自动加载"
+  },
+  "facebook.alerts.settings": {
+    "message": "设置"
+  },
+  "facebook.alerts.switch_account": {
+    "message": "**%api%** 切换帐户"
+  },
+  "facebook.alerts.connected": {
+    "message": "连接"
+  },
+  "facebook.alerts.not_seeing_videos": {
+    "message": "没有看到你的直播视频？"
+  },
+  "facebook.alerts.not_seeing_videos_help": {
+    "message": "我们可能没有权限访问您的某些网页的实时视频。"
+  },
+  "facebook.alerts.not_seeing_videos_link": {
+    "message": "点击这里重新授权"
+  }
+}

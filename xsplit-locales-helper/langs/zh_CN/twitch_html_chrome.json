@@ -1,0 +1,62 @@
+{
+	"twitch.html.tabheader": {
+		"message": "聊天"
+	},
+	"twitch.html.source": {
+		"message": "资源"
+	},
+	"twitch.html.account": {
+		"message": "帐户"
+	},
+	"twitch.html.preview": {
+		"message": "预览"
+	},
+	"twitch.html.not_connected": {
+		"message": "未连接"
+	},
+	"twitch.html.connected": {
+		"message": "连接"
+	},
+	"twitch.html.error_channel_not_found": {
+		"message": "请提供有效的通道."
+	},
+	"twitch.html.display": {
+		"message": "显示"
+	},
+	"twitch.html.chat_box": {
+		"message": "聊天框"
+	},
+	"twitch.html.opacity": {
+		"message": "透明度"
+	},
+	"twitch.html.viewers": {
+		"message": "观众"
+	},
+	"twitch.html.message": {
+		"message": "消息"
+	},
+	"twitch.html.text_size": {
+		"message": "文本大小"
+	},
+	"twitch.html.hide_user_icons": {
+		"message": "隐藏用户图标"
+	},
+	"twitch.html.hide_timestamps": {
+		"message": "隐藏时间戳"
+	},
+	"twitch.html.hide_on_idle": {
+		"message": "空闲时隐藏聊天"
+	},
+	"twitch.html.channel": {
+		"message": "频道"
+	},
+	"twitch.html.connect": {
+		"message": "连接"
+	},
+	"twitch.html.disconnect": {
+		"message": "断开连接"
+	},
+	"twitch.html.use_twitch_colors": {
+		"message": "使用Twitch 聊天颜色"
+	}
+}

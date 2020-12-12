@@ -1,0 +1,107 @@
+{
+  "facebook.source_alert.tabheader": {
+    "message": "crwdns81266:0crwdne81266:0"
+  },
+  "facebook.source_alert.source": {
+    "message": "crwdns81268:0crwdne81268:0"
+  },
+  "facebook.source_alert.account": {
+    "message": "crwdns81270:0crwdne81270:0"
+  },
+  "facebook.source_alert.authorize": {
+    "message": "crwdns81272:0crwdne81272:0"
+  },
+  "facebook.source_alert.remove_authorization": {
+    "message": "crwdns81274:0%api%crwdne81274:0"
+  },
+  "facebook.source_alert.switch_account": {
+    "message": "crwdns81276:0%api%crwdne81276:0"
+  },
+  "facebook.source_alert.not_connected": {
+    "message": "crwdns81278:0crwdne81278:0"
+  },
+  "facebook.source_alert.connected": {
+    "message": "crwdns81280:0crwdne81280:0"
+  },
+  "facebook.source_alert.connect": {
+    "message": "crwdns81282:0crwdne81282:0"
+  },
+  "facebook.source_alert.disconnect": {
+    "message": "crwdns81284:0crwdne81284:0"
+  },
+  "facebook.source_alert.error_auth": {
+    "message": "crwdns81286:0crwdne81286:0"
+  },
+  "facebook.source_alert.not_seeing_videos": {
+    "message": "crwdns81288:0crwdne81288:0"
+  },
+  "facebook.source_alert.not_seeing_videos_help": {
+    "message": "crwdns81464:0crwdne81464:0"
+  },
+  "facebook.source_alert.not_seeing_videos_link": {
+    "message": "crwdns81292:0crwdne81292:0"
+  },
+  "facebook.source_alert.hide_connection_message": {
+    "message": "crwdns81294:0crwdne81294:0"
+  },
+  "facebook.source_alert.alertLabel": {
+    "message": "crwdns81296:0crwdne81296:0"
+  },
+  "facebook.source_alert.animation_text": {
+    "message": "crwdns81298:0crwdne81298:0"
+  },
+  "facebook.source_alert.duration": {
+    "message": "crwdns81300:0crwdne81300:0"
+  },
+  "facebook.source_alert.delay": {
+    "message": "crwdns81302:0crwdne81302:0"
+  },
+  "facebook.source_alert.animateIn": {
+    "message": "crwdns81304:0crwdne81304:0"
+  },
+  "facebook.source_alert.animateOut": {
+    "message": "crwdns81306:0crwdne81306:0"
+  },
+  "facebook.source_alert.audio": {
+    "message": "crwdns81308:0crwdne81308:0"
+  },
+  "facebook.source_alert.generalHeader": {
+    "message": "crwdns81310:0crwdne81310:0"
+  },
+  "facebook.source_alert.customizeHeader": {
+    "message": "crwdns81312:0crwdne81312:0"
+  },
+  "facebook.source_alert.theme": {
+    "message": "crwdns81314:0crwdne81314:0"
+  },
+  "facebook.source_alert.minStars": {
+    "message": "crwdns81316:0crwdne81316:0"
+  },
+  "facebook.source_alert.type": {
+    "message": "crwdns81318:0crwdne81318:0"
+  },
+  "facebook.source_alert.nameStyleAndSettings": {
+    "message": "crwdns81320:0crwdne81320:0"
+  },
+  "facebook.source_alert.sound": {
+    "message": "crwdns81322:0crwdne81322:0"
+  },
+  "facebook.source_alert.show_alert": {
+    "message": "crwdns81324:0crwdne81324:0"
+  },
+  "facebook.source_alert.hide_alert": {
+    "message": "crwdns81326:0crwdne81326:0"
+  },
+  "facebook.source_alert.test_alert": {
+    "message": "crwdns81328:0crwdne81328:0"
+  },
+  "facebook.source_alert.Color": {
+    "message": "crwdns81330:0crwdne81330:0"
+  },
+  "facebook.source_alert.layout": {
+    "message": "crwdns81332:0crwdne81332:0"
+  },
+  "facebook.source_alert.shareNote": {
+    "message": "crwdns81334:0crwdne81334:0"
+  }
+}

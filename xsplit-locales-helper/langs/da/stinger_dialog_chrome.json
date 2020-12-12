@@ -1,0 +1,17 @@
+{
+    "stinger.title": {
+        "message": "Edit your stinger name or transition point."
+    },
+    "stinger.name": {
+        "message": "Stinger name"
+    },
+    "stinger.transition": {
+        "message": "Transition point (ms)"
+    },
+    "button.ok": {
+        "message": "OK"
+    },
+    "button.cancel": {
+        "message": "Cancel"
+    }
+}

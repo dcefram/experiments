@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="msgAuthExpiredOrInvalid" xml:space="preserve">
+    <value>ไม่พบโทเค็นการเข้าถึง, หมดอายุ, หรือไม่ถูกต้อง โปรดทำการยืนยันใหม่อีกครั้ง</value>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>เชื่อมต่อ Xsplit เพื่อใช้ {0}</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>ถอนการอนุญาต</value>
+  </data>
+  <data name="lblPageAudience" xml:space="preserve">
+    <value>เพจผู้ชม</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>ไม่มีบัญชี Facebook? สมัครที่นี่เลย</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>มีปัญหากับการสื่อสารกับ เซิร์ฟเวอร์ ของ Facebook โปรดลองอีกครั้งภายหลัง</value>
+  </data>
+  <data name="msgAuthorizeRequired" xml:space="preserve">
+    <value>คุณต้องทำการอนุญาตบัญชีเป็นครั้งแรกก่อน</value>
+  </data>
+  <data name="msgStreamTimeLimitReached" xml:space="preserve">
+    <value>เวลาการไลฟ์ของ Facebook Live ถึงกำหนดแล้วที่ {0} นาที การบรอดแคสต์ได้หยุดลงแล้ว</value>
+  </data>
+  <data name="msgStreamTimeLimitUpdate" xml:space="preserve">
+    <value>คุณมี{0} นาที เหลืออยู่สำหรับ Facebook ไลฟ์ บรอดแคสต์นี้</value>
+  </data>
+  <data name="lblChannels" xml:space="preserve">
+    <value>แชนแนล:</value>
+  </data>
+  <data name="pbPageAudience_Tooltip" xml:space="preserve">
+    <value>การตั้งค่าผู้เข้าชมเพจ จะเปิดใช้งานเมื่อคุณโพสลงบนหน้าเพจเท่านั้น</value>
+  </data>
+  <data name="pbContinuousLive_Tooltip" xml:space="preserve">
+    <value>ตัวเลือกนี้จะอนุญาตให้คุณบรอดแคสต์ได้มากกว่า 4 ชั่วโมง
+แต่จะไม่สร้าง VOD ใน Facebook ทามไลน์ของคุณ</value>
+  </data>
+  <data name="USER_WALL" xml:space="preserve">
+    <value>ทามไลน์ของคุณเอง</value>
+  </data>
+  <data name="GROUP_WALL" xml:space="preserve">
+    <value>กลุ่ม</value>
+  </data>
+  <data name="PAGE_WALL" xml:space="preserve">
+    <value>เพจที่คุณเป็นคนจัดการ</value>
+  </data>
+  <data name="ALL" xml:space="preserve">
+    <value>ทั้งหมด</value>
+  </data>
+  <data name="MALE" xml:space="preserve">
+    <value>ชาย</value>
+  </data>
+  <data name="FEMALE" xml:space="preserve">
+    <value>หญิง</value>
+  </data>
+  <data name="EVERYONE" xml:space="preserve">
+    <value>สาธารณะ</value>
+  </data>
+  <data name="ALL_FRIENDS" xml:space="preserve">
+    <value>เพื่อน</value>
+  </data>
+  <data name="SELF" xml:space="preserve">
+    <value>เฉพาะฉัน</value>
+  </data>
+  <data name="ALL_LOCATIONS" xml:space="preserve">
+    <value>โลเคชั่นทั้งหมด</value>
+  </data>
+  <data name="SELECTED_LOCATIONS" xml:space="preserve">
+    <value>โลเคชั่นแบบรายชื่อ</value>
+  </data>
+  <data name="msgPostAsIsRequired" xml:space="preserve">
+    <value>การโพสแบบ "Post As" ไม่สามารถว่างได้</value>
+  </data>
+  <data name="msgTitleLengthExceeded" xml:space="preserve">
+    <value>ไตเติ้ลไม่สามารถเกิน 255 ตัวอักษรได้</value>
+  </data>
+  <data name="msgAgeRangeInvalid" xml:space="preserve">
+    <value>ค่าของอายุต่ำสุดและสูงสุดไม่ถูกต้อง</value>
+  </data>
+  <data name="msgCountriesCountExceeded" xml:space="preserve">
+    <value>โลเคชั่นที่เลือกต้องเป็น 25 หรือน้อยกว่า</value>
+  </data>
+  <data name="FacebookLiveProps" xml:space="preserve">
+    <value>คุณสมบัติ Facebook Live</value>
+  </data>
+  <data name="lblLiveUsername" xml:space="preserve">
+    <value>ชื่อผู้ใช้</value>
+  </data>
+  <data name="msgBelowMinBitrate" xml:space="preserve">
+    <value>คุณตั้งบิตเรทเป็น {0} การตั้งนี้ตั้งกว่าขั้นต่ำที่ Facebook แนะนำบิตเรทของ {1} สำหรับ{2} โปรดอ้างอิงถึงการช่วยเหลือที่ไอค่อน (?)</value>
+  </data>
+  <data name="msgMinFriendsCountForStream" xml:space="preserve">
+    <value>ผู้ใช้ไม่สามารถบรอดแคสต์ได้ถ้ามีเพื่อนน้อยกว่า {0} คน</value>
+  </data>
+  <data name="msgNoPermissionToCreateLiveVideo" xml:space="preserve">
+    <value>ผู้ใช้คนนี้ไม่มีสิทธิในการสร้างไลฟ์วีดิโอ</value>
+  </data>
+  <data name="msgEndContinuousLiveVideo" xml:space="preserve">
+    <value>คุณหยุดการสตรีมไปยัง Facebook Live 
+  คุณต้องการที่จะหยุดไลฟ์นี้ด้วยเลยหรือไม่</value>
+  </data>
+  <data name="msgStartScheduledLiveAnyway" xml:space="preserve">
+    <value>อย่างไรก็ตาม ไลฟ์ที่กำหนดเวลาไว้จะเปลี่ยนเป็นจากการตัวอย่างไปยังไลฟ์ตามเวลาที่ตั้งไว้
+
+กำหนดเวลไว้จะเริ่มขึ้นใน {0} คุณแน่ใจหรือไม่ที่จะไลฟ์ตอนนี้เลย?</value>
+  </data>
+  <data name="msgConfirmDeleteScheduledLive" xml:space="preserve">
+    <value>คุณแน่ใจหรือไม่ว่าต้องการลบกำหนดการออกอากาศนี้?</value>
+  </data>
+  <data name="msgConfirmEndContinuouLive" xml:space="preserve">
+    <value>คุณแน่ใจหรือว่าต้องการหยุดการไลฟ์วิดีโอต่อเนื่องนี้?</value>
+  </data>
+  <data name="ContinuousLiveTextTemplate" xml:space="preserve">
+    <value>ต่อเนื่อง: ถูกสร้างแล้ว {0}{1}</value>
+  </data>
+  <data name="ScheduledLiveTextTemplate" xml:space="preserve">
+    <value>กำหนดการ: เริ่ม {0}{1}</value>
+  </data>
+  <data name="EventTextTemplate" xml:space="preserve">
+    <value>{0} ไปอีเว้นท์ "{1}"</value>
+  </data>
+  <data name="GroupTextTemplate" xml:space="preserve">
+    <value>{0} ไปกลุ่ม "{1}"</value>
+  </data>
+  <data name="LiveTextTemplate" xml:space="preserve">
+    <value>ไลฟ์: การรอตั้งแต่ {0}{1}</value>
+  </data>
+  <data name="ManualLiveTextTemplate" xml:space="preserve">
+    <value>กำหนดเอง: เริ่ม{0}{1}</value>
+  </data>
+  <data name="msgScheduledLiveCreated" xml:space="preserve">
+    <value>กำหนดการไลฟ์วิดีโอใหม่ถูกสร้างขึ้นสำเร็จแล้ว</value>
+  </data>
+  <data name="msgScheduledLiveUpdated" xml:space="preserve">
+    <value>กำหนดการไลฟ์วิดีโอถูกสร้างขึ้นสำเร็จแล้ว</value>
+  </data>
+  <data name="EVENT" xml:space="preserve">
+    <value>เพิ่มอีเว้นท์</value>
+  </data>
+  <data name="btnManageScheduledLiveVideos" xml:space="preserve">
+    <value>จัดการกำหนดการไลฟ์วิดีโอ</value>
+  </data>
+  <data name="msgAdBreakOnboardRequiredTitle" xml:space="preserve">
+    <value>ต้องการออนบอร์ดสำหรับ ads</value>
+  </data>
+  <data name="msgAdBreakFailTitle" xml:space="preserve">
+    <value>รัน ad ล้มเหลว</value>
+  </data>
+  <data name="msgAdBreakFailBroadcasterViolations" xml:space="preserve">
+    <value>ไม่สามารถเริ่มต้น ad ได้สำหรับ {0}
+Ad break ถูกปิดไว้ วิดีโอของคุณอาจจะมีเนื้อหาที่คุณไม่มีสิทธิในการใช้งาน
+&lt;a href="{1}"&gt;เรียนรู้เพิ่มเติม&lt;/a&gt; ที่ Facebook Ad Breaks</value>
+  </data>
+  <data name="msgAdBreakFailMinimumViewers" xml:space="preserve">
+    <value>ไม่สามารถเริ่มต้น ad ได้สำหรับ {0}
+ต้องการผู้ชมเพิ่มขึ้น คุณต้องการผู้ชมอย่างน้อย {1} คนดูอยู่ในเวลาเดียวกัน</value>
+  </data>
+  <data name="msgAdBreakFailTimeBetweenLastBreak" xml:space="preserve">
+    <value>ไม่สามารถเริ่มต้น ad ได้สำหรับ {0}
+เวลายังผ่านไปไม่มากพอตั้งแต่ Ad Break ล่าสุด คุณต้องรออย่างน้อย {1} วินาทีก่อนที่จะเริ่ม Ad Break ต่อไปได้</value>
+  </data>
+  <data name="msgAdBreakFailTimeSinceStart" xml:space="preserve">
+    <value>ไม่สามารถเริ่มต้น ad ได้สำหรับ {0}
+เร็วเกินไปที่จะเริ่มต้น Ad Break คุณต้องไลฟ์มาแล้วอย่างน้อย {1} วินาที</value>
+  </data>
+  <data name="msgAdBreakFailNotOnboard" xml:space="preserve">
+    <value>คุณต้อมีออนบอร์ดก่อนที่จะสามารถใช้ Ad สำหรับ{0} คลิ๊ก &lt;a href="{1}"&gt;ที่นี่&lt;/a&gt; เพื่อเริ่มการออนบอร์ด
+เมื่อคุณออนบอร์ดแล้ว ที่แถวไตเติ้ลจะเตือนคุณว่าคุณพร้อมแล้วสำหรับการใช้ ad
+&lt;a href="{2}"&gt;เรียนรุ้เเพิ่มเติม&lt;/a&gt; จาก Facebook Ad Breaks.</value>
+  </data>
+  <data name="msgAdBreakReady" xml:space="preserve">
+    <value>(พร้อมสำหรับ Ad กด {0} เพื่อเริ่มต้น)</value>
+  </data>
+  <data name="msgAdBreakReadyNoHotkey" xml:space="preserve">
+    <value>(พร้อมสำหรับ Ad ไม่มีปุ่มลัดตั้งไว้)</value>
+  </data>
+  <data name="msgAdBreakPreparing" xml:space="preserve">
+    <value>(กำลังเตรียม ad:{0}%... กด {1} เพื่อยกเลิก)</value>
+  </data>
+  <data name="msgAdBreakPrepared" xml:space="preserve">
+    <value>( Ad พร้อมแล้ว กด {0} เพื่อเริ่มต้น)</value>
+  </data>
+  <data name="msgAdBreakWaiting" xml:space="preserve">
+    <value>(เริ่มต้น adภายใน:{0}วินาที... กด {1} เพื่อยกเลิก)</value>
+  </data>
+  <data name="msgAdBreakPlaying" xml:space="preserve">
+    <value>(กำลังเล่น Ad:{0}วินาที...)</value>
+  </data>
+  <data name="msgAdBreakPreparingNoHotkey" xml:space="preserve">
+    <value>(กำลังเตรียม ad:{0}%... ไม่มีปุ่มลัดตั้งไว้)</value>
+  </data>
+  <data name="msgAdBreakPreparedNoHotkey" xml:space="preserve">
+    <value>(Ad พร้อมแล้ว ไม่มีปุ่มลัดตั้งไว้)</value>
+  </data>
+  <data name="msgAdBreakWaitingNoHotkey" xml:space="preserve">
+    <value>(เริ่มต้น adภายใน:{0}วินาที... ไม่มีปุ่มลัดตั้งไว้)</value>
+  </data>
+  <data name="msgManualStartWarning" xml:space="preserve">
+    <value>สเตตัสของไลฟ์วิดีโอนี้ถูกตั้งเป็นแบบเลือกเอง เมื่อเริ่มต้นการ บรอดแคสต์โดยใช้ 'เลือกเอง' คุณจะไม่สามารถเปลี่ยนกลับไปเป็นแบบ 'กำหนดการ' ได้แล้ว
+
+การที่จะตั้งค่าไลฟ์วิดีโอสเตตัสเป็นไลฟ์นั้นคุณจะต้อง กดปุ่ม 'เริ่มไลฟ์' เองจาก Facebook หรือเริ่มต้น บรอดแคสต์ใหม่และตั้งสเตตัสเป็น 'ไลฟ์'
+
+ต้องการดำเนิการต่อหรือไม่?</value>
+  </data>
+  <data name="LoadMoreGroups" xml:space="preserve">
+    <value>โหลดกลุ่มเพิ่มเติม...</value>
+  </data>
+  <data name="LoadMorePageEvents" xml:space="preserve">
+    <value>โหลดเพจอีเว้นท์เพิ่มเติม...</value>
+  </data>
+  <data name="LoadMorePages" xml:space="preserve">
+    <value>โหลดเพจเพิ่มเติม...</value>
+  </data>
+  <data name="LoadMoreUserEvents" xml:space="preserve">
+    <value>โหลดอีเว้นท์ของผู้ใช้เพิ่มเติม...</value>
+  </data>
+  <data name="lblSwitchAccount" xml:space="preserve">
+    <value>สลับบัญชี</value>
+  </data>
+  <data name="lblRequiresPermission" xml:space="preserve">
+    <value>ต้องการการอนุญาต</value>
+  </data>
+  <data name="msgCurrentStageFormat" xml:space="preserve">
+    <value>รูปแบบเสตจปัจจุบัน</value>
+  </data>
+  <data name="msgBelowMinBitrate_EasyMode" xml:space="preserve">
+    <value>คุณตั้งบิตเรทเป็น {0} การตั้งนี้ตั้งน้อยกว่าขั้นต่ำที่ Facebook แนะนำบิตเรทของ {1} สำหรับ{2}
+ดำเนินการต่อหรือไม่?</value>
+  </data>
+</root>

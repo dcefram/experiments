@@ -1,0 +1,173 @@
+{
+  "title.content": {
+    "message": "內容"
+  },
+  "title.use_custom_script": {
+    "message": "使用自訂腳本"
+  },
+  "title.edit_script": {
+    "message": "編輯腳本"
+  },
+  "title.format": {
+    "message": "格式"
+  },
+  "title.font": {
+    "message": "字體"
+  },
+  "title.color": {
+    "message": "顏色"
+  },
+  "title.outline": {
+    "message": "大綱"
+  },
+  "title.opacity": {
+    "message": "透明度"
+  },
+  "title.style": {
+    "message": "風格"
+  },
+  "title.align": {
+    "message": "對齊"
+  },
+  "title.shadow": {
+    "message": "陰影"
+  },
+  "title.distance": {
+    "message": "距離"
+  },
+  "title.blur": {
+    "message": "模糊"
+  },
+  "title.angle": {
+    "message": "角度"
+  },
+  "title.animation": {
+    "message": "動畫"
+  },
+  "title.none": {
+    "message": "None"
+  },
+  "title.scroll": {
+    "message": "滾動"
+  },
+  "title.fade": {
+    "message": "褪去"
+  },
+  "title.scrolling": {
+    "message": "滾動"
+  },
+  "title.line_limit": {
+    "message": "行限制"
+  },
+  "title.direction": {
+    "message": "方向"
+  },
+  "title.speed": {
+    "message": "速度"
+  },
+  "title.scroll_units": {
+    "message": "px/秒"
+  },
+  "title.delimeter": {
+    "message": "限定詞"
+  },
+  "title.interval": {
+    "message": "時間間隔"
+  },
+  "title.fade_speed": {
+    "message": "褪速度"
+  },
+  "title.enable_60_fps": {
+    "message": "啟用高達 60 幀/秒"
+  },
+  "title.enable_60_fps_tooltip": {
+    "message": "可能需要額外的 GPU/CPU 資源. 注意切換此選項將觸髮刷新源. 為了獲得最佳性能, 使您能夠瀏覽器源特別優化下工具-設置-高級 >."
+  },
+  "title.ok": {
+    "message": "Ok"
+  },
+  "title.cancel": {
+    "message": "取消"
+  },
+  "title.hint.content_section": {
+    "message": "您在此處輸入文字. 你可以使用&amp; lt; br &amp; gt;若要插入行break(s). 您還可以使用設置BBcode進一步設置文本的格式. 單擊[這裡](https:// xspl.it/bbcode) 了解更多."
+  },
+  "title.deprecated_scripts": {
+    "message": "此文本源中正在使用該腳本包含一些過時的腳本方法.通過執行以下操作來更新腳本: [br] 1.請單擊[br] 2 文本選項卡中的編輯腳本按鈕.選擇腳本模板,然後按更新文本按鈕"
+  },
+  "title.outdated_scripts": {
+    "message": "此文本源中正在使用的腳本可能已過期.你可以通過做以下內容來更新腳本: [br]1.單擊'編輯腳本'按鈕在文本[br]2.選擇腳本模板,配置設置,然後按'更新文本'按鈕"
+  },
+  "title.script_editor.edit_script": {
+    "message": "編輯腳本- "
+  },
+  "title.script_editor.title": {
+    "message": "腳本"
+  },
+  "title.script_editor.template": {
+    "message": "範本"
+  },
+  "title.script_editor.settings": {
+    "message": "設置"
+  },
+  "title.script_editor.script": {
+    "message": "腳本"
+  },
+  "title.script_editor.back": {
+    "message": "返回"
+  },
+  "title.script_editor.update_title": {
+    "message": "更新文本"
+  },
+  "title.help.outline_title": {
+    "message": "使用大綱對文本源"
+  },
+  "title.help.outline_message": {
+    "message": "使用大綱時字體大小有限制,可以調整文本源在你的舞臺,但文本將只調整到的最大字體大小."
+  },
+  "title.help.pause_script_title": {
+    "message": "暫停或恢復腳本"
+  },
+  "title.help.pause_script_message": {
+    "message": "您可以暫停/播放等通用時鐘腳本和其他支援的自訂腳本的計時器和持續時間的模式支援的腳本."
+  },
+  "title.help.delimeter_title": {
+    "message": "限定詞"
+  },
+  "title.help.delimeter_message": {
+    "message": "分隔符號是一個字元或組將文本分隔成段每淡入淡出效果顯示的字元."
+  },
+  "title.help.interval_title": {
+    "message": "時間間隔"
+  },
+  "title.help.interval_message": {
+    "message": "間隔是文本將顯示在另一個淡入淡出效果將發生之前的時間."
+  },
+  "title.pause_hotkey": {
+    "message": "當在舞台中選擇源時, 您可以使用快捷鍵(按\"P\"), 暫停/播放支持的腳本."
+  },
+  "title.direction_options_right_to_left": {
+    "message": "從右至左"
+  },
+  "title.direction_options_left_to_right": {
+    "message": "左到右"
+  },
+  "title.direction_options_bottom_to_top": {
+    "message": "底部到頂部"
+  },
+  "title.direction_options_top_to_bottom": {
+    "message": "頂部到底部"
+  },
+  "title.outline_options_none": {
+    "message": "None"
+  },
+  "title.outline_options_thin": {
+    "message": "薄"
+  },
+  "title.outline_options_thick": {
+    "message": "厚"
+  },
+  "title.outline_options_thickest": {
+    "message": "最厚"
+  }
+}

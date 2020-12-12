@@ -1,0 +1,77 @@
+{
+	"youtube.superchat.tabheader": {
+		"message": "警報"
+	},
+	"youtube.superchat.source": {
+		"message": "資源"
+	},
+	"youtube.superchat.account": {
+		"message": "帳戶"
+	},
+	"youtube.superchat.preview": {
+		"message": "預覽"
+	},
+	"youtube.superchat.account_automatic": {
+		"message": "自動"
+	},
+	"youtube.superchat.authorize": {
+		"message": "授權XSplit使用YouTube Live"
+	},
+	"youtube.superchat.remove_authorization": {
+		"message": "**%api%** 刪除授權"
+	},
+	"youtube.superchat.switch_account": {
+		"message": "**%api%** 切換帳戶"
+	},
+	"youtube.superchat.not_connected": {
+		"message": "當直播生效時Widget 將自動連接"
+	},
+	"youtube.superchat.connected": {
+		"message": "連接"
+	},
+	"youtube.superchat.error_channel_not_found": {
+		"message": "請提供有效的通道."
+	},
+	"youtube.superchat.notification": {
+		"message": "提醒"
+	},
+	"youtube.superchat.lock_components": {
+		"message": "鎖定組件"
+	},
+	"youtube.superchat.lock_components_help": {
+		"message": "選中此選項將禁用鼠標懸停，重新定位和調整組件大小。[br]如果您不想在組件上顯示懸停效果，請檢查此項，尤其是在流式傳輸或錄製時。"
+	},
+	"youtube.superchat.show_ticker": {
+		"message": "顯示斷續器"
+	},
+	"youtube.superchat.show_alert": {
+		"message": "顯示提醒"
+	},
+	"youtube.superchat.opacity": {
+		"message": "透明度"
+	},
+	"youtube.superchat.font": {
+		"message": "字體"
+	},
+	"youtube.superchat.text_size": {
+		"message": "文本大小"
+	},
+	"youtube.superchat.hide_message": {
+		"message": "隱藏超級聊天消息"
+	},
+	"youtube.superchat.duration": {
+		"message": "持續時間"
+	},
+	"youtube.superchat.sound": {
+		"message": "聲音"
+	},
+	"youtube.superchat.test_alert": {
+		"message": "測試警報"
+	},
+	"youtube.superchat.loggingInTo": {
+		"message": "登錄YouTube..."
+	},
+	"youtube.superchat.pleaseComplete": {
+		"message": "請在瀏覽器中完成登錄過程"
+	}
+}

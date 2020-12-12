@@ -1,0 +1,62 @@
+{
+	"twitch.html.tabheader": {
+		"message": "チャット"
+	},
+	"twitch.html.source": {
+		"message": "ソース"
+	},
+	"twitch.html.account": {
+		"message": "アカウント"
+	},
+	"twitch.html.preview": {
+		"message": "プレビュー"
+	},
+	"twitch.html.not_connected": {
+		"message": "接続されていません。"
+	},
+	"twitch.html.connected": {
+		"message": "接続しました。"
+	},
+	"twitch.html.error_channel_not_found": {
+		"message": "有効のチャンネルを入力してください。"
+	},
+	"twitch.html.display": {
+		"message": "ディスプレイ"
+	},
+	"twitch.html.chat_box": {
+		"message": "チャットボックス"
+	},
+	"twitch.html.opacity": {
+		"message": "透明度"
+	},
+	"twitch.html.viewers": {
+		"message": "閲覧者"
+	},
+	"twitch.html.message": {
+		"message": "メッセージ"
+	},
+	"twitch.html.text_size": {
+		"message": "テキストサイズ"
+	},
+	"twitch.html.hide_user_icons": {
+		"message": "ユーザーアイコンを隠す"
+	},
+	"twitch.html.hide_timestamps": {
+		"message": "タイムスタンプを隠す"
+	},
+	"twitch.html.hide_on_idle": {
+		"message": "無反応時にチャットを隠す"
+	},
+	"twitch.html.channel": {
+		"message": "チャンネル"
+	},
+	"twitch.html.connect": {
+		"message": "接続"
+	},
+	"twitch.html.disconnect": {
+		"message": "接続を切る"
+	},
+	"twitch.html.use_twitch_colors": {
+		"message": "Use Twitch chat colors"
+	}
+}

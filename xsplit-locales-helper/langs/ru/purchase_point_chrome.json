@@ -1,0 +1,167 @@
+{
+	"title": {
+		"message": "Купите лицензию XSplit сегодня и получите ещё больше возможностей"
+	},
+	"purchasePoint.header": {
+		"message": "Стоимость лицензии XSplit начинается с $5 в месяц"
+	},
+	"purchasePoint.tagLine": {
+		"message": "Купите лицензию сейчас и получите быстрый доступ к этим функциям XSplit Gamecaster"
+	},
+	"purchasePoint.discountTag": {
+		"message": "СКИДКИ ДО **50%**"
+	},
+	"purchasePoint.buyNow": {
+		"message": "КУПИТЬ"
+	},
+	"purchasePoint.upgradeNow": {
+		"message": "ОБНОВИТЬ СЕЙЧАС"
+	},
+	"purchasePoint.upgradeLicenseNow": {
+		"message": "ОБНОВИТЬ ЛИЦЕНЗИЮ СЕЙЧАС!"
+	},
+	"purchasePoint.personalLicense": {
+		"message": "ПЕРСОНАЛЬНАЯ ЛИЦЕНЗИЯ"
+	},
+	"purchasePoint.premiumLicense": {
+		"message": "ЛИЦЕНЗИЯ ПРЕМИУМ"
+	},
+	"purchasePoint.gameSource.label": {
+		"message": "Gamesource - высокая производительность[br] \nсъёмка игры"
+	},
+	"purchasePoint.noWatermark.label": {
+		"message": "Отсутствие водяного знака XSplit при высоких разрешениях"
+	},
+	"purchasePoint.gameCard.label": {
+		"message": "Hauppauge HD PVR2/GE/GE+[br] \nи Roxio Game Capture HD Pro"
+	},
+	"purchasePoint.encodingOffload.label": {
+		"message": "Поддержка NVidia ® NVENC, [br] \nIntel ® Quick Sync и AMD ® VCE"
+	},
+	"purchasePoint.maxFPS.label": {
+		"message": "Более высокие значения FPS"
+	},
+	"purchasePoint.projector.label": {
+		"message": "Проектор"
+	},
+	"purchasePoint.localStreaming.label": {
+		"message": "Местный стриминг"
+	},
+	"purchasePoint.videoEditor.label": {
+		"message": "Express Video Editor"
+	},
+	"purchasePoint.streamDelay.label": {
+		"message": "Задержка трансляции"
+	},
+	"purchasePoint.commercialUse.label": {
+		"message": "Коммерческое использование"
+	},
+	"purchasePoint.andManyMore.label": {
+		"message": "И многое другое!"
+	},
+	"purchasePoint.previewEditor.label": {
+		"message": "Просмотр Редактирование"
+	},
+	"purchasePoint.audioPreview.label": {
+		"message": "Предварительное прослушивание аудио"
+	},
+	"purchasePoint.AMDVCE.label": {
+		"message": "Поддержка AMD® VCE"
+	},
+	"purchasePoint.NVidiaNVENC.label": {
+		"message": "Поддержка NVidia® NVENC"
+	},
+	"purchasePoint.intelQuickSync.label": {
+		"message": "Поддержка Intel® Quick Sync"
+	},
+	"purchasePoint.gameSource.description": {
+		"message": "Позволяет снимать pc игры в оконном и полноэкранном режимах. Использование XSplit Gamesource практически не влияет на производительность игры"
+	},
+	"purchasePoint.noWatermark.description": {
+		"message": "Все пользователи имеют возможность использовать XSplit Broadcaster с разрешением до %resolution% без брендинга. Высокое разрешение для пользователей без платной подписки будет помечено водяным знаком."
+	},
+	"purchasePoint.gameCard.description": {
+		"message": "Использование этих карты видеозахвата недоступно в бесплатной версии XSplit Broadcaster. Становитесь платным пользователем и получите возможность обратиться в техподдержку."
+	},
+	"purchasePoint.encodingOffload.description": {
+		"message": "Используйте Nvidia ® NVENC, Intel® Quick Sync или AMD® Video Codec Engine (VCE), позволяющие ЦП разгружать требуемые задачи для кодирования вашего GPU"
+	},
+	"purchasePoint.maxFPS.description": {
+		"message": "Установить параметры FPS выше %fps%. XSplit Broadcaster поддерживает вывод даже 120 FPS, что обеспечивает чёткую и гладкую трансляцию"
+	},
+	"purchasePoint.projector.description": {
+		"message": "Составить превью XSplit Broadcaster на любом из существующих мониторов в полноэкранном режиме. Можно использовать в сочетании с видеоконтрольным монитором для лучшего многозадачного режима"
+	},
+	"purchasePoint.localStreaming.description": {
+		"message": "Транслировать поток на LAN или объединить два потока в один (также работает через VPN). Устранить необходимость пропускной способности выгрузки/загрузки из интернета, если ваша аудитория локальна."
+	},
+	"purchasePoint.videoEditor.description": {
+		"message": "Собирайте и редактируйте свои записи с помощью нашего простого в использовании видеоредактора. Он позволит вам вырезать и склеивать все видео в приложении."
+	},
+	"purchasePoint.streamDelay.description": {
+		"message": "Задержать трансляцию на любое выбранное вами количество секунд. Используется для исключения злоупотребления/обмана и т.д."
+	},
+	"purchasePoint.commercialUse.description": {
+		"message": "Лицензия XSplit Premium позволяет вам использовать программное обеспечение в целях монетизации. Вы можете монетизировать свой поток, запустив рекламу от 3 участника в качестве поставщика потоковых услуг."
+	},
+	"purchasePoint.andManyMore.description": {
+		"message": "В лицензии XSplit Broadcaster Premium существует больше функций, чем может поместиться в этом диалоговом окне! Некоторые из дополнительных функций включают виртуальную камеру для вывода вашего превью, например, в Skype или другую программу. Вы можете использовать источник видео Skype как входные данные для съёмки и трансляции видео-звонка. Для просмотра полного списка, пожалуйста, посетите наш веб-сайт [www.xsplit.com](https://xspl.it/bc/broadcaster)."
+	},
+	"purchasePoint.previewEditor.description": {
+		"message": "Редактируйте любые сценарии во время прямой трансляции. Выберите загрузить или сохранить сценарий, а также применить или отменить изменения для прямой трансляции."
+	},
+	"purchasePoint.audioPreview.description": {
+		"message": "Данная функция позволяет Вам контролировать Ваш аудио выпуск - точно также, как ваши зрители будут его слышать."
+	},
+	"purchasePoint.paymentMethods": {
+		"message": "Принимаются следующие способы оплаты:"
+	},
+	"purchasePoint.visitOurWebsite": {
+		"message": "Чтобы узнать больше о возможностях продукта, посетите наш [сайт](https://xspl.it/bc/website)."
+	},
+	"purchasePoint.getTwo.header": {
+		"message": "Двойная удача! Вы получаете два продукта!"
+	},
+	"purchasePoint.getTwo.description": {
+		"message": "Лицензия XSplit действительна для XSplit Broadcaster и XSplit Gamecaster. [Читать подробнее](https://xsplit.com)"
+	},
+	"purchasePoint.doNotShow": {
+		"message": "Больше не показывать"
+	},
+	"purchasePoint.wait": {
+		"message": "ПОДОЖДИТЕ... %count%"
+	},
+	"purchasePoint.continue": {
+		"message": "ПРОДОЛЖИТЬ"
+	},
+	"purchasePoint.maybeLater": {
+		"message": "ВОЗМОЖНО ПОЗЖЕ"
+	},
+	"purchasePoint.licenseAgreement": {
+		"message": "Нажав кнопку **ПРОДОЛЖИТЬ**, я подтверждаю, что прочитал(а) и согласился (лась) с условиями, предусмотренными в [лицензионном соглашении XSplit](https://xspl.it/gc/terms)."
+	},
+	"purchasePoint.advertisment.label": {
+		"message": "Friends of XSplit"
+	},
+	"purchasePoint.advertisment.paid.label": {
+		"message": "Добро пожаловать в XSplit"
+	},
+	"purchasePoint.buyxsplitnow": {
+		"message": "Стоимость лицензии XSplit начинается с $5 в месяц"
+	},
+	"purchasePoint.newsandupdates": {
+		"message": "COMMUNITY NEWS AND UPDATES"
+	},
+	"purchasePoint.news.previous": {
+		"message": "[предыдущая страница](previousClick)"
+	},
+	"purchasePoint.news.next": {
+		"message": "[следующая страница](nextClick)"
+	},
+	"purchasePoint.tutorials": {
+		"message": "XSplit Tutorials"
+	},
+	"purchasePoint.upgrade": {
+		"message": "ОБНОВИТЬ"
+	}
+}

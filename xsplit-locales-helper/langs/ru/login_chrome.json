@@ -1,0 +1,234 @@
+{
+	"email": {
+		"message": "Электронная почта"
+	},
+	"password": {
+		"message": "Пароль"
+	},
+	"rememberMe": {
+		"message": "Запомнить меня"
+	},
+	"newXSplitUser": {
+		"message": "Новый пользователь XSplit?"
+	},
+	"noAccount": {
+		"message": "Зарегистрироваться сейчас"
+	},
+	"forgotPassword": {
+		"message": "Забыл пароль"
+	},
+	"enterCode": {
+		"message": "Ввести код"
+	},
+	"loginAutomatically": {
+		"message": "Входить автоматически"
+	},
+	"login": {
+		"message": "Войти"
+	},
+	"selectLanguage": {
+		"message": "ВЫБРАТЬ ЯЗЫК"
+	},
+	"agreement": {
+		"message": "Я прочитал и согласен с [лицензионным соглашением XSplit](http://xspl.it/bc/terms) и [политикой конфиденциальности](https://xspl.it/bc/privacy)."
+	},
+	"updates": {
+		"message": "Присылайте мне обновления и специальные предложения по электронной почте."
+	},
+	"noEmailMessage": {
+		"message": "Вы отказались от получения писем об обновлениях. Нажмите продолжить для подтверждения вашего выбора."
+	},
+	"growl.warning": {
+		"message": "Предупреждение"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.title": {
+		"message": "Режим Caps Lock",
+		"type": "warning"
+	},
+	"growl.messages.CAPSLOCK_IS_ON.message": {
+		"message": "Пароль может быть введен неправильно из-за нажатой клавиши Caps Lock. Убедитесь, что отключили Caps Lock перед введением пароля."
+	},
+	"registration.message": {
+		"message": "Вы новый пользователь  XSplit? [Политика конфиденциальности](https://xspl.it/bc/privacy)"
+	},
+	"screenName.placeholder": {
+		"message": "Выберите Имя пользователя"
+	},
+	"fullName.placeholder": {
+		"message": "Полное имя"
+	},
+	"emailInput.placeholder": {
+		"message": "Электронная почта"
+	},
+	"passwordInput.placeholder": {
+		"message": "Пароль"
+	},
+	"retypePassword.placeholder": {
+		"message": "Повторите пароль"
+	},
+	"register.label": {
+		"message": "Зарегистрироваться сейчас"
+	},
+	"loginUsingExisting": {
+		"message": "**Вы уже являетесь пользователем?** [Войдите](), используя существующий аккаунт"
+	},
+	"registration.confirm.message": {
+		"message": "**Прежде чем продолжить, убедитесь что указанный вами адрес электронной почты является правильным и вы полностью прочли лицензионное соглашение и политику конфиденциальности XSplit.**"
+	},
+	"registration.confirm.continue": {
+		"message": "Продолжить"
+	},
+	"registration.confirm.goBack": {
+		"message": "Вернуться"
+	},
+	"registration.processing": {
+		"message": "Регистрация нового аккаунта..."
+	},
+	"registration.success": {
+		"message": "**Регистрация прошла успешно!**[br]\n[br]\nНа адрес электронной почты **%email%** было отправлено письмо с инструкциями по активации аккаунта."
+	},
+	"continue.label": {
+		"message": "Продолжать XSplit Broadcaster"
+	},
+	"screenName.hint": {
+		"message": "Имя пользователя должно содержать от 4 до 50 символов. Оно будет использовано на форуме поддержки."
+	},
+	"screenName.check": {
+		"message": "Проверьте, если ваше Имя пользователя доступно..."
+	},
+	"screenName.unavailable": {
+		"message": "Данное Имя пользователя уже занято. Пожалуйста, выберите другой вариант."
+	},
+	"fullName.hint": {
+		"message": "Полное имя должно содержать 6-50 символов."
+	},
+	"emailInput.hint": {
+		"message": "Для активации учетной записи требуется действующий адрес электронной почты."
+	},
+	"emailInput.notValid": {
+		"message": "Email может быть уже использован или недействителен"
+	},
+	"passwordInput.hint": {
+		"message": "Пароль должен быть длиной от 6 до 50 символов. Убедитесь в том что CAPS LOCK не включен, поскольку это может стать причиной того, что введённый вами пароль окажется неверным."
+	},
+	"passwordInput.notMatch": {
+		"message": "Пароль должен совпадать с вновь введенным и занимать 6-50 символов"
+	},
+	"copyright": {
+		"message": "Copyright &copy; %dates%"
+	},
+	"oem.login.optimizedFor": {
+		"message": "Оптимизирован для"
+	},
+	"oem.login.bannerMessage": {
+		"message": "БЕСПЛАТНАЯ лицензия %license% XSplit Premium! При поддержке %oem%. Зарегистрируйтесь или войдите на сайт, того чтобы получить лицензию."
+	},
+	"oem.redeemed.message": {
+		"message": "Поздравляем! Ваше **устройство %oem% ** поставляется с **%oemfreelicense% Premium License**, что позволяет вам использовать полный набор функций XSplit Broadcaster. Лицензия была активирована для вашего аккаунта **(%email%)**."
+	},
+	"oem.redeemed.messageNewAccount": {
+		"message": "Поздравляем! Ваше **Устройство %oem%** поставляется с **%oemfreelicense% Premium License**, что позволяет вам использовать полный набор функций XSplit Broadcaster. Лицензия была активирована для вашего нового аккаунта XSplit **(%email%)**."
+	},
+	"oem.redeemed.letsGetStarted": {
+		"message": "Ладно, давайте начнем"
+	},
+	"oem.redeem.emailSentMessage": {
+		"message": "Электронное письмо, содержащее инструкции по активации вашего аккаунта, было отправлено."
+	},
+	"oem.redeemed.newFail": {
+		"message": "Поздравляем! Регистрация прошла успешно. Вам было отправлено письмо с инструкциями по активации аккаунта. Убедитесь, что активировали аккаунт в течение 24 часов."
+	},
+	"oem.redeemed.redeemError": {
+		"message": "При выкупе лицензии произошла ошибка. Попробуйте выкупить лицензию снова, перезапустив XSplit Broadcaster, или напишите на **license@xsplit.com**, если ошибка повторится."
+	},
+	"REFURBISHED_REDEMPTION_NOT_ALLOWED_FOR_SAME_XSPLIT_ACCOUNT": {
+		"message": "Возникла ошибка при получении лицензии. Попробуйте сделать это ещё раз, перезапустив XSplit Broadcaster и используя другой аккаунта XSplit. Если ошибка не пропадёт - свяжитесь с нами по электронной почте **license@xsplit.com**."
+	},
+	"cannot_apply_with_recurring": {
+		"message": "Ошибка: Подарочный сертификат на получение лицензии не может быть применён до тех пор, пока активно автоматическое продление лицензии."
+	},
+	"oem.login.letsGetStarted": {
+		"message": "Ладно, давайте начнем"
+	},
+	"oem.login.continueToXBC": {
+		"message": "Продолжать XSplit Broadcaster"
+	},
+	"carousel.slide1.header": {
+		"message": "Простое, но мощное программное обеспечение для стриминга и видеозаписи"
+	},
+	"carousel.slide1.content": {
+		"message": "XSplit Broadcaster - это революционная программа для аудио/видео микширования, которое позволяет создавать онлайн-трансляции, а также видеозаписи профессионального уровня с помощью простого и интуитивно-понятного интерфейса."
+	},
+	"carousel.slide2.header": {
+		"message": "Пользовательские плагины и интеграция"
+	},
+	"carousel.slide2.content": {
+		"message": "Благодаря нашему магазину плагинов, у XSplit Broadcaster есть множество настроек, позволяющих дополнительно персонализировать вашу трансляцию с оповещениями о пожертвованиях, запросами о музыке и многим другим. Также вы можете создать свой собственный плагин! Возможности безграничны."
+	},
+	"carousel.slide3.header": {
+		"message": "Редактирование и загрузка записей"
+	},
+	"carousel.slide3.content": {
+		"message": "XSplit Broadcaster упрощает сортировку и управление кадрами записанного игрового процесса, позволяя также создавать и редактировать захваты изображений с экрана с помощью встроенного редактора. После завершения этого просто загрузите ваше видео прямо в YouTube и делитесь им в своих любимых социальных сетях, и это всё - не выходя из приложения."
+	},
+	"carousel.slide4.header": {
+		"message": "Встроенная поддержка всех популярных карт видеозахвата"
+	},
+	"carousel.slide4.content": {
+		"message": "XSplit Broadcaster был специально настроен для поддержки широкого спектра карт видеозахвата доступных сегодня. -[список поддерживаемых карт видеозахвата на странице продукта](https://xspl.it/bc/capture_card_list)"
+	},
+	"carousel.freeLicenseText": {
+		"message": "_**Бесплатная** лицензия XSplit_"
+	},
+	"carousel.sponsor": {
+		"message": "При поддержке %oem%"
+	},
+	"carousel.lucky": {
+		"message": "Круто! Вместе к этим устройством (%oem%) вы получили **лицензию XSplit длительностью %duration%!**"
+	},
+	"carousel.continue": {
+		"message": "Продолжить"
+	},
+	"carousel.title": {
+		"message": "XSplit Broadcaster"
+	},
+	"label.default": {
+		"message": "Войти используя %connect%"
+	},
+	"label.connect": {
+		"message": "или войти с помощью"
+	},
+	"label.authorized": {
+		"message": "Авторизован как"
+	},
+	"label.changeaccount": {
+		"message": "[Использовать другую учетную запись](changeAccount)"
+	},
+	"label.learnMore": {
+		"message": "Новичок в стриминге и потоковых трансляциях? [Узнайте подробности здесь!](https://xspl.it/bc/tutorials)"
+	},
+	"label.otherOptions": {
+		"message": "[Другие варианты входа](otherOptions)"
+	},
+	"label.welcome": {
+		"message": "Добро пожаловать в XSplit!"
+	},
+	"label.loggingInTo": {
+		"message": "Вход в %service%..."
+	},
+	"label.pleaseComplete": {
+		"message": "Please complete the login process in your browser[br][br][br][Cancel](cancelLogin)[br][br][br][Having issues? Try in-app login instead](externalLogin)"
+	},
+	"label.somethingWrong": {
+		"message": "Что-то пошло не так."
+	},
+	"label.retryAuth": {
+		"message": "Попробуйте авторизоваться заново или выберите другой[br] сервис для входа."
+	},
+	"button.back": {
+		"message": "Назад"
+	},
+	"button.retry": {
+		"message": "Повторить"
+	}
+}

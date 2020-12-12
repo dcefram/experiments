@@ -1,0 +1,167 @@
+{
+	"title": {
+		"message": "ซื้อสิทธิ์การใช้งาน XSplit และสนุกไปกับฟีเจอร์ที่มากกว่า"
+	},
+	"purchasePoint.header": {
+		"message": "สิทธิ์การใช้งาน XSplit เริ่มต้นเพียงเดือนละไม่ถึง $5 ต่อเดือน"
+	},
+	"purchasePoint.tagLine": {
+		"message": "ซื้อสิทธิ์การใช้งานเดี๋ยวนี้และสามารถใช้งานฟีเจอร์เหล่านี้ของ XSplit Broadcaster ได้ทันที"
+	},
+	"purchasePoint.discountTag": {
+		"message": "ลดสูงสุดถึง **50%**"
+	},
+	"purchasePoint.buyNow": {
+		"message": "ซื้อเลย"
+	},
+	"purchasePoint.upgradeNow": {
+		"message": "อัพเกรดเลย"
+	},
+	"purchasePoint.upgradeLicenseNow": {
+		"message": "อัพเกรดสิทธิ์การใช้งานของคุณเลย"
+	},
+	"purchasePoint.personalLicense": {
+		"message": "สิทธิ์การใช้งานส่วนตัว"
+	},
+	"purchasePoint.premiumLicense": {
+		"message": "สิทธิ์การใช้งานแบบพรีเมี่ยม"
+	},
+	"purchasePoint.gameSource.label": {
+		"message": "Gamesource - ประสิทธิภาพสูง [br]\nเกมแคปเจอร์"
+	},
+	"purchasePoint.noWatermark.label": {
+		"message": "ไม่มีลายน้ำ XSplit บนความละเอียดสูง"
+	},
+	"purchasePoint.gameCard.label": {
+		"message": "Hauppauge HD PVR2/GE/GE+[br]\nและ Roxio Game Capture HD Pro"
+	},
+	"purchasePoint.encodingOffload.label": {
+		"message": "สนับสนุน NVidia® NVENC,[br]\nIntel® Quick Sync และ AMD® VCE"
+	},
+	"purchasePoint.maxFPS.label": {
+		"message": "ตั้งค่า FPS ระดับสูงขึ้น"
+	},
+	"purchasePoint.projector.label": {
+		"message": "โปรเจคเตอร์"
+	},
+	"purchasePoint.localStreaming.label": {
+		"message": "การสตรีมแบบโลคอล"
+	},
+	"purchasePoint.videoEditor.label": {
+		"message": "Express Video Editor"
+	},
+	"purchasePoint.streamDelay.label": {
+		"message": "สตรีมดีเลย์"
+	},
+	"purchasePoint.commercialUse.label": {
+		"message": "ใช้ในเชิงพาณิชย์"
+	},
+	"purchasePoint.andManyMore.label": {
+		"message": "และอื่น ๆ อีกมาก!"
+	},
+	"purchasePoint.previewEditor.label": {
+		"message": "เครื่องมือแก้ไขตัวอย่าง"
+	},
+	"purchasePoint.audioPreview.label": {
+		"message": "Audio Mix พรีวิว"
+	},
+	"purchasePoint.AMDVCE.label": {
+		"message": "สนับสนุน AMD® VCE"
+	},
+	"purchasePoint.NVidiaNVENC.label": {
+		"message": "สนับสนุน NVidia® NVENC"
+	},
+	"purchasePoint.intelQuickSync.label": {
+		"message": "สนับสนุน Intel® Quick Sync"
+	},
+	"purchasePoint.gameSource.description": {
+		"message": "เปิดการแคปเจอร์เกมในวินโดว์โหมดและโหมดเต็มจอ ใช้ XSplit Gamesource สำหรับการใช้งานแบบไม่กระทบประสิทธิภาพของเครื่อง"
+	},
+	"purchasePoint.noWatermark.description": {
+		"message": "ผู้ใช้ทุกคนสามารถใช้ XSplit Broadcaster ได้ถึงความละเอียด %resolution% โดยไม่มีลายน้ำ ความละเอียดที่สูงกว่านั้นจะมีลายน้ำกับผู้ใช้ฟรี"
+	},
+	"purchasePoint.gameCard.description": {
+		"message": "การ์ดแคปเจอร์เหล่านี้ไม่สามารถใช้งานได้ในเวอร์ชั่นฟรีของ XSplit Broadcaster มาเป็นผู้ใช้พรีเมี่ยมเพื่อเปิดสนับสนุนการใช้งาน"
+	},
+	"purchasePoint.encodingOffload.description": {
+		"message": "ใช้งาน Nvidia® NVENC, Intel® Quick Sync, หรือ AMD® Video Codec Engine (VCE) ของคุณ เพื่อลดการใช้งาน CPU ของคุณ และนำงานการเข้ารหัสไปไว้ใช้กับ GPU แทน"
+	},
+	"purchasePoint.maxFPS.description": {
+		"message": "เปิดการตั้งค่า FPS สูงกว่า %fps% XSplit Broadcaster สนับสนุนเอาต์พุตที่สูงมาก ๆ แม้แต่ 120 FPS และแน่ใจได้ว่าจะได้การบรอดแคสต์ที่ไหลลื่น"
+	},
+	"purchasePoint.projector.description": {
+		"message": "ฉายพรีวิวใด ๆ ของ XSplit Broadcaster ไปยังหน้ามอนิเตอร์ใดๆ ก็ได้ของคุณแบบเต็มจอ สามารถูกใช้ร่วมกับพรีวิวมอนิเตอร์เพื่อทำงามัลติทาสกิ้งได้ดียิ่งขึ้น"
+	},
+	"purchasePoint.localStreaming.description": {
+		"message": "บรอดแคสต์สตรีมของคุณไปยังการตั้งค่า LAN หรือรวมสตรีมสองตัวเข้าด้วยกัน (ใช้งานระหว่าง VPN ได้) ขจัดความต้องการแบนด์วิทอัพโหลด/ดาวน์โหลดของอินเตอร์เน็ตถ้าผู้ชมเป็นโลคอล"
+	},
+	"purchasePoint.videoEditor.description": {
+		"message": "ประกอบและแก้ไขบันทึกทั้งหมดของคุณด้วยวิดีโอเอดิเตอร์ที่ใช้งานง่ายตรงไปตรงมา เปิดการใช้งานให้คุณสามารถตัดต่อวิดีโอทั้งหมดของคุณได้จากในแอพพลิเคชั่นเลย"
+	},
+	"purchasePoint.streamDelay.description": {
+		"message": "ดีเลย์สตรีมของคุณตามเวลาที่คุณเลือก เพื่อป้องกันการสตรีมสไนป์/โกง และอื่น ๆ"
+	},
+	"purchasePoint.commercialUse.description": {
+		"message": "สิทธิ์การใช้งาน XSplit พรีเมี่ยมอนุณญาติให้คุณใช้งานซอฟต์แวร์เพื่อจุดประสงค์ในการหารายได้ คุณสามารถหารายได้จากการสตรีมของคุณได้โดยเปิด Ads จาก Vendor อื่นๆ เช่นผู้ให้ผู้บริการอินเตอร์เน็ตของคุณ"
+	},
+	"purchasePoint.andManyMore.description": {
+		"message": "สิทธิ์การใช้งานแบบพรีเมี่ยมของ XSplit Broadcasters นั้นมีฟีเจอร์มากมายเกินกว่าที่เราจะใส่มาได้หมดในช่องนี้ ฟีเจอร์เพิ่มเติมบางอย่างรวมไปถึงVirtual Camera ที่สามารถปรับแต่งได้สูง ไปยังเอาพุตพรีวิวของคุณ เช่น Skype หรือ ซอฟต์แวร์อื่น ๆ คุณสามารถใช้ Skype Video ซอส เป็นตัวแคปเจอร์และสตรีมวิดีโอคอล เพื่อดูรายการทั้งหมดว่ามีอะไรบ้างโปรดเยี่ยมชมเวปไซต์ของเราที่ [www.xsplit.com](https://xspl.it/bc/broadcaster)"
+	},
+	"purchasePoint.previewEditor.description": {
+		"message": "แก้ไขฉากใด ๆ ในขณะที่กำลังบรอดแคสต์อยุ่ เลือกที่จะโหลดหรือเซฟฉาก และใช้งานหรือยกเลิกการเปลี่ยนแปลงในขณะที่คุณกำลังไลฟ์บรอดแคสต์"
+	},
+	"purchasePoint.audioPreview.description": {
+		"message": "ฟีเจอร์นี้ทำให้คุณสามารถสังเกตเสียงเอาท์พุทของคุณได้ เหมือนกับที่ผู้ชมของคุณได้ยิน"
+	},
+	"purchasePoint.paymentMethods": {
+		"message": "เรายอมรับการจ่ายเงินด้วยวิธีการต่อไปนี้:"
+	},
+	"purchasePoint.visitOurWebsite": {
+		"message": "เยี่ยมชม [เวปไซต์](https://xspl.it/bc/website) ของเราเพื่อเรียนรุ้เพิ่มเติมเกี่ยวกับฟีเจอร์ของผลิตภัณฑ์"
+	},
+	"purchasePoint.getTwo.header": {
+		"message": "แพ็คคู่! คุณจะได้รับผลิตภัณฑ์สองตัว"
+	},
+	"purchasePoint.getTwo.description": {
+		"message": "สิทธิ์การใช้งานของ XSplit นั้นสามารถใช้ได้สำหรับทั้ง XSplit Broadcaster และ XSplit Gamecaster. [อ่านเพิ่มเติม](https://xspl.it/bc/website)"
+	},
+	"purchasePoint.doNotShow": {
+		"message": "ไม่ต้องแสดงอีก"
+	},
+	"purchasePoint.wait": {
+		"message": "รอ...%count%"
+	},
+	"purchasePoint.continue": {
+		"message": "ดำเนินการต่อ"
+	},
+	"purchasePoint.maybeLater": {
+		"message": "อาจจะในภายหลัง"
+	},
+	"purchasePoint.licenseAgreement": {
+		"message": "เมื่อคลิ๊กปุ่ม **ดำเนินการต่อ** ฉันรับรองว่าฉันได้อ่านทำความเข้าใจและยอมรับข้อกำหนดที่ให้ไว้ใน [ข้อตกลงการใช้งาน XSplit](https://xspl.it/bc/terms)"
+	},
+	"purchasePoint.advertisment.label": {
+		"message": "Friends of XSplit"
+	},
+	"purchasePoint.advertisment.paid.label": {
+		"message": "ยินดีต้อนรับสู่ XSplit"
+	},
+	"purchasePoint.buyxsplitnow": {
+		"message": "สิทธิ์การใช้งาน XSplit เริ่มต้นเพียงเดือนละไม่ถึง $5 ต่อเดือน"
+	},
+	"purchasePoint.newsandupdates": {
+		"message": "COMMUNITY NEWS AND UPDATES"
+	},
+	"purchasePoint.news.previous": {
+		"message": "[ก่อนหน้า](previousClick)"
+	},
+	"purchasePoint.news.next": {
+		"message": "[ถัดไป](nextClick)"
+	},
+	"purchasePoint.tutorials": {
+		"message": "XSplit Tutorials"
+	},
+	"purchasePoint.upgrade": {
+		"message": "อัพเกรด"
+	}
+}

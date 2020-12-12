@@ -1,0 +1,71 @@
+{
+  "chat.title": {
+    "message": "%service% Chat Configuration"
+  },
+  "chat.source": {
+    "message": "Source"
+  },
+  "chat.account": {
+    "message": "Account"
+  },
+  "chat.authorize": {
+    "message": "Authorize XSplit to use %service%"
+  },
+  "chat.deauthorize": {
+    "message": "%username% (deauthorize)"
+  },
+  "chat.connected": {
+    "message": "Connected"
+  },
+  "chat.not_connected": {
+    "message": "Not Connected"
+  },
+  "chat.channel_text": {
+    "message": "Type the channel of the %service% chat you want to display."
+  },
+  "chat.channel": {
+    "message": "Channel"
+  },
+  "chat.channel_name": {
+    "message": "Channel Name"
+  },
+  "chat.connect": {
+    "message": "Connect"
+  },
+  "chat.error_channel_not_found": {
+    "message": "%service% channel not found. Please try again."
+  },
+  "chat.error_no_connection": {
+    "message": "Please check your internet connection and try again."
+  },
+  "chat.display": {
+    "message": "Display"
+  },
+  "chat.chat_box": {
+    "message": "Chat Box"
+  },
+  "chat.opacity": {
+    "message": "Opacity"
+  },
+  "chat.viewers": {
+    "message": "Viewers"
+  },
+  "chat.message": {
+    "message": "Message"
+  },
+  "chat.text_size": {
+    "message": "Text Size"
+  },
+  "chat.disconnect": {
+    "message": "Disconnect"
+  },
+  "chat.connecting": {
+    "message": "Connecting..."
+  },
+  "chat.connect_error": {
+    "message": "%service% cannot connect to channel. Please try again."
+  },
+  "chat.invalid_channel": {
+    "message": "Please provide valid %service% channel."
+  }
+}

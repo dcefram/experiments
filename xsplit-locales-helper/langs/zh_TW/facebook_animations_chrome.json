@@ -1,0 +1,110 @@
+{
+  "title.source": {
+    "message": "資源"
+  },
+  "subtitle.account": {
+    "message": "帳戶"
+  },
+  "link.authorize": {
+    "message": "授權XSplit使用 Facebook Live"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** 切換帳戶"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** 刪除授權"
+  },
+  "subtitle2.authorize.error": {
+    "message": "請再次嘗試授權, 並授予 XSplit 對此功能所需的所有權限的訪問權限"
+  },
+  "subtitle.source": {
+    "message": "資源"
+  },
+  "source.values.automatic": {
+    "message": "自動"
+  },
+  "chat.reaction.not_connected": {
+    "message": "當直播生效時反饋將自動加載"
+  },
+  "chat.comment.not_connected": {
+    "message": "當直播生效時評論將自動加載"
+  },
+  "chat.connected": {
+    "message": "連接"
+  },
+  "title.display": {
+    "message": "顯示"
+  },
+  "help.display.title": {
+    "message": "反饋動畫"
+  },
+  "help.display.text": {
+    "message": "自定義實時反饋在直播中的顯示方式！ [br]選擇動畫類型並控制各種設置。 [br][br]使用預覽按鈕在上線前檢查動畫。"
+  },
+  "animation.text": {
+    "message": "動畫"
+  },
+  "label.streamprops": {
+    "message": "Stream 屬性"
+  },
+  "button.reset": {
+    "message": "重置"
+  },
+  "label.direction": {
+    "message": "方向"
+  },
+  "label.time": {
+    "message": "時間"
+  },
+  "label.seconds": {
+    "message": "秒"
+  },
+  "label.timevariation": {
+    "message": "時間變化"
+  },
+  "label.emoji.size": {
+    "message": "表情尺寸"
+  },
+  "label.pixels": {
+    "message": "圖元"
+  },
+  "label.sizevariation": {
+    "message": "尺寸變化"
+  },
+  "label.hide_connection_message": {
+    "message": "隱藏連接消息"
+  },
+  "button.preview": {
+    "message": "預覽"
+  },
+  "animation.types.stream": {
+    "message": "反應流"
+  },
+  "animation.types.pop": {
+    "message": "彈入/出"
+  },
+  "stream.directions.leftToRight": {
+    "message": "左到右"
+  },
+  "stream.directions.topToBottom": {
+    "message": "頂部到底部"
+  },
+  "stream.directions.rightToLeft": {
+    "message": "從右至左"
+  },
+  "stream.directions.bottomToTop": {
+    "message": "底部到頂部"
+  },
+  "tabheader.title": {
+    "message": "反應"
+  },
+  "label.not_seeing_videos": {
+    "message": "沒有看到你的直播視頻？"
+  },
+  "label.not_seeing_videos_help": {
+    "message": "我們可能沒有許可權訪問您的某些網頁的即時視頻。"
+  },
+  "label.not_seeing_videos_link": {
+    "message": "點擊這裡重新授權"
+  }
+}

@@ -1,0 +1,35 @@
+{
+	"title": {
+		"message": "XSplit Broadcaster - Permissões"
+	},
+	"header": {
+		"message": "As seguintes fontes e extensões estão solicitando sua permissão para executar scripts que podem ser prejudiciais ao seu computador."
+	},
+	"hide_permission_alerts": {
+		"message": "Ocultar alertas de permissões"
+	},
+	"column1": {
+		"message": "As novas permissões solicitadas estão destacadas"
+	},
+	"column2": {
+		"message": "Permitir acesso na marcadas"
+	},
+	"sources": {
+		"message": "Fontes"
+	},
+	"extensions": {
+		"message": "Extensões"
+	},
+	"footer": {
+		"message": "Permita acesso apenas de fontes confiáveis. Um script malicioso pode danificar seu computador de várias maneiras."
+	},
+	"button.ok": {
+		"message": "OK"
+	},
+	"button.cancel": {
+		"message": "Cancelar"
+	},
+	"button.apply": {
+		"message": "Aplicar"
+	}
+}

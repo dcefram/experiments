@@ -1,0 +1,74 @@
+{
+  "webm_encoder.info_text": {
+    "message": "MOV 혹은 연속된 PNG 이미지들을 WebM 형식으로 전환하여 화면 전환 애니메이션으로 사용하거나 역동적인 장면 오버레이로 활용할 수 있습니다. 기본 형식으로 적용하면 스팅어 트랜지션 목록 또는 화면 전환 목록에 추가됩니다."
+  },
+  "webm_encoder.source": {
+    "message": "소스 파일"
+  },
+  "webm_encoder.source_description": {
+    "message": "허용된 파일 형식은 MOV 또는 연속된 PNG 이미지 파일입니다.<br><br> 연속된 PNG 이미지들의 파일명은 순차적으로 0 부터 시작하는 두 자리수 숫자로 되어었야아 합니다. 예를들어 <span>이미지_00.png</span> 또는<span>이미지000000.png</span>"
+  },
+  "webm_encoder.destination": {
+    "message": "출력 파일"
+  },
+  "webm_encoder.reset_output_folder": {
+    "message": "기본 출력 파일로 재설정"
+  },
+  "webm_encoder.show_advanced_settings": {
+    "message": "고급 설정 보기"
+  },
+  "webm_encoder.frame_rate_settings": {
+    "message": "프레임률 (FPS)"
+  },
+  "webm_encoder.video_bit_rate": {
+    "message": "영상 비트레이트 (kbps)"
+  },
+  "webm_encoder.audio_bit_rate": {
+    "message": "오디오 비트레이트 (kbps)"
+  },
+  "webm_encoder.key_frame_interval": {
+    "message": "키 프레임 간격"
+  },
+  "webm_encoder.transition_point": {
+    "message": "전환 포인트 (ms)"
+  },
+  "webm_encoder.disable_audio": {
+    "message": "오디오 비활성화"
+  },
+  "webm_encoder.convert_webm": {
+    "message": "WebM으로 전환"
+  },
+  "webm_encoder.close": {
+    "message": "닫기"
+  },
+  "webm_encoder.converting": {
+    "message": "전환중"
+  },
+  "webm_encoder.cancel": {
+    "message": "취소"
+  },
+  "webm_encoder.checking_video": {
+    "message": "영상 확인중..."
+  },
+  "webm_encoder.ok": {
+    "message": "OK"
+  },
+  "webm_encoder.title": {
+    "message": "스팅어 제작기"
+  },
+  "webm_encoder.alert_yes": {
+    "message": "네"
+  },
+  "webm_encoder.alert_no": {
+    "message": "아니오"
+  },
+  "webm_encoder.save_as": {
+    "message": "다른 이름으로 저장..."
+  },
+  "webm_encoder.try_again": {
+    "message": "재시도"
+  },
+  "webm_encoder.dll_permission": {
+    "message": "DLL 권한이 필요합니다. <span id='goToPermissions'>확장 프로그램 권한</span> 목록으로 접근한 뒤 해당 확장 프로그램에 권한을 부여해주세요."
+  }
+}

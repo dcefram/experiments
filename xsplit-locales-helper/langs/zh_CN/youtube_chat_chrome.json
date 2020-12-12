@@ -1,0 +1,89 @@
+{
+	"youtube.chat.tabheader": {
+		"message": "聊天"
+	},
+	"youtube.chat.source": {
+		"message": "资源"
+	},
+	"youtube.chat.account": {
+		"message": "帐户"
+	},
+	"youtube.chat.preview": {
+		"message": "预览"
+	},
+	"youtube.chat.account_automatic": {
+		"message": "自动"
+	},
+	"youtube.chat.authorize": {
+		"message": "授权XSplit使用 YouTube Live"
+	},
+	"youtube.chat.remove_authorization": {
+		"message": "**%api%** 删除授权"
+	},
+	"youtube.chat.switch_account": {
+		"message": "**%api%** 切换帐户"
+	},
+	"youtube.chat.not_connected": {
+		"message": "当直播生效时Widget 将自动连接"
+	},
+	"youtube.chat.connected": {
+		"message": "连接"
+	},
+	"youtube.chat.error_channel_not_found": {
+		"message": "请提供有效的通道."
+	},
+	"youtube.chat.display": {
+		"message": "显示"
+	},
+	"youtube.chat.chat_box": {
+		"message": "聊天框"
+	},
+	"youtube.chat.opacity": {
+		"message": "透明度"
+	},
+	"youtube.chat.viewers": {
+		"message": "观众"
+	},
+	"youtube.chat.message": {
+		"message": "消息"
+	},
+	"youtube.chat.text_size": {
+		"message": "文本大小"
+	},
+	"youtube.chat.hide_user_icons": {
+		"message": "隐藏用户图标"
+	},
+	"youtube.chat.hide_timestamps": {
+		"message": "隐藏时间戳"
+	},
+	"youtube.chat.hide_on_idle": {
+		"message": "空闲时隐藏聊天"
+	},
+	"youtube.chat.blocking": {
+		"message": "阻止中"
+	},
+	"youtube.chat.blockedlist": {
+		"message": "阻止列表"
+	},
+	"youtube.chat.block_help": {
+		"message": "您可以通过在阻止列表中添加观众的姓名或用户名 (包括机器人，如果适用) 来阻止观众, 这样他们的消息就不会出现在聊天信息。 [br][br]此阻止列表未连接到您的频道的阻止列表。它只适用于此聊天源。"
+	},
+	"youtube.chat.blocking_name": {
+		"message": "输入要阻止的观众的名称或用户名。"
+	},
+	"youtube.chat.block_name": {
+		"message": "名称"
+	},
+	"youtube.chat.block_add": {
+		"message": "添加"
+	},
+	"youtube.chat.block_remove": {
+		"message": "移除"
+	},
+	"youtube.chat.loggingInTo": {
+		"message": "登录YouTube..."
+	},
+	"youtube.chat.pleaseComplete": {
+		"message": "请在浏览器中完成登录过程"
+	}
+}

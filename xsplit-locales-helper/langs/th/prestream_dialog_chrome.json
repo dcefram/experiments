@@ -1,0 +1,314 @@
+{
+	"toptitle": {
+		"message": "จัดการกำหนดการไลฟ์วิดีโอ"
+	},
+	"details": {
+		"message": "รายละเอียดการบรอดแคสต์"
+	},
+	"livevideo.label": {
+		"message": "ไลฟ์วิดีโอ"
+	},
+	"livevideo.tooltip": {
+		"message": "เลือกว่าคุณต้องการเริ่มต้นไลฟ์อย่างไร[br][br]**เริ่มไลฟ์ใหม่** - เริ่มต้นไลฟ์เดี๋ยวนี้ด้วยวิดีโอไลฟ์ใหม่[br]**กำหนดการ** - บรอดแคสต์ไลฟ์วิดีโอที่มีอยู่ตามกำหนดการ"
+	},
+	"livevideovalues.0": {
+		"message": "เริ่มต้นไลฟ์ใหม่"
+	},
+	"scheduledvideovalues.new": {
+		"message": "กำหนดการไลฟ์ใหม่"
+	},
+	"delete": {
+		"message": "ลบ"
+	},
+	"stop": {
+		"message": "หยุด"
+	},
+	"status.label": {
+		"message": "สถานะ"
+	},
+	"status.tooltip": {
+		"message": "ตั้งค่าสถานะกำหนดการไลฟ์วิดีโอของคุณ [br][br]**กำหนดการ** - เริ่มไลฟ์อย่างอัตโนมัติเมื่อข้อมูลถูกบรอดแคสต์ไปตามกำหนดการเริ่มต้นที่กำหนดไว้ คุณสามารถเริ่มต้นบรอดแคสต์ก่อนที่จะถึงเวลาได้เพื่อจุดประสงค์ในการพรีวิวสตรีมของคุณ[br]**ไลฟ์** เริ่มต้นบรอดแคสต์และเริ่มต้นไลฟ์[br]**ด้วยตัวเอง** - พรีวิวบรอดแคสต์ของคุณและสลับเป็นไลฟ์วิดีโอจากแบบกำหนดการเป็นแบบเริ่มต้นด้วยตัวเอง ปรกติแล้วจะถูกใช้เมื่อคุณเริ่มต้นช้ากว่ากำหนดและต้องการพรีวิวบรอดแคสต์ของคุณก่อนที่จะเริ่มต้นไลฟ์ด้วยตัวเอง โปรดพึงระลึกไว้ว่าการเริ่มต้นด้วยตัวเองนั้น จะไม่มีถูกสลับกลับไปเป็นแบบกำหนดการ คุณต้องทำการตั้งค่านี้เป็นไลฟ์ด้วยตัวเองที่ Facebook"
+	},
+	"statusvalues.scheduled": {
+		"message": "กำหนดการ"
+	},
+	"statusvalues.live": {
+		"message": "ไลฟ์"
+	},
+	"statusvalues.manual": {
+		"message": "ด้วยตัวเอง"
+	},
+	"title": {
+		"message": "ไตเติ้ล"
+	},
+	"description": {
+		"message": "รายละเอียด"
+	},
+	"tags.label": {
+		"message": "แท็กเนื้อหา"
+	},
+	"tags.tooltip": {
+		"message": "แท็กจะช่วยให้วิดีโอถูกค้นพบได้มากยิ่งขึ้น แท็กเหล่านี้จะไม่ถูกเห็นโดยสาธารณะ"
+	},
+	"videogame.label": {
+		"message": "วิดีโอเกม"
+	},
+	"videogame.tooltip": {
+		"message": "แท็กวิดีโอเกมที่คุณกำลังจะเล่นบนสตรีมสำหรับ Facebook Gaming"
+	},
+	"checkin.label": {
+		"message": "โลเคชั่นเช็คอิน"
+	},
+	"checkin.tooltip": {
+		"message": "โลเคชั่นที่คุณกำลังบรอดแคสต์"
+	},
+	"privacy.label": {
+		"message": "ส่วนตัว"
+	},
+	"privacy.tooltip": {
+		"message": "ขอบเขตความเป็นส่วนตัวอาจจะถูกลิมิตไว้โดยการตั้งค่าเพดานความเป็นส่วนตัวของ XSplit ใน Facebook Apps ของคุณ เพื่อให้แน่ใจว่าคุณสามารถควบคุมขอบเขตความเป็นส่วนตัวได้ โปรดมั่นใจว่าการตั้งค่าความเป็นส่วนตัวสำหรับ XSplit ใน Facebook Apps ของคุณได้ถูกตั้งเป็นค่าสาธารณะแล้ว [อ่านเพิ่มเติม](https://xspl.it/fbxspriv)"
+	},
+	"privacyvalues.EVERYONE": {
+		"message": "สาธารณะ"
+	},
+	"privacyvalues.ALL_FRIENDS": {
+		"message": "เพื่อน"
+	},
+	"privacyvalues.SELF": {
+		"message": "เฉพาะฉัน"
+	},
+	"pageaudience.label": {
+		"message": "เพจผู้ชม"
+	},
+	"pageaudience.tooltip": {
+		"message": "เลือกโลเคชั่นของคนที่คุณต้องการเชื่อมต่อด้วย"
+	},
+	"locations.label": {
+		"message": "โลเคชั่น:"
+	},
+	"locations.tooltip": {
+		"message": "ถูกตั้งค่าเป็นโลเคชั่นทั้งหมดเป็นค่าเริ่มต้น หรือคุณสามารถที่จะระบุบประเทศต่างๆ ที่คุณต้องการเชื่อมต่อกับผู้ชมของคุณมากที่สุดตั้งอยุ่"
+	},
+	"support.label": {
+		"message": "ไลฟ์ต่อเนื่อง"
+	},
+	"support.tooltip": {
+		"message": "ตัวเลือกนี้จะอนุญาตให้คุณบรอดแคสต์ได้มากกว่า 4 ชั่วโมง\nแต่จะไม่ทำการบันทึกใน Facebook Timeline ของคุณ"
+	},
+	"manageschedule": {
+		"message": "จัดการกำหนดการไลฟ์วิดีโอ"
+	},
+	"createschedule": {
+		"message": "สร้างกำหนดการไลฟ์"
+	},
+	"scheduledstart.label": {
+		"message": "เริ่มกำหนดการ"
+	},
+	"scheduledstart.tooltip": {
+		"message": "กำหนดการไลฟ์วิดีโอต้องถูกตั้งเวลาไว้ระหว่าง 11 นาที ถึง 7 วัน (168 ชั่วโมง) นับตั้งแต่คุณเริ่มสร้าง"
+	},
+	"customimage.label": {
+		"message": "รูปภาพแบบกำหนดเอง"
+	},
+	"customimage.tooltip": {
+		"message": "คุณสามารถเพิ่มภาพแบบกำหนดเองสำหรับประกาศกำหนดการไลฟ์ของคุณ"
+	},
+	"scheduleerror": {
+		"message": "กำหนดการไม่ถูกต้อง"
+	},
+	"uploadimage": {
+		"message": "อัพโหลดรุปภาพ..."
+	},
+	"deleteimage": {
+		"message": "ลบภาพ"
+	},
+	"errormessage": {
+		"message": "กำหนดการไลฟ์วิดีโอต้องถูกตั้งเวลาไว้ระหว่าง 11 นาที ถึง 7 วัน (168 ชั่วโมง) นับตั้งแต่คุณเริ่มสร้าง"
+	},
+	"addScheduleHeader": {
+		"message": "เพิ่มกำหนดการ"
+	},
+	"addSchedule": {
+		"message": "เพิ่มกำหนดการ"
+	},
+	"editSchedule": {
+		"message": "แก้ไขกำหนดการ"
+	},
+	"updateSchedule": {
+		"message": "อัพเดทกำหนดการ"
+	},
+	"start": {
+		"message": "เริ่มบรอดแคสต์"
+	},
+	"resume": {
+		"message": "บรอดแคสต์ต่อ"
+	},
+	"ok": {
+		"message": "ตกลง"
+	},
+	"cancel": {
+		"message": "ยกเลิก"
+	},
+	"close": {
+		"message": "ปิด"
+	},
+	"loading.create": {
+		"message": "กำลังสร้างไลฟ์วีดีโอแบบกำหนดการ..."
+	},
+	"loading.update": {
+		"message": "กำลังอัพเดทไลฟ์วีดีโอแบบกำหนดการ..."
+	},
+	"youtube.liveEvent.label": {
+		"message": "ไลฟ์อีเว้นท์"
+	},
+	"youtube.liveEvent.tooltip": {
+		"message": "เลือกขึ้นไลฟ์[br][br]**กิจกรรมไลฟ์ใหม่ -** สร้างกิจกรรมไลฟ์ใหม่และขึ้นไลฟ์[br]**จัดตารางเวลา -** เลือกไลฟ์กิจกรรมที่มีอยู่[br]**ไลฟ์ตอนนี้ -** ทำการไลฟ์กิจกรรมปัจจุบันตอนนี้ต่อ"
+	},
+	"youtube.tags.label": {
+		"message": "แท็ก"
+	},
+	"youtube.tags.tooltip": {
+		"message": "แท็กคือคำบรรยายคีย์เวิร์ดที่คุณสามารถเพิ่มเข้าไปในวิดีโอของคุณเพื่อให้ผู้คนสามารถพบเนื้อหาของคุณได้[br][br]ใช้คอมม่าเพื่อแยกแท็ก"
+	},
+	"youtube.category.label": {
+		"message": "หมวดหมุ่:"
+	},
+	"youtube.schedule": {
+		"message": "กำหนดการ"
+	},
+	"youtube.noSchedule": {
+		"message": "สตรีมไม่มีกำหนดการ"
+	},
+	"youtube.duration": {
+		"message": "ระยะเวลา"
+	},
+	"youtube.endSchedule": {
+		"message": "จบกำหนดการ (ไม่จำเป็น)"
+	},
+	"youtube.hours": {
+		"message": "ชั่วโมง"
+	},
+	"youtube.minutes": {
+		"message": "นาที"
+	},
+	"youtube.enable360.label": {
+		"message": "เปิดการใช้วิดีโอ 360°"
+	},
+	"youtube.enable360.title": {
+		"message": "เปิดการใช้วิดีโอ 360°"
+	},
+	"youtube.enable360.tooltip": {
+		"message": "ตั้งค่าสตรีมของคุณเป็นวิดีโอ 360° เปิดการใช้รูปแบบนี้จะทำให้ผู้ขมของคุณสามารถชมวิดีโอแบบ 360° ได้จากทุกทิศทาง [br][br] ไลฟ์สตรีมแบบ latency ต่ำไม่สนับสนุน วิดีโอ 360°"
+	},
+	"youtube.enableLowLatency": {
+		"message": "เปิดใช้งาน Low latency"
+	},
+	"youtube.enableDvr": {
+		"message": "เปิดการใช้ DVR"
+	},
+	"youtube.allowEmbed": {
+		"message": "อนุญาตการฝัง"
+	},
+	"youtube.useBackupServer": {
+		"message": "ใช้เซิร์ฟเวอร์สำรอง"
+	},
+	"youtube.manualTransition.label": {
+		"message": "เปลี่ยนแบบกำหนดเอง"
+	},
+	"youtube.manualTransition.tooltip": {
+		"message": "เลือกตัวเลือกนี้เพื่อที่จะบังคับสถานะของคุณในการบรอดแคสต์ของคุณจากคอนโทรลพาเนลของ Youtube Live ถ้าไม่เลือก XSplit จะทำการเปลี่ยนสถานะเป็น \"ไลฟ์\" โดยอัตโนมัติเมื่อคุณเริ่มทำการบรอดแคสต์ และให้ตัวเลือกเป็นการ \"เสร็จสิ้น\" หลังจากหยุดการบรอดแคสต์แล้ว"
+	},
+	"youtube.liveEvent.values.scheduled": {
+		"message": "กำหนดการ: เริ่ม %date% - %title%"
+	},
+	"youtube.liveEvent.values.liveNow": {
+		"message": "ไลฟ์ตอนนี้: เริ่ม %date% - %title%"
+	},
+	"youtube.liveEvent.defaults.new": {
+		"message": "สร้างไลฟ์อีเว้นท์ใหม่"
+	},
+	"youtube.category.values.1": {
+		"message": "ภาพยนตร์และแอนิเมชัน"
+	},
+	"youtube.category.values.2": {
+		"message": "รถยนต์และยานยนต์"
+	},
+	"youtube.category.values.10": {
+		"message": "เพลง"
+	},
+	"youtube.category.values.15": {
+		"message": "สัตว์เลี้ยงและสัตว์"
+	},
+	"youtube.category.values.17": {
+		"message": "กีฬา"
+	},
+	"youtube.category.values.19": {
+		"message": "ท่องเที่ยวและกิจกรรม"
+	},
+	"youtube.category.values.20": {
+		"message": "เกม"
+	},
+	"youtube.category.values.22": {
+		"message": "ผู้คนและบล็อก"
+	},
+	"youtube.category.values.23": {
+		"message": "เรื่องตลก"
+	},
+	"youtube.category.values.24": {
+		"message": "บันเทิง"
+	},
+	"youtube.category.values.25": {
+		"message": "ข่าวและการเมือง"
+	},
+	"youtube.category.values.26": {
+		"message": "ฮาวทูและสไตล์"
+	},
+	"youtube.category.values.27": {
+		"message": "การศึกษา"
+	},
+	"youtube.category.values.28": {
+		"message": "เทคโนโลยี่และวิทยาศาสตร์"
+	},
+	"youtube.category.values.29": {
+		"message": "องค์กรที่ไม่แสวงหาผลกำไรและการเคลื่อนไหว"
+	},
+	"youtube.privacy.public": {
+		"message": "สาธารณะ"
+	},
+	"youtube.privacy.unlisted": {
+		"message": "ไม่เป็นสาธารณะ"
+	},
+	"youtube.privacy.private": {
+		"message": "ส่วนตัว"
+	},
+	"youtube.latency.label": {
+		"message": "Latency"
+	},
+	"youtube.latency.tooltip": {
+		"message": "**latency ปรกติ** - เหมาะสำหรับ: ผู้ชมที่ต้องการคุณภาพสูงสุดและความละเอียดสูง[br] ** latency ต่ำ** - เหมาะสำหรับ: การชมที่ใกล้เคียงเวลาจริงมีการบัฟเฟอร์ที่น้อยที่สุด[br]**latency ต่ำมาก** -เหมาะสำหรับ: การตอบโต้แบบเวลาจริง [br]**ไม่สนับสนุน** DVR, closed captions, 1440p และความละเอียด 4k"
+	},
+	"youtube.latency.values.normal": {
+		"message": "Latency ปรกติ"
+	},
+	"youtube.latency.values.low": {
+		"message": "Latency ต่ำ"
+	},
+	"youtube.latency.values.ultraLow": {
+		"message": "Latency ต่ำมาก"
+	},
+	"youtube.emptyTitle": {
+		"message": "จำเป็นต้องป้อนไตเติ้ล"
+	},
+	"youtube.noEndSchedule": {
+		"message": "ไม่มีเวลาสิ้นสุดกำหนดการ"
+	},
+	"youtube.endScheduleInvalid": {
+		"message": "เวลาจบกำหนดการไม่ถูกต้อง ตั้งค่าวันเวลาที่ถูกต้องถ้าคุณต้องการเพิ่มเวลาการจบกำหนดการ"
+	},
+	"youtube.endScheduleFuture": {
+		"message": "โปรดเลือกเวลาการจบกำหนดการเป็นเวลาในอนาคต"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "มองหาคำแนะนำ..."
+	}
+}

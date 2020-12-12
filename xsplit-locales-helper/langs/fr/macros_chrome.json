@@ -1,0 +1,485 @@
+{
+  "permission_header": {
+    "message": "Authorisation nécessaire"
+  },
+  "permission_body": {
+    "message": "Accès DLL nécessaire. Veuillez allez à [Outils -> Permissions]() et authoriser l'accés pour cette extension afin de continuer."
+  },
+  "permission_button": {
+    "message": "Se rendre aux Permissions"
+  },
+  "macro_exceeded_header": {
+    "message": "Impossible d’ajouter ou dupliquer macro"
+  },
+  "macro_exceeded_body": {
+    "message": "Vous avez atteint la limite de 100 macros."
+  },
+  "macro_executor_header": {
+    "message": "Créer un macro pour configurer une exécution automatique d'une séquence d'actions dans XSplit Broadcaster. Cela se lancera automatiquement lorsque l'événement sera réalisé."
+  },
+  "note_title": {
+    "message": "Pour cette version :"
+  },
+  "warning_note": {
+    "message": "Si certaines valeurs ne sont pas mises à jour (ex. changement de nom de scène), veuillez relancer l'extension Macros.[br]Certains événements et actions peuvent ne pas fonctionner normalement en Split Mode ou Éditeur de Prévisualisation, il est donc conseillé d'utiliser le Mode Classique lors vous utilisez les Macros."
+  },
+  "button_ok": {
+    "message": "OK"
+  },
+  "button_cancel": {
+    "message": "Annuler"
+  },
+  "delete_confirmation_header": {
+    "message": "Supprimer Macro"
+  },
+  "delete_confirmation_body": {
+    "message": "Voulez-vous vraiment supprimer **%macroName%?** "
+  },
+  "add_macro": {
+    "message": "Ajouter macro"
+  },
+  "continue_on_error": {
+    "message": "Continuer à exécuter les macros sur erreur"
+  },
+  "stop_macro": {
+    "message": "Arrêter"
+  },
+  "test_macro": {
+    "message": "Test"
+  },
+  "event_label": {
+    "message": "Événement "
+  },
+  "action_label": {
+    "message": "Action"
+  },
+  "condition_label": {
+    "message": "Condition"
+  },
+  "add_action": {
+    "message": "Ajouter action"
+  },
+  "add_condition": {
+    "message": "Ajouter condition"
+  },
+  "enable_event_listener": {
+    "message": "Activer l'écouteur d'événement"
+  },
+  "enable_event_listener_help_title_description": {
+    "message": "[par défaut : désactivé]"
+  },
+  "enable_event_listener_help_message": {
+    "message": "Authoriser cela va démarrer la vérification en continu de l'événement. Une fois l'événement réalisé, cela exécutera la macro (actions en séquence).[br]Si l'événement = \"Sur appui de la touche\", il est recommandé de désactiver cette option lorsque vous modifier le raccourci clavier, sinon cela exécutera automatiquement la macro sur le changement de valeur."
+  },
+  "script_copied_to_clipboard": {
+    "message": "Script copié"
+  },
+  "enable_condition_check_per_action": {
+    "message": "Activer la vérification de condition pour chaque action"
+  },
+  "no_options": {
+    "message": "Aucune option disponible"
+  },
+  "macro_tooltip": {
+    "message": "#### **%macroName%** [br] %triggerName%"
+  },
+  "key_stroke_placeholder": {
+    "message": "Entrer la combinaison de clé or clics..."
+  },
+  "select_action_placeholder": {
+    "message": "Sélectionnez l’action..."
+  },
+  "select_condition_placeholder": {
+    "message": "Sélectionnez la condition..."
+  },
+  "select_trigger_placeholder": {
+    "message": "Sélectionner le déclencheur..."
+  },
+  "select_scene_placeholder": {
+    "message": "Sélectionner la scene..."
+  },
+  "select_stream_source_placeholder": {
+    "message": "Sélectionner la source de strean..."
+  },
+  "select_status_placeholder": {
+    "message": "Sélectionner le statut..."
+  },
+  "select_media_source_placeholder": {
+    "message": "Sélectionner une source média..."
+  },
+  "select_output_placeholder": {
+    "message": "Sélectionner le canal de sortie/chaîne..."
+  },
+  "select_function_placeholder": {
+    "message": "Sélectionner la fonction..."
+  },
+  "select_transition_placeholder": {
+    "message": "Sélectionner la transition..."
+  },
+  "select_source_placeholder": {
+    "message": "Sélectionner la source..."
+  },
+  "select_visibility_placeholder": {
+    "message": "Sélectionner la visibilité..."
+  },
+  "select_playback_state_placeholder": {
+    "message": "Sélectionnez le statut du playback..."
+  },
+  "select_source_with_audio_placeholder": {
+    "message": "Sélectionner la source audio..."
+  },
+  "select_mute_state_placeholder": {
+    "message": "Sélectionner le statut muet..."
+  },
+  "select_macro_placeholder": {
+    "message": "Sélectionner la macro..."
+  },
+  "select_media_state_placeholder": {
+    "message": "Sélectionner le statut média..."
+  },
+  "select_macro_state_placeholder": {
+    "message": "Sélectionner le statut macro..."
+  },
+  "edit_macro_name_placeholder": {
+    "message": "Entrez le nom de la macro"
+  },
+  "disabled_trigger_display_name": {
+    "message": "(Écouteur désactivé) %displayName%"
+  },
+  "trigger_display_name": {
+    "message": "%displayName%"
+  },
+  "new_action": {
+    "message": "Nouvelle Action"
+  },
+  "trigger_display_name_manual_run": {
+    "message": "Aucun événement"
+  },
+  "trigger_display_name_on_key_press": {
+    "message": "Avec **%keyInput%**"
+  },
+  "trigger_display_name_every_interval": {
+    "message": "Toutes les **%time%** ms"
+  },
+  "trigger_display_name_on_scheduled_time": {
+    "message": "À **%timeSchedule%**"
+  },
+  "trigger_display_name_on_scene_switch": {
+    "message": "Changement de scène à **%scene%**"
+  },
+  "trigger_display_name_stream_source_state_change": {
+    "message": "Lorsque **%stream%** devient **%state%**"
+  },
+  "trigger_display_name_after_media_playback": {
+    "message": "Lorsque **%id%** s'arrête"
+  },
+  "trigger_display_name_custom_function": {
+    "message": "Script personnalisé"
+  },
+  "trigger_display_name_default_manual_run": {
+    "message": "Aucun événement"
+  },
+  "trigger_display_name_default_on_key_press": {
+    "message": "Appui touche clavier [?]"
+  },
+  "trigger_display_name_default_every_interval": {
+    "message": "Chaque intervalle [?]"
+  },
+  "trigger_display_name_default_on_scheduled_time": {
+    "message": "À l'heure prévue [?]"
+  },
+  "trigger_display_name_default_on_scene_switch": {
+    "message": "Changement de scène [?]"
+  },
+  "trigger_display_name_default_stream_source_state_change": {
+    "message": "Lorsqu'une source de stream passe en-ligne/hors-ligne"
+  },
+  "trigger_display_name_default_after_media_playback": {
+    "message": "Lorsqu'une source média s'arrête [?]"
+  },
+  "trigger_display_name_default_custom_function": {
+    "message": "Script personnalisé [?]"
+  },
+  "trigger_option_display_manual_run": {
+    "message": "Aucun événement"
+  },
+  "trigger_option_display_on_key_press": {
+    "message": "Appui touche clavier"
+  },
+  "trigger_option_display_every_interval": {
+    "message": "Chaque intervalle"
+  },
+  "trigger_option_display_on_scheduled_time": {
+    "message": "À l'heure prévue"
+  },
+  "trigger_option_display_on_scene_switch": {
+    "message": "Changement de scène"
+  },
+  "trigger_option_display_stream_source_state_change": {
+    "message": "Lorsqu'une source de stream passe en-ligne/hors-ligne"
+  },
+  "trigger_option_display_after_media_playback": {
+    "message": "Lorsqu'une source média s'arrête"
+  },
+  "trigger_option_display_custom_function": {
+    "message": "Script personnalisé"
+  },
+  "trigger_presets_time": {
+    "message": "durée"
+  },
+  "trigger_presets_time_schedule": {
+    "message": "Programme"
+  },
+  "trigger_presets_state_online": {
+    "message": "en ligne"
+  },
+  "trigger_presets_state_offline": {
+    "message": "hors ligne"
+  },
+  "trigger_presets_custom_function_placeholder": {
+    "message": "Tapez ou collez votre script ici...[br]Les scriptes possèdent ces paramètres (callFunctionArray, xjs).[br]le script d’événement personnalisé doit retourner une fonction pour effacer/supprimer des écouteurs d’événements."
+  },
+  "action_display_name_wait": {
+    "message": "Attendez %time% ms"
+  },
+  "action_display_name_start_stop_broadcast": {
+    "message": "%broadcastState% diffusion vers %output%"
+  },
+  "action_display_name_scene_change": {
+    "message": "Basculez vers %scene%"
+  },
+  "action_display_name_scene_transition_change": {
+    "message": "Régler la transition de scène à %transition%, %time% ms"
+  },
+  "action_display_name_set_source_visibilty": {
+    "message": "%visibility% %videoItem%"
+  },
+  "action_display_name_playback_media": {
+    "message": "%newPlaybackState% %id%"
+  },
+  "action_display_name_toggle_mute": {
+    "message": "%mute% %itemAudio%"
+  },
+  "action_display_name_run_macro": {
+    "message": "Activer %macro%"
+  },
+  "action_display_name_stop_macro": {
+    "message": "Arrêter %stopMacroId%"
+  },
+  "action_display_name_push_to_live": {
+    "message": "Basculer au live"
+  },
+  "action_display_name_enable_disable_macro": {
+    "message": "%toggle% %macro% écouteur"
+  },
+  "action_display_name_go_to_action": {
+    "message": "Aller à %action%"
+  },
+  "action_display_name_custom_function": {
+    "message": "Script Personalisé (%customFunctionAction% ...)"
+  },
+  "action_display_name_default_wait": {
+    "message": "Patienter [?]"
+  },
+  "action_display_name_default_start_stop_broadcast": {
+    "message": "Démarrer/arrêter diffusion [?]"
+  },
+  "action_display_name_default_scene_change": {
+    "message": "Basculer vers scene [?]"
+  },
+  "action_display_name_default_scene_transition_change": {
+    "message": "Régler transition de scène [?]"
+  },
+  "action_display_name_default_set_source_visibilty": {
+    "message": "Régler visibilité de source [?]"
+  },
+  "action_display_name_default_playback_media": {
+    "message": "Régler statut de playback de la source média [?]"
+  },
+  "action_display_name_default_toggle_mute": {
+    "message": "Régler statut de source audio [?]"
+  },
+  "action_display_name_default_run_macro": {
+    "message": "Activer macro [?]"
+  },
+  "action_display_name_default_stop_macro": {
+    "message": "Arrêter macro [?]"
+  },
+  "action_display_name_default_push_to_live": {
+    "message": "Basculer au live"
+  },
+  "action_display_name_default_enable_disable_macro": {
+    "message": "Activer/Désactiver écouteur d'événement macro [?]"
+  },
+  "action_display_name_default_go_to_action": {
+    "message": "Aller à l'action [?]"
+  },
+  "action_display_name_default_custom_function": {
+    "message": "Script personnalisé [?]"
+  },
+  "action_option_display_wait": {
+    "message": "Patienter"
+  },
+  "action_option_display_start_stop_broadcast": {
+    "message": "Démarrer/arrêter diffusion"
+  },
+  "action_option_display_scene_change": {
+    "message": "Basculer vers scène"
+  },
+  "action_option_display_scene_transition_change": {
+    "message": "Régler transition de scène"
+  },
+  "action_option_display_set_source_visibilty": {
+    "message": "Régler visibilité de source"
+  },
+  "action_option_display_playback_media": {
+    "message": "Régler statut de playback de la source média"
+  },
+  "action_option_display_toggle_mute": {
+    "message": "Régler statut source audio"
+  },
+  "action_option_display_run_macro": {
+    "message": "Activer macro"
+  },
+  "action_option_display_stop_macro": {
+    "message": "Arrêter macro"
+  },
+  "action_option_display_push_to_live": {
+    "message": "Basculer au live"
+  },
+  "action_option_display_enable_disable_macro": {
+    "message": "Activer/Désactiver écouteur d'événement macro"
+  },
+  "action_option_display_go_to_action": {
+    "message": "Aller à l'action"
+  },
+  "action_option_display_custom_function": {
+    "message": "Script personnalisé"
+  },
+  "action_presets_time": {
+    "message": "durée"
+  },
+  "action_presets_wait_until_done": {
+    "message": "patienter jusqu'à la fin"
+  },
+  "action_presets_custom_function_placeholder": {
+    "message": "Taper ou coller votre script ici...[br]Les Scripts ont ces paramètres (résoudre, rejeter, xjs).[br]Condition de script personalisée doit toujours être résolu ou rejetée."
+  },
+  "action_presets_start": {
+    "message": "Début"
+  },
+  "action_presets_stop": {
+    "message": "Arrêter"
+  },
+  "action_presets_show": {
+    "message": "Montrer"
+  },
+  "action_presets_hide": {
+    "message": "Masquer"
+  },
+  "action_presets_toggle_visibility": {
+    "message": "Changer Visibilité"
+  },
+  "action_presets_play": {
+    "message": "Lire"
+  },
+  "action_presets_pause": {
+    "message": "Pause"
+  },
+  "action_presets_mute": {
+    "message": "Muet"
+  },
+  "action_presets_unmute": {
+    "message": "Rétablier le son"
+  },
+  "action_presets_toggle_audio": {
+    "message": "Changer statut audio"
+  },
+  "action_presets_enable": {
+    "message": "Activer"
+  },
+  "action_presets_disable": {
+    "message": "Désactiver"
+  },
+  "condition_display_name_active_scene": {
+    "message": "Si scène active est %scene%"
+  },
+  "condition_display_name_stream_source": {
+    "message": "Si %stream% est %state%"
+  },
+  "condition_display_name_source_visibility": {
+    "message": "Si %videoItem% est %visibility%"
+  },
+  "condition_display_name_media_state": {
+    "message": "Si %id% est %mediaState%"
+  },
+  "condition_display_name_macro_state": {
+    "message": "Si %macro% est %state%"
+  },
+  "condition_display_name_custom_function": {
+    "message": "Condition personalisé (%customFunctionCondition%)"
+  },
+  "condition_display_name_default_active_scene": {
+    "message": "Vérifier scène active [?]"
+  },
+  "condition_display_name_default_stream_source": {
+    "message": "Vérifier source de stream [?]"
+  },
+  "condition_display_name_default_source_visibility": {
+    "message": "Vérifier visibilité de source [?]"
+  },
+  "condition_display_name_default_media_state": {
+    "message": "Vérifier statut média [?]"
+  },
+  "condition_display_name_default_macro_state": {
+    "message": "Vérifier statut macro [?]"
+  },
+  "condition_display_name_default_custom_function": {
+    "message": "Condition personalisée [?]"
+  },
+  "condition_option_display_active_scene": {
+    "message": "Vérifier scène active"
+  },
+  "condition_option_display_stream_source": {
+    "message": "Vérifier source de stream"
+  },
+  "condition_option_display_source_visibility": {
+    "message": "Vérifier visibilité de source"
+  },
+  "condition_option_display_media_state": {
+    "message": "Vérifier statut média"
+  },
+  "condition_option_display_macro_state": {
+    "message": "Vérifier statut macro"
+  },
+  "condition_option_display_custom_function": {
+    "message": "Condition personalisée"
+  },
+  "condition_presets_online": {
+    "message": "en ligne"
+  },
+  "condition_presets_offline": {
+    "message": "hors ligne"
+  },
+  "condition_presets_visible": {
+    "message": "visible"
+  },
+  "condition_presets_hidden": {
+    "message": "masqué"
+  },
+  "condition_presets_playing": {
+    "message": "en cours"
+  },
+  "condition_presets_not_playing": {
+    "message": "en attente"
+  },
+  "condition_presets_enabled": {
+    "message": "activé"
+  },
+  "condition_presets_disabled": {
+    "message": "désactivé"
+  },
+  "condition_presets_custom_function_placeholder": {
+    "message": "Taper ou coller votre script ici...[br]Les Scripts ont ces paramètres (résoudre, rejeter, xjs, args, callFunctionArray).[br]Condition de script personalisée doit toujours être résolu."
+  }
+}

@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="msgGeneralWebApiError" xml:space="preserve">
+    <value>FC2 Live에 연결하는데에 문제가 생겼습니다.</value>
+  </data>
+  <data name="NoAuthenticationExists" xml:space="preserve">
+    <value>접속 토큰이 없습니다. 다시 인증해주세요.
+
+계속 문제가 생긴다면 지원팀에 문의바랍니다.</value>
+  </data>
+  <data name="StreamChannelIsEmpty" xml:space="preserve">
+    <value>채널을 사용할 수 없습니다. {0}를 계정에 추가했는지 확인해 주세요.</value>
+  </data>
+  <data name="lblHint0" xml:space="preserve">
+    <value>XSplit은 사용자의 계정에서 아무 방송 채널도 찾을 수 없었습니다. XSplit에 가입을 했다면 바로 FC2 Live에 연결되었을 것입니다.
+
+이 설정 마법사는 사용자가 FC2 Live 채널을 설정하는 것을 도와줄 것입니다.</value>
+  </data>
+  <data name="lblHint1" xml:space="preserve">
+    <value>FC2 Live 인증서를 입력하세요.</value>
+  </data>
+  <data name="lblHint5" xml:space="preserve">
+    <value>사용자의 FC2 Live 채널을 사용할 수 있게 되었습니다.
+완료 버튼을 눌러 계속 진행하거나 뒤로가기 버튼을 눌러 입력했던 내용을 변경하세요.</value>
+  </data>
+  <data name="neverShowAgain" xml:space="preserve">
+    <value>FC2 Live로 더 이상 연결하지 않겠습니다.</value>
+  </data>
+  <data name="lblLiveUsername" xml:space="preserve">
+    <value>Email:</value>
+  </data>
+  <data name="msgBwTestFailedOrCancelled" xml:space="preserve">
+    <value>FC2 Live 서버 대역폭 테스트가 완료되지 않았습니다.</value>
+  </data>
+  <data name="msgDataRateAdjusted" xml:space="preserve">
+    <value>사용자의 데이터 비율은 FC2 Live 서버 대역폭 테스트 결과에 맞춰 조정되었습니다.</value>
+  </data>
+  <data name="btnFinish" xml:space="preserve">
+    <value>완료</value>
+  </data>
+  <data name="btnNext" xml:space="preserve">
+    <value>다음</value>
+  </data>
+  <data name="lblHint3" xml:space="preserve">
+    <value>사용자의 인터넷 속도 또는 희망하는 업로드 속도를 입력하세요.</value>
+  </data>
+  <data name="lblResolution2" xml:space="preserve">
+    <value>방송 해상도를 선택해주세요.</value>
+  </data>
+  <data name="lblResolution2Xbc5003" xml:space="preserve">
+    <value>출력 해상도를 설정하십시오.</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>FC2 Live 계정이 없습니까? 여기에서 가입하세요.</value>
+  </data>
+  <data name="msgBwTestSuccess" xml:space="preserve">
+    <value>사용자의 인터넷 연결은 {0} kbps 대역폭 연결 테스트를 통과하였습니다.</value>
+  </data>
+  <data name="msgNoBwTestWarning" xml:space="preserve">
+    <value>사용자가 요구하는 데이터 비율은 실제 업로드 속도 테스트를 거치지 않았습니다. 계속 하시겠습니까?</value>
+  </data>
+  <data name="frmFc2" xml:space="preserve">
+    <value>FC2 Live 속성</value>
+  </data>
+</root>

@@ -1,0 +1,674 @@
+{
+	"title": {
+		"message": "XSplit Broadcaster - การบันทึกของฉัน"
+	},
+	"myRecordings.back": {
+		"message": "ย้อนกลับ..."
+	},
+	"myRecordings.processing": {
+		"message": "กำลังโหลดการบันทึก..."
+	},
+	"myRecordings.openWith": {
+		"message": "เปิดด้วย"
+	},
+	"myRecordings.edit": {
+		"message": "แก้ไขวิดีโอ"
+	},
+	"myRecordings.CONVERT_TO_MP4": {
+		"message": "แปลงเป็น MP4"
+	},
+	"myRecordings.REPAIR_FILE": {
+		"message": "ซ่อมไฟล์"
+	},
+	"myRecordings.FIX_MOV_FILE": {
+		"message": "ปรับแต่งสำหรับเว็บ"
+	},
+	"myRecordings.FIX_MOV_FILE_TOOLTIP": {
+		"message": "ตัวเลือกนี้จะช่วยย่นระยะเวลาในการประมวลผมที่ต้องใช้หลังจากการอัพโหลดไฟล์ไปยังเวปวิดีโอต่างๆ อย่างเช่น Youtube โดยพื้นฐานแล้วมันคือการจัดข้อมูลมีเดียวทั้งหมดของไฟล์วิดีโอตั้งแต่จบไปยังต้นไฟล์ ปรับแต่งสำหรับการดูออนไลน์ สำหรับข้อมูลทางเทคนิคเพิ่มเติม คลิ๊ก[ที่นี่](https://xspl.it/j5hfit)"
+	},
+	"myRecordings.openFileLocation": {
+		"message": "เปิดตำแหน่งที่อยุ่ของไฟล์"
+	},
+	"myRecordings.openFolderLocation": {
+		"message": "เปิดตำแหน่งที่อยุ่ของโฟลเดอร์"
+	},
+	"myRecordings.sortBy": {
+		"message": "จัดเรียงตาม"
+	},
+	"myRecordings.orderBy": {
+		"message": "จัดลำดับตาม"
+	},
+	"myRecordings.ascending": {
+		"message": "จากน้อยไปมาก"
+	},
+	"myRecordings.descending": {
+		"message": "จากมากไปน้อย"
+	},
+	"myRecordings.header.name": {
+		"message": "ชื่อ"
+	},
+	"myRecordings.header.date": {
+		"message": "วันที่"
+	},
+	"myRecordings.header.type": {
+		"message": "ประเภท"
+	},
+	"myRecordings.header.videoLength": {
+		"message": "ความยาว"
+	},
+	"myRecordings.header.size": {
+		"message": "ขนาด"
+	},
+	"myRecordings.details.recordedOn": {
+		"message": "ถูกบันทึกเมื่อ"
+	},
+	"myRecordings.details.deleteRecordings": {
+		"message": "รายการที่เลือก"
+	},
+	"myRecordings.details.files": {
+		"message": "รายการ"
+	},
+	"myRecordings.details.selected": {
+		"message": "ถูกเลือก"
+	},
+	"myRecordings.details.total": {
+		"message": "รวม"
+	},
+	"myRecordings.details.uploading": {
+		"message": "อัพโหลดวิดีโอ เสร็จสิ้นไปแล้ว %percent%"
+	},
+	"myRecordings.details.rename": {
+		"message": "เปลี่ยนชื่อ"
+	},
+	"myRecordings.details.delete": {
+		"message": "ลบวิดีโอในเครื่อง"
+	},
+	"myRecordings.details.editSettings": {
+		"message": "แก้ไขการตั้งค่า"
+	},
+	"myRecordings.details.link": {
+		"message": "ลิงก์"
+	},
+	"myRecordings.details.open": {
+		"message": "ไปยังลิงก์"
+	},
+	"myRecordings.details.copy": {
+		"message": "คัดลอกลิงก์"
+	},
+	"myRecordings.details.deleteVideoFromYoutube": {
+		"message": "ลบวิดีโอจาก Youtube"
+	},
+	"myRecordings.details.deleteVideoFromDailymotion": {
+		"message": "ลบวิดีโอจาก Dailymotion"
+	},
+	"myRecordings.details.filename.errors.FILE_ALREADY_EXISTS": {
+		"message": "มีไฟล์ชื่อเดียวกันอยู่ก่อนแล้ว"
+	},
+	"myRecordings.details.filename.errors.INVALID_FILENAME": {
+		"message": "มีตัวอักษรที่ห้ามใช้ในชื่อไฟล์ใหม่"
+	},
+	"myRecordings.details.filename.hoverMessage": {
+		"message": "คลิ๊กขวาเพื่อดูตัวเลือกเพิ่มเติม"
+	},
+	"myRecordings.youtube.error.upload": {
+		"message": "มีข้อผิดพลาดในการอัพโหลดวิดีโอ"
+	},
+	"myRecordings.youtube.error.tryAgain": {
+		"message": "ลองใหม่อีกครั้ง?"
+	},
+	"myRecordings.youtube.error.cancel": {
+		"message": "ยกเลิก"
+	},
+	"myRecordings.youtube.link.copy": {
+		"message": "คัดลอกลิงก์"
+	},
+	"myRecordings.youtube.link.open": {
+		"message": "เปิดในเบราว์เซอร์"
+	},
+	"myRecordings.youtube.privacy.unlisted": {
+		"message": "ไม่แสดงสาธารณะ"
+	},
+	"myRecordings.youtube.privacy.private": {
+		"message": "ส่วนตัว"
+	},
+	"myRecordings.youtube.privacy.public": {
+		"message": "สาธารณะ"
+	},
+	"myRecordings.youtube.cancelUpload": {
+		"message": "ยกเลิกการอ้พโหลด"
+	},
+	"myRecordings.location.label": {
+		"message": "ตำแหน่ง"
+	},
+	"myRecordings.location.open": {
+		"message": "เปิดโฟลเดอร์"
+	},
+	"uploadVideoDialog.dialogTitle": {
+		"message": "อัพโหลดไปยัง Youtube"
+	},
+	"uploadVideoDialog.edit": {
+		"message": "แก้ไขการตั้งค่าวิดีโอ"
+	},
+	"uploadVideoDialog.title": {
+		"message": "ไตเติ้ล"
+	},
+	"uploadVideoDialog.description": {
+		"message": "รายละเอียด"
+	},
+	"uploadVideoDialog.category": {
+		"message": "ประเภท"
+	},
+	"uploadVideoDialog.categoryValues.Autos": {
+		"message": "รถยนต์และยานยนต์"
+	},
+	"uploadVideoDialog.categoryValues.Comedy": {
+		"message": "เรื่องตลก"
+	},
+	"uploadVideoDialog.categoryValues.Education": {
+		"message": "การศึกษา"
+	},
+	"uploadVideoDialog.categoryValues.Entertainment": {
+		"message": "บันเทิง"
+	},
+	"uploadVideoDialog.categoryValues.Film": {
+		"message": "ภาพยนตร์และแอนิเมชัน"
+	},
+	"uploadVideoDialog.categoryValues.Gaming": {
+		"message": "เกม"
+	},
+	"uploadVideoDialog.categoryValues.Howto": {
+		"message": "ฮาวทูและสไตล์"
+	},
+	"uploadVideoDialog.categoryValues.Music": {
+		"message": "เพลง"
+	},
+	"uploadVideoDialog.categoryValues.News": {
+		"message": "ข่าวและการเมือง"
+	},
+	"uploadVideoDialog.categoryValues.Nonprofit": {
+		"message": "องค์กรที่ไม่แสวงหาผลกำไรและการเคลื่อนไหว"
+	},
+	"uploadVideoDialog.categoryValues.People": {
+		"message": "ผู้คนและบล็อก"
+	},
+	"uploadVideoDialog.categoryValues.Pets&Animals": {
+		"message": "สัตว์เลี้ยงและสัตว์"
+	},
+	"uploadVideoDialog.categoryValues.Tech": {
+		"message": "เทคโนโลยี่และวิทยาศาสตร์"
+	},
+	"uploadVideoDialog.categoryValues.Sports": {
+		"message": "กีฬา"
+	},
+	"uploadVideoDialog.categoryValues.Travel": {
+		"message": "ท่องเที่ยวและกิจกรรม"
+	},
+	"uploadVideoDialog.gameName": {
+		"message": "ชื่อเกม"
+	},
+	"uploadVideoDialog.tags.label": {
+		"message": "แท็ก"
+	},
+	"uploadVideoDialog.tags.tooltip": {
+		"message": "ใช้คอมม่าเพื่อแยกแท็ก คลิกสองครั้งที่แท็กเพื่อแก้ไขข้อความ"
+	},
+	"uploadVideoDialog.privacy": {
+		"message": "ความเป็นส่วนตัว"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Unlisted": {
+		"message": "ไม่เป็นสาธารณะ"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Private": {
+		"message": "ส่วนตัว"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Public": {
+		"message": "สาธารณะ"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Private": {
+		"message": "ส่วนตัว"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Public": {
+		"message": "สาธารณะ"
+	},
+	"uploadVideoDialog.applyClose": {
+		"message": "ใช้งานและปิด"
+	},
+	"uploadVideoDialog.uploadNow": {
+		"message": "อัพโหลดตอนนี้"
+	},
+	"uploadVideoDialog.title-youtube": {
+		"message": "อัพโหลดวิดีโอไปยัง Youtube"
+	},
+	"uploadVideoDialog.title-dailymotion": {
+		"message": "อัพโหลดวิดีโอไปยัง Dailymotion"
+	},
+	"uploadVideoDialog.editVideo-youtube": {
+		"message": "แก้ไขการตั้งค่า วิดีโอของ Youtube"
+	},
+	"uploadVideoDialog.cancel": {
+		"message": "ยกเลิก"
+	},
+	"uploadVideoDialog.allowEmbed": {
+		"message": "อนุญาต"
+	},
+	"uploadVideoDialog.embed.label": {
+		"message": "ฝัง"
+	},
+	"uploadVideoDialog.processing": {
+		"message": "กำลังประมวลผล"
+	},
+	"uploadVideoDialog.uploadNotification": {
+		"message": "เมื่อคลิ๊ก \"อัพโหลดตอนนี้\" คุณรับรองว่าเนื้อหาที่คุณกำลังอัปโหลดเป็นไปตาม [เงื่อนไขการให้บริการของ Youtube](https://xspl.it/ox4uyd) (รวมถึงหลักเกณฑ์ชุมชนของ YouTube) โปรดแน่ใจว่าไม่ได้ละเมิดลิขสิทธิ์หรือสิทธิ์ความเป็นส่วนตัวของผู้อื่น"
+	},
+	"youtubeUpload.dialogTitle": {
+		"message": "อัพโหลดไปยัง Youtube"
+	},
+	"youtubeUpload.edit": {
+		"message": "แก้ไขการตั้งค่าวิดีโอ"
+	},
+	"youtubeUpload.title": {
+		"message": "ไตเติ้ล"
+	},
+	"youtubeUpload.description": {
+		"message": "รายละเอียด"
+	},
+	"youtubeUpload.category": {
+		"message": "ประเภท"
+	},
+	"youtubeUpload.categoryValues.Autos": {
+		"message": "รถยนต์และยานยนต์"
+	},
+	"youtubeUpload.categoryValues.Comedy": {
+		"message": "เรื่องตลก"
+	},
+	"youtubeUpload.categoryValues.Education": {
+		"message": "การศึกษา"
+	},
+	"youtubeUpload.categoryValues.Entertainment": {
+		"message": "บันเทิง"
+	},
+	"youtubeUpload.categoryValues.Film": {
+		"message": "ภาพยนตร์และแอนิเมชัน"
+	},
+	"youtubeUpload.categoryValues.Gaming": {
+		"message": "เกม"
+	},
+	"youtubeUpload.categoryValues.Howto": {
+		"message": "ฮาวทูและสไตล์"
+	},
+	"youtubeUpload.categoryValues.Music": {
+		"message": "เพลง"
+	},
+	"youtubeUpload.categoryValues.News": {
+		"message": "ข่าวและการเมือง"
+	},
+	"youtubeUpload.categoryValues.Nonprofit": {
+		"message": "องค์กรที่ไม่แสวงหาผลกำไรและการเคลื่อนไหว"
+	},
+	"youtubeUpload.categoryValues.People": {
+		"message": "ผู้คนและบล็อก"
+	},
+	"youtubeUpload.categoryValues.Pets&Animals": {
+		"message": "สัตว์เลี้ยงและสัตว์"
+	},
+	"youtubeUpload.categoryValues.Tech": {
+		"message": "เทคโนโลยี่และวิทยาศาสตร์"
+	},
+	"youtubeUpload.categoryValues.Sports": {
+		"message": "กีฬา"
+	},
+	"youtubeUpload.categoryValues.Travel": {
+		"message": "ท่องเที่ยวและกิจกรรม"
+	},
+	"youtubeUpload.tags.label": {
+		"message": "แท็ก"
+	},
+	"youtubeUpload.tags.tooltip": {
+		"message": "ใช้คอมม่าเพื่อแบ่งแท็ก"
+	},
+	"youtubeUpload.privacy": {
+		"message": "ความเป็นส่วนตัว"
+	},
+	"youtubeUpload.privacyValues.Unlisted": {
+		"message": "ไม่เป็นสาธารณะ"
+	},
+	"youtubeUpload.privacyValues.Private": {
+		"message": "ส่วนตัว"
+	},
+	"youtubeUpload.privacyValues.Public": {
+		"message": "สาธารณะ"
+	},
+	"youtubeUpload.applyClose": {
+		"message": "ใช้งานและปิด"
+	},
+	"youtubeUpload.uploadNow": {
+		"message": "อัพโหลดตอนนี้"
+	},
+	"youtubeUpload.uploadVideo": {
+		"message": "อัพโหลดวิดีโอไปยัง Youtube"
+	},
+	"youtubeUpload.editVideo": {
+		"message": "แก้ไขการตั้งค่า วิดีโอของ Youtube"
+	},
+	"youtubeUpload.cancel": {
+		"message": "ยกเลิก"
+	},
+	"youtubeUpload.allowEmbed": {
+		"message": "อนุญาต"
+	},
+	"youtubeUpload.embed.label": {
+		"message": "ฝัง"
+	},
+	"youtubeUpload.processing": {
+		"message": "กำลังประมวลผล"
+	},
+	"facebookShare.addMessage": {
+		"message": "พิมพ์ข้อความของคุณที่นี่"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "แชร์วิดีโอไปยัง Facebook"
+	},
+	"facebookShare.via": {
+		"message": "ผ่านทาง XSplit Broadcaster"
+	},
+	"facebookShare.privacy": {
+		"message": "ส่วนตัว"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "สาธารณะ"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "เพื่อน"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "เพื่อนของเพื่อน"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "เฉพาะฉัน"
+	},
+	"facebookShare.shareVideo": {
+		"message": "แชร์"
+	},
+	"facebookShare.cancel": {
+		"message": "ยกเลิก"
+	},
+	"facebookShare.processing": {
+		"message": "กำลังประมวลผล"
+	},
+	"facebookShare.postAs": {
+		"message": "โพสไปยัง"
+	},
+	"facebookShare.timeline": {
+		"message": "Facebook ทามไลน์"
+	},
+	"facebookShare.managePage": {
+		"message": "เพจที่คุณเป็นคนจัดการ"
+	},
+	"twitterShare.addMessage": {
+		"message": "พิมพ์ข้อความของคุณที่นี่"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "แชร์วิดีโอไปยัง Twitter"
+	},
+	"twitterShare.privacy": {
+		"message": "ส่วนตัว"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "แชร์"
+	},
+	"twitterShare.cancel": {
+		"message": "ยกเลิก"
+	},
+	"twitterShare.processing": {
+		"message": "กำลังประมวลผล"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "พิมพ์ข้อความของคุณที่นี่"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "แชร์วิดีโอไปยัง Google+"
+	},
+	"googlePlusShare.via": {
+		"message": "ผ่านทาง XSplit Broadcaster"
+	},
+	"googlePlusShare.privacy": {
+		"message": "ส่วนตัว"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "ทุกคน"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "เพื่อนทั้งหมด"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "เพื่อนของเพื่อน"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "ตัวเอง"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "แชร์"
+	},
+	"googlePlusShare.cancel": {
+		"message": "ยกเลิก"
+	},
+	"googlePlusShare.processing": {
+		"message": "กำลังประมวลผล"
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "แชร์วิดีโอ"
+	},
+	"vodShare.processing": {
+		"message": "กำลังประมวลผล"
+	},
+	"vodShare.addLink": {
+		"message": "เพิ่มลิงก์"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "ความเป็นส่วนตัวของ Facebook"
+	},
+	"vodShare.gameCheckin": {
+		"message": "เกมเช็คอิน"
+	},
+	"vodShare.gameCheckin.placeholder": {
+		"message": "เกมเช็คอิน"
+	},
+	"vodShare.shareVideo": {
+		"message": "แชร์"
+	},
+	"vodShare.cancel": {
+		"message": "ยกเลิก"
+	},
+	"vodShare.shareTo.1": {
+		"message": "แชร์ไปยัง %service1% เท่านั้น"
+	},
+	"vodShare.shareTo.2": {
+		"message": "แชร์ไปยัง %service1% และ %service2%"
+	},
+	"vodShare.shareTo.3": {
+		"message": "แชร์ไปยัง %service1%, %service2% และ %service3%"
+	},
+	"vodShare.shareTo.4": {
+		"message": "แชร์ไปยัง %service1%, %service2%, %service3% และ %service4%"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "ตัวนับจำนวนข้อความ Twitter"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "นับจำนวนตัวอักษรที่เหลือที่สามารถโพสไปยัง Twitter คุณจะพบตัวอักษรสีฟ้าอยู่ในข้อความ โดยตัวอักษรสีน้ำเงินเท่านั้นที่จะถูกโพสไปยัง Twitter"
+	},
+	"vodShare.gameNameWarning": {
+		"message": "ชื่อเกมไม่มีอยุ่ในฐานข้อมูลของ Player.me ดังนั้นมันจะไม่แสดงลงในโพสของคุณ"
+	},
+	"vodShare.loadMore": {
+		"message": "โหลดเพิ่มเติม"
+	},
+	"vodStatus.title": {
+		"message": "แชร์สเตตัส"
+	},
+	"vodStatus.facebook": {
+		"message": "Facebook"
+	},
+	"vodStatus.twitter": {
+		"message": "Twitter"
+	},
+	"vodStatus.playerme": {
+		"message": "Player.me"
+	},
+	"vodStatus.gplus": {
+		"message": "Google Plus"
+	},
+	"vodStatus.posting": {
+		"message": "กำลังโพสไปยัง %social%..."
+	},
+	"vodStatus.success": {
+		"message": "โพสลงบน %social% สำเร็จ [br][%message%](%url%)"
+	},
+	"vodStatus.message.facebook": {
+		"message": "ดูโพส"
+	},
+	"vodStatus.message.twitter": {
+		"message": "ดู Tweet"
+	},
+	"vodStatus.message.playerme": {
+		"message": "ดูโพส"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "ดูรายละเอียด"
+	},
+	"vodStatus.error": {
+		"message": "โพสไปยัง %social% ไม่สำเร็จ"
+	},
+	"vodStatus.failed": {
+		"message": "โพสไปยัง %social% ไม่สำเร็จ [br][%message%](%url%)"
+	},
+	"vodStatus.invalid": {
+		"message": "ไม่สามารถโพสไปยัง %social%"
+	},
+	"vodStatus.edit": {
+		"message": "แก้ไข"
+	},
+	"vodStatus.retry": {
+		"message": "ลองใหม่อีกครั้ง"
+	},
+	"dialog.ok": {
+		"message": "ปิด"
+	},
+	"myRecordings.shareupload.loading": {
+		"message": "เชื่อมต่อ YouTube... [br] ทำการเชื่อมต่อ Youtube ไปยัง XSplit ในเบราว์เซอร์คุณ"
+	},
+	"growl.yes": {
+		"message": "ใช่"
+	},
+	"growl.no": {
+		"message": "ไม่ใช่"
+	},
+	"growl.error": {
+		"message": "ข้อผิดพลาด"
+	},
+	"growl.info": {
+		"message": "ข้อมูล"
+	},
+	"growl.warning": {
+		"message": "คำเตือน"
+	},
+	"growl.question": {
+		"message": "คำถาม"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.title": {
+		"message": "มีข้อผิดพลาดในการตรวจสอบ",
+		"type": "error"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.message": {
+		"message": " ชื่อไฟล์ที่คุณป้อนมีคำต้องห้ามและไม่สามารถใช้ได้ คำต้องห้ามจากวินโดวส์ไม่สามารถใช้ในชื่อโฟลเดอร์หรือไฟล์ได้"
+	},
+	"growl.messages.BLANK_FILENAME.title": {
+		"message": "มีข้อผิดพลาดในการตรวจสอบ",
+		"type": "error"
+	},
+	"growl.messages.BLANK_FILENAME.message": {
+		"message": "จำเป็นต้องกรอกชื่อไฟล์"
+	},
+	"growl.messages.INVALID_FILENAME.title": {
+		"message": "มีข้อผิดพลาดในการตรวจสอบ",
+		"type": "error"
+	},
+	"growl.messages.INVALID_FILENAME.message": {
+		"message": "ชื่อของไฟล์จะต้องไม่มีอักขระต่อไปนี้:\\ / : * ? \" < > |"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.title": {
+		"message": "มีข้อผิดพลาดในการตรวจสอบ",
+		"type": "error"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.message": {
+		"message": "ชื่อไฟล์นี้มีอยู่แล้ว"
+	},
+	"growl.messages.TOO_LONG_FILENAME.title": {
+		"message": "เส้นทางเป้าหมายยาวเกินไป",
+		"type": "error"
+	},
+	"growl.messages.TOO_LONG_FILENAME.message": {
+		"message": "ชื่อไฟล์ยาวเกินไปสำหรับโฟล์เดอร์เเป้าหมาย คุณสามารถทำชื่อไฟล์ให้สั้นลงได้หรืออาจจะลองตำแหน่งที่มีชื่อสั้นกว่า"
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.title": {
+		"message": "มีข้อผิดพลาดในการตรวจสอบ",
+		"type": "error"
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.message": {
+		"message": "ไฟล์อาจจะถูกล็อคหรือถูกใช้อยู่"
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.title": {
+		"message": "ต้องการลิงก์วิดีโอ",
+		"type": "warning"
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.message": {
+		"message": "ก่อนที่คุณจะสามารถแชร์ลิงก์วิดีโอไปสู่หน้าโซเชียลมีเดียได้นั้น โปรดใช้ปุ่มของ Youtube เพื่ออัพโหลดวิดีโอของคุณไปยัง Youtube ก่อน"
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.title": {
+		"message": "ไม่สามารถแชร์ไปยัง Twitter ได้",
+		"type": "error"
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.message": {
+		"message": "ข้อความของคุณยาวเกินกว่าความยาวตัวอักษรที่ Twitter อนุญาต ข้อความของคุณจะไม่ถูกโพสไปยัง Twitter แต่จะยังคงถูกแชร์ไปยัง Facebook อยู่"
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.title": {
+		"message": "ไม่สามารถแชร์ไปยัง Twitter ได้",
+		"type": "error"
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.message": {
+		"message": "รูปภาพเกินขนาด 3 Mb ที่สามารถใส่ลงไปใน Tweet ได้"
+	},
+	"myScreenshots.emptyMessage": {
+		"message": "ตรงนี้ยังว่าง"
+	},
+	"myScreenshots.watchTutorial": {
+		"message": "ดู [บทเรียน](https://xspl.it/bc/tutorials) เหล่านี้เพื่อเรียนรุ้เพิ่มเติม"
+	},
+	"myRecordings.title": {
+		"message": "บันทึก"
+	},
+	"myRecordings.emptyFileLocation": {
+		"message": "บันทึก บรอดแคสต์ที่ยอดเยี่ยมชองคุณ อัพโหลดไปยังบริการแชร์วิดีโอต่างๆ และทำให้มันกลายเป็นไวรัล!"
+	},
+	"imgShare.unauthorized": {
+		"message": "ก่อนที่คุณจะสามารถแชร์รุปได้ คุณต้องอนุญาตให้ใช้งานบัญชีของโซเชียลมีเดียอย่างน้อย 1 บัญชี โดยคลิ๊กที่ไอค่อนด้านบน"
+	},
+	"imgShare.shareImageTitle": {
+		"message": "แชร์ภาพ"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "มองหาคำแนะนำ..."
+	},
+	"myScreenshots.title": {
+		"message": "สกรีนช็อต"
+	},
+	"myScreenshots.processing": {
+		"message": "กำลังโหลดสกรีนช็อต..."
+	},
+	"myScreenshots.details.takenon": {
+		"message": "ถ่ายเมื่อ"
+	},
+	"myScreenshots.emptyFileLocation": {
+		"message": "ใช้คีย์ลัดสกรีนช็อต (ภายใต้ เครื่องมือ -> การตั้งค่า -> คีย์ลัด) เพื่อจับและแชร์รูปภาพของฉากของคุณทันที!"
+	}
+}

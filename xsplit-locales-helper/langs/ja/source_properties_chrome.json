@@ -1,0 +1,1415 @@
+{
+	"main.pin": {
+		"message": "スティッキー"
+	},
+	"main.refresh": {
+		"message": "更新"
+	},
+	"main.keep_in_memory": {
+		"message": "ソースをメモリに保存する"
+	},
+	"main.see_linked_sources": {
+		"message": "リンクのソース"
+	},
+	"main.unlink": {
+		"message": "リンク解除"
+	},
+	"main.linked_sources": {
+		"message": "リンクのソース："
+	},
+	"main.none": {
+		"message": "`-` 無し - "
+	},
+	"main.error_details_source": {
+		"message": "ソースファイルが見つかりません。名前が変更されているか、削除されている可能性があります。"
+	},
+	"main.go_to_store": {
+		"message": "ソースプラグインストアに行く"
+	},
+	"main.or": {
+		"message": "または"
+	},
+	"main.browse_file": {
+		"message": "ファイルを参照する"
+	},
+	"main.add_loading": {
+		"message": "読み込み中..."
+	},
+	"main.add_text": {
+		"message": "テキストを追加する"
+	},
+	"main.add_image_slideshow": {
+		"message": "画像スライドショーを追加する"
+	},
+	"main.add_video_playlist": {
+		"message": "ビデオ再生リストを追加する"
+	},
+	"main.add_skype_ndi": {
+		"message": "Skype NDIを追加"
+	},
+	"main.add_plugin": {
+		"message": "%plugin_name%を追加する"
+	},
+	"main.ok": {
+		"message": "OK"
+	},
+	"main.cancel": {
+		"message": "キャンセル"
+	},
+	"main.disable_audio_wrapper_warning": {
+		"message": "「ネイティブFlashサウンドコントロールを使用する」を有効にしている間は[br]wrapper audioを解除する事をお勧めします。"
+	},
+	"main.win7_aero_desktop_capture_warning": {
+		"message": "XSplitのパフォーマンスに影響を与える可能性ありますので、Aero設定でのデスクトップキャプチャはお勧めできません。デスクトップキャプチャが必要な場合は、テーマをWindows 7 ベーシックに変更してください。詳細は[こちら](https://xspl.it/bc/jn2qeo)。"
+	},
+	"main.ndi_in_beta": {
+		"message": "NDIソースはまだベータ版でございます。オーディオレンダリングはまだサポートされていません。"
+	},
+	"main.ndi_in_beta_audio_supported": {
+		"message": "NDIソースはまだベータ版です"
+	},
+	"main.ndi_audio_not_supported": {
+		"message": "オーディオレンダリングはまだサポートされておりません。"
+	},
+	"main.file_contains_ac3": {
+		"message": "このファイルはAC3エンコードオーディオが含まれています。MicrosoftとXSplitはAC3オーディオをデコードするライセンスを提供しておりません。AC3をデコードするには[こちらのフィルタ](https://xspl.it/orsexj)をダウンロード、インストールし、ソースを更新してください。[br]注意：必要な権利をお持ちの方のみがこのプログラムをインストールする事が出来ます。(彼らの利用条件をお読みください）インストールするか自己責任でお決めください。"
+	},
+	"main.flash_player_not_installed_outdated": {
+		"message": "Flashプレイヤーがインストールされていないか古いバージョンです。 [Flashプレイヤーの最新版をダウンロードしインストールしてください](https://xspl.it/getflash)"
+	},
+	"main.sync_with_elgato": {
+		"message": "このソースを%device%の遅延とあわせるためには（同じシーン内で）、%elgatodelay%msの遅延を追加する必要があります。"
+	},
+	"main.stream_only_unsupported": {
+		"message": "Stream Only feature is only supported in Windows 10 or later."
+	},
+	"main.help.linked_sources_title": {
+		"message": "リンクのソース"
+	},
+	"main.help.linked_sources_message": {
+		"message": "リンクされているソースは一つ以上のシーンに使用されているグローバルソースです。このソースはかならず同じ名で表記され、同一の解像度が保たれております。「ソースをメモリに保存する」を有効にする事でソースをメモリ内にて保存する事ができます。"
+	},
+	"main.audio_output_options_system_sound": {
+		"message": "システムサウンド"
+	},
+	"main.audio_output_options_stream_only": {
+		"message": "放送のみ"
+	},
+	"main.audio_output_options_stream_only_unsupported": {
+		"message": "放送のみ"
+	},
+	"main.audio_output_options_stream_only_install": {
+		"message": "放送のみ(インストール)"
+	},
+	"main.audio_output_options_default_speakers": {
+		"message": "既定スピーカー"
+	},
+	"main.when_finished_options_nothing": {
+		"message": "無し"
+	},
+	"main.when_finished_options_rewind": {
+		"message": "巻き戻し"
+	},
+	"main.when_finished_options_loop": {
+		"message": "ループ"
+	},
+	"main.when_finished_options_hide": {
+		"message": "隠す"
+	},
+	"main.when_finished_options_transparent": {
+		"message": "透明"
+	},
+	"tabheader.color": {
+		"message": "色"
+	},
+	"tabheader.layout": {
+		"message": "レイアウト"
+	},
+	"tabheader.transition": {
+		"message": "エフェクト"
+	},
+	"tabheader.debug": {
+		"message": "Debug"
+	},
+	"tabheader.video_playlist": {
+		"message": "再生リスト"
+	},
+	"tabheader.ip_cam": {
+		"message": "IPカメラ"
+	},
+	"tabheader.media": {
+		"message": "メディア"
+	},
+	"tabheader.audio": {
+		"message": "オーディオ"
+	},
+	"tabheader.cam": {
+		"message": "カメラ"
+	},
+	"tabheader.title": {
+		"message": "タイトル"
+	},
+	"tabheader.screen": {
+		"message": "スクリーン"
+	},
+	"tabheader.stream": {
+		"message": "ストリーミング"
+	},
+	"tabheader.swf": {
+		"message": "SWF"
+	},
+	"tabheader.skype": {
+		"message": "Skype"
+	},
+	"tabheader.game": {
+		"message": "ゲーム"
+	},
+	"tabheader.text": {
+		"message": "テキスト"
+	},
+	"tabheader.slideshow": {
+		"message": "スライドショー"
+	},
+	"tabheader.hotkeys": {
+		"message": "ホットキー"
+	},
+	"tabheader.whiteboard": {
+		"message": "ホワイトボード"
+	},
+	"tabheader.html": {
+		"message": "HTML"
+	},
+	"tabheader.rtmp": {
+		"message": "RTMP"
+	},
+	"tabheader.ndi": {
+		"message": "NDI"
+	},
+	"tabheader.tobii": {
+		"message": "Tobii"
+	},
+	"tabheader.replay": {
+		"message": "リプレイ"
+	},
+	"tabheader.scene": {
+		"message": "現在のシーン"
+	},
+	"colortab.picture": {
+		"message": "画像"
+	},
+	"colortab.keying": {
+		"message": "キーイング"
+	},
+	"colortab.reset": {
+		"message": "リセット"
+	},
+	"colortab.none": {
+		"message": "なし"
+	},
+	"colortab.chroma_key": {
+		"message": "クロマキー"
+	},
+	"colortab.color_key": {
+		"message": "カラーキー"
+	},
+	"colortab.quality": {
+		"message": "クオリティ"
+	},
+	"colortab.real_sense": {
+		"message": "Intel&reg; RealSense&trade;"
+	},
+	"colortab.realsense_info": {
+		"message": "Intel&reg; RealSense&trade;を有効にする事でグリーンスクリーン無しに3Dカメラが背景を削除します。"
+	},
+	"colortab.realsense_not_installed": {
+		"message": "Intel&reg; RealSense&trade;を使用に必要なコンポーネントが検出できませんでした。[RealSense SDKランタイムインストーラーを起動する](%link%) (XSplitのアプリに必要なコンポーネントは既に選択しました)。"
+	},
+	"colortab.realsense_error": {
+		"message": "いくつかのIntel&reg; RealSense&trade;の背景削除機能を使用する為のコンポーネントが正しくインストールされていない可能性があります。詳細に関しましては[この記事を読んでください](https://xspl.it/realsense)"
+	},
+	"colortab.legacy": {
+		"message": "レガシーモード"
+	},
+	"colortab.keycolor": {
+		"message": "キーカラー"
+	},
+	"colortab.anti_aliasing": {
+		"message": "アンチエイリアス"
+	},
+	"colortab.eyedrop": {
+		"message": "目薬ツール"
+	},
+	"colortab.copy_color_settings": {
+		"message": "クロマキー設定をコピーする"
+	},
+	"colortab.paste_color_settings": {
+		"message": "クロマキー設定をペーストする"
+	},
+	"colortab.help.full_dynamic_range_title": {
+		"message": "フルダイナミックレンジ"
+	},
+	"colortab.help.full_dynamic_range_message": {
+		"message": "フルダイナミックレンジとはソースとして使用している各カメラ/キャプチャカードのグローバル設定の事です。"
+	},
+	"colortab.enable_full_dynamic_range": {
+		"message": "フルダイナミックレンジ"
+	},
+	"colortab.apply_globally": {
+		"message": "リンクされているソース全てに適用"
+	},
+	"colortab.help.smartcam_quality_title": {
+		"message": "クオリティ"
+	},
+	"colortab.help.smartcam_quality_message": {
+		"message": "クォリティが高いほど、CPU使用率が高くなります（1 - 低/5 - 高）"
+	},
+	"colortab.key_color_options_green": {
+		"message": "緑"
+	},
+	"colortab.key_color_options_red": {
+		"message": "赤"
+	},
+	"colortab.key_color_options_blue": {
+		"message": "青"
+	},
+	"colortab.anti_aliasing_options_high": {
+		"message": "高"
+	},
+	"colortab.anti_aliasing_options_low": {
+		"message": "低"
+	},
+	"colortab.anti_aliasing_options_none": {
+		"message": "なし"
+	},
+	"colortab.no_greenscreen": {
+		"message": "グリーンバックをお持ちでない？"
+	},
+	"colortab.try_vcam": {
+		"message": "XSplit VCamをお試しください！"
+	},
+	"layouttab.position": {
+		"message": "ポジション"
+	},
+	"layouttab.3d": {
+		"message": "2D/3D変換"
+	},
+	"layouttab.cropping": {
+		"message": "クロッピング"
+	},
+	"layouttab.source_rotate": {
+		"message": "ソースを３D回転させるには、SHIFTキーを押しながらマウスでドラッグしてください。"
+	},
+	"layouttab.x": {
+		"message": "X"
+	},
+	"layouttab.y": {
+		"message": "Y"
+	},
+	"layouttab.z": {
+		"message": "Z"
+	},
+	"layouttab.rotate": {
+		"message": "回転する"
+	},
+	"layouttab.flip": {
+		"message": "ひっくり返す"
+	},
+	"layouttab.counter_clockwise": {
+		"message": "反時計回り"
+	},
+	"layouttab.clockwise": {
+		"message": "時計回り"
+	},
+	"layouttab.width": {
+		"message": "幅"
+	},
+	"layouttab.height": {
+		"message": "高さ"
+	},
+	"layouttab.reset": {
+		"message": "リセット"
+	},
+	"layouttab.crop_alt_key": {
+		"message": "ソースの枠をALTキーを押しながらドラッグしてみてください。"
+	},
+	"layouttab.top": {
+		"message": "トップ"
+	},
+	"layouttab.bottom": {
+		"message": "下部"
+	},
+	"layouttab.left": {
+		"message": "左"
+	},
+	"layouttab.right": {
+		"message": "右"
+	},
+	"layouttab.autocrop": {
+		"message": "自動トリミング"
+	},
+	"layouttab.keep_aspect_ratio": {
+		"message": "アスペクト非を維持する"
+	},
+	"layouttab.lock_position": {
+		"message": "ポジションを固定する"
+	},
+	"layouttab.enhance_resize": {
+		"message": "リサイズの向上"
+	},
+	"layouttab.pan_360": {
+		"message": "360プロジェクション"
+	},
+	"layouttab.help.pan_360_message": {
+		"message": "「位置を固定」するオプションを有効にする事で、マウスホイールでズーム、クリック&ドラックで位置移動。"
+	},
+	"transitiontab.masking": {
+		"message": "マスキング"
+	},
+	"transitiontab.none": {
+		"message": "なし"
+	},
+	"transitiontab.shape": {
+		"message": "形"
+	},
+	"transitiontab.file": {
+		"message": "ファイル"
+	},
+	"transitiontab.filters": {
+		"message": "フィルタ"
+	},
+	"transitiontab.effects": {
+		"message": "切り替え(&T)"
+	},
+	"transitiontab.shadow": {
+		"message": "影"
+	},
+	"transitiontab.size": {
+		"message": "サイズ"
+	},
+	"transitiontab.radius": {
+		"message": "半径"
+	},
+	"transitiontab.opacity": {
+		"message": "透明度"
+	},
+	"transitiontab.border": {
+		"message": "ボーダー"
+	},
+	"transitiontab.color": {
+		"message": "色"
+	},
+	"transitiontab.reset": {
+		"message": "リセット"
+	},
+	"transitiontab.offset_x": {
+		"message": "オフセットX"
+	},
+	"transitiontab.blur": {
+		"message": "ぼかし"
+	},
+	"transitiontab.offset_y": {
+		"message": "オフセットY"
+	},
+	"transitiontab.mask_source": {
+		"message": "ソースへマスクする"
+	},
+	"transitiontab.mask_stage": {
+		"message": "ステージへマスクする"
+	},
+	"transitiontab.image_mask_file": {
+		"message": "画像マスクファイル"
+	},
+	"transitiontab.show_masking_guide": {
+		"message": "マスキングガイドを表示する"
+	},
+	"transitiontab.re2_mode": {
+		"message": "RE2モードではソーストランジションはサポートされていません。"
+	},
+	"transitiontab.config_text": {
+		"message": "シーンを表示または非表示にするとトランジションがデフォルトで使用されます（ソースリストでソースを有効/無効）。シーンに切り替わった時にソースがトランジション付きで表示される様に設定する事もできます。但し、トランジションが「無し」に設定されているとトランジションは表示されません。ソーストランジションは有効にしたままメイントランジションはカットしたい場合、メインシーントランジションを「無し」では無く「カット」を選択してください。"
+	},
+	"transitiontab.transition": {
+		"message": "切り替え(&T)"
+	},
+	"transitiontab.speed": {
+		"message": "速度"
+	},
+	"transitiontab.speed_unit": {
+		"message": "ms"
+	},
+	"transitiontab.preview_label": {
+		"message": "プレビュー"
+	},
+	"transitiontab.no_available_preview": {
+		"message": "利用可能なプレビューがありません"
+	},
+	"transitiontab.on_scene_exit": {
+		"message": "シーン退場時"
+	},
+	"transitiontab.on_scene_enter": {
+		"message": "シーン入場時"
+	},
+	"transitiontab.lut_file": {
+		"message": "LUT ファイル"
+	},
+	"transitiontab.browse": {
+		"message": "参照"
+	},
+	"transitiontab.intensity": {
+		"message": "エフェクトの強さ"
+	},
+	"transitiontab.bloom_intensity": {
+		"message": "ブルームの強さ"
+	},
+	"transitiontab.magnify_amount": {
+		"message": "倍率の強さ"
+	},
+	"transitiontab.blur_amount": {
+		"message": "ぼかしの強さ"
+	},
+	"transitiontab.filters_none": {
+		"message": "フィルタ無し"
+	},
+	"transitiontab.filters_sharpen": {
+		"message": "Sharpen"
+	},
+	"transitiontab.filters_smoothen": {
+		"message": "Smoothen"
+	},
+	"transitiontab.filters_cool": {
+		"message": "クール"
+	},
+	"transitiontab.filters_warm": {
+		"message": "暖かさ"
+	},
+	"transitiontab.filters_bloom": {
+		"message": "ブルーム"
+	},
+	"transitiontab.filters_mono": {
+		"message": "モノクローム"
+	},
+	"transitiontab.filters_color_tint": {
+		"message": "色彩の色合い"
+	},
+	"transitiontab.filters_invert": {
+		"message": "反転色"
+	},
+	"transitiontab.filters_old_movie": {
+		"message": "昔の映画"
+	},
+	"transitiontab.filters_sketch": {
+		"message": "スケッチ"
+	},
+	"transitiontab.filters_magnify": {
+		"message": "倍率"
+	},
+	"transitiontab.filters_blur": {
+		"message": "ぼかし"
+	},
+	"transitiontab.filters_custom": {
+		"message": "カスタムLUT"
+	},
+	"transitiontab.luts_article": {
+		"message": "LUTとは？"
+	},
+	"transitiontab.transition_select_options_none": {
+		"message": "なし"
+	},
+	"transitiontab.transition_select_options_clock": {
+		"message": "時計"
+	},
+	"transitiontab.transition_select_options_collapse": {
+		"message": "閉じる"
+	},
+	"transitiontab.transition_select_options_ease_in_out_back": {
+		"message": "後ろからゆっくり入る"
+	},
+	"transitiontab.transition_select_options_ease_out_bounce": {
+		"message": "跳ねながら出る"
+	},
+	"transitiontab.transition_select_options_ease_out_elastic": {
+		"message": "ゴムの様に出る"
+	},
+	"transitiontab.transition_select_options_fade": {
+		"message": "フェード"
+	},
+	"transitiontab.transition_select_options_fan": {
+		"message": "ファン"
+	},
+	"transitiontab.transition_select_options_hole": {
+		"message": "ホール"
+	},
+	"transitiontab.transition_select_options_move_left": {
+		"message": "左に移動"
+	},
+	"transitiontab.transition_select_options_move_right": {
+		"message": "右に移動"
+	},
+	"transitiontab.transition_select_options_move_left_right": {
+		"message": "左右に移動"
+	},
+	"transitiontab.transition_select_options_move_top": {
+		"message": "上に移動"
+	},
+	"transitiontab.transition_select_options_move_bottom": {
+		"message": "下に移動"
+	},
+	"transitiontab.transition_select_options_move_top_bottom": {
+		"message": "上下に移動"
+	},
+	"transitiontab.transition_select_options_wave": {
+		"message": "ウェーブ"
+	},
+	"transitiontab.transition_select_options_zoom": {
+		"message": "ズーム"
+	},
+	"debugtab.title": {
+		"message": "Debug"
+	},
+	"debugtab.videoitem_id": {
+		"message": "Videoitem ID"
+	},
+	"debugtab.src_id": {
+		"message": "Source ID"
+	},
+	"debugtab.src_type": {
+		"message": "Source Type"
+	},
+	"debugtab.copy": {
+		"message": "コピー"
+	},
+	"debugtab.type_undefined": {
+		"message": "Undefined"
+	},
+	"debugtab.type_file": {
+		"message": "ファイル"
+	},
+	"debugtab.type_live": {
+		"message": "ライブ"
+	},
+	"debugtab.type_text": {
+		"message": "テキスト"
+	},
+	"debugtab.type_image": {
+		"message": "Image"
+	},
+	"debugtab.type_screen": {
+		"message": "スクリーン"
+	},
+	"debugtab.type_swf": {
+		"message": "SWF"
+	},
+	"debugtab.type_game": {
+		"message": "ゲーム"
+	},
+	"debugtab.type_html": {
+		"message": "HTML"
+	},
+	"debugtab.type_3ds": {
+		"message": "3DS"
+	},
+	"debugtab.type_ppt": {
+		"message": "Presentation"
+	},
+	"debugtab.type_scene": {
+		"message": "現在のシーン"
+	},
+	"debugtab.type_group": {
+		"message": "グループ"
+	},
+	"debugtab.type_replay": {
+		"message": "リプレイ"
+	},
+	"debugtab.type_view": {
+		"message": "View"
+	},
+	"camtab.processing": {
+		"message": "ソースを切り替え中..."
+	},
+	"camtab.updating_settings": {
+		"message": "設定を更新中..."
+	},
+	"camtab.playback": {
+		"message": "プレイバック"
+	},
+	"camtab.device_configuration": {
+		"message": "デバイスコンフィグ"
+	},
+	"camtab.delay": {
+		"message": "遅延 (ms)"
+	},
+	"camtab.audio_input": {
+		"message": "オーディオ入力"
+	},
+	"camtab.audio_output": {
+		"message": "オーディオ出力"
+	},
+	"camtab.offset": {
+		"message": "オフセット (ms)"
+	},
+	"camtab.offset_text": {
+		"message": "(オーディオとビデオの同期)"
+	},
+	"camtab.silence_detection": {
+		"message": "無音検出"
+	},
+	"camtab.threshold": {
+		"message": "しきい値"
+	},
+	"camtab.silence_period": {
+		"message": "沈黙期間(ミリ秒)"
+	},
+	"camtab.camera_source": {
+		"message": "カメラソース"
+	},
+	"camtab.camera_source_audio": {
+		"message": "オーディオソース"
+	},
+	"camtab.configure_text": {
+		"message": "%device_name%を設定するには、下のボタンをクリックしてください。"
+	},
+	"camtab.auto_logitech": {
+		"message": "基本設定を使用する"
+	},
+	"camtab.manual_logitech": {
+		"message": "手動で設定する"
+	},
+	"camtab.configure": {
+		"message": "コンフィグ"
+	},
+	"camtab.priority": {
+		"message": "優先順位"
+	},
+	"camtab.frame_rate_priority_logitech": {
+		"message": "フレームレート"
+	},
+	"camtab.exposure_priority_logitech": {
+		"message": "露光"
+	},
+	"camtab.field_of_view": {
+		"message": "視野"
+	},
+	"camtab.orientation": {
+		"message": "向き"
+	},
+	"camtab.orientation_disabled": {
+		"message": "無効になっています"
+	},
+	"camtab.orientation_portrait": {
+		"message": "ポートレート"
+	},
+	"camtab.orientation_landscape": {
+		"message": "ランドスケープ"
+	},
+	"camtab.orientation_auto": {
+		"message": "自動向き変更"
+	},
+	"camtab.enable_hdr": {
+		"message": "有効"
+	},
+	"camtab.hdr": {
+		"message": "HDR (高ダイナミックレンジ)"
+	},
+	"camtab.help.hdr": {
+		"message": "このオプションを有効にする事で全ての証明状態のビデオクォリティを向上する - 低光、明光、高コントラスト、バックライト。30fpsかそれ以下に対応"
+	},
+	"camtab.video_source": {
+		"message": "ビデオ入力"
+	},
+	"camtab.video_capture_pin": {
+		"message": "ビデオ出力"
+	},
+	"camtab.tv_tuner": {
+		"message": "テレビチューナー"
+	},
+	"camtab.video_cross_bar1": {
+		"message": "クロスバー"
+	},
+	"camtab.video_cross_bar2": {
+		"message": "クロスバー2"
+	},
+	"camtab.vfw_capture_source": {
+		"message": "VFW 入力"
+	},
+	"camtab.vfw_capture_format": {
+		"message": "VFWフォーマット"
+	},
+	"camtab.vfw_capture_display": {
+		"message": "VFWディスプレイ"
+	},
+	"camtab.hw_video_encoder": {
+		"message": "HWビデオエンコーダー"
+	},
+	"camtab.hw_audio_encoder": {
+		"message": "HWオーディオエンコーダー"
+	},
+	"camtab.hw_mux": {
+		"message": "HW MUX"
+	},
+	"camtab.audio_source": {
+		"message": "オーディオ入力"
+	},
+	"camtab.audio_capture_pin": {
+		"message": "オーディオ出力"
+	},
+	"camtab.tv_audio": {
+		"message": "TVオーディオ"
+	},
+	"camtab.video_renderer": {
+		"message": "ビデオレンダー"
+	},
+	"camtab.audio_renderer": {
+		"message": "オーディオレンダー"
+	},
+	"camtab.force_deinterlace": {
+		"message": "インターレース解除"
+	},
+	"camtab.auto_configure": {
+		"message": "XSplitが自動コンフィグする事を許可する"
+	},
+	"camtab.use_black_magic_wdm": {
+		"message": "ブラックマジックWDMキャプチャを使用する"
+	},
+	"camtab.description": {
+		"message": "XSplitの使用方法に関しましてはこちら："
+	},
+	"camtab.avermedia.partnersite1_description": {
+		"message": "AVerMedia Live Gamer HD C985のページ"
+	},
+	"camtab.avermedia.partnersite2_description": {
+		"message": "AVerMedia C875 Live Gamer Portableのページ"
+	},
+	"camtab.elgato.partnersite1_description": {
+		"message": "Elgato Game Captureのウェブサイト"
+	},
+	"camtab.elgato.partnersite2_description": {
+		"message": "Elgatoのサポートページ"
+	},
+	"camtab.roxio.partnersite1_description": {
+		"message": "Roxioのウェブサイト"
+	},
+	"camtab.roxio.partnersite2_description": {
+		"message": "Roxio Game Captureのページ"
+	},
+	"camtab.xsplit_support_page": {
+		"message": "XSplitサポートページ"
+	},
+	"camtab.youtube": {
+		"message": "%name% Youtube"
+	},
+	"camtab.audio_input_options_builtin": {
+		"message": "内蔵"
+	},
+	"camtab.audio_input_options_none": {
+		"message": "なし"
+	},
+	"gametab.game_source": {
+		"message": "ゲームソース"
+	},
+	"gametab.show_mouse": {
+		"message": "マウスカーソルを表示する"
+	},
+	"gametab.enable_special_optimization": {
+		"message": "特別最適化を有効にする"
+	},
+	"gametab.unable_to_set": {
+		"message": "(最適化する事ができません)"
+	},
+	"gametab.special_optimization_hint": {
+		"message": "(Crossfire/SLIのラグを回避する為、特別最適化を無効にする)"
+	},
+	"gametab.enable_playback_smoothness": {
+		"message": "フレームスムージングを有効にする"
+	},
+	"gametab.allow_transparency": {
+		"message": "透明を有効にする"
+	},
+	"gametab.playback_smoothness": {
+		"message": "FPS率 (%)"
+	},
+	"gametab.limit_game_fps": {
+		"message": "ゲームFPS上限: "
+	},
+	"gametab.offline_image": {
+		"message": "オフライン画像"
+	},
+	"gametab.offline_image_description": {
+		"message": "ゲームもしくはソースが見つからなければオフラインイメージが表示されます(ゲームソースを透明にするために空にして下さい)"
+	},
+	"mediatab.playback": {
+		"message": "プレイバック"
+	},
+	"mediatab.audio_output": {
+		"message": "オーディオ出力"
+	},
+	"mediatab.start_at": {
+		"message": "開始:"
+	},
+	"mediatab.set": {
+		"message": "セット"
+	},
+	"mediatab.end_at": {
+		"message": "終了:"
+	},
+	"mediatab.reset": {
+		"message": "リセット"
+	},
+	"mediatab.play": {
+		"message": "再生"
+	},
+	"mediatab.play_options_once": {
+		"message": "一度だけ"
+	},
+	"mediatab.play_options_forever": {
+		"message": "永遠に"
+	},
+	"mediatab.play_options_custom": {
+		"message": "カスタム..."
+	},
+	"mediatab.loop_times": {
+		"message": "回"
+	},
+	"mediatab.when_finished": {
+		"message": "終了時:"
+	},
+	"mediatab.start_on_load": {
+		"message": "シーン入場時に再生"
+	},
+	"mediatab.play_on_show": {
+		"message": "ソース表示に強制再生"
+	},
+	"mediatab.remember_playback_position": {
+		"message": "プレイバック位置の記憶"
+	},
+	"mediatab.force_deinterlace": {
+		"message": "インターレース解除"
+	},
+	"mediatab.show_playback_position": {
+		"message": "プレイバックの位置を表示する"
+	},
+	"mediatab.cuepoints": {
+		"message": "キューポイント:"
+	},
+	"mediatab.add_to_cuepoints": {
+		"message": "キューポイントを追加する"
+	},
+	"mediatab.add": {
+		"message": "追加"
+	},
+	"mediatab.saved_cue_points": {
+		"message": "キューポイントを保存する"
+	},
+	"mediatab.cue_point_type.cue_point": {
+		"message": "キューポイント"
+	},
+	"mediatab.cue_point_type.start": {
+		"message": "開始"
+	},
+	"mediatab.cue_point_type.end": {
+		"message": "終了"
+	},
+	"mediatab.cue_point_type.cut": {
+		"message": "カット"
+	},
+	"mediatab.cue_point_type.pause": {
+		"message": "停止"
+	},
+	"mediatab.cue_point_type.resume": {
+		"message": "再開"
+	},
+	"mediatab.change": {
+		"message": "変更..."
+	},
+	"mediatab.cue_point_options_resume": {
+		"message": "再開"
+	},
+	"mediatab.cue_point_options_pause": {
+		"message": "停止"
+	},
+	"mediatab.cue_point_options_cut": {
+		"message": "カット"
+	},
+	"mediatab.help.loop_times_title": {
+		"message": "カスタム再生"
+	},
+	"mediatab.help.loop_times_message": {
+		"message": "新しいカスタム再生値を設定すると、再生カウンターが１に戻されます。"
+	},
+	"picturetab.mediasource": {
+		"message": "メディアソース"
+	},
+	"screentab.processing": {
+		"message": "ソースを切り替え中..."
+	},
+	"screentab.window_capture": {
+		"message": "ウィンドウキャプチャ"
+	},
+	"screentab.desktop_capture": {
+		"message": "デスクトップキャプチャ"
+	},
+	"screentab.area": {
+		"message": "エリア"
+	},
+	"screentab.capture_options": {
+		"message": "キャプチャオプション"
+	},
+	"screentab.x": {
+		"message": "X"
+	},
+	"screentab.y": {
+		"message": "Y"
+	},
+	"screentab.width": {
+		"message": "幅"
+	},
+	"screentab.height": {
+		"message": "高さ"
+	},
+	"screentab.client_area": {
+		"message": "クライアントエリア"
+	},
+	"screentab.track_window_title": {
+		"message": "タイトルに固定する"
+	},
+	"screentab.window_source": {
+		"message": "ウィンドウソース"
+	},
+	"screentab.desktop_source": {
+		"message": "デスクトップソース"
+	},
+	"screentab.screen_capture": {
+		"message": "スクリーンキャプチャ"
+	},
+	"screentab.exclude_xsplit_window": {
+		"message": "XSplitをディスプレイキャプチャから除外する"
+	},
+	"screentab.optimize_window_capture": {
+		"message": "独占ウィンドウキャプチャ"
+	},
+	"screentab.capture_layered_windows": {
+		"message": "重なってるウィンドウもキャプチャする[br] (マウスのちらつきを避けるためには解除してください)"
+	},
+	"screentab.not_supported": {
+		"message": "(このシステムではサポートされていません)"
+	},
+	"screentab.gpu_optimized": {
+		"message": "GPU最適化"
+	},
+	"screentab.show_mouse": {
+		"message": "マウスカーソルを表示する"
+	},
+	"screentab.show_mouse_clicks": {
+		"message": "マウスのクリックを表示する"
+	},
+	"screentab.fix_black_capture": {
+		"message": "ブラックキャプチャを修正する"
+	},
+	"screentab.reset": {
+		"message": "リセット"
+	},
+	"skytab.skype": {
+		"message": "Skype"
+	},
+	"skytab.offline_image": {
+		"message": "オフライン画像"
+	},
+	"skytab.offline_image_description": {
+		"message": "スカイプビデオフィードが見つからなければオフラインイメージが表示されます(スカイプソースを透明にするために空にして下さい)"
+	},
+	"skytab.source_flicker": {
+		"message": "これらの理由でSkypeソースにちらつきが発生するかもしれません:"
+	},
+	"skytab.multiple_calls": {
+		"message": "複数のコール (保留中のコール含む)"
+	},
+	"skytab.skype_show_call_cotrols": {
+		"message": "&quot;Skypeが背景にある場合、スカイプコントロールを表示する:&quot; オプションをSkype で有効にしてください 【設定 -> 詳細】"
+	},
+	"skytab.ndi_skype_enable": {
+		"message": "スカイプでNDIを有効にする方法:"
+	},
+	"skytab.ndi_multiple_calls": {
+		"message": "必要バージョン - Skype Preview 8.28.76.42"
+	},
+	"skytab.ndi_skype_show_call_cotrols": {
+		"message": "有効 &quot;NDI使用許可&quot; スカイプオプション内で > 通話設定 > 通話詳細設定"
+	},
+	"skytab.skypeId": {
+		"message": "Skype ID: "
+	},
+	"skytab.computerName": {
+		"message": "PC名: "
+	},
+	"skytab.skypeNdiLink": {
+		"message": "Skype NDIの詳細"
+	},
+	"skytab.apply": {
+		"message": "適用"
+	},
+	"skytab.search.help.message": {
+		"message": "Skype NDIソースのPC名とSkype IDを入力するか、あなたのネットワーク上のSkype NDIソースを検索する為に虫眼鏡アイコンをクリックしてください。「適応」をクリックしてソースを接続してください。"
+	},
+	"skytab.search.help.title": {
+		"message": "Skype NDIソース"
+	},
+	"skytab.skype_available_ndi_sources": {
+		"message": "有効なSkype NDIソース"
+	},
+	"skytab.no_ndi_label": {
+		"message": "Skype NDI通話を認識できかｍせんでした"
+	},
+	"streamtab.playback": {
+		"message": "プレイバック"
+	},
+	"streamtab.audio_output": {
+		"message": "オーディオ出力"
+	},
+	"streamtab.use_rtmp_flash": {
+		"message": "プレイバックにFlashを使用する"
+	},
+	"streamtab.stream_source": {
+		"message": "ストリーミングソース"
+	},
+	"streamtab.stream_name": {
+		"message": "放送名："
+	},
+	"streamtab.delay": {
+		"message": "配信バッファー(秒)"
+	},
+	"streamtab.protocol": {
+		"message": "プロトコル"
+	},
+	"streamtab.protocol_tooltip": {
+		"message": "低RTSPトランスポートプロトコルを設定します。[br][br] カクツキや遅延がありましたら、プロトコルをTCPからUDPに変更してみてください。ファイアウォールによってブロックされた場合、プロトコルをHTTPに変更してみてください。"
+	},
+	"streamtab.apply": {
+		"message": "適用"
+	},
+	"nditab.playback": {
+		"message": "プレイバック"
+	},
+	"nditab.audio_output": {
+		"message": "オーディオ出力"
+	},
+	"nditab.ndi_source": {
+		"message": "ストリーミングソース"
+	},
+	"nditab.quality": {
+		"message": "クオリティ"
+	},
+	"nditab.standard": {
+		"message": "スタンダード"
+	},
+	"nditab.maximum": {
+		"message": "最大"
+	},
+	"nditab.apply": {
+		"message": "適用"
+	},
+	"replaytab.saveToDisk": {
+		"message": "Save to disk"
+	},
+	"replaytab.saveToDiskOnPlayback": {
+		"message": "Save to disk on playback"
+	},
+	"replaytab.source": {
+		"message": "ソース"
+	},
+	"replaytab.no_output": {
+		"message": "出力を選択しておりません"
+	},
+	"replaytab.output_live": {
+		"message": "出力がライブです"
+	},
+	"replaytab.output_offline": {
+		"message": "出力がライブになっていません"
+	},
+	"replaytab.connect_to": {
+		"message": "接続先"
+	},
+	"replaytab.help.connect_to_title": {
+		"message": "接続先"
+	},
+	"replaytab.help.connect_to_message": {
+		"message": "リプレイソースが接続される出力を選択してください。自動設定では次に配信される出力に自動的に接続されます。"
+	},
+	"replaytab.help.save_playback_title": {
+		"message": "Save replay to disk on playback"
+	},
+	"replaytab.help.save_playback_message": {
+		"message": "Saves a copy of your replay to your default recording folder."
+	},
+	"replaytab.help.saveToDisk_title": {
+		"message": "Save to disk"
+	},
+	"replaytab.help.saveToDisk_message": {
+		"message": "Saves your replay buffer to disk without showing it on your stream."
+	},
+	"replaytab.replay": {
+		"message": "リプレイ"
+	},
+	"replaytab.hotkey": {
+		"message": "ショートカットキー"
+	},
+	"replaytab.replayTime": {
+		"message": "リプレイ時間"
+	},
+	"replaytab.bufferLength": {
+		"message": "Buffer Length"
+	},
+	"replaytab.playback": {
+		"message": "プレイバック"
+	},
+	"replaytab.seconds": {
+		"message": "秒"
+	},
+	"replaytab.start_on_load": {
+		"message": "シーン入場時に再生"
+	},
+	"replaytab.audio_output": {
+		"message": "オーディオ出力"
+	},
+	"replaytab.display": {
+		"message": "ディスプレイ"
+	},
+	"scenetab.display": {
+		"message": "ディスプレイ"
+	},
+	"scenetab.scene": {
+		"message": "シーンソース"
+	},
+	"scenetab.scene_description": {
+		"message": "このシーンを編集する場合は指定のシーンに変更してください。[br][br]シーンを変更せずに編集したい場合はスプリットモードを使用するか、プレビューエディタを使用してください。シーン編集後「適応する」を押すことをお忘れなく。"
+	},
+	"swftab.playback": {
+		"message": "プレイバック"
+	},
+	"swftab.disable_audio_wrapper": {
+		"message": "オーディオラッパーを無効にする"
+	},
+	"swftab.swf_source": {
+		"message": "SWFソース"
+	},
+	"swftab.resolution": {
+		"message": "解像度:"
+	},
+	"swftab.original_resolution": {
+		"message": "元のソース"
+	},
+	"swftab.custom_resolution": {
+		"message": "カスタム"
+	},
+	"swftab.configuration": {
+		"message": "コンフィグ"
+	},
+	"swftab.configure_text": {
+		"message": "SWFソースをコンフィグするには、下のボタンをクリックして下さい"
+	},
+	"swftab.configure": {
+		"message": "コンフィグ"
+	},
+	"swftab.audio_output": {
+		"message": "オーディオ出力"
+	},
+	"swfhotkeystab.hotkeys": {
+		"message": "ホットキー"
+	},
+	"titletab.title": {
+		"message": "タイトル"
+	},
+	"titletab.configure_text": {
+		"message": "タイトルソースをコンフィグするには、下のボタンをクリックして下さい"
+	},
+	"titletab.configure": {
+		"message": "コンフィグ"
+	},
+	"tobiitab.title": {
+		"message": "Tobii Eye Tracker プロパティ"
+	},
+	"tobiitab.cursor_color": {
+		"message": "カーソルの色"
+	},
+	"tobiitab.enable": {
+		"message": "トラッキングを有効にする"
+	},
+	"tobiitab.shape": {
+		"message": "形"
+	},
+	"tobiitab.solid": {
+		"message": "ソリッド"
+	},
+	"tobiitab.bubble": {
+		"message": "バブル"
+	},
+	"tobiitab.size": {
+		"message": "サイズ"
+	},
+	"tobiitab.trail": {
+		"message": "トレイル"
+	},
+	"tobiitab.filtering": {
+		"message": "フィルタリング"
+	},
+	"htmltab.playback": {
+		"message": "プレイバック"
+	},
+	"htmltab.audio_output": {
+		"message": "オーディオ出力"
+	},
+	"htmltab.apply": {
+		"message": "適用"
+	},
+	"htmltab.invalid_url": {
+		"message": "有効なURLを入力してください。"
+	},
+	"htmltab.html_source": {
+		"message": "HTMLソース"
+	},
+	"htmltab.reload_on_scene_enter": {
+		"message": "シーン入場時にリロード"
+	},
+	"htmltab.reload_on_source_show": {
+		"message": "ソースが表示された時にリロード"
+	},
+	"htmltab.resolution": {
+		"message": "解像度:"
+	},
+	"htmltab.resolution_tooltip": {
+		"message": "特定の解像度のウェブソースの為に固定解像度を設定してください。元のソースはソースのピクセルサイズになり、サイズ変更時に通常のブラウザーソースの用に行動します。リンクされたソースは固定解像度に強制的に変更されます。"
+	},
+	"htmltab.display": {
+		"message": "ディスプレイ"
+	},
+	"htmltab.original_resolution": {
+		"message": "元のソース"
+	},
+	"htmltab.custom_resolution": {
+		"message": "カスタム"
+	},
+	"htmltab.css_overwrite": {
+		"message": "カスタムコード"
+	},
+	"htmltab.custom_css": {
+		"message": "カスタムCSSを使用する"
+	},
+	"htmltab.edit_css": {
+		"message": "CSSを編集する"
+	},
+	"htmltab.custom_js": {
+		"message": "カスタムJSを使用する"
+	},
+	"htmltab.edit_js": {
+		"message": "JSを編集する"
+	},
+	"htmltab.appearance": {
+		"message": "外観"
+	},
+	"htmltab.disable_transparency": {
+		"message": "透明性を無効する"
+	},
+	"htmltab.disable_scrollbars": {
+		"message": "スクロールバーを無効にする"
+	},
+	"htmltab.enable_60_fps": {
+		"message": "60FPSまで有効にする"
+	},
+	"htmltab.enable_60_fps_tooltip": {
+		"message": "追加のGPU/CPUが必要となるかもしれません。このオプションを有効にする事でソースがリフレッシュされます。最高のパフォーマンスの為にはブラウザーソース最適化を有効にしてください。【ツール→設定→高度】"
+	},
+	"htmltab.configuration": {
+		"message": "コンフィグ"
+	},
+	"htmltab.configure_text": {
+		"message": "HTMLソースをコンフィグするには、下のボタンをクリックして下さい"
+	},
+	"htmltab.configure": {
+		"message": "コンフィグ"
+	},
+	"htmlhotkeystab.hotkeys": {
+		"message": "ホットキー"
+	},
+	"presentationtab.playback": {
+		"message": "プレイバック"
+	},
+	"presentationtab.audio_output": {
+		"message": "オーディオ出力"
+	},
+	"presentationtab.remember_playback_position": {
+		"message": "プレイバック位置の記憶"
+	},
+	"presentationtab.current_slide": {
+		"message": "Current Slide"
+	},
+	"presentationtab.hotkeys": {
+		"message": "Alternatively, you can use the arrow keys to go to the next or previous slide when source is in focus."
+	},
+	"presentationtab.pptSource": {
+		"message": "Presentation Source"
+	},
+	"presentationtab.change": {
+		"message": "変更..."
+	},
+	"css_editor.edit_css": {
+		"message": "CSSを編集する-"
+	},
+	"css_editor.css": {
+		"message": "CSS"
+	},
+	"css_editor.overwrite_css": {
+		"message": "CSSを上書きする"
+	},
+	"css_editor.back": {
+		"message": "戻る"
+	},
+	"js_editor.edit_js": {
+		"message": "JSを編集する- "
+	},
+	"js_editor.js": {
+		"message": "JS"
+	},
+	"js_editor.add_custom_js": {
+		"message": "カスタムJSを追加する"
+	},
+	"js_editor.back": {
+		"message": "戻る"
+	},
+	"hints.picture_section": {
+		"message": "ここではソースの色を調整できます。"
+	},
+	"hints.keying_section": {
+		"message": "ここでは背景除去用にクロマキーを適用する事ができます。"
+	},
+	"hints.position_section": {
+		"message": "ここではビューポートでソースの画像や位置の設定ができます。"
+	},
+	"hints.threed_section": {
+		"message": "ここでは3Dプレーンでソースの調整ができます。HTMLとSWFソースは回転/反転されているとマウスに反応しませんのでご注意ください。"
+	},
+	"hints.media_playback_section": {
+		"message": "プレイバック、メディアボリュームの設定、メディア出力デバイスの設定などをコントロールする。"
+	},
+	"hints.cue_points_section": {
+		"message": "メディアファイルの様々なポイントに一時停止、カット、再生機能を設定する。"
+	},
+	"hints.game_source_section": {
+		"message": "マウスを表示/非表示にし、サーフェイス共有を有効/無効にする"
+	},
+	"hints.camera_playback_section": {
+		"message": "USB2.0デバイスの場合はオーディオ出力を放送のみに設定する事をお勧めします"
+	},
+	"hints.rtsp_rtmp_playback_section": {
+		"message": "音声の遅延を避けるには、オーディオ出力を放送のみに設定してください。"
+	},
+	"hints.configuration_section": {
+		"message": "クリックすると、ソースのアップデートに使用する為のコントロールパネル/ウィンドウコンフィグを開きます。"
+	},
+	"hints.masking_section": {
+		"message": "マスキングはソースをマスクの形状に切り取ることができます。ファイルか形を選択してマスクすることができます。"
+	},
+	"hints.transition_section": {
+		"message": "シーンを表示または非表示にするとトランジションがデフォルトで使用されます（ソースリストでソースを有効/無効）。シーンに切り替わった時にソースがトランジション付きで表示される様に設定する事もできます。但し、トランジションが「無し」に設定されているとトランジションは表示されません。ソーストランジションは有効にしたままメイントランジションはカットしたい場合、メインシーントランジションを「無し」では無く「カット」を選択してください。"
+	},
+	"hints.ndi_playback_section": {
+		"message": "ボリュームとオーディオ出力デバイスを設定する。"
+	}
+}

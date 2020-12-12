@@ -1,0 +1,50 @@
+{
+  "whiteboard_overlay.drawing": {
+    "message": "Dibujo"
+  },
+  "whiteboard_overlay.reminder": {
+    "message": "Para empezar a dibujar, recuerda marcar la casilla de Bloquear Posición en la interfaz y asegúrate de que la fuente no se ha girado."
+  },
+  "whiteboard_overlay.tool": {
+    "message": "Herramienta"
+  },
+  "whiteboard_overlay.size": {
+    "message": "Tamaño"
+  },
+  "whiteboard_overlay.color": {
+    "message": "Color"
+  },
+  "whiteboard_overlay.clear_whiteboard": {
+    "message": "Borrar pizarra"
+  },
+  "whiteboard_overlay.hotkeys": {
+    "message": "Atajos Rápidos"
+  },
+  "whiteboard_overlay.hotkey_header": {
+    "message": "Utilizar estas teclas de acceso directo cuando se selecciona la fuente:"
+  },
+  "whiteboard_overlay.hotkey_s": {
+    "message": "Pulsa &quot;**S**&quot; para alternar entre tamaños (P\/M\/G)"
+  },
+  "whiteboard_overlay.hotkey_shift": {
+    "message": "Pulsa &quot;**Shift**&quot; para usar herramientas alternativas[br]Forma: Formas libres -> Detectar forma (línea, triángulo, círculo, rectángulo)"
+  },
+  "whiteboard_overlay.hotkey_d": {
+    "message": "Pulsa &quot;**D**&quot; para guardar el dibujo actual"
+  },
+  "whiteboard_overlay.hotkey_esc": {
+    "message": "Pulsa &quot;**Esc**&quot; para limpiar la pizarra"
+  },
+  "whiteboard_overlay.tool_options_freehand": {
+    "message": "A mano alzada"
+  },
+  "whiteboard_overlay.size_options_thin": {
+    "message": "Delgado"
+  },
+  "whiteboard_overlay.size_options_normal": {
+    "message": "Normal"
+  },
+  "whiteboard_overlay.size_options_thick": {
+    "message": "Espesor"
+  }
+}

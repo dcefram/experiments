@@ -1,0 +1,59 @@
+{
+  "COUNTER": {
+    "message": "crwdns86930:0%count%crwdnd86930:0%total%crwdne86930:0"
+  },
+  "IN_GAME_HUD.text": {
+    "message": "crwdns86932:0crwdne86932:0"
+  },
+  "UI_UPDATE_ANNOUNCEMENT.text": {
+    "message": "crwdns86934:0crwdne86934:0"
+  },
+  "UI_UPDATE_ANNOUNCEMENT.link": {
+    "message": "crwdns86936:0%url%crwdne86936:0"
+  },
+  "REQUEST_PERMISSION.label": {
+    "message": "crwdns86938:0crwdne86938:0"
+  },
+  "REQUEST_PERMISSION.text": {
+    "message": "crwdns86940:0crwdne86940:0"
+  },
+  "REQUEST_PERMISSION.link": {
+    "message": "crwdns86942:0crwdne86942:0"
+  },
+  "PLUGINS_UPDATE.label": {
+    "message": "crwdns111035:0crwdne111035:0"
+  },
+  "PLUGINS_UPDATE.link": {
+    "message": "crwdns111037:0crwdne111037:0"
+  },
+  "NEW_CRISP_MESSAGE.label": {
+    "message": "crwdns94836:0crwdne94836:0"
+  },
+  "NEW_CRISP_MESSAGE.link": {
+    "message": "crwdns86946:0crwdne86946:0"
+  },
+  "NEW_CRISP_MESSAGE.file": {
+    "message": "crwdns106368:0crwdne106368:0"
+  },
+  "NEW_CRISP_MESSAGE.single": {
+    "message": "crwdns94838:0%count%crwdne94838:0"
+  },
+  "NEW_CRISP_MESSAGE.multiple": {
+    "message": "crwdns94840:0%count%crwdne94840:0"
+  },
+  "IDENTIFY_GAMES.label": {
+    "message": "crwdns86948:0crwdne86948:0"
+  },
+  "IDENTIFY_GAMES.text": {
+    "message": "crwdns86950:0crwdne86950:0"
+  },
+  "IDENTIFY_GAMES.link": {
+    "message": "crwdns86952:0crwdne86952:0"
+  },
+  "WINDOWS_GAMEBAR.text": {
+    "message": "crwdns86954:0crwdne86954:0"
+  },
+  "EXTENSION_RUNNING_IN_BACKGROUND.text": {
+    "message": "crwdns116372:0%name%crwdnd116372:0[GEAR]crwdne116372:0"
+  }
+}

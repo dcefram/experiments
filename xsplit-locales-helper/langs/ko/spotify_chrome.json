@@ -1,0 +1,38 @@
+{
+  "spotify.tabheader": {
+    "message": "Spotify: 재생중"
+  },
+  "spotify.content": {
+    "message": "내용"
+  },
+  "spotify.auth": {
+    "message": "Spotify 에게 XSplit 인증 권한을 부여합니다."
+  },
+  "spotify.log_out": {
+    "message": "로그아웃"
+  },
+  "spotify.appearance": {
+    "message": "외관"
+  },
+  "spotify.dark_mode": {
+    "message": "어두운 테마"
+  },
+  "spotify.light_mode": {
+    "message": "밝은 테마"
+  },
+  "spotify.opacity": {
+    "message": "투명도"
+  },
+  "spotify.show_album": {
+    "message": "앨범 자켓 표기"
+  },
+  "spotify.now_playing": {
+    "message": "재생중"
+  },
+  "spotify.not_connected": {
+    "message": "연결된 Spotify 계정이 없습니다"
+  },
+  "spotify.right_click_login": {
+    "message": "마우스 우 클릭으로 로그인"
+  }
+}

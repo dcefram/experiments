@@ -1,0 +1,395 @@
+{
+    "home_newToStore": {
+        "message": "Entdecke unsere leistungsstarken Plugins und kurbele Deine Übertragung an!"
+    },
+    "home_search": {
+        "message": "Klicke auf die Symbole darüber oder darunter, um mit dem browsen zu beginnen."
+    },
+    "home_sourceTip": {
+        "message": "Zeige Quellen"
+    },
+    "home_extensionTip": {
+        "message": "Zeige Erweiterungen"
+    },
+    "home_outputTip": {
+        "message": "Zeige Ausgänge"
+    },
+    "home_libraryTip": {
+        "message": "Zeige meine Plugins"
+    },
+    "home_sourceTipIn": {
+        "message": "Verberge Quellen"
+    },
+    "home_outputTipIn": {
+        "message": "Verberge Ausgänge"
+    },
+    "home_extensionTipIn": {
+        "message": "Verberge Erweiterungen"
+    },
+    "home_tooltipToggle": {
+        "message": "Du kannst nicht alle Symbole ausschalten, während Du Dich im Suchmodus befindest."
+    },
+    "plugin_developer": {
+        "message": "Entwickler:"
+    },
+    "plugin_publicVersion": {
+        "message": "Offizielle Version:"
+    },
+    "plugin_updated": {
+        "message": "Aktualisiert:"
+    },
+    "plugin_dllDownloadWarning": {
+        "message": "Dieser Download kann unsichere Dateien enthalten, die uneingeschränkten Zugriff auf Deinen Computer erlauben."
+    },
+    "plugin_install": {
+        "message": "INSTALLIEREN"
+    },
+    "plugin_uninstall": {
+        "message": "DEINSTALLIEREN"
+    },
+    "plugin_update": {
+        "message": "AKTUALISIEREN"
+    },
+    "plugin_published": {
+        "message": "Veröffentlicht"
+    },
+    "plugin_size": {
+        "message": "Größe"
+    },
+    "plugin_currentVersion": {
+        "message": "Aktuelle Version"
+    },
+    "plugin_installs": {
+        "message": "Installationen"
+    },
+    "plugin_minimumXBCLabel": {
+        "message": "Minimale XBC-Anforderungen"
+    },
+    "plugin_minimumXBC": {
+        "message": "%version% oder aktuellere Versionen"
+    },
+    "plugin_report": {
+        "message": "Berichts-Plugin"
+    },
+    "plugin_developerLabel": {
+        "message": "Entwickler"
+    },
+    "plugin_developerVisit": {
+        "message": "Besuche Webseite"
+    },
+    "plugin_developerMail": {
+        "message": "Sende Mail"
+    },
+    "plugin_readMore": {
+        "message": "Erfahre mehr"
+    },
+    "plugin_rateThisplugin": {
+        "message": "BEWERTE DIESES PLUGIN"
+    },
+    "plugin_rating": {
+        "message": "Du musst dieses Plugin installieren, bevor Du eine Bewertung abgeben kannst"
+    },
+    "plugin_reviews": {
+        "message": "Bewertungen"
+    },
+    "plugin_votes": {
+        "message": "Stimmen"
+    },
+    "plugin_filter-recent": {
+        "message": "Aktuell"
+    },
+    "plugin_filter-rating": {
+        "message": "Bewertung"
+    },
+    "plugin_viewAllReviews": {
+        "message": "Alle Bewertungen anschauen"
+    },
+    "plugin_warning": {
+        "message": "Dieses Plugin fällt nicht vollständig unter die XSplit-Datenschutzrichtlinie, da es externe oder Dritthersteller-Bibliotheken und Dienste nutzt. Das Plugin kann Funktionen enthalten, die personenbezogene Daten erfassen, einschliesslich, aber nicht beschränkt auf Details über Dein Computersystem und die Nutzung dieser Software."
+    },
+    "plugin_myReview": {
+        "message": "MEINE BEWERTUNG"
+    },
+    "plugin_empty-search": {
+        "message": "Dein Suchergebnis ist leer. Bitte versuche andere Suchparameter oder suche nach Plugins."
+    },
+    "plugin_back": {
+        "message": "< Zurück zu den Plugin-Details"
+    },
+    "plugin_tag": {
+        "message": "Tags"
+    },
+    "plugin_minimum": {
+        "message": "Minimale Betriebssystem-Anforderungen:"
+    },
+    "plugin_windows": {
+        "message": "Windows 10"
+    },
+    "plugin_windows-warning": {
+        "message": "Das Plugin kann nicht installiert werden. Die minimalen Betriebssystem-Anforderungen wurden nicht erfüllt."
+    },
+    "plugin_local-recording": {
+        "message": "Dieses Plugin ist erforderlich und lässt sich nicht deinstallieren."
+    },
+    "myPlugins_myPlugins": {
+        "message": "Meine Plugins"
+    },
+    "myPlugins_updateAll": {
+        "message": "Alles aktualieren"
+    },
+    "myPlugins_cancelAll": {
+        "message": "Alles abbrechen"
+    },
+    "myPlugins_update": {
+        "message": "Aktualisieren"
+    },
+    "myPlugins_uninstall": {
+        "message": "Deinstallieren"
+    },
+    "myPlugins_size": {
+        "message": "Größe"
+    },
+    "search_results": {
+        "message": "Durchsuche Resultate nach "
+    },
+    "search_searching": {
+        "message": "Suche..."
+    },
+    "search_zero-search1": {
+        "message": "Für Deine Suche konnten wir nichts finden."
+    },
+    "search_zero-search2": {
+        "message": "Vorschläge:"
+    },
+    "search_zero-search3": {
+        "message": "Stgell sicher, dass die Wörter korrekt buchstabiert sind."
+    },
+    "search_zero-search4": {
+        "message": "Versuche verschiedene Schlüsselwörter."
+    },
+    "search_zero-search5": {
+        "message": "Versuche es mit allgemeineren Schlüsselwörtern."
+    },
+    "search_name": {
+        "message": "Name"
+    },
+    "search_downloads": {
+        "message": "# von Downloads"
+    },
+    "search_rating": {
+        "message": "Bewertung"
+    },
+    "search_updated": {
+        "message": "Datum aktualisiert"
+    },
+    "search_installed": {
+        "message": "INSTALLIERT"
+    },
+    "search_clear-search": {
+        "message": "Suche löschen"
+    },
+    "search_download-all": {
+        "message": "Alles herunterladen"
+    },
+    "search_download": {
+        "message": "Herunterladen (%count%)"
+    },
+    "help_what": {
+        "message": "Was sind diese Plugins?"
+    },
+    "help_source": {
+        "message": "**QUELLEN** sind Plugins, die auf der Bühne platziert werden. Ein REchtsklick auf die Quelle im Hauptfenster öffnet dessen Eigenschaftenfenster."
+    },
+    "help_extension": {
+        "message": "**ERWEITERUNGEN** sind Plugins auf allgemeiner Ebene, die Dir die Kontrolle über Deine Szenen. Sie bieten bei Quellen und mehr, alle Möglichkeiten."
+    },
+    "help_output": {
+        "message": "**AUSGÄNGE** unterstützen die beliebtesten Streaming-Seiten, wie Twitch, YouTube Live, Smashcast und Ustream."
+    },
+    "help_installed": {
+        "message": "Du kannst Deine installierten Plugins auf der Seite \"Meine Plugins\" anzeigen, aktualisieren oder deinstallieren. Um \"Meine Plugins\" zu öffnen, klicke auf das Symbol rechts in der Suchleiste oder wechsle zum Menü Extras und klicke dort auf \"Meine Plugins\"."
+    },
+    "help_developer": {
+        "message": "Bist Du eine Entwickler?"
+    },
+    "help_buildYourOwn": {
+        "message": "Du kannst Dein eigenes Plugin für den XSplit Broadcaster entwickeln! Wir bieten Dir zahlreiche Möglichkeiten mittels derer wir Dir dabei helfen können, schau einfach [here.]\n(https://xspl.it/developers)"
+    },
+    "overlay_uninstall": {
+        "message": "Deinstallation abgeschlossen!"
+    },
+    "overlay_uninstallMessage": {
+        "message": "%name% wurde deinstalliert.\nWir würden uns sehr freuen, wenn Du uns eine Rückmeldung geben und uns Deine Meinung mitteilen könntest"
+    },
+    "overlay_rateThisPlugin": {
+        "message": "BEWERTE DIESES PLUGIN"
+    },
+    "overlay_yourRating": {
+        "message": "Deine Bewertung: "
+    },
+    "overlay_rating-0": {
+        "message": "Keine Bewertung"
+    },
+    "overlay_rating-1": {
+        "message": "Benötigt Verbesserung"
+    },
+    "overlay_rating-2": {
+        "message": "Nicht schlecht"
+    },
+    "overlay_rating-3": {
+        "message": "Okay"
+    },
+    "overlay_rating-4": {
+        "message": "Like es"
+    },
+    "overlay_rating-5": {
+        "message": "Grossartig"
+    },
+    "overlay_placeholder": {
+        "message": "Schreibe eine Bewertung (freiwillig)"
+    },
+    "overlay_charlimit": {
+        "message": "%action% Buchstaben übrig"
+    },
+    "overlay_submit": {
+        "message": "ABSENDEN"
+    },
+    "overlay_cancel": {
+        "message": "ABBRECHEN"
+    },
+    "overlay_skip": {
+        "message": "DIES ÜBERSPRINGEN"
+    },
+    "overlay_ratingError": {
+        "message": "Hoppla! Es ist ein Fehler beim Übermitteln Deiner Bewertung und Deines Kommentars aufgetreten. Bitte versuche es noch einmal."
+    },
+    "overlay_action-error": {
+        "message": "Während %action% ist ein Fehler aufgetreten. Versuche es bitte noch einmal oder kontaktiere den XSplit Support."
+    },
+    "overlay_action-error-download": {
+        "message": "Plugin_ konnte nicht heruntergeladen werden. Möglicherweise musst du deine Internetverbindung überprüfen und es erneut versuchen."
+    },
+    "overlay_action-error-multiple": {
+        "message": "%count% Plugins müssen aktualisiert werden"
+    },
+    "overlay_action-rating": {
+        "message": ""
+    },
+    "overlay_action-searching": {
+        "message": "Suche..."
+    },
+    "overlay_action-loading": {
+        "message": "Wird geladen..."
+    },
+    "overlay_action-downloading": {
+        "message": "Lade herunter..."
+    },
+    "overlay_action-installing": {
+        "message": "Installiere..."
+    },
+    "overlay_action-updating": {
+        "message": "Aktualisiere..."
+    },
+    "overlay_action-uninstalling": {
+        "message": "Deinstalliere..."
+    },
+    "overlay_action-updating-multiple": {
+        "message": "Herunterladen von %count%/%total% Plugins..."
+    },
+    "overlay_complete-installing": {
+        "message": "%name% wurde deinem %type%-Menü und \"Meine Plugins\" hinzugefügt."
+    },
+    "overlay_complete-updating": {
+        "message": "%name% wurde aktualisiert."
+    },
+    "overlay_complete-updating-multiple": {
+        "message": "Alle Plugins wurden heruntergeladen."
+    },
+    "overlay_complete-uninstalling": {
+        "message": "%name% wurde deinstalliert."
+    },
+    "overlay_title-complete-installing": {
+        "message": "Installation abgeschlossen!"
+    },
+    "overlay_title-complete-uninstalling": {
+        "message": "Deinstallation abgeschlossen!"
+    },
+    "overlay_title-complete-updating": {
+        "message": "Aktualisierung abgeschlossen!"
+    },
+    "overlay_title-complete-updating-multiple": {
+        "message": "Herunterladen abgeschlossen!"
+    },
+    "overlay_button-downloading": {
+        "message": "HERUNTERLADEN"
+    },
+    "overlay_button-installing": {
+        "message": "INSTALLIEREN"
+    },
+    "overlay_button-updating": {
+        "message": "AKTUALISIEREN"
+    },
+    "overlay_button-updating-multiple": {
+        "message": "ALLES AKTUALISIEREN"
+    },
+    "overlay_button-uninstalling": {
+        "message": "DEINSTALLIEREN"
+    },
+    "overlay_button-ok": {
+        "message": "OK"
+    },
+    "overlay_button-loading": {
+        "message": "OK"
+    },
+    "overlay_toClose": {
+        "message": "Möchtest Du den Plugin-Store schliessen?"
+    },
+    "overlay_cancel-action": {
+        "message": "Dies wird %action% abbrechen"
+    },
+    "overlay_generic-error-header": {
+        "message": "Keine Daten empfangen!"
+    },
+    "overlay_generic-internet-fail": {
+        "message": "Hoppla! Es ist ein Fehler aufgetreten. Möglicherweise musst Du Deine Internetverbidung überprüfen und es erneut versuchen."
+    },
+    "overlay_generic-error-text": {
+        "message": "Beim Aufrufen der Daten ist ein Fehler aufgetreten. Bitte versuche es erneut"
+    },
+    "overlay_install-restart-now": {
+        "message": "JETZT NEUSTARTEN"
+    },
+    "overlay_install-restart-later": {
+        "message": "SPÄTER NEUSTARTEN"
+    },
+    "overlay_needs-restart-info": {
+        "message": "XSplit muss neu gestartet werden, damit die Ändrugnen wirksam werden."
+    },
+    "extension_label": {
+        "message": "Erweiterungen"
+    },
+    "source_label": {
+        "message": "Quellen"
+    },
+    "output_label": {
+        "message": "Ausgänge"
+    },
+    "myPlugins_plugin_types": {
+        "message": "Alle Plugin Typen"
+    },
+    "myPlugins_show_plugins_with_update": {
+        "message": "Zeige nur Plugins mit Aktualisierungen"
+    },
+    "search_ascending": {
+        "message": "Aufsteigend"
+    },
+    "search_descending": {
+        "message": "Absteigend"
+    },
+    "search_and_separator": {
+        "message": "und"
+    },
+    "home_search_placeholder": {
+        "message": "Durchsuche den Store..."
+    }
+}

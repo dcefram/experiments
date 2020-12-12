@@ -1,0 +1,62 @@
+{
+	"youtube.html.tabheader": {
+		"message": "Chat"
+	},
+	"youtube.html.source": {
+		"message": "Source"
+	},
+	"youtube.html.account": {
+		"message": "Compte"
+	},
+	"youtube.html.preview": {
+		"message": "Aperçu"
+	},
+	"youtube.html.not_connected": {
+		"message": "Non connecté"
+	},
+	"youtube.html.connected": {
+		"message": "Connecté"
+	},
+	"youtube.html.error_channel_not_found": {
+		"message": "Veuillez saisir un ID de vidéo valide."
+	},
+	"youtube.html.display": {
+		"message": "Affichage"
+	},
+	"youtube.html.chat_box": {
+		"message": "Fenêtre de discussion"
+	},
+	"youtube.html.opacity": {
+		"message": "Opacité"
+	},
+	"youtube.html.viewers": {
+		"message": "Spectateurs"
+	},
+	"youtube.html.message": {
+		"message": "Message"
+	},
+	"youtube.html.text_size": {
+		"message": "Taille du texte"
+	},
+	"youtube.html.hide_user_icons": {
+		"message": "Masquer les icônes utilisateur"
+	},
+	"youtube.html.hide_timestamps": {
+		"message": "Masquer les horodateurs"
+	},
+	"youtube.html.hide_on_idle": {
+		"message": "Masquer le chat lors d'inactivité pendant"
+	},
+	"youtube.html.video_id": {
+		"message": "ID vidéo"
+	},
+	"youtube.html.video_id_help": {
+		"message": "Pour obtenir l’ID de votre vidéo YouTube en direct dans votre navigateur, faites un clic droit sur la vidéo et choisissez « Copier l’URL vidéo ». Copier les caractères de la dernière partie de l’URL de la vidéo."
+	},
+	"youtube.html.connect": {
+		"message": "Connexion"
+	},
+	"youtube.html.disconnect": {
+		"message": "Déconnexion"
+	}
+}

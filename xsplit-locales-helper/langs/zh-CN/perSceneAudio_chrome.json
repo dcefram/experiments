@@ -1,0 +1,29 @@
+{
+  "perSceneAudio.header_text": {
+    "message": "To manage audio settings per scene, select and add scenes below. A highlighted scene below means it is the current scene on stage."
+  },
+  "perSceneAudio.sync_volume": {
+    "message": "Sync volume adjustment across scenes"
+  },
+  "perSceneAudio.scene_crossfade": {
+    "message": "Enable scene crossfade"
+  },
+  "perSceneAudio.scene_crossfade_tooltip": {
+    "message": "Switching to another scene will make a smooth transition between the audio of the previous scene and current selected scene."
+  },
+  "perSceneAudio.scene_selector_default": {
+    "message": "- Scene Selector -"
+  },
+  "perSceneAudio.default": {
+    "message": "默认"
+  },
+  "perSceneAudio.default_tooltip_header": {
+    "message": "Default Scene Audio"
+  },
+  "perSceneAudio.default_tooltip": {
+    "message": "Scenes that you don't assign specific audio levels to will use these values as default."
+  },
+  "perSceneAudio.add_button": {
+    "message": "添加"
+  }
+}

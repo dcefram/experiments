@@ -1,0 +1,62 @@
+{
+	"twitch.html.tabheader": {
+		"message": "Chat"
+	},
+	"twitch.html.source": {
+		"message": "Quelle"
+	},
+	"twitch.html.account": {
+		"message": "Konto"
+	},
+	"twitch.html.preview": {
+		"message": "Vorschau"
+	},
+	"twitch.html.not_connected": {
+		"message": "Nicht verbunden"
+	},
+	"twitch.html.connected": {
+		"message": "Verbunden"
+	},
+	"twitch.html.error_channel_not_found": {
+		"message": "Bitte geben Sie einen gültigen Kanal an."
+	},
+	"twitch.html.display": {
+		"message": "Anzeige"
+	},
+	"twitch.html.chat_box": {
+		"message": "Chat-Box"
+	},
+	"twitch.html.opacity": {
+		"message": "Deckkraft"
+	},
+	"twitch.html.viewers": {
+		"message": "Zuschauer"
+	},
+	"twitch.html.message": {
+		"message": "Nachricht"
+	},
+	"twitch.html.text_size": {
+		"message": "Textgröße"
+	},
+	"twitch.html.hide_user_icons": {
+		"message": "Benutzer-Symbole verstecken"
+	},
+	"twitch.html.hide_timestamps": {
+		"message": "Zeitstempel verstecken"
+	},
+	"twitch.html.hide_on_idle": {
+		"message": "Chat im Leerlauf ausblenden, wenn Abwesend seit"
+	},
+	"twitch.html.channel": {
+		"message": "Kanal"
+	},
+	"twitch.html.connect": {
+		"message": "Verbinden"
+	},
+	"twitch.html.disconnect": {
+		"message": "Trennen"
+	},
+	"twitch.html.use_twitch_colors": {
+		"message": "Twitch-Chatfarben verwenden"
+	}
+}

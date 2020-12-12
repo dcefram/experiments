@@ -1,0 +1,77 @@
+{
+	"twitch.cheers.tabheader": {
+		"message": "警报"
+	},
+	"twitch.cheers.source": {
+		"message": "资源"
+	},
+	"twitch.cheers.account": {
+		"message": "帐户"
+	},
+	"twitch.cheers.authorize": {
+		"message": "授权XSplit使用Twitch"
+	},
+	"twitch.cheers.remove_authorization": {
+		"message": "**%api%** 删除授权"
+	},
+	"twitch.cheers.switch_account": {
+		"message": "**%api%** 切换帐户"
+	},
+	"twitch.cheers.not_connected": {
+		"message": "未连接"
+	},
+	"twitch.cheers.connected": {
+		"message": "连接"
+	},
+	"twitch.cheers.error_channel_not_found": {
+		"message": "请提供有效的通道."
+	},
+	"twitch.cheers.notification": {
+		"message": "提醒"
+	},
+	"twitch.cheers.lock_components": {
+		"message": "锁定组件"
+	},
+	"twitch.cheers.lock_components_help": {
+		"message": "选中此选项将禁用鼠标悬停，重新定位和调整组件大小。[br]如果您不想在组件上显示悬停效果，请检查此项，尤其是在流式传输或录制时。"
+	},
+	"twitch.cheers.show_stats": {
+		"message": "显示统计数据"
+	},
+	"twitch.cheers.show_stats_help": {
+		"message": "这将显示您的Twitch频道的最高和最近的欢呼。 要清除统计数据，请断开通道并再次连接。 要在切换场景时防止清除数据，请确保选中“保持内存中的源”。"
+	},
+	"twitch.cheers.opacity": {
+		"message": "透明度"
+	},
+	"twitch.cheers.user_name": {
+		"message": "用戶名"
+	},
+	"twitch.cheers.labels": {
+		"message": "标签"
+	},
+	"twitch.cheers.show_alert": {
+		"message": "显示提醒"
+	},
+	"twitch.cheers.message": {
+		"message": "消息"
+	},
+	"twitch.cheers.show_message": {
+		"message": "显示消息"
+	},
+	"twitch.cheers.duration": {
+		"message": "持续时间"
+	},
+	"twitch.cheers.millisecond_unit": {
+		"message": "ms"
+	},
+	"twitch.cheers.sound": {
+		"message": "声音"
+	},
+	"twitch.cheers.preview": {
+		"message": "预览"
+	},
+	"twitch.cheers.test_alert": {
+		"message": "测试警报"
+	}
+}

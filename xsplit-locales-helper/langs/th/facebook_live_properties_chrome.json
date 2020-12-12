@@ -1,0 +1,95 @@
+{
+	"title": {
+		"message": "คุณสมบัติ Facebook Live"
+	},
+	"save_close": {
+		"message": "เซฟและปิด"
+	},
+	"start_streaming": {
+		"message": "ดำเนินการต่อ"
+	},
+	"logged_in_as": {
+		"message": "ลงชื่อเข้าใช้เป็น: %fullname%"
+	},
+	"switch_account": {
+		"message": "[สลับบัญชี](switchAccount)"
+	},
+	"remove_auth": {
+		"message": "[ยกเลิกการอนุญาตใช้งาน](removeAuth)"
+	},
+	"stream_settings": {
+		"message": "การตั้งค่าสตรีม"
+	},
+	"stream_to.label": {
+		"message": "สตรีมไปยัง: "
+	},
+	"stream_to.values.timeline": {
+		"message": "Timeline"
+	},
+	"stream_to.values.page": {
+		"message": "เพจ"
+	},
+	"stream_to.values.group": {
+		"message": "กลุ่ม"
+	},
+	"stream_to.values.event": {
+		"message": "อีเว้นท์:"
+	},
+	"stream_to.pageauth": {
+		"message": "เพจ - ต้องใช้การอนุญาต"
+	},
+	"stream_to.groupauth": {
+		"message": "กลุ่ม - ต้องใช้การอนุญาต"
+	},
+	"stream_to.eventauth": {
+		"message": "อีเวนต์ - ต้องใช้การอนุญาต"
+	},
+	"page": {
+		"message": "เพจ: "
+	},
+	"timeline": {
+		"message": "ทามไลน์: "
+	},
+	"group": {
+		"message": "กลุ่ม: "
+	},
+	"event": {
+		"message": "อีเว้นท์: "
+	},
+	"format.label": {
+		"message": "รุปแบบ: "
+	},
+	"encoder.label": {
+		"message": "การเข้ารหัส: "
+	},
+	"bitrate": {
+		"message": "บิตเรต: "
+	},
+	"saveVideo": {
+		"message": "เซฟวิดีโอไปที่ การบันทึกของฉัน"
+	},
+	"resolutionWarning": {
+		"message": "ฮาร์ดแวร์ของคุณอาจจะพบกับปัญหาเรื่องประสิทธิภาพที่ความละเอียดนี้"
+	},
+	"bitrateWarning": {
+		"message": "แบนด์วิดท์ของคุณอาจจะไม่มีมากพอที่จะสตรีมในบิตเรตระดับนี้"
+	},
+	"streamingWarning": {
+		"message": "ไม่สามารถทำการทำสอบฮาร์ดแวร์และแบนด์วิดท์ได้เนื่องจากกำลังทำการสตรีมหรืออัดอยู่"
+	},
+	"checkAgain": {
+		"message": "[ทดสอบอีกครั้ง?](testAgain)"
+	},
+	"authorize": {
+		"message": "คลิ๊กเพื่ออนุญาติให้ XSplit สตรีมไปยังบัญชี Facebook ของคุณได้"
+	},
+	"configuring": {
+		"message": "ปรับแต่งการตั้งค่าของคุณ"
+	},
+	"system_test": {
+		"message": "ทดสอบระบบครั้งสุดท้าย:%timestamp% [ทดสอบอีกครั้ง](testAgain)"
+	},
+	"advanced_settings": {
+		"message": "[การตั้งค่าขั้นสูง](advancedSettings)"
+	}
+}

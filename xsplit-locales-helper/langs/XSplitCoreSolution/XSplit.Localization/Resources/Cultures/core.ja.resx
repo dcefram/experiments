@@ -1,0 +1,3659 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutBroadcaster" xml:space="preserve">
+    <value>Broadcasterについて</value>
+  </data>
+  <data name="AboutBroadcaster_Acknowledgements" xml:space="preserve">
+    <value>謝意:</value>
+  </data>
+  <data name="AboutBroadcaster_AcknowledgementsFullText" xml:space="preserve">
+    <value>お礼:XSplit BroadcasterはVladimir HmelyoffとEgor Hmelyoffに開発されたMulticam Studioのコードを元に作成されています。このプログラムの一部はオープンソースソフトウェアライブラリーを使用しています。一般ライセンス条項と詳細はこちら</value>
+  </data>
+  <data name="AboutBroadcaster_LicenseLinkText" xml:space="preserve">
+    <value>一般ライセンス条項と詳細はこちら</value>
+  </data>
+  <data name="aboutToolStripMenuItem" xml:space="preserve">
+    <value> アバウト(&amp;A)</value>
+  </data>
+  <data name="addCameraToolStripMenuItem" xml:space="preserve">
+    <value>ビデオ</value>
+  </data>
+  <data name="addCameraToolStripMenuItem2" xml:space="preserve">
+    <value>ビデオ</value>
+  </data>
+  <data name="addChannelsToolStripMenuItem" xml:space="preserve">
+    <value>チャンネルの追加</value>
+  </data>
+  <data name="addChannelsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>新しい出力を設定する。</value>
+  </data>
+  <data name="addGameTsmi2" xml:space="preserve">
+    <value>ゲームキャプチャー(&amp;G)</value>
+  </data>
+  <data name="addMediaFileToolStripMenuItem2" xml:space="preserve">
+    <value>メディアファイル（動画、画像）...(&amp;M)</value>
+  </data>
+  <data name="addMoreTsmi2" xml:space="preserve">
+    <value>プラグインストアからプラグインを入手する</value>
+  </data>
+  <data name="addMoreTsmi2Xbc5003" xml:space="preserve">
+    <value>ソースを探す</value>
+  </data>
+  <data name="addRTSPSourceToolStripMenuItem" xml:space="preserve">
+    <value>ライブストリーミングの追加...(&amp;V)</value>
+  </data>
+  <data name="addScreenRegionToolStripMenuItem2" xml:space="preserve">
+    <value>スクリーンキャプチャ(&amp;R)</value>
+  </data>
+  <data name="addSource" xml:space="preserve">
+    <value>ソースの追加</value>
+  </data>
+  <data name="addSource_Tooltip" xml:space="preserve">
+    <value>ソースの追加</value>
+  </data>
+  <data name="addSwfPluginToolStripMenuItem" xml:space="preserve">
+    <value>SWFプラグインの追加...</value>
+  </data>
+  <data name="AddSwfRtmp" xml:space="preserve">
+    <value>IPカメラ/RTSPストリームの追加</value>
+  </data>
+  <data name="addTitleToolStripMenuItem" xml:space="preserve">
+    <value>タイトルの追加...(&amp;T)</value>
+  </data>
+  <data name="addUrlTsmi" xml:space="preserve">
+    <value>IP カメラ (RTSP)...</value>
+  </data>
+  <data name="addUrlTsmi2" xml:space="preserve">
+    <value>IP カメラ (RTSP)...</value>
+  </data>
+  <data name="announceToolStripMenuItem" xml:space="preserve">
+    <value>ストリーミングのシェア...(&amp;H)</value>
+  </data>
+  <data name="announceToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>放送を共有する...(&amp;H)</value>
+  </data>
+  <data name="AskToRetrySync" xml:space="preserve">
+    <value>プロフィールをサーバーと同期することができません。</value>
+  </data>
+  <data name="BandwidthTester" xml:space="preserve">
+    <value>帯域幅テスター</value>
+  </data>
+  <data name="boostCaptureFramerateTsmi" xml:space="preserve">
+    <value>キャプチャーするフレームレートのブースト</value>
+  </data>
+  <data name="BroadcasterSceneX_desc" xml:space="preserve">
+    <value>[SceneX] に切り替える</value>
+  </data>
+  <data name="BroadcasterScene1_desc" xml:space="preserve">
+    <value>[Scene1] に切り替える</value>
+  </data>
+  <data name="BroadcasterScene10_desc" xml:space="preserve">
+    <value>[Scene10] に切り替える</value>
+  </data>
+  <data name="BroadcasterScene11_desc" xml:space="preserve">
+    <value>[Scene11] に切り替える</value>
+  </data>
+  <data name="BroadcasterScene12_desc" xml:space="preserve">
+    <value>[Scene12] に切り替える</value>
+  </data>
+  <data name="BroadcasterScene2_desc" xml:space="preserve">
+    <value>[Scene2] に切り替える</value>
+  </data>
+  <data name="BroadcasterScene3_desc" xml:space="preserve">
+    <value>[Scene3] に切り替える</value>
+  </data>
+  <data name="BroadcasterScene4_desc" xml:space="preserve">
+    <value>[Scene4] に切り替える</value>
+  </data>
+  <data name="BroadcasterScene5_desc" xml:space="preserve">
+    <value>[Scene5] に切り替える</value>
+  </data>
+  <data name="BroadcasterScene6_desc" xml:space="preserve">
+    <value>[Scene6] に切り替える</value>
+  </data>
+  <data name="BroadcasterScene7_desc" xml:space="preserve">
+    <value>[Scene7] に切り替える</value>
+  </data>
+  <data name="BroadcasterScene8_desc" xml:space="preserve">
+    <value>[Scene8] に切り替える</value>
+  </data>
+  <data name="BroadcasterScene9_desc" xml:space="preserve">
+    <value>[Scene9] に切り替える</value>
+  </data>
+  <data name="BroadcasterSettings" xml:space="preserve">
+    <value>セッティング</value>
+  </data>
+  <data name="BroadcasterToggleBroadcast" xml:space="preserve">
+    <value>開始/停止ブロードキャスト - {0}</value>
+  </data>
+  <data name="BroadcasterToggleBroadcastXbc5003" xml:space="preserve">
+    <value>出力を開始/停止する - {0}</value>
+  </data>
+  <data name="BroadcasterToggleBroadcast1" xml:space="preserve">
+    <value>開始/停止{0} </value>
+  </data>
+  <data name="BroadcasterToggleBroadcast2" xml:space="preserve">
+    <value>Start/stop recording {0}</value>
+  </data>
+  <data name="BroadcasterTogglePauseRecording" xml:space="preserve">
+    <value>レコーディングを再開/中断する{0}</value>
+  </data>
+  <data name="BroadcasterToggleMic_desc" xml:space="preserve">
+    <value>マイクのトグル</value>
+  </data>
+  <data name="BroadcasterToggleSpeaker_desc" xml:space="preserve">
+    <value>スピーカーのトグル</value>
+  </data>
+  <data name="PTT_desc" xml:space="preserve">
+    <value>プッシュ・トゥ・トーク</value>
+  </data>
+  <data name="BroadcasterTogglePauseRecording_desc" xml:space="preserve">
+    <value>レコーディングを再開/中断する</value>
+  </data>
+  <data name="BroadcasterToggleOverlay_desc" xml:space="preserve">
+    <value>オーバーレイを表示/非表示にする</value>
+  </data>
+  <data name="BroadcasterToggleOverlay2_desc" xml:space="preserve">
+    <value>オーバーレイを表示/非表示にする</value>
+  </data>
+  <data name="BroadcasterResizeSource1_desc" xml:space="preserve">
+    <value>ソースをスクリーンに合わせる</value>
+  </data>
+  <data name="BroadcasterResizeSource2_desc" xml:space="preserve">
+    <value>ソースサイズを変更する (1/4)</value>
+  </data>
+  <data name="BroadcasterResizeSource3_desc" xml:space="preserve">
+    <value>ソースサイズを変更する (1/8)</value>
+  </data>
+  <data name="BroadcasterScnPreset1_desc" xml:space="preserve">
+    <value>プリセット１に変更する (ライブシーン)</value>
+  </data>
+  <data name="BroadcasterScnPreset2_desc" xml:space="preserve">
+    <value>プリセット２に変更する (ライブシーン)</value>
+  </data>
+  <data name="BroadcasterScnPreset3_desc" xml:space="preserve">
+    <value>プリセット３に変更する (ライブシーン)</value>
+  </data>
+  <data name="BroadcastStatus_AcquiringConfiguration" xml:space="preserve">
+    <value>ストリーミングのコンフィグを取得中{0}</value>
+  </data>
+  <data name="BroadcastStatus_AcquiringConfigurationLR" xml:space="preserve">
+    <value>Acquiring recording configuration</value>
+  </data>
+  <data name="BroadcastStatus_InitiatingStream" xml:space="preserve">
+    <value>ストリーミングを開始しています{0}</value>
+  </data>
+  <data name="BroadcastStatus_InitiatingStreamLR" xml:space="preserve">
+    <value>Initiating recording</value>
+  </data>
+  <data name="BroadcastStatus_Streaming" xml:space="preserve">
+    <value>{0}ストリーミング</value>
+  </data>
+  <data name="broadcastToolStripMenuItem" xml:space="preserve">
+    <value>ブロードキャスト(&amp;B)</value>
+  </data>
+  <data name="broadcastToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>&amp;出力</value>
+  </data>
+  <data name="btnAddChannel" xml:space="preserve">
+    <value>追加...</value>
+  </data>
+  <data name="btnAddRes" xml:space="preserve">
+    <value>追加...</value>
+  </data>
+  <data name="btnAddService" xml:space="preserve">
+    <value>サービスの追加</value>
+  </data>
+  <data name="btnApply" xml:space="preserve">
+    <value>適用</value>
+  </data>
+  <data name="btnAuthorize" xml:space="preserve">
+    <value>承認</value>
+  </data>
+  <data name="btnCamDS" xml:space="preserve">
+    <value>コンフィグ</value>
+  </data>
+  <data name="btnCancel" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+  <data name="btnCheckAllRes" xml:space="preserve">
+    <value>全て選択</value>
+  </data>
+  <data name="btnClearAllRes" xml:space="preserve">
+    <value>全てクリア</value>
+  </data>
+  <data name="btnColorChromaEyedrop" xml:space="preserve">
+    <value>目薬ツール</value>
+  </data>
+  <data name="btnColorPicReset" xml:space="preserve">
+    <value>リセット</value>
+  </data>
+  <data name="btnContinue" xml:space="preserve">
+    <value>続行</value>
+  </data>
+  <data name="btnEditChannel" xml:space="preserve">
+    <value>編集する...</value>
+  </data>
+  <data name="btnEditRes" xml:space="preserve">
+    <value>編集する...</value>
+  </data>
+  <data name="btnFinish" xml:space="preserve">
+    <value>完了</value>
+  </data>
+  <data name="btnLiveApply" xml:space="preserve">
+    <value>適用</value>
+  </data>
+  <data name="btnLogin" xml:space="preserve">
+    <value>ログイン</value>
+  </data>
+  <data name="btnLogout" xml:space="preserve">
+    <value>ログアウト</value>
+  </data>
+  <data name="btnPos3DReset" xml:space="preserve">
+    <value>リセット</value>
+  </data>
+  <data name="btnPosCropReset" xml:space="preserve">
+    <value>リセット</value>
+  </data>
+  <data name="btnRemoveChannel" xml:space="preserve">
+    <value>削除</value>
+  </data>
+  <data name="btnRemoveRes" xml:space="preserve">
+    <value>削除</value>
+  </data>
+  <data name="btnRestoreAdvancedSettings" xml:space="preserve">
+    <value>デフォルトの値を復帰する</value>
+  </data>
+  <data name="btnRestoreDefaultHotKeys" xml:space="preserve">
+    <value>デフォルトの値を復帰する</value>
+  </data>
+  <data name="btnRestoreInternalSettings" xml:space="preserve">
+    <value>デフォルトの値を復帰する</value>
+  </data>
+  <data name="btnRestoreResolutions" xml:space="preserve">
+    <value>デフォルトの値を復帰する</value>
+  </data>
+  <data name="btnScrCapReset" xml:space="preserve">
+    <value>リセット</value>
+  </data>
+  <data name="btnSignIn" xml:space="preserve">
+    <value>サインイン</value>
+  </data>
+  <data name="btnSignOut" xml:space="preserve">
+    <value>サインアウト</value>
+  </data>
+  <data name="btnStartTest_2" xml:space="preserve">
+    <value>再テストを行う</value>
+  </data>
+  <data name="btnUpdateChannel" xml:space="preserve">
+    <value>チャンネルのアップデート</value>
+  </data>
+  <data name="btnVidCueAddCuePoint" xml:space="preserve">
+    <value>キュー ポイントの追加</value>
+  </data>
+  <data name="btnVidCueDelete" xml:space="preserve">
+    <value>削除</value>
+  </data>
+  <data name="btnVidCueEditCuePoint" xml:space="preserve">
+    <value>編集する</value>
+  </data>
+  <data name="btnVidPlayReset" xml:space="preserve">
+    <value>リセット</value>
+  </data>
+  <data name="btnVidPlaySetEndTime" xml:space="preserve">
+    <value>セット</value>
+  </data>
+  <data name="btnVidPlaySetStartTime" xml:space="preserve">
+    <value>セット</value>
+  </data>
+  <data name="btnXSplitSearch" xml:space="preserve">
+    <value>プロフィール画像の追加...</value>
+  </data>
+  <data name="BwTester_Aborted" xml:space="preserve">
+    <value>中止されました</value>
+  </data>
+  <data name="BwTester_Done" xml:space="preserve">
+    <value>終了しました</value>
+  </data>
+  <data name="BwTester_FinalStats" xml:space="preserve">
+    <value>平均データ速度: {0} kbps </value>
+  </data>
+  <data name="BwTester_Green" xml:space="preserve">
+    <value>試験結果:グリーン</value>
+  </data>
+  <data name="BwTester_Init0" xml:space="preserve">
+    <value>最大 {0} kbpsのデータレートでストリーミング中...</value>
+  </data>
+  <data name="BwTester_Init01" xml:space="preserve">
+    <value> {0} kbps で{1}にストリーミングを行おうとしています</value>
+  </data>
+  <data name="BwTester_Init1" xml:space="preserve">
+    <value>サーバーへの接続を初期化しています...</value>
+  </data>
+  <data name="BwTester_Init2" xml:space="preserve">
+    <value>サーバーへの送信を初期化しています...</value>
+  </data>
+  <data name="BwTester_Red" xml:space="preserve">
+    <value>テスト結果: 赤</value>
+  </data>
+  <data name="BwTester_RedOffer" xml:space="preserve">
+    <value>再テストすることが出来ますが、赤信号を繰り返し受け取るようであれば、オーディオビットレートと最大ビデオビットレート{0}を下げた方が良いかもしれません</value>
+  </data>
+  <data name="BwTester_RedOffer2" xml:space="preserve">
+    <value> {0} kbps以下</value>
+  </data>
+  <data name="BwTester_Sending" xml:space="preserve">
+    <value> {1:0} ms間に達成したデータレート: {0} kbps...</value>
+  </data>
+  <data name="BwTester_Sending1" xml:space="preserve">
+    <value>現在の処理能力: {0} kbps</value>
+  </data>
+  <data name="BwTester_Sending2" xml:space="preserve">
+    <value>平均データ速度: {0} kbps </value>
+  </data>
+  <data name="BwTester_Sending3" xml:space="preserve">
+    <value>{1:0} sec/s 後の平均データ速度: {0} kbps...</value>
+  </data>
+  <data name="BwTester_AvgBitrate" xml:space="preserve">
+    <value>予想平均データ レート: {0} kbps</value>
+  </data>
+  <data name="BwTester_Yellow" xml:space="preserve">
+    <value>テスト結果:黄色</value>
+  </data>
+  <data name="BwTester_ResultLegend" xml:space="preserve">
+    <value>結果説明:
+緑:目標ビットレート達成、フレーム落ち無し
+黄色:一部項目で目標ビットレート未達成、ビットレートを下げてリトライする必要あり
+赤:フレーム落ち有り、この目標ビットレートの使用は推奨しません</value>
+  </data>
+  <data name="BwTester_YellowOffer" xml:space="preserve">
+    <value>もしテストが繰り返し黄色信号を与えるなら、オーディオビットレートと最大ビデオレート{0}を下げて下さい</value>
+  </data>
+  <data name="BwTester_YellowOffer2" xml:space="preserve">
+    <value>{0} kbps よりわずかに下</value>
+  </data>
+  <data name="cboMaxBitrate_Tooltip" xml:space="preserve">
+    <value>ストリーミングの希望最大ビットレートを設定します</value>
+  </data>
+  <data name="cboQuality_Tooltip" xml:space="preserve">
+    <value>品質： 0 - 最低の低帯域幅 (CRF = 35） 品質:10 - 最高の高帯域幅 （CRF = 25)</value>
+  </data>
+  <data name="cboVBitrate_Auto" xml:space="preserve">
+    <value>自動</value>
+  </data>
+  <data name="ChannelNameAlreadyExists" xml:space="preserve">
+    <value>{0} は既に存在しています</value>
+  </data>
+  <data name="ChannelNameIsEmpty" xml:space="preserve">
+    <value>チャンネル名を指定する必要があります</value>
+  </data>
+  <data name="checkStatus" xml:space="preserve">
+    <value>アップデート層を確認しています...少々お待ちください...</value>
+  </data>
+  <data name="checkStatus_Tier4" xml:space="preserve">
+    <value>第 4 層を確認しています...少々お待ちください...</value>
+  </data>
+  <data name="checkUpdatesToolStripMenuItem" xml:space="preserve">
+    <value>アップデートの確認</value>
+  </data>
+  <data name="chkAdvCapSpkrOut" xml:space="preserve">
+    <value>デフォルトのスピーカーアウトプットをキャプチャ</value>
+  </data>
+  <data name="chkAlwaysEnableAero" xml:space="preserve">
+    <value>Aeroテーマを常に有効にする</value>
+  </data>
+  <data name="chkAutoLogin" xml:space="preserve">
+    <value>自動的にログインする</value>
+  </data>
+  <data name="chkColorChromaKey" xml:space="preserve">
+    <value>クロマキー</value>
+  </data>
+  <data name="chkDisableAero" xml:space="preserve">
+    <value>Aeroテーマを無効にする</value>
+  </data>
+  <data name="chkEnableGameSource" xml:space="preserve">
+    <value>ゲームソースを有効にする</value>
+  </data>
+  <data name="chkEnableGameSource_Tooltip" xml:space="preserve">
+    <value>ゲームソースをフルスクリーンモードでゲームをキャプチャーするのに使用できます</value>
+  </data>
+  <data name="chkEnableSkypeInteraction" xml:space="preserve">
+    <value>スカイプを有効にする</value>
+  </data>
+  <data name="chkEnableVCamOutput" xml:space="preserve">
+    <value>仮想カメラの出力を有効にする</value>
+  </data>
+  <data name="chkGain" xml:space="preserve">
+    <value>無音検出</value>
+  </data>
+  <data name="chkLogSysInfo" xml:space="preserve">
+    <value>システム情報のログ</value>
+  </data>
+  <data name="chkLogSysInfo_Tooltip" xml:space="preserve">
+    <value>XSplit サーバーにシステム情報を記録します。情報には、OS、プロセッサ、ビデオカード、画面の解像度が含まれています。</value>
+  </data>
+  <data name="chkPosKeepAR" xml:space="preserve">
+    <value>アスペクト比を保持する</value>
+  </data>
+  <data name="chkPosLock" xml:space="preserve">
+    <value>ポジションの固定</value>
+  </data>
+  <data name="chkRecordStream" xml:space="preserve">
+    <value>ローカル ドライブにレコーディングを自動で保存</value>
+  </data>
+  <data name="chkRememberMe" xml:space="preserve">
+    <value>ログイン時にログイン状態を保持</value>
+  </data>
+  <data name="chkScrCapLayered" xml:space="preserve">
+    <value>レイヤードウィンドウをキャプチャする</value>
+  </data>
+  <data name="chkScrCapNoAero" xml:space="preserve">
+    <value>レイヤードウィンドウのキャプチャを無効にします。</value>
+  </data>
+  <data name="chkScrCapOptiTextResize" xml:space="preserve">
+    <value>テキストのサイズ変更を最適化する</value>
+  </data>
+  <data name="chkScrCapShowMouse" xml:space="preserve">
+    <value>マウスを表示する</value>
+  </data>
+  <data name="chkScrCapShowMouseclicks" xml:space="preserve">
+    <value>マウスのクリックを表示する</value>
+  </data>
+  <data name="chkSkipIntro" xml:space="preserve">
+    <value>次からはこのウィンドウを表示しない</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace" xml:space="preserve">
+    <value>インターレース解除</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace1" xml:space="preserve">
+    <value>インターレース解除:標準</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace2" xml:space="preserve">
+    <value>インターレース解除:最適化</value>
+  </data>
+  <data name="chkVidPlayRememberPosition" xml:space="preserve">
+    <value>プレイバック位置の記憶</value>
+  </data>
+  <data name="chkVidPlayStartOnLoad" xml:space="preserve">
+    <value>シーンがロードされた時に開始する</value>
+  </data>
+  <data name="clockTransition" xml:space="preserve">
+    <value>時計</value>
+  </data>
+  <data name="collapseTransition" xml:space="preserve">
+    <value>閉じる</value>
+  </data>
+  <data name="ConfirmCreationOfNonExistingFolder" xml:space="preserve">
+    <value>"{0}"が存在しません。作成しますか?</value>
+  </data>
+  <data name="contentToolStripMenuItem" xml:space="preserve">
+    <value>手動</value>
+  </data>
+  <data name="CustomFramerateLabel" xml:space="preserve">
+    <value>FPSのカスタマイズ...</value>
+  </data>
+  <data name="debugOptions" xml:space="preserve">
+    <value>デバッグオプション</value>
+  </data>
+  <data name="editChannelsToolStripMenuItem" xml:space="preserve">
+    <value>チャンネルの編集...</value>
+  </data>
+  <data name="EditCuePoints" xml:space="preserve">
+    <value>キューポイント:</value>
+  </data>
+  <data name="editResolutions" xml:space="preserve">
+    <value>解像度の編集...</value>
+  </data>
+  <data name="enableVcamWhileStreamingTsmi" xml:space="preserve">
+    <value>仮想カメラをストリーミング中に有効にする</value>
+  </data>
+  <data name="exitToolStripMenuItem" xml:space="preserve">
+    <value>退出(&amp;X)</value>
+  </data>
+  <data name="ExternalViewport" xml:space="preserve">
+    <value>プロジェクター</value>
+  </data>
+  <data name="externalViewportTsmi" xml:space="preserve">
+    <value>プロジェクター</value>
+  </data>
+  <data name="fadeTransition" xml:space="preserve">
+    <value>フェード</value>
+  </data>
+  <data name="FailureCreatingNonExistingFolder" xml:space="preserve">
+    <value>フォルダー"{0}". {1}を作成できません</value>
+  </data>
+  <data name="fanTransition" xml:space="preserve">
+    <value>ファン</value>
+  </data>
+  <data name="feedbackToolStripMenuItem" xml:space="preserve">
+    <value>フィードバックを送信する...</value>
+  </data>
+  <data name="fileToolStripMenuItem" xml:space="preserve">
+    <value>ファイル(&amp;F)</value>
+  </data>
+  <data name="folderLocationLabel" xml:space="preserve">
+    <value>ロケーション:</value>
+  </data>
+  <data name="frameRateToolStripMenuItem" xml:space="preserve">
+    <value>フレームレート(&amp;F)</value>
+  </data>
+  <data name="FreePopup" xml:space="preserve">
+    <value>お知らせ</value>
+  </data>
+  <data name="frmAnnounce" xml:space="preserve">
+    <value>放送を共有する</value>
+  </data>
+  <data name="frmChannelProps" xml:space="preserve">
+    <value>チャンネルプロパティ</value>
+  </data>
+  <data name="gainLatencyLabel" xml:space="preserve">
+    <value>サイレンス期間:</value>
+  </data>
+  <data name="grpAudio" xml:space="preserve">
+    <value>オーディオ</value>
+  </data>
+  <data name="grpAudioEncoding" xml:space="preserve">
+    <value>オーディオのエンコード</value>
+  </data>
+  <data name="grpChannel" xml:space="preserve">
+    <value>チャンネル</value>
+  </data>
+  <data name="grpEncoding" xml:space="preserve">
+    <value>エンコーディング</value>
+  </data>
+  <data name="grpGeneral" xml:space="preserve">
+    <value>一般</value>
+  </data>
+  <data name="grpMyRecordings" xml:space="preserve">
+    <value>レコーディング</value>
+  </data>
+  <data name="grpVideoEncoding" xml:space="preserve">
+    <value>ビデオエンコーディング</value>
+  </data>
+  <data name="helpToolStripMenuItem" xml:space="preserve">
+    <value>ヘルプ(&amp;H)</value>
+  </data>
+  <data name="holeTransition" xml:space="preserve">
+    <value>ホール</value>
+  </data>
+  <data name="InputCustomFramerate" xml:space="preserve">
+    <value>フレーム レートのカスタム</value>
+  </data>
+  <data name="InvalidChannelCredentials" xml:space="preserve">
+    <value>ユーザーの資格情報を認証中に問題が発生しました。ユーザー名とパスワード、ネットワーク接続が正しいか確認してください</value>
+  </data>
+  <data name="InvalidCharactersInChannelName" xml:space="preserve">
+    <value>チャンネル名には無効な文字が含まれています。</value>
+  </data>
+  <data name="label1BroadcastShare" xml:space="preserve">
+    <value>{0} への生放送を開始しました。&lt;a href="{1}"&gt;こちらをクリック&lt;/a&gt; するとブラウザを開き、生放送を視聴することができます（オーディオループを回避する為に生放送をミュートするのをお勧めします）。</value>
+  </data>
+  <data name="label1BroadcastShare1" xml:space="preserve">
+    <value>{0} への生放送を開始しました。</value>
+  </data>
+  <data name="label1BroadcastShare2" xml:space="preserve">
+    <value>レコーディングが開始されました。
+記録されたファイルは【ファイル】メニュー→マイレコーディングからアクセスできます。</value>
+  </data>
+  <data name="label1BroadcastShare3" xml:space="preserve">
+    <value>You are now recording the Active Scene. Recorded files can be accessed from the File menu -&gt; My Recordings.</value>
+  </data>
+  <data name="label1BroadcastShare4" xml:space="preserve">
+    <value>You are now recording {0}. Recorded files can be accessed from the File menu -&gt; My Recordings.</value>
+  </data>
+  <data name="label3" xml:space="preserve">
+    <value>アップデート成功</value>
+  </data>
+  <data name="label4" xml:space="preserve">
+    <value>この機能でブロードキャスト中にチャンネルステータスを編集できます</value>
+  </data>
+  <data name="LatestNews" xml:space="preserve">
+    <value>最新のニュース</value>
+  </data>
+  <data name="latestNewsToolStripMenuItem" xml:space="preserve">
+    <value>最新のニュース</value>
+  </data>
+  <data name="lblAbitrate" xml:space="preserve">
+    <value>オーディオビットレート：</value>
+  </data>
+  <data name="lblACodec" xml:space="preserve">
+    <value>コーデック：</value>
+  </data>
+  <data name="lblAudioBitrate" xml:space="preserve">
+    <value>ビットレート：</value>
+  </data>
+  <data name="lblAudioFormat" xml:space="preserve">
+    <value>フォーマット:</value>
+  </data>
+  <data name="lblAudioIn" xml:space="preserve">
+    <value>マイク</value>
+  </data>
+  <data name="lblBirthDay" xml:space="preserve">
+    <value>誕生日：</value>
+  </data>
+  <data name="lblBufferSize" xml:space="preserve">
+    <value>VBVバッファー(kbit):</value>
+  </data>
+  <data name="lblBufferSize_Tooltip" xml:space="preserve">
+    <value>最大ビットレートはこのバッファーに対応しています。バッファーは加入者のバッファーより小さくなくてはいけません(ライブストリーミングサービスは低待機時間要求が無ければバッファーを2秒に設定します)</value>
+  </data>
+  <data name="lblBufferTime" xml:space="preserve">
+    <value>フラッシュバッファー(秒):</value>
+  </data>
+  <data name="lblCamDS" xml:space="preserve">
+    <value>デバイスコンフィグ</value>
+  </data>
+  <data name="lblCamDSHint" xml:space="preserve">
+    <value>{0}設定をコンフィグするには、下のボタンをクリックして下さい</value>
+  </data>
+  <data name="lblChannelNameLabel" xml:space="preserve">
+    <value>チャンネル名:</value>
+  </data>
+  <data name="lblCodec" xml:space="preserve">
+    <value>コーデック：</value>
+  </data>
+  <data name="lblColorChromaSel" xml:space="preserve">
+    <value>キー</value>
+  </data>
+  <data name="lblColorPicture" xml:space="preserve">
+    <value>画像</value>
+  </data>
+  <data name="lblCountry" xml:space="preserve">
+    <value>国：</value>
+  </data>
+  <data name="lblCuePoints" xml:space="preserve">
+    <value>キューポイント:</value>
+  </data>
+  <data name="lblCuePointsHint" xml:space="preserve">
+    <value>下のボックスにキューポイントを入力して下さい。hh:mm:ssのフォーマットを使用してください</value>
+  </data>
+  <data name="lblDescription" xml:space="preserve">
+    <value>説明:</value>
+  </data>
+  <data name="lblDescription_Tooltip" xml:space="preserve">
+    <value>このチャンネルを簡単に説明する</value>
+  </data>
+  <data name="lblEmail" xml:space="preserve">
+    <value>メール</value>
+  </data>
+  <data name="lblFileType" xml:space="preserve">
+    <value>ファイルの種類:</value>
+  </data>
+  <data name="lblFlashPlayback" xml:space="preserve">
+    <value>プレイバック</value>
+  </data>
+  <data name="lblFlashUserAgent" xml:space="preserve">
+    <value>ユーザーエージェント:</value>
+  </data>
+  <data name="lblFramerate" xml:space="preserve">
+    <value>フレームレート:</value>
+  </data>
+  <data name="lblFramerate_Tooltip" xml:space="preserve">
+    <value>15以上のFPSは多くのCPU使用量と帯域幅が要求される可能性があります</value>
+  </data>
+  <data name="lblFullName" xml:space="preserve">
+    <value>フルネーム：</value>
+  </data>
+  <data name="lblGain" xml:space="preserve">
+    <value>しきい値:</value>
+  </data>
+  <data name="lblGender" xml:space="preserve">
+    <value>性別：</value>
+  </data>
+  <data name="lblIngest" xml:space="preserve">
+    <value>サーバー:</value>
+  </data>
+  <data name="lblInternal2" xml:space="preserve">
+    <value>Twitch、Ustreamなどのアカウントをお持ちであれば、RTMP、RMTPTでのストリーミングをサポートしているサービスに複数のチャンネルを追加することが出来ます</value>
+  </data>
+  <data name="lblInternal3" xml:space="preserve">
+    <value>詳細については、こちらをご覧ください...</value>
+  </data>
+  <data name="lblLanguage" xml:space="preserve">
+    <value>言語:</value>
+  </data>
+  <data name="lblLink" xml:space="preserve">
+    <value>シェアリンク：</value>
+  </data>
+  <data name="lblLink_Tooltip" xml:space="preserve">
+    <value>このURLでは他のユーザーがあなたのストリーミングを閲覧できます。ストリーミングが始まったときに自動でリンクがクリップボードにコピーされます</value>
+  </data>
+  <data name="lblLivePassword" xml:space="preserve">
+    <value>パスワード:</value>
+  </data>
+  <data name="lblLivePlayback" xml:space="preserve">
+    <value>プレイバック</value>
+  </data>
+  <data name="lblLiveSource" xml:space="preserve">
+    <value>ストリーミングソース</value>
+  </data>
+  <data name="lblLiveStreamName" xml:space="preserve">
+    <value>ストリーミング名:</value>
+  </data>
+  <data name="lblLiveUsername" xml:space="preserve">
+    <value>ユーザー名:</value>
+  </data>
+  <data name="lblLoginTitle" xml:space="preserve">
+    <value>XSplit</value>
+  </data>
+  <data name="lblMaxBitrate" xml:space="preserve">
+    <value>VBV 最大ビットレート(kbps)：</value>
+  </data>
+  <data name="lblMaxBitrate_Tooltip" xml:space="preserve">
+    <value>ストリーミングの最大のビットレートを設定します</value>
+  </data>
+  <data name="lblName" xml:space="preserve">
+    <value>名前:</value>
+  </data>
+  <data name="lblName_Tooltip" xml:space="preserve">
+    <value>識別用にこのチャンネルに割り当てられた名前</value>
+  </data>
+  <data name="lblPassword" xml:space="preserve">
+    <value>パスワード</value>
+  </data>
+  <data name="lblPos" xml:space="preserve">
+    <value>ポジション</value>
+  </data>
+  <data name="lblPos3DHint" xml:space="preserve">
+    <value>ソースを回転させるには、Shiftを押し続けながらマウスをドラッグして下さい</value>
+  </data>
+  <data name="lblPosCrop" xml:space="preserve">
+    <value>クロッピング</value>
+  </data>
+  <data name="lblPosCropBottom" xml:space="preserve">
+    <value>下部</value>
+  </data>
+  <data name="lblPosCropLeft" xml:space="preserve">
+    <value>左</value>
+  </data>
+  <data name="lblPosCropRight" xml:space="preserve">
+    <value>右</value>
+  </data>
+  <data name="lblPosCropTop" xml:space="preserve">
+    <value>トップ</value>
+  </data>
+  <data name="lblPosHeight" xml:space="preserve">
+    <value>高さ</value>
+  </data>
+  <data name="lblPosWidth" xml:space="preserve">
+    <value>幅</value>
+  </data>
+  <data name="lblPreset" xml:space="preserve">
+    <value>プリセット：</value>
+  </data>
+  <data name="lblPreset_Tooltip" xml:space="preserve">
+    <value>内部使用限定</value>
+  </data>
+  <data name="lblQuality" xml:space="preserve">
+    <value>品質:</value>
+  </data>
+  <data name="lblQuality_Tooltip" xml:space="preserve">
+    <value>品質:0 - 最低の低帯域幅 (CRF = 35） 品質:10 - 最高の高帯域幅 （CRF = 25)</value>
+  </data>
+  <data name="lblResolution" xml:space="preserve">
+    <value>解像度:</value>
+  </data>
+  <data name="lblRtmpUrl" xml:space="preserve">
+    <value>RTMP URL:</value>
+  </data>
+  <data name="lblScrArea" xml:space="preserve">
+    <value>エリア</value>
+  </data>
+  <data name="lblScrAreaHeight" xml:space="preserve">
+    <value>高さ</value>
+  </data>
+  <data name="lblScrAreaWidth" xml:space="preserve">
+    <value>幅</value>
+  </data>
+  <data name="lblScrCap" xml:space="preserve">
+    <value>スクリーンキャプチャ</value>
+  </data>
+  <data name="lblScrCapLayeredHint" xml:space="preserve">
+    <value>(マウスのちらつきを修正するには、チェックを外して下さい)</value>
+  </data>
+  <data name="lblScrCapOptiTextResizeHint" xml:space="preserve">
+    <value>(より良いパフォーマンスにはこれを外して下さい)
+(ソースがフルステージを占めている場合のみ使用可能です)</value>
+  </data>
+  <data name="lblStatus" xml:space="preserve">
+    <value>何をブロードキャストしていますか?</value>
+  </data>
+  <data name="lblStreamChannel" xml:space="preserve">
+    <value>チャンネル:</value>
+  </data>
+  <data name="lblStreamName" xml:space="preserve">
+    <value>ストリーミング名:</value>
+  </data>
+  <data name="lblTitleHint" xml:space="preserve">
+    <value>タイトルソースをコンフィグするには、下のボタンをクリックして下さい</value>
+  </data>
+  <data name="lblUserName" xml:space="preserve">
+    <value>ユーザー名：</value>
+  </data>
+  <data name="lblVidCueSavedCuePoints" xml:space="preserve">
+    <value>キューポイントの保存</value>
+  </data>
+  <data name="lblVideoCuePoints" xml:space="preserve">
+    <value>キューポイント</value>
+  </data>
+  <data name="lblVideoPlayback" xml:space="preserve">
+    <value>プレイバック</value>
+  </data>
+  <data name="lblVidPlayActionOnEnd" xml:space="preserve">
+    <value>終了時:</value>
+  </data>
+  <data name="lblVidPlayEndTime" xml:space="preserve">
+    <value>終了:</value>
+  </data>
+  <data name="lblVidPlayStartTime" xml:space="preserve">
+    <value>開始:</value>
+  </data>
+  <data name="LivestreamNameIsEmtpy" xml:space="preserve">
+    <value>ストリーム名前を指定してください</value>
+  </data>
+  <data name="lnkBandwidthTesterGuide" xml:space="preserve">
+    <value>どのように帯域幅テスターが作動するか確認する</value>
+  </data>
+  <data name="lnkForgotPassword" xml:space="preserve">
+    <value>パスワードを忘れた場合</value>
+  </data>
+  <data name="lnklblChangePassword" xml:space="preserve">
+    <value>ここでパスワードを変更します。</value>
+  </data>
+  <data name="lnkNoAccount" xml:space="preserve">
+    <value>サインアップ</value>
+  </data>
+  <data name="loadPresetsToolStripMenuItem" xml:space="preserve">
+    <value>プレゼンテーションの読み込み...(&amp;O)</value>
+  </data>
+  <data name="LocalRecording" xml:space="preserve">
+    <value>ローカルレコーディング</value>
+  </data>
+  <data name="localRecordingToolStripMenuItem" xml:space="preserve">
+    <value>ローカルレコーディング</value>
+  </data>
+  <data name="MakeXSplitLayeredWindowWarning" xml:space="preserve">
+    <value>XSplitのレイヤードウィンドウは、XSplitがタスクバーに最小化されていない時はスクリーンキャプチャーのパフォーマンスを低下させます
+
+レイヤードウィンドウの作成を続行しますか？</value>
+  </data>
+  <data name="MoreStreamAddins" xml:space="preserve">
+    <value>プラグインストア</value>
+  </data>
+  <data name="moreStreamAddinTsmi" xml:space="preserve">
+    <value>最新のニュース</value>
+  </data>
+  <data name="moreStreamAddinTsmiXbc5003" xml:space="preserve">
+    <value>出力をもっと見つける</value>
+  </data>
+  <data name="moveSourceDown_Tooltip" xml:space="preserve">
+    <value>ソースを下に移動します</value>
+  </data>
+  <data name="moveSourceUp_Tooltip" xml:space="preserve">
+    <value>ソースを上に移動します</value>
+  </data>
+  <data name="msgAbortPluginInstall" xml:space="preserve">
+    <value>プラグインのインストールは現在進行中です。ダウンロードが完了する前に [ok] を押すと、プラグインのインストールは中止されます。</value>
+  </data>
+  <data name="msgAddGameNotice" xml:space="preserve">
+    <value>ゲームやメディアプレイヤーをキャプチャーする前に、キャプチャーしたいウィンドウの中をクリックする必要があります。ゲームをキャプチャーしてメニューアイテムを選択してください</value>
+  </data>
+  <data name="msgAddGameNoticeGsDisabled" xml:space="preserve">
+    <value>ゲームやメディアプレイヤーをキャプチャーする前に、ゲームソースをツール&gt; 一般設定から有効にする必要があります。その後、キャプチャーしたいウィンドウ内をクリックして下さい。</value>
+  </data>
+  <data name="msgAddinDownloadFailed" xml:space="preserve">
+    <value>ダウンロードに失敗しました。</value>
+  </data>
+  <data name="msgAddinInstallationFailed_ArgumentError" xml:space="preserve">
+    <value>インストールパラメーターの問題のためインストールできません。もう一度行うか、XSplitのサポートにお問い合わせください。</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallFailed" xml:space="preserve">
+    <value>インストールは途中で終了しました。不要な動作を回避する為にXSplit を再起動してください。</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallFileNotFound" xml:space="preserve">
+    <value>インストールファイルが無いためインストールできません。もう一度行うか、XSplitのサポートにお問い合わせください。</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallHashCheckFailed" xml:space="preserve">
+    <value>ファイルハッシュが一致していない為インストールできません。もう一度行うか、XSplitのサポートにお問い合わせください。</value>
+  </data>
+  <data name="msgAddinInstallationFailed_Unknown" xml:space="preserve">
+    <value>インストールは途中で終了しました。不要な動作を回避する為にXSplit を再起動してください。</value>
+  </data>
+  <data name="msgAddinInstallerIsBusy_Text" xml:space="preserve">
+    <value>別のプラグインのインストールが進行中です。もう一度やり直してください。</value>
+  </data>
+  <data name="msgAddinInstallerIsBusy_Title" xml:space="preserve">
+    <value>インストーラーがビジー</value>
+  </data>
+  <data name="msgAddinInstallSucceeded" xml:space="preserve">
+    <value>終了しました。XSplitを再起動して変更を反映してください
+
+XSplitを終了します</value>
+  </data>
+  <data name="msgAddinInstallSucceeded1" xml:space="preserve">
+    <value>終了しました。XSplitを再起動して変更を反映してください</value>
+  </data>
+  <data name="msgAddinInstallSucceeded2" xml:space="preserve">
+    <value>プラグインが正常にインストールされました。XSplitを再起動して変更を反映してください
+
+XSplitを終了します</value>
+  </data>
+  <data name="msgAddinInstallSucceeded3" xml:space="preserve">
+    <value>プラグインが正常にインストールされました。XSplitを再起動して変更を反映してください
+
+
+再起動しますか?</value>
+  </data>
+  <data name="msgAddinInstallSucceeded4" xml:space="preserve">
+    <value>終了しました。XSplitを再起動して変更を反映してください
+
+再起動しますか？</value>
+  </data>
+  <data name="msgAddinInstallSucceeded5" xml:space="preserve">
+    <value>プラグインが正常にインストールされました。XSplitを再起動して変更を反映してください</value>
+  </data>
+  <data name="msgAddinUinstallationFailed" xml:space="preserve">
+    <value>インストールは途中で終了しました。不要な動作を回避する為にXSplit を再起動してください。</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_ArgumentError" xml:space="preserve">
+    <value>インストールパラメーターの問題のためインストールできません。もう一度行うか、XSplitのサポートにお問い合わせください。</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_UninstallFailed" xml:space="preserve">
+    <value>インストールは途中で終了しました。不要な動作を回避する為にXSplit を再起動してください。</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_Unknown" xml:space="preserve">
+    <value>インストールは途中で終了しました。不要な動作を回避する為にXSplit を再起動してください。</value>
+  </data>
+  <data name="msgAddinUninstallConfirm_Text" xml:space="preserve">
+    <value>"{0}"をアンインストールしてもよろしいですか</value>
+  </data>
+  <data name="msgAddinUninstallConfirm_Title" xml:space="preserve">
+    <value>{0} をアンインストールします</value>
+  </data>
+  <data name="msgAudioDevice_None" xml:space="preserve">
+    <value>なし</value>
+  </data>
+  <data name="msgCantCreateRecordingOutDir" xml:space="preserve">
+    <value>レコーディングディレクトリを作成できません '{0}。自分で作成するかレコーディングを再度行って下さい</value>
+  </data>
+  <data name="msgCantEditActiveStream" xml:space="preserve">
+    <value>ストリーミング中は設定を編集できません。</value>
+  </data>
+  <data name="msgCantEditActiveStreamAdaptiveBr" xml:space="preserve">
+    <value>「Adaptive CBR」を使用して生放送を行っている間は設定を変更することはできません。</value>
+  </data>
+  <data name="msgCantEditActiveStreamCbr" xml:space="preserve">
+    <value>CBRモードでストリーミング中は設定を編集できません。</value>
+  </data>
+  <data name="msgCantEditActiveRecording" xml:space="preserve">
+    <value>ローカルでレコーディング中は設定を編集できません。</value>
+  </data>
+  <data name="msgCantEditActiveRecordingCbr" xml:space="preserve">
+    <value>CBRモードでローカルレコーディング中は設定を編集できません。</value>
+  </data>
+  <data name="msgCantEditChannelOfMissingAddin" xml:space="preserve">
+    <value> {0}はこのマシンではお使いになれません。ストアの追加&gt;もっと　からプラグインをインストールして下さい...</value>
+  </data>
+  <data name="msgCantRemoveActiveStream" xml:space="preserve">
+    <value>ストリーミング中はチャンネルを削除できません。</value>
+  </data>
+  <data name="msgClickContinue" xml:space="preserve">
+    <value>\"続ける\" ボタンをクリックして下さい</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported" xml:space="preserve">
+    <value>XSplitはXPシステムでは1920 x 1080以上のステージ解像度をサポートしていません。これらの解像度は閲覧&gt; 解像度メニューで利用不可能です。XSplitはデフォルトのステージ解像度を使用します</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported1" xml:space="preserve">
+    <value>XSplitはXPシステムのでは1920 x 1080以上のステージ解像度をサポートしていません。これらの解像度は閲覧&gt; 解像度メニューで利用不可能です</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported3" xml:space="preserve">
+    <value>XSplitはXPシステムの {0:N0}以下のステージ解像度をサポートしていません。</value>
+  </data>
+  <data name="msgDefaultStageResolutionWarning" xml:space="preserve">
+    <value>現在のステージ解像度かフレームレートより低く設定をする事で、別々の解像度/フレームレートで複数の生放送を行うことが可能です。
+
+したがって、ローカル録画か生放送をデフォルトのステージ解像度/フレームレートで設定し新たな生放送を設定する時に強制的にデフォルトの解像度/フレームレートより低く設定します。
+
+この設定はアカウントには保存されませんので、ログインする度に行わないといけません。</value>
+  </data>
+  <data name="msgDeviceNotFound_SndCap" xml:space="preserve">
+    <value>オーディオキャプチャデバイスが見つかりません</value>
+  </data>
+  <data name="msgDeviceNotFound_VidCap" xml:space="preserve">
+    <value>ビデオキャプチャ デバイスが見つかりません</value>
+  </data>
+  <data name="msgEnableAeroWarning" xml:space="preserve">
+    <value>Windows7とVistaではレイヤードウィンドウは、Aeroテーマが有効の時に常にキャプチャーされます。XSplitでAeroテーマを無効にすることを許可しない場合は、スクリーンキャプチャソースのオプションが、正常に効果を発揮しない場合があります
+
+続行しますか？</value>
+  </data>
+  <data name="msgEnableD3D" xml:space="preserve">
+    <value>あなたのPCのハードウェアは最低必要なグラフィックハードウェア [必要スペック](https://xspl.it/bc/req) に満たしておりません、  [サポート](https://xspl.it/support) にご連絡ください。</value>
+  </data>
+  <data name="msgEnableVcamCheckedChangedHint" xml:space="preserve">
+    <value>仮想カメラはブロードキャスト中が自動で無効になりますのでご注意下さい</value>
+  </data>
+  <data name="msgFailedGettingRtmp" xml:space="preserve">
+    <value>RTMP の取得に失敗しました</value>
+  </data>
+  <data name="msgFailedGettingRtmp_HowUserAffected" xml:space="preserve">
+    <value>ストリーミングサイトがダウンしているか問題が発生しています</value>
+  </data>
+  <data name="msgFailedGettingRtmp_WhatUserCanDo" xml:space="preserve">
+    <value>後で再度行うか、ストリーミングプロバイダーにお問い合わせ下さい。連絡先{0}</value>
+  </data>
+  <data name="msgFailedLoadingAddinStore" xml:space="preserve">
+    <value>プラグインストアの読み込みに失敗しました。もう一度やり直して下さい</value>
+  </data>
+  <data name="msgFailureLoadinAddin_HowUserAffected" xml:space="preserve">
+    <value>このプラグインを使用して追加されたプラグインは利用可能でない場合があります</value>
+  </data>
+  <data name="msgFailureLoadingAddin" xml:space="preserve">
+    <value>プラグイン '{0}' の読み込みに失敗しました</value>
+  </data>
+  <data name="msgFlashAxFailure" xml:space="preserve">
+    <value>Windows Internet ExplorerのFlash Playerとの作動に失敗しました: {0}</value>
+  </data>
+  <data name="msgFlashAxIsOld" xml:space="preserve">
+    <value>XSPlitはお使いのInternet ExplorerのFlash Playerが旧バージョンであることを検出しました。
+
+XSplitをお使いいただくには10.3.181以上のFlash Playerが必要です。最新のFlash Playerを使用しなければ、予期しない動作をする可能性があります。
+
+Internet Explorerの最新のFlash Playerを入手しますか?</value>
+  </data>
+  <data name="msgFlashAxIsRequired" xml:space="preserve">
+    <value>XSPlitはお使いのInternet ExplorerのFlash Playerが旧バージョンであることを検出しました。
+
+XSplitをお使いいただくには10.3.181以上のFlash Playerが必要です。最新のFlash Playerを使用しなければ、予期しない動作をする可能性があります。
+
+Internet Explorerの最新のFlash Playerを入手しますか?</value>
+  </data>
+  <data name="msgFlashAxNotInstalled" xml:space="preserve">
+    <value>Internet Explorerの最新のFlash Playerがこの機能には必要です
+</value>
+  </data>
+  <data name="msgFlashConfigLoadFailure" xml:space="preserve">
+    <value>コンフィグダイアログの読み込みに失敗しました: {0}</value>
+  </data>
+  <data name="msgForcedUpdate" xml:space="preserve">
+    <value>このバージョンの {0} の有効期限が切れました。新しいバージョン {1}のXSplit Broadcasterが利用可能です。アップデートする必要があります。
+
+アップデートに関して問題が発生、または自動アップデートが上手く行かない場合は、XSplitをアンインストールしてからXSplitを再度[www.xsplit.com](http://www.xsplit.com)からインストールして下さい</value>
+  </data>
+  <data name="msgFramerateDefined" xml:space="preserve">
+    <value>フレームレートはすでにメニューで利用可能です</value>
+  </data>
+  <data name="msgHotKeyRegException1" xml:space="preserve">
+    <value>次のホットキーが登録できませんでした</value>
+  </data>
+  <data name="msgHotKeyRegException2" xml:space="preserve">
+    <value>割り当てられたホットキーは反映されません</value>
+  </data>
+  <data name="msgHotKeyRegException3" xml:space="preserve">
+    <value>他の作動しているアプリケーションで使用されていない別のホットキーを割り当てることができます</value>
+  </data>
+  <data name="msgHotKeyRegException4" xml:space="preserve">
+    <value>再度ホットキーを割り当てますか？</value>
+  </data>
+  <data name="msgHotKeyRegException5" xml:space="preserve">
+    <value>同じ組み合わせのホットキーはできません
+
+{0}</value>
+  </data>
+  <data name="msgHotKeyRegException6" xml:space="preserve">
+    <value>現在はベーシックホットキーモードに設定されております。下記のショートカットキーは修飾キー(Control, Shift, Alt)との組み合わせのみ割り当て可能です。
+
+
+{0}</value>
+  </data>
+  <data name="msgHotKeyRegException7" xml:space="preserve">
+    <value>現在はベーシックホットキーモードでございます。高度ホットキーモードでないとこれらのホットキーは割り当てる事はできません。
+
+{0}</value>
+  </data>
+  <data name="msgIncorrectCredentialsOrServerDown" xml:space="preserve">
+    <value>パスワードまたはストリームキーが無効か、サーバーがダウンしています。ユーザーの資格情報を再入力してください。</value>
+  </data>
+  <data name="msgInitializeFolder1" xml:space="preserve">
+    <value>フォルダーの初期化中にエラーが発生しました。</value>
+  </data>
+  <data name="msgInitializeFolder2" xml:space="preserve">
+    <value>フォルダが適切に作成されなかった可能性があります</value>
+  </data>
+  <data name="msgInitializeFolder3" xml:space="preserve">
+    <value>ファイルとフォルダーを作成する権限があるかを確認してください。</value>
+  </data>
+  <data name="msgInputTransitionSpeed" xml:space="preserve">
+    <value>速度 (ms)</value>
+  </data>
+  <data name="msgInvalidEmail" xml:space="preserve">
+    <value>メールの形式が正しくありません。アルファベット、数字、ドット、ダッシュ、アンダーバーのみ使用可能です</value>
+  </data>
+  <data name="msgInvalidFilenameChars" xml:space="preserve">
+    <value>ファイル名には次の文字は使用できません</value>
+  </data>
+  <data name="msgInvalidPassword" xml:space="preserve">
+    <value>パスワードの形式が無効です。6文字以上で、文字、数字、ドットおよびダッシュのみ使用可能です。</value>
+  </data>
+  <data name="msgInvalidTransitionTime" xml:space="preserve">
+    <value>無効な切り替え速度</value>
+  </data>
+  <data name="msgLoginInitializationException1" xml:space="preserve">
+    <value>ログインウィンドウの初期化中にエラーが発生しました。</value>
+  </data>
+  <data name="msgLoginMessageTitle" xml:space="preserve">
+    <value>ログイン</value>
+  </data>
+  <data name="msgLoginOpenLinkException1" xml:space="preserve">
+    <value>パスワードの変更ページへのリダイレクト中にエラーが発生しました。</value>
+  </data>
+  <data name="msgLoginOpenLinkException2" xml:space="preserve">
+    <value>パスワード変更ページにはリダイレクトされません</value>
+  </data>
+  <data name="msgLoginOpenLinkException3" xml:space="preserve">
+    <value>手動で我々のウェブサイト%url%にアクセスすることも出来ます</value>
+  </data>
+  <data name="msgLoginSaveAutoLogin" xml:space="preserve">
+    <value>自動ログイン設定の保存中にエラーが発生しました。</value>
+  </data>
+  <data name="msgLoginSaveStartup" xml:space="preserve">
+    <value>スタートアップ設定の保存中にエラーが発生しました。</value>
+  </data>
+  <data name="msgLoginTitle" xml:space="preserve">
+    <value>XSplit</value>
+  </data>
+  <data name="msgLoginValidation1" xml:space="preserve">
+    <value>メールアドレス欄を空白にしないで下さい</value>
+  </data>
+  <data name="msgLoginValidation2" xml:space="preserve">
+    <value>パスワードを空白にしないで下さい</value>
+  </data>
+  <data name="msgMaxFps" xml:space="preserve">
+    <value>許容される最大のフレーム レートは {0} FPS です。</value>
+  </data>
+  <data name="msgOptionalUpdate" xml:space="preserve">
+    <value>新しいバージョン {0}のXSplit Broadcasterが利用可能です。重大な欠陥がSplitMediaLabsチームに検出されない限り、全てのユーザーは {1}前にアップデートする必要があります。
+
+現在のアップデートをインストールした場合も、旧バージョンのXSplit Broadcasterは[www.xsplit.com](http://www.xsplit.com)からダウンロード可能なバージョンをアンインストール、インストールすつことで使用できます。
+
+もしアップデートが上手く行かない場合はXSplitをアンインストールして[www.xsplit.com](http://www.xsplit.com)から最新のバージョンを再インストールして下さい</value>
+  </data>
+  <data name="msgOptionalUpdate2" xml:space="preserve">
+    <value>新しいバージョン {0}のXSplit Broadcasterが利用可能です。
+
+現在のアップデートをインストールした場合も、旧バージョンのXSplit Broadcasterは[www.xsplit.com](http://www.xsplit.com)からダウンロード可能なバージョンをアンインストール、インストールすつことで使用できます。
+
+もしアップデートが上手く行かない場合はXSplitをアンインストールして[www.xsplit.com](http://www.xsplit.com)から最新のバージョンを再インストールして下さい</value>
+  </data>
+  <data name="msgOptionalUpdateConfirm" xml:space="preserve">
+    <value>アップデートしますか？</value>
+  </data>
+  <data name="msgRegistrationValidation6" xml:space="preserve">
+    <value>プロフィールタブのメールアドレスは空白に出来ません</value>
+  </data>
+  <data name="msgSaveBeforeCloseConfirmation" xml:space="preserve">
+    <value>このダイアログを閉じる前に変更を保存しますか？</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90012" xml:space="preserve">
+    <value>メール アドレスまたはパスワードが正しくありません。もう一度やり直してください。</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90013" xml:space="preserve">
+    <value>メール アドレスまたはパスワードが正しくありません。もう一度やり直してください。</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90024" xml:space="preserve">
+    <value>アクティベートのリンクがメールアカウントに送信されました。サインインする為にXSplitアカウントをアクティベートする必要があります。
+
+アクティベートリンクを再送信しますか？</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90027" xml:space="preserve">
+    <value>あなたを登録ユーザーである事を認証する事ができませんでした。過去に321meet.comとして登録した場合、アカウントをXSplit公式サイトで[再登録](https://xspl.it/register) してください。
+
+そこから321meetアカウントとXSplitの情報を共有して使用する事ができます。</value>
+  </data>
+  <data name="msgSettingsSaved_SyncFailed" xml:space="preserve">
+    <value>あなたの設定をサーバーと同期中にエラーが発生しました。 {0}設定はローカルで保存されます。</value>
+  </data>
+  <data name="msgSignUpOpenLinkException1" xml:space="preserve">
+    <value>登録ページにリダイレクト中にエラーが発生しました。</value>
+  </data>
+  <data name="msgSignUpOpenLinkException2" xml:space="preserve">
+    <value>登録ページにリダイレクトされません。</value>
+  </data>
+  <data name="msgSignUpOpenLinkException3" xml:space="preserve">
+    <value>手動で我々のウェブサイト%url%にアクセスすることも出来ます</value>
+  </data>
+  <data name="msgSourceConfigurationHandlerIsMissing" xml:space="preserve">
+    <value>コンフィグハンドラーがありません</value>
+  </data>
+  <data name="msgSourceHandlerIsMissing" xml:space="preserve">
+    <value>ソースハンドラーがありません。</value>
+  </data>
+  <data name="growlStageResolutionIsHigh" xml:space="preserve">
+    <value>{0} x {1} 以上の解像度はお勧めしません。XSplit Broadcasterを再起動後、解像度をフルＨＤ (1080p)に変更されます。</value>
+  </data>
+  <data name="growlStageResolutionIsHighForWEI" xml:space="preserve">
+    <value>お使いのシステムではスムーズにストリーミングまたは {0} でのレコーディングに対応できないかもしれません</value>
+  </data>
+  <data name="msgStreamResolutionIsHigh" xml:space="preserve">
+    <value>ストリーミング出力解像度を {0} x {1}に設定しました。1280 x 720以上のインターネット経由でのストリーミングは推奨しません。
+
+続けますか？</value>
+  </data>
+  <data name="growlStreamResolutionIsHigh" xml:space="preserve">
+    <value>ストリーミング出力解像度を {0} x {1}に設定しました。1280 x 720以上のインターネット経由でのストリーミングは推奨しません。
+</value>
+  </data>
+  <data name="msgStreamResolutionIsHigherThanStageResolution" xml:space="preserve">
+    <value>レコーディング/ストリーミングを現在のステージ解像度より高く設定しました。縮尺は行われませんが、埋め込みが行われます</value>
+  </data>
+  <data name="msgSyncFailure" xml:space="preserve">
+    <value>あなたの設定をサーバーとの同期中にエラー発生がしました。インターネットがオフラインかもしれません</value>
+  </data>
+  <data name="msgUnableToValidateWithServer" xml:space="preserve">
+    <value>サーバーと認証することができません。ウォーターマークがローカルレコーディングを除き有効になるかもしれません。</value>
+  </data>
+  <data name="msgUpdatedPlugins" xml:space="preserve">
+    <value>XSplitはアップデート可能なプラグインを検出しました
+
+{0}
+
+OKを押してこれらのアップデートをインストールして下さい
+		</value>
+  </data>
+  <data name="msgUpdatedPluginsXbc5003" xml:space="preserve">
+    <value>XSplitが出力のアップデートがある事を確認しました。
+
+{0}
+
+OKを押して出力のアップデートをインストールしてください。</value>
+  </data>
+  <data name="msgVersionIsExpired" xml:space="preserve">
+    <value>このバージョンのXSplit Broadcasterは期限が切れています</value>
+  </data>
+  <data name="MyRecordings_FilesExistInPreviousLocation" xml:space="preserve">
+    <value>ファイルが"{0}"に存在します
+
+手動でファイルをフォルダの変更を適用後、新しいロケーションに移動させることが出来ます</value>
+  </data>
+  <data name="myRecordingsMenuItem" xml:space="preserve">
+    <value>レコーディング</value>
+  </data>
+  <data name="recordingsToolStripMenuItem" xml:space="preserve">
+    <value>マイレコーディング</value>
+  </data>
+  <data name="newPresetsToolStripMenuItem" xml:space="preserve">
+    <value>新規プレゼンテーション(&amp;N)</value>
+  </data>
+  <data name="NicoVideo" xml:space="preserve">
+    <value>ニコニコ動画</value>
+  </data>
+  <data name="numBufferSize_Tooltip" xml:space="preserve">
+    <value>最大ビットレートはこのバッファーに対応しています。バッファーは加入者のバッファーより小さくなくてはいけません(ライブストリーミングサービスは低待機時間要求が無ければバッファーを2秒に設定します)</value>
+  </data>
+  <data name="numFramerate_Tooltip" xml:space="preserve">
+    <value>15以上のFPSは多くのCPU使用量と帯域幅が要求される可能性があります</value>
+  </data>
+  <data name="optFemale" xml:space="preserve">
+    <value>女性</value>
+  </data>
+  <data name="optMale" xml:space="preserve">
+    <value>男性</value>
+  </data>
+  <data name="par1" xml:space="preserve">
+    <value>アナウンスメント機能を使用して、TwitterやFacebookなどのソーシャルサービスにあなたのブロードキャストを投稿することが出来ます</value>
+  </data>
+  <data name="par2" xml:space="preserve">
+    <value>チャンネルがサポートしている場合、ブロードキャストのチャンネルの説明を変更することが出来ます。</value>
+  </data>
+  <data name="par3" xml:space="preserve">
+    <value>あなたのブロードキャストをアナウンスするには、左から使用するサービスを選択して下さい</value>
+  </data>
+  <data name="PasswordIsEmpty" xml:space="preserve">
+    <value>パスワードを指定する必要があります</value>
+  </data>
+  <data name="PresetDoesNotExist" xml:space="preserve">
+    <value>プリセット"{0}"が存在しません</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_ADD" xml:space="preserve">
+    <value>ソースの追加</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_DELETE" xml:space="preserve">
+    <value>選択したソースの削除</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GLBSET" xml:space="preserve">
+    <value>オーディオの設定を開く</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MIC" xml:space="preserve">
+    <value>ミュート/ミュート解除 {0}</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MOVEDOWN" xml:space="preserve">
+    <value>ソースを下に移動します</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MOVEUP" xml:space="preserve">
+    <value>ソースを上に移動します</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SETTINGS" xml:space="preserve">
+    <value>選択したソースの設定</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SPK" xml:space="preserve">
+    <value>ミュート/ミュート解除 {0}</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_MICVOL" xml:space="preserve">
+    <value>マイクの音量</value>
+  </data>
+  <data name="rb1_AV" xml:space="preserve">
+    <value>メディア</value>
+  </data>
+  <data name="rb1_Cam" xml:space="preserve">
+    <value>カメラ</value>
+  </data>
+  <data name="rb1_Screen" xml:space="preserve">
+    <value>スクリーン</value>
+  </data>
+  <data name="rb1_Stream" xml:space="preserve">
+    <value>ストリーミング</value>
+  </data>
+  <data name="rb1_Title" xml:space="preserve">
+    <value>タイトル</value>
+  </data>
+  <data name="rbColor" xml:space="preserve">
+    <value>色</value>
+  </data>
+  <data name="rbColorChromaNone" xml:space="preserve">
+    <value>なし</value>
+  </data>
+  <data name="rbColorChroma" xml:space="preserve">
+    <value>クロマキー</value>
+  </data>
+  <data name="rbColorChromaColor" xml:space="preserve">
+    <value>カラーキー</value>
+  </data>
+  <data name="rbPosition" xml:space="preserve">
+    <value>レイアウト</value>
+  </data>
+  <data name="removeSource" xml:space="preserve">
+    <value>削除</value>
+  </data>
+  <data name="removeSource_Tooltip" xml:space="preserve">
+    <value>選択したソースの削除</value>
+  </data>
+  <data name="ResolutionAlreadyExists" xml:space="preserve">
+    <value>解像度 {0} x {1} は既に存在します。</value>
+  </data>
+  <data name="resolutionToolStripMenuItem" xml:space="preserve">
+    <value>解像度(&amp;R)</value>
+  </data>
+  <data name="rtmp1ch" xml:space="preserve">
+    <value>1つのRTMPチャネルでオーディオとビデオをインターリーブします</value>
+  </data>
+  <data name="RtmpUrlIsEmpty" xml:space="preserve">
+    <value>RTMPのURL を指定する必要があります。</value>
+  </data>
+  <data name="RtmpUrlIsInvalid" xml:space="preserve">
+    <value>RTMPのURLが無効です</value>
+  </data>
+  <data name="savePresetToolStripMenuItem" xml:space="preserve">
+    <value>プレゼンテーションの保存...(&amp;S)</value>
+  </data>
+  <data name="sbtnInsertLink" xml:space="preserve">
+    <value>リンクの挿入</value>
+  </data>
+  <data name="scaleViewportToolStripMenuItem" xml:space="preserve">
+    <value>ビューポートのスケール(&amp;S)</value>
+  </data>
+  <data name="SelectPresentation" xml:space="preserve">
+    <value>XSplit -プレゼンテーションの選択</value>
+  </data>
+  <data name="settingsToolStripMenuItem" xml:space="preserve">
+    <value>一般設定...(&amp;S)</value>
+  </data>
+  <data name="settingsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>設定 (&amp;S)</value>
+  </data>
+  <data name="ShareLinkIsEmpty" xml:space="preserve">
+    <value>シェアリンクを指定する必要があります</value>
+  </data>
+  <data name="ShareLinkIsInvalid" xml:space="preserve">
+    <value>シェアリンクが無効です</value>
+  </data>
+  <data name="ShowException_HowUserAffected" xml:space="preserve">
+    <value>この問題の為にいくつかの機能が正常に作動しない可能性があります</value>
+  </data>
+  <data name="ShowException_WhatUserCanDo" xml:space="preserve">
+    <value>この問題の解決の為に、情報を送信して我々を助けて下さい</value>
+  </data>
+  <data name="SourcePluginStore" xml:space="preserve">
+    <value>プラグインストア</value>
+  </data>
+  <data name="sourceSettings" xml:space="preserve">
+    <value>セッティング</value>
+  </data>
+  <data name="sourceSettings_Tooltip" xml:space="preserve">
+    <value>選択したソースの設定</value>
+  </data>
+  <data name="spApply" xml:space="preserve">
+    <value>続行</value>
+  </data>
+  <data name="spMessage" xml:space="preserve">
+    <value>前回XSplitを使用した時に正しく終了されませんでした。これによりこちらの&lt;a name="blog" href="https://xspl.it/bc/satbhu"&gt;リンク&lt;/a&gt;に記載されている様々な問題、不安定なソースやプログラムエラーなどが起こりえます。バグを報告する場合はこちらの&lt;a name="logreporter"&gt;リンク&lt;/a&gt;をクリックしてください。</value>
+  </data>
+  <data name="spOptContinue" xml:space="preserve">
+    <value>現在のプレゼンテーションを読み込む</value>
+  </data>
+  <data name="spOptCreateNew" xml:space="preserve">
+    <value>(現在のプレゼンテーションを無視して) 新しいプレゼンテーションを作成します</value>
+  </data>
+  <data name="spOptLoadFromFile" xml:space="preserve">
+    <value>以前保存したプレゼンテーションを読み込む</value>
+  </data>
+  <data name="spOptLoadFromRegistry" xml:space="preserve">
+    <value>以前バックアップしたプレゼンテーションを読み込む</value>
+  </data>
+  <data name="sPostAgain" xml:space="preserve">
+    <value>再投稿する</value>
+  </data>
+  <data name="StreamChannelIsEmpty" xml:space="preserve">
+    <value>チャンネルはまだ使用できません。資格情報が正しく入力され、{0}ウェブサイトでチャンネルが適切にコンフィグされているか確認して下さい</value>
+  </data>
+  <data name="StreamNameIsEmpty" xml:space="preserve">
+    <value>ストリーミング名を指定する必要があります</value>
+  </data>
+  <data name="tbpChannels" xml:space="preserve">
+    <value>チャンネル</value>
+  </data>
+  <data name="tbpGeneral" xml:space="preserve">
+    <value>一般</value>
+  </data>
+  <data name="tbpHotkeys" xml:space="preserve">
+    <value>ショートカットキー</value>
+  </data>
+  <data name="tbpProfile" xml:space="preserve">
+    <value>プロフィール</value>
+  </data>
+  <data name="tbpResolutions" xml:space="preserve">
+    <value>解像度</value>
+  </data>
+  <data name="tierVersionUpdateButton" xml:space="preserve">
+    <value>このバージョンにアップデートする...</value>
+  </data>
+  <data name="titleConfigButton" xml:space="preserve">
+    <value>コンフィグ</value>
+  </data>
+  <data name="titleLabel" xml:space="preserve">
+    <value>タイトル</value>
+  </data>
+  <data name="toolsToolStripMenuItem" xml:space="preserve">
+    <value>ツール(&amp;T)</value>
+  </data>
+  <data name="transitionTimeTsmi" xml:space="preserve">
+    <value>画面切り替え速度を変更します</value>
+  </data>
+  <data name="transitionToolStripMenuItem" xml:space="preserve">
+    <value>シーン切り替え(&amp;T)</value>
+  </data>
+  <data name="txtDescription_Tooltip" xml:space="preserve">
+    <value>このチャンネルを簡単に説明する</value>
+  </data>
+  <data name="txtLink_Tooltip" xml:space="preserve">
+    <value>このURLでは他のユーザーがあなたのストリーミングを閲覧できます。ストリーミングが始まったときに自動でリンクがクリップボードにコピーされます</value>
+  </data>
+  <data name="txtName_Tooltip" xml:space="preserve">
+    <value>識別用にこのチャンネルに割り当てられた名前</value>
+  </data>
+  <data name="txtPreset_ForInternalUseOnly" xml:space="preserve">
+    <value>内部使用限定</value>
+  </data>
+  <data name="txtPreset_Tooltip" xml:space="preserve">
+    <value>内部使用限定</value>
+  </data>
+  <data name="UpdateDialog_GetMoreInfo" xml:space="preserve">
+    <value>XSplit Broadcaster　現在のインストールを更新する方法の詳細を入手する</value>
+  </data>
+  <data name="UpdateDialog_NewReleaseFound" xml:space="preserve">
+    <value>{0}でのテストに関する新規リリースが利用可能です</value>
+  </data>
+  <data name="UpdateDialog_NoNewReleaseFound" xml:space="preserve">
+    <value>新規のリリースはありません</value>
+  </data>
+  <data name="UsernameIsEmpty" xml:space="preserve">
+    <value>ユーザー名を指定して下さい</value>
+  </data>
+  <data name="UsernameIsUnknown" xml:space="preserve">
+    <value>ユーザー名が不明です</value>
+  </data>
+  <data name="viewToolStripMenuItem" xml:space="preserve">
+    <value>閲覧(&amp;V)</value>
+  </data>
+  <data name="waveTransition" xml:space="preserve">
+    <value>ウェーブ</value>
+  </data>
+  <data name="XSplitBroadcasterIsAlreadyRunning" xml:space="preserve">
+    <value>XSplit Broadcasterは既に起動しています</value>
+  </data>
+  <data name="XSplitNetIsNotAllowed" xml:space="preserve">
+    <value>マルチストリームサービスでは、1つのストリーミングから複数の目的地に再ストリーミングすることが出来ます。Broadcaster間でストリーミングを接続することも可能です。
+
+マルチストリームサービスの利用方法に関してはSplitMediaLabsまでお問い合わせ下さい</value>
+  </data>
+  <data name="XSplitNetNonPremiumNotice" xml:space="preserve">
+    <value>マルチストリームサービスは、プレミアムライセンスをプレオーダーしたユーザーのみ利用可能です。プレミアムライセンスをプレオーダーするには、OKをクリックして下さい</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgRecordingFileTypeLicenseOffer" xml:space="preserve">
+    <value>{0}レコーディングファイルの種類は現在、ライセンス所有のユーザーのみ利用可能です。
+
+ライセンスを購入しますか？</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxAllowedResLicenseOffer" xml:space="preserve">
+    <value>ライセンスをお持ちでないユーザーは、{0}以上の解像度ではウォーターマークが表示されます。
+
+ライセンスを購入しますか？</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxAllowedFpsLicenseOffer" xml:space="preserve">
+    <value>{0}以上のフレームレートはライセンス所有のユーザーのみ利用可能です
+
+ライセンスを購入しますか？</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgFreeUserSimulcastLicenseOffer" xml:space="preserve">
+    <value>XSplitのデモ版では、複数のチャンネルに同時にストリーミングすることは出来ません。
+
+ライセンスを購入しますか？</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxBitrateIsTooLow" xml:space="preserve">
+    <value>最大ビットレートは{0}kbps以上にして下さい</value>
+  </data>
+  <data name="msgMaxBitrateIsTooLow_VBR" xml:space="preserve">
+    <value>最大ビットレートは{0}kbps以上にして下さい</value>
+  </data>
+  <data name="msgMaxBitrateIsTooLow_CBR" xml:space="preserve">
+    <value>ビットレートは{0}kbps以上にして下さい</value>
+  </data>
+  <data name="chkGameSurfSharing" xml:space="preserve">
+    <value>特別最適化を有効にする</value>
+  </data>
+  <data name="ControlIds.IDC_STATIC_SCENECUR" xml:space="preserve">
+    <value>現在のシーン</value>
+  </data>
+  <data name="ControlIds.ID_FILE_ADDGAMESOURCE" xml:space="preserve">
+    <value>ゲームの追加(&amp;G)</value>
+  </data>
+  <data name="msgNetFxIsRequired" xml:space="preserve">
+    <value>XSplitの実行にはMicrosoft .NET Frameworkが必要です。
+
+Microsoft .NET Framework{0}をダウンロードしますか？</value>
+  </data>
+  <data name="servermessage_dlogtitle" xml:space="preserve">
+    <value>重複するログインを検出しました</value>
+  </data>
+  <data name="servermessage_dlogdesc" xml:space="preserve">
+    <value>お使いのアカウントは現在別のコンピューターにログインしています。ログインするには資格情報を再入力して下さい。この操作は別のコンピューターのアカウントからログアウトするため、現在のストリーミングは停止されますのでご注意下さい</value>
+  </data>
+  <data name="servermessage_fdistitle" xml:space="preserve">
+    <value>ログアウトしました</value>
+  </data>
+  <data name="servermessage_fdisdesc" xml:space="preserve">
+    <value>あなたのアカウントは現在別のアカウントにログインしています。同時には複数のコンピューターからログイン出来ないため、このクライアントからログアウトします。ログインするには資格情報を再入力して下さい。この操作は別のコンピューターのアカウントからログアウトするため、現在のストリーミングは停止されますのでご注意下さい</value>
+  </data>
+  <data name="DefaultStageResolution" xml:space="preserve">
+    <value>デフォルトのステージ解像度</value>
+  </data>
+  <data name="msgLocalLoginFailed" xml:space="preserve">
+    <value>ユーザー認証が出来ません。 support@xsplit.comに{0}を調査の為に送信下さい。</value>
+  </data>
+  <data name="msgProjectorBuyPremiumOffer" xml:space="preserve">
+    <value>この機能にはプレミアムライセンスが必要です。プレミアムライセンスの取得にはOKをクリックして下さい</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="picCopyChromaKey" xml:space="preserve">
+    <value>クロマキー設定をコピーする</value>
+  </data>
+  <data name="btnPosCropEasyCrop" xml:space="preserve">
+    <value>クイッククロップ</value>
+  </data>
+  <data name="FailureSettingDirectoryAcl" xml:space="preserve">
+    <value>フォルダー{0}に必要なアクセス許可を設定することができません。{1}</value>
+  </data>
+  <data name="chkKeepOnTop" xml:space="preserve">
+    <value>XSplitを上に保持する</value>
+  </data>
+  <data name="msgEasyCropPreReqPrompt" xml:space="preserve">
+    <value>クイッククロップはステージスケールを実際のサイズに設定した後に、希望のスケールに設定し直す必要があります。続行しますか？</value>
+  </data>
+  <data name="enableInternalRtmpServerToolStripMenuItem" xml:space="preserve">
+    <value>ディレイサーバーをアクティブにする...</value>
+  </data>
+  <data name="InternalRtmpServer" xml:space="preserve">
+    <value>ディレイサーバー</value>
+  </data>
+  <data name="msgInternalServerBuyPremiumOffer" xml:space="preserve">
+    <value>この機能にはプレミアムライセンスが必要です。プレミアムライセンスの取得にはOKをクリックして下さい</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="btnRefreshSource" xml:space="preserve">
+    <value>更新</value>
+  </data>
+  <data name="growlFramerateAndResIsHighForWei" xml:space="preserve">
+    <value>お使いのシステムは{1:N2}fpsの速さではスムーズに{0}にストリーミング、レコーディングが出来ません。</value>
+  </data>
+  <data name="msgAddSkypeVideoSourceNotice" xml:space="preserve">
+    <value>スカイプのビデオソースをキャプチャーするには、スカイプビデオ通話ウィンドウ内をクリックして下さい。その後、このメニューアイテムを選択して下さい。</value>
+  </data>
+  <data name="msgAddSkypeVideoSourceNoticeGsDisabled" xml:space="preserve">
+    <value>スカイプのビデオソースをキャプチャーするには、ゲームソースをツール&gt;一般設定メニューから有効にし、スカイプビデオ通話ウィンドウ内をクリックして下さい。その後、このメニューアイテムを選択して下さい。</value>
+  </data>
+  <data name="LicenseExpiry" xml:space="preserve">
+    <value>お使いのライセンスは{0}に失効します</value>
+  </data>
+  <data name="rtfSkypeHint" xml:space="preserve">
+    <value>スカイプの通話モニターウィンドウはビデオアイテムをちらつかせる可能性があります。
+これを回避するには、スカイプの通話モニターを無効にして下さい:
+
+1,ツール&gt;オプション‘
+2,通話&gt;通話設定
+3,"詳細オプションの表示"ボタンをクリック
+4,”スカイプがバックグラウンドにある時は通話コントロールを表示する"のチェックを外す</value>
+  </data>
+  <data name="faster_Tooltip" xml:space="preserve">
+    <value>中圧縮率,
+中レベルCPU使用量
+(i7が無ければ使用しないで下さい)</value>
+  </data>
+  <data name="fast_Tooltip" xml:space="preserve">
+    <value>中-高圧縮率,
+中-高レベルCPU使用量
+(第2世代i7が無ければ使用しないで下さい)</value>
+  </data>
+  <data name="medium_Tooltip" xml:space="preserve">
+    <value>高圧縮率,
+高レベルCPU使用量
+(高速第2世代i7が無ければ使用しないで下さい)</value>
+  </data>
+  <data name="slow_Tooltip" xml:space="preserve">
+    <value>とても高い圧縮率,
+とても高レベルのCPU使用量
+(高性能CPUが無ければ使用しないで下さい)</value>
+  </data>
+  <data name="superfast_Tooltip" xml:space="preserve">
+    <value>低圧縮率,
+低レベルCPU使用量
+(小CPUに推奨しています)</value>
+  </data>
+  <data name="veryfast" xml:space="preserve">
+    <value>veryfast(デフォルト設定)</value>
+  </data>
+  <data name="veryfast_Tooltip" xml:space="preserve">
+    <value>適切な圧縮率,
+低レベルCPU使用量
+(ほとんどのユーザーに推奨しています)</value>
+  </data>
+  <data name="lblMaxFileSize" xml:space="preserve">
+    <value>最大MP4ファイルサイズ:</value>
+  </data>
+  <data name="lblMaxFileSize_Tooltip" xml:space="preserve">
+    <value>セグメント毎の最大レコーディングサイズ (e.g. 5120 kB, 5 MB, 2 GB)
+(0)を1つのファイルを保持するのに指定して下さい(大きなMP4レコーディングのファイル書き込みの問題が起こすかもしれません)
+ユニットが指定されていなければ、入力はバイト単位とみなされます</value>
+  </data>
+  <data name="msgInvalidMaxRecordingFileSize" xml:space="preserve">
+    <value>無効な最大値　指定されたMP4サイズ</value>
+  </data>
+  <data name="txtMaxFileSize_Tooltip" xml:space="preserve">
+    <value>セグメント毎の最大レコーディングサイズ (e.g. 5120 kB, 5 MB, 2 GB)
+(0)を1つのファイルを保持するのに指定して下さい(大きなMP4レコーディングのファイル書き込みの問題が起こすかもしれません)
+ユニットが指定されていなければ、入力はバイト単位だとみなされます</value>
+  </data>
+  <data name="lnkAudioStutterGuide" xml:space="preserve">
+    <value>オーディオの問題ですか？</value>
+  </data>
+  <data name="msgBroadcastTerminated" xml:space="preserve">
+    <value>あなたの {0} ブロードキャストが終了されました
+チャンネルの設定を確認し、 「{1}」ボタンをクリックして配信できるかどうか確認してください。 &lt;a href="https://xspl.it/bc/s8s19t#{2:X}"&gt;こちらをクリック&lt;/a&gt; して詳細をご確認ください。</value>
+  </data>
+  <data name="lblGameImageHint" xml:space="preserve">
+    <value>ゲームもしくはソースが見つからなければオフラインイメージが表示されます(ゲームソースを透明にするために空にして下さい)</value>
+  </data>
+  <data name="lblSkypeImageHint" xml:space="preserve">
+    <value>スカイプビデオフィードが見つからなければオフラインイメージが表示されます(スカイプソースを透明にするために空にして下さい)</value>
+  </data>
+  <data name="msgAddSkypeNoticeGsDisabled" xml:space="preserve">
+    <value>スカイプソースにはゲームソース機能を有効にする必要があります。ゲームソースを有効にするにはツール&gt;一般設定メニューに行ってからこのメニューアイテムを選択して下さい</value>
+  </data>
+  <data name="msgInternetExplorerIsRequired" xml:space="preserve">
+    <value>XSplit は、Internet Explorer がインストールされていないことを検出されました。
+XSplitを作動させるにはバージョン7以上のInternet Explorerが必要です。
+最新のInternet Explorerを入手しますか？</value>
+  </data>
+  <data name="msgInternetExplorerIsOld" xml:space="preserve">
+    <value>XSplitはお使いのInternet Explorerが最新で無いことを検出しました。
+XSplitを作動させるにはバージョン7以上のInternet Explorerが必要です。
+最新のInternet Explorerを入手しますか？</value>
+  </data>
+  <data name="MyRecordings_DirectoryFailedToOpen" xml:space="preserve">
+    <value> "{0}"ディレクトリが開けませんでした</value>
+  </data>
+  <data name="MyRecordings_DirectoryNotFound" xml:space="preserve">
+    <value> "{0}" ディレクトリは存在しません</value>
+  </data>
+  <data name="msgAmdRadeonHd7xxxWarning" xml:space="preserve">
+    <value>XSplitと問題がある可能性のあるAMD Radeon HD 7xxxシリーズグラフィックカードを検出しました。
+
+詳細は &lt;a href="{0}"&gt;こちら&lt;/a&gt;をクリックして下さい
+
+&lt;a name="dontshowagain"&gt;次からは表示しない&lt;/a&gt;</value>
+  </data>
+  <data name="msgDefaultStageResolutionWarning AVerMedia H.264 Encoder" xml:space="preserve">
+    <value>解像度/フレームレートの設定はアカウントに保存されない為、ログインする度に設定する必要があります。</value>
+  </data>
+  <data name="chkWinXPSound" xml:space="preserve">
+    <value>WinXPサウンドを使用する</value>
+  </data>
+  <data name="msgLicenseOffer_libh264aver" xml:space="preserve">
+    <value>AVerMedia c985 Live Gamerキャプチャーカードがワークステーションにインストールされています。ハードウェアエンコーダのビルドを利用可能です。この機能はプレミアムユーザーのみ利用可能です。プレミアムライセンスへのアップグレードを検討して下さい
+
+
+ライセンスをアップグレードしますか？</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgLicenseOffer_libh264aver1" xml:space="preserve">
+    <value>お使いのライセンスは{0}キャプチャーカードのビルトインエンコーダの使用許可がありません。デフォルトの{1}エンコーダに切り替えます</value>
+  </data>
+  <data name="msgNoNetNoLocal" xml:space="preserve">
+    <value>XSplitはインターネット接続を検出出来ませんでした。このコンピューターから初めてログインする場合はインターネットに接続する必要があります。</value>
+  </data>
+  <data name="msgMaintModeHasLocal" xml:space="preserve">
+    <value>{0} XSplitはオフラインモードでの接続を続行します。XSplitサーバーへの接続を要求しないほとんどの機能が使用できます。</value>
+    <comment>do not translate</comment>
+  </data>
+  <data name="msgMaintModeNoLocal" xml:space="preserve">
+    <value>{0}このコンピューターで初めてログインする場合はXSplitサーバーへの接続が必要です。後で再試行して下さい。</value>
+    <comment>do not translate</comment>
+  </data>
+  <data name="PreviewMain_confApplyPreviewToActual" xml:space="preserve">
+    <value>プレビューシーンのコンテンツを実際のシーンに適用しますか？</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromFile" xml:space="preserve">
+    <value>プレビューシーンは変更されました。変更を破棄してプレビューウィンドウに保存されたファイルのコンテンツを読み込みますか？</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromFile_InvalidSceneFile" xml:space="preserve">
+    <value>シーンファイルが有効ではありません</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromScene" xml:space="preserve">
+    <value>現在のシーンを変更し、別のシーンに以降しようとしております。「{0}」の変更を適用しますか。</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_Revert" xml:space="preserve">
+    <value>プレビューシーンは変更されました。変更を破棄して実際のシーンコンテンツに戻りますか？</value>
+  </data>
+  <data name="PreviewMain_confSavePreviewBeforeClose" xml:space="preserve">
+    <value>プレビューシーンは変更されました。終了する前に実際のシーンに変更を適用しますか？</value>
+  </data>
+  <data name="PreviewMain_confPreviewGoLive" xml:space="preserve">
+    <value>プレビューシーンをライブにしますか？</value>
+  </data>
+  <data name="PreviewPIP_msgBottom" xml:space="preserve">
+    <value>プレビューウィンドウで編集するにはシーンボタンを右クリックして下さい</value>
+  </data>
+  <data name="PreviewPIP_msgTop" xml:space="preserve">
+    <value> "{0}"のスナップショット</value>
+  </data>
+  <data name="btnPosCropEasyCrop_Tooltip" xml:space="preserve">
+    <value>このツールは一時的にビューポートを実際のサイズにして、使用中にビデオアイテムの3Dポジションの設定をリセットします</value>
+  </data>
+  <data name="msgAddinLoadedFromPreviosSession" xml:space="preserve">
+    <value>現在のXSplitセッションに読み込まれたいくつかのプラグインはユーザーアカウントで使用できません。アカウントに関連付けられたプラグインを再読み込みするには、XSplitを再起動して下さい。</value>
+  </data>
+  <data name="StartStreamLicenseNotice_Watermarked" xml:space="preserve">
+    <value> {0}へのストリーミングはXSpliライセンスが必要です。ウォーターマークが有効になっています</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="StartStreamLicenseNotice_Disallowed" xml:space="preserve">
+    <value> {0}へのストリーミングはXSpliライセンスが必要です
+
+ライセンスを購入しますか？</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaintMode" xml:space="preserve">
+    <value>XSplitはメンテナンスモードで起動しています</value>
+  </data>
+  <data name="msgFinalizingRecordings" xml:space="preserve">
+    <value>最近のレコーディングは現在確定中です。ファイルサイズによってはこのプロセスは数分間かかる可能性があります。
+
+このプロセスを終了してもメディアプレイヤーソフトウェアでレコーディングの再生はできますが、ビデオサイトにアップロードする際に再プロセスする必要があります。
+
+確定作業を終了しますか？</value>
+  </data>
+  <data name="tsmiAddAudioDevice" xml:space="preserve">
+    <value>オーディオ(&amp;A)</value>
+  </data>
+  <data name="tsmiAddAudioDevice2" xml:space="preserve">
+    <value>オーディオ(&amp;A)</value>
+  </data>
+  <data name="msgFinalizeRecordingFileStarted" xml:space="preserve">
+    <value>{0}の後処理が開始しました</value>
+  </data>
+  <data name="msgFinalizeRecordingFileFinished" xml:space="preserve">
+    <value>{0}の後処理が終了しました</value>
+  </data>
+  <data name="msgResponseProcessingFailedHasLocal" xml:space="preserve">
+    <value>XSplitにログインできません
+
+{0}にログインの際にエラーが発生しました。
+
+この問題が解決しない場合はファイルログを添付してsupport@xsplit.comにご連絡下さい
+
+XSplitはほとんどの機能が利用可能なオフラインモードでログインします</value>
+  </data>
+  <data name="msgResponseProcessingFailedNoLocal" xml:space="preserve">
+    <value>XSplitにログインできません
+
+{0}にログインの際にエラーが発生しました。
+
+この問題が解決しない場合はファイルログを添付してsupport@xsplit.comにご連絡下さい</value>
+  </data>
+  <data name="msgStreamResolutionIsNotSupportedResolution" xml:space="preserve">
+    <value>ハードウェアエンコーダは現在のステージ解像度をサポートしていません
+ビデオはサポートされた解像度に最も近いものを使ってエンコードされます(品質は低下しません)
+
+詳細は&lt;a href="{0}"&gt;XSplit documentation&lt;/a&gt;を参照して下さい</value>
+  </data>
+  <data name="msgUpdateCheckOffline" xml:space="preserve">
+    <value>オフラインモードではアップデートの確認は出来ません</value>
+  </data>
+  <data name="msgLatestNewsFailedLoadDoc" xml:space="preserve">
+    <value>利用可能なニュースはありません</value>
+  </data>
+  <data name="msgGeneralGameSourceConflict" xml:space="preserve">
+    <value>次のプロセスはXSplitにおいて問題があります。XSplitの機能が適切に作動していなければプロセスを終了して下さい
+
+{0}</value>
+  </data>
+  <data name="msgDroppedFrameThresholdHit" xml:space="preserve">
+    <value>フレーム落ちが検出されました。ストリーミングの品質に影響が出る可能性があります。
+
+この問題を精査するには&lt;a href="https://xspl.it/bc/tz7q3i" name="learnmore"&gt;こちらをクリック&lt;/a&gt; して下さい</value>
+  </data>
+  <data name="msgRecordingsAbortedOnDiskFullError" xml:space="preserve">
+    <value>レコーディングが停止しました。ディスクに空き容量があるか確認して下さい</value>
+  </data>
+  <data name="msgRecordingsAbortedOnDiskFull" xml:space="preserve">
+    <value>レコーディングを開始出来ません。ディスクに空き容量があるか確認して下さい</value>
+  </data>
+  <data name="msgRecordingsStoppedOnInsufficientDiskSpace" xml:space="preserve">
+    <value>レコーディングが停止しました。少なくとも{0}以上の空き容量があるか確認して下さい</value>
+  </data>
+  <data name="msgRecordingsAbortedOnInsufficientDiskSpace" xml:space="preserve">
+    <value>レコーディングが開始できません。少なくとも{0}以上の空き容量があるか確認して下さい</value>
+  </data>
+  <data name="chkScrCapMethod1" xml:space="preserve">
+    <value>特別な最適化の適用</value>
+  </data>
+  <data name="chkScrCapOptCapture1" xml:space="preserve">
+    <value>ウィンドウキャプチャの最適化</value>
+  </data>
+  <data name="lblScrCapMethod1Hint" xml:space="preserve">
+    <value>（実験的）</value>
+  </data>
+  <data name="lblScrCapOptCapture1" xml:space="preserve">
+    <value>(Aeroテーマでのみ動作します）</value>
+  </data>
+  <data name="BandwidthTesterCountdown" xml:space="preserve">
+    <value>帯域幅テスター - 残り{0}秒</value>
+  </data>
+  <data name="chkScrCapMethod0" xml:space="preserve">
+    <value>レガシーモード</value>
+  </data>
+  <data name="showViewportToolStripMenuItem" xml:space="preserve">
+    <value>ビューポートの表示</value>
+  </data>
+  <data name="lblGameSurfSharing" xml:space="preserve">
+    <value>（実験的）</value>
+  </data>
+  <data name="hideViewportToolStripMenuItem" xml:space="preserve">
+    <value>ビューポートを隠す</value>
+  </data>
+  <data name="AAC LC HQ_Tooltip" xml:space="preserve">
+    <value>AAC　Low Complexity　中-高ビットレート</value>
+  </data>
+  <data name="AAC LC LQ_Tooltip" xml:space="preserve">
+    <value>AAC Low Complexity低ビットレート</value>
+  </data>
+  <data name="Speex_Tooltip" xml:space="preserve">
+    <value>スピード</value>
+  </data>
+  <data name="MP3_Tooltip" xml:space="preserve">
+    <value>MP3</value>
+  </data>
+  <data name="btnColorChromaEyedropCK_Tooltip" xml:space="preserve">
+    <value>削除したい　色相/色　を選択して下さい</value>
+  </data>
+  <data name="picColorChromaHueCK_Tooltip" xml:space="preserve">
+    <value>削除したい　色相/色</value>
+  </data>
+  <data name="picColorChromaRangeCK_Tooltip" xml:space="preserve">
+    <value>選択した色相/色 (色相/色の範囲) の許容マージン</value>
+  </data>
+  <data name="picColorChromaRangeAlphaCK_Tooltip" xml:space="preserve">
+    <value>アルファスムースエッジ(削除されたエリアの端をなめらかにします)</value>
+  </data>
+  <data name="picColorChromaSatCK_Tooltip" xml:space="preserve">
+    <value>この彩度以下のピクセルをクロマで除外する(ノイズ補正)</value>
+  </data>
+  <data name="picColorChromaBrightnessCK_Tooltip" xml:space="preserve">
+    <value>この明るさ以下のピクセルをクロマで除外する(ノイズ補正)</value>
+  </data>
+  <data name="lblChannel" xml:space="preserve">
+    <value>チャンネル:</value>
+  </data>
+  <data name="lblNACodec" xml:space="preserve">
+    <value>Codec</value>
+  </data>
+  <data name="lblNAudioBitrate" xml:space="preserve">
+    <value>Bitrate (kbps)</value>
+  </data>
+  <data name="lblNAudioFormat" xml:space="preserve">
+    <value>Format</value>
+  </data>
+  <data name="lblNBuffer1" xml:space="preserve">
+    <value>VBV Buffer</value>
+  </data>
+  <data name="lblNBuffer2" xml:space="preserve">
+    <value>(kbit)</value>
+  </data>
+  <data name="lblNCodec" xml:space="preserve">
+    <value>Codec</value>
+  </data>
+  <data name="lblNExtra" xml:space="preserve">
+    <value>Extra Param</value>
+  </data>
+  <data name="lblNMaxBitrate_CBR" xml:space="preserve">
+    <value>Bitrate (kbps)</value>
+  </data>
+  <data name="lblNMaxBitrate_VBR" xml:space="preserve">
+    <value>Max Bitrate (kbps)</value>
+  </data>
+  <data name="lblNMaxKeyint1" xml:space="preserve">
+    <value>Keyframes</value>
+  </data>
+  <data name="lblNMaxKeyint2" xml:space="preserve">
+    <value>(secs)</value>
+  </data>
+  <data name="lblNPreset" xml:space="preserve">
+    <value>Preset</value>
+  </data>
+  <data name="lblNQuality" xml:space="preserve">
+    <value>クオリティ</value>
+  </data>
+  <data name="lblNResolution" xml:space="preserve">
+    <value>ビデオのサイズ</value>
+  </data>
+  <data name="lblNVExtra_NoData" xml:space="preserve">
+    <value>データがありません</value>
+  </data>
+  <data name="lblNVExtra_WithData" xml:space="preserve">
+    <value>データと共に</value>
+  </data>
+  <data name="lblQMode" xml:space="preserve">
+    <value>モード</value>
+  </data>
+  <data name="lblStrictCBR" xml:space="preserve">
+    <value>Strict CBR</value>
+  </data>
+  <data name="lblTestBW" xml:space="preserve">
+    <value>帯域幅テスト</value>
+  </data>
+  <data name="lblVideoEncoding" xml:space="preserve">
+    <value>ビデオのエンコード</value>
+  </data>
+  <data name="lblAudioEncoding" xml:space="preserve">
+    <value>オーディオのエンコード</value>
+  </data>
+  <data name="chkCBR" xml:space="preserve">
+    <value>ストリクトCBRの適用</value>
+  </data>
+  <data name="lblDefault" xml:space="preserve">
+    <value>復元</value>
+  </data>
+  <data name="lblExtra" xml:space="preserve">
+    <value>エクストラエンコーダーパラメーター</value>
+  </data>
+  <data name="lblKeyInt" xml:space="preserve">
+    <value>最大キーフレーム間隔 (秒):</value>
+  </data>
+  <data name="lblPreset2" xml:space="preserve">
+    <value>エンコーダーのプリセット：</value>
+  </data>
+  <data name="lblVecTitle" xml:space="preserve">
+    <value>ビデオのエンコード設定</value>
+  </data>
+  <data name="rb1_Audio" xml:space="preserve">
+    <value>オーディオ</value>
+  </data>
+  <data name="msgSwitchingToRE2" xml:space="preserve">
+    <value>お使いのグラフィックハードウェアはD3D 11 level 10.1をサポートしていません。XSplitは既存のレンダリングエンジンを使用します</value>
+  </data>
+  <data name="msgCloseWhileStreaming" xml:space="preserve">
+    <value>ストリーミング/レコーディングがアクティブです。ログアウト/退出しますか？</value>
+  </data>
+  <data name="chkEnhanceResize" xml:space="preserve">
+    <value>リサイズの向上</value>
+  </data>
+  <data name="chkEnableEvrMf" xml:space="preserve">
+    <value>最適なレンダリングを有効にする</value>
+  </data>
+  <data name="chkEnableEvrMf_Tooltip" xml:space="preserve">
+    <value>このオプションはほとんどのシステムのパフォーマンスを向上させます
+次のXSplitの大規模リリースの際に、デフォルトで搭載される予定です</value>
+  </data>
+  <data name="lblEnableEvrMfHint" xml:space="preserve">
+    <value>(実験的です、再起動して下さい)</value>
+  </data>
+  <data name="lblEnableEvrMfHint_Tooltip" xml:space="preserve">
+    <value>このオプションはほとんどのシステムのパフォーマンスを向上させます
+次のXSplitの大規模リリースの際に、デフォルトで搭載される予定です</value>
+  </data>
+  <data name="BwTester_Autosel" xml:space="preserve">
+    <value>最適なサーバーを決定しています...</value>
+  </data>
+  <data name="BwTester_Autosel1" xml:space="preserve">
+    <value>{0} に生放送を行おうとしております</value>
+  </data>
+  <data name="lblHotkeyWarning" xml:space="preserve">
+    <value>ゲーム内や他のアプリケーションの使用中であっても、ホットキーを使用して、シーンの切り替えやその他のコマンドが利用可能です</value>
+  </data>
+  <data name="GlobalHotkeyWarningText" xml:space="preserve">
+    <value>XSplitのホットキーは他のアプリケーションから起動できます。起動している他のアプリケーションやゲームのコマンドとXSplitのホットキーが重複していないことを確認して下さい</value>
+  </data>
+  <data name="WarningTitle" xml:space="preserve">
+    <value>Warning</value>
+  </data>
+  <data name="InformationTitle" xml:space="preserve">
+    <value>インフォメーション</value>
+  </data>
+  <data name="BroadcastStatus_Live" xml:space="preserve">
+    <value>ライブストリーミング{0}</value>
+  </data>
+  <data name="BroadcastStatus_SendingFrames" xml:space="preserve">
+    <value>フレームを送信中{0}</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally" xml:space="preserve">
+    <value>ローカルレコーディング中</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally2" xml:space="preserve">
+    <value>Recording {0}</value>
+  </data>
+  <data name="removeChannelsToolStripMenuItem" xml:space="preserve">
+    <value>チャンネルの削除...</value>
+  </data>
+  <data name="removeChannelsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>出力を削除する</value>
+  </data>
+  <data name="msgUncPathIsNotSupported" xml:space="preserve">
+    <value>ネットワークフォルダはサポートされていません。ネットワークフォルダをドライブにマッピングし、レコーディングロケーションを設定して下さい</value>
+  </data>
+  <data name="lblDecklinkPlayoutIntro" xml:space="preserve">
+    <value>Decklinkプレイアウトでは、XSplitビデオとオーディオがBlackmagic Design Decklinkキャプチャーカードに直接、ブロードキャスト/再生できます。HDMIフィードをXSplitビデオとオーディオで出力するのにこの機能を使用して下さい</value>
+  </data>
+  <data name="lblDecklinkPlayoutTo" xml:space="preserve">
+    <value>再生：</value>
+  </data>
+  <data name="lblDecklinkPlayoutResFps" xml:space="preserve">
+    <value>サポートされた解像度とフレームレート
+{0}
+
+XSplitの解像度とフレームレートはBlackmagic Media Expressのビデオフォーマットと一致していなければなりません。
+
+バーチャルカメラを有効にしてください　ツール&gt;一般設定</value>
+  </data>
+  <data name="msgLicenseOffer_libh264qs" xml:space="preserve">
+    <value>QuickSyncエンコーダは{0}ライセンス所有のユーザーのみ利用可能です。現在のライセンスのアップグレードを検討して下さい
+
+ライセンスをアップグレードしますか？</value>
+  </data>
+  <data name="msgLicenseOffer_libh264qsext" xml:space="preserve">
+    <value>QuickSyncエンコーダは{0}ライセンス所有のユーザーのみ利用可能です。現在のライセンスのアップグレードを検討して下さい
+
+ライセンスをアップグレードしますか？</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_SCENECUR" xml:space="preserve">
+    <value>現在のシーン</value>
+  </data>
+  <data name="msgLicenseOffer_AAC" xml:space="preserve">
+    <value>高品質のAAC オーディオの有効化はライセンス所有のユーザーのみ利用可能です。
+
+ライセンスをアップグレードしますか？</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgCantReconfigureYet" xml:space="preserve">
+    <value>ストリーミングの再コンフィグが出来ません。後で再試行して下さい</value>
+  </data>
+  <data name="lblEnterCaptcha" xml:space="preserve">
+    <value>コードを入力して下さい</value>
+  </data>
+  <data name="msgNotLiveForAnnounce" xml:space="preserve">
+    <value>ソーシャルネットワークにアナウンスする前にストリーミングを開始して下さい</value>
+  </data>
+  <data name="titleNotLiveForAnnounce" xml:space="preserve">
+    <value>ライブをしましょう！</value>
+  </data>
+  <data name="LocalStreamingNonPremiumNotice" xml:space="preserve">
+    <value>この機能はパーソナルまたはプレミアムライセンスのユーザーのみ利用可能です。[はい]をクリックしてライセンスを入手してXSplit Broadcasterの全機能を開放して下さい</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgSkypeVideoSourceBuyXSplitOffer" xml:space="preserve">
+    <value>この機能はパーソナルまたはプレミアムライセンスのユーザーのみ利用可能です。[はい]をクリックしてライセンスを入手してXSplit Broadcasterの全機能を開放して下さい</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="RoxioGameCaptureNotice" xml:space="preserve">
+    <value>この機能はパーソナルまたはプレミアムライセンスのユーザーのみ利用可能です。[はい]をクリックしてライセンスを入手してXSplit Broadcasterの全機能を開放して下さい</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="HauppaugeHdPvr2Notice" xml:space="preserve">
+    <value>この機能はパーソナルまたはプレミアムライセンスのユーザーのみ利用可能です。[はい]をクリックしてライセンスを入手してXSplit Broadcasterの全機能を開放して下さい</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="titleShareFailed" xml:space="preserve">
+    <value>共有失敗</value>
+  </data>
+  <data name="msgRecordingPathIsTooLong" xml:space="preserve">
+    <value>レコーディングパス{0}が長すぎます。レコーディングパスを短く設定して下さい</value>
+  </data>
+  <data name="msgGamesourceUpdateNeedsRestart" xml:space="preserve">
+    <value>XSplit Broadcasterはアップデートされたゲームキャプチャーコンポーネントを含みますが、古いコンポーネントが現在システムに読み込まれています。コンピューターとXSplit Broadcasterを再起動して下さい</value>
+  </data>
+  <data name="msgGamesourceCantLoadMayNeedRestart" xml:space="preserve">
+    <value>XSplit Broadcasterはゲームキャプチャーコンポーネントの読み込みの際に、異常な挙動を検出しました。再試行するか、コンピューターを再起動してシステムメモリーをリセットして下さい</value>
+  </data>
+  <data name="msgProfileSyncFailed" xml:space="preserve">
+    <value>以前のプロフィール設定のリクエストは拒否されました</value>
+  </data>
+  <data name="msgCantRemoveResolution" xml:space="preserve">
+    <value>選択した解像度は削除できません。まずは別の解像度を選択して下さい。</value>
+  </data>
+  <data name="msgCantDeleteChannel" xml:space="preserve">
+    <value>チャンネルを削除出来ません</value>
+  </data>
+  <data name="msgCantCreateRecordingFile" xml:space="preserve">
+    <value>レコーディングファイルを '{0}'に保存できません。そのフォルダに記録を行う権限があるか確認して下さい。</value>
+  </data>
+  <data name="activationReminderTitle" xml:space="preserve">
+    <value>確認</value>
+  </data>
+  <data name="msgStreamResolutionIsNotSupportedResolution1" xml:space="preserve">
+    <value>ハードウェアエンコーダは現在のステージ解像度をサポートしていません
+ビデオはサポートされた解像度に最も近いものを使ってエンコードされます(品質は低下しません)</value>
+  </data>
+  <data name="msgBwtestTerminated" xml:space="preserve">
+    <value>{0}帯域幅テストは終了しました
+チャンネル設定を確認して下さい</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally_Paused" xml:space="preserve">
+    <value>レコーディングが停止されました。{0} を押して続行して下さい</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally_Paused1" xml:space="preserve">
+    <value>録画一時停止</value>
+  </data>
+  <data name="WatermarkOn" xml:space="preserve">
+    <value>ウォーターマークオン</value>
+  </data>
+  <data name="CustomFramerateLabel1" xml:space="preserve">
+    <value>(カスタム設定...)</value>
+  </data>
+  <data name="PreviewWindow" xml:space="preserve">
+    <value>プレビューエディタ</value>
+  </data>
+  <data name="msgPausedRecordingWarning" xml:space="preserve">
+    <value>録画が一時停止されました。録画を再開する場合は {0} を押してください。
+
+録画を停止しますか？</value>
+  </data>
+  <data name="msgPausedRecordingWarning1" xml:space="preserve">
+    <value>録画が一時停止されました。録画を再開する場合は {1} メニューの {0} を押してください。
+
+録画を停止しますか？</value>
+  </data>
+  <data name="addGameAutoDetect" xml:space="preserve">
+    <value>自動検出</value>
+  </data>
+  <data name="addGameAutoDetect1" xml:space="preserve">
+    <value>ゲーム：自動検出</value>
+  </data>
+  <data name="lblNBuffer1_Tooltip" xml:space="preserve">
+    <value>VBV Buffer</value>
+  </data>
+  <data name="lblNExtra_Tooltip" xml:space="preserve">
+    <value>Extra Param</value>
+  </data>
+  <data name="lblNMaxKeyint1_Tooltip" xml:space="preserve">
+    <value>Keyframe Interval</value>
+  </data>
+  <data name="lblNPreset_Tooltip" xml:space="preserve">
+    <value>Preset</value>
+  </data>
+  <data name="lblNQuality_Tooltip" xml:space="preserve">
+    <value>クオリティ</value>
+  </data>
+  <data name="lblNResolution_Tooltip" xml:space="preserve">
+    <value>ビデオのサイズ</value>
+  </data>
+  <data name="lblStrictCBR_Tooltip" xml:space="preserve">
+    <value>Strict CBR</value>
+  </data>
+  <data name="runLogReportToolToolStripMenuItem" xml:space="preserve">
+    <value>問題を報告する...</value>
+  </data>
+  <data name="logoutToolStripMenuItem" xml:space="preserve">
+    <value>ログアウト</value>
+  </data>
+  <data name="growlStreamIsDelayed" xml:space="preserve">
+    <value>遅延を有効化しました。生放送を {0} 秒後に開始します...</value>
+  </data>
+  <data name="growlStreamIsDelayedStopping" xml:space="preserve">
+    <value>{0} の生放送は遅延する様設定されており、{1} 秒間データを送信し続けます...</value>
+  </data>
+  <data name="chkRecordStream_Tooltip" xml:space="preserve">
+    <value>遅延機能を使用していない限り、エンコードされた物のコピーを作成します。
+このファイルを視聴する事によりエンコード中にフレームドロップやラグなどがあったかなど確認できます。</value>
+  </data>
+  <data name="AddWebUrl" xml:space="preserve">
+    <value>ウェブページURLを追加する</value>
+  </data>
+  <data name="AddRtmpStream" xml:space="preserve">
+    <value>RTMP 放送を追加する</value>
+  </data>
+  <data name="AddScriptPlugin" xml:space="preserve">
+    <value>カスタム拡張を追加する</value>
+  </data>
+  <data name="lblAudioOut" xml:space="preserve">
+    <value>システムサウンド</value>
+  </data>
+  <data name="StopLocalRecording" xml:space="preserve">
+    <value>ローカル録画を停止する</value>
+  </data>
+  <data name="PauseLocalRecording" xml:space="preserve">
+    <value>ローカル録画を一時停止する</value>
+  </data>
+  <data name="ResumeLocalRecording" xml:space="preserve">
+    <value>ローカル録画を再開する</value>
+  </data>
+  <data name="msgMixerFpsNotSupportedByVideoCodec" xml:space="preserve">
+    <value>{0} はエンコード中は以下のフレームレートのみサポートします。
+
+{1}
+
+「フレームレート」メニューで出力フレームを合わせてください。</value>
+  </data>
+  <data name="msgVideoCodecMaxEncodeLimited" xml:space="preserve">
+    <value>現在 {0} は同時で最大 {1} のみエンコードできます。</value>
+  </data>
+  <data name="frmFeedback" xml:space="preserve">
+    <value>感想をぜひ聞かせて下さい！</value>
+  </data>
+  <data name="msgdiskwritefailure_recording" xml:space="preserve">
+    <value>あなたの録画ファイルはディスク書き込みエラーにより消去されました。</value>
+  </data>
+  <data name="msgdiskwritefailure_streaming" xml:space="preserve">
+    <value>ディスクへの保存はディスク書き込みエラーにより中止されましたが、生放送は中止されず続けます。</value>
+  </data>
+  <data name="msgRE2ParameterWarning" xml:space="preserve">
+    <value>「{0}」exe パラメーターが検出されました。このオプションはもう推奨されていません。</value>
+  </data>
+  <data name="growlMinAvailMemWarning" xml:space="preserve">
+    <value>XSplitが高メモリを使用しており、不安定な結果を招く可能性があります。非表示/使用していないソースもメモリを使用します。この問題を解消するにはプレゼンテーションのソースをいくつか消去する事を推奨します。
+
+詳細については&lt;a href="{0}" name="memstats" &gt;こちら&lt;/a&gt;のブログの記事を参照にしてください。</value>
+  </data>
+  <data name="growlD3dOnIntelWarning" xml:space="preserve">
+    <value>インテル ® HD グラフィックスで XSplit を実行しています。安定性とパフォーマンスを求めるには、専用の Nvidia または Radeon クラスの GPU をお勧めします。</value>
+  </data>
+  <data name="growlD3dOnIntelWarningHasOtherGPUOnDesktop" xml:space="preserve">
+    <value>プライマリモニターがインテルHD GPUに接続されています。安定性とパフォーマンスの為には専用のNvideiaまたはRadeonクラスのGPUにプライマリモニターを接続することをお勧めします。
+
+詳細については&lt;a href="https://xspl.it/bhg75v" name="learnmore"&gt;こちら&lt;/a&gt;のリンクを参照にしてください。</value>
+  </data>
+  <data name="growlMp4FinalizationFailed" xml:space="preserve">
+    <value>「{0}」のレコーディングのディフラグメンテーションを完了する事ができませんでした。
+
+ファイルメニュー→マイレコーディングへ行き、ファイルを右クリックしファイルを修復する必要があるかもしれません。</value>
+  </data>
+  <data name="growlRestartingWithEncoderError" xml:space="preserve">
+    <value>エンコードに失敗しましたので再起動します。詳細については&lt;a href="https://xspl.it/err/{2}"&gt;こちら&lt;/a&gt;をお読みください。対象ファイルの「{0}」は「{1}」に改名されました。</value>
+  </data>
+  <data name="growlRestartingWithEncoderError2" xml:space="preserve">
+    <value>エンコードに失敗しましたので再起動します。詳細については&lt;a href="https://xspl.it/err/{1}"&gt;こちら&lt;/a&gt;をお読みください。対象ファイルの「{0}」は上書き保存されます</value>
+  </data>
+  <data name="growlDesktopCaptureOnAeroWarning" xml:space="preserve">
+    <value>AeroでのデスクトップキャプチャはXSplitのパフォーマンスに影響を与える可能性がある為、お勧めできません。デスクトップキャプチャーを必要とするのであれば、テーマをWindows７のベーシックに変更してください。詳細は&lt;a name="readmore" href="https://xspl.it/bc/jn2qeo"&gt;こちら&lt;/a&gt;をお読みください。
+
+&lt;a name="dontshowagain"&gt;次回は表示しない。&lt;/a&gt;</value>
+  </data>
+  <data name="msgStreamingUnsupportedVideoCodec1" xml:space="preserve">
+    <value>{0} の生放送は終了しました。{1} のキャプチャ/エンコーダー機能が他のプログラムに使用されていないか確認してください。</value>
+  </data>
+  <data name="msgConfirmStreamingCodecInStage" xml:space="preserve">
+    <value>{0} はキャプチャソースとして使用されている間のハードウェアエンコードはサポートされていません。ハードウェアエンコーダーを使用するにはまず各シーンからキャプチャソースを解除してください。デフォルト {1} コーデックへ切り替えますか？
+
+キャプチャカードの {0} のトラブルシューティングの詳細に関してましては「ヘルプ」ボタンをクリックしてください。</value>
+  </data>
+  <data name="msgStreamingUnsupportedVideoCodec2Confirm" xml:space="preserve">
+    <value>カード {0} は一つずつのチャンネルのエンコードのみ対応しており、{1} は既にチャンネル {2} で使用されております。既定のコーデック {3} に切り替えまか？
+
+キャプチャカード {0} の使用方法やトラブルシューティングなどの詳細に関してましては「ヘルプ」ボタンをクリックしてください。</value>
+  </data>
+  <data name="msgCefGpuRendererStateChangedWarning" xml:space="preserve">
+    <value>GPUのレンダリング状態の変更が検出されました。 最適化する為XSplit Broadcasterを再起動します。</value>
+  </data>
+  <data name="volumeRange" xml:space="preserve">
+    <value>音声範囲 (%)： {0}</value>
+  </data>
+  <data name="goLiveAndCloseSceneEditorTsmi" xml:space="preserve">
+    <value>プレビューウィンドウを閉じる</value>
+  </data>
+  <data name="goLiveAndReloadSceneEditor" xml:space="preserve">
+    <value>プレビューウィンドウを再度読み込む</value>
+  </data>
+  <data name="goLiveAndSwapLiveWithSceneEditor" xml:space="preserve">
+    <value>プレビューシーンとライブシーンを取り替える</value>
+  </data>
+  <data name="goLiveAndSwitchSceneEditor" xml:space="preserve">
+    <value>プレビューウィンドウシーンを変更する</value>
+  </data>
+  <data name="goLiveAndSwitchToLiveSceneEditor" xml:space="preserve">
+    <value>ライブシーン</value>
+  </data>
+  <data name="goLiveAndSwitchToLiveSceneSplit" xml:space="preserve">
+    <value>ライブシーン</value>
+  </data>
+  <data name="growlNonDefaultStreamResFpsXbc5003" xml:space="preserve">
+    <value>あなたは現在のステージ解像度/フレームレート ({1}) ではない解像度/フレームレート({0}) で録画/放送をする事を選択しました。出力プラグイン設定ウィンドウのビデオエンコーディング部分で解像度/フレームレートを規定値に設定する事ができます。</value>
+  </data>
+  <data name="growlNonDefaultStreamResFps" xml:space="preserve">
+    <value>あなたは現在のステージ解像度/フレームレート ({1}) ではない解像度/フレームレート({0}) で録画/放送をする事を選択しました。放送プラグイン設定ウィンドウのビデオエンコーディング部分で解像度/フレームレートを規定値に設定する事ができます。</value>
+  </data>
+  <data name="growlNonDefaultStreamResFpsForInvalidLicense" xml:space="preserve">
+    <value>あなたは現在のステージ解像度/フレームレート ({1}) ではない解像度/フレームレート({0}) で録画/放送をする事を選択しました。</value>
+  </data>
+  <data name="chkStreamDelay" xml:space="preserve">
+    <value>放送の遅延を有効にする</value>
+  </data>
+  <data name="lblStreamDelay" xml:space="preserve">
+    <value>秒</value>
+  </data>
+  <data name="msgNonDefaultStreamAspectRatioDifferent" xml:space="preserve">
+    <value>{0} に設定されているビデオサイズのアスペクト非が現在のステージ解像度のアスペクト非と異なります。ステージ解像度を {1} のビデオサイズに合わせますか？</value>
+  </data>
+  <data name="msgNonDefaultStreamResLarger" xml:space="preserve">
+    <value>{1} の設定で指定されている {0} のビデオサイズが現在のステージ解像度より大きく設定されています。ビデオサイズに合わせるためにステージ解像度を変更しますか？</value>
+  </data>
+  <data name="transitionSpeedTsmi" xml:space="preserve">
+    <value>トランジション速度</value>
+  </data>
+  <data name="favTransitionAddTip" xml:space="preserve">
+    <value>お好みのトランジションを追加するには、左にあるトランジションと速度を設定し、星アイコンをクリックしてください。</value>
+  </data>
+  <data name="favTransitionMaxTip" xml:space="preserve">
+    <value>お気に入りのトランジションの最大許容範囲に達しました。お気に入りを消去すれば、その分再度お気に入りを追加する事ができます。</value>
+  </data>
+  <data name="favTransitionShortcutTip" xml:space="preserve">
+    <value>ショートカット：シーンを切り替えながらシーンのボタンを右クリックする事により、新たなトランジションを設定する事ができます。</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_FAVTRANSADD" xml:space="preserve">
+    <value>お気に入りのトランジションに追加する</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_FAVTRANSLIST" xml:space="preserve">
+    <value>お気に入りトランジションを開く</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GOLIVELIST" xml:space="preserve">
+    <value>プッシュライブオプションを開く</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SCENELIST" xml:space="preserve">
+    <value>シーン切り替え</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_TRANSLIST" xml:space="preserve">
+    <value>トランジション効果と速度を設定する</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_SCENESRC" xml:space="preserve">
+    <value>切り替え(&amp;T)</value>
+  </data>
+  <data name="favTransitionAddTip1" xml:space="preserve">
+    <value>お気に入りトランジションへのショートカットが空です。トランジションをお気に入りに追加するには、上の星のアイコンをクリックしてください。</value>
+  </data>
+  <data name="msgAskToBackupPresDueToNewSceneIndexes" xml:space="preserve">
+    <value>XSplit Broadcasterはクリックとドラッグによるシーンの並び変えをする事が出来、シーン表示が左から右の順に表示される様になりました。この事により、あなたのシーンボタンの配置が変更されましたが、こちらはお好みのレイアウトへドラッグ&amp;ドロップで再び並び替える事ができます。シーンの並び替えを行った後はホットキーの調整もお忘れずに！</value>
+  </data>
+  <data name="msgFunctionUnavailableDueToClosedPort" xml:space="preserve">
+    <value>ポート {0} が閉じている為、こちらの機能は使用できません。</value>
+  </data>
+  <data name="AutoSetup" xml:space="preserve">
+    <value>チャンネル設定ウィザード</value>
+  </data>
+  <data name="btnRedoTest" xml:space="preserve">
+    <value>テストを再実行する</value>
+  </data>
+  <data name="colComputerHw" xml:space="preserve">
+    <value>コンピューターのハードウェア</value>
+  </data>
+  <data name="colReqUpload" xml:space="preserve">
+    <value>必要なアップロード</value>
+  </data>
+  <data name="colResolution" xml:space="preserve">
+    <value>解像度:</value>
+  </data>
+  <data name="lblLegendText" xml:space="preserve">
+    <value>推奨される設定</value>
+  </data>
+  <data name="lnkLogs" xml:space="preserve">
+    <value>ログを表示する</value>
+  </data>
+  <data name="scriptAddTsmi" xml:space="preserve">
+    <value>拡張ファイルを追加...</value>
+  </data>
+  <data name="moreExtensionsToolStripMenuItem" xml:space="preserve">
+    <value>拡張機能をもっと見つける</value>
+  </data>
+  <data name="scriptEditorTsmi" xml:space="preserve">
+    <value>拡張</value>
+  </data>
+  <data name="scriptRemoveTsmi" xml:space="preserve">
+    <value>拡張を消去する</value>
+  </data>
+  <data name="msgSettingsSaved_RestartNeeded" xml:space="preserve">
+    <value>以下の設定を有効化にするにはXSplitを再起動しなくてはいけません。[table]設定|現在値|新しい値[/table]今すぐ再起動しますか？</value>
+  </data>
+  <data name="msgOSCompatiblityModeWarning" xml:space="preserve">
+    <value>XSplit が、XSplit.core.exe の設定が Windows の古いバージョンの互換モードで起動している事を検出しました。レガシー互換モードでXSplitを起動する事はサポートされていなく、予期せぬ動作不良が起こる可能性があります。( 変更方法は&lt;a href="https://xspl.it/tpyg23"&gt; こちら&lt;/a&gt;を参照してください)。</value>
+  </data>
+  <data name="growlHighCpuUsageWarning" xml:space="preserve">
+    <value>高い CPU 使用率が検出されました。その為、パフォーマンスに問題が発生する可能性があります。</value>
+  </data>
+  <data name="growlPowerSchemeWarning" xml:space="preserve">
+    <value>電源オプションを「{0}」に設定することをお勧めします。電源オプションは &lt;a name="open-powercfg"&gt; こちら&lt;/a&gt;をクリックすると開きます。</value>
+  </data>
+  <data name="msgEVRWarning" xml:space="preserve">
+    <value>プロダクションには推奨されていないカスタム/試作 exe パラメーターを使用しています。</value>
+  </data>
+  <data name="msgFeatureRequiresMFP" xml:space="preserve">
+    <value>この機能は、このバージョンのWindowsのメディア機能パックが必要です。[こちら]({0}) をクリックし、ダウンロード、インストールしてください。</value>
+  </data>
+  <data name="enableHardwareAccelerateUSB2" xml:space="preserve">
+    <value>USB2キャプチャデバイスにはハードウェアアクセラレーションを使用する</value>
+  </data>
+  <data name="enableMFEngine" xml:space="preserve">
+    <value>ビデオ再生にはハードウェアアクセラレーションを使用する</value>
+  </data>
+  <data name="BroadcasterTriggerAds" xml:space="preserve">
+    <value>広告を開始する - {0}</value>
+  </data>
+  <data name="enableDeveloperMode" xml:space="preserve">
+    <value>開発者モードを有効にする</value>
+  </data>
+  <data name="msgRemoteDebugPortIsBusy" xml:space="preserve">
+    <value>開発者モードを有効にされておりますがデバッグ ポート {0} が他で使用されております。プラグインのデバッグを行いたい場合は、"remotedebug:&lt;port number&gt;"をスタートアップ argument に追加し、別ポートの設定を行ってください。
+
+開発者モードは低セキュリティのデバッグモードですので、プロダクションまたは通常使用する場合は推奨されません。開発者モードを無効にするには　ツール＞全体設定＞&lt;a name="open-advanced-settings"&gt;詳細&lt;/a&gt;　を選択してください。</value>
+  </data>
+  <data name="msgRemoteDebugPortIsOkay" xml:space="preserve">
+    <value>開発者モードが有効化され、デバッグポート {0} を使用しております。
+
+開発者モードは低セキュリティのデバッグモードですので、プロダクションまたは通常使用する場合は推奨されません。開発者モードを無効にするには ツール＞全体設定＞&lt;a name="open-advanced-settings"&gt;詳細&lt;/a&gt; を選択してください。</value>
+  </data>
+  <data name="msgNoNetNoValidLocal" xml:space="preserve">
+    <value>インターネット接続と有効なローカルプロファイル、XSplit が検出できませんでした。続行するには、インターネットに接続する必要があります。</value>
+  </data>
+  <data name="msgInvalidSocialAccountInfo" xml:space="preserve">
+    <value>現在のソーシャルアカウントのログイン情報が無効になっております、再度ログインし直してください。</value>
+  </data>
+  <data name="lblAdapter" xml:space="preserve">
+    <value>アダプター</value>
+    <comment>XBC plugins-wide; Properties</comment>
+  </data>
+  <data name="lblNetworkConnection" xml:space="preserve">
+    <value>ネットワーク接続</value>
+    <comment>XBC plugins-wide; Properties</comment>
+  </data>
+  <data name="btnSetupWizard" xml:space="preserve">
+    <value>設定ウィザード...</value>
+    <comment>Plugins with wizard feature (i.e. Dailymotion, Hitbox, Twitch, Ustream); Properties</comment>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>アカウントがない方はこちらから登録してください。</value>
+    <comment>XBC plugins-wide (default value); Properties</comment>
+  </data>
+  <data name="lblNic_System" xml:space="preserve">
+    <value>システムに決定させる</value>
+  </data>
+  <data name="msgCarbonCopyTerminatedDueToDiskWriteFailure" xml:space="preserve">
+    <value>ディスクへの保存はディスク書き込みエラーにより中止されましたが、生放送は中止されず続けます。</value>
+  </data>
+  <data name="msgRecordingTerminatedDueToDiskWriteFailure" xml:space="preserve">
+    <value>あなたの録画ファイルはディスク書き込みエラーにより消去されました。</value>
+  </data>
+  <data name="msgDeckLinkPlayoutStopped_PossiblyUnplugged" xml:space="preserve">
+    <value>デバイスの接続が切断された可能性により、{0}のプレイアウトが中止されました。</value>
+  </data>
+  <data name="msgBMWDMRecommended" xml:space="preserve">
+    <value>ソースの{0}はプレゼンテーションに使用されています。このソースを削除し、Blackmagic WDM Captureソース (デスクトップドライバーバージョン 10.5.3+をお勧めします）を変わりに追加する事をお勧めします。</value>
+  </data>
+  <data name="msgDecklinkPlayoutAborted" xml:space="preserve">
+    <value>{0}のストリームが中断されました。{0}が正しく設定されていて、デバイスが正常に動作しているかご確認ください。新しく接続したデバイスにはXSplitを再起動する必要があるかもしれません。</value>
+  </data>
+  <data name="lblDisabled" xml:space="preserve">
+    <value>無効になっています</value>
+  </data>
+  <data name="lblEnabled" xml:space="preserve">
+    <value>有効になっています</value>
+  </data>
+  <data name="enableNativeFlashAndBrowserAudio" xml:space="preserve">
+    <value>ネイティブFlashとブラウザーの音声コントロールを有効にする</value>
+  </data>
+  <data name="upgradeExtendLicenseToolStripMenuItem" xml:space="preserve">
+    <value>ライセンスをアップグレード/延長する</value>
+  </data>
+  <data name="upgradeExtendLicenseToolStripMenuItem2" xml:space="preserve">
+    <value>ライセンスを購入する</value>
+  </data>
+  <data name="screenshotsToolStripMenuItem" xml:space="preserve">
+    <value>マイスクリーンショット</value>
+  </data>
+  <data name="btnDeleteChannel" xml:space="preserve">
+    <value>この出力を削除する</value>
+  </data>
+  <data name="titleDeleteChannel" xml:space="preserve">
+    <value>出力を削除する</value>
+  </data>
+  <data name="pbNetworkConnection_Tooltip" xml:space="preserve">
+    <value>この出力の為に特定のネットワークアダプターを使用するには設定→上級に行き「出力にネットワークアダプターを指定させる」を有効にして、下記からアダプターを選択してください。</value>
+  </data>
+  <data name="executeCustomURLToolStripMenuItem" xml:space="preserve">
+    <value>カスタムURIを実行する...</value>
+  </data>
+  <data name="pluginStoreToolStripMenuItem" xml:space="preserve">
+    <value>プラグインストア</value>
+  </data>
+  <data name="myPluginsToolStripMenuItem" xml:space="preserve">
+    <value>マイプラグイン</value>
+  </data>
+  <data name="deleteSceneToolStripMenuItem" xml:space="preserve">
+    <value>シーンを削除する</value>
+  </data>
+  <data name="duplicateSceneToolStripMenuItem" xml:space="preserve">
+    <value>シーンを複製する</value>
+  </data>
+  <data name="loadSceneToolStripMenuItem" xml:space="preserve">
+    <value>シーンを読み込む...</value>
+  </data>
+  <data name="newSceneToolStripMenuItem" xml:space="preserve">
+    <value>新規シーン</value>
+  </data>
+  <data name="saveSceneAsImageToolStripMenuItem" xml:space="preserve">
+    <value>シーンを画像として保存する...</value>
+  </data>
+  <data name="saveSceneToolStripMenuItem" xml:space="preserve">
+    <value>シーンを保存する...</value>
+  </data>
+  <data name="titleExecuteCustomURI" xml:space="preserve">
+    <value>カスタムURIを実行する</value>
+  </data>
+  <data name="msgInvalidURI" xml:space="preserve">
+    <value>無効なURIです。</value>
+  </data>
+  <data name="titleLicenseIsNearExpiration" xml:space="preserve">
+    <value>ライセンスの期限が切れそうですよ！</value>
+  </data>
+  <data name="msgLicenseIsNearExpiration" xml:space="preserve">
+    <value>{0}にライセンスの期限がきれます。この日以降でストリーム/レコーディングを行う予定でしたら、ライセンスを更新するまでウォーターマークが付きます。</value>
+  </data>
+  <data name="msgLicenseIsExpired" xml:space="preserve">
+    <value>ライセンスの期限がきれました。ライセンスを更新するまで、これからのストリーム/レコーディングにウォーターマークが付く可能性があります。</value>
+  </data>
+  <data name="titleLicenseIsExpired" xml:space="preserve">
+    <value>ライセンスの期限が切れました！</value>
+  </data>
+  <data name="msgLicenseIsNearExpiration2" xml:space="preserve">
+    <value>&lt;a name="buy"&gt;ここをクリック&lt;/a&gt;しライセンスを更新する。</value>
+  </data>
+  <data name="btnRenewLicense" xml:space="preserve">
+    <value>ライセンスを更新する</value>
+  </data>
+  <data name="growlScreenshotTaken" xml:space="preserve">
+    <value>スクリーンショット保存完了！ファイルメニュー→マイスクリーンショットから保存されたスクリーンショットを確認する事ができます。</value>
+  </data>
+  <data name="LocalFiles" xml:space="preserve">
+    <value>ローカルファイル</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem" xml:space="preserve">
+    <value>NewTek NDI®出力を有効にする</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem1" xml:space="preserve">
+    <value>NewTek NDI®出力を無効にする</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem2" xml:space="preserve">
+    <value>NewTek NDI®出力</value>
+  </data>
+  <data name="msgCantDeleteSceneWhileEditingOrProjecting" xml:space="preserve">
+    <value>シーンを編集中/プロジェクションしている間はシーンを削除する事ができません。</value>
+  </data>
+  <data name="msgCantDeleteSceneWhileInUse" xml:space="preserve">
+    <value>Cannot delete scene while it is in use.</value>
+  </data>
+  <data name="msgCannotOpenMultipleXVE" xml:space="preserve">
+    <value>エクスプレスビデオエディタでは同時に１つのインスタンスのみサポートされております。XSplit Gamecasterで開かれているインスタンスを閉じてください。</value>
+  </data>
+  <data name="deleteSceneToolStripMenuItem1" xml:space="preserve">
+    <value>シーンを削除する</value>
+  </data>
+  <data name="msgCantParseOutputUriWhileStreaming" xml:space="preserve">
+    <value>放送中に出力URIを処理する事はできません。</value>
+  </data>
+  <data name="msgExecuringUri" xml:space="preserve">
+    <value>URIを実行しています...</value>
+  </data>
+  <data name="newtekNDIStreamBetaToolStripMenuItem" xml:space="preserve">
+    <value>NewTek NDI® ストリーム (ベータ版)</value>
+  </data>
+  <data name="newtekNDIStreamToolStripMenuItem" xml:space="preserve">
+    <value>NewTek NDI® ストリーム</value>
+  </data>
+  <data name="msgNdiBetaNotice" xml:space="preserve">
+    <value>NewTek NDI®機能をお試し頂き有難うございます。こちらの機能は只今ベータ版でございます、&lt;a href='https://xspl.it/z8tpys'&gt;こちら&lt;/a&gt; で詳細を確認する事ができます。</value>
+  </data>
+  <data name="msgSystemTimeIsIncorrect" xml:space="preserve">
+    <value>システムの時刻設定が正しく設定されていない可能性があります。XSplitおよび関連するサービスに影響を与える可能性があります。</value>
+  </data>
+  <data name="msgWarningOn32bitOS" xml:space="preserve">
+    <value>あなたは現在32-bitのOSを使用しています。メモリ制限により、一般パフォーマンスや機能が制限される可能性がございます。&lt;a href='https://xspl.it/qrg6n3'&gt;こちら&lt;/a&gt;で詳細を確認する事ができます。</value>
+  </data>
+  <data name="msgSteamLicenseConflict" xml:space="preserve">
+    <value>既に有効になっている既存のXSplitとSteamライセンスを検出いたしました。サポートにてご連絡ください：&lt;a href='https://xspl.it/support'&gt;support@xsplit.com&lt;/a&gt;</value>
+  </data>
+  <data name="msgNonDefaultSystemSoundWarning" xml:space="preserve">
+    <value>システムサウンドを「{0}」に設定しないと、あなたのストリーム/レコーディングからアプリやゲームの音声が聞こえなくなる可能性があります。</value>
+  </data>
+  <data name="changeLanguageToolStripMenuItem" xml:space="preserve">
+    <value>言語を変更する</value>
+  </data>
+  <data name="msgPort443IsBlocked" xml:space="preserve">
+    <value>ポート TCP/443がブロックされている事をXSplit Broadcasterが検出いたしました。このポートは外部サービス認証の為に必要となるポートです。&lt;a href=\"http://xspl.it/how-to-unblock-port-443\"&gt;こちら&lt;/a&gt;にて詳細を確認する事ができます。</value>
+  </data>
+  <data name="titlePort443IsBlocked" xml:space="preserve">
+    <value>ポート443がブロックされています</value>
+  </data>
+  <data name="aboutNdiToolStripMenuItem" xml:space="preserve">
+    <value>NDI® について詳しく学ぶ</value>
+  </data>
+  <data name="noNdiSourcesFoundOnNetworkToolStripMenuItem" xml:space="preserve">
+    <value>NDI® ソースをネットワーク内で検出できませんでした</value>
+  </data>
+  <data name="msgHasNoNdiPrereq" xml:space="preserve">
+    <value>この機能には Visual C++ Redistributable for Visual Studio 2013 x86 が必要となります。[こちら](https://xspl.it/ftbdkn) をクリックしダウンロード後、インストールしてください。</value>
+  </data>
+  <data name="msgHasNoNdiPrereqX64" xml:space="preserve">
+    <value>この機能には Visual C++ Redistributable for Visual Studio 2015 x64 が必要となります。[こちら](https://xspl.it/vc2015x64) をクリックしダウンロード後、インストールしてください。</value>
+  </data>
+  <data name="titleHasNoNdiPrereq" xml:space="preserve">
+    <value>NDI®使用に必要なものがありません</value>
+  </data>
+  <data name="noNdiPrereqToolStripMenuItem" xml:space="preserve">
+    <value>必要の物が存在しません、こちらで詳細を確認してください</value>
+  </data>
+  <data name="tsslDisplayFps_Tooltip" xml:space="preserve">
+    <value>スクリーンにFPSを表示する / 放送・レコーディング用にFPSを出力する。GPUが使用されている場合、出力FPS（放送で表示される）が優先されます。</value>
+  </data>
+  <data name="tsslDisplayFpsVal_Tooltip" xml:space="preserve">
+    <value>スクリーンにFPSを表示する / 放送・レコーディング用にFPSを出力する。GPUが使用されている場合、出力FPS（放送で表示される）が優先されます。</value>
+  </data>
+  <data name="tsslCPU_Tooltip" xml:space="preserve">
+    <value>合計CPU負荷 / XSplitのCPU使用率 / CPUクロック速度</value>
+  </data>
+  <data name="tsslCPUVal_Tooltip" xml:space="preserve">
+    <value>合計CPU負荷 / XSplitのCPU使用率 / CPUクロック速度</value>
+  </data>
+  <data name="tsslGPU_Tooltip" xml:space="preserve">
+    <value>全てのGPUエンジンの中で最高のロード / XSplit Broadcaster関係のGPUエンジンの中で最高のロード / GPUクロックスピード</value>
+  </data>
+  <data name="tsslGPUVal_Tooltip" xml:space="preserve">
+    <value>全てのGPUエンジンの中で最高のロード / XSplit Broadcaster関係のGPUエンジンの中で最高のロード / GPUクロックスピード</value>
+  </data>
+  <data name="move_bottomTransition" xml:space="preserve">
+    <value>下に移動する</value>
+  </data>
+  <data name="move_leftTransition" xml:space="preserve">
+    <value>左に移動する</value>
+  </data>
+  <data name="move_left_rightTransition" xml:space="preserve">
+    <value>左右に移動する</value>
+  </data>
+  <data name="move_rightTransition" xml:space="preserve">
+    <value>右に移動する</value>
+  </data>
+  <data name="move_topTransition" xml:space="preserve">
+    <value>上に移動する</value>
+  </data>
+  <data name="move_top_bottomTransition" xml:space="preserve">
+    <value>上下に移動する</value>
+  </data>
+  <data name="msgAudioDevice_DefaultMicrophone" xml:space="preserve">
+    <value>既定マイク</value>
+  </data>
+  <data name="msgAudioDevice_DefaultSpeakers" xml:space="preserve">
+    <value>既定スピーカー</value>
+  </data>
+  <data name="noneTransition" xml:space="preserve">
+    <value>なし</value>
+  </data>
+  <data name="msgTobiiPluginDisabled" xml:space="preserve">
+    <value>強化された Tobii EyeTrackerをスクリーンキャプチャとゲームキャプチャソースに適用する事ができる様になりました。ソースに右クリックし、「Tobii」タブを確認ください。
+
+この新しいTobii EyeTracker機能を使用するには、Tobii Eye Trackerプラグインを無効にする必要があります。</value>
+  </data>
+  <data name="msgTobiiSourceRemoved" xml:space="preserve">
+    <value>強化された Tobii EyeTrackerをスクリーンキャプチャとゲームキャプチャソースに適用する事ができる様になりました。ソースに右クリックし、「Tobii」タブを確認ください。
+
+この新しいTobii EyeTracker機能を使用するには、Tobii Eye Trackerプラグインを使用しているソースをこのプレゼンテーションから削除する必要があります。</value>
+  </data>
+  <data name="newProjectorWindowToolStripMenuItem" xml:space="preserve">
+    <value>新しいウィンドウ</value>
+  </data>
+  <data name="newProjectorWindowToolStripMenuItem2" xml:space="preserve">
+    <value>新しいウィンドウ</value>
+  </data>
+  <data name="accountSettingsToolStripMenuItem" xml:space="preserve">
+    <value>アカウント設定</value>
+  </data>
+  <data name="browserD3dMode" xml:space="preserve">
+    <value>ブラウザソースの最適化</value>
+  </data>
+  <data name="msgErrorUpdatingYtVideo" xml:space="preserve">
+    <value>YouTube動画を更新中にエラーが発生しました。</value>
+  </data>
+  <data name="msgCancelUpload" xml:space="preserve">
+    <value>本当にアップロードをキャンセルしますか？</value>
+  </data>
+  <data name="titleCancelUpload" xml:space="preserve">
+    <value>アップロードのキャンセル</value>
+  </data>
+  <data name="msgDeleteYtVideo" xml:space="preserve">
+    <value>本当に、この動画をYouTubeから削除しますか？</value>
+  </data>
+  <data name="titleDeleteVideo" xml:space="preserve">
+    <value>動画を削除</value>
+  </data>
+  <data name="msgCantDoActionWhileUploading" xml:space="preserve">
+    <value>YouTubeへのアップロード中にこの操作を実行する事ができません。</value>
+  </data>
+  <data name="msgTitleIsEmpty" xml:space="preserve">
+    <value>タイトルを入力して下さい</value>
+  </data>
+  <data name="msgCantUploadFileIsInUse" xml:space="preserve">
+    <value>他のプロセスによって使用されている為、レコーディングをアップロードする事ができません。対象を使用している全てのウィンドウ（XSplit ビデオエディタなど）を閉じ、再度お試しください。</value>
+  </data>
+  <data name="msgUnknownUploadError" xml:space="preserve">
+    <value>アップロードを開始しようとした時に不明なエラーが起こりました。</value>
+  </data>
+  <data name="msgCantDeleteFilesInUse" xml:space="preserve">
+    <value>使用されているかもしれなので、ファイルを削除する事ができません。</value>
+  </data>
+  <data name="msgCantDeleteSomeFilesInUse" xml:space="preserve">
+    <value>使用されている可能性がある為、いくつかのファイルを削除する事ができませんでした。</value>
+  </data>
+  <data name="msgConfirmDeleteFiles" xml:space="preserve">
+    <value>本当に {0} 個のファイルを削除しますか？</value>
+  </data>
+  <data name="titleConfirmDeleteFiles" xml:space="preserve">
+    <value>ファイルの削除</value>
+  </data>
+  <data name="msgConfirmCreateYtChannel" xml:space="preserve">
+    <value>YouTubeにログインはしていますが、まだチャンネルが作成されておりません。今すぐチャンネルを作成しますか？</value>
+  </data>
+  <data name="tsslMemory_Tooltip" xml:space="preserve">
+    <value>XSplitで使用されているプライベートバイト</value>
+  </data>
+  <data name="tsslMemoryVal_Tooltip" xml:space="preserve">
+    <value>XSplitで使用されているプライベートバイト</value>
+  </data>
+  <data name="dx12Capture" xml:space="preserve">
+    <value>DX12でのゲームキャプチャを有効にする</value>
+  </data>
+  <data name="pasteAsLinkedSourceToolStripMenuItem" xml:space="preserve">
+    <value>リンクされたソースとして貼り付ける</value>
+  </data>
+  <data name="pasteAsNewSourceToolStripMenuItem" xml:space="preserve">
+    <value>新しいソースとして貼り付ける</value>
+  </data>
+  <data name="msgDontShowDialogCheckbox" xml:space="preserve">
+    <value>このダイアログを今後表示しない。</value>
+  </data>
+  <data name="msgConfirmDiscardScene_loadFromFile" xml:space="preserve">
+    <value>本当に現状のシーンを上書き保存しますか？</value>
+  </data>
+  <data name="msgXSplitCertErrorEncountered" xml:space="preserve">
+    <value>XSplitとオンラインサービスの接続が不安定になる原因となる「承認関連のエラー」を確認しました。この現象により、Twitch、YouTube、Facebookなどの他社のサービスプロバイダーとのコミュニケーションの承認が出来ない可能性がございます。原因はあなたのコンピューターにMan-In-The-Middle (MitM)アタックというマルウェアがインストールされている可能性がございます。こちらの[ブログ記事](https://xspl.it/www/ngwv7e)　で詳細が確認できます。[br][br]もしこの警告を無視する場合、あなたご自身のリスクを考え行ってください。XSplitを閉じますか？</value>
+  </data>
+  <data name="workspaceClassicToolStripMenuItem" xml:space="preserve">
+    <value>クラシックモード</value>
+  </data>
+  <data name="workspaceSplitToolStripMenuItem" xml:space="preserve">
+    <value>スプリットモード</value>
+  </data>
+  <data name="workspaceToolStripMenuItem" xml:space="preserve">
+    <value>ワークスペース</value>
+  </data>
+  <data name="themeClassicToolStripMenuItem" xml:space="preserve">
+    <value>Classic</value>
+  </data>
+  <data name="themeDarkToolStripMenuItem" xml:space="preserve">
+    <value>Dark</value>
+  </data>
+  <data name="themeToolStripMenuItem" xml:space="preserve">
+    <value>テーマ</value>
+  </data>
+  <data name="goLiveAndReloadSceneSplit" xml:space="preserve">
+    <value>現在のシーンに残る</value>
+  </data>
+  <data name="goLiveAndSwapLiveWithSceneSplit" xml:space="preserve">
+    <value>ライブシーン</value>
+  </data>
+  <data name="goLiveAndSwitchSceneSplit" xml:space="preserve">
+    <value>プレビューシーンを変更：</value>
+  </data>
+  <data name="splitViewMainTitleL1" xml:space="preserve">
+    <value>現シーン: </value>
+  </data>
+  <data name="splitViewPrevTitleL1" xml:space="preserve">
+    <value>プレビュー: </value>
+  </data>
+  <data name="warnNoPreviewEditorOnSplitView" xml:space="preserve">
+    <value>プレビューエディターを使用するにはまず始めにワークスペースをクラシックモードに変更する必要があります。ワークスペースを変更するには、右上角にある下矢印のアイコン（解像度、FPSデータの隣）をクリックし、ワークスペースを選択してください。</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GOLIVE" xml:space="preserve">
+    <value>ライブにする</value>
+  </data>
+  <data name="tsslDisplayFps" xml:space="preserve">
+    <value>FPS:</value>
+  </data>
+  <data name="tsslMemory" xml:space="preserve">
+    <value>Memory:</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_INVALID" xml:space="preserve">
+    <value>FAT32ディスクでレコーディングが開始され、ファイル分割方法が時間ベースに設定されました。ファイルサイズが許容範囲({0})を超える場合はファイルサイズで分割されます。</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_NOT_SET" xml:space="preserve">
+    <value>FAT32ディスクでレコーディングが開始されましたが、ファイルサイズが許容範囲({0}) を超える場合は分割されます。</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_TOO_HIGH" xml:space="preserve">
+    <value>FAT32ディスクでレコーディングが開始されましたがファイル分割設定が最大許容サイズ({0})を超えています。代わりに{0}でファイルが分割されるようになります。</value>
+  </data>
+  <data name="msgInvalidXSplitAccountInfo" xml:space="preserve">
+    <value>現在のXSplitのログイン情報が無効になっております、再度ログインしてください。{0}</value>
+  </data>
+  <data name="otherToolStripMenuItem" xml:space="preserve">
+    <value>一般ウィジェット</value>
+  </data>
+  <data name="cutTransition" xml:space="preserve">
+    <value>カット</value>
+  </data>
+  <data name="growlMidiGetPortsFailed" xml:space="preserve">
+    <value>MIDI デバイスの列挙に失敗しました。MIDI ホットキーは動作しません。</value>
+  </data>
+  <data name="growlMidiGetPortsNoDevices" xml:space="preserve">
+    <value>MIDIデバイスが検出されませんでした。MIDIデバイスのホットキーは動作しません。</value>
+  </data>
+  <data name="growlMidiInitFailed" xml:space="preserve">
+    <value>MIDI デバイスの初期化に失敗しました。いくつかのMIDI ホットキーは動作しないかもしれません。</value>
+  </data>
+  <data name="growlMidiInitFailedAll" xml:space="preserve">
+    <value>MIDI デバイスの初期化に失敗しました。MIDIホットキーは動作しません。</value>
+  </data>
+  <data name="msgMidiGetPortsFailed" xml:space="preserve">
+    <value>MIDI デバイスの列挙に失敗しました。MIDI ホットキーバインドは動作しません。</value>
+  </data>
+  <data name="msgMidiGetPortsNoDevices" xml:space="preserve">
+    <value>MIDIデバイスが検出されませんでした。MIDIデバイスのホットキーバインドは動作しません。</value>
+  </data>
+  <data name="msgMidiInitFailed" xml:space="preserve">
+    <value>MIDIデバイスの初期化に失敗しました。MIDIに設定した操作は検出されません。</value>
+  </data>
+  <data name="msgMidiInitFailedAll" xml:space="preserve">
+    <value>MIDI デバイスの初期化に失敗しました。MIDI ホットキーバインドは動作しません。</value>
+  </data>
+  <data name="msgNdiStreamCantStart" xml:space="preserve">
+    <value>あなたの {0} 配信は中止されました。 {1} 詳細は &lt;a name="logfile"&gt;logs&lt;/a&gt; 確認してください。</value>
+  </data>
+  <data name="tsmiProjectLiveScene" xml:space="preserve">
+    <value>ライブシーン</value>
+  </data>
+  <data name="tsmiProjectPreviewEditor" xml:space="preserve">
+    <value>プレビューエディタ</value>
+  </data>
+  <data name="msgUnableToPostBmpToPlayerMe" xml:space="preserve">
+    <value>Player.meにBMP画像ファイルを共有できませんでした、代わりにJPEG画像ファイルを使用ください。</value>
+  </data>
+  <data name="Permissions" xml:space="preserve">
+    <value>アクセス許可</value>
+  </data>
+  <data name="BroadcasterCaptureMixerImage_desc" xml:space="preserve">
+    <value>アクティブシーンのスクリーンショットを撮る</value>
+  </data>
+  <data name="BroadcasterInsertCuepoint_desc" xml:space="preserve">
+    <value>キューポイントを挿入する</value>
+  </data>
+  <data name="BroadcasterPushLive_desc" xml:space="preserve">
+    <value>ライブにする</value>
+  </data>
+  <data name="videoProcessingMode" xml:space="preserve">
+    <value>ビデオ処理モード</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc1" xml:space="preserve">
+    <value>レガシー</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc2" xml:space="preserve">
+    <value>優先CPU</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc3" xml:space="preserve">
+    <value>優先GPU</value>
+  </data>
+  <data name="renameSource" xml:space="preserve">
+    <value>リネーム</value>
+  </data>
+  <data name="addWebUrlTsmi" xml:space="preserve">
+    <value>ウェブページ...</value>
+  </data>
+  <data name="LiveStream" xml:space="preserve">
+    <value>フラッシュストリーム (RTMP)</value>
+  </data>
+  <data name="ablegamersplg" xml:space="preserve">
+    <value>AbleGamers アラート</value>
+  </data>
+  <data name="beamchatplg" xml:space="preserve">
+    <value>チャットビューアー</value>
+  </data>
+  <data name="dmchatplg" xml:space="preserve">
+    <value>チャットビューアー</value>
+  </data>
+  <data name="extralifeplg" xml:space="preserve">
+    <value>Extra Lifeアラート</value>
+  </data>
+  <data name="facebookchatplg" xml:space="preserve">
+    <value>ライブコメント</value>
+  </data>
+  <data name="hitboxchatplg" xml:space="preserve">
+    <value>チャットビューアー</value>
+  </data>
+  <data name="ImageSlideshowplg" xml:space="preserve">
+    <value>画像スライドショー</value>
+  </data>
+  <data name="inputvisualizerplg" xml:space="preserve">
+    <value>インプットビジュアライザー</value>
+  </data>
+  <data name="justgivingplg" xml:space="preserve">
+    <value>JustGiving アラート</value>
+  </data>
+  <data name="mediaslideshowplg" xml:space="preserve">
+    <value>メディアスライドショー</value>
+  </data>
+  <data name="perSceneAudioplg" xml:space="preserve">
+    <value>各シーンのオーディオ</value>
+  </data>
+  <data name="presentationPackagerplg" xml:space="preserve">
+    <value>プレゼンテーションパッケージャー</value>
+  </data>
+  <data name="sceneSwitcherplg" xml:space="preserve">
+    <value>シーンスイッチャー</value>
+  </data>
+  <data name="titleplg" xml:space="preserve">
+    <value>テキスト</value>
+  </data>
+  <data name="twitchalertsplg" xml:space="preserve">
+    <value>Twitchアラート</value>
+  </data>
+  <data name="twitchchathtml5plg" xml:space="preserve">
+    <value>チャットビューアー HTML5</value>
+  </data>
+  <data name="twitchchatplg" xml:space="preserve">
+    <value>IRC チャットビューアー</value>
+  </data>
+  <data name="VideoPlaylistplg" xml:space="preserve">
+    <value>ビデオ再生リスト</value>
+  </data>
+  <data name="webMEncoderplg" xml:space="preserve">
+    <value>スティンガークリエイター</value>
+  </data>
+  <data name="WhiteboardOverlayplg" xml:space="preserve">
+    <value>ホワイトボード</value>
+  </data>
+  <data name="youtubechatplg" xml:space="preserve">
+    <value>Live チャットビューアー</value>
+  </data>
+  <data name="youtubelivechatplg" xml:space="preserve">
+    <value>Live チャットビューアー HTML5</value>
+  </data>
+  <data name="addSkypeTsmi" xml:space="preserve">
+    <value>Skypeビデオ</value>
+  </data>
+  <data name="addSkypeTsmi2" xml:space="preserve">
+    <value>Skypeビデオ</value>
+  </data>
+  <data name="ImageSlideshow" xml:space="preserve">
+    <value>画像スライドショー(レガシー)</value>
+  </data>
+  <data name="Starboard" xml:space="preserve">
+    <value>スターボード</value>
+  </data>
+  <data name="title" xml:space="preserve">
+    <value>タイトル(レガシー)</value>
+  </data>
+  <data name="VideoPlaylist" xml:space="preserve">
+    <value>ビデオプレイリスト(レガシー)</value>
+  </data>
+  <data name="WhiteboardOverlay" xml:space="preserve">
+    <value>ホワイトボードオーバーレイ(レガシー)</value>
+  </data>
+  <data name="smashcastchatplg" xml:space="preserve">
+    <value>チャットビューアー</value>
+  </data>
+  <data name="youtubesuperchatplg" xml:space="preserve">
+    <value>スーパーチャットアラート</value>
+  </data>
+  <data name="addCustomResolutionToolStripMenuItem" xml:space="preserve">
+    <value>カスタム解像度...</value>
+  </data>
+  <data name="twitchcheeralertplg" xml:space="preserve">
+    <value>チアアラート</value>
+  </data>
+  <data name="msgMaxResWarning" xml:space="preserve">
+    <value>{0} x {1} 以上の解像度は正しく機能しないかもしれません、ハイスペックなハードウェアをお持ちでもお勧めできません。それでもこちらの解像度を使用しますか？</value>
+  </data>
+  <data name="msgInvalidInputValue" xml:space="preserve">
+    <value>入力値が無効です。</value>
+  </data>
+  <data name="timespanAndSeparator" xml:space="preserve">
+    <value> そして</value>
+  </data>
+  <data name="timespanDaysUnit" xml:space="preserve">
+    <value>{0} 日</value>
+  </data>
+  <data name="timespanDayUnit" xml:space="preserve">
+    <value>{0} 日</value>
+  </data>
+  <data name="timespanHoursUnit" xml:space="preserve">
+    <value>{0} 時間</value>
+  </data>
+  <data name="timespanHourUnit" xml:space="preserve">
+    <value>{0} 時間</value>
+  </data>
+  <data name="timespanMinutesUnit" xml:space="preserve">
+    <value>{0} 分</value>
+  </data>
+  <data name="timespanMinuteUnit" xml:space="preserve">
+    <value>{0} 分</value>
+  </data>
+  <data name="timespanSecondsUnit" xml:space="preserve">
+    <value>{0} 秒</value>
+  </data>
+  <data name="timespanSecondUnit" xml:space="preserve">
+    <value>{0} 秒</value>
+  </data>
+  <data name="timespanSeparator" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="msgMicMutedDueToPttKeyAssignedText" xml:space="preserve">
+    <value>マイクがミュートされており、プッシュトゥトーク(PTT) "{0}" キーを押すか、マイクのミュートを解除してください。</value>
+  </data>
+  <data name="msgMicMutedDueToPttKeyAssignedTitle" xml:space="preserve">
+    <value>マイクのミュートが解除されました</value>
+  </data>
+  <data name="msgMfpWarning" xml:space="preserve">
+    <value>{0} N か KN エディションを現在使用しており、これにはMedia Feature Packがインストールされておりません。
+
+最高のパフォーマンスとXSplit の機能を全て会得するには、Media Feature Packをインストールする事をお勧めします。（可能ならば32ビットと64ビットバージョン両方を選択してください）
+
+マイクロソフト公式ページでダウンロードし、Media Feature Packをインストールしますか？</value>
+  </data>
+  <data name="addStingerToolStripMenuItem" xml:space="preserve">
+    <value>トランジションを追加する...</value>
+  </data>
+  <data name="removeStingerToolStripMenuItem" xml:space="preserve">
+    <value>トランジションを削除する</value>
+  </data>
+  <data name="stingersToolStripMenuItem" xml:space="preserve">
+    <value>スティンガートランジション</value>
+  </data>
+  <data name="msgCantDeleteStingerInUse" xml:space="preserve">
+    <value>現在使用しているスティンガーを使用する事はできません。</value>
+  </data>
+  <data name="addStingerplg" xml:space="preserve">
+    <value>スティンガーを追加する</value>
+  </data>
+  <data name="chkMultitrack" xml:space="preserve">
+    <value>マイクとシステムオーディオからマルチトラックレコーディングを作成する</value>
+  </data>
+  <data name="pbMultitrack_Tooltip" xml:space="preserve">
+    <value>この機能はオーディオを別トラックに分けます
+(ミックス、マイク、システムサウンド、配信のみ）
+編集時に別々に編集する事ができます</value>
+  </data>
+  <data name="growlPluginUpdateText" xml:space="preserve">
+    <value>プラグインの最新アップデートがございます。
+
+&lt;a name="openMyPlugins"&gt;ツール→プラグイン&lt;/a&gt;にてプラグインを確認し、アップデートする事ができます。</value>
+  </data>
+  <data name="growlOptimusNeedsRestart" xml:space="preserve">
+    <value>Nvidia Optimusプロファイルがパフォーマンス改善の為、調整されました。再起動が必要となります。
+
+&lt;a name="growlOptimusNeedsRestartNow"&gt;今すぐ再起動&lt;/a&gt;</value>
+  </data>
+  <data name="BroadcastStatus_Connected" xml:space="preserve">
+    <value>接続しました {0}</value>
+  </data>
+  <data name="BroadcastStatus_Connecting" xml:space="preserve">
+    <value>接続中 {0}</value>
+  </data>
+  <data name="BroadcastStatus_Restarting" xml:space="preserve">
+    <value>再起動中 {0}</value>
+  </data>
+  <data name="msgBroadcastTerminated_TooManyRestarts" xml:space="preserve">
+    <value>繰り返しの再起動によりブロードキャストが停止されました.</value>
+  </data>
+  <data name="BroadcastStatus_GettingBestServer" xml:space="preserve">
+    <value>放送のターゲットサーバーを検索中 {0}</value>
+  </data>
+  <data name="BroadcastStatus_BestServerFound" xml:space="preserve">
+    <value>ターゲットサーバーが見つかりました {0}</value>
+  </data>
+  <data name="addReplayTsmi" xml:space="preserve">
+    <value>リプレイ</value>
+  </data>
+  <data name="addReplayBottomTsmi" xml:space="preserve">
+    <value>リプレイ</value>
+  </data>
+  <data name="uploadLogFilesToolStripMenuItem" xml:space="preserve">
+    <value>ログファイルをアップロードする</value>
+  </data>
+  <data name="UploadLogFilesSuccessAlertMessage" xml:space="preserve">
+    <value>ログファイルが無事アップロードされました - [こちら]({0}) をクリックして表示する。</value>
+  </data>
+  <data name="UploadLogFilesFailedAlertMessage" xml:space="preserve">
+    <value>ログファイルをアップロード中にエラーが起こりました</value>
+  </data>
+  <data name="facebookreactionsplg" xml:space="preserve">
+    <value>リアクションを投稿します</value>
+  </data>
+  <data name="CurrentStageFPS" xml:space="preserve">
+    <value>現ステージFPS</value>
+  </data>
+  <data name="Default" xml:space="preserve">
+    <value>デフォルト</value>
+  </data>
+  <data name="restoreResFpsDefaultToolStripMenuItem" xml:space="preserve">
+    <value>デフォルトに戻す</value>
+  </data>
+  <data name="devicesWebcamCaptureCardsToolStripMenuItem" xml:space="preserve">
+    <value>デバイス(ウェブカメラ、キャプチャカード...)</value>
+  </data>
+  <data name="streamsToolStripMenuItem" xml:space="preserve">
+    <value>ストリーム</value>
+  </data>
+  <data name="btnSourceMaximize" xml:space="preserve">
+    <value>ソースをスクリーンに合わせる{0}</value>
+  </data>
+  <data name="btnSourceRestore" xml:space="preserve">
+    <value>ソースサイズを変更する (1/4){0}</value>
+  </data>
+  <data name="tsmiAddSmartScreen" xml:space="preserve">
+    <value>スマートセレクション</value>
+  </data>
+  <data name="tsmiAddDesktopCapture" xml:space="preserve">
+    <value>モニターキャプチャ</value>
+  </data>
+  <data name="tsmiAddWindowCapture" xml:space="preserve">
+    <value>ウィンドウキャプチャ</value>
+  </data>
+  <data name="tsmiAddDesktopCaptureMonitor" xml:space="preserve">
+    <value>デスクトップ {0}</value>
+  </data>
+  <data name="btnSourceLock" xml:space="preserve">
+    <value>ポジションを固定する</value>
+  </data>
+  <data name="noSourceLabel" xml:space="preserve">
+    <value>ソースが追加されておりません。
+こちらで見つけましょう！</value>
+  </data>
+  <data name="addExtensionToolStripMenuItem" xml:space="preserve">
+    <value>拡張の追加</value>
+  </data>
+  <data name="facebooklivereactionspollcounterplg" xml:space="preserve">
+    <value>ライブリアクションカウンター</value>
+  </data>
+  <data name="facebooklivereactionsanimationplg" xml:space="preserve">
+    <value>ライブリアクションアニメーション</value>
+  </data>
+  <data name="pbShareStream_Tooltip" xml:space="preserve">
+    <value>放送を共有する</value>
+  </data>
+  <data name="playoutToolStripMenuItem" xml:space="preserve">
+    <value>プレイアウト(&amp;P)</value>
+  </data>
+  <data name="recordToolStripMenuItem" xml:space="preserve">
+    <value>レコード(&amp;R)</value>
+  </data>
+  <data name="addResolutionToolStripMenuItem" xml:space="preserve">
+    <value>解像度を追加</value>
+  </data>
+  <data name="removeResolutionToolStripMenuItem" xml:space="preserve">
+    <value>解像度を削除</value>
+  </data>
+  <data name="scaleTo100ToolStripMenuItem" xml:space="preserve">
+    <value>100%縮尺</value>
+  </data>
+  <data name="snapToGridToolStripMenuItem2" xml:space="preserve">
+    <value>グリッドに張り付く</value>
+  </data>
+  <data name="duplicateSceneToolStripMenuItem1" xml:space="preserve">
+    <value>シーンを複製する</value>
+  </data>
+  <data name="lblHardware" xml:space="preserve">
+    <value>ハードウェア</value>
+  </data>
+  <data name="lblSoftware" xml:space="preserve">
+    <value>ソフトウェア</value>
+  </data>
+  <data name="msgCloseWhileVideoEditorIsOpen" xml:space="preserve">
+    <value>現在、ビデオ編集中です。本当にログアウトしますか？
+
+ログアウトするとXSplit Broadcaster Express Video Editorを終了します、続行する前に変更を保存した事をご確認ください。</value>
+  </data>
+  <data name="msgCloseWhileUploadingVod" xml:space="preserve">
+    <value>レコーディングを現在アップロード中ですが、ログアウト/終了してもよろしいでしょうか？</value>
+  </data>
+  <data name="addSkypeNDITsmi" xml:space="preserve">
+    <value>Skype</value>
+  </data>
+  <data name="msgRtmpsInitException" xml:space="preserve">
+    <value>RTMPS配信を行う途中でエラーが起こりました。
+
+ &lt;a href="https://xspl.it/bc/supportrtmps" name="learnmore"&gt;サポートにご連絡&lt;/a&gt;ください。</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90024_Offline" xml:space="preserve">
+    <value>アクティベートのリンクがメールアカウントに送信されました。サインインする為にXSplitアカウントをアクティベートする必要があります。</value>
+  </data>
+  <data name="addLumaToolStripMenuItem" xml:space="preserve">
+    <value>トランジションを追加する...</value>
+  </data>
+  <data name="lumaTransitionToolStripMenuItem" xml:space="preserve">
+    <value>ルマトランジション</value>
+  </data>
+  <data name="removeLumaToolStripMenuItem" xml:space="preserve">
+    <value>トランジションを削除する</value>
+  </data>
+  <data name="msgFailedDeletingStinger" xml:space="preserve">
+    <value>スティンガーを削除する事が出来ません。</value>
+  </data>
+  <data name="growlNvencProbeErrorInvalidVersion" xml:space="preserve">
+    <value>不対応のドライバを使用している為NVIDIA Encoder (NVENC) にエラーが起こりました。 &lt;a href="https://xspl.it/bc/nvidiaDriverDL" name="nvdiaDriverUpdate"&gt;NVIDIA GPU ドライバを更新してみてください。&lt;/a&gt;
+</value>
+  </data>
+  <data name="transitionSpeedDialogTitle" xml:space="preserve">
+    <value>トランジション速度</value>
+  </data>
+  <data name="addSceneSourceTsmi" xml:space="preserve">
+    <value>現在のシーン</value>
+  </data>
+  <data name="ERROR_NVENCHW" xml:space="preserve">
+    <value>あなたの{0} 配信はNVENCエンコーダーを使用中にエラーが起こり止まってしまいました。詳細を確認するには&lt;a href="https://xspl.it/bc/s8s19t#{1:X}"&gt;こちらをクリック&lt;/a&gt;してください</value>
+  </data>
+  <data name="ERROR_NVENC" xml:space="preserve">
+    <value>あなたの{0} 配信はNVENCエンコーダーを使用中にエラーが起こり止まってしまいましたが、別のエンコーダーを使用し再開いたします。詳細を確認するには&lt;a href="https://xspl.it/bc/s8s19t#{1:X}"&gt;こちらをクリック&lt;/a&gt;してください</value>
+  </data>
+  <data name="lblDecklinkPlayoutFormat" xml:space="preserve">
+    <value>フォーマット:</value>
+  </data>
+  <data name="cboPlayoutFormatAuto" xml:space="preserve">
+    <value>自動</value>
+  </data>
+  <data name="msgNoNetLoginPopup" xml:space="preserve">
+    <value>ネット接続が確認できませんでした。ログインするにはネット接続が必要です</value>
+  </data>
+  <data name="msgRetryTokenLoginValidLocal" xml:space="preserve">
+    <value>保存された情報でログインする事が出来ませんでした。オフラインモードでログインし、XSplitサーバーを必要としない機能は使用する事ができます。それかもう一度保存された情報でログインをお試しください。</value>
+  </data>
+  <data name="msgRetryTokenLoginInvalidLocal" xml:space="preserve">
+    <value>保存した情報でログインする事ができませんでした。もう一度パスワードなどを入力いただきログインするか、保存された情報でもう一度ログインしてみてください</value>
+  </data>
+  <data name="msgAutoLoginUserDiffer" xml:space="preserve">
+    <value>別のXSplitアプリで別のアカウントにログインしました。このまま **{0}** のアカウントで続けますか？</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTime" xml:space="preserve">
+    <value>トランジション (オフ)</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeWithVal" xml:space="preserve">
+    <value>トランジション ({0} ms)</value>
+  </data>
+  <data name="tsmiScenePresetAdd" xml:space="preserve">
+    <value>プリセット追加</value>
+  </data>
+  <data name="tsmiScenePresetRemove" xml:space="preserve">
+    <value>プリセット削除</value>
+  </data>
+  <data name="tsmiScenePresetLearnMore" xml:space="preserve">
+    <value>プリセットについて詳しく学ぶ</value>
+  </data>
+  <data name="btnSourceGroup_Tooltip" xml:space="preserve">
+    <value>グループ ({0})</value>
+  </data>
+  <data name="btnSourceUngroup_Tooltip" xml:space="preserve">
+    <value>グループ解除 ({0})</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_PRESETLIST" xml:space="preserve">
+    <value>プリセットを追加/削除し、トランジションをセットする</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET1" xml:space="preserve">
+    <value>プリセット１起動</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET2" xml:space="preserve">
+    <value>プリセット２へ行く。
+    
+    プリセットアイコンをドラッグする事で並びを変更する事が出来ます</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET3" xml:space="preserve">
+    <value>プリセット３へ行く。
+    
+    プリセットアイコンをドラッグする事で並びを変更する事が出来ます</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET4" xml:space="preserve">
+    <value>プリセット４へ行く。
+    
+    プリセットアイコンをドラッグする事で並びを変更する事が出来ます</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogTitle" xml:space="preserve">
+    <value>プリセットトランジション速度</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogLabel" xml:space="preserve">
+    <value>速度 (ms)</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogHeader" xml:space="preserve">
+    <value>プリセット変更時のトランジション速度を設定してください。回転、スケーリング、クロッピングなどもこの速度通りに影響されます。</value>
+  </data>
+  <data name="tsmiScenePresetRemoveDD_Tooltip" xml:space="preserve">
+    <value>プリセットはその数字の通りに自動的に名前が変更されます。</value>
+  </data>
+  <data name="msgNoNetHasLocalLoginPopup" xml:space="preserve">
+    <value>XSplitはインターネット接続を検出出来ませんでした。まだログインできる可能性はございますが、いくつかの機能はインターネット接続を要求します。それか、もう一度ログインする事をお試しくださいませ</value>
+  </data>
+  <data name="redeemToolStripMenuItem" xml:space="preserve">
+    <value>ギフト券を使用する...</value>
+  </data>
+  <data name="releaseNotesTsmi" xml:space="preserve">
+    <value>リリースノート</value>
+  </data>
+  <data name="videoTutorialsToolStripMenuItem" xml:space="preserve">
+    <value>動画チュートリアル</value>
+  </data>
+  <data name="expressVideoEditorToolStripMenuItem" xml:space="preserve">
+    <value>XSplit エクスプレスビデオエディター</value>
+  </data>
+  <data name="loadToolStripMenuItem" xml:space="preserve">
+    <value>シーンを読み込む...(&amp;L)</value>
+  </data>
+  <data name="permissionsTsmi" xml:space="preserve">
+    <value>アクセス許可</value>
+  </data>
+  <data name="previewEditorToolStripMenuItem" xml:space="preserve">
+    <value>プレビューエディタ</value>
+  </data>
+  <data name="previewEditor2ToolStripMenuItem" xml:space="preserve">
+    <value>プレビューエディタ</value>
+  </data>
+  <data name="projectorScreenLabel" xml:space="preserve">
+    <value>シーン {0}</value>
+  </data>
+  <data name="saveToolStripMenuItem" xml:space="preserve">
+    <value>シーンを保存する...(&amp;S)</value>
+  </data>
+  <data name="XSplitBroadcasterTitleText" xml:space="preserve">
+    <value>XSplit Broadcaster</value>
+  </data>
+  <data name="invalidBpzipMessage" xml:space="preserve">
+    <value>圧縮されたプレゼンテーションファイルを読み込む事が出来ませんでした。正しいファイルではない、もしくはプレゼンテーションファイル (.bpres)が存在しない可能性があります。</value>
+  </data>
+  <data name="loadPresentationTitle" xml:space="preserve">
+    <value>プレゼンテーションを読み込む</value>
+  </data>
+  <data name="overwriteBpresFolderMessage" xml:space="preserve">
+    <value>**'{0}'** フォルダは既に保存先フォルダ内に存在します。
+
+フォルダとそのフォルダ内のファイルを上書きし、プレゼンテーションを読み込み続けますか？</value>
+  </data>
+  <data name="selectDirectoryBpzipDesc" xml:space="preserve">
+    <value>ファイルを展開するディレクトリを選択してください
+</value>
+  </data>
+  <data name="extractingBpzipFile" xml:space="preserve">
+    <value>{0} ファイルを解凍中...</value>
+  </data>
+  <data name="loadingBpresFile" xml:space="preserve">
+    <value>{0} 読み込み中...</value>
+  </data>
+  <data name="checkingBpzipTargetDir" xml:space="preserve">
+    <value>選択ディレクトリを確認中...</value>
+  </data>
+  <data name="ioExceptionMessageWithBpzipExtraction" xml:space="preserve">
+    <value>いくつかのファイルを解凍、上書きする事が出来ませんでした。使用されているファイルがある可能性があります。
+
+ファイルを閉じ、もう一度プレゼンテーションの読み込みをお試しください。</value>
+  </data>
+  <data name="LocationIsEmpty" xml:space="preserve">
+    <value>位置を指定してください</value>
+  </data>
+  <data name="LocationIsInvalid" xml:space="preserve">
+    <value>その位置は無効です。</value>
+  </data>
+  <data name="ExtractBpzip" xml:space="preserve">
+    <value>プレゼンテーションを読み込む</value>
+  </data>
+  <data name="PathIsNotRooted" xml:space="preserve">
+    <value>"{0}" は指定パスではありません。</value>
+  </data>
+  <data name="crispSupportTsmi" xml:space="preserve">
+    <value>サポートに連絡</value>
+  </data>
+  <data name="disableSceneTransition" xml:space="preserve">
+    <value>無効</value>
+  </data>
+  <data name="sceneTransitionToolStripMenuItem" xml:space="preserve">
+    <value>トランジションを上書き</value>
+  </data>
+  <data name="msgConfirmDeleteTransitionInUse" xml:space="preserve">
+    <value>こちらのトランジションは現在使用中です。本当に削除しますか？</value>
+  </data>
+  <data name="msgFailedDeletingTransition" xml:space="preserve">
+    <value>トランジションを削除する事ができませんでした</value>
+  </data>
+  <data name="msgOverMaxBitrate" xml:space="preserve">
+    <value>お勧めビットレートの {0} kbps以上のビットレートで配信を行うと、あなたの配信クォリティが落ちる可能性があります。</value>
+  </data>
+  <data name="CustomResolution" xml:space="preserve">
+    <value>カスタム解像度</value>
+  </data>
+  <data name="easeInOutBack" xml:space="preserve">
+    <value>後ろからゆっくり入る</value>
+  </data>
+  <data name="easeOutBounceTransition" xml:space="preserve">
+    <value>跳ねながら出る</value>
+  </data>
+  <data name="easeOutElasticTransition" xml:space="preserve">
+    <value>ゴムの様に出る</value>
+  </data>
+  <data name="fadetoblackTransition" xml:space="preserve">
+    <value>暗転</value>
+  </data>
+  <data name="fadetowhiteTransition" xml:space="preserve">
+    <value>白へフェード</value>
+  </data>
+  <data name="zoomTransition" xml:space="preserve">
+    <value>ズーム</value>
+  </data>
+  <data name="copySource" xml:space="preserve">
+    <value>コピー</value>
+  </data>
+  <data name="pasteSource" xml:space="preserve">
+    <value>ペースト</value>
+  </data>
+  <data name="NdiPlayoutFormatOptionsTitle" xml:space="preserve">
+    <value>NewTek NDI® Options</value>
+  </data>
+  <data name="frmChangeLog" xml:space="preserve">
+    <value>アップデート可能</value>
+  </data>
+  <data name="dontAskAgain" xml:space="preserve">
+    <value>Don't ask again</value>
+  </data>
+  <data name="localRecordAddToolStripMenuItem" xml:space="preserve">
+    <value>Set up a new recording output</value>
+  </data>
+  <data name="localRecordRemoveToolStripMenuItem" xml:space="preserve">
+    <value>Remove a recording output</value>
+  </data>
+  <data name="scenesListActive" xml:space="preserve">
+    <value>Active Scene</value>
+  </data>
+  <data name="ProjectorSettingsTitle" xml:space="preserve">
+    <value>Projector Settings</value>
+  </data>
+  <data name="projectorSettingsTsmi" xml:space="preserve">
+    <value>セッティング</value>
+  </data>
+  <data name="msgCantEditActiveNdiOutput" xml:space="preserve">
+    <value>You cannot edit settings while playout is active.</value>
+  </data>
+  <data name="audioEffectsToolStripMenuItem" xml:space="preserve">
+    <value>Audio Effects</value>
+  </data>
+  <data name="virtualCameraTsmi" xml:space="preserve">
+    <value>Virtual Camera</value>
+  </data>
+  <data name="gpuAdapter" xml:space="preserve">
+    <value>GPU Adapter</value>
+  </data>
+  <data name="gpuAdapterAuto" xml:space="preserve">
+    <value>自動</value>
+  </data>
+</root>

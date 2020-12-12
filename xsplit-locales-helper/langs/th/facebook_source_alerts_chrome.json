@@ -1,0 +1,107 @@
+{
+  "facebook.source_alert.tabheader": {
+    "message": "เตือน"
+  },
+  "facebook.source_alert.source": {
+    "message": "ซอส"
+  },
+  "facebook.source_alert.account": {
+    "message": "บัญชี"
+  },
+  "facebook.source_alert.authorize": {
+    "message": "อนุญาตให้ XSplit ใช้งาน Facebook"
+  },
+  "facebook.source_alert.remove_authorization": {
+    "message": "**%api%** ถอนการอนุญาต"
+  },
+  "facebook.source_alert.switch_account": {
+    "message": "**%api%** สลับบัญชี"
+  },
+  "facebook.source_alert.not_connected": {
+    "message": "การเตือนจะถูกโหลดโดยอัตโนมัติเมือสตรีมไลฟ์แล้ว"
+  },
+  "facebook.source_alert.connected": {
+    "message": "เชื่อมต่อแล้ว"
+  },
+  "facebook.source_alert.connect": {
+    "message": "เชื่อมต่อ"
+  },
+  "facebook.source_alert.disconnect": {
+    "message": "ตัดการเชื่อมต่อ"
+  },
+  "facebook.source_alert.error_auth": {
+    "message": "โปรดลองอนุญาตให้ใช้ใหม่อีกครั้งและเพิ่มการเข้าถึงสิทธิ์การใช้งานที่ XSplit ต้องใช้สำหรับฟังก์ชั่นนี้"
+  },
+  "facebook.source_alert.not_seeing_videos": {
+    "message": "ไม่เห็นภาพการไลฟ์ของคุณเหรอ?"
+  },
+  "facebook.source_alert.not_seeing_videos_help": {
+    "message": "เราอาจจะไม่มีสิทธิเข้าถึงหน้าเพจไลฟ์วิดีโอบางอัน"
+  },
+  "facebook.source_alert.not_seeing_videos_link": {
+    "message": "คลิ๊กที่นี่เพื่อทำการอนุญาตอีกครั้ง"
+  },
+  "facebook.source_alert.hide_connection_message": {
+    "message": "ซ่อนข้อความการเชื่อมต่อ"
+  },
+  "facebook.source_alert.alertLabel": {
+    "message": "เตือน"
+  },
+  "facebook.source_alert.animation_text": {
+    "message": "อนิเมชั่น"
+  },
+  "facebook.source_alert.duration": {
+    "message": "ระยะเวลา"
+  },
+  "facebook.source_alert.delay": {
+    "message": "แสดงเวลา"
+  },
+  "facebook.source_alert.animateIn": {
+    "message": "อนิเมชั่นเข้า"
+  },
+  "facebook.source_alert.animateOut": {
+    "message": "อนิเมชั่นออก"
+  },
+  "facebook.source_alert.audio": {
+    "message": "เสียง"
+  },
+  "facebook.source_alert.generalHeader": {
+    "message": "ทั่วไป"
+  },
+  "facebook.source_alert.customizeHeader": {
+    "message": "ปรับแต่ง"
+  },
+  "facebook.source_alert.theme": {
+    "message": "ธีม"
+  },
+  "facebook.source_alert.minStars": {
+    "message": "นาที ดาว"
+  },
+  "facebook.source_alert.type": {
+    "message": "ประเภท"
+  },
+  "facebook.source_alert.nameStyleAndSettings": {
+    "message": "สไตล์ชื่อและการตั้งค่า"
+  },
+  "facebook.source_alert.sound": {
+    "message": "เสียง"
+  },
+  "facebook.source_alert.show_alert": {
+    "message": "ตัวอย่าง"
+  },
+  "facebook.source_alert.hide_alert": {
+    "message": "ซ่อนตัวอย่าง"
+  },
+  "facebook.source_alert.test_alert": {
+    "message": "ทดสอบการเตือน"
+  },
+  "facebook.source_alert.Color": {
+    "message": "สี"
+  },
+  "facebook.source_alert.layout": {
+    "message": "เลย์เอ้าท์"
+  },
+  "facebook.source_alert.shareNote": {
+    "message": "ใช้งานได้เมื่อแชร์แบบสาธารณะเท่านั้น"
+  }
+}

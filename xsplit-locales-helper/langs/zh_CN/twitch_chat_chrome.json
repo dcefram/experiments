@@ -1,0 +1,155 @@
+{
+	"twitch.chat.tabheader": {
+		"message": "聊天"
+	},
+	"twitch.chat.source": {
+		"message": "资源"
+	},
+	"twitch.chat.account": {
+		"message": "帐户"
+	},
+	"twitch.chat.authorize": {
+		"message": "授权XSplit使用Twitch"
+	},
+	"twitch.chat.remove_authorization": {
+		"message": "**%api%** 删除授权"
+	},
+	"twitch.chat.switch_account": {
+		"message": "**%api%** 切换帐户"
+	},
+	"twitch.chat.not_connected": {
+		"message": "未连接"
+	},
+	"twitch.chat.connected": {
+		"message": "连接"
+	},
+	"twitch.chat.connect": {
+		"message": "连接"
+	},
+	"twitch.chat.disconnect": {
+		"message": "断开连接"
+	},
+	"twitch.chat.channel": {
+		"message": "频道"
+	},
+	"twitch.chat.error_channel_not_found": {
+		"message": "请提供有效的通道."
+	},
+	"twitch.chat.display": {
+		"message": "显示"
+	},
+	"twitch.chat.chat_box": {
+		"message": "聊天框"
+	},
+	"twitch.chat.opacity": {
+		"message": "透明度"
+	},
+	"twitch.chat.viewers": {
+		"message": "观众"
+	},
+	"twitch.chat.message": {
+		"message": "消息"
+	},
+	"twitch.chat.outline_text": {
+		"message": "大纲"
+	},
+	"twitch.chat.text_size": {
+		"message": "文本大小"
+	},
+	"twitch.chat.hide_user_name": {
+		"message": "隐藏用户名"
+	},
+	"twitch.chat.hide_timestamp": {
+		"message": "隐藏时间戳"
+	},
+	"twitch.chat.hide_user_icons": {
+		"message": "隐藏用户图标"
+	},
+	"twitch.chat.hide_on_idle": {
+		"message": "空闲时隐藏聊天"
+	},
+	"twitch.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"twitch.chat.animation_text": {
+		"message": "动画"
+	},
+	"twitch.chat.animation_direction_text": {
+		"message": "方向"
+	},
+	"twitch.chat.animation_randomize": {
+		"message": "随机化"
+	},
+	"twitch.chat.animation_override_settings": {
+		"message": "此部分将覆盖手动设置的显示设置。"
+	},
+	"twitch.chat.animation_duration": {
+		"message": "持续时间"
+	},
+	"twitch.chat.animation_set_duration": {
+		"message": "这将设置滚动动画的持续时间。"
+	},
+	"twitch.chat.animation_text_size": {
+		"message": "文本大小"
+	},
+	"twitch.chat.seconds": {
+		"message": "秒"
+	},
+	"twitch.chat.animation_text_color": {
+		"message": "文字颜色"
+	},
+	"twitch.chat.animation_none": {
+		"message": "None"
+	},
+	"twitch.chat.animation_scroll": {
+		"message": "滚动"
+	},
+	"twitch.chat.animation_scroll_text": {
+		"message": "这将在屏幕上动态滚动用户聊天消息。[br][br]显示此插件的最佳方法是将源调整为全尺寸视图。"
+	},
+	"twitch.chat.animation_direction_rightToLeft": {
+		"message": "右到左"
+	},
+	"twitch.chat.animation_direction_leftToRight": {
+		"message": "左到右"
+	},
+	"twitch.chat.animation_direction_randomize": {
+		"message": "随机化"
+	},
+	"twitch.chat.outline_none": {
+		"message": "None"
+	},
+	"twitch.chat.outline_thin": {
+		"message": "薄"
+	},
+	"twitch.chat.outline_thick": {
+		"message": "厚"
+	},
+	"twitch.chat.outline_thickest": {
+		"message": "最厚"
+	},
+	"twitch.chat.blocking": {
+		"message": "阻止中"
+	},
+	"twitch.chat.blockedlist": {
+		"message": "阻止列表"
+	},
+	"twitch.chat.block_help": {
+		"message": "您可以通过在阻止列表中添加观众的姓名或用户名 (包括机器人，如果适用) 来阻止观众, 这样他们的消息就不会出现在聊天信息。 [br][br]此阻止列表未连接到您的频道的阻止列表。它只适用于此聊天源。"
+	},
+	"twitch.chat.blocking_name": {
+		"message": "输入要阻止的观众的名称或用户名。"
+	},
+	"twitch.chat.block_name": {
+		"message": "名称"
+	},
+	"twitch.chat.block_add": {
+		"message": "添加"
+	},
+	"twitch.chat.block_remove": {
+		"message": "移除"
+	},
+	"twitch.chat.preview": {
+		"message": "预览"
+	}
+}

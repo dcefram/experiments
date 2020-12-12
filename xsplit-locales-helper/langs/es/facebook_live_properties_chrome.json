@@ -1,0 +1,95 @@
+{
+	"title": {
+		"message": "Propiedades en Facebook"
+	},
+	"save_close": {
+		"message": "Guardar y cerrar"
+	},
+	"start_streaming": {
+		"message": "Continuar"
+	},
+	"logged_in_as": {
+		"message": "Sesión iniciada como: **%fullname%"
+	},
+	"switch_account": {
+		"message": "[Cambiar de cuenta](switchAccount)"
+	},
+	"remove_auth": {
+		"message": "[Quitar la autorización](removeAuth)"
+	},
+	"stream_settings": {
+		"message": "Configuración de la transmisión"
+	},
+	"stream_to.label": {
+		"message": "Transmitir a: "
+	},
+	"stream_to.values.timeline": {
+		"message": "Línea del tiempo"
+	},
+	"stream_to.values.page": {
+		"message": "Página"
+	},
+	"stream_to.values.group": {
+		"message": "Grupo"
+	},
+	"stream_to.values.event": {
+		"message": "Evento"
+	},
+	"stream_to.pageauth": {
+		"message": "Página – Necesita permiso"
+	},
+	"stream_to.groupauth": {
+		"message": "Grupo - Necesita permiso"
+	},
+	"stream_to.eventauth": {
+		"message": "Evento - Necesita permiso"
+	},
+	"page": {
+		"message": "Página: "
+	},
+	"timeline": {
+		"message": "Línea del tiempo: "
+	},
+	"group": {
+		"message": "Grupo: "
+	},
+	"event": {
+		"message": "Evento: "
+	},
+	"format.label": {
+		"message": "Formato: "
+	},
+	"encoder.label": {
+		"message": "Codificador: "
+	},
+	"bitrate": {
+		"message": "Tasa de transferencia: "
+	},
+	"saveVideo": {
+		"message": "Guardar video en Mis grabaciones"
+	},
+	"resolutionWarning": {
+		"message": "Es posible que tu hardware tenga problemas de rendimiento con esta resolución."
+	},
+	"bitrateWarning": {
+		"message": "Es posible que tu ancho de banda no sea suficiente para transmitir con esta tasa de transferencia."
+	},
+	"streamingWarning": {
+		"message": "No se pueden hacer pruebas de ancho de banda y de hardware debido a la transmisión/grabación continua."
+	},
+	"checkAgain": {
+		"message": "[¿Probar de nuevo?](testAgain)"
+	},
+	"authorize": {
+		"message": "Haz clic para autorizar que XSplit transmita a tu cuenta de Facebook"
+	},
+	"configuring": {
+		"message": "Establecer tu configuración..."
+	},
+	"system_test": {
+		"message": "Última prueba del sistema: %timestamp% [Probar de nuevo](testAgain)"
+	},
+	"advanced_settings": {
+		"message": "[Configuraciones avanzadas](advancedSettings)"
+	}
+}

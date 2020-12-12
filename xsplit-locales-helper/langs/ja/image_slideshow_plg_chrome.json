@@ -1,0 +1,104 @@
+{
+  "image_slideshow.images": {
+    "message": "画像"
+  },
+  "image_slideshow.add": {
+    "message": "追加"
+  },
+  "image_slideshow.remove": {
+    "message": "削除"
+  },
+  "image_slideshow.preview": {
+    "message": "プレビュー"
+  },
+  "image_slideshow.transition_preview": {
+    "message": "トランジションプレビュー"
+  },
+  "image_slideshow.browser_60_fps": {
+    "message": "60FPSまで有効にする"
+  },
+  "image_slideshow.effects": {
+    "message": "切り替え(&T)"
+  },
+  "image_slideshow.transition": {
+    "message": "切り替え(&T)"
+  },
+  "image_slideshow.loop": {
+    "message": "ループ"
+  },
+  "image_slideshow.interval": {
+    "message": "インターバル"
+  },
+  "image_slideshow.seconds": {
+    "message": "秒"
+  },
+  "image_slideshow.shuffle_images": {
+    "message": "画像をシャッフルする"
+  },
+  "image_slideshow.auto_refresh_images": {
+    "message": "画像を自動更新する"
+  },
+  "image_slideshow.remember_playback_position": {
+    "message": "プレイバック位置の記憶"
+  },
+  "image_slideshow.ok": {
+    "message": "OK"
+  },
+  "image_slideshow.cancel": {
+    "message": "キャンセル"
+  },
+  "image_slideshow.hint.images_section": {
+    "message": "画像を追加、削除、並び替える"
+  },
+  "image_slideshow.hint.effects_section": {
+    "message": "トランジションの適用、ループを有効にし、トランジションの時間設定"
+  },
+  "image_slideshow.hint.browser_60_fps_title": {
+    "message": "60FPSまで有効にする"
+  },
+  "image_slideshow.hint.browser_60_fps_message": {
+    "message": "追加のGPU/CPUが必要となるかもしれません。このオプションを有効にする事でソースがリフレッシュされます。最高のパフォーマンスの為にはブラウザーソース最適化を有効にしてください。【ツール→設定→高度】"
+  },
+  "image_slideshow.hint.auto_refresh_images_message": {
+    "message": "このオプションを有効にする事で画像ループされる度に自動的に更新されます。但し、このオプションを有効にする事で画像スライドショーのソースが重くなる可能性がございます。"
+  },
+  "image_slideshow.hotkeys": {
+    "message": "ホットキー"
+  },
+  "image_slideshow.hotkey_header": {
+    "message": "ソースが選択されている時にこれらのホットキーを使用します："
+  },
+  "image_slideshow.hotkey_p": {
+    "message": "スライドショーで一時停止/再開するには&quot;**P**&quot;を押してください(スライドショーモード)"
+  },
+  "image_slideshow.hotkey_s": {
+    "message": "スライドショーを停止するには&quot;**S**&quot;を押してください(スライドショーモード)"
+  },
+  "image_slideshow.hotkey_r": {
+    "message": "スライドショーを再起動するには&quot;**S**&quot;を押してください(スライドショーモード)"
+  },
+  "image_slideshow.hotkey_n": {
+    "message": "スライドショーの次の画像に行くには&quot;**N**&quot;を押してください(スライドショーモード)"
+  },
+  "image_slideshow.hotkey_b": {
+    "message": "スライドショーの前の画像に行くには&quot;**B**&quot;を押してください(スライドショーモード)"
+  },
+  "image_slideshow.double_click_main": {
+    "message": "サムネイルを表示するにはメイン画像をダブルクリックしてください(スライドショーモード)"
+  },
+  "image_slideshow.double_click_thumbnail": {
+    "message": "メイン画像を表示するにはサムネイルをダブルクリックしてください(スライドショーモード)"
+  },
+  "image_slideshow.browse": {
+    "message": "サムネイル枠をドラッグする事で、読み込まれた画像を参照する事ができます。ソースプロパティを&quot;位置固定&quot;をチェックする必要があります。(位置固定のチェックボックスは&quot;レイアウト&quot;タブで見つけることができます)"
+  },
+  "image_slideshow.loop_select_options_hide": {
+    "message": "一度表示し、非表示にします"
+  },
+  "image_slideshow.loop_select_options_nothing": {
+    "message": "一度だけ"
+  },
+  "image_slideshow.loop_select_options_loop": {
+    "message": "永遠に"
+  }
+}

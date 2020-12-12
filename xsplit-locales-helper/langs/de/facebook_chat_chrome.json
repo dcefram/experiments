@@ -1,0 +1,101 @@
+{
+  "facebook.chat.tabheader": {
+    "message": "Chat"
+  },
+  "facebook.chat.source": {
+    "message": "Quelle"
+  },
+  "facebook.chat.account": {
+    "message": "Konto"
+  },
+  "facebook.chat.automatic": {
+    "message": "Automatisch"
+  },
+  "facebook.chat.authorize": {
+    "message": "XSplit autorisieren, Facebook Live zu verwenden"
+  },
+  "facebook.chat.remove_authorization": {
+    "message": "**%api%** Autorisierung entfernen"
+  },
+  "facebook.chat.switch_account": {
+    "message": "**%api%** Konto wechseln"
+  },
+  "facebook.chat.error_auth": {
+    "message": "Bitte versuchen Sie erneut zu autorisieren und gewähren Sie den Zugriff auf alle Berechtigungen, die von XSplit für diese Funktionalität benötigt werden"
+  },
+  "facebook.chat.not_connected": {
+    "message": "Kommentare werden automatisch geladen, sobald Stream live ist"
+  },
+  "facebook.chat.connected": {
+    "message": "Verbunden"
+  },
+  "facebook.chat.display": {
+    "message": "Anzeige"
+  },
+  "facebook.chat.preview": {
+    "message": "Vorschau"
+  },
+  "facebook.chat.chatbox": {
+    "message": "Chat-Box"
+  },
+  "facebook.chat.opacity": {
+    "message": "Deckkraft"
+  },
+  "facebook.chat.viewers": {
+    "message": "Zuschauer"
+  },
+  "facebook.chat.message": {
+    "message": "Nachricht"
+  },
+  "facebook.chat.text_size": {
+    "message": "Textgröße"
+  },
+  "facebook.chat.text_direction": {
+    "message": "Textrichtung"
+  },
+  "facebook.chat.hide_user_icons": {
+    "message": "Benutzer-Symbole verstecken"
+  },
+  "facebook.chat.one_line_entries": {
+    "message": "Einzeilige Einträge"
+  },
+  "facebook.chat.hide_timestamps": {
+    "message": "Zeitstempel verstecken"
+  },
+  "facebook.chat.hide_chat_when_idle": {
+    "message": "Chat im Leerlauf ausblenden, wenn Abwesend seit"
+  },
+  "facebook.chat.blocking": {
+    "message": "Blockierung"
+  },
+  "facebook.chat.blockedlist": {
+    "message": "Blockierliste"
+  },
+  "facebook.chat.block_help": {
+    "message": "Sie können Zuschauer blockieren, indem Sie deren Name oder Benutzername der Blockierliste hinzufügen (einschließlich Bots, falls zutreffend) und ihre Nachrichten werden dann im Chat-Viewer nicht mehr angezeigt.[br][br]Diese Blockierliste ist nicht mit der Blockierliste Ihres Kanals verbunden. Sie ist nur für diese Chat-Quelle vorgesehen."
+  },
+  "facebook.chat.blocking_name": {
+    "message": "Geben Sie Name oder Benutzername des Zuschauers ein, den Sie blockieren möchten."
+  },
+  "facebook.chat.block_name": {
+    "message": "Name"
+  },
+  "facebook.chat.block_add": {
+    "message": "Hinzufügen"
+  },
+  "facebook.chat.block_remove": {
+    "message": "Entfernen"
+  },
+  "facebook.chat.hide_connection_message": {
+    "message": "Verbindungsmeldungen ausblenden"
+  },
+  "facebook.chat.not_seeing_videos": {
+    "message": "Ihr Live-Video wird nicht angezeigt?"
+  },
+  "facebook.chat.not_seeing_videos_help": {
+    "message": "Sie haben uns eventuell keine Berechtigung für den Zugriff auf einige der Live-Videos Ihrer Seite erteilt."
+  },
+  "facebook.chat.not_seeing_videos_link": {
+    "message": "Klicken Sie hier, um erneut zu autorisieren"
+  }
+}

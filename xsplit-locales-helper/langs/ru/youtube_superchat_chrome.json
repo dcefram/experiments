@@ -1,0 +1,77 @@
+{
+	"youtube.superchat.tabheader": {
+		"message": "Оповещение"
+	},
+	"youtube.superchat.source": {
+		"message": "Источник"
+	},
+	"youtube.superchat.account": {
+		"message": "Учетная запись"
+	},
+	"youtube.superchat.preview": {
+		"message": "Предварительный просмотр"
+	},
+	"youtube.superchat.account_automatic": {
+		"message": "Автоматически"
+	},
+	"youtube.superchat.authorize": {
+		"message": "Авторизуйте XSplit чтобы использовать YouTube Live"
+	},
+	"youtube.superchat.remove_authorization": {
+		"message": "**%api%** Отозвать авторизацию"
+	},
+	"youtube.superchat.switch_account": {
+		"message": "**%api%** Сменить учетную запись"
+	},
+	"youtube.superchat.not_connected": {
+		"message": "Виджеты будут включены автоматически сразу же после вывода стрима в онлайн"
+	},
+	"youtube.superchat.connected": {
+		"message": "Подключен"
+	},
+	"youtube.superchat.error_channel_not_found": {
+		"message": "Пожалуйста, укажите существующий канал."
+	},
+	"youtube.superchat.notification": {
+		"message": "Уведомление"
+	},
+	"youtube.superchat.lock_components": {
+		"message": "Заблокированные компоненты"
+	},
+	"youtube.superchat.lock_components_help": {
+		"message": "Активация этого параметра отключит реакцию на наведение указателя мыши, перемещение и изменение размеров компонентов.[br]Активируйте параметр если вы не хотите отображать эффекты при наведении на компоненты, особенно во время трансляции или записи."
+	},
+	"youtube.superchat.show_ticker": {
+		"message": "Показывать бегущую строку"
+	},
+	"youtube.superchat.show_alert": {
+		"message": "Показать оповещение"
+	},
+	"youtube.superchat.opacity": {
+		"message": "Прозрачность"
+	},
+	"youtube.superchat.font": {
+		"message": "Шрифт"
+	},
+	"youtube.superchat.text_size": {
+		"message": "Размер текста"
+	},
+	"youtube.superchat.hide_message": {
+		"message": "Скрывать сообщения из супер чата"
+	},
+	"youtube.superchat.duration": {
+		"message": "Длительность"
+	},
+	"youtube.superchat.sound": {
+		"message": "Звук"
+	},
+	"youtube.superchat.test_alert": {
+		"message": "Тестовое оповещение"
+	},
+	"youtube.superchat.loggingInTo": {
+		"message": "Вход на YouTube..."
+	},
+	"youtube.superchat.pleaseComplete": {
+		"message": "Пожалуйста, завершите процесс авторизации в браузере"
+	}
+}

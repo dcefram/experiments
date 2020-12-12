@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="frmTwitchProps" xml:space="preserve">
+    <value>خصائص Twitch.</value>
+  </data>
+  <data name="label5" xml:space="preserve">
+    <value>لتعديل حالة قناتك ، يجب تسجيل الدخول إلى حساب Twitch الخاص بك عن طريق النقر على زر "تفويض" أدناه.</value>
+  </data>
+  <data name="lblStreamKey" xml:space="preserve">
+    <value>أو مفتاح الدفق:</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>لا حساب نشل؟ سجل هنا.</value>
+  </data>
+  <data name="msgCantAuthorizeDifferentUser" xml:space="preserve">
+    <value>لا يمكنك التفويض مع مستخدم مختلف.</value>
+  </data>
+  <data name="msgAuthorizeToPost" xml:space="preserve">
+    <value>تحتاج إلى تفويض XSplit للنشر في قناة Twitch.</value>
+  </data>
+  <data name="msgNotAuthorized" xml:space="preserve">
+    <value>غير مصرح لك باستخدام Twitch.</value>
+  </data>
+  <data name="msgStreamKeyOrPasswordEmpty" xml:space="preserve">
+    <value>Password or stream key is not valid or server may be down. Please try to re-enter your credentials.</value>
+  </data>
+  <data name="StreamChannelIsEmpty" xml:space="preserve">
+    <value>قناتك ليست متاحة بعد ، أو رمز الدخول محمي. يرجى التأكد من إدخال بيانات الاعتماد الخاصة بك بشكل صحيح ، وأن قناتك لا تملك رمز وصول وأنك قمت بتكوين قناتك بشكل صحيح في موقع {0} على الويب.</value>
+  </data>
+  <data name="InvalidIngestLocationPrompt" xml:space="preserve">
+    <value>غير قادر على الاتصال بخادم الاستيعاب المفضل. هل ترغب في متابعة استخدام خادم الاستيعاب الافتراضي؟</value>
+  </data>
+  <data name="InvalidIngestLocationTitle" xml:space="preserve">
+    <value>خادم غير صالح</value>
+  </data>
+  <data name="msgIngestLocationUnavailable" xml:space="preserve">
+    <value>خادم الاستيعاب المحدد لم يعد متاحًا.</value>
+  </data>
+  <data name="btnNext" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="btnFinish" xml:space="preserve">
+    <value>Finish</value>
+  </data>
+  <data name="msgDataRateAdjusted" xml:space="preserve">
+    <value>تم ضبط معدل البيانات الخاص بك بناءً على نتيجة اختبار النطاق الترددي إلى خادم Twitch.</value>
+  </data>
+  <data name="msgBwTestSuccess" xml:space="preserve">
+    <value>Your internet connection successfully passed the bandwidth test for {0} kbps.</value>
+  </data>
+  <data name="msgBwTestFailedOrCancelled" xml:space="preserve">
+    <value>لم يتم إكمال اختبار النطاق الترددي إلى خادم Twitch.</value>
+  </data>
+  <data name="msgNoBwTestWarning" xml:space="preserve">
+    <value>Your desired data rate has not been tested against your actual upload speed. Proceed anyway?</value>
+  </data>
+  <data name="lblStreamKey2" xml:space="preserve">
+    <value>أو مفتاح الدفق:</value>
+  </data>
+  <data name="msgAuthorizeDifferentUser1" xml:space="preserve">
+    <value>لقد أذن مع مستخدم مختلف. هل تريد إعداد قناتك باستخدام "{0}" بدلاً من ذلك؟</value>
+  </data>
+  <data name="lblHint1" xml:space="preserve">
+    <value>الرجاء إدخال بيانات اعتماد Twitch الخاصة بك.</value>
+  </data>
+  <data name="lnkSignInViaOAuth" xml:space="preserve">
+    <value>طلب إذن</value>
+  </data>
+  <data name="msgAuthorizeToPost1" xml:space="preserve">
+    <value>تحتاج إلى تفويض XSplit للوصول إلى قناة Twitch.</value>
+  </data>
+  <data name="lblHint0" xml:space="preserve">
+    <value>اكتشف XSplit أنه لا توجد قنوات بث قيد الإعداد حاليًا على حسابك. عندما اشتركت في XSplit ، كان حسابك مرتبطًا بـ Twitch.</value>
+  </data>
+  <data name="rtbAutoIngestResult0" xml:space="preserve">
+    <value>Determining best ingest server...</value>
+  </data>
+  <data name="rtbAutoIngestResult" xml:space="preserve">
+    <value>Attempting to stream to {0} (?)</value>
+  </data>
+  <data name="lblAutoBitrateResultHighestRes" xml:space="preserve">
+    <value>تتراوح الدقة الموصى بها للتدفق على Twitch من {0} إلى {1}. لقد تم اختبار النطاق الترددي والأجهزة لديك بشكل كافٍ لدفق أعلى دقة موصى بها. الإعدادات الموصى بها هي:</value>
+  </data>
+  <data name="lblAutoBitrateResultMaxRes" xml:space="preserve">
+    <value>تتراوح الدقة الموصى بها للتدفق على Twitch من {0} إلى {1}. لقد تم اختبار النطاق الترددي والأجهزة الخاص بك بما يكفي لتيار يصل إلى {0}. الإعدادات الموصى بها هي:</value>
+  </data>
+  <data name="lblAutoBitrateResultInsufficient" xml:space="preserve">
+    <value>تتراوح الدقة الموصى بها للتدفق على Twitch من {0} إلى {1}. قد لا يكون {3} الخاص بك كافيًا للدفق {2}. الإعدادات الموصى بها هي:</value>
+  </data>
+  <data name="lblHint5" xml:space="preserve">
+    <value>قناة Twitch جاهزة للتكوين. الرجاء النقر فوق "إنهاء" للمتابعة أو انقر فوق "السابق" لتغيير إدخالاتك.</value>
+  </data>
+  <data name="lblHint5_Mode0" xml:space="preserve">
+    <value>قناة Twitch جاهزة للانتهاء. الرجاء النقر فوق "إنهاء" للمتابعة أو انقر فوق "السابق" لتغيير إدخالاتك.</value>
+  </data>
+  <data name="chkRecordStream" xml:space="preserve">
+    <value>حفظ التسجيل تلقائيًا على محرك الأقراص المحلي</value>
+  </data>
+  <data name="PasswordOrStreamKeyMustBeSpecified" xml:space="preserve">
+    <value>يجب تحديد كلمة المرور أو مفتاح الدفق.</value>
+  </data>
+  <data name="StreamKeyMustBeSpecified" xml:space="preserve">
+    <value>يجب تحديد مفتاح الدفق.</value>
+  </data>
+  <data name="StreamChannelIsEmpty2" xml:space="preserve">
+    <value>غير متوفر أو ، رمز الوصول المحمي. استخدم مفتاح التدفق بدلاً من ذلك.</value>
+  </data>
+  <data name="InvalidChannelCredentials" xml:space="preserve">
+    <value>حدثت مشكلة أثناء مصادقة بيانات الاعتماد الخاصة بك. يرجى التحقق من صحة اسم المستخدم وكلمة المرور ، وأن قناتك ليست محمية من الوصول إلى الشفرة ، وأن اتصالك بـ Twitch على ما يرام.</value>
+  </data>
+  <data name="InvalidChannelCredentials2" xml:space="preserve">
+    <value>حدثت مشكلة أثناء مصادقة حسابك. يرجى التحقق من أن حسابك مخول بشكل صحيح وأن اتصالك بـ Twitch على ما يرام.</value>
+  </data>
+  <data name="UsernameIsUnknown" xml:space="preserve">
+    <value>قناتك ليست متاحة بعد ، أو رمز الدخول محمي. يرجى التأكد من إدخال بيانات الاعتماد الخاصة بك بشكل صحيح ، وأن قناتك لا تملك رمز وصول وأنك قمت بتكوين قناتك بشكل صحيح في موقع Twitch.</value>
+  </data>
+  <data name="neverShowAgain" xml:space="preserve">
+    <value>لم أعد أرغب في الارتباط بـ Twitch.</value>
+  </data>
+  <data name="msgApiLimitExceeded" xml:space="preserve">
+    <value>تم تجاوز حد طلب API. الرجاء معاودة المحاولة في وقت لاحق.</value>
+  </data>
+  <data name="lblHint01" xml:space="preserve">
+    <value>سيساعدك هذا المعالج في إعداد قناة Twitch.</value>
+  </data>
+  <data name="rtbTip" xml:space="preserve">
+    <value>The {0} is possibly not sufficient for the chosen resolution.</value>
+  </data>
+  <data name="rtbTip_ReqUpload" xml:space="preserve">
+    <value>required bandwidth (?)</value>
+  </data>
+  <data name="rtbTip_ReqHw" xml:space="preserve">
+    <value>recommended hardware (?)</value>
+  </data>
+  <data name="rtbTip_ReqUploadAndHw" xml:space="preserve">
+    <value>required bandwidth (?) and recommended hardware (?)</value>
+  </data>
+  <data name="rtbAutoBitrateResult" xml:space="preserve">
+    <value>Capable throughput to target server was {0} kbps (?)</value>
+  </data>
+  <data name="lblLegendText" xml:space="preserve">
+    <value>إعدادات موصى بها</value>
+  </data>
+  <data name="linktip_upload" xml:space="preserve">
+    <value>يهتم المشاهدون بتغذية سلسة ذات جودة عالية. يرغب معظم المشاهدين في رؤية دفق {0} جيدًا بدلاً من دفق {1} متأرج ومتعثر.</value>
+  </data>
+  <data name="linktip_hardware" xml:space="preserve">
+    <value>إذا كنت تلعب على وحدة تحكم أو كمبيوتر آخر متصل عبر بطاقة تم التقاطها ، فقم بالمتابعة وحاول :-)</value>
+  </data>
+  <data name="linktip_ingest" xml:space="preserve">
+    <value>من بين الخوادم المستهدفة المتاحة التي تقدمها Twitch ، يعد هذا الخادم حاليًا هو الخادم الذي لديه أفضل أوقات الاستجابة. من المرجح أن يختلف الخادم اعتمادًا على التوجيه والازدحام والوقت من اليوم وعوامل خارجية أخرى تحدث على الإنترنت</value>
+  </data>
+  <data name="linktip_datarate_under" xml:space="preserve">
+    <value>النطاق الترددي بين الكمبيوتر والخادم الهدف هو {0} كيلو بايت في الثانية وهو ما يكفي {1}.</value>
+  </data>
+  <data name="linktip_datarate_under1" xml:space="preserve">
+    <value>النطاق الترددي بين جهاز الكمبيوتر الخاص بك والخادم الهدف هو {0} كيلو بايت في الثانية وهو ما قد لا يكفي لـ {1}.</value>
+  </data>
+  <data name="linktip_datarate_over" xml:space="preserve">
+    <value>النطاق الترددي بين جهاز الكمبيوتر الخاص بك والخادم الهدف قادر على أكثر من {0} كيلو بايت في الثانية وهو الحد الأقصى لمعدل البت الموصى به لـ {1}.</value>
+  </data>
+  <data name="linktip_datarate" xml:space="preserve">
+    <value>النطاق الترددي بين جهاز الكمبيوتر الخاص بك والخادم الهدف قادر على {0} كيلو بايت في الثانية وهو الحد الأقصى لمعدل البت الموصى به لـ {1}.</value>
+  </data>
+  <data name="AutoIngestName" xml:space="preserve">
+    <value>تلقائي</value>
+  </data>
+  <data name="lblAutoBitrateResult" xml:space="preserve">
+    <value>بناءً على الاختيار أدناه ، سيقوم المعالج بتهيئة إعدادات قناتك مسبقًا لتتوافق مع الدقة المطلوبة. الدقة الموصى بها هي:</value>
+  </data>
+  <data name="StreamPopup_AutoIngestStatus" xml:space="preserve">
+    <value>تحديد خادم تيار المستهدفة</value>
+  </data>
+  <data name="StreamPopup_AutoIngestStatus1" xml:space="preserve">
+    <value>تم العثور على الخادم الهدف: {0}</value>
+  </data>
+  <data name="StreamPopup_AutoIngestStatus2" xml:space="preserve">
+    <value>الخادم المستهدف للتيار المقترح:</value>
+  </data>
+  <data name="msgSetToAutomatic" xml:space="preserve">
+    <value>يتطلب خيار تأكيد موقع الاستيعاب إعداد الخادم على "تلقائي". هل تريد ضبطه؟</value>
+  </data>
+  <data name="msgApiError" xml:space="preserve">
+    <value>{0} يرجى المحاولة مرة أخرى لاحقًا.</value>
+  </data>
+  <data name="PasswordMustBeSpecified" xml:space="preserve">
+    <value>Password must be specified.</value>
+  </data>
+  <data name="chkConfirmAutoIngestOnBroadcast" xml:space="preserve">
+    <value>تأكيد استيعاب الخادم قبل البث</value>
+  </data>
+  <data name="lblNote" xml:space="preserve">
+    <value>ملاحظة: قد يتم تعطيل بعض إعدادات التشفير للتوافق مع Twitch.</value>
+  </data>
+  <data name="msgLicenseOffer_AAC" xml:space="preserve">
+    <value>Enabling the higher quality AAC audio is only available for licensed XSplit users.
+
+Upgrade your license now?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="lnkVbrWarning" xml:space="preserve">
+    <value>الإعدادات الحالية لا تتطابق مع Twitch الموصى بها. مزيد من التفاصيل هنا.</value>
+  </data>
+  <data name="msgBroadcastTerminated" xml:space="preserve">
+    <value>تم إنهاء {0} البث الخاص بك. يرجى التحقق من بيانات اعتماد المصادقة الخاصة بك ، مثل مفتاح التدفق الخاص بك ، وتأكيد صحة هذه البيانات بالنقر فوق الزر "{1}".</value>
+  </data>
+  <data name="msgConfirmMixerResFpsAdjustment" xml:space="preserve">
+    <value>سيتم الآن ضبط الخلاط على {0}. تطبيق؟</value>
+  </data>
+  <data name="lblAuth" xml:space="preserve">
+    <value>شهاداته:</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="rbAuthToken" xml:space="preserve">
+    <value>مصادقة الويب (مستحسن)</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="rbAuthStreamKey" xml:space="preserve">
+    <value>تيار المفتاح</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="lblUsername2" xml:space="preserve">
+    <value>الحساب:</value>
+    <comment>Properties; Wizard</comment>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>السماح لـ XSplit لاستخدام Twitch{0}</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>Remove authorization</value>
+  </data>
+  <data name="lblSwitchAccount" xml:space="preserve">
+    <value>استبدل الحسابات</value>
+  </data>
+  <data name="msgSwitchToStreamKeyAuthWarning" xml:space="preserve">
+    <value>سيؤدي تحديد هذا الخيار إلى إلغاء اعتماد الحساب الجاري.</value>
+  </data>
+  <data name="msg403OnGetChannel" xml:space="preserve">
+    <value>يحتاج حساب Twitch لديك إلى تمكين المصادقة ثنائية العامل ليكون قادراً على التدفق. [تعرف على المزيد] (https://xspl.it/bc/twitch2fa)</value>
+  </data>
+  <data name="btnSetup2FA" xml:space="preserve">
+    <value>إعداد 2FA</value>
+  </data>
+  <data name="lblStreamName2" xml:space="preserve">
+    <value>تيار المفتاح</value>
+  </data>
+</root>

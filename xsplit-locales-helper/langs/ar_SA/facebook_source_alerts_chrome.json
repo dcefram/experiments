@@ -1,0 +1,107 @@
+{
+  "facebook.source_alert.tabheader": {
+    "message": "إنذار"
+  },
+  "facebook.source_alert.source": {
+    "message": "مصدر"
+  },
+  "facebook.source_alert.account": {
+    "message": "الحساب"
+  },
+  "facebook.source_alert.authorize": {
+    "message": "Authorize XSplit to use Facebook"
+  },
+  "facebook.source_alert.remove_authorization": {
+    "message": "**%api%** Remove authorization"
+  },
+  "facebook.source_alert.switch_account": {
+    "message": "**%api%** Switch account"
+  },
+  "facebook.source_alert.not_connected": {
+    "message": "سيتم توصيل القطعة تلقائيًا بمجرد بث مباشر"
+  },
+  "facebook.source_alert.connected": {
+    "message": "متصل"
+  },
+  "facebook.source_alert.connect": {
+    "message": "متصل"
+  },
+  "facebook.source_alert.disconnect": {
+    "message": "قطع الاتصال"
+  },
+  "facebook.source_alert.error_auth": {
+    "message": "Please try authorizing again and grant access to all permission required by XSplit for this functionality"
+  },
+  "facebook.source_alert.not_seeing_videos": {
+    "message": "Not seeing your live video?"
+  },
+  "facebook.source_alert.not_seeing_videos_help": {
+    "message": "We might not have permission to access some of your pages' live videos."
+  },
+  "facebook.source_alert.not_seeing_videos_link": {
+    "message": "Click here to re-authorize"
+  },
+  "facebook.source_alert.hide_connection_message": {
+    "message": "Hide connection messages"
+  },
+  "facebook.source_alert.alertLabel": {
+    "message": "إنذار"
+  },
+  "facebook.source_alert.animation_text": {
+    "message": "حيوية"
+  },
+  "facebook.source_alert.duration": {
+    "message": "Duration"
+  },
+  "facebook.source_alert.delay": {
+    "message": "وقت العرض"
+  },
+  "facebook.source_alert.animateIn": {
+    "message": "تحريك في"
+  },
+  "facebook.source_alert.animateOut": {
+    "message": "تحريك بها"
+  },
+  "facebook.source_alert.audio": {
+    "message": "Audio"
+  },
+  "facebook.source_alert.generalHeader": {
+    "message": "General"
+  },
+  "facebook.source_alert.customizeHeader": {
+    "message": "تعديل"
+  },
+  "facebook.source_alert.theme": {
+    "message": "الخلفيات"
+  },
+  "facebook.source_alert.minStars": {
+    "message": "Min. stars"
+  },
+  "facebook.source_alert.type": {
+    "message": "Type"
+  },
+  "facebook.source_alert.nameStyleAndSettings": {
+    "message": "اسم النمط والإعداد"
+  },
+  "facebook.source_alert.sound": {
+    "message": "صوت"
+  },
+  "facebook.source_alert.show_alert": {
+    "message": "Preview"
+  },
+  "facebook.source_alert.hide_alert": {
+    "message": "إخفاء المعاينة"
+  },
+  "facebook.source_alert.test_alert": {
+    "message": "اختبار الانذار"
+  },
+  "facebook.source_alert.Color": {
+    "message": "Color"
+  },
+  "facebook.source_alert.layout": {
+    "message": "Layout"
+  },
+  "facebook.source_alert.shareNote": {
+    "message": "Only works when shared to public"
+  }
+}

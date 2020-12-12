@@ -1,0 +1,173 @@
+{
+  "title.content": {
+    "message": "Contenu"
+  },
+  "title.use_custom_script": {
+    "message": "Utiliser script personnalisé"
+  },
+  "title.edit_script": {
+    "message": "Modifier script"
+  },
+  "title.format": {
+    "message": "Format"
+  },
+  "title.font": {
+    "message": "Police"
+  },
+  "title.color": {
+    "message": "Couleur"
+  },
+  "title.outline": {
+    "message": "Contour"
+  },
+  "title.opacity": {
+    "message": "Opacité"
+  },
+  "title.style": {
+    "message": "Style"
+  },
+  "title.align": {
+    "message": "Alignement"
+  },
+  "title.shadow": {
+    "message": "Ombre"
+  },
+  "title.distance": {
+    "message": "Distance"
+  },
+  "title.blur": {
+    "message": "Flou"
+  },
+  "title.angle": {
+    "message": "Angle"
+  },
+  "title.animation": {
+    "message": "Animation"
+  },
+  "title.none": {
+    "message": "Aucun"
+  },
+  "title.scroll": {
+    "message": "Défilement"
+  },
+  "title.fade": {
+    "message": "Fondu"
+  },
+  "title.scrolling": {
+    "message": "Défilement"
+  },
+  "title.line_limit": {
+    "message": "Limite de ligne"
+  },
+  "title.direction": {
+    "message": "Direction"
+  },
+  "title.speed": {
+    "message": "Vitesse"
+  },
+  "title.scroll_units": {
+    "message": "px/s"
+  },
+  "title.delimeter": {
+    "message": "Délimiteur"
+  },
+  "title.interval": {
+    "message": "Intervalle"
+  },
+  "title.fade_speed": {
+    "message": "Vitesse de fondu"
+  },
+  "title.enable_60_fps": {
+    "message": "Permettre jusqu'à 60 FPS"
+  },
+  "title.enable_60_fps_tooltip": {
+    "message": "Peut exiger des resources supplémentaires de GPU/CPU. Notez qu'activer cette option enclenchera l'actualisation de la source. Pour la meilleure performance, activez l'Optimisation Spéciale Source Navigateur dans Outils -> Options -> Avancé."
+  },
+  "title.ok": {
+    "message": "OK"
+  },
+  "title.cancel": {
+    "message": "Annuler"
+  },
+  "title.hint.content_section": {
+    "message": "Saisissez votre texte ici. Vous pouvez utiliser &amp;lt;br&amp;gt; pour insérer des retours à la ligne. Vous pouvez également utiliser le BBcode plus formater davantage votre texte. Cliquez [ici](https://xspl.it/bbcode) pour en savoir plus."
+  },
+  "title.deprecated_scripts": {
+    "message": "Le script utilisé dans cette source texte contient des méthodes de script obsolètes. Mettez à jour le script en effectuant ce qui suit :[br]1. Cliquez sur le bouton 'Modifier script' dans l'onglet Texte[br]2. Sélectionnez le modèle de script et appuyez sur le bouton 'Mettre le texte à jour'"
+  },
+  "title.outdated_scripts": {
+    "message": "Le script utilisé dans ce texte source est peut-être obsolète. Vous pouvez mettre à jour le script en procédant comme suit :[br]1. Cliquez sur le bouton « Modifier script » dans l'onglet Texte[br]2. Sélectionnez un modèle de script, configurez les paramètres et appuyez sur le bouton « Mettre le texte à jour »"
+  },
+  "title.script_editor.edit_script": {
+    "message": "Modifier le script - "
+  },
+  "title.script_editor.title": {
+    "message": "Script"
+  },
+  "title.script_editor.template": {
+    "message": "Modèle"
+  },
+  "title.script_editor.settings": {
+    "message": "Paramètres"
+  },
+  "title.script_editor.script": {
+    "message": "Script"
+  },
+  "title.script_editor.back": {
+    "message": "Retour"
+  },
+  "title.script_editor.update_title": {
+    "message": "Mettre le texte à jour"
+  },
+  "title.help.outline_title": {
+    "message": "Utiliser un contour pour la source texte"
+  },
+  "title.help.outline_message": {
+    "message": "Il existe une limitation pour la taille de police lors de l'utilisation du contour. Vous pouvez redimensionner la source texte sur votre scène, mais le texte ne s'affichera que jusqu'à la taille de police maximale."
+  },
+  "title.help.pause_script_title": {
+    "message": "Mettre en pause ou reprendre un script"
+  },
+  "title.help.pause_script_message": {
+    "message": "Vous pouvez mettre en pause/lire un script pris en charge, comme les modes minuteur et durée du script général de l'horloge et autres scripts personnalisés."
+  },
+  "title.help.delimeter_title": {
+    "message": "Délimiteur"
+  },
+  "title.help.delimeter_message": {
+    "message": "Un délimiteur est un caractère ou jeu de caractères qui sépare le texte en segments à afficher lors des effets de fondu."
+  },
+  "title.help.interval_title": {
+    "message": "Intervalle"
+  },
+  "title.help.interval_message": {
+    "message": "L'intervalle est la durée pendant laquelle un texte est affiché avant le prochain effet de fondu."
+  },
+  "title.pause_hotkey": {
+    "message": "Lorsque vous sélectionnez la source sur la scène, vous pouvez utiliser un raccourci (appuyez sur « P ») pour mettre en pause/lire un script pris en charge."
+  },
+  "title.direction_options_right_to_left": {
+    "message": "Droite à gauche"
+  },
+  "title.direction_options_left_to_right": {
+    "message": "Gauche à droite"
+  },
+  "title.direction_options_bottom_to_top": {
+    "message": "Bas en haut"
+  },
+  "title.direction_options_top_to_bottom": {
+    "message": "Haut en bas"
+  },
+  "title.outline_options_none": {
+    "message": "Aucun"
+  },
+  "title.outline_options_thin": {
+    "message": "Fin"
+  },
+  "title.outline_options_thick": {
+    "message": "Épais"
+  },
+  "title.outline_options_thickest": {
+    "message": "Le plus épais"
+  }
+}

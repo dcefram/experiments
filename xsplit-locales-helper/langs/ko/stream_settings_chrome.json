@@ -1,0 +1,41 @@
+{
+	"streamSettings.freeUserLimitationStreamReso": {
+		"message": "XSplit Broadcaster 는 %resolution% 이상의 해상도 이상을 송출 할 수 있습니다. 하지만 이 기능은 유료 라이센스를 획득한 사용자들만이 사용 가능 합니다. [br][br] 진행 여부를 선택 하십시오."
+	},
+	"streamSettings.freeUserLimitationRecordReso": {
+		"message": "XSplit Broadcaster 는 %resolution% 이상의 해상도 이상의 녹화가 가능합니다. 하지만 이 기능은 유료 라이센스를 획득한 사용자들만이 사용 가능 합니다. [br][br] 진행 여부를 선택 하십시오."
+	},
+	"streamSettings.freeUserLimitationStreamFps": {
+		"message": "XSplit Broadcaster 는 %fps% 이상의 프레임률을 송출 할 수 있습니다. 이 기능은 프리미엄 라이선스를 필요로 합니다. [br][br] 진행 여부를 선택 해주세요."
+	},
+	"streamSettings.freeUserLimitationRecordFps": {
+		"message": "XSplit Broadcaster 는 %fps% 이상의 프레임률을 녹화할 수 있습니다. 이 기능은 프리미엄 라이선스를 필요로 합니다. [br][br] 진행 여부를 선택 해주세요."
+	},
+	"streamSettings.freeUserLimitationStreamResoFps": {
+		"message": "XSplit Broadcaster 는 %resolution% 이상의 고화질 해상도와 %fps% 이상의 프레임률을 송출 할 수 있습니다. 이 기능은 프리미엄 라이선스를 필요로 합니다. [br][br] 진행 여부를 선택 해주세요."
+	},
+	"streamSettings.freeUserLimitationRecordResoFps": {
+		"message": "XSplit Broadcaster 는 %resolution% 이상의 고화질 해상도와 %fps% 이상의 프레임률을 녹화할 수 있습니다. 이 기능은 프리미엄 라이선스를 필요로 합니다. [br][br] 진행 여부를 선택 해주세요."
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonReso": {
+		"message": "%type% 은 %resolution% 해상도에서 [br]워터마크[br]없음"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonFps": {
+		"message": "%type% 은 %fps%[br]프레임률 설정시[br]워터마크가 무효합니다"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonResoFps": {
+		"message": "%type% 은 %resolution%[br]해상도 설정시[br]%fps%프레임률에 한에서[br]워터마크가 무효합니다"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonReso": {
+		"message": "%type% 은 %resolution% 해상도에서 [br]워터마크[br]포함"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonFps": {
+		"message": "%type% 은 %fps%[br]프레임률 설정시[br]워터마크가 유효합니다"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonResoFps": {
+		"message": "%type% 은 %resolution%[br]해상도 설정시[br]%fps%프레임률에 한에서[br]워터마크가 유효합니다"
+	},
+	"streamSettings.buyLicenseButton": {
+		"message": "워터마크 [br]제거[br]를 위해 라이선스 구매"
+	}
+}

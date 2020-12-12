@@ -1,0 +1,17 @@
+{
+	"color_source.tabheader": {
+		"message": "Color de relleno"
+	},
+	"color_source.title": {
+		"message": "Relleno"
+	},
+	"color_source.solid_color": {
+		"message": "Color sólido"
+	},
+	"color_source.color_bars": {
+		"message": "Barras de colores"
+	},
+	"color_source.color": {
+		"message": "Color"
+	}
+}

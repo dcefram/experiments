@@ -1,0 +1,17 @@
+{
+	"color_source.tabheader": {
+		"message": "颜色填充"
+	},
+	"color_source.title": {
+		"message": "填充"
+	},
+	"color_source.solid_color": {
+		"message": "纯色"
+	},
+	"color_source.color_bars": {
+		"message": "彩条"
+	},
+	"color_source.color": {
+		"message": "色彩"
+	}
+}

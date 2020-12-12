@@ -1,0 +1,62 @@
+{
+	"youtube.html.tabheader": {
+		"message": "แชท"
+	},
+	"youtube.html.source": {
+		"message": "ซอส"
+	},
+	"youtube.html.account": {
+		"message": "บัญชี"
+	},
+	"youtube.html.preview": {
+		"message": "ตัวอย่าง"
+	},
+	"youtube.html.not_connected": {
+		"message": "ไม่ได้เชื่อมต่อ"
+	},
+	"youtube.html.connected": {
+		"message": "เชื่อมต่อแล้ว"
+	},
+	"youtube.html.error_channel_not_found": {
+		"message": "โปรดระบุ วิดีโอไอดีที่ถูกต้อง"
+	},
+	"youtube.html.display": {
+		"message": "แสดงผล"
+	},
+	"youtube.html.chat_box": {
+		"message": "ช่องแชท"
+	},
+	"youtube.html.opacity": {
+		"message": "ความทึบแสง"
+	},
+	"youtube.html.viewers": {
+		"message": "ผู้ชม"
+	},
+	"youtube.html.message": {
+		"message": "ข้อความ"
+	},
+	"youtube.html.text_size": {
+		"message": "ขนาดข้อความ"
+	},
+	"youtube.html.hide_user_icons": {
+		"message": "ซ่อนไอค่อนผู้ใช้"
+	},
+	"youtube.html.hide_timestamps": {
+		"message": "ซ่อนเวลา"
+	},
+	"youtube.html.hide_on_idle": {
+		"message": "ซ่อนแชทเมื่อปล่อยว่างเป็นเวลา"
+	},
+	"youtube.html.video_id": {
+		"message": "วิดีโอไอดี"
+	},
+	"youtube.html.video_id_help": {
+		"message": "เพื่อที่จะทราบ ID ของ Youtube live วิดีโอของคุณ ในเว็บเบราว์เซอร์ คลิ๊กขวาที่วิดีโอและเลือก 'Copy video URL' คัดลอกตัวอักษรที่อยู่ที่ส่วนสุดท้ายของ URL ของวิดีโอของคุณ"
+	},
+	"youtube.html.connect": {
+		"message": "เชื่อมต่อ"
+	},
+	"youtube.html.disconnect": {
+		"message": "ตัดการเชื่อมต่อ"
+	}
+}

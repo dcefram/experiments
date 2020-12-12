@@ -1,0 +1,41 @@
+{
+  "googleSlide.presentation": {
+    "message": "Presentation"
+  },
+  "googleSlide.go_button": {
+    "message": "Go"
+  },
+  "googleSlide.url": {
+    "message": "URL"
+  },
+  "googleSlide.enter_google_slide_link": {
+    "message": "Enter your Google Slides share link"
+  },
+  "googleSlide.remove_controls_ui": {
+    "message": "Remove Controls UI"
+  },
+  "googleSlide.connected": {
+    "message": "接続しました。"
+  },
+  "googleSlide.valid_url_warning": {
+    "message": "Enter a valid Google Slides URL"
+  },
+  "googleSlide.slide_private_warning": {
+    "message": "Slide is private. Enable 'Anyone with the link can view'"
+  },
+  "googleSlide.playback": {
+    "message": "プレイバック"
+  },
+  "googleSlide.system_sound": {
+    "message": "システムサウンド"
+  },
+  "googleSlide.stream_only": {
+    "message": "放送のみ"
+  },
+  "googleSlide.stream_only_install": {
+    "message": "放送のみ(インストール)"
+  },
+  "googleSlide.default_speakers": {
+    "message": "既定スピーカー"
+  }
+}

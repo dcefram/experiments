@@ -1,0 +1,98 @@
+{
+  "title.source": {
+    "message": "Source"
+  },
+  "subtitle.account": {
+    "message": "Compte"
+  },
+  "link.authorize": {
+    "message": "Autoriser XSplit à utiliser Facebook Live"
+  },
+  "subtitle2.authorize.error": {
+    "message": "Veuillez réessayer d'autoriser l'action et toutes les permissions requises par XSplit pour cette fonctionnalité"
+  },
+  "subtitle.connect": {
+    "message": "Poster l'URL"
+  },
+  "chat.disconnected": {
+    "message": "Non connecté"
+  },
+  "chat.connected": {
+    "message": "Connecté"
+  },
+  "help.post.title": {
+    "message": "Poster l'URL"
+  },
+  "help.post.text": {
+    "message": "Les URLs autorisés sont les posts publics, vos propres posts (vidéos, images, etc) de votre fil d'actualité, ou posts d'images et vidéos de pages que vous gérez."
+  },
+  "chat.connect": {
+    "message": "Connexion"
+  },
+  "chat.disconnect": {
+    "message": "Déconnexion"
+  },
+  "subtitle2.connect.error": {
+    "message": "Veuillez fournir une URL valide d'une vidéo ou d'un post."
+  },
+  "title.display": {
+    "message": "Affichage"
+  },
+  "label.lock": {
+    "message": "Vérrouiller les éléments"
+  },
+  "help.lock.title": {
+    "message": "Vérrouiller les éléments"
+  },
+  "help.lock.text": {
+    "message": "Cocher cette option désactivera le curseur de la souris, le repositionnement et redimensionnement des éléments.[br]Cocher ceci si vous ne voulez pas afficher les effets de survolement de souris sur les éléments, particulièrement lorsque vous streamez ou enregistrez."
+  },
+  "label.reactions": {
+    "message": "Montrer les Réactions et Labels"
+  },
+  "button.reset": {
+    "message": "Remise à zéro"
+  },
+  "label.bg": {
+    "message": "Fond d'écran du Compteur"
+  },
+  "label.counter": {
+    "message": "Compteur"
+  },
+  "label.label": {
+    "message": "Label"
+  },
+  "label.opacity": {
+    "message": "Opacité"
+  },
+  "label.hide_connection_message": {
+    "message": "Cacher les messages de connexion"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** Changer de compte"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** Retirer l'autorisation"
+  },
+  "input.like": {
+    "message": "J'aime"
+  },
+  "input.love": {
+    "message": "J'adore"
+  },
+  "input.haha": {
+    "message": "Haha"
+  },
+  "input.sad": {
+    "message": "Triste"
+  },
+  "input.wow": {
+    "message": "Wouah"
+  },
+  "input.angry": {
+    "message": "Grrr"
+  },
+  "tabheader.title": {
+    "message": "Poster vos réactions"
+  }
+}

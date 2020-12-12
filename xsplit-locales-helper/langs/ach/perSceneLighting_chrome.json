@@ -1,0 +1,26 @@
+{
+  "perSceneLighting.default": {
+    "message": "crwdns162198:0crwdne162198:0"
+  },
+  "perSceneLighting.manage_text": {
+    "message": "crwdns162200:0crwdne162200:0"
+  },
+  "perSceneLighting.add_scene": {
+    "message": "crwdns162202:0crwdne162202:0"
+  },
+  "perSceneLighting.devices": {
+    "message": "crwdns162204:0crwdne162204:0"
+  },
+  "perSceneLighting.no_devices": {
+    "message": "crwdns162206:0crwdne162206:0"
+  },
+  "perSceneLighting.not_connected": {
+    "message": "crwdns162208:0crwdne162208:0"
+  },
+  "perSceneLighting.default_tooltip": {
+    "message": "crwdns162210:0crwdne162210:0"
+  },
+  "perSceneLighting.default_light_settings": {
+    "message": "crwdns162212:0crwdne162212:0"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "audioMixer.settings": {
+    "message": "crwdns162118:0crwdne162118:0"
+  },
+  "audioMixer.device_unavailable": {
+    "message": "crwdns162120:0crwdne162120:0"
+  },
+  "audioMixer.global_devices": {
+    "message": "crwdns162122:0crwdne162122:0"
+  },
+  "audioMixer.playback_devices": {
+    "message": "crwdns162124:0crwdne162124:0"
+  },
+  "audioMixer.recording_devices": {
+    "message": "crwdns162126:0crwdne162126:0"
+  },
+  "audioMixer.add_device": {
+    "message": "crwdns162128:0crwdne162128:0"
+  },
+  "audioMixer.default_microphone": {
+    "message": "crwdns162130:0crwdne162130:0"
+  },
+  "audioMixer.default_speakers": {
+    "message": "crwdns162132:0crwdne162132:0"
+  },
+  "audioMixer.stream_only_audio": {
+    "message": "crwdns162134:0crwdne162134:0"
+  },
+  "audioMixer.mic": {
+    "message": "crwdns162136:0crwdne162136:0"
+  },
+  "audioMixer.system": {
+    "message": "crwdns162138:0crwdne162138:0"
+  },
+  "audioMixer.stream_only": {
+    "message": "crwdns162140:0crwdne162140:0"
+  }
+}

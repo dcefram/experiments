@@ -1,0 +1,77 @@
+{
+	"youtube.superchat.tabheader": {
+		"message": "警报"
+	},
+	"youtube.superchat.source": {
+		"message": "资源"
+	},
+	"youtube.superchat.account": {
+		"message": "帐户"
+	},
+	"youtube.superchat.preview": {
+		"message": "预览"
+	},
+	"youtube.superchat.account_automatic": {
+		"message": "自动"
+	},
+	"youtube.superchat.authorize": {
+		"message": "授权XSplit使用 YouTube Live"
+	},
+	"youtube.superchat.remove_authorization": {
+		"message": "**%api%** 删除授权"
+	},
+	"youtube.superchat.switch_account": {
+		"message": "**%api%** 切换帐户"
+	},
+	"youtube.superchat.not_connected": {
+		"message": "当直播生效时Widget 将自动连接"
+	},
+	"youtube.superchat.connected": {
+		"message": "连接"
+	},
+	"youtube.superchat.error_channel_not_found": {
+		"message": "请提供有效的通道."
+	},
+	"youtube.superchat.notification": {
+		"message": "提醒"
+	},
+	"youtube.superchat.lock_components": {
+		"message": "锁定组件"
+	},
+	"youtube.superchat.lock_components_help": {
+		"message": "选中此选项将禁用鼠标悬停，重新定位和调整组件大小。[br]如果您不想在组件上显示悬停效果，请检查此项，尤其是在流式传输或录制时。"
+	},
+	"youtube.superchat.show_ticker": {
+		"message": "显示断续器"
+	},
+	"youtube.superchat.show_alert": {
+		"message": "显示提醒"
+	},
+	"youtube.superchat.opacity": {
+		"message": "透明度"
+	},
+	"youtube.superchat.font": {
+		"message": "字体"
+	},
+	"youtube.superchat.text_size": {
+		"message": "文本大小"
+	},
+	"youtube.superchat.hide_message": {
+		"message": "隐藏超级聊天消息"
+	},
+	"youtube.superchat.duration": {
+		"message": "持续时间"
+	},
+	"youtube.superchat.sound": {
+		"message": "声音"
+	},
+	"youtube.superchat.test_alert": {
+		"message": "测试警报"
+	},
+	"youtube.superchat.loggingInTo": {
+		"message": "登录YouTube..."
+	},
+	"youtube.superchat.pleaseComplete": {
+		"message": "请在浏览器中完成登录过程"
+	}
+}

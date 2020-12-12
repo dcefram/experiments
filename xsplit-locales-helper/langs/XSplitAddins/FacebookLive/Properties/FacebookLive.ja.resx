@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="msgAuthExpiredOrInvalid" xml:space="preserve">
+    <value>アクセストークンが無い、期限切れ、または無効です。再認証を行ってください。
+
+
+問題が解決しない場合は、サポートに連絡をしてください。</value>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>XSplitに対して{0} の使用を許可します。</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>承認を取り消す</value>
+  </data>
+  <data name="lblPageAudience" xml:space="preserve">
+    <value>ページ視聴者</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>Facebookアカウントをお持ちでない？こちらで登録できます。</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>Facebookのサーバーとの通信に失敗しました。後でもう一度やり直してください。</value>
+  </data>
+  <data name="msgAuthorizeRequired" xml:space="preserve">
+    <value>まず、アカウントを承認する必要があります。</value>
+  </data>
+  <data name="msgStreamTimeLimitReached" xml:space="preserve">
+    <value>Facebookライブの制限時間の {0} 分に到達しました。放送を停止いたします。</value>
+  </data>
+  <data name="msgStreamTimeLimitUpdate" xml:space="preserve">
+    <value>Facebookライブへの放送のこり時間は後 {0} 分です。</value>
+  </data>
+  <data name="lblChannels" xml:space="preserve">
+    <value>チャンネル:</value>
+  </data>
+  <data name="pbPageAudience_Tooltip" xml:space="preserve">
+    <value>ページウォールに投稿する時のみページ視聴者設定を有効にする事ができます。</value>
+  </data>
+  <data name="pbContinuousLive_Tooltip" xml:space="preserve">
+    <value>このオプションを有効にすると４時間以上配信する事が可能ですが、過去放送がFacebookタイムラインに保存されません。</value>
+  </data>
+  <data name="USER_WALL" xml:space="preserve">
+    <value>あなたのタイムライン</value>
+  </data>
+  <data name="GROUP_WALL" xml:space="preserve">
+    <value>グループ</value>
+  </data>
+  <data name="PAGE_WALL" xml:space="preserve">
+    <value>あなたの管理するページ</value>
+  </data>
+  <data name="ALL" xml:space="preserve">
+    <value>全て</value>
+  </data>
+  <data name="MALE" xml:space="preserve">
+    <value>男性</value>
+  </data>
+  <data name="FEMALE" xml:space="preserve">
+    <value>女性</value>
+  </data>
+  <data name="EVERYONE" xml:space="preserve">
+    <value>パブリック</value>
+  </data>
+  <data name="ALL_FRIENDS" xml:space="preserve">
+    <value>友人</value>
+  </data>
+  <data name="SELF" xml:space="preserve">
+    <value>自分だけ</value>
+  </data>
+  <data name="ALL_LOCATIONS" xml:space="preserve">
+    <value>全ての場所</value>
+  </data>
+  <data name="SELECTED_LOCATIONS" xml:space="preserve">
+    <value>場所をリスト化</value>
+  </data>
+  <data name="msgPostAsIsRequired" xml:space="preserve">
+    <value>空投稿をする事はできません</value>
+  </data>
+  <data name="msgTitleLengthExceeded" xml:space="preserve">
+    <value>タイトルは２２５字を越す事はできません</value>
+  </data>
+  <data name="msgAgeRangeInvalid" xml:space="preserve">
+    <value>最低年齢と最大年齢の設定が正しくありません。</value>
+  </data>
+  <data name="msgCountriesCountExceeded" xml:space="preserve">
+    <value>選択した場所は２５以下にする必要があります。</value>
+  </data>
+  <data name="FacebookLiveProps" xml:space="preserve">
+    <value>Facebookライブプロパティ</value>
+  </data>
+  <data name="lblLiveUsername" xml:space="preserve">
+    <value>ユーザー名</value>
+  </data>
+  <data name="msgBelowMinBitrate" xml:space="preserve">
+    <value>ビデオのビットレートが {0} に変更されました。Facebookの {2} に必要な最小推奨ビットレートの {1} 以下です。詳細に関してましては (?) アイコンを参照にしてください。それでも続行しますか？</value>
+  </data>
+  <data name="msgMinFriendsCountForStream" xml:space="preserve">
+    <value>ユーザーは {0} フレンド以下で配信する事は許可されておりません。</value>
+  </data>
+  <data name="msgNoPermissionToCreateLiveVideo" xml:space="preserve">
+    <value>このユーザーのライブ動画を作成する権限がありません。</value>
+  </data>
+  <data name="msgEndContinuousLiveVideo" xml:space="preserve">
+    <value>Facebook Liveへの放送を停止しました。 この継続ライブも終了しますか？</value>
+  </data>
+  <data name="msgStartScheduledLiveAnyway" xml:space="preserve">
+    <value>予約中のライブビデオは仮配信から開始予定時間に本番に自動的に配信が開始されます。開始予定時間は {0} です、待たずにすぐに配信を開始いたしますか？</value>
+  </data>
+  <data name="msgConfirmDeleteScheduledLive" xml:space="preserve">
+    <value>このスケジュールされたライブ動画を削除しますか？</value>
+  </data>
+  <data name="msgConfirmEndContinuouLive" xml:space="preserve">
+    <value>この連続ライブビデオを終了しますか？</value>
+  </data>
+  <data name="ContinuousLiveTextTemplate" xml:space="preserve">
+    <value>連続： 作成 {0}{1}</value>
+  </data>
+  <data name="ScheduledLiveTextTemplate" xml:space="preserve">
+    <value>スケジュール：開始 {0}{1}</value>
+  </data>
+  <data name="EventTextTemplate" xml:space="preserve">
+    <value>{0} からイベント "{1}" へ</value>
+  </data>
+  <data name="GroupTextTemplate" xml:space="preserve">
+    <value>{0} からグループ "{1}" へ</value>
+  </data>
+  <data name="LiveTextTemplate" xml:space="preserve">
+    <value>ライブ： 待ち時間 {0}{1}</value>
+  </data>
+  <data name="ManualLiveTextTemplate" xml:space="preserve">
+    <value>手動: 開始 {0}{1}</value>
+  </data>
+  <data name="msgScheduledLiveCreated" xml:space="preserve">
+    <value>新しいスケジュールライブビデオを正常に作成しました！</value>
+  </data>
+  <data name="msgScheduledLiveUpdated" xml:space="preserve">
+    <value>スケジュールライブビデオを正常にアップデートする事ができました！</value>
+  </data>
+  <data name="EVENT" xml:space="preserve">
+    <value>イベント</value>
+  </data>
+  <data name="btnManageScheduledLiveVideos" xml:space="preserve">
+    <value>予定中のライブ動画を管理する</value>
+  </data>
+  <data name="msgAdBreakOnboardRequiredTitle" xml:space="preserve">
+    <value>広告には登録する必要があります</value>
+  </data>
+  <data name="msgAdBreakFailTitle" xml:space="preserve">
+    <value>広告の実行に失敗しました</value>
+  </data>
+  <data name="msgAdBreakFailBroadcasterViolations" xml:space="preserve">
+    <value>{0} の為に広告が実行できません。
+
+広告機能がオフになっております。いくつかのコンテンツはあなたが著作権をお持ちで無いものが含まれているかもしれません。
+
+Facebookの広告の &lt;a href="{1}"&gt;詳細&lt;/a&gt;</value>
+  </data>
+  <data name="msgAdBreakFailMinimumViewers" xml:space="preserve">
+    <value>{0} の為に広告が実行できません。
+
+より多くの視聴者が必要です。最低 {1} 人の同時視聴者が必要となります。</value>
+  </data>
+  <data name="msgAdBreakFailTimeBetweenLastBreak" xml:space="preserve">
+    <value>{0} の為に広告が実行できません。
+
+最後の広告から十分な時間がたっておりません。最低 {1} 秒経過していないと次の広告が実行できません。</value>
+  </data>
+  <data name="msgAdBreakFailTimeSinceStart" xml:space="preserve">
+    <value>{0} の為に広告が実行できません。
+
+広告するには早すぎます。最低 {1} 秒配信していないといけません。</value>
+  </data>
+  <data name="msgAdBreakFailNotOnboard" xml:space="preserve">
+    <value>始めに広告プログラムに参加していないと {0} で広告を流す事ができません。&lt;a href="{1}"&gt;こちら&lt;/a&gt; をクリックし参加する手続きをしてください。
+
+広告プログラムに参加後、タイトルバーのステータスがいつ広告を流せるかお知らせいたします。
+
+Facebook Ad Breakに関しての &lt;a href="{2}"&gt;詳細&lt;/a&gt;</value>
+  </data>
+  <data name="msgAdBreakReady" xml:space="preserve">
+    <value>(広告の準備が出来ました、 {0} で実行)</value>
+  </data>
+  <data name="msgAdBreakReadyNoHotkey" xml:space="preserve">
+    <value>(広告の準備が出来ましたが、ホットキーが設定されておりません)</value>
+  </data>
+  <data name="msgAdBreakPreparing" xml:space="preserve">
+    <value>(広告準備中: {0} %... {1} でキャンセル)</value>
+  </data>
+  <data name="msgAdBreakPrepared" xml:space="preserve">
+    <value>(広告の準備が出来ました、 {0} で実行)</value>
+  </data>
+  <data name="msgAdBreakWaiting" xml:space="preserve">
+    <value>(広告開始まで {0} 秒... {1} でキャンセル)</value>
+  </data>
+  <data name="msgAdBreakPlaying" xml:space="preserve">
+    <value>(広告実行中: {0} s...)</value>
+  </data>
+  <data name="msgAdBreakPreparingNoHotkey" xml:space="preserve">
+    <value>(広告準備中: {0} %... ホットキーが設定されておりません)</value>
+  </data>
+  <data name="msgAdBreakPreparedNoHotkey" xml:space="preserve">
+    <value>(広告準備完了、ホットキーが設定されておりません)</value>
+  </data>
+  <data name="msgAdBreakWaitingNoHotkey" xml:space="preserve">
+    <value>(広告開始まで {0} s... ホットキーが設定されておりません)</value>
+  </data>
+  <data name="msgManualStartWarning" xml:space="preserve">
+    <value>このビデオ配信は手動で設定しております。「手動」設定で配信を開始すると、「予約済み」設定に切り替える事ができません。
+
+配信状態をライブにするには、手動でFacebookから「配信開始」を押すか、配信をリスタートし、ステータスを「ライブ」状態に設定してください。
+
+このまま続けますか？</value>
+  </data>
+  <data name="LoadMoreGroups" xml:space="preserve">
+    <value>更にグループをロード中...</value>
+  </data>
+  <data name="LoadMorePageEvents" xml:space="preserve">
+    <value>更にページイベントをロード中...</value>
+  </data>
+  <data name="LoadMorePages" xml:space="preserve">
+    <value>更にページをロード中...</value>
+  </data>
+  <data name="LoadMoreUserEvents" xml:space="preserve">
+    <value>更にユーザーイベントをロード中...</value>
+  </data>
+  <data name="lblSwitchAccount" xml:space="preserve">
+    <value>アカウントを切り替える</value>
+  </data>
+  <data name="lblRequiresPermission" xml:space="preserve">
+    <value>アクセス許可が必要です</value>
+  </data>
+  <data name="msgCurrentStageFormat" xml:space="preserve">
+    <value>現ステージフォーマット</value>
+  </data>
+  <data name="msgBelowMinBitrate_EasyMode" xml:space="preserve">
+    <value>ビデオのビットレートが {0} に変更されました。Facebookの {2} に必要な最小推奨ビットレートの {1} 以下です。それでも続行しますか？</value>
+  </data>
+</root>

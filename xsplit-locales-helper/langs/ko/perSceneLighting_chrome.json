@@ -1,0 +1,26 @@
+{
+  "perSceneLighting.default": {
+    "message": "기본값"
+  },
+  "perSceneLighting.manage_text": {
+    "message": "여기서 개별적 조명 설정을 관리하세요."
+  },
+  "perSceneLighting.add_scene": {
+    "message": "장면 추가"
+  },
+  "perSceneLighting.devices": {
+    "message": "장치"
+  },
+  "perSceneLighting.no_devices": {
+    "message": "감지된 장치가 없습니다"
+  },
+  "perSceneLighting.not_connected": {
+    "message": "해당 장치가 전원이 켜져있는지 확인하세요."
+  },
+  "perSceneLighting.default_tooltip": {
+    "message": "특별한 조명 관리가 필요없는 장면은 이 설정이 적용됩니다."
+  },
+  "perSceneLighting.default_light_settings": {
+    "message": "기본 조명 설정 사용"
+  }
+}

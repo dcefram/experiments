@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="NoAuthenticationExists" xml:space="preserve">
+    <value>访问卡缺失. 请重新授权.
+
+如果问题仍然存在, 请联系客服.</value>
+  </data>
+  <data name="msgAuthExpiredOrInvalid" xml:space="preserve">
+    <value>访问卡缺失, 过期或失效. 请重新授权.
+
+如果问题仍然存在, 请联系客服.</value>
+  </data>
+  <data name="cbBackupServer_Tooltip" xml:space="preserve">
+    <value>选择是否在默认或替用服务器直播. 如果您有在一个服务器上遇到问题, 试另一个服务器.</value>
+  </data>
+  <data name="msgLicenseOffer_StartStream" xml:space="preserve">
+    <value>{0} 不提供公共免费直播媒体服务. 直播到 {0} 是只供持证书的 XSplit 用户.
+
+现在升级你的证书?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="lblLiveUsername" xml:space="preserve">
+    <value>ID:</value>
+  </data>
+  <data name="msgNotAllowedToReconfigureVec" xml:space="preserve">
+    <value>在直播过程中不允许其他视频编码设置的重构.</value>
+  </data>
+  <data name="msgAdjustmentTitle" xml:space="preserve">
+    <value>调整为YouTube Live 的兼容性</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>与YouTube Live 进行通信时出错.</value>
+  </data>
+  <data name="msgCategoryIsEmpty" xml:space="preserve">
+    <value>必须指定类别.</value>
+  </data>
+  <data name="msgDescriptionHasInvalidChars" xml:space="preserve">
+    <value>说明不能包含字符'&lt;' and '&gt;'.</value>
+  </data>
+  <data name="msgDescriptionMaxLength" xml:space="preserve">
+    <value>说明不能超过 5000 个字 (目前 {0}).</value>
+  </data>
+  <data name="msgEmailAddressIsInvalid" xml:space="preserve">
+    <value>请输入一个有效的电子邮件地址.</value>
+  </data>
+  <data name="msgEndContinuousLiveVideo" xml:space="preserve">
+    <value>您已停止直播到 YouTube Live. 
+
+你想结束此次直播吗?</value>
+  </data>
+  <data name="msgNotAuthenticated" xml:space="preserve">
+    <value>请先验证用户的身份.</value>
+  </data>
+  <data name="msgStageFramerateAdjusted" xml:space="preserve">
+    <value>帧速率已改为 {0} FPS.</value>
+  </data>
+  <data name="msgStageFramerateNotAdjusted" xml:space="preserve">
+    <value>无法调整帧速率因为你当前正在其他通道直播. 你可能会遇到直播问题.</value>
+  </data>
+  <data name="msgStageResolutionAdjusted" xml:space="preserve">
+    <value>你阶段分辨率已改为 {0}p.</value>
+  </data>
+  <data name="msgStageResolutionAdjusted1" xml:space="preserve">
+    <value>你阶段分辨率已经被更改为 {0}p 以匹配事件分辨率.</value>
+  </data>
+  <data name="msgStreamResolutionAdjusted" xml:space="preserve">
+    <value>你播放分辨率已经被更改为 {0}p.</value>
+  </data>
+  <data name="msgStreamResolutionAdjusted1" xml:space="preserve">
+    <value>你阶段分辨率已经被更改为 {0}p 以匹配事件分辨率.</value>
+  </data>
+  <data name="msgStreamResolutionAdjustedXbc5003" xml:space="preserve">
+    <value>你输出分辨率已改为 {0}p.</value>
+  </data>
+  <data name="msgStreamResolutionAdjusted1Xbc5003" xml:space="preserve">
+    <value>你阶段分辨率已经被更改为 {0}p 以匹配事件分辨率.</value>
+  </data>
+  <data name="msgTagMaxLength" xml:space="preserve">
+    <value>标记 '{0}' '在 youtube 上超过100 个字符的限制.</value>
+  </data>
+  <data name="msgTagsHasInvalidChars" xml:space="preserve">
+    <value>标签不能包含字符'&lt;' and '&gt;'.</value>
+  </data>
+  <data name="msgTagsMaxLength" xml:space="preserve">
+    <value>所有标记的总数可能不超过 500 个字符(目前 {0}).</value>
+  </data>
+  <data name="msgTitleHasInvalidChars" xml:space="preserve">
+    <value>标题不能包含字符'&lt;' and '&gt;'.</value>
+  </data>
+  <data name="msgTitleIsEmpty" xml:space="preserve">
+    <value>标题不能为空.</value>
+  </data>
+  <data name="msgTitleMaxLength" xml:space="preserve">
+    <value>标题不能超过 100 个字符 (目前 {0}).</value>
+  </data>
+  <data name="msgTOSNotAccepted" xml:space="preserve">
+    <value>你还没有接受 YouTube Live 的服务条款.
+
+请点击 [here](https://xspl.it/ytltos) 接受条款并重新进行身份验证.</value>
+  </data>
+  <data name="msgVideoBitrateAdjusted" xml:space="preserve">
+    <value>你视频的比特率已改为 {0}.</value>
+  </data>
+  <data name="txtTags_Tooltip" xml:space="preserve">
+    <value>使用逗号来区分标签.</value>
+  </data>
+  <data name="msgAPIError1" xml:space="preserve">
+    <value>与YouTube Live服务器通讯时出错.这可能是网络问题,或者您可能没有登录YouTube Live.</value>
+  </data>
+  <data name="msgBelowMinBitrate" xml:space="preserve">
+    <value>您已设置 {0} 的比特率. 这下面是 YouTube 推荐的最小比特率 {2} {1} . 请参阅帮助 (?) 图标. 是否继续?</value>
+  </data>
+  <data name="lblNote" xml:space="preserve">
+    <value>注: 某些编码的设置可能会被禁用与 YouTube Live兼容性.</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>在YouTube上直播遇到麻烦? 了解如何从这里开始.</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="cbDetails" xml:space="preserve">
+    <value>每个广播前集的细节</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="msgDailyLimitExceeded" xml:space="preserve">
+    <value>YouTube API已超出每日限额. 太平洋时间 (PT) 午夜，配额将被重置。 请稍后再试。</value>
+  </data>
+  <data name="msgAPIError2" xml:space="preserve">
+    <value>YouTube API 错误.</value>
+  </data>
+  <data name="frmYouTubeLive" xml:space="preserve">
+    <value>YouTube Live属性</value>
+  </data>
+  <data name="lblEvents" xml:space="preserve">
+    <value>事件:</value>
+  </data>
+  <data name="btnStartBroadcast" xml:space="preserve">
+    <value>开始广播</value>
+  </data>
+  <data name="cbAllowEmbed" xml:space="preserve">
+    <value>允许嵌入</value>
+  </data>
+  <data name="cbBackupServer" xml:space="preserve">
+    <value>使用备份服务器</value>
+  </data>
+  <data name="cbEnableDvr" xml:space="preserve">
+    <value>启动DVR</value>
+  </data>
+  <data name="cbEnableLowLat" xml:space="preserve">
+    <value>启用低延迟时间</value>
+  </data>
+  <data name="cbRecordFromStart" xml:space="preserve">
+    <value>从开始录制</value>
+  </data>
+  <data name="lblCategory" xml:space="preserve">
+    <value>分类</value>
+  </data>
+  <data name="lblDescription" xml:space="preserve">
+    <value>描述:</value>
+  </data>
+  <data name="lblDuration" xml:space="preserve">
+    <value>持续时间:</value>
+  </data>
+  <data name="lblHrs" xml:space="preserve">
+    <value>小时</value>
+  </data>
+  <data name="lblLiveEvent" xml:space="preserve">
+    <value>直播: {0:d}-{1}</value>
+  </data>
+  <data name="lblMin" xml:space="preserve">
+    <value>分钟</value>
+  </data>
+  <data name="lblNewLiveEvent" xml:space="preserve">
+    <value>新实况活动</value>
+  </data>
+  <data name="lblPrivacy" xml:space="preserve">
+    <value>隐私:</value>
+  </data>
+  <data name="lblScheduledLiveEvent" xml:space="preserve">
+    <value>预定: {0:d}-{1}</value>
+  </data>
+  <data name="lblStreamNow" xml:space="preserve">
+    <value>视频流名称</value>
+  </data>
+  <data name="lblTags" xml:space="preserve">
+    <value>标签:</value>
+  </data>
+  <data name="lblTitle" xml:space="preserve">
+    <value>标题:</value>
+  </data>
+  <data name="lblStreamNowHasNoSchedule" xml:space="preserve">
+    <value>流现在已没有时间表</value>
+  </data>
+  <data name="lblLiveEventHasNoEndTime" xml:space="preserve">
+    <value>没有结束时间</value>
+  </data>
+  <data name="cbManualTransition" xml:space="preserve">
+    <value>手动过渡</value>
+  </data>
+  <data name="cbManualTransition_Tooltip" xml:space="preserve">
+    <value>选中此选项可控制的状态你的广播从 YouTube Live控制面板. 如果未选中. XSplit 将自动过渡状态以"直播"后开始的广播和给选项"完成"后停止广播.</value>
+  </data>
+  <data name="cbManualTransitionDisabled_Tooltip" xml:space="preserve">
+    <value>监管直播被禁用此活动. 手动过渡不可用.</value>
+  </data>
+  <data name="cbManualTransitionDisabledForDefaultStream_Tooltip" xml:space="preserve">
+    <value>手动过渡不可用于此活动.</value>
+  </data>
+  <data name="msgStreamNowIsMissing" xml:space="preserve">
+    <value>在您的 YouTube 频道 (现在直播) 的默认设置似乎尚未设置.
+
+请转到 [直播控制板](https://xspl.it/ytldashboard) 或与 YouTube Live客服联系.</value>
+  </data>
+  <data name="msgStreamNowIsMissingUseAdhoc" xml:space="preserve">
+    <value>在您的 YouTube 频道 (现在直播) 的默认设置似乎尚未设置.
+
+请转到 [直播控制板](https://xspl.it/ytldashboard) 或与 YouTube Live客服联系.
+
+继续新的视频吗?</value>
+  </data>
+  <data name="msgUltraLowLatencyResolutionDownscale" xml:space="preserve">
+    <value>超低低延迟设置不支持 1440 p 和更高的分辨率. 
+
+您的输出分辨率已更改为 1080p.</value>
+  </data>
+  <data name="lblAuthorize" xml:space="preserve">
+    <value>授权XSplit使用 {0}</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>删除授权</value>
+  </data>
+  <data name="lblSwitchAccount" xml:space="preserve">
+    <value>更换账号</value>
+  </data>
+</root>

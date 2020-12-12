@@ -1,0 +1,95 @@
+{
+	"twitch.alert.tabheader": {
+		"message": "alerta"
+	},
+	"twitch.alert.source": {
+		"message": "Fuente"
+	},
+	"twitch.alert.account": {
+		"message": "Cuenta"
+	},
+	"twitch.alert.authorize": {
+		"message": "Autorizar a XSplit para utilizar Twich"
+	},
+	"twitch.alert.remove_authorization": {
+		"message": "%api%** Eliminar autorización"
+	},
+	"twitch.alert.switch_account": {
+		"message": "%api%** Cambiar de cuenta"
+	},
+	"twitch.alert.not_connected": {
+		"message": "No conectado"
+	},
+	"twitch.alert.connected": {
+		"message": "Conectado"
+	},
+	"twitch.alert.connect": {
+		"message": "Conectar"
+	},
+	"twitch.alert.disconnect": {
+		"message": "Desconectar"
+	},
+	"twitch.alert.alertLabel": {
+		"message": "Alerta"
+	},
+	"twitch.alert.animation_text": {
+		"message": "Animación"
+	},
+	"twitch.alert.duration": {
+		"message": "Duración"
+	},
+	"twitch.alert.delay": {
+		"message": "Tiempo de visualización"
+	},
+	"twitch.alert.animateIn": {
+		"message": "Animación de entrada"
+	},
+	"twitch.alert.animateOut": {
+		"message": "Animación de salida"
+	},
+	"twitch.alert.audio": {
+		"message": "Audio"
+	},
+	"twitch.alert.generalHeader": {
+		"message": "General"
+	},
+	"twitch.alert.customizeHeader": {
+		"message": "Modificar"
+	},
+	"twitch.alert.theme": {
+		"message": "Tema"
+	},
+	"twitch.alert.minMonth": {
+		"message": "Meses mínimos"
+	},
+	"twitch.alert.minViewers": {
+		"message": "Espectadores mínimos"
+	},
+	"twitch.alert.minCheer": {
+		"message": "Cheers mínimos"
+	},
+	"twitch.alert.type": {
+		"message": "Tipo"
+	},
+	"twitch.alert.nameStyleAndSettings": {
+		"message": "Nombre del estilo y escenario"
+	},
+	"twitch.alert.sound": {
+		"message": "Sonido"
+	},
+	"twitch.alert.show_alert": {
+		"message": "Previsualización"
+	},
+	"twitch.alert.hide_alert": {
+		"message": "Ocultar pre-visualización"
+	},
+	"twitch.alert.test_alert": {
+		"message": "Probar alerta"
+	},
+	"twitch.alert.Color": {
+		"message": "Color"
+	},
+	"twitch.alert.layout": {
+		"message": "Interfaz"
+	}
+}

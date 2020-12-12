@@ -1,0 +1,1176 @@
+{
+  "messageDialog.okButton": {
+    "message": "OK"
+  },
+  "messageDialog.yesButton": {
+    "message": "确认"
+  },
+  "messageDialog.noButton": {
+    "message": "不"
+  },
+  "messageDialog.helpButton": {
+    "message": "帮助"
+  },
+  "messageDialog.cancelButton": {
+    "message": "取消"
+  },
+  "messageDialog.abortButton": {
+    "message": "中止"
+  },
+  "messageDialog.retryButton": {
+    "message": "重试"
+  },
+  "messageDialog.ignoreButton": {
+    "message": "忽视"
+  },
+  "messageDialog.copyButton": {
+    "message": "复制链接"
+  },
+  "messageDialog.error": {
+    "message": "报错"
+  },
+  "messageDialog.question": {
+    "message": "确认"
+  },
+  "messageDialog.info": {
+    "message": "Info"
+  },
+  "messageDialog.warning": {
+    "message": "警告"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_GOOGLE_PLUS.title": {
+    "message": "已成功发布在 Google + 上"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_GOOGLE_PLUS.message": {
+    "message": "已成功发布在 Google+.[br][%url%](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_FACEBOOK.title": {
+    "message": "已成功在 Facebook 上发布"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_FACEBOOK.message": {
+    "message": "已成功发布在 Facebook.[br][View post](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_TWITTER.title": {
+    "message": "已成功在 Twitter 上发布"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_TWITTER.message": {
+    "message": "已成功发布在 Twitter.[br][View tweet](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_SENT_MESSAGE_ON_TWITTER.title": {
+    "message": "已成功在 Twitter 上发布"
+  },
+  "messageDialog.messages.SUCCESSFULLY_SENT_MESSAGE_ON_TWITTER.message": {
+    "message": "Twitter发布成功.",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_PLAYERME.title": {
+    "message": "已成功在Player.me上发布"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_PLAYERME.message": {
+    "message": "已成功发布在Player.me.[br][查看帖子](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhileStreaming.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhileStreaming.message": {
+    "message": "您不能在直播或录制时测试带宽.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAacLicenseOffer.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgAacLicenseOffer.message": {
+    "message": "AAC LC 只支持证书用户.[br][br]你想现在购买证书吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver.message": {
+    "message": "AVerMedia c985 Live Gamer捕获卡已安装在您的电脑,现在 XSplit可以使用的内置硬件编码器.此功能只有高级用户可以使用.请考虑升级您当前证书.[br][br]现在升级您的证书吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver1.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver1.message": {
+    "message": "您的证书不允许AVerMedia c985 Live Gamer捕捉卡安置在内置解码器中. XSplit将切换到默认X264 解码器.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qs.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qs.message": {
+    "message": "QuickSync 编码器只有%licensetype%证书用户可用.请考虑升级您的当前证书.[br][br]现在升级您的证书吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qsext.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qsext.message": {
+    "message": "QuickSync 编码器只有%licensetype%证书用户可用.请考虑升级您的当前证书.[br][br]现在升级您的证书吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_AAC.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_AAC.message": {
+    "message": "启动高质量 AAC 音频仅提供给 XSplit 证书用户.[br][br]现在升级您的证书吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.UsernameIsEmpty.message": {
+    "message": "请指定用户名.",
+    "type": "warning"
+  },
+  "messageDialog.messages.PasswordIsEmpty.message": {
+    "message": "请指定密码.",
+    "type": "warning"
+  },
+  "messageDialog.messages.StreamChannelIsEmpty.message": {
+    "message": "您的频道尚不可用.请确保已正确输入您的用户信息并在%service%网站正确配置您的频道.",
+    "type": "warning"
+  },
+  "messageDialog.messages.UsernameIsUnknown.message": {
+    "message": "未知用户名.",
+    "type": "warning"
+  },
+  "messageDialog.messages.InvalidChannelCredentials.message": {
+    "message": "验证身份时发生错误,请确认您的用户名和密码无误并且网络连接正常.",
+    "type": "warning"
+  },
+  "messageDialog.messages.PresetDoesNotExist.message": {
+    "message": "预设%preset%不存在.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow.message": {
+    "message": "最大比特率不能低于%bitrate%kbps.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow_VBR.message": {
+    "message": "最大比特率不能低于%bitrate%kbps.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow_CBR.message": {
+    "message": "比特率不能低于%bitrate%kbps.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSaveBeforeCloseConfirmation.message": {
+    "message": "在对话框关闭前保存更改吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgDefaultStageResolutionWarning AVerMedia H.264 Encoder.message": {
+    "message": "此设置不会保留在您的帐户,需要在每次登入时设置.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDefaultStageResolutionWarning.message": {
+    "message": "将某个视频流的分辨率设定为小于当前场景的分辨率,可使多个视频流在直播同时使用不同分辨率.[br][br]因此您可以将一个视频流设为默认场景分辨率并将另一个视频流强制设定为比默认小的分辨率.[br][br]这一设置将不会保存到您的账户中,您必须每次登录后重新设置.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgChannelResolutionLicenseOffer.message": {
+    "message": "设置频道的输出分辨率只有证书用户可用.\n\n你想现在购买的证书吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.LivestreamUrlIsEmpty.title": {
+    "message": "添加 IP 摄像机/RTSP Stream"
+  },
+  "messageDialog.messages.LivestreamUrlIsEmpty.message": {
+    "message": "请指定 URL.",
+    "type": "warning"
+  },
+  "messageDialog.messages.LivestreamUrlIsInvalid.title": {
+    "message": "添加 IP 摄像机/RTSP Stream"
+  },
+  "messageDialog.messages.LivestreamUrlIsInvalid.message": {
+    "message": "URL无效.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhenAlreadyStreaming.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhenAlreadyStreaming.message": {
+    "message": "无法同时直播和测试带宽.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgErrorSavingSettings.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.msgErrorSavingSettings.message": {
+    "message": "保存设置时发生错误.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCreateYouTubeChannel.title": {
+    "message": "创建 YouTube 频道?"
+  },
+  "messageDialog.messages.msgCreateYouTubeChannel.message": {
+    "message": "您已经登录到 YouTube 但没有频道,你想现在创建您的频道吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgEnsureNotSuspended.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgEnsureNotSuspended.message": {
+    "message": "无法获取适当帐户信息,请确保帐户不被暂停使用.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGamesourceBuyXSplitOffer.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgGamesourceBuyXSplitOffer.message": {
+    "message": "XSplit 游戏源允许用户直接捕获DirectX 或OpenGL 游戏无需使用屏幕捕获.[br]此功能只有证书用户可用.[br][br]单击OK获得XSplit 证书和直接捕获播放媒体播放器或视频游戏功能.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUsernameIsInvalid.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.msgUsernameIsInvalid.message": {
+    "message": "个人资料页面的昵称最少需包含4个字符(英语字母,点,连字符).",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidScreenName.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.msgInvalidScreenName.message": {
+    "message": "屏幕名称是无效的.只允许使用字母,连字符(-)和点号(.).未来将支持其他字符,连字符和点号不能出现在首末.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation5.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.msgRegistrationValidation5.message": {
+    "message": "个人资料页面中的生日无效.",
+    "type": "warning"
+  },
+  "messageDialog.messages.FeatureIsNotSupportedByOS.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.FeatureIsNotSupportedByOS.message": {
+    "message": "当前操作系统不支持此选项.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDisallowDisableAeroTheme.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.msgDisallowDisableAeroTheme.message": {
+    "message": "在Windows 7和Vista系统中,启用Aero主题时会始终捕捉分层窗口.禁止XSplit禁用Aero主题会导致某些捕捉源产生意外的问题.[br][br]仍然继续吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgVideoUploading.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.msgVideoUploading.message": {
+    "message": "无法执行操作同时上传视频,请稍后再试",
+    "type": "error"
+  },
+  "messageDialog.messages.MicIsStereoMixCapable.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.MicIsStereoMixCapable.message": {
+    "message": "您选择的麦克风可能会捕捉到扬声器输出,这会导致广播时产生声音问题.如果广播声音有问题.请尝试把扬声器静音.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSaveAV_Failed.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.msgSaveAV_Failed.message": {
+    "message": "保存音频/视频设置失败.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRegistrationValidation1.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.msgRegistrationValidation1.message": {
+    "message": "更改昵称请求失败,昵称不能为空.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation7.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.msgRegistrationValidation7.message": {
+    "message": "请输入您的全名.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation9.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.msgRegistrationValidation9.message": {
+    "message": "请输入您的国家.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation4.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.msgRegistrationValidation4.message": {
+    "message": "请选择早于今天的日期作为您的生日.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSettingsValidation7.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.msgSettingsValidation7.message": {
+    "message": "您的设置无效.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSettingsSaved_SyncFailed.title": {
+    "message": "XSplit Broadcaster - 常规设置"
+  },
+  "messageDialog.messages.msgSettingsSaved_SyncFailed.message": {
+    "message": "失败时与服务器同步您的设置. %serverResponse%您的设置已本地保存.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDuplicateUsername.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgDuplicateUsername.message": {
+    "message": "更改昵称请求失败，此昵称已存在。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgProfileSyncFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgProfileSyncFailed.message": {
+    "message": "您之前配置文件设置的要求已被拒绝.[br][br]%exception%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCurrentResolutionIsNotSupported3.title": {
+    "message": "自定义分辨率"
+  },
+  "messageDialog.messages.msgCurrentResolutionIsNotSupported3.message": {
+    "message": "XSplit 不支持阶段分辨率低于 %resolution%像素.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgShareFailed.title": {
+    "message": "共享失败"
+  },
+  "messageDialog.messages.msgShareFailed.message": {
+    "message": "您的直播发布失败 %service%.[br][br]%reason%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgNoNetHasLocal.title": {
+    "message": "登录"
+  },
+  "messageDialog.messages.msgNoNetHasLocal.message": {
+    "message": "XSplit 没有检测到互联网连接. 你仍能够登入, 但是需要互联网连接的某些功能可能无法工作.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSrvFailedHasLocal.title": {
+    "message": "登录"
+  },
+  "messageDialog.messages.msgSrvFailedHasLocal.message": {
+    "message": "XSplit 不能连接到 XSplit 服务器. XSplit 将进行在脱机模式下, 将允许您使用大多数的功能, 无需连接XSplit 服务器.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSrvFailedNoLocal.title": {
+    "message": "登录"
+  },
+  "messageDialog.messages.msgSrvFailedNoLocal.message": {
+    "message": "XSplit 不能连接到 XSplit 服务器. 第一次在此计算机登入时需要同时连接到 XSplit 服务器. 请稍后再试.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLoginToServerException.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLoginToServerException.message": {
+    "message": "抱歉, 首次登录XSplit时必须联网.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgLoginToServerException1.message": {
+    "message": "很抱歉. 您的密码无法在此计算机上有效识别. 请尝试再次输入您的密码. 你可能已经更改密码在不同的计算机上. 在这种情况下我们请你确保您的互联网已连接, 这样该应用程序可确保您的密码是与我们 XSplit 服务器注册的密码同步.",
+    "type": "info"
+  },
+  "messageDialog.messages.activationReminderText.title": {
+    "message": "提醒"
+  },
+  "messageDialog.messages.activationReminderText.message": {
+    "message": "别忘了激活您的帐户.激活链接邮件已发送到您的邮箱.[br][br]你希望我们重新发送激活链接吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgUpdateCheckNone.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgUpdateCheckNone.message": {
+    "message": "没有检查到更新. 请用您的帐号登入.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedPlugins.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgUpdatedPlugins.message": {
+    "message": "XSplit 发现已更新的插件可用:[br][br]%pluginlist%[br][br]按确定安装这些更新的插件.",
+    "type": "question"
+  },
+  "messageDialog.messages.msgAddinInstallationFailed.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgAddinInstallationFailed.message": {
+    "message": "插件安装过早结束.请重新启动 XSplit,以避免不正常行为.[br][br]XSplit 将关闭.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAddinInstallRestartFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgAddinInstallRestartFailed.message": {
+    "message": "无法重新启动 XSplit.请打开任务管理器,终止 XSplit,如果它仍在运行.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdateCheckFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgUpdateCheckFailed.message": {
+    "message": "无法检查更新.将在下次登录时重新尝试.",
+    "type": "warning"
+  },
+  "messageDialog.messages.FailureCreatingNonExistingFolder.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.FailureCreatingNonExistingFolder.message": {
+    "message": "无法创建文件夹%folder%. %exception%.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAddinLoadedFromPreviousSession.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgAddinLoadedFromPreviousSession.message": {
+    "message": "XSplit 在当前会话中已经加载某些插件不可用在您的用户帐户.要重新加载插件与您的帐户相关联,XSplit 需要重新启动.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgD3DGearInstalled.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgD3DGearInstalled.message": {
+    "message": "您当前已在您系统中安装 D3DGear.XSplit 无法启动同时安装此应用程序.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgD3DGearRunning.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgD3DGearRunning.message": {
+    "message": "您正在运行 D3DGear.XSplit 无法启动当此应用程序正在运行.我们一般建议不要运行其他应用程序在运行 XSplit 同时捕获游戏.",
+    "type": "error"
+  },
+  "messageDialog.messages.NicoProps.UsernameIsEmpty.title": {
+    "message": "Niconico"
+  },
+  "messageDialog.messages.NicoProps.UsernameIsEmpty.message": {
+    "message": "必须指定电子邮件.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.StreamChannelIsEmpty.title": {
+    "message": "Twitch属性"
+  },
+  "messageDialog.messages.frmTwitchProps.StreamChannelIsEmpty.message": {
+    "message": "您的频道尚不可用或受保护的访问代码.请确保您已正确输入您的用户信息,您的频道不具有访问代码和在Twitch的网站正确配置您的频道.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmFc2.StreamChannelIsEmpty.title": {
+    "message": "FC2 Live属性"
+  },
+  "messageDialog.messages.frmFc2.StreamChannelIsEmpty.message": {
+    "message": "您的频道不可用.请确保您已在您的帐户添加FC2 Live服务.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustinTVProps.StreamChannelIsEmpty.title": {
+    "message": "Justin.tv 属性"
+  },
+  "messageDialog.messages.frmJustinTVProps.StreamChannelIsEmpty.message": {
+    "message": "您的频道尚不可用或受保护的访问代码.请确保您已正确输入您的用户信息,您的频道不具有访问代码和在Twitch的网站正确配置您的频道.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmhitboxProps.StreamChannelIsEmpty.title": {
+    "message": "Hitbox"
+  },
+  "messageDialog.messages.frmhitboxProps.StreamChannelIsEmpty.message": {
+    "message": "您的频道尚不可用或受保护的访问代码.请确保您已正确设置您的直播,您的频道不具有直播键/授权和在Hitbox 的网站正确配置您的频道.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmhitboxProps.UsernameAndPasswordMismatch.title": {
+    "message": "Hitbox"
+  },
+  "messageDialog.messages.frmhitboxProps.UsernameAndPasswordMismatch.message": {
+    "message": "用户名和密码不匹配.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidUsername.title": {
+    "message": "Twitch属性"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidUsername.message": {
+    "message": "必须指定一个有效的Twitch用户名.用户名用于通道命名和共用连结.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAuthorizeAccountFirst.message": {
+    "message": "请首先授权帐户.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgConfirmAccountDeauthorization.message": {
+    "message": "选择此选项将取消授权当前帐户.",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_StartStream.message": {
+    "message": "%service%不提供一个公共的免费流媒体服务.直播到%service%是因此仅证书XSplit 用户.[br][br]现在升级您的证书吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleMaxCharsExceeded.title": {
+    "message": "YouTube Live属性"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleMaxCharsExceeded.message": {
+    "message": "标题不能超过 100 个字符(目前 %length%).",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleHasInvalidChars.title": {
+    "message": "YouTube Live属性"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleHasInvalidChars.message": {
+    "message": "标题不能包含字符'<' and '>'.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescMaxCharsExceeded.title": {
+    "message": "YouTube Live属性"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescMaxCharsExceeded.message": {
+    "message": "说明不能超过 5000 个字符(目前 %length%).",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescHasInvalidChars.title": {
+    "message": "YouTube Live属性"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescHasInvalidChars.message": {
+    "message": "说明不能包含字符'<' and '>'.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsMaxCharsExceeded.title": {
+    "message": "YouTube Live属性"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsMaxCharsExceeded.message": {
+    "message": "所有标记的总数可能不超过 500 个字符(目前 %length%).",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsHasInvalidChars.title": {
+    "message": "YouTube Live属性"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsHasInvalidChars.message": {
+    "message": "标签不能包含字符'<' and '>'.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagMaxCharsExceeded.title": {
+    "message": "YouTube Live属性"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagMaxCharsExceeded.message": {
+    "message": "标记'%tag%'在 youtube 上超过30 个字符的限制.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.EmailIsInvalid.title": {
+    "message": "YouTube Live属性"
+  },
+  "messageDialog.messages.frmYouTubeLive.EmailIsInvalid.message": {
+    "message": "请输入一个有效的电子邮件地址.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgApiError.title": {
+    "message": "YouTube Live属性"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgApiError.message": {
+    "message": "访问YouTube Live API 时出错.您可能没有登录YouTube Live.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgServerError.title": {
+    "message": "YouTube Live属性"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgServerError.message": {
+    "message": "与YouTube Live服务器通讯时出错.这可能是网络问题,或者您可能没有登录YouTube Live.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleIsEmpty.title": {
+    "message": "YouTube Live属性"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleIsEmpty.message": {
+    "message": "标题不能为空.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustTVProps.UsernameIsUnknown.message": {
+    "message": "您的频道尚不可用或受保护的访问代码.请确保您已正确输入您的用户信息,您的频道不具有访问代码和在Twitch的网站正确配置您的频道.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.UsernameIsUnknown.title": {
+    "message": "Twitch属性"
+  },
+  "messageDialog.messages.frmTwitchProps.UsernameIsUnknown.message": {
+    "message": "您的频道尚不可用或受保护的访问代码.请确保您已正确输入您的用户信息,您的频道不具有访问代码和在Twitch的网站正确配置您的频道.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustinTVProps.InvalidChannelCredentials.title": {
+    "message": "Justin.tv 属性"
+  },
+  "messageDialog.messages.frmJustinTVProps.InvalidChannelCredentials.message": {
+    "message": "您的用户信息进行身份验证时出现问题.可能比正常运作 Justin.tv 身份验证服务慢一些.请重试几次,或检查您的用户名和密码正确并且您的网络连接到 Justin.tv 已连接.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidChannelCredentials.title": {
+    "message": "Twitch属性"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidChannelCredentials.message": {
+    "message": "您的用户信息进行身份验证时出现问题.请检查您的用户名和密码正确,您的频道不是被访问代码保护,和Twitch连接正常.",
+    "type": "warning"
+  },
+  "messageDialog.messages.RECORDING_FILE_DELETE.title": {
+    "message": "XSplit Broadcaster - 视频"
+  },
+  "messageDialog.messages.RECORDING_FILE_DELETE.message": {
+    "message": "是否确实要删除**%file%**?",
+    "type": "question"
+  },
+  "messageDialog.messages.REPAIR_FILE.title": {
+    "message": "修复损坏的文件"
+  },
+  "messageDialog.messages.REPAIR_FILE.message": {
+    "message": "是否确实要修复**%file%**?",
+    "type": "question"
+  },
+  "messageDialog.messages.CONVERT_VIDEO_TO_MP4.title": {
+    "message": "将视频转换为 MP4",
+    "type": "question"
+  },
+  "messageDialog.messages.CONVERT_VIDEO_TO_MP4.message": {
+    "message": "确定你想转换 **%filename%** 到 MP4 文件吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.RECORDING_FILE_UNABLE_TO_DELETE.title": {
+    "message": "XSplit Broadcaster - 视频"
+  },
+  "messageDialog.messages.RECORDING_FILE_UNABLE_TO_DELETE.message": {
+    "message": "无法删除 %file% 因为它正在被使用.",
+    "type": "warning"
+  },
+  "messageDialog.messages.FUNCTION_NOT_AVAIL_NOINTERNET.title": {
+    "message": "功能不可用",
+    "type": "error"
+  },
+  "messageDialog.messages.FUNCTION_NOT_AVAIL_NOINTERNET.message": {
+    "message": "功能不可用由于无法连接互联网."
+  },
+  "messageDialog.messages.msgLoginValidation1.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLoginValidation1.message": {
+    "message": "请填写邮件地址.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidEmail.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgInvalidEmail.message": {
+    "message": "邮箱格式无效.请使用字母,数字,点,破折号和下划线.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLoginValidation2.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLoginValidation2.message": {
+    "message": "请填写密码。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxFailedLogin.title": {
+    "message": "达到的最大失败的登录尝试"
+  },
+  "messageDialog.messages.msgMaxFailedLogin.message": {
+    "message": "请重新启动 XSplit Broadcaster 尝试再次登录",
+    "type": "error"
+  },
+  "messageDialog.messages.servermessage_fdisdesc.message": {
+    "message": "您的帐户已被登录到另一台机器. 此客户端已注销由于您的证书在指定时间内只允许一台机器登入. 如果你想要再次登入, 请重新输入您的用户信息. 请注意这将在其他计算机注销您的帐户并将会停止当前正在运行的任何直播.",
+    "type": "error"
+  },
+  "messageDialog.messages.servermessage_dlogdesc.message": {
+    "message": "您的帐户当前在另一台计算机登入. 如果你仍然要登入, 请重新输入您的用户信息. 请注意这将注销您其他计算机的帐户, 并将会停止当前正在运行的任何直播.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantRegisterOffline.message": {
+    "message": "不能在脱机模式下注册.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgLoginFailedRecentAccount.message": {
+    "message": "无法登录使用最近登记的帐户. 请再试一次.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgSavePresentation.message": {
+    "message": "你想要将更改保存到当前演示文稿吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgSavePresentationBeforeLoad.message": {
+    "message": "你想要从文件将更改保存到当前演示文稿在读取文件前吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgMaxFps.message": {
+    "message": "允许的最大帧率为 %maxfps% FPS.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgVeryHighFps.message": {
+    "message": "此 FPS 设置需要极高性能的计算机.请承担你的风险.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgGameComponentUpdate.message": {
+    "message": "XSplit Broadcaster 需要重新启动才能完成更新游戏捕获组件.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgGameComponentUpdateFailed.message": {
+    "message": "XSplit Broadcaster需要更新游戏捕捉组件,但是旧版本组件正加载在系统内存中并阻止更新.请重启电脑并再次打开XSplit Broadcaster.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGameComponentUpdateUnusualBehaviour.message": {
+    "message": "XSplit Broadcaster检测到不常规行为当加载游戏捕捉组件.请再次尝试,或重新启动您的电脑来重新设置系统内存.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGameComponentUpdateTerminateXGCQuestion.message": {
+    "message": "XSplit Broadcaster需要更新该游戏捕获的组件,但 XSplit Gamecaster正在运行时不能进行.如果您继续操作 XSplit Gamecaster将被终止运行.您要继续吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgGameComponentUpdateRestart.message": {
+    "message": "XSplit Broadcaster需要更新游戏捕获组件,但不能继续进行当 XSplit Gamecaster 正在运行.请关闭 XSplit Gamecaster 并再次运行XSplit Broadcaster.",
+    "type": "error"
+  },
+  "messageDialog.messages.RtmpUrlIsEmpty.message": {
+    "message": "请指定RTMP地址。",
+    "type": "warning"
+  },
+  "messageDialog.messages.RtmpUrlIsInvalid.message": {
+    "message": "RTMP地址无效。",
+    "type": "warning"
+  },
+  "messageDialog.messages.ChannelNameIsEmpty.message": {
+    "message": "请指定频道名称。",
+    "type": "warning"
+  },
+  "messageDialog.messages.InvalidCharactersInChannelName.message": {
+    "message": "频道名称包含无效字符。",
+    "type": "warning"
+  },
+  "messageDialog.messages.StreamNameIsEmpty.message": {
+    "message": "请指定直播流名称。",
+    "type": "warning"
+  },
+  "messageDialog.messages.ShareLinkIsInvalid.message": {
+    "message": "共享链接无效。",
+    "type": "warning"
+  },
+  "messageDialog.messages.CloseDelay.message": {
+    "message": "关闭延迟服务器将停止所有代理源.是否继续?",
+    "type": "question"
+  },
+  "messageDialog.messages.EnableEVR.message": {
+    "message": "选择此选项通常不推荐并可能有副作用.一些用户报告使用 EVR (微软增强视频渲染) 解决某些捕获卡,包括 Roxio 游戏捕获高清慢动作问题.请更改此设置后,重新启动 XSplit Broadcaster.启动 EVR 吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.SystemSoundNotDefaultSpeakers.message": {
+    "message": "如果你不设定系统声音到 %defaultSpeakers%,你可能不再能够听到从你的应用程序或游戏对你的直播或录制的声音.",
+    "type": "warning"
+  },
+  "messageDialog.messages.PostRegisterFailed.message": {
+    "message": "成功注册新用户帐户后遇到错误.",
+    "type": "error"
+  },
+  "messageDialog.messages.RegisterFailed.message": {
+    "message": "无法注册新帐户.",
+    "type": "error"
+  },
+  "messageDialog.messages.RestartLogin.message": {
+    "message": "请重新启动 XSplit Broadcaster 尝试再次登录",
+    "type": "error"
+  },
+  "messageDialog.messages.LogoutWhileRecording.message": {
+    "message": "当前正在上传一段视频.你确定你想要注销/退出?",
+    "type": "question"
+  },
+  "messageDialog.messages.PortBlocked.message": {
+    "message": "XSplit Broadcaster 已检测到该端口TCP/443 被阻止.向%serviceName%进行身份验证,需要解除阻止的端口TCP/443.请点击[here](http://xspl.it/how-to-unblock- port-443)了解更多.[br][br]如果您无法打开端口TCP/443您可能任然使用'CustomRTMP'和stream key直播.",
+    "type": "warning"
+  },
+  "messageDialog.messages.NoInternetPortBlocked.message": {
+    "message": "XSplit Broadcaster 似乎无法连接到 %serviceName%.向 %serviceName%进行身份验证需要互联网连接和解开端口 TCP/443.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgEnableD3D.message": {
+    "message": "无法创建窗口，请启用D3D加速。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgAmdEnduroWarning.message": {
+    "message": "您已设置XSplit Broadcaster以'高性能'模式下使用 AMD Enduro&trade; 技术可切换显卡上运行.由于驱动程序的限制,这种模式不受支持.建议改为使用\"节能\"模式.[br]了解更多:[博客这里](https://xspl.it/ktvgqc)",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantRemoveResolution.message": {
+    "message": "不能删除所选的分辨率.请先选择另一项分辨率.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRecordingsAbortedOnInsufficientDiskSpace.message": {
+    "message": "无法开始您的录制.请检查您至少具有 %minFreeSpace% 可用空间.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantCreateRecordingFile.message": {
+    "message": "无法创建录制文件中 '%folder%'.请确保您有足够的权限来记录到该文件夹中.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantCreateRecordingOutDir.message": {
+    "message": "无法创建录像的目录'%folder%'. 请尝试自行创建目录并再次录制。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgMp4requiresAac.message": {
+    "message": "只有 AAC 编码解码支持 MP4.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRecordingPathIsTooLong.message": {
+    "message": "录制路径 %path% 太长.请设置一个较短的录制路径.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStreamingIsPrevented.message": {
+    "message": "目前无法直播,请重新登录.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgStreamingWhileOfflineIsNotAllowed.message": {
+    "message": "您脱机登录但似乎处于联机状态.请重新登录以继续.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgMixerFpsNotSupportedByVideoCodec.message": {
+    "message": "%codec% 仅支持以下 FPS 的编码:[br][br]%fpslist%.[br][br]请相匹配的输出帧速率,在帧速率菜单",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgVideoCodecMaxEncodeLimited.message": {
+    "message": "%codec% 同时只支持%maxEncode% 编码一次.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgPausedRecordingWarning1.message": {
+    "message": "暂停正在进行的录制.如果你想要继续录制,请单击'%resumeRecording%'在%broadcast% 菜单下.[br][br]您希望停止录音吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgPausedRecordingWarning.message": {
+    "message": "暂停正在进行的录制.如果你想要继续录制,请按 %hotkey%.[br][br]您希望停止录制吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.ResolutionAlreadyExists.message": {
+    "message": "分辨率 %width% x %height% 已存在。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidFramerate.message": {
+    "message": "无效帧率",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgHighFps.message": {
+    "message": "此 FPS 设置需要高性能的计算机.请承担你的风险.",
+    "type": "warning"
+  },
+  "messageDialog.messages.ChannelNameAlreadyExists.message": {
+    "message": "%channel%已存在。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantDeleteChannel.message": {
+    "message": "无法删除频道.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedSourcePlugins.message": {
+    "message": "XSplit 发现更新的源插件可用:[br][br]%pluginlist%[br][br]你需要重启允许插件. [br][br]点击OK安装这些更新的插件.不需要重新启动 XSplit.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePlugins_npw.message": {
+    "message": "XSplit 发现更新的源插件可用:[br][br]%pluginlist%[br][br]点击OK安装这些更新的插件.不需要重新启动 XSplit.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePluginsXbc5003.message": {
+    "message": "XSplit 发现更新的源可用:[br][br]%pluginlist%[br][br]你需要重启允许插件. [br][br]点击OK安装这些更新的源.不需要重新启动 XSplit.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePluginsXbc5003_npw.message": {
+    "message": "XSplit 发现更新的源插件可用:[br][br]%pluginlist%[br][br]点击OK安装这些更新的插件.不需要重新启动 XSplit.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePlugins.message": {
+    "message": "XSplit 发现以下已安装源插件不与此版本 XSplit 兼容:[br][br]%pluginlist%[br][br]你需要重启允许插件. [br][br]点击OK安装这些插件的兼容版本.不需要重新启动XSplit.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePlugins_npw.message": {
+    "message": "XSplit 发现以下已安装源插件不与此版本 XSplit 兼容:[br][br]%pluginlist%[br][br]点击OK安装这些插件的兼容版本.不需要重新启动XSplit.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsXbc5003.message": {
+    "message": "XSplit 发现以下已安装源插件不与此版本 XSplit 兼容:[br][br]%pluginlist%[br][br]你需要重启允许插件. [br][br]点击OK安装这些插件的兼容版本.不需要重新启动XSplit.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsXbc5003_npw.message": {
+    "message": "XSplit 发现以下已安装源插件不与此版本 XSplit 兼容:[br][br]%pluginlist%[br][br]点击OK安装这些插件的兼容版本.不需要重新启动XSplit.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsInStage.message": {
+    "message": "XSplit 发现以下源插件在当前演示中,但不是与此版本的XSplit 兼容:[br][br]%pluginlist%[br][br]点击OK删除当前演示中的这些项目.也可以保存当前演示在删除这些项目之前.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsInStageXbc5003.message": {
+    "message": "XSplit 发现以下源插件在当前演示中,但不是与此版本的XSplit 兼容:[br][br]%pluginlist%[br][br]点击OK删除当前演示中的这些项目.也可以保存当前演示在删除这些项目之前.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgInvalidTransitionTime.message": {
+    "message": "无效过渡速率.",
+    "type": "error"
+  },
+  "messageDialog.messages.PreviewMain_unableToCreateWindow.message": {
+    "message": "无法创建预览窗口",
+    "type": "error"
+  },
+  "messageDialog.messages.msgHotKeyRegException6.message": {
+    "message": "下列快捷键与修改键 (Alt shift 键控制)仅在组合中分配.[br][br]%hotkeys%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgHotKeyRegException5.message": {
+    "message": "以下快捷键不能使用相同的按键.[br][br]%hotkeys%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantEditActiveRecording.message": {
+    "message": "您不能在本地录制的同时编辑设置."
+  },
+  "messageDialog.messages.msgFlashConfigLoadFailure.message": {
+    "message": "加载配置对话框失败: %exceptionMessage%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgFlashAxFailure.message": {
+    "message": "无法正常过工作于IE版Flash播放器: %failMessage%"
+  },
+  "messageDialog.messages.msgFlashAxNotInstalled.message": {
+    "message": "此功能需要IE版Flash播放器才能正常使用."
+  },
+  "messageDialog.messages.msgSourceHandlerIsMissing.message": {
+    "message": "资源处理程序丢失."
+  },
+  "messageDialog.messages.msgSourceConfigurationHandlerIsMissing.message": {
+    "message": "配置处理程序丢失."
+  },
+  "messageDialog.messages.msgCantEditActiveStream.message": {
+    "message": "直播视频流时无法编辑此视频流设置。"
+  },
+  "messageDialog.messages.msgLogSystemInformation.message": {
+    "message": "它建议允许 XSplit 登录系统信息, 其中包括操作系统, 处理器和图形卡类型. 这将帮助我们的开发团队解决技术问题, 并协助支持团队回复的 bug 报告或论坛帖子.[br][br]选中此选项吗?"
+  },
+  "messageDialog.messages.msgGlobalScriptWarning.message": {
+    "message": "请注仅从受信任来源添加脚本. 一个恶意的脚本可能会以各种方式损害您的 PC. 单击\"确定\" 需要你理解这种风险并同意继续."
+  },
+  "messageDialog.messages.msgEVRWarning.message": {
+    "message": "您正在使用自定义和实验 exe 参数不建议用于制作."
+  },
+  "messageDialog.messages.INVALID_USER_TOKEN.message": {
+    "message": "无效标记导致功能无法使用,请尝试重新登录."
+  },
+  "messageDialog.messages.DATABASE_ERROR_WAIT_TIMEOUT.title": {
+    "message": "报错"
+  },
+  "messageDialog.messages.DATABASE_ERROR_WAIT_TIMEOUT.message": {
+    "message": "XSplit 共享的数据库文件无法访问, 可能由另一个 XSplit 使用. 请等待其他完成运行该文件或关闭其他程序并再次登录.",
+    "type": "error"
+  },
+  "messageDialog.messages.DATABASE_ERROR_INITIALIZATION.title": {
+    "message": "报错"
+  },
+  "messageDialog.messages.DATABASE_ERROR_INITIALIZATION.message": {
+    "message": "在 XSplit 的共享数据库的初始化已意外停止. 请尝试再次登录.",
+    "type": "error"
+  },
+  "messageDialog.messages.ENABLE_SCRIPT_SECURITY.title": {
+    "message": "请在继续之前仔细阅读."
+  },
+  "messageDialog.messages.ENABLE_SCRIPT_SECURITY.message": {
+    "message": "请建议仅禁用此选项, 当你确信所有来源并扩展, 您将使用都来自可靠来源. 一个恶意脚本可以损害您的计算机中以各种方式. 单击\"确定\"需要你理解这种风险, 并同意继续.",
+    "type": "warning"
+  },
+  "messageDialog.messages.ALLOW_EXECUTE_SCRIPT.message": {
+    "message": "请注仅从受信任来源添加脚本. 一个恶意的脚本可能会以各种方式损害您的 PC. 单击\"确定\" 需要你理解这种风险并同意继续.",
+    "type": "warning"
+  },
+  "messageDialog.checkbox.faststart": {
+    "message": "网络优化"
+  },
+  "messageDialog.messages.msgFullnameIsInvalid.message": {
+    "message": "全名必须在6-50个字符之间."
+  },
+  "messageDialog.messages.msgSocialLoginIsTemporarilyDisabled.message": {
+    "message": "登录使用社交媒体的凭据将可在 v2.7 公开发布.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgNoLogoutFromSteam.message": {
+    "message": "无法注销当使用直播帐户.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgInvalidSteamAccountInfo.message": {
+    "message": "当前Steam帐户登录信息已不再有效, 请重新登录一次.%message2%",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdateUsingSteamClientApp.message": {
+    "message": "请更新使用直播客户端应用程序.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUnableToLoginAccount_Social.message": {
+    "message": "无法登录到您的社交账户.%message2%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUnableToLoginAccount_Steam.message": {
+    "message": "无法登录到您的Steam账户.%message2%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgOutdatedExtensions.message": {
+    "message": "XSplit 发现以下已安装扩展不与此版本 XSplit 兼容:[br][br]%pluginlist%[br][br]你需要重启允许插件. [br][br]点击OK安装这些扩展的兼容版本.不需要重新启动XSplit.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgOutdatedExtensions_npw.message": {
+    "message": "XSplit 发现以下已安装扩展不与此版本 XSplit 兼容:[br][br]%pluginlist%[br][br]点击OK安装这些扩展的兼容版本.不需要重新启动XSplit.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedExtensions.message": {
+    "message": "XSplit 发现更新的源可用:[br][br]%pluginlist%[br][br]你需要重启允许插件. [br][br]点击OK安装这些更新的源.不需要重新启动 XSplit.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedExtensions_npw.message": {
+    "message": "XSplit 发现更新的扩展可用:[br][br]%pluginlist%[br][br]点击OK安装这些更新的插件.不需要重新启动 XSplit.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCoreDllNotRegistered.message": {
+    "message": "XSplit 发现一些核心 Windows Dll 不再注册. 你可以阅读更多关于此问题[here](https://xspl.it/3lcf8n).[br][br]XSplit 已尝试解决问题, 但它建议你还是检查和修复可能不匹配或替换系统文件.[br][br]点击确定以允许 XSplit 运行 Windows 系统文件检查器.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCoreDllNotRegistered2.message": {
+    "message": "XSplit 发现一些核心 Windows Dll 不再注册. 你可以阅读更多关于此问题[这里](https://xspl.it/3lcf8n).[br][br]XSplit 已尝试解决问题, 但它建议你还是检查和修复可能不匹配或替换系统文件运行 Windows 系统文件检查器.[这里](https://xspl.it/1rte7x).",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCoreDllNotOK.message": {
+    "message": "XSplit 发现了一些核心 Windows Dll 失败完整性检查, 可能会导致问题像 [这样](https://xspl.it/3lcf8n).[br][br]It 建议你还是检查并修复可能不匹配或替换系统文件使用 Windows 系统文件检查器, 阅读更多[这里](https://xspl.it/1rte7x).",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_CANNOT_OPEN_MULTIPLE_XVE.title": {
+    "message": "报错",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_CANNOT_OPEN_MULTIPLE_XVE.message": {
+    "message": "只有一个实例的表达视频编辑器被支持. 请关闭已打开的 XSplit Gamecaster现有运行实例."
+  },
+  "messageDialog.messages.ERROR_MISSING_REQUIRED_PREREQ.title": {
+    "message": "报错",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_REQUIRED_PREREQ.message": {
+    "message": "缺少必要的先決条件:[br][br]%value%[br]XSplit Broadcaster 现在将关闭, 请重新启动后安装这些系统必备组件."
+  },
+  "messageDialog.messages.ERROR_MISSING_VCE_PREREQ.title": {
+    "message": "报错",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_VCE_PREREQ.message": {
+    "message": "VCE 要求:[br][br]%value%"
+  },
+  "messageDialog.messages.ERROR_MISSING_NET45_PREREQ.title": {
+    "message": "报错",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_NET45_PREREQ.message": {
+    "message": "Player.me 功能需要以下为 TLS 1.2:[br][br]%value%"
+  },
+  "messageDialog.messages.DELETE_SCENE.message": {
+    "message": "是否确实要删除此场景 - **%scene%**?",
+    "type": "question"
+  },
+  "messageDialog.messages.DUPLICATE_HOTKEY.message": {
+    "message": "以下快捷键不能使用相同的按键.&nbsp; [br][br]%value%[br]",
+    "type": "warning"
+  },
+  "messageDialog.messages.REMOVE_OUTPUT_ENTRY.message": {
+    "message": "是否确实要删除此输出条目 - **%value%**",
+    "type": "question"
+  },
+  "messageDialog.messages.INVALID_PATH.message": {
+    "message": "\"%path%\"是一个无效路径",
+    "type": "error"
+  },
+  "messageDialog.messages.PATH_ACCESS_ERROR.message": {
+    "message": "试图访问出错 **\"%path%\"**.",
+    "type": "error"
+  },
+  "messageDialog.messages.CREATE_NON_EXISTING_PATH.message": {
+    "message": "\"%path%\"不存在，是否创建？",
+    "type": "question"
+  },
+  "messageDialog.messages.PATH_DOES_NOT_EXIST.message": {
+    "message": "\"%path%\"不存在.",
+    "type": "warning"
+  },
+  "messageDialog.messages.INVALID_URL.message": {
+    "message": "请输入一个有效的 URL.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgPasteInfo.message": {
+    "message": "选择您想要的方式来粘贴源.[radio]pasteAsNewSource[/radio][radio]pasteAsLinkedSource[/radio][br]**连接来源** 是跨全球的一个或多个场景的源. 举个例子, 当你想要继续第三两个场景之间的两个场景或固定的低滚动文本. [阅读这篇文章](https://xspl.it/bc/uv65wd) 更多信息.",
+    "type": "info"
+  },
+  "messageDialog.radio.msgPasteInfo.pasteAsNewSource.message": {
+    "message": "**粘贴为新的源** (Ctrl + Shift + V)"
+  },
+  "messageDialog.radio.msgPasteInfo.pasteAsLinkedSource.message": {
+    "message": "**粘贴为连接的源** (Ctrl + Shift + V)"
+  },
+  "messageDialog.messages.msgPlayoutFormat.message": {
+    "message": "播放格式 [radio]noAlpha[/radio][radio]withAlpha[/radio][br][Learn more about NewTek NDI&trade;](https://xspl.it/06s8kq) **%version%**"
+  },
+  "messageDialog.radio.msgPlayoutFormat.noAlpha.message": {
+    "message": "没有Alpha透明度（CPU较少）"
+  },
+  "messageDialog.radio.msgPlayoutFormat.withAlpha.message": {
+    "message": "具有Alpha透明度（更多CPU）"
+  },
+  "messageDialog.checkbox.dontAskAgain": {
+    "message": "不再提醒"
+  },
+  "messageDialog.messages.YOUTUBE_STOPPED_STREAMING.message": {
+    "message": "您已停止直播到 YouTube Live. 你想结束此次直播吗?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgInvalidXSplitAccountInfo2.message": {
+    "message": "请再次登录以继续。安全起见, 标记被记录了而不是密码。如果标记被取消或过期, 则需要重新登录。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidSteamAccountInfo2.message": {
+    "message": "请再次登录以继续。安全起见, 标记被记录了而不是密码。如果标记被取消或过期, 则需要重新登录。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidSocialAccountInfo2.message": {
+    "message": "请再次登录以继续。安全起见, 标记被记录了而不是密码。如果标记被取消或过期, 则需要重新登录。",
+    "type": "warning"
+  },
+  "messageDialog.messages.YOUTUBE_ULTRALOW_LATENCY_INFO.message": {
+    "message": "超低低延迟设置不支持 1440 p 和更高的分辨率. [br][br]您的输出分辨率已更改为 1080p.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgStingerNameIsEmpty.message": {
+    "message": "请指定stinger名称.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStingerAlreadyExists.message": {
+    "message": "已存在具有相同名称和过渡点的stinger.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStingerNameIsInvalid.message": {
+    "message": "Stinger名不能包含以下字符: \\ / : * ? \" < > |",
+    "type": "error"
+  },
+  "messageDialog.messages.PRESENTATION_FOLDER_ALREADY_EXISTS.message": {
+    "message": "文件夹**“%foldername%”**已存在于目标文件夹中。&nbsp;  [br]&nbsp;  [br] 是否要覆盖文件夹及其文件，并继续加载演示文稿？",
+    "type": "question"
+  },
+  "messageDialog.messages.msgPluginLoadError.message": {
+    "message": "无法加载插件。",
+    "type": "warning"
+  },
+  "messageDialog.dropdown.projectorBorder.label.message": {
+    "message": "投影仪屏幕选择边框"
+  },
+  "messageDialog.dropdown.projectorBorder.values.always.message": {
+    "message": "总是显示边框屏幕选择悬停时"
+  },
+  "messageDialog.dropdown.projectorBorder.values.shift.message": {
+    "message": "按住 SHIFT 键时屏幕选择悬停时显示边框"
+  },
+  "messageDialog.dropdown.projectorBorder.values.never.message": {
+    "message": "永远不显示边框屏幕选择悬停时"
+  }
+}

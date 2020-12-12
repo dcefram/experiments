@@ -1,0 +1,101 @@
+{
+  "facebook.chat.tabheader": {
+    "message": "Chat"
+  },
+  "facebook.chat.source": {
+    "message": "Source"
+  },
+  "facebook.chat.account": {
+    "message": "Account"
+  },
+  "facebook.chat.automatic": {
+    "message": "Automatic"
+  },
+  "facebook.chat.authorize": {
+    "message": "Authorize XSplit to use Facebook Live"
+  },
+  "facebook.chat.remove_authorization": {
+    "message": "**%api%** Remove authorization"
+  },
+  "facebook.chat.switch_account": {
+    "message": "**%api%** Switch account"
+  },
+  "facebook.chat.error_auth": {
+    "message": "Please try authorizing again and grant access to all permission required by XSplit for this functionality"
+  },
+  "facebook.chat.not_connected": {
+    "message": "Comments will automatically load once stream is live"
+  },
+  "facebook.chat.connected": {
+    "message": "Connected"
+  },
+  "facebook.chat.display": {
+    "message": "Display"
+  },
+  "facebook.chat.preview": {
+    "message": "Preview"
+  },
+  "facebook.chat.chatbox": {
+    "message": "Chat Box"
+  },
+  "facebook.chat.opacity": {
+    "message": "Opacity"
+  },
+  "facebook.chat.viewers": {
+    "message": "Viewers"
+  },
+  "facebook.chat.message": {
+    "message": "Message"
+  },
+  "facebook.chat.text_size": {
+    "message": "Text Size"
+  },
+  "facebook.chat.text_direction": {
+    "message": "Text Direction"
+  },
+  "facebook.chat.hide_user_icons": {
+    "message": "Hide user icons"
+  },
+  "facebook.chat.one_line_entries": {
+    "message": "One-line entries"
+  },
+  "facebook.chat.hide_timestamps": {
+    "message": "Hide timestamps"
+  },
+  "facebook.chat.hide_chat_when_idle": {
+    "message": "Hide chat when idle for"
+  },
+  "facebook.chat.blocking": {
+    "message": "Blocking"
+  },
+  "facebook.chat.blockedlist": {
+    "message": "Blocked list"
+  },
+  "facebook.chat.block_help": {
+    "message": "You can block viewers by adding their name or username (including bots, if applicable) in the blocked list so that their messages will not appear in the chat viewer.[br][br]This blocked list is not connected to your channel's blocked list. It only works for this chat source."
+  },
+  "facebook.chat.blocking_name": {
+    "message": "Enter the name or username of the viewer you wish to block."
+  },
+  "facebook.chat.block_name": {
+    "message": "Name"
+  },
+  "facebook.chat.block_add": {
+    "message": "Add"
+  },
+  "facebook.chat.block_remove": {
+    "message": "Remove"
+  },
+  "facebook.chat.hide_connection_message": {
+    "message": "Hide connection messages"
+  },
+  "facebook.chat.not_seeing_videos": {
+    "message": "Not seeing your live video?"
+  },
+  "facebook.chat.not_seeing_videos_help": {
+    "message": "We might not have permission to access some of your pages' live videos."
+  },
+  "facebook.chat.not_seeing_videos_link": {
+    "message": "Click here to re-authorize"
+  }
+}

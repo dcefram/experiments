@@ -1,0 +1,107 @@
+{
+  "facebook.source_alert.tabheader": {
+    "message": "アラート"
+  },
+  "facebook.source_alert.source": {
+    "message": "ソース"
+  },
+  "facebook.source_alert.account": {
+    "message": "アカウント"
+  },
+  "facebook.source_alert.authorize": {
+    "message": "XSplitに対してFacebookの使用を許可します。"
+  },
+  "facebook.source_alert.remove_authorization": {
+    "message": "**%api%** 認証取り消し"
+  },
+  "facebook.source_alert.switch_account": {
+    "message": "**%api%** アカウントを切り替える"
+  },
+  "facebook.source_alert.not_connected": {
+    "message": "配信が始まると自動的にアラートが読み込まれます"
+  },
+  "facebook.source_alert.connected": {
+    "message": "接続しました。"
+  },
+  "facebook.source_alert.connect": {
+    "message": "接続"
+  },
+  "facebook.source_alert.disconnect": {
+    "message": "接続を切る"
+  },
+  "facebook.source_alert.error_auth": {
+    "message": "XSplitが要求している権限を許可させる為、もう一度認証を行ってください。"
+  },
+  "facebook.source_alert.not_seeing_videos": {
+    "message": "ライブ映像が表示されておりませんか？"
+  },
+  "facebook.source_alert.not_seeing_videos_help": {
+    "message": "あなたのページへアクセスする許可がない可能性があります。"
+  },
+  "facebook.source_alert.not_seeing_videos_link": {
+    "message": "こちらをクリックし、再承認を行ってください"
+  },
+  "facebook.source_alert.hide_connection_message": {
+    "message": "接続メッセージを非表示にする"
+  },
+  "facebook.source_alert.alertLabel": {
+    "message": "アラート"
+  },
+  "facebook.source_alert.animation_text": {
+    "message": "アニメーション"
+  },
+  "facebook.source_alert.duration": {
+    "message": "期間"
+  },
+  "facebook.source_alert.delay": {
+    "message": "表示時間"
+  },
+  "facebook.source_alert.animateIn": {
+    "message": "入りアニメーション"
+  },
+  "facebook.source_alert.animateOut": {
+    "message": "出アニメーション"
+  },
+  "facebook.source_alert.audio": {
+    "message": "オーディオ"
+  },
+  "facebook.source_alert.generalHeader": {
+    "message": "一般"
+  },
+  "facebook.source_alert.customizeHeader": {
+    "message": "カスタマイズ"
+  },
+  "facebook.source_alert.theme": {
+    "message": "テーマ"
+  },
+  "facebook.source_alert.minStars": {
+    "message": "最低数のスター"
+  },
+  "facebook.source_alert.type": {
+    "message": "種類"
+  },
+  "facebook.source_alert.nameStyleAndSettings": {
+    "message": "設定とスタイルの名前"
+  },
+  "facebook.source_alert.sound": {
+    "message": "音"
+  },
+  "facebook.source_alert.show_alert": {
+    "message": "プレビュー"
+  },
+  "facebook.source_alert.hide_alert": {
+    "message": "プレビューを非表示にする"
+  },
+  "facebook.source_alert.test_alert": {
+    "message": "アラートテスト"
+  },
+  "facebook.source_alert.Color": {
+    "message": "色"
+  },
+  "facebook.source_alert.layout": {
+    "message": "レイアウト"
+  },
+  "facebook.source_alert.shareNote": {
+    "message": "一般公開時のみ適応されます"
+  }
+}

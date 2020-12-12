@@ -1,0 +1,314 @@
+{
+	"toptitle": {
+		"message": "管理計畫現場視頻"
+	},
+	"details": {
+		"message": "廣播詳細資訊"
+	},
+	"livevideo.label": {
+		"message": "現場視頻"
+	},
+	"livevideo.tooltip": {
+		"message": "選擇您想直播的方式。[br] [br] **新直播**-現在通過新的直播視頻上直播[br] **預定**-廣播到現有的預定直播視頻"
+	},
+	"livevideovalues.0": {
+		"message": "新直播"
+	},
+	"scheduledvideovalues.new": {
+		"message": "新計畫直播"
+	},
+	"delete": {
+		"message": "刪除"
+	},
+	"stop": {
+		"message": "停止"
+	},
+	"status.label": {
+		"message": "狀態"
+	},
+	"status.tooltip": {
+		"message": "設置您預定的直播. [br][br]**已設定**-自動開始運行數據到計劃的開始時間. 你可以播放之前您的預覽直播.[br]**直播** 開始時間-啟動廣播和直播. [br]**手動**- 預覽您的廣播和替換直播從預定到手動. 主要用於當你晚到了, 需要手動去預覽廣播在直播前, 注意, 手動永遠不能再切換回原計劃, 需要手動設置直播到Facebook,"
+	},
+	"statusvalues.scheduled": {
+		"message": "計畫"
+	},
+	"statusvalues.live": {
+		"message": "直播"
+	},
+	"statusvalues.manual": {
+		"message": "手動"
+	},
+	"title": {
+		"message": "標題"
+	},
+	"description": {
+		"message": "描述"
+	},
+	"tags.label": {
+		"message": "內容標籤"
+	},
+	"tags.tooltip": {
+		"message": "標籤可説明使視頻更容易發現. 他們不是對公眾可見."
+	},
+	"videogame.label": {
+		"message": "電子遊戲"
+	},
+	"videogame.tooltip": {
+		"message": "標記您將在Facebook上暢玩遊戲的電子遊戲。"
+	},
+	"checkin.label": {
+		"message": "位置簽到"
+	},
+	"checkin.tooltip": {
+		"message": "你在廣播的位置."
+	},
+	"privacy.label": {
+		"message": "隱私"
+	},
+	"privacy.tooltip": {
+		"message": "隱私範圍可能為XSplit 在你的Facebook 應用程序設置的隱私上限所限制. 若要確保您可以控制隱私範圍, 請確保您的隱私設置XSplit 在你的Facebook 應用程序設置為*​​公共**. [查看更多](https://xspl.it/fbxspriv)"
+	},
+	"privacyvalues.EVERYONE": {
+		"message": "公開"
+	},
+	"privacyvalues.ALL_FRIENDS": {
+		"message": "朋友"
+	},
+	"privacyvalues.SELF": {
+		"message": "只有我"
+	},
+	"pageaudience.label": {
+		"message": "頁面觀眾"
+	},
+	"pageaudience.tooltip": {
+		"message": "選擇要連接的人員的位置。"
+	},
+	"locations.label": {
+		"message": "位置"
+	},
+	"locations.tooltip": {
+		"message": "預設情況下, 設置為所有位置或您可以輸入特定的國家的人們最想要聯繫你所在的位置."
+	},
+	"support.label": {
+		"message": "連續直播"
+	},
+	"support.tooltip": {
+		"message": "此選項允許您播放超過 4 小時, 但不是會生成記錄你在你的 Facebook 上的即時流."
+	},
+	"manageschedule": {
+		"message": "管理計畫現場視頻"
+	},
+	"createschedule": {
+		"message": "創建計畫直播"
+	},
+	"scheduledstart.label": {
+		"message": "計畫開始"
+	},
+	"scheduledstart.tooltip": {
+		"message": "計劃視頻直播必須在你創建他們後的11分鐘到7天(168小時) 內計劃播放."
+	},
+	"customimage.label": {
+		"message": "自訂圖像"
+	},
+	"customimage.tooltip": {
+		"message": "您可以添加自定義圖像到直播公告."
+	},
+	"scheduleerror": {
+		"message": "無效計畫"
+	},
+	"uploadimage": {
+		"message": "上傳圖片..."
+	},
+	"deleteimage": {
+		"message": "刪除圖像"
+	},
+	"errormessage": {
+		"message": "計劃視頻直播必須在你創建他們後的11分鐘到7天(168小時) 內計劃播放."
+	},
+	"addScheduleHeader": {
+		"message": "添加計劃"
+	},
+	"addSchedule": {
+		"message": "添加計劃"
+	},
+	"editSchedule": {
+		"message": "編輯計畫"
+	},
+	"updateSchedule": {
+		"message": "更新計畫"
+	},
+	"start": {
+		"message": "開始廣播"
+	},
+	"resume": {
+		"message": "恢復廣播"
+	},
+	"ok": {
+		"message": "OK"
+	},
+	"cancel": {
+		"message": "取消"
+	},
+	"close": {
+		"message": "關閉"
+	},
+	"loading.create": {
+		"message": "創建視頻直播..."
+	},
+	"loading.update": {
+		"message": "更新現場視頻..."
+	},
+	"youtube.liveEvent.label": {
+		"message": "實況活動"
+	},
+	"youtube.liveEvent.tooltip": {
+		"message": "Select how you want to go live.[br][br]**New Live Event -** Create a new live event and go live[br]**Scheduled -** Select an existing live event.[br]**Live Now -** Resume an existing live now event"
+	},
+	"youtube.tags.label": {
+		"message": "標籤"
+	},
+	"youtube.tags.tooltip": {
+		"message": "標籤一些描述性關鍵字, 您可以將添加到您的視頻, 以幫助人們找到你的內容. [br][br]使用逗號以分隔標記."
+	},
+	"youtube.category.label": {
+		"message": "分類"
+	},
+	"youtube.schedule": {
+		"message": "沒有直播計劃"
+	},
+	"youtube.noSchedule": {
+		"message": "沒有直播計劃"
+	},
+	"youtube.duration": {
+		"message": "持續時間"
+	},
+	"youtube.endSchedule": {
+		"message": "結束計畫 (可選)"
+	},
+	"youtube.hours": {
+		"message": "小時"
+	},
+	"youtube.minutes": {
+		"message": "分鐘"
+	},
+	"youtube.enable360.label": {
+		"message": "啟用 360° 視頻"
+	},
+	"youtube.enable360.title": {
+		"message": "啟用 360° 視頻"
+	},
+	"youtube.enable360.tooltip": {
+		"message": "設置360° 為你的直播視頻. 啟用這會讓你的觀眾探索 360° 視頻在所有的目錄. [br][br] 低延遲實時流媒體不支持 360° 視頻."
+	},
+	"youtube.enableLowLatency": {
+		"message": "啟用低延遲時間"
+	},
+	"youtube.enableDvr": {
+		"message": "啟動DVR"
+	},
+	"youtube.allowEmbed": {
+		"message": "允許嵌入"
+	},
+	"youtube.useBackupServer": {
+		"message": "使用備份伺服器"
+	},
+	"youtube.manualTransition.label": {
+		"message": "手動過渡"
+	},
+	"youtube.manualTransition.tooltip": {
+		"message": "選中此選項可控制的狀態你 broadast 從 YouTube 住控制面板. 如果未選中. XSplit 將自動過渡狀態以\"直播\"後開始的廣播和給選項\"完成\"後停止廣播."
+	},
+	"youtube.liveEvent.values.scheduled": {
+		"message": "計劃: 開始 %日期%-%標題%"
+	},
+	"youtube.liveEvent.values.liveNow": {
+		"message": "現在直播: 啟動 %date%-%title%"
+	},
+	"youtube.liveEvent.defaults.new": {
+		"message": "新實況活動"
+	},
+	"youtube.category.values.1": {
+		"message": "電影& 動畫"
+	},
+	"youtube.category.values.2": {
+		"message": "汽車&車輛"
+	},
+	"youtube.category.values.10": {
+		"message": "音樂"
+	},
+	"youtube.category.values.15": {
+		"message": "寵物&動物"
+	},
+	"youtube.category.values.17": {
+		"message": "體育"
+	},
+	"youtube.category.values.19": {
+		"message": "旅遊&活動"
+	},
+	"youtube.category.values.20": {
+		"message": "遊戲"
+	},
+	"youtube.category.values.22": {
+		"message": "人群&部落格"
+	},
+	"youtube.category.values.23": {
+		"message": "喜劇"
+	},
+	"youtube.category.values.24": {
+		"message": "娛樂"
+	},
+	"youtube.category.values.25": {
+		"message": "新聞&政治"
+	},
+	"youtube.category.values.26": {
+		"message": "教程 & 風格"
+	},
+	"youtube.category.values.27": {
+		"message": "教育"
+	},
+	"youtube.category.values.28": {
+		"message": "科學與技術"
+	},
+	"youtube.category.values.29": {
+		"message": "非營利 &能動性"
+	},
+	"youtube.privacy.public": {
+		"message": "公開"
+	},
+	"youtube.privacy.unlisted": {
+		"message": "未收錄"
+	},
+	"youtube.privacy.private": {
+		"message": "隱私"
+	},
+	"youtube.latency.label": {
+		"message": "延遲時間"
+	},
+	"youtube.latency.tooltip": {
+		"message": "**正常延遲**-最好的: 高質量觀眾播放和更高的分辨率. [br]**低-延遲**-最好為: 附近的實時交互與最小播放緩衝. [br]* *Ultra 低-延遲**-最好為: 實時互動.[br]**不支持**: 硬盤錄像機, 關閉字幕, 1440 p 和4 k 分辨率"
+	},
+	"youtube.latency.values.normal": {
+		"message": "正常延遲"
+	},
+	"youtube.latency.values.low": {
+		"message": "低延遲"
+	},
+	"youtube.latency.values.ultraLow": {
+		"message": "超低延遲"
+	},
+	"youtube.emptyTitle": {
+		"message": "標題不能為空."
+	},
+	"youtube.noEndSchedule": {
+		"message": "無結束計畫"
+	},
+	"youtube.endScheduleInvalid": {
+		"message": "結束計畫無效. 如果要添加結束計畫, 請設置有效的日期和時間."
+	},
+	"youtube.endScheduleFuture": {
+		"message": "請選擇將來的結束計畫."
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "正在尋找建議..."
+	}
+}

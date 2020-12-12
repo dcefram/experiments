@@ -1,0 +1,110 @@
+{
+  "title.source": {
+    "message": "ซอส"
+  },
+  "subtitle.account": {
+    "message": "บัญชี"
+  },
+  "link.authorize": {
+    "message": "อนุญาตให้ XSplit ใช้ Facebook Live"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** สลับบัญชี"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** ถอนการอนุญาต"
+  },
+  "subtitle2.authorize.error": {
+    "message": "โปรดลองอนุญาตให้ใช้ใหม่อีกครั้งและเพิ่มการเข้าถึงสิทธิ์การใช้งานที่ XSplit ต้องใช้สำหรับฟังก์ชั่นนี้"
+  },
+  "subtitle.source": {
+    "message": "ซอส"
+  },
+  "source.values.automatic": {
+    "message": "อัตโนมัติ"
+  },
+  "chat.reaction.not_connected": {
+    "message": "รีแอคชั่นจะถูกโหลดโดยอัตโนมัติเมื่อสตรีมไลฟ์แล้ว"
+  },
+  "chat.comment.not_connected": {
+    "message": "คอมเม้นต์จะถูกโหลดโดยอัตโนมัติเมือสตรีมไลฟ์แล้ว"
+  },
+  "chat.connected": {
+    "message": "เชื่อมต่อแล้ว"
+  },
+  "title.display": {
+    "message": "แสดงผล"
+  },
+  "help.display.title": {
+    "message": "รีแอคชั่นอนิเมชั่น"
+  },
+  "help.display.text": {
+    "message": "ปรับแต่งไลฟ์แอคชั่นของคุณเองว่าจะแสดงแบบไหนบนไลฟ์สตรีมของคุณ![br]เลือกรูปแบบอนิเมชั่นและควบคุมการตั้งค่าอื่นๆ[br][br]ใช้ปุ่มดูตัวอย่างเพื่อตรวจสอบอนิเมชั่นก่อนจะเริ่มไลฟ์"
+  },
+  "animation.text": {
+    "message": "อนิเมชั่น"
+  },
+  "label.streamprops": {
+    "message": "คุณสมบัติ สตรีม"
+  },
+  "button.reset": {
+    "message": "รีเซ็ต"
+  },
+  "label.direction": {
+    "message": "ทิศทาง"
+  },
+  "label.time": {
+    "message": "เวลา"
+  },
+  "label.seconds": {
+    "message": "วินาที"
+  },
+  "label.timevariation": {
+    "message": "การเปลี่ยนเวลา"
+  },
+  "label.emoji.size": {
+    "message": "ขนาดอีโมจิ"
+  },
+  "label.pixels": {
+    "message": "พิกเซล"
+  },
+  "label.sizevariation": {
+    "message": "การเปลี่ยนขนาด"
+  },
+  "label.hide_connection_message": {
+    "message": "ซ่อนข้อความการเชื่อมต่อ"
+  },
+  "button.preview": {
+    "message": "ตัวอย่าง"
+  },
+  "animation.types.stream": {
+    "message": "รีแอคชั่นสตรีม"
+  },
+  "animation.types.pop": {
+    "message": "Pop In/Out"
+  },
+  "stream.directions.leftToRight": {
+    "message": "ซ้ายไปขวา"
+  },
+  "stream.directions.topToBottom": {
+    "message": "บนลงล่าง"
+  },
+  "stream.directions.rightToLeft": {
+    "message": "ขวาไปซ้าย"
+  },
+  "stream.directions.bottomToTop": {
+    "message": "ล่างขึ้นบน"
+  },
+  "tabheader.title": {
+    "message": "รีแอคชั่น"
+  },
+  "label.not_seeing_videos": {
+    "message": "ไม่เห็นภาพการไลฟ์ของคุณเหรอ?"
+  },
+  "label.not_seeing_videos_help": {
+    "message": "เราอาจจะไม่มีสิทธิเข้าถึงหน้าเพจไลฟ์วิดีโอบางอัน"
+  },
+  "label.not_seeing_videos_link": {
+    "message": "คลิ๊กที่นี่เพื่อทำการอนุญาตอีกครั้ง"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "chat.title": {
+    "message": "Настройки %service% чата"
+  },
+  "chat.source": {
+    "message": "Источник"
+  },
+  "chat.account": {
+    "message": "Учетная запись"
+  },
+  "chat.authorize": {
+    "message": "Разрешить XSplit использовать %service%"
+  },
+  "chat.deauthorize": {
+    "message": "%username% (запретить)"
+  },
+  "chat.connected": {
+    "message": "Подключен"
+  },
+  "chat.not_connected": {
+    "message": "Не подключен"
+  },
+  "chat.channel_text": {
+    "message": "Введите канал чата %service%, который вы хотите отобразить."
+  },
+  "chat.channel": {
+    "message": "Канал"
+  },
+  "chat.channel_name": {
+    "message": "Имя канала"
+  },
+  "chat.connect": {
+    "message": "Подключение"
+  },
+  "chat.error_channel_not_found": {
+    "message": "%service% канал не найден. Пожалуйста, попробуйте еще раз."
+  },
+  "chat.error_no_connection": {
+    "message": "Проверьте подключение к Интернету и повторите попытку."
+  },
+  "chat.display": {
+    "message": "Дисплей"
+  },
+  "chat.chat_box": {
+    "message": "Окно чата"
+  },
+  "chat.opacity": {
+    "message": "Прозрачность"
+  },
+  "chat.viewers": {
+    "message": "Зрители"
+  },
+  "chat.message": {
+    "message": "Сообщение"
+  },
+  "chat.text_size": {
+    "message": "Размер текста"
+  },
+  "chat.disconnect": {
+    "message": "Отсоединить"
+  },
+  "chat.connecting": {
+    "message": "Подключение..."
+  },
+  "chat.connect_error": {
+    "message": "%service% не удается подключиться к каналу. Пожалуйста, попробуйте еще раз."
+  },
+  "chat.invalid_channel": {
+    "message": "Укажите, пожалуйста, правильный %service% канал."
+  }
+}

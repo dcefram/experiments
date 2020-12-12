@@ -1,0 +1,62 @@
+{
+	"youtube.html.tabheader": {
+		"message": "Chat"
+	},
+	"youtube.html.source": {
+		"message": "Source"
+	},
+	"youtube.html.account": {
+		"message": "Account"
+	},
+	"youtube.html.preview": {
+		"message": "Preview"
+	},
+	"youtube.html.not_connected": {
+		"message": "Not Connected"
+	},
+	"youtube.html.connected": {
+		"message": "Connected"
+	},
+	"youtube.html.error_channel_not_found": {
+		"message": "Please provide a valid video ID."
+	},
+	"youtube.html.display": {
+		"message": "Display"
+	},
+	"youtube.html.chat_box": {
+		"message": "Chat Box"
+	},
+	"youtube.html.opacity": {
+		"message": "Opacity"
+	},
+	"youtube.html.viewers": {
+		"message": "Viewers"
+	},
+	"youtube.html.message": {
+		"message": "Message"
+	},
+	"youtube.html.text_size": {
+		"message": "Text Size"
+	},
+	"youtube.html.hide_user_icons": {
+		"message": "Hide user icons"
+	},
+	"youtube.html.hide_timestamps": {
+		"message": "Hide timestamps"
+	},
+	"youtube.html.hide_on_idle": {
+		"message": "Hide chat when idle for"
+	},
+	"youtube.html.video_id": {
+		"message": "Video ID"
+	},
+	"youtube.html.video_id_help": {
+		"message": "To get the ID of your YouTube live video in your browser, right click on the video, and choose 'Copy video URL'. Copy the characters at the last part of the video URL."
+	},
+	"youtube.html.connect": {
+		"message": "Connect"
+	},
+	"youtube.html.disconnect": {
+		"message": "Disconnect"
+	}
+}

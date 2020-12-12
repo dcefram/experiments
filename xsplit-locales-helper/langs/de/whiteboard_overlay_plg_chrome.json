@@ -1,0 +1,50 @@
+{
+  "whiteboard_overlay.drawing": {
+    "message": "Zeichnung"
+  },
+  "whiteboard_overlay.reminder": {
+    "message": "Um mit dem Zeichnen beginnen, denken Sie daran, das Position-fixieren-Kontrollkästchen auf der Registerkarte Layout anzukreuzen und sicherzustellen, dass die Quelle nicht gedreht ist."
+  },
+  "whiteboard_overlay.tool": {
+    "message": "Werkzeug"
+  },
+  "whiteboard_overlay.size": {
+    "message": "Größe"
+  },
+  "whiteboard_overlay.color": {
+    "message": "Farbe"
+  },
+  "whiteboard_overlay.clear_whiteboard": {
+    "message": "Whiteboard löschen"
+  },
+  "whiteboard_overlay.hotkeys": {
+    "message": "Whiteboard löschen"
+  },
+  "whiteboard_overlay.hotkey_header": {
+    "message": "Verwenden Sie diese Tastenkürzel, wenn die Quelle ausgewählt ist:"
+  },
+  "whiteboard_overlay.hotkey_s": {
+    "message": "Drücken Sie &quot;**S**&quot; um zwischen Größen umzuschalten (S\/M\/L)"
+  },
+  "whiteboard_overlay.hotkey_shift": {
+    "message": "Halten Sie &quot;**Shift**&quot; gedrückt, um alternatives Werkzeug zu verwenden[br]Formen: Freiform -> Form erkennen (Linie, Dreieck, Kreis, Rechteck)"
+  },
+  "whiteboard_overlay.hotkey_d": {
+    "message": "Drücken Sie &quot;**D**&quot;, um aktuelle Zeichnung zu speichern"
+  },
+  "whiteboard_overlay.hotkey_esc": {
+    "message": "Drücken Sie &quot;**Esc**&quot;, um Whiteboard zu löschen"
+  },
+  "whiteboard_overlay.tool_options_freehand": {
+    "message": "Freihand"
+  },
+  "whiteboard_overlay.size_options_thin": {
+    "message": "Dünn"
+  },
+  "whiteboard_overlay.size_options_normal": {
+    "message": "Normal"
+  },
+  "whiteboard_overlay.size_options_thick": {
+    "message": "Dick"
+  }
+}

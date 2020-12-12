@@ -1,0 +1,1304 @@
+{
+  "title": {
+    "message": "XSplit Broadcaster - Anwendereinstellungen"
+  },
+  "tab.profile": {
+    "message": "Profil"
+  },
+  "tab.general": {
+    "message": "Allgemein"
+  },
+  "tab.audio": {
+    "message": "Audio"
+  },
+  "tab.hotkeys": {
+    "message": "Tastenkürzel"
+  },
+  "tab.sharing": {
+    "message": "Teilen"
+  },
+  "tab.advanced": {
+    "message": "Erweitert"
+  },
+  "profile.fullName.label": {
+    "message": "Vollständiger Name"
+  },
+  "profile.screenName.label": {
+    "message": "Benutzername"
+  },
+  "profile.country.label": {
+    "message": "Land"
+  },
+  "profile.gender.label": {
+    "message": "Geschlecht"
+  },
+  "profile.gender.male.label": {
+    "message": "Männlich"
+  },
+  "profile.gender.female.label": {
+    "message": "Weiblich"
+  },
+  "profile.birthday.label": {
+    "message": "Geburtstag"
+  },
+  "profile.addImage.label": {
+    "message": "Profilbild hinzufügen"
+  },
+  "profile.changePassword.label": {
+    "message": "Ändern Sie Ihr Passwort hier"
+  },
+  "profile.countries.af": {
+    "message": "Afghanistan"
+  },
+  "profile.countries.ax": {
+    "message": "Aland-Inseln"
+  },
+  "profile.countries.al": {
+    "message": "Albanien"
+  },
+  "profile.countries.dz": {
+    "message": "Algerien"
+  },
+  "profile.countries.as": {
+    "message": "Amerikanisch-Samoa"
+  },
+  "profile.countries.ad": {
+    "message": "Andorra"
+  },
+  "profile.countries.ao": {
+    "message": "Angola"
+  },
+  "profile.countries.ai": {
+    "message": "Anguilla"
+  },
+  "profile.countries.aq": {
+    "message": "Antarktis"
+  },
+  "profile.countries.ag": {
+    "message": "Antigua und Barbuda"
+  },
+  "profile.countries.ar": {
+    "message": "Argentinien"
+  },
+  "profile.countries.am": {
+    "message": "Armenien"
+  },
+  "profile.countries.aw": {
+    "message": "Aruba"
+  },
+  "profile.countries.au": {
+    "message": "Australien"
+  },
+  "profile.countries.at": {
+    "message": "Österreich"
+  },
+  "profile.countries.az": {
+    "message": "Aserbaidschan"
+  },
+  "profile.countries.bs": {
+    "message": "Bahamas"
+  },
+  "profile.countries.bh": {
+    "message": "Bahrain"
+  },
+  "profile.countries.bd": {
+    "message": "Bangladesch"
+  },
+  "profile.countries.bb": {
+    "message": "Barbados"
+  },
+  "profile.countries.by": {
+    "message": "Belarus"
+  },
+  "profile.countries.be": {
+    "message": "Belgien"
+  },
+  "profile.countries.bz": {
+    "message": "Belize"
+  },
+  "profile.countries.bj": {
+    "message": "Benin"
+  },
+  "profile.countries.bm": {
+    "message": "Bermuda"
+  },
+  "profile.countries.bt": {
+    "message": "Bhutan"
+  },
+  "profile.countries.bo": {
+    "message": "Bolivien"
+  },
+  "profile.countries.ba": {
+    "message": "Bosnien und Herzegowina"
+  },
+  "profile.countries.bw": {
+    "message": "Botswana"
+  },
+  "profile.countries.bv": {
+    "message": "Bouvet-Insel"
+  },
+  "profile.countries.br": {
+    "message": "Brazilien"
+  },
+  "profile.countries.io": {
+    "message": "Britisches Territorium im Indischen Ozean"
+  },
+  "profile.countries.bn": {
+    "message": "Brunei Darussalam"
+  },
+  "profile.countries.bg": {
+    "message": "Bulgarien"
+  },
+  "profile.countries.bf": {
+    "message": "Burkina Faso"
+  },
+  "profile.countries.bi": {
+    "message": "Burundi"
+  },
+  "profile.countries.kh": {
+    "message": "Kambodscha"
+  },
+  "profile.countries.cm": {
+    "message": "Kamerun"
+  },
+  "profile.countries.ca": {
+    "message": "Kanada"
+  },
+  "profile.countries.cv": {
+    "message": "Kap Verde"
+  },
+  "profile.countries.ky": {
+    "message": "Kaimaninseln"
+  },
+  "profile.countries.cf": {
+    "message": "Zentralafrikanische Republik"
+  },
+  "profile.countries.td": {
+    "message": "Tschad"
+  },
+  "profile.countries.cl": {
+    "message": "Chile"
+  },
+  "profile.countries.cn": {
+    "message": "China"
+  },
+  "profile.countries.cx": {
+    "message": "Weihnachtsinsel"
+  },
+  "profile.countries.cc": {
+    "message": "Kokosinseln (Keelinginseln)"
+  },
+  "profile.countries.co": {
+    "message": "Kolumbien"
+  },
+  "profile.countries.km": {
+    "message": "Komoren"
+  },
+  "profile.countries.cg": {
+    "message": "Kongo"
+  },
+  "profile.countries.cd": {
+    "message": "Kongo, Demokratische Republik des"
+  },
+  "profile.countries.ck": {
+    "message": "Cook-Inseln"
+  },
+  "profile.countries.cr": {
+    "message": "Costa Rica"
+  },
+  "profile.countries.ci": {
+    "message": "Elfenbeinküste"
+  },
+  "profile.countries.hr": {
+    "message": "Kroatien"
+  },
+  "profile.countries.cu": {
+    "message": "Kuba"
+  },
+  "profile.countries.cy": {
+    "message": "Zypern"
+  },
+  "profile.countries.cz": {
+    "message": "Tschechische Republik"
+  },
+  "profile.countries.dk": {
+    "message": "Dänemark"
+  },
+  "profile.countries.dj": {
+    "message": "Dschibuti"
+  },
+  "profile.countries.dm": {
+    "message": "Dominica"
+  },
+  "profile.countries.do": {
+    "message": "Dominikanische Republik"
+  },
+  "profile.countries.ec": {
+    "message": "Ecuador"
+  },
+  "profile.countries.eg": {
+    "message": "Ägypten"
+  },
+  "profile.countries.sv": {
+    "message": "El Salvador"
+  },
+  "profile.countries.gq": {
+    "message": "Äquatorial-Guinea"
+  },
+  "profile.countries.er": {
+    "message": "Eritrea"
+  },
+  "profile.countries.ee": {
+    "message": "Estland"
+  },
+  "profile.countries.et": {
+    "message": "Äthiopien"
+  },
+  "profile.countries.fk": {
+    "message": "Falkland Inseln (Malvinen)"
+  },
+  "profile.countries.fo": {
+    "message": "Färöer Inseln"
+  },
+  "profile.countries.fj": {
+    "message": "Fidschi"
+  },
+  "profile.countries.fi": {
+    "message": "Finnland"
+  },
+  "profile.countries.fr": {
+    "message": "Frankreich"
+  },
+  "profile.countries.gf": {
+    "message": "Französisch-Guayana"
+  },
+  "profile.countries.pf": {
+    "message": "Französisch-Polynesien"
+  },
+  "profile.countries.tf": {
+    "message": "Französische Süd-und Antarktisgebiete"
+  },
+  "profile.countries.ga": {
+    "message": "Gabun"
+  },
+  "profile.countries.gm": {
+    "message": "Gambia"
+  },
+  "profile.countries.ge": {
+    "message": "Georgien"
+  },
+  "profile.countries.de": {
+    "message": "Deutschland"
+  },
+  "profile.countries.gh": {
+    "message": "Ghana"
+  },
+  "profile.countries.gi": {
+    "message": "Gibraltar"
+  },
+  "profile.countries.gr": {
+    "message": "Griechenland"
+  },
+  "profile.countries.gl": {
+    "message": "Grönland"
+  },
+  "profile.countries.gd": {
+    "message": "Grenada"
+  },
+  "profile.countries.gp": {
+    "message": "Guadeloupe"
+  },
+  "profile.countries.gu": {
+    "message": "Guam"
+  },
+  "profile.countries.gt": {
+    "message": "Guatemala"
+  },
+  "profile.countries.gg": {
+    "message": "Guernsey"
+  },
+  "profile.countries.gn": {
+    "message": "Guinea"
+  },
+  "profile.countries.gw": {
+    "message": "Guinea-Bissau"
+  },
+  "profile.countries.gy": {
+    "message": "Guyana"
+  },
+  "profile.countries.ht": {
+    "message": "Haiti"
+  },
+  "profile.countries.hm": {
+    "message": "Heard und Mcdonald Inseln"
+  },
+  "profile.countries.va": {
+    "message": "Heiliger Stuhl (Vatikanstadt)"
+  },
+  "profile.countries.hn": {
+    "message": "Honduras"
+  },
+  "profile.countries.hk": {
+    "message": "Hong Kong"
+  },
+  "profile.countries.hu": {
+    "message": "Ungarn"
+  },
+  "profile.countries.is": {
+    "message": "Island"
+  },
+  "profile.countries.in": {
+    "message": "Indien"
+  },
+  "profile.countries.id": {
+    "message": "Indonesien"
+  },
+  "profile.countries.ir": {
+    "message": "Iran, Islamische Republik"
+  },
+  "profile.countries.iq": {
+    "message": "Irak"
+  },
+  "profile.countries.ie": {
+    "message": "Irland"
+  },
+  "profile.countries.im": {
+    "message": "Isle Of Man"
+  },
+  "profile.countries.il": {
+    "message": "Israel"
+  },
+  "profile.countries.it": {
+    "message": "Italien"
+  },
+  "profile.countries.jm": {
+    "message": "Jamaika"
+  },
+  "profile.countries.jp": {
+    "message": "Japan"
+  },
+  "profile.countries.je": {
+    "message": "Jersey"
+  },
+  "profile.countries.jo": {
+    "message": "Jordanien"
+  },
+  "profile.countries.kz": {
+    "message": "Kasachstan"
+  },
+  "profile.countries.ke": {
+    "message": "Kenia"
+  },
+  "profile.countries.ki": {
+    "message": "Kiribati"
+  },
+  "profile.countries.kp": {
+    "message": "Korea, Demokratische Volksrepublik"
+  },
+  "profile.countries.kr": {
+    "message": "Korea, Republik"
+  },
+  "profile.countries.kw": {
+    "message": "Kuwait"
+  },
+  "profile.countries.kg": {
+    "message": "Kirgistan"
+  },
+  "profile.countries.la": {
+    "message": "Demokratische Volksrepublik Laos"
+  },
+  "profile.countries.lv": {
+    "message": "Lettland"
+  },
+  "profile.countries.lb": {
+    "message": "Libanon"
+  },
+  "profile.countries.ls": {
+    "message": "Lesotho"
+  },
+  "profile.countries.lr": {
+    "message": "Liberia"
+  },
+  "profile.countries.ly": {
+    "message": "Libysch-Arabische Dschamahirija"
+  },
+  "profile.countries.li": {
+    "message": "Liechtenstein"
+  },
+  "profile.countries.lt": {
+    "message": "Litauen"
+  },
+  "profile.countries.lu": {
+    "message": "Luxemburg"
+  },
+  "profile.countries.mo": {
+    "message": "Macao"
+  },
+  "profile.countries.mk": {
+    "message": "Mazedonien, ehemalige jugoslawische Republik"
+  },
+  "profile.countries.mg": {
+    "message": "Madagaskar"
+  },
+  "profile.countries.mw": {
+    "message": "Malawi"
+  },
+  "profile.countries.my": {
+    "message": "Malaysien"
+  },
+  "profile.countries.mv": {
+    "message": "Malediven"
+  },
+  "profile.countries.ml": {
+    "message": "Mali"
+  },
+  "profile.countries.mt": {
+    "message": "Malta"
+  },
+  "profile.countries.mh": {
+    "message": "Marshall-Inseln"
+  },
+  "profile.countries.mq": {
+    "message": "Martinique"
+  },
+  "profile.countries.mr": {
+    "message": "Mauretanien"
+  },
+  "profile.countries.mu": {
+    "message": "Mauritius"
+  },
+  "profile.countries.yt": {
+    "message": "Mayotte"
+  },
+  "profile.countries.mx": {
+    "message": "Mexiko"
+  },
+  "profile.countries.fm": {
+    "message": "Mikronesien, Föderierte Staaten von"
+  },
+  "profile.countries.md": {
+    "message": "Moldau, Republik"
+  },
+  "profile.countries.mc": {
+    "message": "Monaco"
+  },
+  "profile.countries.mn": {
+    "message": "Mongolei"
+  },
+  "profile.countries.me": {
+    "message": "Montenegro"
+  },
+  "profile.countries.ms": {
+    "message": "Montserrat"
+  },
+  "profile.countries.ma": {
+    "message": "Marokko"
+  },
+  "profile.countries.mz": {
+    "message": "Mosambik"
+  },
+  "profile.countries.mm": {
+    "message": "Myanmar"
+  },
+  "profile.countries.na": {
+    "message": "Namibia"
+  },
+  "profile.countries.nr": {
+    "message": "Nauru"
+  },
+  "profile.countries.np": {
+    "message": "Nepal"
+  },
+  "profile.countries.nl": {
+    "message": "Niederlande"
+  },
+  "profile.countries.an": {
+    "message": "Niederländische Antillen"
+  },
+  "profile.countries.nc": {
+    "message": "Neu-Kaledonien"
+  },
+  "profile.countries.nz": {
+    "message": "Neuseeland"
+  },
+  "profile.countries.ni": {
+    "message": "Nicaragua"
+  },
+  "profile.countries.ne": {
+    "message": "Niger"
+  },
+  "profile.countries.ng": {
+    "message": "Nigeria"
+  },
+  "profile.countries.nu": {
+    "message": "Niue"
+  },
+  "profile.countries.nf": {
+    "message": "Norfolkinsel"
+  },
+  "profile.countries.mp": {
+    "message": "Nord-Mariana Inseln"
+  },
+  "profile.countries.no": {
+    "message": "Norwegen"
+  },
+  "profile.countries.om": {
+    "message": "Oman"
+  },
+  "profile.countries.pk": {
+    "message": "Pakistan"
+  },
+  "profile.countries.pw": {
+    "message": "Palau"
+  },
+  "profile.countries.ps": {
+    "message": "Palästinensische Gebiete, besetzte"
+  },
+  "profile.countries.pa": {
+    "message": "Panama"
+  },
+  "profile.countries.pg": {
+    "message": "Papua Neu Guinea"
+  },
+  "profile.countries.py": {
+    "message": "Paraguay"
+  },
+  "profile.countries.pe": {
+    "message": "Peru"
+  },
+  "profile.countries.ph": {
+    "message": "Philippinen"
+  },
+  "profile.countries.pn": {
+    "message": "Pitcairn"
+  },
+  "profile.countries.pl": {
+    "message": "Polen"
+  },
+  "profile.countries.pt": {
+    "message": "Portugal"
+  },
+  "profile.countries.pr": {
+    "message": "Puerto Rico"
+  },
+  "profile.countries.qa": {
+    "message": "Katar"
+  },
+  "profile.countries.re": {
+    "message": "Reunion"
+  },
+  "profile.countries.ro": {
+    "message": "Rumänien"
+  },
+  "profile.countries.ru": {
+    "message": "Russische Föderation"
+  },
+  "profile.countries.rw": {
+    "message": "Ruanda"
+  },
+  "profile.countries.sh": {
+    "message": "St. Helena"
+  },
+  "profile.countries.kn": {
+    "message": "St. Kitts und Nevis"
+  },
+  "profile.countries.lc": {
+    "message": "Saint Lucia"
+  },
+  "profile.countries.pm": {
+    "message": "St. Pierre und Miquelon"
+  },
+  "profile.countries.vc": {
+    "message": "St. Vincent und die Grenadinen"
+  },
+  "profile.countries.ws": {
+    "message": "Samoa"
+  },
+  "profile.countries.sm": {
+    "message": "San Marino"
+  },
+  "profile.countries.st": {
+    "message": "Sao Tome und Principe"
+  },
+  "profile.countries.sa": {
+    "message": "Saudi-Arabien"
+  },
+  "profile.countries.sn": {
+    "message": "Senegal"
+  },
+  "profile.countries.rs": {
+    "message": "Serbien"
+  },
+  "profile.countries.sc": {
+    "message": "Seychellen"
+  },
+  "profile.countries.sl": {
+    "message": "Sierra Leone"
+  },
+  "profile.countries.sg": {
+    "message": "Singapur"
+  },
+  "profile.countries.sk": {
+    "message": "Slowakei"
+  },
+  "profile.countries.si": {
+    "message": "Slowenien"
+  },
+  "profile.countries.sb": {
+    "message": "Salomonen"
+  },
+  "profile.countries.so": {
+    "message": "Somalia"
+  },
+  "profile.countries.za": {
+    "message": "Südafrika"
+  },
+  "profile.countries.gs": {
+    "message": "Südgeorgien und die südlichen Sandwichinseln"
+  },
+  "profile.countries.es": {
+    "message": "Spanien"
+  },
+  "profile.countries.lk": {
+    "message": "Sri Lanka"
+  },
+  "profile.countries.sd": {
+    "message": "Sudan"
+  },
+  "profile.countries.sr": {
+    "message": "Suriname"
+  },
+  "profile.countries.sj": {
+    "message": "Svalbard und Jan Mayen"
+  },
+  "profile.countries.sz": {
+    "message": "Swasiland"
+  },
+  "profile.countries.se": {
+    "message": "Schweden"
+  },
+  "profile.countries.ch": {
+    "message": "Schweiz"
+  },
+  "profile.countries.sy": {
+    "message": "Arabische Republik Syrien"
+  },
+  "profile.countries.tw": {
+    "message": "Taiwan, chinesische Provinz"
+  },
+  "profile.countries.tj": {
+    "message": "Tadschikistan"
+  },
+  "profile.countries.tz": {
+    "message": "Tansania, Vereinigte Republik"
+  },
+  "profile.countries.th": {
+    "message": "Thailand"
+  },
+  "profile.countries.tl": {
+    "message": "Timor-leste"
+  },
+  "profile.countries.tg": {
+    "message": "Togo"
+  },
+  "profile.countries.tk": {
+    "message": "Tokelau"
+  },
+  "profile.countries.to": {
+    "message": "Tonga"
+  },
+  "profile.countries.tt": {
+    "message": "Trinidad und Tobago"
+  },
+  "profile.countries.tn": {
+    "message": "Tunesien"
+  },
+  "profile.countries.tr": {
+    "message": "Turkei"
+  },
+  "profile.countries.tm": {
+    "message": "Turkmenistan"
+  },
+  "profile.countries.tc": {
+    "message": "Turks And Caicos Islands"
+  },
+  "profile.countries.tv": {
+    "message": "Tuvalu"
+  },
+  "profile.countries.ug": {
+    "message": "Uganda"
+  },
+  "profile.countries.ua": {
+    "message": "Ukraine"
+  },
+  "profile.countries.ae": {
+    "message": "Vereinigte Arabische Emirate"
+  },
+  "profile.countries.gb": {
+    "message": "Vereinigtes Königreich"
+  },
+  "profile.countries.us": {
+    "message": "USA"
+  },
+  "profile.countries.um": {
+    "message": "United States Minor Outlying Islands"
+  },
+  "profile.countries.uy": {
+    "message": "Uruguay"
+  },
+  "profile.countries.uz": {
+    "message": "Usbekistan"
+  },
+  "profile.countries.vu": {
+    "message": "Vanuatu"
+  },
+  "profile.countries.ve": {
+    "message": "Venezuela"
+  },
+  "profile.countries.vn": {
+    "message": "Vietnam"
+  },
+  "profile.countries.vg": {
+    "message": "Britische Jungferninseln"
+  },
+  "profile.countries.vi": {
+    "message": "Amerikanische Jungferninseln"
+  },
+  "profile.countries.wf": {
+    "message": "Wallis und Futuna"
+  },
+  "profile.countries.eh": {
+    "message": "Westsahara"
+  },
+  "profile.countries.ye": {
+    "message": "Jemen"
+  },
+  "profile.countries.zm": {
+    "message": "Sambia"
+  },
+  "profile.countries.zw": {
+    "message": "Zimbabwe"
+  },
+  "profile.months.1": {
+    "message": "Januar"
+  },
+  "profile.months.2": {
+    "message": "Februar"
+  },
+  "profile.months.3": {
+    "message": "März"
+  },
+  "profile.months.4": {
+    "message": "April"
+  },
+  "profile.months.5": {
+    "message": "Mai"
+  },
+  "profile.months.6": {
+    "message": "Juni"
+  },
+  "profile.months.7": {
+    "message": "Juli"
+  },
+  "profile.months.8": {
+    "message": "August"
+  },
+  "profile.months.9": {
+    "message": "September"
+  },
+  "profile.months.10": {
+    "message": "Oktober"
+  },
+  "profile.months.11": {
+    "message": "November"
+  },
+  "profile.months.12": {
+    "message": "Dezember"
+  },
+  "profile.startYear": {
+    "message": "1920"
+  },
+  "general.disableAeroTheme.label": {
+    "message": "Aero-Design deaktivieren"
+  },
+  "general.enableGPUPriority.label": {
+    "message": "Aktivieren der GPU-Priorität"
+  },
+  "general.enableVirtualCameraOutput.label": {
+    "message": "Virtuelle Kamera-Ausgabe aktivieren"
+  },
+  "general.enableGameSource.label": {
+    "message": "Spiel-Quelle aktivieren"
+  },
+  "general.hideXsplitFromDisplayCapture.label": {
+    "message": "Hide XSplit Broadcaster from display capture"
+  },
+  "general.hideXsplitFromDisplayCapture2.label": {
+    "message": "Hide XSplit Broadcaster from display capture (Default: %default%)"
+  },
+  "general.hideXsplitFromDisplayCapture.tooltip": {
+    "message": "Wenn du den XSplit Broadcaster aus der Bildschirmaufnahme entfernst, wird er auch für andere Anwendungen, die über Bildschirmaufnahmefunktionen verfügen, ausgeblendet."
+  },
+  "general.hideTopControlBar.label": {
+    "message": "Obere Steuerleiste ausblenden"
+  },
+  "general.enableHUD.label": {
+    "message": "In-Game-HUD aktivieren"
+  },
+  "general.enableCopyLink.label": {
+    "message": "Link in die Zwischenablage kopieren, sobald ein Broadcast gestartet wird"
+  },
+  "general.hideViewerCount.label": {
+    "message": "Zuschauerzahl in Streamstatus verstecken"
+  },
+  "general.hideFromScreenRegion.label": {
+    "message": "Vor Bildschirmbereich verbergen"
+  },
+  "general.logSystemInfo.label": {
+    "message": "Systeminformationen protokollieren"
+  },
+  "general.scenePreview.label": {
+    "message": "Thumbnail-Vorschau"
+  },
+  "general.screenshotCapture.label": {
+    "message": "Bildschirmaufnahme"
+  },
+  "general.scenePreview.values.1": {
+    "message": "Immer Vorschau beim Bewegen der Maus über die Szene-Schaltfläche zeigen"
+  },
+  "general.scenePreview.values.2": {
+    "message": "Vorschau beim Bewegen der Maus über die Szene-Schaltfläche zeigen, wenn SHIFT gedrückt wird"
+  },
+  "general.scenePreview.values.3": {
+    "message": "Niemals Vorschau beim Bewegen der Maus über die Szene-Schaltfläche zeigen"
+  },
+  "general.screenshotCapture.values.JPEG": {
+    "message": "JPEG"
+  },
+  "general.screenshotCapture.values.BMP": {
+    "message": "BMP"
+  },
+  "general.optimizedTransition.label": {
+    "message": "Szene-Übergang optimieren"
+  },
+  "general.optimizedTransition.tooltip": {
+    "message": "Bietet weichere Übergänge zwischen den Szenen, aber könnte etwas mehr Grafikressourcen erfordern"
+  },
+  "audio.microphone.label": {
+    "message": "Mikrofon"
+  },
+  "audio.audioDelay.label": {
+    "message": "Verzögerung (ms)"
+  },
+  "audio.boost.label": {
+    "message": "Lautstärkebereich (%)"
+  },
+  "audio.noiseSuppression.label": {
+    "message": "Rauschunterdrückung"
+  },
+  "audio.silenceDetection.label": {
+    "message": "Stille-Erkennung"
+  },
+  "audio.threshold.label": {
+    "message": "Schwellenwert (dB)"
+  },
+  "audio.hold.label": {
+    "message": "Halten (ms)"
+  },
+  "audio.attack.label": {
+    "message": "Angriff (ms)"
+  },
+  "audio.release.label": {
+    "message": "Freigeben (ms)"
+  },
+  "audio.silenceDetection.blogLink": {
+    "message": "Informationen zur Verwendung von Stille-Erkennung"
+  },
+  "audio.systemSound.label": {
+    "message": "Systemsound"
+  },
+  "audio.monitor.label": {
+    "message": "Audio-Vorschau"
+  },
+  "audio.monitor.tooltip": {
+    "message": "Die Audio-Vorschau wird verwendet, um die endgültige Audioausgabe der Präsentation durch das ausgewählte Ausgabegerät zu beobachten."
+  },
+  "audio.monoMix.label": {
+    "message": "Mikrofon-Mono-Mischung"
+  },
+  "audio.monoMix.values.0": {
+    "message": "Kein (Standard)"
+  },
+  "audio.monoMix.values.1": {
+    "message": "Links nach rechts kopieren"
+  },
+  "audio.monoMix.values.2": {
+    "message": "Rechts nach links kopieren"
+  },
+  "audio.monoMix.values.3": {
+    "message": "Mittelwert Links und rechts"
+  },
+  "audio.audioMixingSampleRate.label": {
+    "message": "Audio-Mixing-Abtastrate"
+  },
+  "audio.audioMixingSampleRate.values.0": {
+    "message": "Automatisch (voreingestellt)"
+  },
+  "audio.audioMixingSampleRate.values.44100": {
+    "message": "44.1 kHz"
+  },
+  "audio.audioMixingSampleRate.values.48000": {
+    "message": "48 kHz"
+  },
+  "hotkeys.category.scenes": {
+    "message": "Szenen"
+  },
+  "hotkeys.category.presets": {
+    "message": "Szenen-Voreinstellungen"
+  },
+  "hotkeys.category.audio": {
+    "message": "Audio"
+  },
+  "hotkeys.category.broadcast": {
+    "message": "Broadcast"
+  },
+  "hotkeys.category.recording": {
+    "message": "Aufnehmen"
+  },
+  "hotkeys.category.playout": {
+    "message": "Ausspielen"
+  },
+  "hotkeys.category.hud": {
+    "message": "HUD"
+  },
+  "hotkeys.category.sources": {
+    "message": "Quellen"
+  },
+  "hotkeys.message": {
+    "message": "Sie können Tastenkürzel verwenden, um Szene-Wechsel und andere Befehle über die Tastatur auszulösen, sogar wenn Sie sich in einem Spiel oder einer anderen Anwendung befinden."
+  },
+  "hotkeys.instruction": {
+    "message": "Doppelklicken, um Tastenkürzel einzugeben oder wählen Sie Tastenkürzel manuell"
+  },
+  "hotkeys.shift.label": {
+    "message": "Shift"
+  },
+  "hotkeys.ctrl.label": {
+    "message": "Strg"
+  },
+  "hotkeys.alt.label": {
+    "message": "Alt"
+  },
+  "hotkeys.none": {
+    "message": "Nichts"
+  },
+  "hotkeys.hotkeymode.description": {
+    "message": "Tastenkürzelmodus auswählen"
+  },
+  "hotkeys.hotkeymode.label": {
+    "message": "Tastenkürzelmodus auswählen"
+  },
+  "hotkeys.hotkeymode.tooltip": {
+    "message": "Sie können Ihre Tastenkürzel manuell auswählen oder direkt die Taste auf Ihrem Gerät drücken. [br][br] **Einfach** - Erlaubt nur Tasten von Ihrer Windows-Tastatur und erfordert die Kombination mit Modifikator(en) [br] **Erweitert** - Erlaubt Tasten von MIDI-Geräten und Unterstützung für Tasten ohne Modifikator(en) [br][br]Beim Wechsel vom erweiterten zum einfachen Modus, müssen Sie alle erweiterten Tasten in einfache Tasten ändern."
+  },
+  "hotkeys.hotkeymode.basic.label": {
+    "message": "Einfach"
+  },
+  "hotkeys.hotkeymode.advanced.label": {
+    "message": "Erweitert"
+  },
+  "hotkeys.hotkeybehavior.description": {
+    "message": "Verhalten der Tastenkürzel ändern"
+  },
+  "hotkeys.hotkeybehavior.label": {
+    "message": "Verhalten der Tastenkürzel ändern"
+  },
+  "hotkeys.hotkeybehavior.tooltip": {
+    "message": "Gibt vor, wie XSplit Broadcaster auf die Tastenkürzel hört, welche auf dieser Seite zugewiesen wurden. [br][br] **Global** - Tastenkürzel können irgendwo ausgelöst werden [br] **Anwendung** - Tastenkürzel funktionieren nur, wenn XSplit Broadcaster im Fokus ist [br] **Deaktiviert** - Alle Tastenkürzel werden ignoriert"
+  },
+  "hotkeys.hotkeyBehavior.values.0": {
+    "message": "Global"
+  },
+  "hotkeys.hotkeyBehavior.values.1": {
+    "message": "Anwendung"
+  },
+  "hotkeys.hotkeyBehavior.values.2": {
+    "message": "Deaktiviert"
+  },
+  "accounts.videoSharing.label": {
+    "message": "Videofreigabe"
+  },
+  "accounts.youtube.label": {
+    "message": "YouTube"
+  },
+  "accounts.youtube.authorize.label": {
+    "message": "Hochladen von Videos auf YouTube autorisieren"
+  },
+  "accounts.socials.label": {
+    "message": "Soziale Netzwerke"
+  },
+  "accounts.facebook.label": {
+    "message": "Facebook"
+  },
+  "accounts.facebook.authorize.label": {
+    "message": "Autorisieren, um auf Facebook zu veröffentlichen"
+  },
+  "accounts.twitter.label": {
+    "message": "Twitter"
+  },
+  "accounts.twitter.authorize.label": {
+    "message": "Autorisieren, um auf Twitter zu veröffentlichen"
+  },
+  "accounts.google.label": {
+    "message": "Google+"
+  },
+  "accounts.google.authorize.label": {
+    "message": "Autorisieren, um auf Google+ zu veröffentlichen"
+  },
+  "accounts.playerme.label": {
+    "message": "Player.me"
+  },
+  "accounts.playerme.authorize.label": {
+    "message": "Autorisieren, um auf Player.me zu veröffentlichen"
+  },
+  "accounts.service.deauthorize.label": {
+    "message": "Autorisierung entfernen"
+  },
+  "accounts.service.switch.label": {
+    "message": "Konto wechseln"
+  },
+  "advanced.caution.label": {
+    "message": "Seien Sie vorsichtig beim Verändern dieser erweiterten Optionen. Wir können nicht für jeden Tölpel Verantwortung übernehmen, der hier beim herumbasteln Schaden nehmen könnte. Bitte lesen Sie die Hinweise für weitere Informationen."
+  },
+  "advanced.enableOptimizedRender.label": {
+    "message": "Verbesserter Video Renderer (EVR)"
+  },
+  "advanced.enableOptimizedRender2.label": {
+    "message": "Verbesserten Video Renderer (EVR) verwenden"
+  },
+  "advanced.enableOptimizedRender.tooltip": {
+    "message": "**Diese Option ist experimentell und könnte in zukünftigen Versionen geändert oder entfernt werden.** [br][br] Der erweiterte Video-Renderer ist ein alternativer Renderer für XSplit Broadcaster. Sie können versuchen, ob es hilft, diese Option zu aktivieren, falls Sie Probleme mit Ihrer Präsentation haben."
+  },
+  "advanced.videoProcessingMode.label": {
+    "message": "Video-Verarbeitungs-Modus"
+  },
+  "advanced.videoProcessingMode2.label": {
+    "message": "Video-Verarbeitungs-Modus (Standard: alte Video-Verarbeitungs-Optionen verwenden)"
+  },
+  "advanced.videoProcessingMode.tooltip": {
+    "message": "**Die Quellen in Ihrer Präsentation werden bei Änderungen möglicherweise aktualisiert.** [br][br] Verwende den CPU-Modus, wenn Du Spiele auf derselben Hardware spielstst, um die Auswirkungen auf das Spiel zu minimieren. Wähle den GPU-Modus, wenn Du möchtest, dass XSplit die GPU-Funktionen für eine beschleunigte Videodecodierung und -verarbeitung nutzt. Verfügbar für Windows 8+."
+  },
+  "advanced.videoProcessingMode.values.1": {
+    "message": "Alte Video-Verarbeitungs-Optionen verwenden"
+  },
+  "advanced.videoProcessingMode.values.2": {
+    "message": "CPU für Videobearbeitung bevorzugen"
+  },
+  "advanced.videoProcessingMode.values.3": {
+    "message": "GPU für Video-Verarbeitung bevorzugen"
+  },
+  "advanced.enableGlobalScript.label": {
+    "message": "Erweiterungen aktivieren"
+  },
+  "advanced.enableGlobalScript2.label": {
+    "message": "Erweiterungen aktivieren (Voreinstellung: %default%)"
+  },
+  "advanced.enabled.label": {
+    "message": "aktiviert"
+  },
+  "advanced.disabled.label": {
+    "message": "deaktiviert"
+  },
+  "advanced.enableGlobalScript.tooltip": {
+    "message": "Diese Version von XSplit Broadcaster unterstützt nutzergenerierte Erweiterungen, die mit XSplit Broadcasters' API interagieren können. Zur Zeit wird dies als experimentelle Funktion betrachtet.[br][Lesen Sie hier mehr!](https://xspl.it/bc/custom)"
+  },
+  "advanced.enableFlashSound.label": {
+    "message": "Native Flash- und Browser-Audiosteuerung aktivieren"
+  },
+  "advanced.enableFlashSound2.label": {
+    "message": "Native Flash- und Browser-Audiosteuerung aktivierenl (Standard: %default%)"
+  },
+  "advanced.enableFlashSound.tooltip": {
+    "message": "**Aufgrund der vorgenommenen Änderungen können sich die Quellen in Deiner Präsentation aktualisieren.  [br][br] Wenn Du diese Option aktivierst, kann XSplit den Ton von Flash- und Browser-Quellen in der XSplit-Vorschau automatisch stumm schalten. Mit dieser Option kannst Du auch die Audio-Option \"Nur Stream\" für Flash- und Browser-Quellen verwenden."
+  },
+  "advanced.enableWasapi.label": {
+    "message": "WASAPI-Audio-Rendering aktivieren"
+  },
+  "advanced.enableWasapi2.label": {
+    "message": "WASAPI-Audio-Rendern aktivieren (Voreinstellung: %default%)"
+  },
+  "advanced.enableWasapi.tooltip": {
+    "message": "Diese Option zwingt DirectShow-Quellen WASAPI-Audio-Render anstelle von direkten Sound zu verwenden. Dies kann bei einigen Quellen ruckelndes Audio bereinigen​."
+  },
+  "advanced.enableMFEngine.label": {
+    "message": "Verwende die Media Foundation Engine für die Videowiedergabe"
+  },
+  "advanced.enableMFEngine2.label": {
+    "message": "Verwende die Media Foundation Engine für die Videowiedergabe (Standard: %default%)"
+  },
+  "advanced.enableMFEngine.tooltip": {
+    "message": "**Aufgrund der angewandten Änderungen werden die Quellen in Deiner Präsentation möglicherweise aktualisiert.** [br][br] Diese Option aktiviert die Microsoft MF-Engine für die Wiedergabe von unterstützten Videodateien (MP4, WMV, AVI, ASF). Die Verwendung der MF-Engine ermöglicht DXVA2-Hardwarebeschleunigung und verbraucht weniger CPU-Ressourcen."
+  },
+  "advanced.enableHardwareAccelerateUSB2.label": {
+    "message": "Hardwarebeschleunigung für USB2-Aufnahmegeräte verwenden"
+  },
+  "advanced.enableHardwareAccelerateUSB22.label": {
+    "message": "Hardwarebeschleunigung für USB2-Aufnahmegeräte verwenden (Voreinstellung: %default%)"
+  },
+  "advanced.enableHardwareAccelerateUSB2.tooltip": {
+    "message": "**Aufgrund der angewandten Änderungen werden die Quellen in Deiner Präsentation möglicherweise aktualisiert.** [br][br] Diese Option verwendet DXVA2-Hardwarebeschleunigung zur Dekodierung von Videodaten von USB-2-Capture-Geräten wie AverMedia LGP, Happauge HDPVR, Elgato HD und HD60."
+  },
+  "advanced.antiAliasing.label": {
+    "message": "GPU Anti-Aliasing"
+  },
+  "advanced.antiAliasing.tooltip": {
+    "message": "**Diese Option ist noch experimentell und kann in zukünftigen Versionen geändert oder entfernt sein.**[br][br] Für MSAA empfehlen wir maximale Einstellungen der Abtast-Anzahl 4 und Qualität 0 zu verwenden, um übermäßige GPU-Auslastung zu vermeiden. MLAA ist ein Post-Prozess-Shader und benötigt weniger Ressourcen, kann aber auch einen sichtbar andersartigen Effekt haben."
+  },
+  "advanced.antiAliasing.values.1": {
+    "message": "Kein (Standard)"
+  },
+  "advanced.antiAliasing.values.2": {
+    "message": "MLAA"
+  },
+  "advanced.antiAliasing.values.3": {
+    "message": "MSAA"
+  },
+  "advanced.antiAliasing.quality.label": {
+    "message": "Qualität"
+  },
+  "advanced.antiAliasing.sampleCount.label": {
+    "message": "Abtast-Anzahl"
+  },
+  "advanced.antiAliasing.stencilBuffer.label": {
+    "message": "Schablonenbuffer verwenden"
+  },
+  "advanced.antiAliasing.threshold.label": {
+    "message": "Schwellenwert"
+  },
+  "advanced.network.label": {
+    "message": "Netzwerkverbindung"
+  },
+  "advanced.network.tooltip": {
+    "message": "Wählen Sie aktive Netzwerkadapter für Ihren Livestream."
+  },
+  "advanced.customNetworkConnection.label": {
+    "message": "Broadcast-Plugins erlauben ihren eigenen Netzwerkadapter anzugeben"
+  },
+  "advanced.customNetworkConnection.labelXbc5003": {
+    "message": "Ausgaben erlauben ihren eigenen Netzwerkadapter anzugeben"
+  },
+  "advanced.customNetworkConnection.tooltip": {
+    "message": "Aktivieren erlaubt, dass Sie für jeden Ihrer Livestreams aktive Netzwerkadapter auswählen können."
+  },
+  "advanced.autoSelectNetworkAdapter.label": {
+    "message": "Automatisch einen anderen Netzwerkadapter wählen, falls der Ausgewählte nicht verfügbar ist"
+  },
+  "advanced.enableScriptSecurity.label": {
+    "message": "Aktivieren der Skriptsicherheit für Quellen und Erweiterungen"
+  },
+  "advanced.enableScriptSecurity2.label": {
+    "message": "Aktivieren der Skriptsicherheit für Quellen und Erweiterungen (Voreinstellung: %default%)"
+  },
+  "advanced.enableScriptSecurity.tooltip": {
+    "message": "Deaktivieren dieser Option bedeutet, dass Sie uneingeschränkten Zugriff auf alle Skriptquellen und Erweiterungen ohne Bestätigungen zulassen."
+  },
+  "advanced.browserSourceOptimization.label": {
+    "message": "Spezielle Optimierung der Browser-Quelle"
+  },
+  "advanced.browserSourceOptimization2.label": {
+    "message": "Spezielle Optimierung der Browser-Quelle (Voreinstellung: %default%)"
+  },
+  "advanced.browserSourceOptimization.tooltip": {
+    "message": "**Aufgrund von angewandten Änderungen werden die Quellen in Deiner Präsentation möglicherweise aktualisiert.** [br][br] Diese Option verwendet eine spezielle Optimierung der Capture-Pipeline von HTML-Quellen. Diese Option sollte für eine flüssigere Animation der HTML-Quellen sowohl in 30 als auch in 60 FPS sorgen, funktioniert aber möglicherweise nicht auf allen Systemen gleichermassen (auf einigen Systemen wird das HTML möglicherweise nur schwarz dargestellt). Die Standard-FPS für HTML-Quellen beträgt 30 FPS, mit der Option für JavaScript, 60 FPS anzufordern (siehe hierzu [diesen Beitrag] (https://xspl.it/bc/svw6qh) für weitere Informationen)."
+  },
+  "advanced.enableDeveloperMode.label": {
+    "message": "Entwicklermodus aktivieren"
+  },
+  "advanced.enableDeveloperMode2.label": {
+    "message": "Entwicklermodus aktivieren (Standard: %default%)"
+  },
+  "advanced.enableDeveloperMode.tooltip": {
+    "message": "**Aufgrund angewandter Änderungen werden die Quellen in Deiner Präsentation möglicherweise aktualisiert.**  [br][br] Diese Option führt eine zusätzliche Protokollierung durch, aktiviert das Plugin-Debugging und ermöglicht das Laden unsignierter DLLs durch Plugins."
+  },
+  "advanced.enhancedLogging.label": {
+    "message": "Erweiterte Protokollierung aktivieren"
+  },
+  "advanced.enhancedLogging2.label": {
+    "message": "Erweiterte Protokollierung aktivieren (Standard: %default%)"
+  },
+  "advanced.enhancedLogging.tooltip": {
+    "message": "Diese Option erlaubt XSplit ausführliche Protokollierung zur Fehlersuche und Problembehebung durchzuführen. Alle Protokolle werden im [logs folder](%path%) gesammelt. Wir empfehlen, einen Dropbox- oder Google Drive-Link der hochgeladenen gepackten Datei des gesamten Protokollordners zu versenden.[br][br]Diese Option wird automatisch abgeschaltet, wenn XSplit neugestartet wird. Wir empfehlen Ihnen diese Option abzuschalten, sobald Sie mit dem Sammeln der Protokolle fertig sind."
+  },
+  "advanced.dx12Capture.label": {
+    "message": "DX12-Spielerfassung aktivieren"
+  },
+  "advanced.dx12Capture2.label": {
+    "message": "DX12-Spielerfassung aktivieren (Default: aktiviert)"
+  },
+  "advanced.dx12Capture.tooltip": {
+    "message": "**Aufgrund angewandter Änderungen werden die Quellen in Deiner Präsentation möglicherweise aktualisiert.** [br][br] Aktiviere diese Option, um DX12-Spiele aufzunehmen. Möglicherweise besteht eine Inkompatibilität mit einigen Systemen/Treibern, die die Erfassung von Spielen verhindern kann - selbst bei Spielen, die nicht im DX12-Format vorliegen, kann diese Option deaktiviert werden, falls ein derartiges Problem auftaucht. Es kann sein, dass das Spiel/die Anwendung neu gestartet werden muss, um den Optionswechsel wirksam werden zu lassen."
+  },
+  "advanced.vulkan.label": {
+    "message": "Vulkan-Spielerfassung aktivieren"
+  },
+  "advanced.vulkan2.label": {
+    "message": "Vulkan-Spielerfassung aktivieren (Default: aktiviert)"
+  },
+  "advanced.vulkan.tooltip": {
+    "message": "Aktiviere diese Option, um Vulkan-Spiele zu erfassen. Spiel/Anwendung müssen möglicherweise neu gestartet werden, damit die Optionsänderung wirksam wird."
+  },
+  "advanced.projectorBorder.label": {
+    "message": "Projektor-Bildschirm-Auswahlrahmen anzeigen"
+  },
+  "advanced.projectorBorder.values.always": {
+    "message": "Immer Rahmen beim Bewegen der Maus über die Bildschirm-Auswahl zeigen"
+  },
+  "advanced.projectorBorder.values.shift": {
+    "message": "Rahmen beim Bewegen der Maus über die Bildschirm-Auswahl zeigen, wenn SHIFT gedrückt ist"
+  },
+  "advanced.projectorBorder.values.never": {
+    "message": "Niemals Rahmen beim Bewegen der Maus über die Bildschirm-Auswahl zeigen"
+  },
+  "advanced.gpuAdapter.label": {
+    "message": "GPU-Adapter"
+  },
+  "advanced.gpuAdapter2.label": {
+    "message": "GPU-Adapter auswählen (Standard: automatisch)"
+  },
+  "advanced.gpuAdapter.tooltip": {
+    "message": "Hierdurch wird der XSplit Broadcaster gezwungen, auf der ausgewählten Grafikkarte (GPU) zu laufen. Wenn die Einstellung auf automatisch gesetzt ist, läuft der XSplit Broadcaster auf Ihrer primären Grafikkarte, die in Windows oder Ihrer GPU-Systemsteuerung eingestellt ist."
+  },
+  "advanced.gpuAdapter.values.0": {
+    "message": "Automatisch"
+  },
+  "menu.mixerColorspace.label": {
+    "message": "Mischer-Farbraum"
+  },
+  "menu.mixerColorspace.ayuv.label": {
+    "message": "AYUV"
+  },
+  "menu.mixerColorspace.yuy2.label": {
+    "message": "YUY2"
+  },
+  "menu.mixerColorspace.rgb1624.label": {
+    "message": "RGB16/24"
+  },
+  "menu.mixerColorspace.rgb32.label": {
+    "message": "RGB32"
+  },
+  "menu.enableVirtualCameraWhileStreaming.label": {
+    "message": "Virtuelle Kamera während des Streamens aktivieren"
+  },
+  "button.restore": {
+    "message": "Standardwerte wiederherstellen"
+  },
+  "button.ok": {
+    "message": "OK"
+  },
+  "button.cancel": {
+    "message": "Abbrechen"
+  },
+  "button.apply": {
+    "message": "Anwenden"
+  }
+}

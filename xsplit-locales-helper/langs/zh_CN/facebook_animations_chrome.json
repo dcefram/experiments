@@ -1,0 +1,110 @@
+{
+  "title.source": {
+    "message": "资源"
+  },
+  "subtitle.account": {
+    "message": "帐户"
+  },
+  "link.authorize": {
+    "message": "授权XSplit使用 Facebook Live"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** 切换帐户"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** 删除授权"
+  },
+  "subtitle2.authorize.error": {
+    "message": "请再次尝试授权, 并授予 XSplit 对此功能所需的所有权限的访问权限"
+  },
+  "subtitle.source": {
+    "message": "资源"
+  },
+  "source.values.automatic": {
+    "message": "自动"
+  },
+  "chat.reaction.not_connected": {
+    "message": "当直播生效时反馈将自动加载"
+  },
+  "chat.comment.not_connected": {
+    "message": "当直播生效时评论将自动加载"
+  },
+  "chat.connected": {
+    "message": "连接"
+  },
+  "title.display": {
+    "message": "显示"
+  },
+  "help.display.title": {
+    "message": "反馈动画"
+  },
+  "help.display.text": {
+    "message": "自定义实时反馈在直播中的显示方式！[br]选择动画类型并控制各种设置。[br][br]使用预览按钮在上线前检查动画。"
+  },
+  "animation.text": {
+    "message": "动画"
+  },
+  "label.streamprops": {
+    "message": "Stream属性"
+  },
+  "button.reset": {
+    "message": "重置"
+  },
+  "label.direction": {
+    "message": "方向"
+  },
+  "label.time": {
+    "message": "时间"
+  },
+  "label.seconds": {
+    "message": "秒"
+  },
+  "label.timevariation": {
+    "message": "时间变化"
+  },
+  "label.emoji.size": {
+    "message": "表情尺寸"
+  },
+  "label.pixels": {
+    "message": "像素"
+  },
+  "label.sizevariation": {
+    "message": "尺寸变化"
+  },
+  "label.hide_connection_message": {
+    "message": "隐藏连接消息"
+  },
+  "button.preview": {
+    "message": "预览"
+  },
+  "animation.types.stream": {
+    "message": "反应流"
+  },
+  "animation.types.pop": {
+    "message": "弹入/出"
+  },
+  "stream.directions.leftToRight": {
+    "message": "左到右"
+  },
+  "stream.directions.topToBottom": {
+    "message": "顶部到底部"
+  },
+  "stream.directions.rightToLeft": {
+    "message": "右到左"
+  },
+  "stream.directions.bottomToTop": {
+    "message": "底部到顶部"
+  },
+  "tabheader.title": {
+    "message": "反应"
+  },
+  "label.not_seeing_videos": {
+    "message": "没有看到你的直播视频？"
+  },
+  "label.not_seeing_videos_help": {
+    "message": "我们可能没有权限访问您的某些网页的实时视频。"
+  },
+  "label.not_seeing_videos_link": {
+    "message": "点击这里重新授权"
+  }
+}

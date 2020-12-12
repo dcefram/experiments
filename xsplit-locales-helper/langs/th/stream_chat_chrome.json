@@ -1,0 +1,65 @@
+{
+  "streamChat.tabheader": {
+    "message": "แชท"
+  },
+  "streamChat.chat_sources": {
+    "message": "แหล่งแชท"
+  },
+  "streamChat.linked": {
+    "message": "ลิงก์แล้ว"
+  },
+  "streamChat.extra": {
+    "message": "เสริม"
+  },
+  "streamChat.account": {
+    "message": "บัญชี"
+  },
+  "streamChat.channel": {
+    "message": "แชนแนล"
+  },
+  "streamChat.listen": {
+    "message": "ฟัง"
+  },
+  "streamChat.add_channels_here": {
+    "message": "เพิ่มช่องคุณที่นี่เพื่อฟังการแชทอัตโนมัติเมื่อคุณทำการไลฟ์"
+  },
+  "streamChat.already_added_error": {
+    "message": "คุณได้เพิ่มช่องนี้แล้ว!"
+  },
+  "streamChat.appearance": {
+    "message": "รูปร่าง"
+  },
+  "streamChat.chat_box": {
+    "message": "กล่องแชท"
+  },
+  "streamChat.opacity": {
+    "message": "ความทึบแสง"
+  },
+  "streamChat.font": {
+    "message": "ฟ้อนต์"
+  },
+  "streamChat.size": {
+    "message": "ขนาด"
+  },
+  "streamChat.message_color": {
+    "message": "สีข้อความ"
+  },
+  "streamChat.hide_icons": {
+    "message": "ซ่อนไอค่อนบริการ"
+  },
+  "streamChat.text_direction": {
+    "message": "ทิศทางข้อความ"
+  },
+  "streamChat.text_direction_down": {
+    "message": "ลง"
+  },
+  "streamChat.text_direction_up": {
+    "message": "ขึ้น"
+  },
+  "streamChat.hide_timestamps": {
+    "message": "ซ่อนเวลา"
+  },
+  "streamChat.hide_chat_when_idle": {
+    "message": "ซ่อนแชทเมื่อปล่อยว่างเป็นเวลา"
+  }
+}

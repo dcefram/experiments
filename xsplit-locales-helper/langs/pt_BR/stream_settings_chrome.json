@@ -1,0 +1,41 @@
+{
+	"streamSettings.freeUserLimitationStreamReso": {
+		"message": "O XSplit Broadcaster pode transmitir em alta resolução, superior a %resolution%. No entanto, esta opão está disponível para usuários XSplit com uma licença paga. [br][br]Selecione como pretende proceder."
+	},
+	"streamSettings.freeUserLimitationRecordReso": {
+		"message": "O XSplit Broadcaster pode transmitir em alta resolução, superior a %resolution%. No entanto, esta opão está disponível para usuários XSplit com uma licença paga. [br][br]Selecione como pretende proceder."
+	},
+	"streamSettings.freeUserLimitationStreamFps": {
+		"message": "O XSplit Broadcaster pode transmitir com quadros superiores a %fps%. No entanto, esta opão está disponível para usuários XSplit com uma licença paga. [br][br]Selecione como pretende proceder."
+	},
+	"streamSettings.freeUserLimitationRecordFps": {
+		"message": "O XSplit Broadcaster pode transmitir com quadros abaixo de %fps%. No entanto, esta opão está disponível para usuários XSplit com uma licença paga. [br][br]Selecione como pretende proceder."
+	},
+	"streamSettings.freeUserLimitationStreamResoFps": {
+		"message": "O XSplit Broadcaster pode transmitir em alta resolução, abaixo de %resolution% e com quadros acima %fps%. No entanto, esta opão está disponível para usuários XSplit com uma licença paga. [br][br]Selecione como pretende proceder."
+	},
+	"streamSettings.freeUserLimitationRecordResoFps": {
+		"message": "O XSplit Broadcaster pode transmitir em alta resolução, superior a %resolution% e com quadros acima %fps%. No entanto, esta opão está disponível para usuários XSplit com uma licença paga. [br][br]Selecione como pretende proceder."
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonReso": {
+		"message": "%type% com %resolution% [br]sem[br]marca d´água"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonFps": {
+		"message": "%type% com %fps% [br]sem[br]marca d´água"
+	},
+	"streamSettings.streamRecordWithOutWatermarkButtonResoFps": {
+		"message": "%type% com %resolution%[br]@ %fps%[br]sem[br]marca d´água"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonReso": {
+		"message": "%type% com %resolution% [br]com[br]marca d´água"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonFps": {
+		"message": "%type% com %fps% [br]com[br]marca d´água"
+	},
+	"streamSettings.streamRecordWithWatermarkButtonResoFps": {
+		"message": "%type% com %resolution%[br]@ %fps%[br]com[br]marca d´água"
+	},
+	"streamSettings.buyLicenseButton": {
+		"message": "Compre uma licença[br]para remover[br] a marca d´água"
+	}
+}

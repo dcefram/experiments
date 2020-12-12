@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lblAuthorize" xml:space="preserve">
+    <value>授權</value>
+  </data>
+  <data name="lblChannelPageLink" xml:space="preserve">
+    <value>若要查看您的新浪頻道頁面請按一下此處.</value>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>按一下授權您的新浪帳戶連結</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>取消授權</value>
+  </data>
+  <data name="lblSignUpLink" xml:space="preserve">
+    <value>沒有新浪的帳號嗎? 在這裡簽名.</value>
+  </data>
+  <data name="msgAccountNotActivatedError" xml:space="preserve">
+    <value>您的新浪帳戶未啟動. 請聯繫新浪網的支持.</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>與 Sina 的伺服器通信時出錯. 請稍後再試.</value>
+  </data>
+  <data name="msgAuthorizeRequired" xml:space="preserve">
+    <value>首先你必須授權帳戶.</value>
+  </data>
+  <data name="msgChannelDescriptionEmpty" xml:space="preserve">
+    <value>您必須輸入一個描述.</value>
+  </data>
+  <data name="msgGameNameEmpty" xml:space="preserve">
+    <value>您必須輸入一個遊戲的名稱.</value>
+  </data>
+  <data name="msgInvalidPasswordError" xml:space="preserve">
+    <value>無法驗證您的帳戶與您提供的密碼. 請嘗試重新輸入您的賬戶信息在你的通道設置, 然後重試.</value>
+  </data>
+  <data name="msgOtherAuthenticationError" xml:space="preserve">
+    <value>無法驗證您的帳戶. 請嘗試重新輸入您的賬戶信息. 在你的通道設置, 然後重試.</value>
+  </data>
+  <data name="msgPasswordEmpty" xml:space="preserve">
+    <value>您必須輸入一個密碼.</value>
+  </data>
+  <data name="msgReauthorizeRequired" xml:space="preserve">
+    <value>您需要授權 XSplit 來訪問您的Sina 頻道.</value>
+  </data>
+  <data name="msgStreamApiError" xml:space="preserve">
+    <value>無法將直播伺服器返回錯誤: </value>
+  </data>
+  <data name="msgUnregisteredError" xml:space="preserve">
+    <value>無法進行身份驗證. 您輸入的帳戶名稱可能已取消註冊.</value>
+  </data>
+  <data name="msgUsernameEmpty" xml:space="preserve">
+    <value>您必須輸入一個使用者名.</value>
+  </data>
+  <data name="msgVerifiationCodeEmpty" xml:space="preserve">
+    <value>您必須輸入驗證碼.</value>
+  </data>
+  <data name="msgVerificationCancelled" xml:space="preserve">
+    <value>你無法完成驗證. 請稍後再試.</value>
+  </data>
+  <data name="msgVerificationCodeError" xml:space="preserve">
+    <value>您輸入了錯誤的驗證碼. 請再試一次.</value>
+  </data>
+  <data name="fmtGameNameInvalidStartChar" xml:space="preserve">
+    <value>遊戲的名稱不能以下列字元開頭: {0}</value>
+  </data>
+  <data name="lblAccount" xml:space="preserve">
+    <value>用戶名: </value>
+  </data>
+  <data name="lblGameName" xml:space="preserve">
+    <value>遊戲名稱:</value>
+  </data>
+  <data name="lblChannelDescription" xml:space="preserve">
+    <value>描述:</value>
+  </data>
+  <data name="cbPromptDetails" xml:space="preserve">
+    <value>每個廣播前集的細節</value>
+  </data>
+  <data name="SinaProps" xml:space="preserve">
+    <value>Sina 屬性</value>
+  </data>
+</root>

@@ -1,0 +1,29 @@
+{
+  "perSceneAudio.header_text": {
+    "message": "เพื่อจัดการการตั้งค่าเสียงต่อฉาก เลือกและเพิ่มฉากด้านล่าง ไฮไลท์ฉากด้านล่างหมายถึงฉากปัจจุบันที่กำลังแสดง"
+  },
+  "perSceneAudio.sync_volume": {
+    "message": "ซิงค์การปรับค่าเสียงทั่วทั้งฉาก"
+  },
+  "perSceneAudio.scene_crossfade": {
+    "message": "เปิดฉาดแบบตัดขวาง"
+  },
+  "perSceneAudio.scene_crossfade_tooltip": {
+    "message": "สลับไปใช้ฉากอื่นจะทำให้การปรับเปลี่ยนระหว่างเสียงของฉากก่อนหน้าและฉากที่เลือกปัจจุบันราบลื่นขึ้น"
+  },
+  "perSceneAudio.scene_selector_default": {
+    "message": "- ตัวเลือกฉาก -"
+  },
+  "perSceneAudio.default": {
+    "message": "ค่าเริ่มต้น"
+  },
+  "perSceneAudio.default_tooltip_header": {
+    "message": "เสียงฉากตั้งต้น"
+  },
+  "perSceneAudio.default_tooltip": {
+    "message": "ฉากที่คุณไม่ได้ตั้งระดับเสียงเฉพาะไว้จะใช้งานค่าเหล่านี้โดยตั้งต้น"
+  },
+  "perSceneAudio.add_button": {
+    "message": "เพิ่มเติม"
+  }
+}

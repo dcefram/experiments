@@ -1,0 +1,95 @@
+{
+  "youtube.source_alert.tabheader": {
+    "message": "crwdns85356:0crwdne85356:0"
+  },
+  "youtube.source_alert.source": {
+    "message": "crwdns85358:0crwdne85358:0"
+  },
+  "youtube.source_alert.account": {
+    "message": "crwdns85360:0crwdne85360:0"
+  },
+  "youtube.source_alert.authorize": {
+    "message": "crwdns85362:0crwdne85362:0"
+  },
+  "youtube.source_alert.remove_authorization": {
+    "message": "crwdns85364:0%api%crwdne85364:0"
+  },
+  "youtube.source_alert.switch_account": {
+    "message": "crwdns85366:0%api%crwdne85366:0"
+  },
+  "youtube.source_alert.not_connected": {
+    "message": "crwdns85368:0crwdne85368:0"
+  },
+  "youtube.source_alert.connected": {
+    "message": "crwdns85370:0crwdne85370:0"
+  },
+  "youtube.source_alert.connect": {
+    "message": "crwdns85372:0crwdne85372:0"
+  },
+  "youtube.source_alert.disconnect": {
+    "message": "crwdns85374:0crwdne85374:0"
+  },
+  "youtube.source_alert.alertLabel": {
+    "message": "crwdns85376:0crwdne85376:0"
+  },
+  "youtube.source_alert.animation_text": {
+    "message": "crwdns85378:0crwdne85378:0"
+  },
+  "youtube.source_alert.duration": {
+    "message": "crwdns85380:0crwdne85380:0"
+  },
+  "youtube.source_alert.delay": {
+    "message": "crwdns85382:0crwdne85382:0"
+  },
+  "youtube.source_alert.animateIn": {
+    "message": "crwdns85384:0crwdne85384:0"
+  },
+  "youtube.source_alert.animateOut": {
+    "message": "crwdns85386:0crwdne85386:0"
+  },
+  "youtube.source_alert.audio": {
+    "message": "crwdns85388:0crwdne85388:0"
+  },
+  "youtube.source_alert.generalHeader": {
+    "message": "crwdns85390:0crwdne85390:0"
+  },
+  "youtube.source_alert.customizeHeader": {
+    "message": "crwdns85392:0crwdne85392:0"
+  },
+  "youtube.source_alert.theme": {
+    "message": "crwdns85394:0crwdne85394:0"
+  },
+  "youtube.source_alert.minAmount": {
+    "message": "crwdns85396:0crwdne85396:0"
+  },
+  "youtube.source_alert.type": {
+    "message": "crwdns85398:0crwdne85398:0"
+  },
+  "youtube.source_alert.nameStyleAndSettings": {
+    "message": "crwdns85400:0crwdne85400:0"
+  },
+  "youtube.source_alert.sound": {
+    "message": "crwdns85402:0crwdne85402:0"
+  },
+  "youtube.source_alert.show_alert": {
+    "message": "crwdns85404:0crwdne85404:0"
+  },
+  "youtube.source_alert.hide_alert": {
+    "message": "crwdns85406:0crwdne85406:0"
+  },
+  "youtube.source_alert.test_alert": {
+    "message": "crwdns85408:0crwdne85408:0"
+  },
+  "youtube.source_alert.Color": {
+    "message": "crwdns85410:0crwdne85410:0"
+  },
+  "youtube.source_alert.layout": {
+    "message": "crwdns85412:0crwdne85412:0"
+  },
+  "youtube.source_alert.loggingInTo": {
+    "message": "crwdns115381:0crwdne115381:0"
+  },
+  "youtube.source_alert.pleaseComplete": {
+    "message": "crwdns115383:0crwdne115383:0"
+  }
+}

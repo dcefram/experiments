@@ -1,0 +1,1304 @@
+{
+  "title": {
+    "message": "XSplit Broadcaster - การตั้งค่าผู้ใช้"
+  },
+  "tab.profile": {
+    "message": "โปรไฟล์"
+  },
+  "tab.general": {
+    "message": "ทั่วไป"
+  },
+  "tab.audio": {
+    "message": "เสียง"
+  },
+  "tab.hotkeys": {
+    "message": "คีย์ลัด"
+  },
+  "tab.sharing": {
+    "message": "การแชร์"
+  },
+  "tab.advanced": {
+    "message": "ขั้นสูง"
+  },
+  "profile.fullName.label": {
+    "message": "ชื่อเต็ม"
+  },
+  "profile.screenName.label": {
+    "message": "ชื่อผู้ใช้"
+  },
+  "profile.country.label": {
+    "message": "ประเทศ"
+  },
+  "profile.gender.label": {
+    "message": "เพศ"
+  },
+  "profile.gender.male.label": {
+    "message": "ชาย"
+  },
+  "profile.gender.female.label": {
+    "message": "หญิง"
+  },
+  "profile.birthday.label": {
+    "message": "วันเกิด"
+  },
+  "profile.addImage.label": {
+    "message": "เพิ่มรูปโปรไฟล์"
+  },
+  "profile.changePassword.label": {
+    "message": "เปลี่ยนรหัสผ่านของคุณที่นี่"
+  },
+  "profile.countries.af": {
+    "message": "อัฟกานิสถาน"
+  },
+  "profile.countries.ax": {
+    "message": "หมู่เกาะโอลันด์"
+  },
+  "profile.countries.al": {
+    "message": "แอลเบเนีย"
+  },
+  "profile.countries.dz": {
+    "message": "แอลจีเรีย"
+  },
+  "profile.countries.as": {
+    "message": "อเมริกันซามัว"
+  },
+  "profile.countries.ad": {
+    "message": "อันดอร์รา"
+  },
+  "profile.countries.ao": {
+    "message": "แองโกลา"
+  },
+  "profile.countries.ai": {
+    "message": "แองกวิลลา"
+  },
+  "profile.countries.aq": {
+    "message": "แอนตาร์กติกา"
+  },
+  "profile.countries.ag": {
+    "message": "แอนติกาและบาร์บูดา"
+  },
+  "profile.countries.ar": {
+    "message": "อาร์เจนตินา"
+  },
+  "profile.countries.am": {
+    "message": "อาร์มีเนีย"
+  },
+  "profile.countries.aw": {
+    "message": "อารูบา"
+  },
+  "profile.countries.au": {
+    "message": "ออสเตรเลีย"
+  },
+  "profile.countries.at": {
+    "message": "ออสเตรีย"
+  },
+  "profile.countries.az": {
+    "message": "อาเซอร์ไบจาน"
+  },
+  "profile.countries.bs": {
+    "message": "บาฮามาส"
+  },
+  "profile.countries.bh": {
+    "message": "บาห์เรน"
+  },
+  "profile.countries.bd": {
+    "message": "บังกลาเทศ"
+  },
+  "profile.countries.bb": {
+    "message": "บาร์เบโดส"
+  },
+  "profile.countries.by": {
+    "message": "เบลารุส"
+  },
+  "profile.countries.be": {
+    "message": "เบลเยียม"
+  },
+  "profile.countries.bz": {
+    "message": "เบลีซ"
+  },
+  "profile.countries.bj": {
+    "message": "เบนิน"
+  },
+  "profile.countries.bm": {
+    "message": "เบอร์มิวดา"
+  },
+  "profile.countries.bt": {
+    "message": "ภูฏาน"
+  },
+  "profile.countries.bo": {
+    "message": "โบลิเวีย"
+  },
+  "profile.countries.ba": {
+    "message": "บอสเนียและเฮอร์เซโกวีนา"
+  },
+  "profile.countries.bw": {
+    "message": "บอตสวานา"
+  },
+  "profile.countries.bv": {
+    "message": "เกาะบูเว"
+  },
+  "profile.countries.br": {
+    "message": "บราซิล"
+  },
+  "profile.countries.io": {
+    "message": "บริติชอินเดียนโอเชียนเทร์ริทอรี"
+  },
+  "profile.countries.bn": {
+    "message": "บรูไน"
+  },
+  "profile.countries.bg": {
+    "message": "บัลแกเรีย"
+  },
+  "profile.countries.bf": {
+    "message": "บูร์กินาฟาโซ"
+  },
+  "profile.countries.bi": {
+    "message": "บุรุนดี"
+  },
+  "profile.countries.kh": {
+    "message": "กัมพูชา"
+  },
+  "profile.countries.cm": {
+    "message": "แคเมอรูน"
+  },
+  "profile.countries.ca": {
+    "message": "แคนาดา"
+  },
+  "profile.countries.cv": {
+    "message": "กาบูเวร์ดี"
+  },
+  "profile.countries.ky": {
+    "message": "หมู่เกาะเคย์แมน"
+  },
+  "profile.countries.cf": {
+    "message": "สาธารณรัฐแอฟริกากลาง"
+  },
+  "profile.countries.td": {
+    "message": "ชาด"
+  },
+  "profile.countries.cl": {
+    "message": "ชิลี"
+  },
+  "profile.countries.cn": {
+    "message": "จีน"
+  },
+  "profile.countries.cx": {
+    "message": "เกาะคริสต์มาส"
+  },
+  "profile.countries.cc": {
+    "message": "หมู่เกาะโคโคส (คีลิง)"
+  },
+  "profile.countries.co": {
+    "message": "โคลอมเบีย"
+  },
+  "profile.countries.km": {
+    "message": "คอโมโรส"
+  },
+  "profile.countries.cg": {
+    "message": "คองโก"
+  },
+  "profile.countries.cd": {
+    "message": "สาธารณรัฐประชาธิปไตยคองโก"
+  },
+  "profile.countries.ck": {
+    "message": "หมู่เกาะคุก"
+  },
+  "profile.countries.cr": {
+    "message": "คอสตาริกา"
+  },
+  "profile.countries.ci": {
+    "message": "โกตดิวัวร์"
+  },
+  "profile.countries.hr": {
+    "message": "โครเอเชีย"
+  },
+  "profile.countries.cu": {
+    "message": "คิวบา"
+  },
+  "profile.countries.cy": {
+    "message": "ไซปรัส"
+  },
+  "profile.countries.cz": {
+    "message": "สาธารณรัฐเช็ก"
+  },
+  "profile.countries.dk": {
+    "message": "เดนมาร์ก"
+  },
+  "profile.countries.dj": {
+    "message": "จิบูตี"
+  },
+  "profile.countries.dm": {
+    "message": "ดอมินีกา"
+  },
+  "profile.countries.do": {
+    "message": "สาธารณรัฐโดมินิกัน"
+  },
+  "profile.countries.ec": {
+    "message": "เอกวาดอร์"
+  },
+  "profile.countries.eg": {
+    "message": "อียิปต์"
+  },
+  "profile.countries.sv": {
+    "message": "เอลซัลวาดอร์"
+  },
+  "profile.countries.gq": {
+    "message": "อิเควทอเรียลกินี"
+  },
+  "profile.countries.er": {
+    "message": "เอริเทรีย"
+  },
+  "profile.countries.ee": {
+    "message": "เอสโตเนีย"
+  },
+  "profile.countries.et": {
+    "message": "เอธิโอเปีย"
+  },
+  "profile.countries.fk": {
+    "message": "หมู่เกาะฟอล์กแลนด์ (มัลบีนัส)"
+  },
+  "profile.countries.fo": {
+    "message": "หมู่เกาะแฟโร"
+  },
+  "profile.countries.fj": {
+    "message": "ฟีจี"
+  },
+  "profile.countries.fi": {
+    "message": "ฟินแลนด์"
+  },
+  "profile.countries.fr": {
+    "message": "ฝรั่งเศส"
+  },
+  "profile.countries.gf": {
+    "message": "เฟรนช์เกียนา"
+  },
+  "profile.countries.pf": {
+    "message": "เฟรนช์พอลินีเชีย"
+  },
+  "profile.countries.tf": {
+    "message": "เฟรนช์เซาเทิร์นเทร์ริทอรีส์"
+  },
+  "profile.countries.ga": {
+    "message": "กาบอง"
+  },
+  "profile.countries.gm": {
+    "message": "แกมเบีย"
+  },
+  "profile.countries.ge": {
+    "message": "จอร์เจีย"
+  },
+  "profile.countries.de": {
+    "message": "เยอรมนี"
+  },
+  "profile.countries.gh": {
+    "message": "กานา"
+  },
+  "profile.countries.gi": {
+    "message": "ยิบรอลตาร์"
+  },
+  "profile.countries.gr": {
+    "message": "กรีซ"
+  },
+  "profile.countries.gl": {
+    "message": "กรีนแลนด์"
+  },
+  "profile.countries.gd": {
+    "message": "เกรเนดา"
+  },
+  "profile.countries.gp": {
+    "message": "กัวเดอลุป"
+  },
+  "profile.countries.gu": {
+    "message": "กวม"
+  },
+  "profile.countries.gt": {
+    "message": "กัวเตมาลา"
+  },
+  "profile.countries.gg": {
+    "message": "เกิร์นซีย์"
+  },
+  "profile.countries.gn": {
+    "message": "กินี"
+  },
+  "profile.countries.gw": {
+    "message": "กินี-บิสเซา"
+  },
+  "profile.countries.gy": {
+    "message": "กายอานา"
+  },
+  "profile.countries.ht": {
+    "message": "เฮติ"
+  },
+  "profile.countries.hm": {
+    "message": "เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์"
+  },
+  "profile.countries.va": {
+    "message": "นครรัฐวาติกัน"
+  },
+  "profile.countries.hn": {
+    "message": "ฮอนดูรัส"
+  },
+  "profile.countries.hk": {
+    "message": "ฮ่องกง"
+  },
+  "profile.countries.hu": {
+    "message": "ฮังการี"
+  },
+  "profile.countries.is": {
+    "message": "ไอซ์แลนด์"
+  },
+  "profile.countries.in": {
+    "message": "อินเดีย"
+  },
+  "profile.countries.id": {
+    "message": "อินโดนีเซีย"
+  },
+  "profile.countries.ir": {
+    "message": "อิหร่าน"
+  },
+  "profile.countries.iq": {
+    "message": "อิรัก"
+  },
+  "profile.countries.ie": {
+    "message": "ไอร์แลนด์"
+  },
+  "profile.countries.im": {
+    "message": "ไอล์ออฟแมน"
+  },
+  "profile.countries.il": {
+    "message": "อิสราเอล"
+  },
+  "profile.countries.it": {
+    "message": "อิตาลี"
+  },
+  "profile.countries.jm": {
+    "message": "จาเมกา"
+  },
+  "profile.countries.jp": {
+    "message": "ญี่ปุ่น"
+  },
+  "profile.countries.je": {
+    "message": "เจอร์ซีย์"
+  },
+  "profile.countries.jo": {
+    "message": "จอร์แดน"
+  },
+  "profile.countries.kz": {
+    "message": "คาซัคสถาน"
+  },
+  "profile.countries.ke": {
+    "message": "เคนยา"
+  },
+  "profile.countries.ki": {
+    "message": "คิริบาส"
+  },
+  "profile.countries.kp": {
+    "message": "เกาหลี"
+  },
+  "profile.countries.kr": {
+    "message": "เกาหลีใต้"
+  },
+  "profile.countries.kw": {
+    "message": "คูเวต"
+  },
+  "profile.countries.kg": {
+    "message": "คีร์กีซสถาน"
+  },
+  "profile.countries.la": {
+    "message": "ลาว"
+  },
+  "profile.countries.lv": {
+    "message": "ลัตเวีย"
+  },
+  "profile.countries.lb": {
+    "message": "เลบานอน"
+  },
+  "profile.countries.ls": {
+    "message": "เลโซโท"
+  },
+  "profile.countries.lr": {
+    "message": "ไลบีเรีย"
+  },
+  "profile.countries.ly": {
+    "message": "ลิเบีย"
+  },
+  "profile.countries.li": {
+    "message": "ลิกเตนสไตน์"
+  },
+  "profile.countries.lt": {
+    "message": "ลิทัวเนีย"
+  },
+  "profile.countries.lu": {
+    "message": "ลักเซมเบิร์ก"
+  },
+  "profile.countries.mo": {
+    "message": "มาเก๊า"
+  },
+  "profile.countries.mk": {
+    "message": "นอร์ทมาซิโดเนีย"
+  },
+  "profile.countries.mg": {
+    "message": "มาดากัสการ์"
+  },
+  "profile.countries.mw": {
+    "message": "มาลาวี"
+  },
+  "profile.countries.my": {
+    "message": "มาเลเซีย"
+  },
+  "profile.countries.mv": {
+    "message": "มัลดีฟส์"
+  },
+  "profile.countries.ml": {
+    "message": "มาลี"
+  },
+  "profile.countries.mt": {
+    "message": "มอลตา"
+  },
+  "profile.countries.mh": {
+    "message": "หมู่เกาะมาร์แชลล์"
+  },
+  "profile.countries.mq": {
+    "message": "มาร์ตีนิก"
+  },
+  "profile.countries.mr": {
+    "message": "มอริเตเนีย"
+  },
+  "profile.countries.mu": {
+    "message": "มอริเชียส"
+  },
+  "profile.countries.yt": {
+    "message": "มายอต"
+  },
+  "profile.countries.mx": {
+    "message": "เม็กซิโก"
+  },
+  "profile.countries.fm": {
+    "message": "ไมโครนีเซีย, สหพันธรัฐ"
+  },
+  "profile.countries.md": {
+    "message": "มอลโดวา, สาธารณรัฐ"
+  },
+  "profile.countries.mc": {
+    "message": "โมนาโก"
+  },
+  "profile.countries.mn": {
+    "message": "มองโกเลีย"
+  },
+  "profile.countries.me": {
+    "message": "มอนเตเนโกร"
+  },
+  "profile.countries.ms": {
+    "message": "มอนต์เซอร์รัต"
+  },
+  "profile.countries.ma": {
+    "message": "โมร็อกโก"
+  },
+  "profile.countries.mz": {
+    "message": "โมซัมบิก"
+  },
+  "profile.countries.mm": {
+    "message": "พม่า"
+  },
+  "profile.countries.na": {
+    "message": "นามิเบีย"
+  },
+  "profile.countries.nr": {
+    "message": "นาอูรู"
+  },
+  "profile.countries.np": {
+    "message": "เนปาล"
+  },
+  "profile.countries.nl": {
+    "message": "เนเธอร์แลนด์"
+  },
+  "profile.countries.an": {
+    "message": "เนเธอร์แลนด์แอนทิลลีส"
+  },
+  "profile.countries.nc": {
+    "message": "นิวแคลิโดเนีย"
+  },
+  "profile.countries.nz": {
+    "message": "นิวซีแลนด์"
+  },
+  "profile.countries.ni": {
+    "message": "นิการากัว"
+  },
+  "profile.countries.ne": {
+    "message": "ไนเจอร์"
+  },
+  "profile.countries.ng": {
+    "message": "ไนจีเรีย"
+  },
+  "profile.countries.nu": {
+    "message": "นีวเว"
+  },
+  "profile.countries.nf": {
+    "message": "เกาะนอร์ฟอล์ก"
+  },
+  "profile.countries.mp": {
+    "message": "หมู่เกาะนอร์เทิร์นมาเรียนา"
+  },
+  "profile.countries.no": {
+    "message": "นอร์เวย์"
+  },
+  "profile.countries.om": {
+    "message": "โอมาน"
+  },
+  "profile.countries.pk": {
+    "message": "ปากีสถาน"
+  },
+  "profile.countries.pw": {
+    "message": "ปาเลา"
+  },
+  "profile.countries.ps": {
+    "message": "รัฐปาเลสไตน์"
+  },
+  "profile.countries.pa": {
+    "message": "ปานามา"
+  },
+  "profile.countries.pg": {
+    "message": "ปาปัวนิวกินี"
+  },
+  "profile.countries.py": {
+    "message": "ปารากวัย"
+  },
+  "profile.countries.pe": {
+    "message": "เปรู"
+  },
+  "profile.countries.ph": {
+    "message": "ฟิลิปปินส์"
+  },
+  "profile.countries.pn": {
+    "message": "พิตแคร์น"
+  },
+  "profile.countries.pl": {
+    "message": "โปแลนด์"
+  },
+  "profile.countries.pt": {
+    "message": "โปรตุเกส"
+  },
+  "profile.countries.pr": {
+    "message": "ปวยร์โตรีโก"
+  },
+  "profile.countries.qa": {
+    "message": "กาตาร์"
+  },
+  "profile.countries.re": {
+    "message": "เรอูนียง"
+  },
+  "profile.countries.ro": {
+    "message": "โรมาเนีย"
+  },
+  "profile.countries.ru": {
+    "message": "รัสเซีย"
+  },
+  "profile.countries.rw": {
+    "message": "รวันดา"
+  },
+  "profile.countries.sh": {
+    "message": "เซนต์เฮเลนา"
+  },
+  "profile.countries.kn": {
+    "message": "เซนต์คิตส์และเนวิส"
+  },
+  "profile.countries.lc": {
+    "message": "เซนต์ลูเชีย"
+  },
+  "profile.countries.pm": {
+    "message": "แซ็งปีแยร์และมีเกอลง"
+  },
+  "profile.countries.vc": {
+    "message": "เซนต์วินเซนต์และเกรนาดีนส์"
+  },
+  "profile.countries.ws": {
+    "message": "ซามัว"
+  },
+  "profile.countries.sm": {
+    "message": "ซานมารีโน"
+  },
+  "profile.countries.st": {
+    "message": "เซาตูเมและปรินซีปี"
+  },
+  "profile.countries.sa": {
+    "message": "ซาอุดีอาระเบีย"
+  },
+  "profile.countries.sn": {
+    "message": "เซเนกัล"
+  },
+  "profile.countries.rs": {
+    "message": "เซอร์เบีย"
+  },
+  "profile.countries.sc": {
+    "message": "เซเชลส์"
+  },
+  "profile.countries.sl": {
+    "message": "เซียร์ราลีโอน"
+  },
+  "profile.countries.sg": {
+    "message": "สิงคโปร์"
+  },
+  "profile.countries.sk": {
+    "message": "สโลวาเกีย"
+  },
+  "profile.countries.si": {
+    "message": "สโลวีเนีย"
+  },
+  "profile.countries.sb": {
+    "message": "หมู่เกาะโซโลมอน"
+  },
+  "profile.countries.so": {
+    "message": "โซมาเลีย"
+  },
+  "profile.countries.za": {
+    "message": "แอฟริกาใต้"
+  },
+  "profile.countries.gs": {
+    "message": "เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช"
+  },
+  "profile.countries.es": {
+    "message": "สเปน"
+  },
+  "profile.countries.lk": {
+    "message": "ศรีลังกา"
+  },
+  "profile.countries.sd": {
+    "message": "ซูดาน"
+  },
+  "profile.countries.sr": {
+    "message": "ซูรินาม"
+  },
+  "profile.countries.sj": {
+    "message": "สฟาลบาร์และยานไมเอน"
+  },
+  "profile.countries.sz": {
+    "message": "เอสวาตีนี"
+  },
+  "profile.countries.se": {
+    "message": "สวีเดน"
+  },
+  "profile.countries.ch": {
+    "message": "สวิตเซอร์แลนด์"
+  },
+  "profile.countries.sy": {
+    "message": "ซีเรีย"
+  },
+  "profile.countries.tw": {
+    "message": "ไต้หวัน"
+  },
+  "profile.countries.tj": {
+    "message": "ทาจิกิสถาน"
+  },
+  "profile.countries.tz": {
+    "message": "แทนซาเนีย"
+  },
+  "profile.countries.th": {
+    "message": "ไทย"
+  },
+  "profile.countries.tl": {
+    "message": "ติมอร์-เลสเต"
+  },
+  "profile.countries.tg": {
+    "message": "โตโก"
+  },
+  "profile.countries.tk": {
+    "message": "โทเคอเลา"
+  },
+  "profile.countries.to": {
+    "message": "ตองงา"
+  },
+  "profile.countries.tt": {
+    "message": "ตรินิแดดและโตเบโก"
+  },
+  "profile.countries.tn": {
+    "message": "ตูนิเซีย"
+  },
+  "profile.countries.tr": {
+    "message": "ตุรกี"
+  },
+  "profile.countries.tm": {
+    "message": "เติร์กเมนิสถาน"
+  },
+  "profile.countries.tc": {
+    "message": "หมู่เกาะเติกส์และเคคอส"
+  },
+  "profile.countries.tv": {
+    "message": "ตูวาลู"
+  },
+  "profile.countries.ug": {
+    "message": "ยูกันดา"
+  },
+  "profile.countries.ua": {
+    "message": "ยูเครน"
+  },
+  "profile.countries.ae": {
+    "message": "สหรัฐอาหรับเอมิเรตส์"
+  },
+  "profile.countries.gb": {
+    "message": "สหราชอาณาจักร"
+  },
+  "profile.countries.us": {
+    "message": "สหรัฐอเมริกา"
+  },
+  "profile.countries.um": {
+    "message": "เกาะเล็กรอบนอกของสหรัฐ"
+  },
+  "profile.countries.uy": {
+    "message": "อุรุกวัย"
+  },
+  "profile.countries.uz": {
+    "message": "อุซเบกิสถาน"
+  },
+  "profile.countries.vu": {
+    "message": "วานูอาตู"
+  },
+  "profile.countries.ve": {
+    "message": "เวเนซุเอลา"
+  },
+  "profile.countries.vn": {
+    "message": "เวียดนาม"
+  },
+  "profile.countries.vg": {
+    "message": "หมู่เกาะบริติชเวอร์จิน"
+  },
+  "profile.countries.vi": {
+    "message": "หมู่เกาะเวอร์จินของสหรัฐ"
+  },
+  "profile.countries.wf": {
+    "message": "วาลิสและฟูตูนา"
+  },
+  "profile.countries.eh": {
+    "message": "เวสเทิร์นสะฮารา"
+  },
+  "profile.countries.ye": {
+    "message": "เยเมน"
+  },
+  "profile.countries.zm": {
+    "message": "แซมเบีย"
+  },
+  "profile.countries.zw": {
+    "message": "ซิมบับเว"
+  },
+  "profile.months.1": {
+    "message": "มกราคม"
+  },
+  "profile.months.2": {
+    "message": "กุมภาพันธ์"
+  },
+  "profile.months.3": {
+    "message": "มีนาคม"
+  },
+  "profile.months.4": {
+    "message": "เมษายน"
+  },
+  "profile.months.5": {
+    "message": "พฤษภาคม"
+  },
+  "profile.months.6": {
+    "message": "มิถุนายน"
+  },
+  "profile.months.7": {
+    "message": "กรกฎาคม"
+  },
+  "profile.months.8": {
+    "message": "สิงหาคม"
+  },
+  "profile.months.9": {
+    "message": "กันยายน"
+  },
+  "profile.months.10": {
+    "message": "ตุลาคม"
+  },
+  "profile.months.11": {
+    "message": "พฤศจิกายน"
+  },
+  "profile.months.12": {
+    "message": "ธันวาคม"
+  },
+  "profile.startYear": {
+    "message": "1920"
+  },
+  "general.disableAeroTheme.label": {
+    "message": "ปิดการใช้ Aero ธีม"
+  },
+  "general.enableGPUPriority.label": {
+    "message": "เปิดใช้ลำดับความสำคัญ GPU"
+  },
+  "general.enableVirtualCameraOutput.label": {
+    "message": "เปิดการใช้วิชวลคาเมร่าเอาท์พุท"
+  },
+  "general.enableGameSource.label": {
+    "message": "เปิดใช้ Game Source"
+  },
+  "general.hideXsplitFromDisplayCapture.label": {
+    "message": "ซ่อน XSplit Broadcaster จากแคปเจอร์การแสดงภาพ"
+  },
+  "general.hideXsplitFromDisplayCapture2.label": {
+    "message": "ซ่อน XSplit Broadcaster จากแคปเจอร์การแสดงภาพ (ค่าเริ่มต้น: %default%)"
+  },
+  "general.hideXsplitFromDisplayCapture.tooltip": {
+    "message": "นำ XSplit Broadcaster ออกจากการแคปเจอร์จะเป็นการซ่อนจากแอพพลิเคชั่นอื่น ๆที่ใช้วิธีการแคปเจอร์การแสดงภาพด้วย"
+  },
+  "general.hideTopControlBar.label": {
+    "message": "ซ่อนบาร์ควบคุมด้านบน"
+  },
+  "general.enableHUD.label": {
+    "message": "เปิดการใช้งาร HUD ในเกม"
+  },
+  "general.enableCopyLink.label": {
+    "message": "คัดลอกลิงก์ไปยังคลิปบอร์ดเมื่อเริ่มต้นการบรอดแคสต์"
+  },
+  "general.hideViewerCount.label": {
+    "message": "ซ่อนจำนวนผู้ชมในสตรีมสเตตัส"
+  },
+  "general.hideFromScreenRegion.label": {
+    "message": "ซ่อนจากพื้นที่หน้าจอ"
+  },
+  "general.logSystemInfo.label": {
+    "message": "เก็บข้อมูลของระบบ"
+  },
+  "general.scenePreview.label": {
+    "message": "พรีวิวรูปย่อ"
+  },
+  "general.screenshotCapture.label": {
+    "message": "จับภาพหน้าจอ"
+  },
+  "general.scenePreview.values.1": {
+    "message": "แสดงพรีวิวตอนที่เม้าส์อยู่บนปุ่มฉากเสมอ"
+  },
+  "general.scenePreview.values.2": {
+    "message": "แสดงพรีวิวตอนที่เม้าส์อยู่บนปุ่มฉากพร้อมกด Shift"
+  },
+  "general.scenePreview.values.3": {
+    "message": "ไม่แสดงพรีวิวตอนที่เม้าส์อยู่บนปุ่มฉาก"
+  },
+  "general.screenshotCapture.values.JPEG": {
+    "message": "JPEG"
+  },
+  "general.screenshotCapture.values.BMP": {
+    "message": "BMP"
+  },
+  "general.optimizedTransition.label": {
+    "message": "ปรัยแต่งการเปลี่ยนฉาก"
+  },
+  "general.optimizedTransition.tooltip": {
+    "message": "ทำให้การเปลี่ยนระหว่างฉากลื่นไหลยิ่งขึ้น แต่อาจจะต้องการทรัพยากรกราฟิกเพิ่มเติมบ้าง[br][br]ถ้าคุณต้องการสงวนทรัพยากรกราฟิกของคุณ ปิดตัวเลือกนี้และปิดการพรีวิวรูปย่อ"
+  },
+  "audio.microphone.label": {
+    "message": "ไมโครโฟน"
+  },
+  "audio.audioDelay.label": {
+    "message": "ดีเลย์ (ms)"
+  },
+  "audio.boost.label": {
+    "message": "ระดับเสียง (%):"
+  },
+  "audio.noiseSuppression.label": {
+    "message": "ลดเสียงรบกวน"
+  },
+  "audio.silenceDetection.label": {
+    "message": "การตรวจสอบความเงียบ"
+  },
+  "audio.threshold.label": {
+    "message": "เทรชโฮลด์ (dB)"
+  },
+  "audio.hold.label": {
+    "message": "ถือสาย (ms)"
+  },
+  "audio.attack.label": {
+    "message": "โจมตี (ms)"
+  },
+  "audio.release.label": {
+    "message": "ปล่อย (ms)"
+  },
+  "audio.silenceDetection.blogLink": {
+    "message": "เรียนรุ้การใช้งานการตรวจสอบความเงียบ"
+  },
+  "audio.systemSound.label": {
+    "message": "เสียงของระบบ"
+  },
+  "audio.monitor.label": {
+    "message": "พรีวิวเสียง"
+  },
+  "audio.monitor.tooltip": {
+    "message": "การพรีวิวเสียงถูกใช้เพื่อคอยตรวจสอบเอาท์พุทเสียงสุดท้ายจากพรีเซ้นเทชั่นที่ผ่านออกมาจากอุปกรณ์เอาท์พุทที่ถูกเลือก"
+  },
+  "audio.monoMix.label": {
+    "message": "ไมโครโฟนโมโนมิกซ์"
+  },
+  "audio.monoMix.values.0": {
+    "message": "ไม่มี (ค่าเริ่มต้น)"
+  },
+  "audio.monoMix.values.1": {
+    "message": "คัดลอกซ้ายไปขวา"
+  },
+  "audio.monoMix.values.2": {
+    "message": "คัดลอกขวาไปซ้าย"
+  },
+  "audio.monoMix.values.3": {
+    "message": "เฉลี่ยซ้ายไปขวา"
+  },
+  "audio.audioMixingSampleRate.label": {
+    "message": "ออดิโอมิกซิ่งแซมเปิลเรท"
+  },
+  "audio.audioMixingSampleRate.values.0": {
+    "message": "อัตโนมัติ (ค่าเริ่มต้น)"
+  },
+  "audio.audioMixingSampleRate.values.44100": {
+    "message": "44.1 kHz"
+  },
+  "audio.audioMixingSampleRate.values.48000": {
+    "message": "48 kHz"
+  },
+  "hotkeys.category.scenes": {
+    "message": "ฉาก"
+  },
+  "hotkeys.category.presets": {
+    "message": "ตั้งค่าฉาก"
+  },
+  "hotkeys.category.audio": {
+    "message": "เสียง"
+  },
+  "hotkeys.category.broadcast": {
+    "message": "บรอดแคสต์"
+  },
+  "hotkeys.category.recording": {
+    "message": "บันทึก"
+  },
+  "hotkeys.category.playout": {
+    "message": "เล่นจนเสร็จ"
+  },
+  "hotkeys.category.hud": {
+    "message": "HUD"
+  },
+  "hotkeys.category.sources": {
+    "message": "ซอส"
+  },
+  "hotkeys.message": {
+    "message": "คุณสามารถใช้คีย์ลัดเพื่อที่จะเป็นตัวสลับฉากและคำสั่งอื่นๆ ด้วยคีย์บอร์ดได้ แม้แต่ตอนที่คุณอยู่ในเกมหรือในแอพลิเคชั่นอื่นๆ."
+  },
+  "hotkeys.instruction": {
+    "message": "ดับเบิ้ลคลิ๊กเพื่อพิมพ์ คีย์ลัดของคุณหรือเลือกคีย์ลัดด้วยตัวเอง"
+  },
+  "hotkeys.shift.label": {
+    "message": "Shift"
+  },
+  "hotkeys.ctrl.label": {
+    "message": "Ctrl"
+  },
+  "hotkeys.alt.label": {
+    "message": "Alt"
+  },
+  "hotkeys.none": {
+    "message": "ว่าง"
+  },
+  "hotkeys.hotkeymode.description": {
+    "message": "เลือกโหมดคีย์ลัด"
+  },
+  "hotkeys.hotkeymode.label": {
+    "message": "เลือกโหมดคีย์ลัด"
+  },
+  "hotkeys.hotkeymode.tooltip": {
+    "message": "คุณสามารถเลือกคีย์ลัดหรือปุ่มกดตรง ๆ ได้ด้วยตัวเองบนอุปกรณ์ของคุณ[br][br]**พื้นฐาน** อนุญาตให้ปุ่มจากวินโดว์ของคุณเท่านั้นและต้องการผสมปุ่มกับปุ่มโมดิฟายเออร์[br]**ขั้นสูง** อนุญาตให้ใช้งานปุ่มจากอุปกรณ์ MIDI และสนับสนุนคีย์โดยไม่ต้องใช้ดิฟายเออร์[br][br]เมื่อมีการเปลี่ยนจาก ขั้นสูง ไปยังโหมดพื้นฐาน คุณต้องทำการเปลี่ยนคีย์ขั้นสูงทั้งหมดไปสู่คีย์ขั้นพื้นฐาน"
+  },
+  "hotkeys.hotkeymode.basic.label": {
+    "message": "พื้นฐาน"
+  },
+  "hotkeys.hotkeymode.advanced.label": {
+    "message": "ขั้นสูง"
+  },
+  "hotkeys.hotkeybehavior.description": {
+    "message": "เปลี่ยนพฤติกรรมของคีย์ลัด"
+  },
+  "hotkeys.hotkeybehavior.label": {
+    "message": "เปลี่ยนพฤติกรรมของคีย์ลัด"
+  },
+  "hotkeys.hotkeybehavior.tooltip": {
+    "message": "ระบุว่าจะให้ XSplit Broadcaster ทำอย่างไรกับคีย์ลัดที่ถูกกำหนดไว้ในหน้าเพจนี้[br][br]**โกลบอล** -คีย์ลัดจะถูกใช้งานในทุก ๆ ที่[br]**แอปพลิเคชั่น** -คีย์ลัดจะถูกใช้งานเมื่อ XSplit Broadcasters ถูกโฟกัสอยุ่เท่านั้น [br] **ปิดการใช้งาน** -คีย์ลัดทั้งหมดไม่ถูกใช้งาน"
+  },
+  "hotkeys.hotkeyBehavior.values.0": {
+    "message": "โกลบอล"
+  },
+  "hotkeys.hotkeyBehavior.values.1": {
+    "message": "แอปพลิเคชั่น"
+  },
+  "hotkeys.hotkeyBehavior.values.2": {
+    "message": "ปิดใช้งาน"
+  },
+  "accounts.videoSharing.label": {
+    "message": "วิดีโอแชริ่ง"
+  },
+  "accounts.youtube.label": {
+    "message": "YouTube"
+  },
+  "accounts.youtube.authorize.label": {
+    "message": "อนุญาตให้อัพโหลดวิดีโอไปยัง Youtube"
+  },
+  "accounts.socials.label": {
+    "message": "โซเชียลเน็ตเวิร์ก"
+  },
+  "accounts.facebook.label": {
+    "message": "Facebook"
+  },
+  "accounts.facebook.authorize.label": {
+    "message": "อนุญาตให้โพสไปยัง Facebook"
+  },
+  "accounts.twitter.label": {
+    "message": "Twitter"
+  },
+  "accounts.twitter.authorize.label": {
+    "message": "อนุญาตให้โพสไปยัง Twitter"
+  },
+  "accounts.google.label": {
+    "message": "Google+"
+  },
+  "accounts.google.authorize.label": {
+    "message": "อนุญาตให้โพสไปยัง Google+"
+  },
+  "accounts.playerme.label": {
+    "message": "Player.me"
+  },
+  "accounts.playerme.authorize.label": {
+    "message": "อนุญาตให้โพสไปยัง Player.me"
+  },
+  "accounts.service.deauthorize.label": {
+    "message": "ถอนการอนุญาต"
+  },
+  "accounts.service.switch.label": {
+    "message": "สลับบัญชี"
+  },
+  "advanced.caution.label": {
+    "message": "ดำเนินการต่อด้วยความระมัดระวังเมื่อคุณเปลี่ยนแปลงตัวเลือกขั้นสูงนี้ เราไม่สามารถรับผิดชอบใด ๆ กับลูกแมวแถว ๆ นั้นที่โดนทำรายจากคนที่เดินโต๋เต๋ไปมารอบๆ โปรดดูคำใบ้เพื่อดูข้อมูลเพิ่มเติม"
+  },
+  "advanced.enableOptimizedRender.label": {
+    "message": "Enhanced Video Renderer (EVR)"
+  },
+  "advanced.enableOptimizedRender2.label": {
+    "message": "ใช้ Enhanced Video Renderer (EVR)"
+  },
+  "advanced.enableOptimizedRender.tooltip": {
+    "message": "**ตัวเลือกนี้ยังอยู่ในขั้นทดสอบและอาจจะมีการเปลี่ยนหรือนำออกไปในการเปิดตัวรุ่นต่อไป**[br][br] Enhanced Video Renderer เป็นทางเลือกการเรนเดอร์สำหรับ XSplit Broadcaster คุณอาจจะลองเปิดตัวเลือกนี้ถ้าคุณมีปัญหากับพรีเซ้นเทชั่นและลองดูว่าสามารถแก้ไขได้หรือไม่"
+  },
+  "advanced.videoProcessingMode.label": {
+    "message": "โหมดการประมวลผมวิดีโอ"
+  },
+  "advanced.videoProcessingMode2.label": {
+    "message": "โหมดการประมวลผมวิดีโอ (ค่าเริ่มต้น: ใช้ตัวเลือกการประมวลผลวิดีโอรุ่นเก่า)"
+  },
+  "advanced.videoProcessingMode.tooltip": {
+    "message": "**แหล่งกำเนิดผมในการนำเสนอของคุณอาจรีเฟรชเมื่อใช้งานการเปลี่ยนแปลง**[br][br] ใช้โหมด GPU เมื่อคุณเล่นเกมบนฮาร์ดแวร์เดียวกันเพื่อลดผลกระทบต่อการเล่นเกม ใช้โหมด GPU ถ้าคุณต้องการให้ XSplit ใช้ประโยช์นจากฟังก์ชั่นต่างๆ ของ GPU เพื่อเร่งการถอดรหัสวิดีโอและการประมวลผล สามารถใช้ได้ใน Windows 8 ขึ้นไป"
+  },
+  "advanced.videoProcessingMode.values.1": {
+    "message": "ใช้ตัวเลือกการประมวลผลวิดีโอรุ่นเก่า"
+  },
+  "advanced.videoProcessingMode.values.2": {
+    "message": "ใช้ CPU สำหรับการประมวลผลวิดีโอ"
+  },
+  "advanced.videoProcessingMode.values.3": {
+    "message": "ใช้ GPU สำหรับการประมวลผลวิดีโอ"
+  },
+  "advanced.enableGlobalScript.label": {
+    "message": "เปิดการใช้งานส่วนเสริม"
+  },
+  "advanced.enableGlobalScript2.label": {
+    "message": "เปิดการใช้งานส่วนขยาย (ค่าเริ่มต้น: %default%)"
+  },
+  "advanced.enabled.label": {
+    "message": "เปิดใช้งาน"
+  },
+  "advanced.disabled.label": {
+    "message": "ปิดใช้งาน"
+  },
+  "advanced.enableGlobalScript.tooltip": {
+    "message": "เวอร์ชั่นนี้ของ XSplit Broadcaster สนับสนุนส่วนขยายที่สร้างขึ้นโดยผู้ใช้ ซึ่งสามารถโต้ตอบกับ XSplit Broadcaster API ได้ ณ ตอนนี้ฟีเจอร์นี้ยังอยู่ในขั้นทดสอบ[br][อ่านเพิ่มเติมได้ที่นี่!](https://xspl.it/bc/custom)"
+  },
+  "advanced.enableFlashSound.label": {
+    "message": "เปิดใช้งาน Native Flash และการควบคุมเสียงของเบราว์เซอร์"
+  },
+  "advanced.enableFlashSound2.label": {
+    "message": "เปิดใช้งาน Native Flash และการควบคุมเสียงของเบราว์เซอร์ (ค่าเริ่มต้น:%default%)"
+  },
+  "advanced.enableFlashSound.tooltip": {
+    "message": "**แหล่งกำเนิดภาพที่ใช้ในการนำเสนอของคุณอาจรีเฟรชเพื่อใช้งานผลการเปลี่ยนแปลง** [br][br]  เปิดตัวเลือกนี้จะทำให้ XSplit ปิดเสียงอัตโนมัติจากแฟลชและเบราว์เซอร์ต้นกำเนิดในพรีวิว XSplit ตัวเลือกนี้จะทำให้คุณใช้ตัวเลือกเสียง Stream เท่านั้นสำหรับแฟลชและเบราว์เซอร์ต้นกำเนิด"
+  },
+  "advanced.enableWasapi.label": {
+    "message": "เปิดการใช้การเรนเดอร์เสียง WASAPI"
+  },
+  "advanced.enableWasapi2.label": {
+    "message": "เปิดการใช้งานการเรนเดอร์เสียง WASAPI (ค่าเริ่มต้น:%default%)"
+  },
+  "advanced.enableWasapi.tooltip": {
+    "message": "ตัวเลือกนี้จะบังคับให้ Direct show ซอสทำการใช้การเรนเดอร์เสียง WASAPI แทนการใช้งาน Direct sound อาจจะเป็นการช่วยแก้ปัญหาเสียงแตกในซอสบางตัว"
+  },
+  "advanced.enableMFEngine.label": {
+    "message": "ใช้ Media Foundation Engine สำหรับเล่นวีดีโอ"
+  },
+  "advanced.enableMFEngine2.label": {
+    "message": "ใช้ Media Foundation Engine สำหรับเล่นวีดีโอ (ค่าตั้งต้น: %default%)"
+  },
+  "advanced.enableMFEngine.tooltip": {
+    "message": "**แหล่งกำเนิดภาพที่ใช้ในการนำเสนอของคุณอาจรีเฟรชเพื่อใช้งานผลการเปลี่ยนแปลง** [br][br] ตัวเลือกนี้จะเปิดเอนจิน Microsoft MF สำหรับการเล่นไฟล์วีดีโอสนับสนุน (MP4, WMV, AVI, ASF) ใช้เอนจิน MF จะเปิดตัวเร่งฮาร์ดแวร์ DXVA2 และใช้ทรัพยากร CPU น้อยลง"
+  },
+  "advanced.enableHardwareAccelerateUSB2.label": {
+    "message": "ใช้การเร่งความเร็วฮาร์ดแวร์สำหรับอุปกรณ์แคปเจอร์ USB2"
+  },
+  "advanced.enableHardwareAccelerateUSB22.label": {
+    "message": "ใช้การเร่งความเร็วฮาร์ดแวร์สำหรับอุปกรณ์แคปเจอร์ USB2 (ค่าเริ่มต้น:%default%)"
+  },
+  "advanced.enableHardwareAccelerateUSB2.tooltip": {
+    "message": "**แหล่งกำเนิดภาพที่ใช้ในการนำเสนอของคุณอาจรีเฟรชเพื่อใช้งานผลการเปลี่ยนแปลง** [br][br] ตัวเลือกนี้ใช้ตัวเร่งฮาร์แวร์ DXVA2 เพื่อถอดรหัสวีดีโอจากอุปกรณ์จับภาพ USB 2 เช่น AverMedia LGP, Happauge HDPVR, Elgato HD และ HD60"
+  },
+  "advanced.antiAliasing.label": {
+    "message": "GPU Anti Aliasing"
+  },
+  "advanced.antiAliasing.tooltip": {
+    "message": "**ตัวเลือกนี้ยังอยู่ในขั้นทดสอบและอาจจะมีการเปลี่ยนหรือนำออกไปในการเปิดตัวรุ่นต่อไป**[br][br] MLAA คือกระบวนการโพสต์ shader และจะใช้ทรัพยากรน้อยกว่าแต่อาจจะมีเอฟเฟคแตกต่างกันที่เห็นได้"
+  },
+  "advanced.antiAliasing.values.1": {
+    "message": "ไม่มี (ค่าเริ่มต้น)"
+  },
+  "advanced.antiAliasing.values.2": {
+    "message": "MLAA"
+  },
+  "advanced.antiAliasing.values.3": {
+    "message": "MSAA"
+  },
+  "advanced.antiAliasing.quality.label": {
+    "message": "คุณภาพ"
+  },
+  "advanced.antiAliasing.sampleCount.label": {
+    "message": "แซมเปิ้ลเค้าท์"
+  },
+  "advanced.antiAliasing.stencilBuffer.label": {
+    "message": "ใช้ Stencil Buffer"
+  },
+  "advanced.antiAliasing.threshold.label": {
+    "message": "เทรชโชล"
+  },
+  "advanced.network.label": {
+    "message": "การเชื่อมต่อเน็ตเวิร์ค"
+  },
+  "advanced.network.tooltip": {
+    "message": "เลือกเน็ตเวิร์คอะแดปเตอร์ที่ใช้งานอยู่สำหรับ ไลฟ์สตรีมของคุณ"
+  },
+  "advanced.customNetworkConnection.label": {
+    "message": "อนุญาตให้บรอดแคสต์ปลั๊กอินทำการระบุเน็ตเวิร์คอะแดปเตอร์ของตัวเองได้"
+  },
+  "advanced.customNetworkConnection.labelXbc5003": {
+    "message": "อนุญาตให้เอาท์พุทระบุเน็ตเวิร์คอะแดปเตอร์ของตัวเองได้"
+  },
+  "advanced.customNetworkConnection.tooltip": {
+    "message": "การเปิดใช้งานนี้จะอนุญาตให้คุณสามารถเลือกเน็ตเวิร์คอะแดปเตอร์ที่ใช้งานสำหรับแต่ละไลฟ์สตรีมของคุณได้"
+  },
+  "advanced.autoSelectNetworkAdapter.label": {
+    "message": "เลือกเน็ตเวิร์คอะแดปเตอร์อื่นโดนอัตโนมัติถ้าตัวที่เลือกอยู่ไม่พร้อมใช้งาน"
+  },
+  "advanced.enableScriptSecurity.label": {
+    "message": "เปิดการใช้การรักษาความปลอดภัยของสคริปท์สำหรับซอสและส่วนขยาย"
+  },
+  "advanced.enableScriptSecurity2.label": {
+    "message": "เปิดการใช้การรักษาความปลอดภัยของสคริปท์สำหรับซอสและส่วนขยาย (ค่าเริ่มต้น:%default%)"
+  },
+  "advanced.enableScriptSecurity.tooltip": {
+    "message": "การปิดตัวเลือกนี้หมายความว่าคุณอนุญาตให้สคริปท์ทุกตัวเข้าถึงซอสและส่วนขยายได้โดยไม่ต้องมีการยืนยันก่อน"
+  },
+  "advanced.browserSourceOptimization.label": {
+    "message": "เพิ่มประสิทธิภาพของซอสจากเบราว์เซอร์เป็นพิเศษ"
+  },
+  "advanced.browserSourceOptimization2.label": {
+    "message": "เพิ่มประสิทธิภาพของซอสจากเบราว์เซอร์เป็นพิเศษ (ค่าเริ่มต้น:%default%)"
+  },
+  "advanced.browserSourceOptimization.tooltip": {
+    "message": "**แหล่งกำเนิดภาพที่ใช้ในการนำเสนอของคุณอาจรีเฟรชเพื่อใช้งานผลการเปลี่ยนแปลง** [br][br]  ตัวเลือกนี้ใช้การปรับแต่งพิเศษสำหรับจับเส้นทางลำเลียงของต้นกำเนิดจาก HTML ตัวเลือกนี้จะมอบภาพเคลื่อนไหวที่ลื่นไหลมากขึ้นให้กับ ต้นกำเนิดจาก HTML ในแบบboth 30 และ 60 FPS, แต่อาจไม่ได้ผลบนระบบทั้งหมด (บางระบบ HTML อาจแสดงสีดำเท่านั้น) FPS ค่าตั้งต้นสำหรับต้นกำเนิดจาก คือ 30 FPS ด้วยตัวเลือกสำหรับ JavaScript ในการร้องขอใช้งาน60 FPS (ดู [โพสต์นี้](https://xspl.it/bc/svw6qh) สำหรับข้อมูลเพิ่มเติม)"
+  },
+  "advanced.enableDeveloperMode.label": {
+    "message": "เปิดใช้งานโหมดผู้พัฒนา"
+  },
+  "advanced.enableDeveloperMode2.label": {
+    "message": "เปิดใช้งานโหมดผู้พัฒนา (ค่าเริ่มต้น: %default%)"
+  },
+  "advanced.enableDeveloperMode.tooltip": {
+    "message": "**แหล่งกำเนิดภาพที่ใช้ในการนำเสนอของคุณอาจรีเฟรชเพื่อใช้งานผลการเปลี่ยนแปลง** [br][br]  ตัวเลือกนี้จะสร้างการล็อกกิ้งเสริม เปิดใช้งานปลั๊กอินดีบั๊กและทำให้ DLLs ที่ไม่ต้องการถูกโหลดโดยปลั๊กอิน"
+  },
+  "advanced.enhancedLogging.label": {
+    "message": "เปิดการใช้งานบันทึกขั้นสูง"
+  },
+  "advanced.enhancedLogging2.label": {
+    "message": "เปิดการใช้งานบันทึกขั้นสูง (ค่าเริ่มต้น: %default%)"
+  },
+  "advanced.enhancedLogging.tooltip": {
+    "message": "เปิดการใช้งานตัวเลือกนี้จะเป็นการอนุญาตให้ XSplit ทำการบันทึกการใช้งานที่ครอบคลุมยิ่งขึ้นสำหรับการค้นหาและแก้ไขปัญหาการบันทึกทั้งหมดจะถูกเก็บใน[logs folder](%path%) เราแนะนำให้คุณส่งลิงก์ของ Dropbox หรือ Google Drive ที่ทำการ zip โฟล์เดอร์ Log และอัพโหลดไว้ [br][br] ตัวเลือกนี้จะถูกปิดโดยอัตโนมัติเมื่อมีการรีสตาร์ท XSplit เราแนะนำให้คุณปิดตัวเลือกนี้เมื่อเสร็จสิ้นการบันทึกข้อมูล"
+  },
+  "advanced.dx12Capture.label": {
+    "message": "เปิดใช้งานเกมแคปเจอร์ DX12"
+  },
+  "advanced.dx12Capture2.label": {
+    "message": "เปิดการใช้งาน DX12 เกมแคปเจอร์ (ค่าเริ่มต้น: เปิดใช้งาน)"
+  },
+  "advanced.dx12Capture.tooltip": {
+    "message": "**แหล่งกำเนิดภาพที่ใช้ในการนำเสนอของคุณอาจรีเฟรชเพื่อใช้งานผลการเปลี่ยนแปลง** [br][br]  เปิดตัวเลือกนี้เพื่อจับภาพเกม DX12 นี้อาจไม่เหมาะสมในบางระบบ/ไดร์ฟเวอร์อาจสกัดกั้นการจับภาพของเกมได้ - แม้แต่เกมที่ไม่ใช่ DX12 ตัวเลือกนี้อาจปิดได้ในกรณีที่เกิดปัญหาขึ้น เกม/แอปพลิเคชั่นอาจจำเป็นต้องรีสตาร์ทเพื่อให้การเปลี่ยนตัวเลือกนี้แสดงผล"
+  },
+  "advanced.vulkan.label": {
+    "message": "เปิดใช้งานเกมแคปเจอร์ Vulkan"
+  },
+  "advanced.vulkan2.label": {
+    "message": "เปิดการใช้งาน Vulkan เกมแคปเจอร์ (ค่าเริ่มต้น: เปิดใช้งาน)"
+  },
+  "advanced.vulkan.tooltip": {
+    "message": "เปิดใช้ตัวเลือกนี้เพื่อจับภาพเกม Vulkan games. เกม/แอปพลิเคชั่นอาจจำเป็นต้องรีสตาร์ทเพื่อให้การเปลี่ยนตัวเลือกนี้แสดงผล"
+  },
+  "advanced.projectorBorder.label": {
+    "message": "ทำการเลือกเส้นขอบสำหรับหน้าจอโปรเจ็กเตอร์"
+  },
+  "advanced.projectorBorder.values.always": {
+    "message": "แสดงเส้นขอบหน้าจากที่ถูกโฮเวอร์เลือกเสมอ"
+  },
+  "advanced.projectorBorder.values.shift": {
+    "message": "แสดงเส้นขอบสำหรับหน้าจากเวลาที่ปุ่ม SHIFT ถูกกดไว้"
+  },
+  "advanced.projectorBorder.values.never": {
+    "message": "ไม่แสดงเส้นขอหน้าจอเมื่อมีการเลือกโฮเวอร์"
+  },
+  "advanced.gpuAdapter.label": {
+    "message": "อแดปเตอร์ GPU"
+  },
+  "advanced.gpuAdapter2.label": {
+    "message": "เลือกอแดปเตอร์ GPU (ค่าตั้งต้น: ออโต้เมติก)"
+  },
+  "advanced.gpuAdapter.tooltip": {
+    "message": "นี่จะบังคับให้ XSplit Broadcaster ทำงานบนกราฟฟิกที่เลือก (GPU) ถ้าตั้งไว้อัตโนมัติ XSplit Broadcaster จะทำงานอแดปเตอร์กราฟฟิกหลักที่ตั้งค่าบน Windows หรือแผงควบคุม GPU ของคุณ"
+  },
+  "advanced.gpuAdapter.values.0": {
+    "message": "อัตโนมัติ"
+  },
+  "menu.mixerColorspace.label": {
+    "message": "Mixer colorspace"
+  },
+  "menu.mixerColorspace.ayuv.label": {
+    "message": "AYUV"
+  },
+  "menu.mixerColorspace.yuy2.label": {
+    "message": "YUY2"
+  },
+  "menu.mixerColorspace.rgb1624.label": {
+    "message": "RGB16/24"
+  },
+  "menu.mixerColorspace.rgb32.label": {
+    "message": "RGB32"
+  },
+  "menu.enableVirtualCameraWhileStreaming.label": {
+    "message": "เปิดใช้กล้องวิชวลขณะกำลังสตรีม"
+  },
+  "button.restore": {
+    "message": "คืนเป็นค่าเริ่มต้น"
+  },
+  "button.ok": {
+    "message": "ตกลง"
+  },
+  "button.cancel": {
+    "message": "ยกเลิก"
+  },
+  "button.apply": {
+    "message": "ใช้งาน"
+  }
+}

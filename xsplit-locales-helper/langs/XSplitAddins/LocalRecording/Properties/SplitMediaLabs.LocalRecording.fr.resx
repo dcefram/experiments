@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AvermediaHint" xml:space="preserve">
+    <value>L'encodeur AVerMedia H264 enregistre les vidéos avec la carte d'acquisition pour ne pas affecter les performances.</value>
+  </data>
+  <data name="chkForceCfr" xml:space="preserve">
+    <value>Forcer un taux d'images constant</value>
+  </data>
+  <data name="chkOptimizeYT" xml:space="preserve">
+    <value>Optimiser pour YouTube</value>
+  </data>
+  <data name="CustomQualityHint" xml:space="preserve">
+    <value>[ ! ] La configuration de qualité personnalisée est destinée aux utilisateurs avancés uniquement. Réglez ces paramètres à vos propres risques.</value>
+  </data>
+  <data name="lblCuePoints" xml:space="preserve">
+    <value>Moments forts avec points de repère</value>
+  </data>
+  <data name="lblMinutes" xml:space="preserve">
+    <value>Minutes</value>
+  </data>
+  <data name="lblNever" xml:space="preserve">
+    <value>Jamais</value>
+  </data>
+  <data name="lnkOptimizeYT" xml:space="preserve">
+    <value>Cette option optimise les paramètres de l’encodeur conformément aux &lt;a href="https://xspl.it/a0tpuy"&gt;recommandations&lt;/a&gt; de YouTube.</value>
+  </data>
+  <data name="NVENCHint" xml:space="preserve">
+    <value>L'encodeur NVIDIA (NVENC) enregistre les vidéos avec l'encodeur du GPU pour un impact négligeable sur les performances.</value>
+  </data>
+  <data name="pbCuePoints_Tooltip" xml:space="preserve">
+    <value>Vous pouvez insérer des points de repère pendant l’enregistrement. Ils servent à vous aider à identifier les moments-clés lors de l’édition de vidéos dans l’Éditeur Vidéo Express, qui se trouve dans Outils → Éditeur Vidéo Express. 
+Pour ajouter des points de repère assignez un raccourci clavier dans les Paramètres → Raccourcis. L'insertion de points de repère marche également lors de stream avec des sorties avec 'Sauvegarder enregistrement' activé.</value>
+  </data>
+  <data name="QSHint" xml:space="preserve">
+    <value>La synchronisation rapide enregistre les vidéos avec l'encodeur iGPU pour un impact négligeable sur les performances.</value>
+  </data>
+  <data name="QualityHint" xml:space="preserve">
+    <value>Veuillez noter que les enregistrements de haute qualité prendront plus d'espace disque.</value>
+  </data>
+  <data name="VCEHint" xml:space="preserve">
+    <value>Le moteur de codec vidéo enregistre les vidéos avec l'encodeur (i)GPU pour un impact négligeable sur les performances.</value>
+  </data>
+  <data name="x264Hint" xml:space="preserve">
+    <value>{0} enregistre les vidéos avec le processeur, ce qui peut causer des pertes de performances pour les qualités élevées.</value>
+  </data>
+  <data name="lblNFileType" xml:space="preserve">
+    <value>Type de fichier</value>
+  </data>
+  <data name="lblNSplitFilesAt" xml:space="preserve">
+    <value>Diviser les fichiers à</value>
+  </data>
+  <data name="lblOutput" xml:space="preserve">
+    <value>Sorties</value>
+  </data>
+  <data name="Props" xml:space="preserve">
+    <value>Local Recording Properties</value>
+  </data>
+  <data name="customQuality" xml:space="preserve">
+    <value>Personnalisé</value>
+  </data>
+  <data name="highQuality" xml:space="preserve">
+    <value>Élevé</value>
+  </data>
+  <data name="standardQuality" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="ultraHighQuality" xml:space="preserve">
+    <value>La plus élevée</value>
+  </data>
+  <data name="veryHighQuality" xml:space="preserve">
+    <value>Très élevée</value>
+  </data>
+  <data name="lblRecordTarget" xml:space="preserve">
+    <value>Record Target</value>
+  </data>
+</root>

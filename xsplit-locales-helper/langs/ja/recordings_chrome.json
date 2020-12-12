@@ -1,0 +1,674 @@
+{
+	"title": {
+		"message": "XSplit Broadcaster - レコーディング"
+	},
+	"myRecordings.back": {
+		"message": "戻る..."
+	},
+	"myRecordings.processing": {
+		"message": "レコーディングの読み込み中..."
+	},
+	"myRecordings.openWith": {
+		"message": "開く"
+	},
+	"myRecordings.edit": {
+		"message": "動画編集"
+	},
+	"myRecordings.CONVERT_TO_MP4": {
+		"message": "MP4に変換する"
+	},
+	"myRecordings.REPAIR_FILE": {
+		"message": "ファイルを修復する"
+	},
+	"myRecordings.FIX_MOV_FILE": {
+		"message": "WEB用に最適化する"
+	},
+	"myRecordings.FIX_MOV_FILE_TOOLTIP": {
+		"message": "このオプションでは、Youtubeなどの動画サイトにファイルをアップロードした後に必要な処理時間を最小限に抑えます。軽く説明しますと、動画ファイルのメディア情報をオンラインで視聴するために最初から最後まで最適化します。詳細はこちらをクリックしてください：[こちら](https://xspl.it/j5hfit)"
+	},
+	"myRecordings.openFileLocation": {
+		"message": "ファイルの場所を開く"
+	},
+	"myRecordings.openFolderLocation": {
+		"message": "フォルダの場所を開く"
+	},
+	"myRecordings.sortBy": {
+		"message": "並び替え"
+	},
+	"myRecordings.orderBy": {
+		"message": "表示指定"
+	},
+	"myRecordings.ascending": {
+		"message": "昇順"
+	},
+	"myRecordings.descending": {
+		"message": "降順"
+	},
+	"myRecordings.header.name": {
+		"message": "名前"
+	},
+	"myRecordings.header.date": {
+		"message": "日付"
+	},
+	"myRecordings.header.type": {
+		"message": "種類"
+	},
+	"myRecordings.header.videoLength": {
+		"message": "長さ"
+	},
+	"myRecordings.header.size": {
+		"message": "サイズ"
+	},
+	"myRecordings.details.recordedOn": {
+		"message": "こちらで録画されました"
+	},
+	"myRecordings.details.deleteRecordings": {
+		"message": "選択されたアイテム"
+	},
+	"myRecordings.details.files": {
+		"message": "アイテム"
+	},
+	"myRecordings.details.selected": {
+		"message": "選択済み"
+	},
+	"myRecordings.details.total": {
+		"message": "合計"
+	},
+	"myRecordings.details.uploading": {
+		"message": "アップロード中　%percent%%完了"
+	},
+	"myRecordings.details.rename": {
+		"message": "リネーム"
+	},
+	"myRecordings.details.delete": {
+		"message": "ローカルビデオの削除"
+	},
+	"myRecordings.details.editSettings": {
+		"message": "設定の編集"
+	},
+	"myRecordings.details.link": {
+		"message": "リンク"
+	},
+	"myRecordings.details.open": {
+		"message": "リンク先に行く"
+	},
+	"myRecordings.details.copy": {
+		"message": "リンクをコピーする"
+	},
+	"myRecordings.details.deleteVideoFromYoutube": {
+		"message": "YouTubeからビデオを削除する"
+	},
+	"myRecordings.details.deleteVideoFromDailymotion": {
+		"message": "Dailymotionからビデオを削除する"
+	},
+	"myRecordings.details.filename.errors.FILE_ALREADY_EXISTS": {
+		"message": "既存のファイルと同じ名前です"
+	},
+	"myRecordings.details.filename.errors.INVALID_FILENAME": {
+		"message": "ファイル名への不正な使用文字"
+	},
+	"myRecordings.details.filename.hoverMessage": {
+		"message": "詳細設定は右クリックで出せます"
+	},
+	"myRecordings.youtube.error.upload": {
+		"message": "動画アップロード中にエラーがおこりました"
+	},
+	"myRecordings.youtube.error.tryAgain": {
+		"message": "もう一度行いますか？"
+	},
+	"myRecordings.youtube.error.cancel": {
+		"message": "キャンセル"
+	},
+	"myRecordings.youtube.link.copy": {
+		"message": "リンクのコピー"
+	},
+	"myRecordings.youtube.link.open": {
+		"message": "ブラウザで開く"
+	},
+	"myRecordings.youtube.privacy.unlisted": {
+		"message": "非公開"
+	},
+	"myRecordings.youtube.privacy.private": {
+		"message": "プライベート"
+	},
+	"myRecordings.youtube.privacy.public": {
+		"message": "パブリック"
+	},
+	"myRecordings.youtube.cancelUpload": {
+		"message": "アップロードをキャンセルしますか？"
+	},
+	"myRecordings.location.label": {
+		"message": "場所"
+	},
+	"myRecordings.location.open": {
+		"message": "フォルダを開く"
+	},
+	"uploadVideoDialog.dialogTitle": {
+		"message": "YouTubeへアップロード"
+	},
+	"uploadVideoDialog.edit": {
+		"message": "ビデオセッティングの編集"
+	},
+	"uploadVideoDialog.title": {
+		"message": "タイトル"
+	},
+	"uploadVideoDialog.description": {
+		"message": "解説"
+	},
+	"uploadVideoDialog.category": {
+		"message": "カテゴリー"
+	},
+	"uploadVideoDialog.categoryValues.Autos": {
+		"message": "自動車&乗り物"
+	},
+	"uploadVideoDialog.categoryValues.Comedy": {
+		"message": "コメディー"
+	},
+	"uploadVideoDialog.categoryValues.Education": {
+		"message": "教育"
+	},
+	"uploadVideoDialog.categoryValues.Entertainment": {
+		"message": "エンターテインメント"
+	},
+	"uploadVideoDialog.categoryValues.Film": {
+		"message": "映画&アニメ"
+	},
+	"uploadVideoDialog.categoryValues.Gaming": {
+		"message": "ゲーム"
+	},
+	"uploadVideoDialog.categoryValues.Howto": {
+		"message": "Howto & スタイル"
+	},
+	"uploadVideoDialog.categoryValues.Music": {
+		"message": "音楽"
+	},
+	"uploadVideoDialog.categoryValues.News": {
+		"message": "ニュース&政治"
+	},
+	"uploadVideoDialog.categoryValues.Nonprofit": {
+		"message": "非営利&活動"
+	},
+	"uploadVideoDialog.categoryValues.People": {
+		"message": "ブログ"
+	},
+	"uploadVideoDialog.categoryValues.Pets&Animals": {
+		"message": "ペット&動物"
+	},
+	"uploadVideoDialog.categoryValues.Tech": {
+		"message": "科学&テクノロジー"
+	},
+	"uploadVideoDialog.categoryValues.Sports": {
+		"message": "スポーツ"
+	},
+	"uploadVideoDialog.categoryValues.Travel": {
+		"message": "旅行&イベント"
+	},
+	"uploadVideoDialog.gameName": {
+		"message": "ゲーム名"
+	},
+	"uploadVideoDialog.tags.label": {
+		"message": "タグ"
+	},
+	"uploadVideoDialog.tags.tooltip": {
+		"message": "タグを区切るにはコンマを使用してください。テキストを編集するにはタグをダブルクリックしてください。"
+	},
+	"uploadVideoDialog.privacy": {
+		"message": "プライバシー"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Unlisted": {
+		"message": "非公開"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Private": {
+		"message": "プライベート"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Public": {
+		"message": "パブリック"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Private": {
+		"message": "プライベート"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Public": {
+		"message": "パブリック"
+	},
+	"uploadVideoDialog.applyClose": {
+		"message": "適応し閉じる"
+	},
+	"uploadVideoDialog.uploadNow": {
+		"message": "アップロードする"
+	},
+	"uploadVideoDialog.title-youtube": {
+		"message": "YouTubeへのビデオのアップロード"
+	},
+	"uploadVideoDialog.title-dailymotion": {
+		"message": "Dailymotionに動画をアップロードする"
+	},
+	"uploadVideoDialog.editVideo-youtube": {
+		"message": "YouTubeビデオセッティングの編集"
+	},
+	"uploadVideoDialog.cancel": {
+		"message": "キャンセル"
+	},
+	"uploadVideoDialog.allowEmbed": {
+		"message": "許可"
+	},
+	"uploadVideoDialog.embed.label": {
+		"message": "埋め込み"
+	},
+	"uploadVideoDialog.processing": {
+		"message": "処理中"
+	},
+	"uploadVideoDialog.uploadNotification": {
+		"message": "[今すぐアップロード]をクリックする事で、アップロードするコンテンツが[YouTube 利用規約](https://xspl.it/ox4uyd) (YouTubeコミュニティガイドライン含む)に基づいている物として認識します。著作権やプライバシーを侵害する物をアップロードしない様、お願い致します。"
+	},
+	"youtubeUpload.dialogTitle": {
+		"message": "YouTubeへアップロード"
+	},
+	"youtubeUpload.edit": {
+		"message": "ビデオセッティングの編集"
+	},
+	"youtubeUpload.title": {
+		"message": "タイトル"
+	},
+	"youtubeUpload.description": {
+		"message": "解説"
+	},
+	"youtubeUpload.category": {
+		"message": "カテゴリー"
+	},
+	"youtubeUpload.categoryValues.Autos": {
+		"message": "自動車&乗り物"
+	},
+	"youtubeUpload.categoryValues.Comedy": {
+		"message": "コメディー"
+	},
+	"youtubeUpload.categoryValues.Education": {
+		"message": "教育"
+	},
+	"youtubeUpload.categoryValues.Entertainment": {
+		"message": "エンターテインメント"
+	},
+	"youtubeUpload.categoryValues.Film": {
+		"message": "映画&アニメ"
+	},
+	"youtubeUpload.categoryValues.Gaming": {
+		"message": "ゲーム"
+	},
+	"youtubeUpload.categoryValues.Howto": {
+		"message": "Howto & スタイル"
+	},
+	"youtubeUpload.categoryValues.Music": {
+		"message": "音楽"
+	},
+	"youtubeUpload.categoryValues.News": {
+		"message": "ニュース&政治"
+	},
+	"youtubeUpload.categoryValues.Nonprofit": {
+		"message": "非営利&活動"
+	},
+	"youtubeUpload.categoryValues.People": {
+		"message": "ブログ"
+	},
+	"youtubeUpload.categoryValues.Pets&Animals": {
+		"message": "ペット&動物"
+	},
+	"youtubeUpload.categoryValues.Tech": {
+		"message": "科学&テクノロジー"
+	},
+	"youtubeUpload.categoryValues.Sports": {
+		"message": "スポーツ"
+	},
+	"youtubeUpload.categoryValues.Travel": {
+		"message": "旅行&イベント"
+	},
+	"youtubeUpload.tags.label": {
+		"message": "タグ"
+	},
+	"youtubeUpload.tags.tooltip": {
+		"message": "タグを分けるにはコンマを使用して下さい"
+	},
+	"youtubeUpload.privacy": {
+		"message": "プライバシー"
+	},
+	"youtubeUpload.privacyValues.Unlisted": {
+		"message": "非公開"
+	},
+	"youtubeUpload.privacyValues.Private": {
+		"message": "プライベート"
+	},
+	"youtubeUpload.privacyValues.Public": {
+		"message": "パブリック"
+	},
+	"youtubeUpload.applyClose": {
+		"message": "適応し閉じる"
+	},
+	"youtubeUpload.uploadNow": {
+		"message": "アップロードする"
+	},
+	"youtubeUpload.uploadVideo": {
+		"message": "YouTubeへのビデオのアップロード"
+	},
+	"youtubeUpload.editVideo": {
+		"message": "YouTubeビデオセッティングの編集"
+	},
+	"youtubeUpload.cancel": {
+		"message": "キャンセル"
+	},
+	"youtubeUpload.allowEmbed": {
+		"message": "許可"
+	},
+	"youtubeUpload.embed.label": {
+		"message": "埋め込み"
+	},
+	"youtubeUpload.processing": {
+		"message": "処理中"
+	},
+	"facebookShare.addMessage": {
+		"message": "ここにメッセージを入力して下さい"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "Facebookにビデオをシェアする"
+	},
+	"facebookShare.via": {
+		"message": "XSplit Broadcaster経由"
+	},
+	"facebookShare.privacy": {
+		"message": "プライバシー"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "パブリック"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "友人"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "友人の友人"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "自分だけ"
+	},
+	"facebookShare.shareVideo": {
+		"message": "共有"
+	},
+	"facebookShare.cancel": {
+		"message": "キャンセル"
+	},
+	"facebookShare.processing": {
+		"message": "処理中"
+	},
+	"facebookShare.postAs": {
+		"message": "投稿先"
+	},
+	"facebookShare.timeline": {
+		"message": "Facebookタイムライン"
+	},
+	"facebookShare.managePage": {
+		"message": "管理するページ"
+	},
+	"twitterShare.addMessage": {
+		"message": "ここにメッセージを入力して下さい"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "Twitterにビデオをシェアする"
+	},
+	"twitterShare.privacy": {
+		"message": "プライバシー"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "共有"
+	},
+	"twitterShare.cancel": {
+		"message": "キャンセル"
+	},
+	"twitterShare.processing": {
+		"message": "処理中"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "ここにメッセージを入力して下さい"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "Google+でビデオをシェアする"
+	},
+	"googlePlusShare.via": {
+		"message": "XSplit Broadcaster経由"
+	},
+	"googlePlusShare.privacy": {
+		"message": "プライバシー"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "全員"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "すべての友人"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "友人の友人"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "自分"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "共有"
+	},
+	"googlePlusShare.cancel": {
+		"message": "キャンセル"
+	},
+	"googlePlusShare.processing": {
+		"message": "処理中"
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "ビデオを共有する"
+	},
+	"vodShare.processing": {
+		"message": "処理中"
+	},
+	"vodShare.addLink": {
+		"message": "リンクを追加する"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "Facebookプライバシー"
+	},
+	"vodShare.gameCheckin": {
+		"message": "ゲームチェックイン"
+	},
+	"vodShare.gameCheckin.placeholder": {
+		"message": "ゲームチェックイン"
+	},
+	"vodShare.shareVideo": {
+		"message": "ビデオ共有"
+	},
+	"vodShare.cancel": {
+		"message": "キャンセル"
+	},
+	"vodShare.shareTo.1": {
+		"message": "%service1% にのみ共有する"
+	},
+	"vodShare.shareTo.2": {
+		"message": "%service1% と %service2% に共有する"
+	},
+	"vodShare.shareTo.3": {
+		"message": "%service1%と%service2%と%service3% に共有する"
+	},
+	"vodShare.shareTo.4": {
+		"message": "%service1%と%service2%と%service3%と%service4% に共有する"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "TWITTERメッセージカウンター"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "Twitterに投稿できるのこり文字数を計算します。青色のテキストがメッセージ内表示され、このテキストのみTwitterに投稿されます。"
+	},
+	"vodShare.gameNameWarning": {
+		"message": "Player.meのデータベースに入力されたゲーム名は存在しません。その為、投稿にゲーム名は表示されません。"
+	},
+	"vodShare.loadMore": {
+		"message": "さらに読み込む..."
+	},
+	"vodStatus.title": {
+		"message": "ステータスを共有"
+	},
+	"vodStatus.facebook": {
+		"message": "Facebook"
+	},
+	"vodStatus.twitter": {
+		"message": "Twitter"
+	},
+	"vodStatus.playerme": {
+		"message": "Player.me"
+	},
+	"vodStatus.gplus": {
+		"message": "Google Plus"
+	},
+	"vodStatus.posting": {
+		"message": "%social%に投稿中..."
+	},
+	"vodStatus.success": {
+		"message": "正常に%social%へ投稿しました。[br][%message%](%url%)"
+	},
+	"vodStatus.message.facebook": {
+		"message": "投稿を表示する"
+	},
+	"vodStatus.message.twitter": {
+		"message": "ツイートを表示する"
+	},
+	"vodStatus.message.playerme": {
+		"message": "投稿を表示する"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "詳細を表示する"
+	},
+	"vodStatus.error": {
+		"message": "%social%の投稿に失敗しました。"
+	},
+	"vodStatus.failed": {
+		"message": "%social%の投稿に失敗しました。[br][%message%](%url%)"
+	},
+	"vodStatus.invalid": {
+		"message": "%social%に投稿できません。"
+	},
+	"vodStatus.edit": {
+		"message": "編集する"
+	},
+	"vodStatus.retry": {
+		"message": "リトライ"
+	},
+	"dialog.ok": {
+		"message": "閉じる"
+	},
+	"myRecordings.shareupload.loading": {
+		"message": "YouTubeに接続... [br]ブラウザでYouTubeをXSplitに繋げる設定の続きを行ってください。"
+	},
+	"growl.yes": {
+		"message": "はい"
+	},
+	"growl.no": {
+		"message": "いいえ"
+	},
+	"growl.error": {
+		"message": "エラー"
+	},
+	"growl.info": {
+		"message": "info"
+	},
+	"growl.warning": {
+		"message": "Warning"
+	},
+	"growl.question": {
+		"message": "質問"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.title": {
+		"message": "認証エラー",
+		"type": "error"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.message": {
+		"message": "制限単語を含むため入力されたファイル名は使用できません。Windowsによる制限単語はフォルダ名とファイルには使用できません。"
+	},
+	"growl.messages.BLANK_FILENAME.title": {
+		"message": "認証エラー",
+		"type": "error"
+	},
+	"growl.messages.BLANK_FILENAME.message": {
+		"message": "ファイル名は空白に出来ません"
+	},
+	"growl.messages.INVALID_FILENAME.title": {
+		"message": "認証エラー",
+		"type": "error"
+	},
+	"growl.messages.INVALID_FILENAME.message": {
+		"message": "ファイル名には以下の記号\\ / : * ? \" < > |は使用できません "
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.title": {
+		"message": "認証エラー",
+		"type": "error"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.message": {
+		"message": "そのファイル名は既に存在しています"
+	},
+	"growl.messages.TOO_LONG_FILENAME.title": {
+		"message": "コピー先のパスが長すぎます",
+		"type": "error"
+	},
+	"growl.messages.TOO_LONG_FILENAME.message": {
+		"message": "ファイルパスが長すぎます。ファイル名を短くして下さい"
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.title": {
+		"message": "認証エラー",
+		"type": "error"
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.message": {
+		"message": "ファイルがロックされているか使用されています"
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.title": {
+		"message": "ビデオのリンクが必要です",
+		"type": "warning"
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.message": {
+		"message": "動画リンクをSNSで共有する前に、まずYouTubeボタンをクリックし動画をYouTubeにアップロードしてください。"
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.title": {
+		"message": "Twitterに共有できません。",
+		"type": "error"
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.message": {
+		"message": "Twitterに投稿できる最大文字数を超えました。Twitterには投稿されませんが、Facebookには投稿する事ができます可能性があります。"
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.title": {
+		"message": "Twitterに共有できません。",
+		"type": "error"
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.message": {
+		"message": "画像がツイート最大要領の３MBを超えております。"
+	},
+	"myScreenshots.emptyMessage": {
+		"message": "空白です"
+	},
+	"myScreenshots.watchTutorial": {
+		"message": "[チュートリアル](https://xspl.it/bc/tutorials)を見てもっと学ぼう！"
+	},
+	"myRecordings.title": {
+		"message": "レコーディング"
+	},
+	"myRecordings.emptyFileLocation": {
+		"message": "あなたの巣晴らし放送を記録し、動画共有サービスにアップロードし、世界中に届けよう！"
+	},
+	"imgShare.unauthorized": {
+		"message": "放送を共有する前に、上部のアイコンをクリックし、少なくとも一つのSNSアカウントを承認する必要があります。"
+	},
+	"imgShare.shareImageTitle": {
+		"message": "画像を共有する"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "提案を検索中..."
+	},
+	"myScreenshots.title": {
+		"message": "スクリーンショット"
+	},
+	"myScreenshots.processing": {
+		"message": "スクリーンショットを読み込んでいます..."
+	},
+	"myScreenshots.details.takenon": {
+		"message": "撮影された所"
+	},
+	"myScreenshots.emptyFileLocation": {
+		"message": "スクリーンショットホットキー（ツール→セッティング→ホットキー）を使用してシーンのスクリーンショット取り、画像を共有しよう！"
+	}
+}

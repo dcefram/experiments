@@ -1,0 +1,65 @@
+{
+  "video_playlist.audio_output": {
+    "message": "Audio Output"
+  },
+  "video_playlist.playback": {
+    "message": "Playback"
+  },
+  "video_playlist.when_finished": {
+    "message": "When finished"
+  },
+  "video_playlist.start_on_load": {
+    "message": "Play on scene enter"
+  },
+  "video_playlist.remember_playback_position": {
+    "message": "Remember playback position"
+  },
+  "video_playlist.show_playback_position": {
+    "message": "Show playback position in videos"
+  },
+  "video_playlist.start_at": {
+    "message": "Start at"
+  },
+  "video_playlist.set": {
+    "message": "Set"
+  },
+  "video_playlist.end_at": {
+    "message": "End at"
+  },
+  "video_playlist.reset": {
+    "message": "Reset"
+  },
+  "video_playlist.force_deinterlace": {
+    "message": "Force deinterlace"
+  },
+  "video_playlist.videos": {
+    "message": "Videos"
+  },
+  "video_playlist.playlist": {
+    "message": "PLAYLIST"
+  },
+  "video_playlist.add": {
+    "message": "Add"
+  },
+  "video_playlist.remove": {
+    "message": "Remove"
+  },
+  "video_playlist.ok": {
+    "message": "Ok"
+  },
+  "video_playlist.cancel": {
+    "message": "Cancel"
+  },
+  "video_playlist.hint.videos_section": {
+    "message": "Add, remove and order videos"
+  },
+  "video_playlist.hint.video_playback_section": {
+    "message": "Control playback, set video volume, and set audio output device."
+  },
+  "video_playlist.hint.video_missing": {
+    "message": "The source file is missing. It may have been renamed or deleted."
+  },
+  "video_playlist.processing": {
+    "message": "Processing videos..."
+  }
+}

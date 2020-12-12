@@ -1,0 +1,62 @@
+{
+	"youtube.html.tabheader": {
+		"message": "Chat"
+	},
+	"youtube.html.source": {
+		"message": "Quelle"
+	},
+	"youtube.html.account": {
+		"message": "Konto"
+	},
+	"youtube.html.preview": {
+		"message": "Vorschau"
+	},
+	"youtube.html.not_connected": {
+		"message": "Nicht verbunden"
+	},
+	"youtube.html.connected": {
+		"message": "Verbunden"
+	},
+	"youtube.html.error_channel_not_found": {
+		"message": "Bitte geben Sie eine gültige Video-ID ein."
+	},
+	"youtube.html.display": {
+		"message": "Anzeige"
+	},
+	"youtube.html.chat_box": {
+		"message": "Chat-Box"
+	},
+	"youtube.html.opacity": {
+		"message": "Deckkraft"
+	},
+	"youtube.html.viewers": {
+		"message": "Zuschauer"
+	},
+	"youtube.html.message": {
+		"message": "Nachricht"
+	},
+	"youtube.html.text_size": {
+		"message": "Textgröße"
+	},
+	"youtube.html.hide_user_icons": {
+		"message": "Benutzer-Symbole verstecken"
+	},
+	"youtube.html.hide_timestamps": {
+		"message": "Zeitstempel verstecken"
+	},
+	"youtube.html.hide_on_idle": {
+		"message": "Chat im Leerlauf ausblenden, wenn Abwesend seit"
+	},
+	"youtube.html.video_id": {
+		"message": "Video-ID"
+	},
+	"youtube.html.video_id_help": {
+		"message": "Um die ID Ihres YouTube Live-Videos in Ihrem Browser anzuzeigen, klicken Sie mit der rechten Maustaste auf das Video und wählen 'Video-URL kopieren'. Kopieren Sie die Zeichen des letzten Teils der Video-URL."
+	},
+	"youtube.html.connect": {
+		"message": "Verbinden"
+	},
+	"youtube.html.disconnect": {
+		"message": "Trennen"
+	}
+}

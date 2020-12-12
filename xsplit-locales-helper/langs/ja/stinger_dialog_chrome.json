@@ -1,0 +1,17 @@
+{
+    "stinger.title": {
+        "message": "スティンガーの名前や切り替えポイントを編集する"
+    },
+    "stinger.name": {
+        "message": "スティンガー名"
+    },
+    "stinger.transition": {
+        "message": "切り替えポイント (ms)"
+    },
+    "button.ok": {
+        "message": "OK"
+    },
+    "button.cancel": {
+        "message": "キャンセル"
+    }
+}

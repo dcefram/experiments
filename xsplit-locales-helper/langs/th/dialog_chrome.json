@@ -1,0 +1,1176 @@
+{
+  "messageDialog.okButton": {
+    "message": "ตกลง"
+  },
+  "messageDialog.yesButton": {
+    "message": "ใช่"
+  },
+  "messageDialog.noButton": {
+    "message": "ไม่"
+  },
+  "messageDialog.helpButton": {
+    "message": "ช่วยเหลือ"
+  },
+  "messageDialog.cancelButton": {
+    "message": "ยกเลิก"
+  },
+  "messageDialog.abortButton": {
+    "message": "ยกเลิก"
+  },
+  "messageDialog.retryButton": {
+    "message": "ลองใหม่อีกครั้ง"
+  },
+  "messageDialog.ignoreButton": {
+    "message": "ละเว้น"
+  },
+  "messageDialog.copyButton": {
+    "message": "คัดลอกลิงก์"
+  },
+  "messageDialog.error": {
+    "message": "ข้อผิดพลาด"
+  },
+  "messageDialog.question": {
+    "message": "การยืนยัน"
+  },
+  "messageDialog.info": {
+    "message": "ข้อมูล"
+  },
+  "messageDialog.warning": {
+    "message": "คำเตือน"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_GOOGLE_PLUS.title": {
+    "message": "โพสลงบน Google+ สำเร็จ"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_GOOGLE_PLUS.message": {
+    "message": "โพสลงบน Google+ สำเร็จ[br][%url%](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_FACEBOOK.title": {
+    "message": "โพสลงบน Facebook สำเร็จ"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_FACEBOOK.message": {
+    "message": "โพสลงบน Facebook สำเร็จ [br][ดูโพส](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_TWITTER.title": {
+    "message": "โพสลงบน Twitter สำเร็จ"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_TWITTER.message": {
+    "message": "โพสลงบน Twitter สำเร็จ [br][ดูทวีต](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_SENT_MESSAGE_ON_TWITTER.title": {
+    "message": "โพสลงบน Twitter สำเร็จ"
+  },
+  "messageDialog.messages.SUCCESSFULLY_SENT_MESSAGE_ON_TWITTER.message": {
+    "message": "โพสลงบน Twitter สำเร็จ",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_PLAYERME.title": {
+    "message": "โพสลงบน Player.me สำเร็จ"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_PLAYERME.message": {
+    "message": "โพสลงบน Player.me สำเร็จ [br][ดูโพส](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhileStreaming.title": {
+    "message": "XSplit\n\nproduct name\nXSplit"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhileStreaming.message": {
+    "message": "คุณไม่สามารถทดสอบแบนด์วิดท์ได้ในขนาดที่สตรีมมิ่งหรือทำการบันทึก",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAacLicenseOffer.title": {
+    "message": "XSplit\n\nproduct name\nXSplit"
+  },
+  "messageDialog.messages.msgAacLicenseOffer.message": {
+    "message": "การสนับสนุน AAC LC จะสามารถใช้ได้กับผู้ใช้ที่มีสิทธิ์การใช้งานเท่านั้น[br][br]คุณจะซื้อสิทธิ์การใช้งานตอนนี้หรือไม่",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver.title": {
+    "message": "XSplit\n\nproduct name\nXSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver.message": {
+    "message": "เมื่อคุณมีการ์ดแคปเจอร์ AVerMedia c985 Live Gamer ในเครื่องเวิร์กสเตชั่นของคุณ XSplit สามารถที่จะใช้มันเพื่อทำการเข้ารหัสด้วยฮาร์ดแวร์ได้แล้ว คุณสมบัตินี่ สามารถใช้ได้โดยผู้ใช้ที่มีสิทธิ์การใช้งานแบบพรีเมี่ยมเท่านั้น โปรดพิจารณาอัพเกรดสิทธิ์การใช้งานปัจจุบันเป็นแบบพรีเมี่ยม[br][br]อัพเกรดสิทธิ์การใช้งานตอนนี้?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver1.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver1.message": {
+    "message": "สิทธิ์การใช้งานของคุณไม่อนุญาตให้ใช้ คุณสมบัติการเข้ารหัสของ AVerMedia c985 Live Gamer XSplit จะสลับไปใช้งานการเข้ารหัสเริ่มต้นแบบ X264",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qs.title": {
+    "message": "XSplit\n\nproduct name\nXSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qs.message": {
+    "message": "การเข้ารหัสแบบ QuickSync สามารถใช้งานได้กับสิทธิ์ผู้ใช้ %licensetype% เท่านั้น โปรดพิจารณาอัพเกรดสิทธิ์การใช้งานปัจจุบันของคุณ[br][br]อัพเกรดสิทธิ์การใช้งานตอนนี้?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qsext.title": {
+    "message": "XSplit\n\nproduct name\nXSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qsext.message": {
+    "message": "การเข้ารหัสแบบ QuickSync สามารถใช้งานได้กับสิทธิ์ผู้ใช้ %licensetype% เท่านั้น โปรดพิจารณาอัพเกรดสิทธิ์การใช้งานปัจจุบันของคุณ[br][br]อัพเกรดสิทธิ์การใช้งานตอนนี้?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_AAC.title": {
+    "message": "XSplit\n\nproduct name\nXSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_AAC.message": {
+    "message": "การเปิดใช้งานเสียง AAC แบบคุณภาพสูงนั้นสามารถทำได้โดยผู้ใช้ที่มีสิทธิ์การใช้งานเท่านั้น [br][br]อัพเกรดสิทธิ์การใช้งานตอนนี้?",
+    "type": "question"
+  },
+  "messageDialog.messages.UsernameIsEmpty.message": {
+    "message": "ต้องระบุชื่อผู้ใช้",
+    "type": "warning"
+  },
+  "messageDialog.messages.PasswordIsEmpty.message": {
+    "message": "ต้องระบุรหัสผ่าน",
+    "type": "warning"
+  },
+  "messageDialog.messages.StreamChannelIsEmpty.message": {
+    "message": "แชนแนลของคุณยังไม่พร้อมใช้งาน โปรดแน่ใจว่าคุณได้ป้อนข้อมูลต่างๆ และตั้งค่าของแชนแนลได้อย่างถูกต้อง ในเวปไซต์ของ %service%",
+    "type": "warning"
+  },
+  "messageDialog.messages.UsernameIsUnknown.message": {
+    "message": "ไม่ทราบชื่อผู้ใช้นี้",
+    "type": "warning"
+  },
+  "messageDialog.messages.InvalidChannelCredentials.message": {
+    "message": "เกิดปัญหาขึ้นระหว่างการรับรองความถูกต้องของตัวตน โปรดตรวจสอบชื่อผู้ใช้และรหัสผ่านว่าถูกต้อง และเน็ตเวิร์คของคุณใช้งานได้",
+    "type": "warning"
+  },
+  "messageDialog.messages.PresetDoesNotExist.message": {
+    "message": "ไม่พบ การตั้งค่าล่วงหน้า %preset%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow.message": {
+    "message": "อัตราบิตเรตสูงสุดต้องไม่ต่ำกว่า %bitrate% kpbs",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow_VBR.message": {
+    "message": "อัตราบิตเรตสูงสุดต้องไม่ต่ำกว่า %bitrate% kpbs",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow_CBR.message": {
+    "message": "บิตเรตต้องไม่ต่ำกว่า %bitrate% kbps",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSaveBeforeCloseConfirmation.message": {
+    "message": "คุณต้องการเซฟการเปลี่ยนแปลงก่อนปิดกล่องข้อความนี้หรือไม่?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgDefaultStageResolutionWarning AVerMedia H.264 Encoder.message": {
+    "message": "การตั้งค่านี้ จะไม่ถูกบันทึกไว้ในบัญชีของคุณ คุณจำเป็นต้องตั้งค่าใหม่ทุกครั้งที่ทำการล็อกอิน",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDefaultStageResolutionWarning.message": {
+    "message": "เมื่อตั้งความละเอียดของบางสตรีมไปที่ความละเอียดที่ต่ำกว่าความละเอียดปัจจุบัน เป็นไปได้ที่จะสามารถสตรีมได้ในหลายความละเอียดพร้อมกัน[br][br]คุณสามารถสตรีมหลักอันหนึงเป็นความละเอียดที่ค่าเริ่มต้นและสตรีมอื่นๆ บังคับให้เป็นความละเอียดที่ต่ำกว่าได้[br][br]การตั้งค่านี้ จะไม่ถูกบันทึกไว้ในบัญชีของคุณ คุณจำเป็นต้องตั้งค่าใหม่ทุกครั้งที่ทำการล็อกอิน",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgChannelResolutionLicenseOffer.message": {
+    "message": "การตั้งค่าความละเอียดแชนแนลเอ้าเอาต์พุตสามารถทำได้โดยผู้ใช้ที่มีสิทธิ์การใช้งานเท่านั้น[br][br]คุณจะซื้อสิทธิ์การใช้งานตอนนี้หรือไม่",
+    "type": "question"
+  },
+  "messageDialog.messages.LivestreamUrlIsEmpty.title": {
+    "message": "เพิ่มเติม กล้องไอพี/สตรีม RTSP"
+  },
+  "messageDialog.messages.LivestreamUrlIsEmpty.message": {
+    "message": "โปรดระบุ URL",
+    "type": "warning"
+  },
+  "messageDialog.messages.LivestreamUrlIsInvalid.title": {
+    "message": "เพิ่มเติม กล้องไอพี/สตรีม RTSP"
+  },
+  "messageDialog.messages.LivestreamUrlIsInvalid.message": {
+    "message": "URL ไม่ถูกต้อง",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhenAlreadyStreaming.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhenAlreadyStreaming.message": {
+    "message": "ไม่สามารถทดสอบแบนด์วิดในขณะที่สตรีมได้",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgErrorSavingSettings.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.msgErrorSavingSettings.message": {
+    "message": "พบปัญหาในขณะที่กำลังพยายามบันทึกการตั้งค่า",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCreateYouTubeChannel.title": {
+    "message": "สร้างแชนแนล Youtube?"
+  },
+  "messageDialog.messages.msgCreateYouTubeChannel.message": {
+    "message": "คุณได้ลงชื่อเข้าใช้ Youtube แล้วแต่ยังไม่มีแชนแนล คุณต้องการสร้างแชนแนลเดี๋ยวนี้หรือไม่",
+    "type": "question"
+  },
+  "messageDialog.messages.msgEnsureNotSuspended.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgEnsureNotSuspended.message": {
+    "message": "ไม่สามารถเข้าถึงข้อมูลของบัญชีอย่างถูกต้องได้ โปรดแน่ใจว่าบัญชีของท่านไม่ได้ถูกระงับ",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGamesourceBuyXSplitOffer.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgGamesourceBuyXSplitOffer.message": {
+    "message": "XSplit Game Source จะอนุญาตให้ผู้ใช้แคปเจอร์ เกม DirectX หรือ OpenGL ได้โดยตรงโดยไม่ต้องใช้การจับหน้าจอ[br] ฟีเจอร์นี้สามารถใช้ได้กับผู้ใช้ที่มีสิทธิ์การใช้งานเท่านั้น[br][br] กดตกลงเพื่อรับสิทธิ์การใช้งาน XSplit ของคุณเพื่อที่จะได้แคปเจอร์ Playback ของ Media player หรือวิดีโอเกมโดยตรง",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUsernameIsInvalid.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.msgUsernameIsInvalid.message": {
+    "message": "ชื่อผู้ใช้ที่ถูกระบุไว้ในแท็ปโปรไฟล์จะต้องมีอย่างน้อย 4 ตัวอักษร(ตัวอักษร ตัวเลข จุด ขีด)",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidScreenName.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.msgInvalidScreenName.message": {
+    "message": "ชื่อผู้ใข้ไม่ถูกต้อง สามารถใช้ได้เพียงตัวอักษร ขีด (-) และจุด (.) เท่านั้น การสนับสนุนตัวอักษรแบบอื่นๆ นั้นกำลังอยู่ในขั้นเตรียมการ ขีดและจุดห้ามเป็นตัวสุดท้ายในชื่อผู้ใช้",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation5.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.msgRegistrationValidation5.message": {
+    "message": "วันเกิดที่ระบุในแท็ปโปรไฟล์ไม่ถูกต้อง",
+    "type": "warning"
+  },
+  "messageDialog.messages.FeatureIsNotSupportedByOS.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.FeatureIsNotSupportedByOS.message": {
+    "message": "ระบบปฏิบัติการที่คุณใช้ไม่สนับสนุนตัวเลือกนี้",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDisallowDisableAeroTheme.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.msgDisallowDisableAeroTheme.message": {
+    "message": "ใน Windows 7 และ Vista หน้าต่างที่ซ้อนอยู่จะถูกแคปเจอร์เสมอถ้าเปิดการใช้งานธีม Aero การไม่อนุญาตให้ XSplit ทำการปิดธีม Aero อาจจะทำให้การแคปเจอร์หน้าจอ ในตัวเลือกการแคปเจอร์ซอส ได้ผลไม่เป็นไปตามที่ต้องการได้[br][br]ดำเนินการต่อ?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgVideoUploading.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.msgVideoUploading.message": {
+    "message": "ไม่สามารถดำเนินการได้ขณะกำลังอัพโหลดวิดีโอ โปรดลองใหม่อีกครั้งภายหลัง",
+    "type": "error"
+  },
+  "messageDialog.messages.MicIsStereoMixCapable.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.MicIsStereoMixCapable.message": {
+    "message": "ไมโครโฟนที่คุณเลือกไว้อาจจะสามารถจับเสียงเอาต์พุตของลำโพงได้อยู่แล้ว ซึ่งอาจจะทำให้เสียงเกิดปัญหาขณะที่คุณกำลังบรอดแคสต์ได้ ถ้าปัญหานี้เกิดขึ้น โปรดปิดเสียงลำโพงใน Broadcaster",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSaveAV_Failed.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.msgSaveAV_Failed.message": {
+    "message": "ไม่สามารถเซฟการตั้งค่าของ เสียง/วิดีโอ ได้",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRegistrationValidation1.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.msgRegistrationValidation1.message": {
+    "message": "คำขอการเปลี่ยนชื่อผู้ใช้ก่อนหน้านี้ของคุณถูกปฏิเสธเนื่องจากชื่อผู้ใช้ที่คุณระบุเป็นค่าว่าง",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation7.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.msgRegistrationValidation7.message": {
+    "message": "จำเป็นต้องกรอกในช่องป้อนชื่อเต็ม",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation9.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.msgRegistrationValidation9.message": {
+    "message": "จำเป็นต้องกรอกในช่องป้อนชื่อประเทศ",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation4.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.msgRegistrationValidation4.message": {
+    "message": "โปรดเลือกวันที่ก่อนหน้าวันนี้สำหรับวันที่เป็นวันเกิดของคุณ",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSettingsValidation7.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.msgSettingsValidation7.message": {
+    "message": "การตั้งค่าของคุณไม่ถูกต้อง",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSettingsSaved_SyncFailed.title": {
+    "message": "XSplit Broadcaster - การตั้งค่าทั่วไป"
+  },
+  "messageDialog.messages.msgSettingsSaved_SyncFailed.message": {
+    "message": "ตรวจสอบพบความผิดพลาดในการผสานข้อมูลของคุณกับเซิร์ฟเวอร์ %serverResponse% การตั้งค่าของคุณจะถูกเซฟในเครื่องนี้เท่านั้น",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDuplicateUsername.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgDuplicateUsername.message": {
+    "message": "คำขอการเปลี่ยนชื่อผู้ใช้ก่อนหน้านี้ของคุณถูกปฏิเสธเนื่องจากชื่อผู้ใช้ที่คุณระบุได้ถูกใช้ไปแล้ว",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgProfileSyncFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgProfileSyncFailed.message": {
+    "message": "คุณถูกปฏิเสธคำขอของคุณในการตั้งค่าโพรไฟล์ก่อนหน้านี้[br][br]%exception%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCurrentResolutionIsNotSupported3.title": {
+    "message": "ความละเอียดแบบกำหนดเอง"
+  },
+  "messageDialog.messages.msgCurrentResolutionIsNotSupported3.message": {
+    "message": "XSplit ไม่สนับสนุนความละเอียดทีต่ำกว่า %resolution% พิกเซล",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgShareFailed.title": {
+    "message": "แชร์ล้มเหลว"
+  },
+  "messageDialog.messages.msgShareFailed.message": {
+    "message": "สตรีมของคุณยังไม่ได้ถูกโพสบน %service%[br][br]%reason%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgNoNetHasLocal.title": {
+    "message": "เข้าสู่ระบบ"
+  },
+  "messageDialog.messages.msgNoNetHasLocal.message": {
+    "message": "ใช้ไม่พบการเชื่อมต่ออินเทอร์เน็ต คุณจะยังคงสามารถเข้าสู่ระบบ แต่บางฟังก์ชันที่ต้องการเชื่อมต่ออินเทอร์เน็ตอาจไม่ทำงาน",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSrvFailedHasLocal.title": {
+    "message": "เข้าสู่ระบบ"
+  },
+  "messageDialog.messages.msgSrvFailedHasLocal.message": {
+    "message": "Xsplit ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ของ XSplit ได้ XSplit จะดำเนินการเข้าสู่ระบบในโหมดออฟไลน์ ซึ่งจะอนุญาตให้คุณใช้ฟังก์ชั่นส่วนใหญ่ที่ไม่ต้องการ การเชื่อมต่อโดยตรงกับเซิร์ฟเวอร์ของ XSplit",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSrvFailedNoLocal.title": {
+    "message": "เข้าสู่ระบบ"
+  },
+  "messageDialog.messages.msgSrvFailedNoLocal.message": {
+    "message": "Xsplit ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ของ XSplit ได้ จำเป็นต้องเชื่อมต่อไปยังเซิร์ฟเวอร์ของ XSplit ในขณะที่กำลังเข้าสู่ระบบเป็นครั้งแรกบนคอมพิวเตอร์เครื่องนี้",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLoginToServerException.title": {
+    "message": "XSplit\n\nproduct name\nXSplit"
+  },
+  "messageDialog.messages.msgLoginToServerException.message": {
+    "message": "ขออภัยคุณต้องออนไลน์เพื่อลงชื่อเข้าใช้ XSplit",
+    "type": "info"
+  },
+  "messageDialog.messages.msgLoginToServerException1.message": {
+    "message": "ขออภัย รหัสผ่านของคุณไม่ถูกต้องบนคอมพิวเตอร์เครื่องนี้ โปรดลองป้อนรหัสผ่านใหม่อีกครั้ง คุณอาจจะได้ทำการเปลี่ยนรหัสผ่านสำหรับบัญชีนี้บนเครื่องคอมพิวเตอร์อื่นหรือออนไลน์ ในกรณีนี้เราขอให้คุณมั่นใจว่าคุณได้ทำการเชื่อมต่ออินเตอร์เน็ตแล้วแอพพลิเคชั่นจึงจะสามารถแน่ใจได้ว่ารหัสผ่านของคุณได้มีการซิงค์แล้วกับเซิร์ฟเวอร์ของ XSplit",
+    "type": "info"
+  },
+  "messageDialog.messages.activationReminderText.title": {
+    "message": "การแจ้งเตือน"
+  },
+  "messageDialog.messages.activationReminderText.message": {
+    "message": "อย่าลืมเเปิดการใช้งานบัญชีของคุณ อีเมล์ที่มีลิงก์สำหรับการเปิดใช้งานบัญชีของคุณถูกส่งไปที่บัญชีอีเมล์ของคุณแล้ว[br][br]คุณต้องการให้เราส่งลิงก์สำหรับเปิดการใช้งานไปอีกครั้งหรือไม่?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgUpdateCheckNone.title": {
+    "message": "XSplit\n\nproduct name\nXSplit"
+  },
+  "messageDialog.messages.msgUpdateCheckNone.message": {
+    "message": "ไม่พบการอัพเดท โปรดลงชื่อเข้าใช้บัญชีของคุณ",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedPlugins.title": {
+    "message": "XSplit\n\nproduct name\nXSplit"
+  },
+  "messageDialog.messages.msgUpdatedPlugins.message": {
+    "message": "XSplit ได้พบว่าปลั๊กอินที่มีอัพเดทพร้อมแล้ว:[br][br]%pluginlist%[br][br]กดตกลงเพื่อที่จะติดตั้งปลั๊กอินอัพเดท",
+    "type": "question"
+  },
+  "messageDialog.messages.msgAddinInstallationFailed.title": {
+    "message": "XSplit\n\nproduct name\nXSplit"
+  },
+  "messageDialog.messages.msgAddinInstallationFailed.message": {
+    "message": "การติดตั้งปลั๊กอินจบก่อนกำหนด โปรดรีสตาร์ท XSplit เพื่อหลีกเลี่ยงการทำงานที่ผิดพลาด[br][br]XSplit จะปิดตัวลงตอนนี้",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAddinInstallRestartFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgAddinInstallRestartFailed.message": {
+    "message": "ไม่สามารถรีสตาร์ท XSplit ได้ โปรดเปิด Task Manager และกดจบการทำงานของ XSplit ถ้าพบว่ายังมีการทำงานอยู่",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdateCheckFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgUpdateCheckFailed.message": {
+    "message": "ไม่พบการอัพเดท โปรแกรมจะลองใหม่อีกครั้งเมื่อมีการลงชื่อเข้าใช้ครั้งหน้า",
+    "type": "warning"
+  },
+  "messageDialog.messages.FailureCreatingNonExistingFolder.title": {
+    "message": "XSplit\n\nproduct name\nXSplit"
+  },
+  "messageDialog.messages.FailureCreatingNonExistingFolder.message": {
+    "message": "ไม่สามารถสร้าโฟลเดอร์ %folder% %exception%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAddinLoadedFromPreviousSession.title": {
+    "message": "XSplit\n\nproduct name\nXSplit"
+  },
+  "messageDialog.messages.msgAddinLoadedFromPreviousSession.message": {
+    "message": "ปลั๊กอินบางตัวที่ถูกโหลดไว้แล้วในเซสชั่นปัจจุบันของ XSplit ไม่สามารถใช้งานได้ในบัญชีของคุณ เพื่อที่จะโหลดปลั๊กอินที่มีอยู่ในบัญชีของคุณอีกครั้ง คุณต้องรีสตาร์ท XSplit",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgD3DGearInstalled.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgD3DGearInstalled.message": {
+    "message": "ขณะนี้คุณมี D3DGear ติดตั้งไว้ในระบบของคุณ XSplit ไม่สามารถเริ่มต้นได้ ในขณะที่มีแอพพลิเคชั่นนี้ติดตั้งไว้",
+    "type": "error"
+  },
+  "messageDialog.messages.msgD3DGearRunning.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgD3DGearRunning.message": {
+    "message": "คุณกำลังใช้งาน D3DGear XSplit ไม่สามารถเริ่มต้นได้ขณะที่นี้กำลังทำงาน โดยทั่วไปเราไม่แนะนำให้เรียกใช้งานแอพพลิเคชั่นอื่นที่ทำการแคปเจอร์เกมในเวลาเดียวกับที่คุณใช้งาน XSplit",
+    "type": "error"
+  },
+  "messageDialog.messages.NicoProps.UsernameIsEmpty.title": {
+    "message": "Niconico"
+  },
+  "messageDialog.messages.NicoProps.UsernameIsEmpty.message": {
+    "message": "ต้องระบุอีเมล์",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.StreamChannelIsEmpty.title": {
+    "message": "คุณสมบัติของ Twitch"
+  },
+  "messageDialog.messages.frmTwitchProps.StreamChannelIsEmpty.message": {
+    "message": "แชนแนลของคุณยังไม่พร้อมใช้งาน หรือมีรหัสผ่านป้องกันไว้ โปรดแน่ใจว่าป้อนข้อมูลทุกอย่างได้อย่างถูกต้อง ไม่มีรหัสผ่านและตั้งค่าทุกอย่างได้อย่างถูกต้องในเวปไซต์ของ Twitch",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmFc2.StreamChannelIsEmpty.title": {
+    "message": "คุณสมบัติ FC2 Live"
+  },
+  "messageDialog.messages.frmFc2.StreamChannelIsEmpty.message": {
+    "message": "แชนแนลของคุณยังไม่พร้อมใช้งาน โปรดแน่ใจว่าคุณได้เพิ่มบริการ FC2 Live บนบัญชีของคุณแล้ว",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustinTVProps.StreamChannelIsEmpty.title": {
+    "message": "คุณสมบัติ Justin.tv"
+  },
+  "messageDialog.messages.frmJustinTVProps.StreamChannelIsEmpty.message": {
+    "message": "แชนแนลของคุณยังไม่พร้อมใช้งาน หรือมีรหัสผ่านป้องกันไว้ โปรดแน่ใจว่าป้อนข้อมูลทุกอย่างได้อย่างถูกต้อง ไม่มีรหัสผ่านและตั้งค่าทุกอย่างได้อย่างถูกต้องในเวปไซต์ของ Twitch",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmhitboxProps.StreamChannelIsEmpty.title": {
+    "message": "Hitbox"
+  },
+  "messageDialog.messages.frmhitboxProps.StreamChannelIsEmpty.message": {
+    "message": "แชนแนลของคุณยังไม่พร้อมใช้งาน หรือมีรหัสผ่านป้องกันไว้ โปรดแน่ใจว่าตั้งค่าไลฟ์สตรีมได้อย่างถูกต้อง และแชนแนลของคุณไม่มี สตรีมคีย์/ต้องขออนุญาต และคุณได้ตั้งค่าทุกอย่างได้อย่างถูกต้องแล้วที่เวปไซต์ของ Hitbox",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmhitboxProps.UsernameAndPasswordMismatch.title": {
+    "message": "Hitbox"
+  },
+  "messageDialog.messages.frmhitboxProps.UsernameAndPasswordMismatch.message": {
+    "message": "ชื่อผู้ใช้และรหัสผ่านไม่ตรงกัน",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidUsername.title": {
+    "message": "คุณสมบัติของ Twitch"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidUsername.message": {
+    "message": "ต้องระบุชื่อผู้ใช้ของ Twitch ให้ถูกต้อง ชื่อผู้ใช้จะถูกใช้ในการตั้งชื่อแชนแนลและการแชร์ลิงก์",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAuthorizeAccountFirst.message": {
+    "message": "โปรดอนุญาตการใช้บัญชีเป็นครั้งแรกก่อน",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgConfirmAccountDeauthorization.message": {
+    "message": "การเลือกตัวเลือกนี้จะเป็นการยกเลิกการอนุญาตบัญชีตัวปัจจุบัน",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_StartStream.message": {
+    "message": "%service% ไม่ได้ให้บริการฟรีเป็นสาธารณะ การสตรีมไปยัง %service% จึงให้บริการเฉพาะกับผู้ใช้ที่มีสิทธิ์การใช้งานเท่านั้น[br][br]\n\nอัพเกรดสิทธิ์การใช้งานของคุณตอนนี้?",
+    "type": "question"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleMaxCharsExceeded.title": {
+    "message": "คุณสมบัติ YouTube Live"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleMaxCharsExceeded.message": {
+    "message": "ไตเติ้ลไม่สามารถมีเกิน 100 ตัวอักษรได้ (ปัจจุบันอยู่ที %length% ตัวอักษร)",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleHasInvalidChars.title": {
+    "message": "คุณสมบัติ YouTube Live"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleHasInvalidChars.message": {
+    "message": "ไตเติ้ลไม่สามารถมีตัวอักษร '<' และ '>' ได้",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescMaxCharsExceeded.title": {
+    "message": "คุณสมบัติ YouTube Live"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescMaxCharsExceeded.message": {
+    "message": "รายละเอียดไม่สามารถมีเกิน 5000 ตัวอักษรได้ (ปัจจุบันอยู่ที %length% ตัวอักษร)",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescHasInvalidChars.title": {
+    "message": "คุณสมบัติ YouTube Live"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescHasInvalidChars.message": {
+    "message": "รายละเอียดไม่สามารถมีตัวอักษร '<' และ '>' ได้",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsMaxCharsExceeded.title": {
+    "message": "คุณสมบัติ YouTube Live"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsMaxCharsExceeded.message": {
+    "message": "จำนวนตัวอักษรของแท็กทั้งหมดต้องไม่เกิน 500 ตัวอักษร (ปัจจุบันอยู่ที %length% ตัวอักษร)",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsHasInvalidChars.title": {
+    "message": "คุณสมบัติ YouTube Live"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsHasInvalidChars.message": {
+    "message": "แท็กไม่สามารถมีตัวอักษร '<' และ '>' ได้",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagMaxCharsExceeded.title": {
+    "message": "คุณสมบัติ YouTube Live"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagMaxCharsExceeded.message": {
+    "message": "แท็ก '%tag%' เกินข้อกำหนด 30 ตัวอักษรของ Youtube",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.EmailIsInvalid.title": {
+    "message": "คุณสมบัติ YouTube Live"
+  },
+  "messageDialog.messages.frmYouTubeLive.EmailIsInvalid.message": {
+    "message": "โปรดป้อนที่อยู่อีเมล์ให้ถูกต้อง",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgApiError.title": {
+    "message": "คุณสมบัติ YouTube Live"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgApiError.message": {
+    "message": "มีข้อผิดพลาดในการเข้าถึง Tube Live API คุณอาจจะไม่สามารถเข้าถึง YouTube Live API ได้",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgServerError.title": {
+    "message": "คุณสมบัติ YouTube Live"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgServerError.message": {
+    "message": "มีข้อผิดพลาดในการสื่อสารกับเซิร์ฟเวอร์ของ YouTube Live อาจจะเป็นปัญหาเน็ตเวิร์คหรือคุณอาจจะไม่สามารถเข้าถึง YouTube Live ได้",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleIsEmpty.title": {
+    "message": "คุณสมบัติ YouTube Live"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleIsEmpty.message": {
+    "message": "จำเป็นต้องป้อนไตเติ้ล",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustTVProps.UsernameIsUnknown.message": {
+    "message": "แชนแนลของคุณยังไม่พร้อมใช้งาน หรือมีรหัสผ่านป้องกันไว้ โปรดแน่ใจว่าป้อนข้อมูลทุกอย่างได้อย่างถูกต้อง ไม่มีรหัสผ่านและตั้งค่าทุกอย่างได้อย่างถูกต้องในเวปไซต์ของ Justin.tv website",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.UsernameIsUnknown.title": {
+    "message": "คุณสมบัติของ Twitch"
+  },
+  "messageDialog.messages.frmTwitchProps.UsernameIsUnknown.message": {
+    "message": "แชนแนลของคุณยังไม่พร้อมใช้งาน หรือมีรหัสผ่านป้องกันไว้ โปรดแน่ใจว่าป้อนข้อมูลทุกอย่างได้อย่างถูกต้อง ไม่มีรหัสผ่านและตั้งค่าทุกอย่างได้อย่างถูกต้องในเวปไซต์ของ Twitch",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustinTVProps.InvalidChannelCredentials.title": {
+    "message": "คุณสมบัติ Justin.tv"
+  },
+  "messageDialog.messages.frmJustinTVProps.InvalidChannelCredentials.message": {
+    "message": "เกิดปัญหาขึ้นระหว่างการรับรองความถูกต้องของตัวตน บริการยืนยันตัวตนของ Justin.tv อาจจะดำเนินการช้ากว่าปรกติ โปรดลองใหม่อีกครั้ง หรือตรวจสอบว่าชื่อผู้ใช้และรหัสผ่านถูกต้องหรือไม่และการเชื่อมอินเตอร์เน็ตนั้นเสถียรพอ",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidChannelCredentials.title": {
+    "message": "คุณสมบัติของ Twitch"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidChannelCredentials.message": {
+    "message": "เกิดปัญหาขึ้นระหว่างการรับรองความถูกต้องของตัวตน โปรดตรวจสอบว่าชื่อผู้ใช้และรหัสผ่านถูกต้องหรือไม่ แชนแนลของคุณไม่ได้มีรหัสป้องกันไว้ หรือการเชื่อมต่อไปยัง Twitch ใช้งานได้",
+    "type": "warning"
+  },
+  "messageDialog.messages.RECORDING_FILE_DELETE.title": {
+    "message": "XSplit Broadcaster - กำลังทำการบันทึก"
+  },
+  "messageDialog.messages.RECORDING_FILE_DELETE.message": {
+    "message": "คุณแน่ใจหรือไม่ว่าต้องการลบ **%file%**?",
+    "type": "question"
+  },
+  "messageDialog.messages.REPAIR_FILE.title": {
+    "message": "ซ่อมแซมไฟล์ที่เสียหาย"
+  },
+  "messageDialog.messages.REPAIR_FILE.message": {
+    "message": "คุณแน่ใจว่าต้องการซ่อมแซม **%file%**?",
+    "type": "question"
+  },
+  "messageDialog.messages.CONVERT_VIDEO_TO_MP4.title": {
+    "message": "แปลงวิดีโอเป็น MP4",
+    "type": "question"
+  },
+  "messageDialog.messages.CONVERT_VIDEO_TO_MP4.message": {
+    "message": "คุณแน่ใจว่าต้องการแปลง **%filename%** ไปเป็นไฟล์ MP4?",
+    "type": "question"
+  },
+  "messageDialog.messages.RECORDING_FILE_UNABLE_TO_DELETE.title": {
+    "message": "XSplit Broadcaster - กำลังทำการบันทึก"
+  },
+  "messageDialog.messages.RECORDING_FILE_UNABLE_TO_DELETE.message": {
+    "message": "ไม่สามารถลบ %file% ได้เนื่องจากถูกใช้อยู่",
+    "type": "warning"
+  },
+  "messageDialog.messages.FUNCTION_NOT_AVAIL_NOINTERNET.title": {
+    "message": "ฟังก์ชั่นไม่พร้อมใช้งาน",
+    "type": "error"
+  },
+  "messageDialog.messages.FUNCTION_NOT_AVAIL_NOINTERNET.message": {
+    "message": "ฟังก์ชั่นไม่พร้อมใช้งานเนื่องจากขาดการเชื่อมต่อินเตอร์เน็ต"
+  },
+  "messageDialog.messages.msgLoginValidation1.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLoginValidation1.message": {
+    "message": "จำเป็นต้องกรอกในช่องป้อนอีเมล์",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidEmail.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgInvalidEmail.message": {
+    "message": "รูปแบบอีเมล์ไม่ถูกต้อง อีเมล์จะมีได้เพียงตัวอักษร ตัวเลข จุด ขีด และขีดล่างเท่านั้นที่ใช้ได้",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLoginValidation2.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLoginValidation2.message": {
+    "message": "จำเป็นต้องกรอกในช่องป้อนรหัสผ่าน",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxFailedLogin.title": {
+    "message": "ความพยายามในการเข้าสู่ระบบผิดพลาดถึงจำนวนสูงสุดแล้ว"
+  },
+  "messageDialog.messages.msgMaxFailedLogin.message": {
+    "message": "โปรดลองรีสตาร์ท XSplit Broadcaster และลองลงชื่อเข้าใช้งานใหม่อีกครั้ง",
+    "type": "error"
+  },
+  "messageDialog.messages.servermessage_fdisdesc.message": {
+    "message": "บัญชีของคุณถูกเข้าใช้งานจากเครื่องอื่น โปรแกรมถูกให้ออกจากระบบเพราะว่าสิทธิ์การใช้งานของคุณสามารถใช้ได้เพียงครั้งละเครื่องในเวลาเดียวกันเท่านั้น ถ้าคุณต้องการเข้าใช้งานอีกครั้ง กรุณาป้อนข้อมูลของคุณ โปรดทราบไว้ว่าการทำแบบนี้จะทำให้บัญชีของคุณในเครื่องอื่นออกจากระบบ และหยุดการสตรีมใดๆ ที่กระทำอยู่ตอนนี้",
+    "type": "error"
+  },
+  "messageDialog.messages.servermessage_dlogdesc.message": {
+    "message": "บัญชีของคุณกำลังใช้งานอยู่ในคอมพิวเตอร์เครื่องอื่น ถ้าคุณต้องการที่จะเข้าใช้งาน โปรดป้อนข้อมูลของคุณอีกครั้ง โปรดทราบไว้ว่าการทำแบบนี้จะทำให้บัญชีของคุณในเครื่องอื่นออกจากระบบ และหยุดการสตรีมใดๆ ที่กระทำอยู่ตอนนี้",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantRegisterOffline.message": {
+    "message": "ไม่สามารถสามารถลงชื่อได้ในโหมดออฟไลน์",
+    "type": "error"
+  },
+  "messageDialog.messages.msgLoginFailedRecentAccount.message": {
+    "message": "ไม่สามารถลงชื่อเข้าใช้งานได้จากบัญชีที่บันทึกการลงชื่อเข้าใช้ไว้ โปรดลองใหม่อีกครั้ง",
+    "type": "error"
+  },
+  "messageDialog.messages.msgSavePresentation.message": {
+    "message": "คุณต้องการเซฟการเปลี่ยนแปลงของพรีเซ้นเทชั่นปัจุบันนี้หรือไม่",
+    "type": "question"
+  },
+  "messageDialog.messages.msgSavePresentationBeforeLoad.message": {
+    "message": "คุณต้องการเซฟการเปลี่ยนแปลงของพรีเซ้นเทชั่นปัจุบันนี้หรือไม่ก่อนที่จะทำการโหลดจากไฟล์หรือไม่?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgMaxFps.message": {
+    "message": "เฟรมเรตสูงสุดที่อนุญาติให้ใช้คือ %maxfps% FPS",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgVeryHighFps.message": {
+    "message": "การตั้งค่า FPS นี้ต้องการประสิทธิภาพเครื่องขั้นสูงมาก โปรดเข้าใจความเสี่ยงในการดำเนินการต่อ",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgGameComponentUpdate.message": {
+    "message": "XSplit Broadcaster ต้องการรีสตาร์ทตัวเองเพื่อที่จะสามารถทำการอัพเดท เกมแคปเจอร์คอมโพเนนต์ให้เสร็จสมบูรณ์",
+    "type": "info"
+  },
+  "messageDialog.messages.msgGameComponentUpdateFailed.message": {
+    "message": "XSplit Broadcaster ต้องการอัพเดทเกมแคปเจอร์คอมโพเนนต์ แต่มีคอมโพเนนต์ที่เก่ากว่าถูกโหลดไว้แล้วในเมมโมรี่ของระบบของคุณทำให้อัพเดทไม่ได้ โปรดรีสตาร์ทเครื่องคอมพิวเตอร์ของคุณและรัน XSplit Broadcaster อีกครั้ง",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGameComponentUpdateUnusualBehaviour.message": {
+    "message": "XSplit Broadcaster พบการทำงานผิดปรกติขณะกำลังโหลดคอมโพเนนต์เกมแคปเจอร์ โปรดลองใหม่อีกครั้ง หรือทำการรีสตาร์ทเครื่องคอมพิวเตอร์ของคุณเพื่อรีเซ็ตหน่วยความจำ",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGameComponentUpdateTerminateXGCQuestion.message": {
+    "message": "XSplit Broadcaster ต้องการอัพเดทเกมแคปเจอร์คอมโพเนนต์ แต่ไม่สามารถทำได้ในขณะที่่ XSplit Gamecaster ทำงานอยู่ ถ้าคุณดำเนินการต่อ XSplit Gamecaster จะถูกยกเลิก ต้องการดำเนินการต่อหรือไม่?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgGameComponentUpdateRestart.message": {
+    "message": "XSplit Broadcaster ต้องการอัพเดทเกมแคปเจอร์คอมโพเนนต์ แต่ไม่สามารถทำได้ในขณะที่่ XSplit Gamecaster ทำงานอยู่ โปรดปิด XSplit Gamecaster และเปิด XSplit Broadcaster ใหม่อีกครั้ง",
+    "type": "error"
+  },
+  "messageDialog.messages.RtmpUrlIsEmpty.message": {
+    "message": "ต้องระบุ URL ของ RTMP",
+    "type": "warning"
+  },
+  "messageDialog.messages.RtmpUrlIsInvalid.message": {
+    "message": "URL ของ RTMP ไม่ถูกต้อง",
+    "type": "warning"
+  },
+  "messageDialog.messages.ChannelNameIsEmpty.message": {
+    "message": "ต้องระบุชื่อแชนแนล",
+    "type": "warning"
+  },
+  "messageDialog.messages.InvalidCharactersInChannelName.message": {
+    "message": "ชื่อแชนแนลมีตัวอักษรที่ห้ามใช้",
+    "type": "warning"
+  },
+  "messageDialog.messages.StreamNameIsEmpty.message": {
+    "message": "ต้องระบุชื่อของสตรีม",
+    "type": "warning"
+  },
+  "messageDialog.messages.ShareLinkIsInvalid.message": {
+    "message": "ลิงก์แชร์ไม่ถูกต้อง",
+    "type": "warning"
+  },
+  "messageDialog.messages.CloseDelay.message": {
+    "message": "การปิดดีเลย์เซิร์ฟเวอร์จะหยุดการพร็อกซี่สตรีมทั้งหมด ดำเนินการต่อ?",
+    "type": "question"
+  },
+  "messageDialog.messages.EnableEVR.message": {
+    "message": "ปรกติแล้วตัวเลือกนี้จะไม่เป็นที่แนะนำและอาจจะเกิดผลข้างเคียงได้ ผู้ใช้บางคนรายงานว่าการใช้ EVR (Microsoft Enhanced Video Renderer) ช่วยแก้ปัญหาภาพช้าในการ์ดแคปเจอร์บางตัว รวมทั้ง Roxio Game Capture HD โปรดรีสตาร์ท XSplit Broadcaster หลังจากเปลี่ยนการตั้งค่า เปิดการใช้งาน EVR เลยหรือไม่?",
+    "type": "question"
+  },
+  "messageDialog.messages.SystemSoundNotDefaultSpeakers.message": {
+    "message": "ถ้าคุณยังไม่ได้ตั้งค่าเสียงของระบบไปที่ %defaultSpeakers%, คุณอาจจะไม่สามารถได้ยินเสียงจากแอพลิเคชั่นหรือเกมในสตรีมหรือการบันทึกของคุณได้",
+    "type": "warning"
+  },
+  "messageDialog.messages.PostRegisterFailed.message": {
+    "message": "พบข้อผิดพลาดหลังจากได้ทำการลงทะเบียนบัญชีผู้ใช้ใหม่แล้ว",
+    "type": "error"
+  },
+  "messageDialog.messages.RegisterFailed.message": {
+    "message": "ไม่สามารถลงทะเบียนบัญชีผู้ใช้ใหม่ได้",
+    "type": "error"
+  },
+  "messageDialog.messages.RestartLogin.message": {
+    "message": "โปรดลองรีสตาร์ท XSplit Broadcaster และลองลงชื่อเข้าใช้งานใหม่อีกครั้ง",
+    "type": "error"
+  },
+  "messageDialog.messages.LogoutWhileRecording.message": {
+    "message": "การบันทึกกำลังถูกอัพโหลดอยู่ คุณต้องการออก/ลงชื่อออกจากบัญชี หรือไม่?",
+    "type": "question"
+  },
+  "messageDialog.messages.PortBlocked.message": {
+    "message": "XSplit Broadcaster ตรวจพบว่าพอร์ต TCP/433 ถูกบล็อคอยู่ การรับรองความถูกต้องไปยัง %serviceName% ต้องการพอร์ต TCP/443 ที่ไม่ถูกบล็อค โปรดคลิ๊ก[ที่นี่](http://xspl.it/how-to-unblock-port-443) เพื่อเรียนรู้เพิ่มเติม[br][br]ถ้าคุณไม่สามารถเปิดพอร์ต TCP/443 ได้คุณอาจจะยังคงสามารถสตรีมโดยใช้ 'CustomRTMP' และสตรีมคีย์",
+    "type": "warning"
+  },
+  "messageDialog.messages.NoInternetPortBlocked.message": {
+    "message": "XSplit Broadcaster ไม่สามารถเชื่อมต่อไปยัง %serviceName% ได้ การรับรอง %serviceName% ต้องใช้การเชื่อมต่ออินเตอร์เน็ตและพอร์ต TCP/443 ที่ไม่ถูกบล็อก",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgEnableD3D.message": {
+    "message": "ไม่สามารถสร้างหน้าต่างได้ โปรดเปิดการใช้งาน direct3d acceleration",
+    "type": "error"
+  },
+  "messageDialog.messages.msgAmdEnduroWarning.message": {
+    "message": "คุณได้ตั้งค่า XSplit Broadcaster ให้ใช้งานในโหมด 'ประสิทธิภาพสูง' โดยใช้ AMD Enduro&trade;technology switchable graphics เนื่องจากข้อจำกัดของไดร์เวอร์ โหมดนี้ไม่ได้รับการสนับสนุน ขอแนะนำให้ใช้โหมด 'ประหยัดพลังงาน' แทน[br]เรียนรู้เพิ่มเติม[ที่บล็อกนี้](https://xspl.it/ktvgqc)",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantRemoveResolution.message": {
+    "message": "ไม่สามารถลบความละเอียดที่เลือกได้ เลือกความละเอียดอื่นก่อน",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRecordingsAbortedOnInsufficientDiskSpace.message": {
+    "message": "การบันทึกของคุณไม่สามารถเริ่มต้นได้ โปรดตรวจสอบว่าคุณมีพื้นที่ว่างอย่างน้อย %minFreeSpace%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantCreateRecordingFile.message": {
+    "message": "ไม่สามารถสร้างไฟล์บันทึกใน '%folder%' ได้ โปรดแน่ใจว่าคุณมีสิทธิ์การใช้งานโฟลเดอร์พอที่จะใช้ทำการบันทึก",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantCreateRecordingOutDir.message": {
+    "message": "ไม่สามารถสร้างไดเรกทอรีสำหรับการบันทึกใน '%folder%' ได้ ลองสร้างด้วยตัวคุณเองและลองทำการบันทึกใหม่อีกครั้ง",
+    "type": "error"
+  },
+  "messageDialog.messages.msgMp4requiresAac.message": {
+    "message": "MP4 สามารถใช้ได้เพียง AAC codec เท่านั้น",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRecordingPathIsTooLong.message": {
+    "message": "พาธสำหรับการบันทึก %path% ยาวเกินไป โปรดตั้งพาธการบันทึกที่สั้นกว่านี้",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStreamingIsPrevented.message": {
+    "message": "ไม่สามารถสตรีมได้ในขณะนี้ โปรดลงชื่อเข้าใช้ใหม่อีกครั้ง",
+    "type": "error"
+  },
+  "messageDialog.messages.msgStreamingWhileOfflineIsNotAllowed.message": {
+    "message": "คุณเข้าใช้งานแบบออฟไลน์แต่ปรากฏเป็นแบบออนไลน์ โปรดลงชื่อเข้าใช้ใหม่อีกครั้งเพื่อดำเนินการต่อ",
+    "type": "error"
+  },
+  "messageDialog.messages.msgMixerFpsNotSupportedByVideoCodec.message": {
+    "message": "%codec% จะสนับสนุนการเข้ารหัสใน FPS ต่อไปนี้เท่านั้น:[br][br]%fpslist%[br][br]โปรดตั้งค่าเอ้าท์พุทเฟรมเรตให้ตรงกับในเมนูเฟรมเรต",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgVideoCodecMaxEncodeLimited.message": {
+    "message": "%codec% รองรับการเข้ารหัสพร้อมกันได้ %maxEncode% ต่อช่วงเวลานึงเท่านั้น",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgPausedRecordingWarning1.message": {
+    "message": "การบันทึกที่กำลังเดินการอยู่ถูกหยุดชั่วคราว ถ้าคุณต้องการดำเนินการบันทึกต่อ คลิ๊ก '%resumeRecording%' ภายใต้เมนู '%broadcast%' [br][br]Do you wish to stop the recording?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgPausedRecordingWarning.message": {
+    "message": "การบันทึกที่กำลังเดินการอยู่ถูกหยุดชั่วคราว ถ้าคุณต้องการดำเนินการบันทึกต่อ กด %hotkey%[br][br]คุณต้องต้องการหยุดการบันทึกหรือไม่?",
+    "type": "question"
+  },
+  "messageDialog.messages.ResolutionAlreadyExists.message": {
+    "message": "พบความละเอียด %width% x %height% อยู่แล้ว",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidFramerate.message": {
+    "message": "Framerate ไม่ถูกต้อง",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgHighFps.message": {
+    "message": "การตั้งค่า FPS นี้ต้องการประสิทธิภาพเครื่องขั้นสูง โปรดเข้าใจความเสี่ยงในการดำเนินการต่อ",
+    "type": "warning"
+  },
+  "messageDialog.messages.ChannelNameAlreadyExists.message": {
+    "message": "มี %channel% อยู่แล้ว",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantDeleteChannel.message": {
+    "message": "ไม่สามารถลบแชนแนลได้",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedSourcePlugins.message": {
+    "message": "XSplit ได้พบว่าปลั๊กอินที่มีอัพเดทพร้อมแล้ว:[br][br]%pluginlist%[br][br]คุณอาจจะต้องทำการอนุญาตสิทธิ์การใช้งานอีกครั้งเพื่อให้ ปลั๊กอินใช้งานได้[br][br]กดตกลงเพื่อติดตั้งปลั๊กอินที่มีการอัพเดท ไม่จำเป็นต้องรีสตาร์ท XSplit เมื่อติดตั้งแล้ว",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePlugins_npw.message": {
+    "message": "XSplit ได้พบว่าปลั๊กอินที่มีอัพเดทพร้อมแล้ว:[br][br]%pluginlist%[br][br]กดตกลงเพื่อติดตั้งปลั๊กอินที่มีการอัพเดท ไม่จำเป็นต้องรีสตาร์ท XSplit เมื่อติดตั้งแล้ว",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePluginsXbc5003.message": {
+    "message": "XSplit ได้พบว่าปลั๊กอินที่มีอัพเดทพร้อมแล้ว:[br][br]%pluginlist%[br][br]คุณอาจจะต้องทำการอนุญาตสิทธิ์การใช้งานอีกครั้งเพื่อให้ ปลั๊กอินใช้งานได้[br][br]กดตกลงเพื่อติดตั้งปลั๊กอินที่มีการอัพเดท ไม่จำเป็นต้องรีสตาร์ท XSplit เมื่อติดตั้งแล้ว",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePluginsXbc5003_npw.message": {
+    "message": "XSplit ได้พบว่าปลั๊กอินที่มีอัพเดทพร้อมแล้ว:[br][br]%pluginlist%[br][br]กดตกลงเพื่อติดตั้งปลั๊กอินที่มีการอัพเดท ไม่จำเป็นต้องรีสตาร์ท XSplit เมื่อติดตั้งแล้ว",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePlugins.message": {
+    "message": "XSplit ได้พบว่าปลั๊กอินต่อไปนี้ไม่สามารถทำงานได้กับเวอร์ชั่นนี้ของ XSplit:[br][br]%pluginlist%[br][br]คุณอาจจะต้องทำการอนุญาตสิทธิ์การใช้งานอีกครั้งเพื่อให้ ปลั๊กอินใช้งานได้[br][br]กดตกลงเพื่อติดตั้งปลั๊กอินที่มีสามารถทำงานได้กับเวอร์ชั่นนี้ ไม่จำเป็นต้องรีสตาร์ท XSplit เมื่อติดตั้งแล้ว",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePlugins_npw.message": {
+    "message": "XSplit ได้พบว่าปลั๊กอินต่อไปนี้ไม่สามารถทำงานได้กับเวอร์ชั่นนี้ของ XSplit:[br][br]%pluginlist%[br][br]กดตกลงเพื่อติดตั้งปลั๊กอินที่มีสามารถทำงานได้กับเวอร์ชั่นนี้ ไม่จำเป็นต้องรีสตาร์ท XSplit เมื่อติดตั้งแล้ว",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsXbc5003.message": {
+    "message": "XSplit ได้พบว่าปลั๊กอินต่อไปนี้ไม่สามารถทำงานได้กับเวอร์ชั่นนี้ของ XSplit:[br][br]%pluginlist%[br][br]คุณอาจจะต้องทำการอนุญาตสิทธิ์การใช้งานอีกครั้งเพื่อให้ ปลั๊กอินใช้งานได้[br][br]กดตกลงเพื่อติดตั้งปลั๊กอินที่มีสามารถทำงานได้กับเวอร์ชั่นนี้ ไม่จำเป็นต้องรีสตาร์ท XSplit เมื่อติดตั้งแล้ว",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsXbc5003_npw.message": {
+    "message": "XSplit ได้พบว่าปลั๊กอินต่อไปนี้ไม่สามารถทำงานได้กับเวอร์ชั่นนี้ของ XSplit:[br][br]%pluginlist%[br][br]กดตกลงเพื่อติดตั้งปลั๊กอินที่มีสามารถทำงานได้กับเวอร์ชั่นนี้ ไม่จำเป็นต้องรีสตาร์ท XSplit เมื่อติดตั้งแล้ว",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsInStage.message": {
+    "message": "XSplit ได้พบว่าปลั๊กอินของแหล่งที่ซอสอยู่ในพรีเซ้นเทชั่นของคุณแต่ทำงานไม่สามารถทำงานเข้ากันได้เวอร์ชั่นปัจจุบันของ XSplit:[br][br]%pluginlist%[br][br]โปรดกดตกลงเพื่อลบไอเท็มเหล่านี้ออกจากพรีเซ้นเทชั่นปัจจุบัน คุณมีทางเลือกที่จะสามารถบันทึกพรีเซ้นเทชั่นชั่นปัจจุบันก่อนที่จะลบไอเท็มเหล่านี้",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsInStageXbc5003.message": {
+    "message": "XSplit ได้พบว่าซอสเหล่านี้อยู่ในพรีเซ้นเทชั่นของคุณแต่ทำงานไม่สามารถทำงานเข้ากันได้เวอร์ชั่นปัจจุบันของ XSplit:[br][br]%pluginlist%[br][br]โปรดกดตกลงเพื่อลบไอเท็มเหล่านี้ออกจากพรีเซ้นเทชั่นปัจจุบัน คุณมีทางเลือกที่จะสามารถบันทึกพรีเซ้นเทชั่นชั่นปัจจุบันก่อนที่จะลบไอเท็มเหล่านี้",
+    "type": "info"
+  },
+  "messageDialog.messages.msgInvalidTransitionTime.message": {
+    "message": "ความเร็วในการเปลี่ยนไม่ถูกต้อง",
+    "type": "error"
+  },
+  "messageDialog.messages.PreviewMain_unableToCreateWindow.message": {
+    "message": "ไม่สามารถสร้างหน้าต่างตัวอย่างได้",
+    "type": "error"
+  },
+  "messageDialog.messages.msgHotKeyRegException6.message": {
+    "message": "คีย์ลัดต่อไปนี้สามารถกำหนดผสมได้กับคีย์โมดิฟายเหล่านี้เท่านั้น (Control, Shift, Alt) [br][br]%hotkeys%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgHotKeyRegException5.message": {
+    "message": "คีย์ลัดต่อไปนี้ไม่สามารถกำหนดด้วยคีย์เดียวกันได้:[br][br]%hotkeys%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantEditActiveRecording.message": {
+    "message": "คุณไม่สามารถแก้ไขการตั้งค่าได้ระหว่างการบันทึกในเครื่อง"
+  },
+  "messageDialog.messages.msgFlashConfigLoadFailure.message": {
+    "message": "โหลดกล่องข้อความการตั้งค่าไม่สำเร็จ: %exceptionMessage%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgFlashAxFailure.message": {
+    "message": "การทำงานกับ Flash Player สำหรับ Windows Internet Explorer ล้มเหลว: %failMessage%"
+  },
+  "messageDialog.messages.msgFlashAxNotInstalled.message": {
+    "message": "การใช้งานฟีเจอร์นี้ต้องการ Flash Player สำหรับ Windows Internet Explorer"
+  },
+  "messageDialog.messages.msgSourceHandlerIsMissing.message": {
+    "message": "ตัวจัดการซอสขาดหายไป"
+  },
+  "messageDialog.messages.msgSourceConfigurationHandlerIsMissing.message": {
+    "message": "ตัวจัดการการตั้งค่าหายไป"
+  },
+  "messageDialog.messages.msgCantEditActiveStream.message": {
+    "message": "คุณไม่สามารถแก้ไขการตั้งค่าได้ระหว่างทำการสตรีม"
+  },
+  "messageDialog.messages.msgLogSystemInformation.message": {
+    "message": "เราแนะนำให้คุณอนุญาตให้ XSplit สามารถบันทึกข้อมูลของระบบได้ ซึ่งมีข้อมูลของระบบปฎิบัตการ หน่วยประมวลผล และชนิดของการ์ดจอ ข้อมูลเหล่านี้จะช่วยให้ทีมงานสามารถแก้ไขปัญหาทางเทคนิคต่างๆ และสามารถช่วยทีมสนับสนุนให้สามารถตอบปัญหาเกี่ยวกับการรายงานบักหรือการตอบฟอรั่มได้[br][br]เลือกเปิดใช้งานตัวเลือกนี้ต่อไปหรือไม่?"
+  },
+  "messageDialog.messages.msgGlobalScriptWarning.message": {
+    "message": "โปรดพึงระลึกอยู่เสมอว่าคุณควรจะเพิ่มเติมสคริปจากแหล่งที่เชื่อถือได้เท่านั้น สคริปที่มุ่งร้าย สามารถทำอันตรายกับ PC ของคุณได้ในหลายๆ ทาง โปรดคลิ๊ก \"ตกลง\" เพื่อยืนยันว่าคุณเข้าใจความเสี่ยงเหล่านี้และพร้อมจะดำเนินการต่อ"
+  },
+  "messageDialog.messages.msgEVRWarning.message": {
+    "message": "คุณกำลังใช้ตัวเลือก exe แบบกำหนดเองและแบบทดลอง ซึ่งเราไม่แนะนำให้คุณใช้เวลาใช้งานสตรีมเพื่องานจริง"
+  },
+  "messageDialog.messages.INVALID_USER_TOKEN.message": {
+    "message": "ฟังก์ชั่นไม่พร้อมใช้งานเนื่องมาจากโทเคนที่ไม่ถูกต้อง โปรลองเข้าสู่ระบบใหม่อีกครั้ง"
+  },
+  "messageDialog.messages.DATABASE_ERROR_WAIT_TIMEOUT.title": {
+    "message": "ข้อผิดพลาด"
+  },
+  "messageDialog.messages.DATABASE_ERROR_WAIT_TIMEOUT.message": {
+    "message": "ไฟล์ฐานข้อมูลสำหรับแชร์ของ XSplit ไม่สามารถถูกเข้าถึงได้และอาจะถูกใช้โดย XSplit ตัวอื่นๆ โปรด โปรดรอให้ตัวอื่นๆ เสร็จสิ้นการดำเนินงานกับไฟล์นั้นก่อนหรือปิดโปรแกรมอื่นๆ และเข้าสู่ระบบอีกครั้ง",
+    "type": "error"
+  },
+  "messageDialog.messages.DATABASE_ERROR_INITIALIZATION.title": {
+    "message": "ข้อผิดพลาด"
+  },
+  "messageDialog.messages.DATABASE_ERROR_INITIALIZATION.message": {
+    "message": "การเริ่มต้นของฐานข้อมูลสำหรับแชร์ของ XSplit ถูกหยุดไว้อย่างไม่คาดคิด โปรดลองเข้าระบบใหม่อีกครั้ง",
+    "type": "error"
+  },
+  "messageDialog.messages.ENABLE_SCRIPT_SECURITY.title": {
+    "message": "โปรดอ่านให้ครบถ้วนก่อนที่จะดำเนินการต่อ"
+  },
+  "messageDialog.messages.ENABLE_SCRIPT_SECURITY.message": {
+    "message": "โปรดพึงระลึกอยู่เสมอว่าการปิดใช้ตัวเลือกนี้เมื่อคุณแน่ใจว่าซอสและส่วนขยายทั้งหมดมาจากแหล่งที่เชื่อถือได้เท่านั้น สคริปที่มุ่งรา้ยสามารถทำอันตรายคอมพิวเตอร์ของคุณได้ในหลายๆ ทาง โปรดคลิ๊ก \"ตกลง\" เพื่อยืนยันว่าคุณเข้าใจความเสี่ยงเหล่านี้และพร้อมจะดำเนินการต่อ",
+    "type": "warning"
+  },
+  "messageDialog.messages.ALLOW_EXECUTE_SCRIPT.message": {
+    "message": "โปรดพึงระลึกอยู่เสมอว่าคุณควรอนุญาตให้มีการเข้าถึงได้จากแหล่งที่เชื่อถือได้เท่านั้น สคริปที่มุ่งร้าย สามารถทำอันตรายกับ PC ของคุณได้ในหลายๆ ทาง โปรดคลิ๊ก \"ตกลง\" เพื่อยืนยันว่าคุณเข้าใจความเสี่ยงเหล่านี้และพร้อมจะดำเนินการต่อ",
+    "type": "warning"
+  },
+  "messageDialog.checkbox.faststart": {
+    "message": "ปรับให้เหมาะสมสำหรับเวป"
+  },
+  "messageDialog.messages.msgFullnameIsInvalid.message": {
+    "message": "ชื่อเต็มต้องยาว 6-50 ตัวอักษร"
+  },
+  "messageDialog.messages.msgSocialLoginIsTemporarilyDisabled.message": {
+    "message": "ลงชื่อเข้าใช้โดยข้อมูลโซเชี่ยลมีเดียจะเปิดให้ใช้งานได้ในเวอร์ชั่น 2.7",
+    "type": "info"
+  },
+  "messageDialog.messages.msgNoLogoutFromSteam.message": {
+    "message": "ไม่สามารถลงชื่อออกได้ในตอนที่คุณกำลังใช้บัญชี Steam",
+    "type": "info"
+  },
+  "messageDialog.messages.msgInvalidSteamAccountInfo.message": {
+    "message": "การเข้าใช้งานของบัญชี Steam ตัวปัจจุบันไม่สามารถใช้งานได้แล้ว โปรดลงชื่อเข้าใหม่อีกครั้ง %message2%",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdateUsingSteamClientApp.message": {
+    "message": "โปรดทำการอัพเดทโดยใช้ไคลเอนต์ของ Steam",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUnableToLoginAccount_Social.message": {
+    "message": "ไม่สามารถลงชื่อเข้าใช้บัญชีโซเชี่ยลของคุณ %message2%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUnableToLoginAccount_Steam.message": {
+    "message": "ไม่สามารถลงชื่อเข้าใช้บัญชี Steam ของคุณ %message2%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgOutdatedExtensions.message": {
+    "message": "XSplit ได้พบว่าส่วนขยายต่อไปนี้ไม่สามารถทำงานได้กับเวอร์ชั่นนี้ของ XSplit:[br][br]%pluginlist%[br][br]คุณอาจจะต้องทำการอนุญาตสิทธิ์การใช้งานอีกครั้งเพื่อให้ ส่วนขยายใช้งานได้[br][br]กดตกลงเพื่อติดตั้งส่วนขยายที่มีสามารถทำงานได้กับเวอร์ชั่นนี้ ไม่จำเป็นต้องรีสตาร์ท XSplit เมื่อติดตั้งแล้ว",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgOutdatedExtensions_npw.message": {
+    "message": "XSplit ได้พบว่าส่วนขยายต่อไปนี้ไม่สามารถทำงานได้กับเวอร์ชั่นนี้ของ XSplit:[br][br]%pluginlist%[br][br]กดตกลงเพื่อติดตั้งส่วนขยายที่มีสามารถทำงานได้กับเวอร์ชั่นนี้ ไม่จำเป็นต้องรีสตาร์ท XSplit เมื่อติดตั้งแล้ว",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedExtensions.message": {
+    "message": "XSplit ได้พบว่าส่วนขยายที่มีอัพเดทพร้อมแล้ว:[br][br]%pluginlist%[br][br]คุณอาจจะต้องทำการอนุญาตสิทธิ์การใช้งานอีกครั้งเพื่อให้ ส่วนขยายใช้งานได้[br][br]กดตกลงเพื่อติดตั้งอัพเดท ไม่จำเป็นต้องรีสตาร์ท XSplit เมื่อติดตั้งแล้ว",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedExtensions_npw.message": {
+    "message": "XSplit ได้พบว่าส่วนขยายที่มีอัพเดทพร้อมแล้ว:[br][br]%pluginlist%[br][br]กดตกลงเพื่อติดตั้งอัพเดท ไม่จำเป็นต้องรีสตาร์ท XSplit เมื่อติดตั้งแล้ว",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCoreDllNotRegistered.message": {
+    "message": "XSplit ได้พบว่าส่วนหลักของวินโดวส์ DLL ไม่ได้ถูกรีจิสเตอร์ไว้แล้ว คุณสามารถอ่านเกี่ยวกับปัญหานี้ได้[ที่นี่](https://xspl.it/3lcf8n)[br][br]XSplit ได้พยายามที่จะแก้ไขปัญหานี้ แต่เราแนะนำให้คุณทำการตรวจสอบและแก้ไขไฟล์ระบบที่มีปัญหานี้[br][br]โปรดกดตกลงเพื่ออนุญาติให้ XSplit ทำการเปิด Windows System File Checker",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCoreDllNotRegistered2.message": {
+    "message": "XSplit ได้พบว่าส่วนหลักของวินโดวส์ DLL ไม่ได้ถูกรีจิสเตอร์ไว้แล้ว คุณสามารถอ่านเกี่ยวกับปัญหานี้ได้[ที่นี่](https://xspl.it/3lcf8n)[br][br]XSplit ได้พยายามที่จะแก้ไขปัญหานี้ แต่เราแนะนำให้คุณทำการตรวจสอบและแก้ไขไฟล์ระบบที่มีปัญหานี้โดยใช้ Windows System File Checker, อ่านเพิ่มเติมได้[ที่นี่](https://xspl.it/1rte7x)",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCoreDllNotOK.message": {
+    "message": "XSplit ได้พบว่าส่วนหลักของวินโดวส์ DLL มีความผิดพลาดในการเช็คความถูกต้อง คุณสามารถอ่านเกี่ยวกับปัญหานี้ได้[ที่นี่](https://xspl.it/3lcf8n)[br][br]เราแนะนำให้คุณทำการตรวจสอบและแก้ไขไฟล์ระบบที่มีปัญหาหรือผิดพลาดนี้โดยใช้ Windows System File Checker, อ่านเพิ่มเติมได้[ที่นี่](https://xspl.it/1rte7x)",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_CANNOT_OPEN_MULTIPLE_XVE.title": {
+    "message": "ข้อผิดพลาด",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_CANNOT_OPEN_MULTIPLE_XVE.message": {
+    "message": "สนับสนุนการใช้งาน Express Video Editor ครั้งละหนึ่งตัวเท่านั้น โปรดปิดตัวที่ถูกใช้งานอยุ่โดย XSplit Gamecaster"
+  },
+  "messageDialog.messages.ERROR_MISSING_REQUIRED_PREREQ.title": {
+    "message": "ข้อผิดพลาด",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_REQUIRED_PREREQ.message": {
+    "message": "ค่าที่เป็นต้องมีหายไป[br][br]%value%[br] XSplit Broadcaster จะปิดตัวลง โปรดรีสตาร์ทหลังจากติดตั้งสิ่งที่จำเป็นต่อการใช้งานแล้ว"
+  },
+  "messageDialog.messages.ERROR_MISSING_VCE_PREREQ.title": {
+    "message": "ข้อผิดพลาด",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_VCE_PREREQ.message": {
+    "message": "VCE จำเป็นต้องมี:[br][br]%value%"
+  },
+  "messageDialog.messages.ERROR_MISSING_NET45_PREREQ.title": {
+    "message": "ข้อผิดพลาด",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_NET45_PREREQ.message": {
+    "message": "ฟังก์ชั่นของ Player.me ต้องการสิ่งเหล่านี้สำหรับ TLS 1.2:[br][br]%value%"
+  },
+  "messageDialog.messages.DELETE_SCENE.message": {
+    "message": "คุณแน่ใจหรือไม่ว่าต้องการลบฉากนี้ **%scene%**?",
+    "type": "question"
+  },
+  "messageDialog.messages.DUPLICATE_HOTKEY.message": {
+    "message": "คีย์ลัดต่อไปนี้ไม่สามารถกำหนดด้วยคีย์เดียวกันได้&nbsp; [br][br]%value%[br]",
+    "type": "warning"
+  },
+  "messageDialog.messages.REMOVE_OUTPUT_ENTRY.message": {
+    "message": "คุณแน่ใจหรือไม่ว่าต้องการเอาท์พุตนี้ - **%value%**",
+    "type": "question"
+  },
+  "messageDialog.messages.INVALID_PATH.message": {
+    "message": "%path% เป็นพาธที่ไม่ถูกต้อง",
+    "type": "error"
+  },
+  "messageDialog.messages.PATH_ACCESS_ERROR.message": {
+    "message": "เกิดความผิดพลาดขณะพยายามเข้าถึง **\"%path%\"**",
+    "type": "error"
+  },
+  "messageDialog.messages.CREATE_NON_EXISTING_PATH.message": {
+    "message": "ไม่พบ \"%path%\" คุณต้องการที่จะสร้างขึ้นใหม่หรือไม่",
+    "type": "question"
+  },
+  "messageDialog.messages.PATH_DOES_NOT_EXIST.message": {
+    "message": "ไม่พบ \"%path%\"",
+    "type": "warning"
+  },
+  "messageDialog.messages.INVALID_URL.message": {
+    "message": "โปรดป้อน URL ที่ถูกต้อง",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgPasteInfo.message": {
+    "message": "โปรดเลือกว่าคุณต้องการวางซอสอย่างไร[radio]pasteAsNewSource[/radio][radio]pasteAsLinkedSource[/radio][br]**Linked sources** คือซอสที่จะเป็นตัวที่ถูกใช้งานในหนึ่งหรือมากกว่าหนึ่งฉาก ตัวอย่างการใช้ที่เหมาะสมคือ เมื่อคุณต้องการเลื่อนต่อเนื่องระหว่างสองฉากหรือเมื่อคุณต้องการฟิกส่วนล่างหนึ่งในสามของฉากสองฉาก[อ่านโพสนี้](https://xspl.it/bc/uv65wd)สำหรับข้อมูลเพิ่มเติม",
+    "type": "info"
+  },
+  "messageDialog.radio.msgPasteInfo.pasteAsNewSource.message": {
+    "message": "**วางเป็นซอสใหม่** (Ctrl + Shift + V)"
+  },
+  "messageDialog.radio.msgPasteInfo.pasteAsLinkedSource.message": {
+    "message": "**วางเป็นลิงก์ของซอส** (Ctrl + Alt + V)"
+  },
+  "messageDialog.messages.msgPlayoutFormat.message": {
+    "message": "รูปแบบการแสดง[radio]noAlpha[/radio][radio]withAlpha[/radio][br][เรียนรู้เพิ่มเกี่ยวกับ NewTek NDI&trade;](https://xspl.it/06s8kq) **%version%**"
+  },
+  "messageDialog.radio.msgPlayoutFormat.noAlpha.message": {
+    "message": "ไม่มี Alpha โปร่งใส (ใช้ CPU น้อยลง)"
+  },
+  "messageDialog.radio.msgPlayoutFormat.withAlpha.message": {
+    "message": "ด้วย Alpha โปร่งใส (ใช้ CPU มากขึ้น)"
+  },
+  "messageDialog.checkbox.dontAskAgain": {
+    "message": "ไม่ต้องแสดงอีก"
+  },
+  "messageDialog.messages.YOUTUBE_STOPPED_STREAMING.message": {
+    "message": "คุณหยุดการสตรีมไปยัง YouTube Live คุณต้องการที่จะหยุดไลฟ์นี้ด้วยเลยหรือไม่",
+    "type": "question"
+  },
+  "messageDialog.messages.msgInvalidXSplitAccountInfo2.message": {
+    "message": "โปรดลงชื่อเข้าใช้ใหม่อีกครั้งเพื่อดำเนินการต่อ เพื่อเหตุผลด้านความปลอดภัย Token จะถูกเก็บไว้แทนรหัสผ่าน ถ้า token ถูกยกเลิกหรือหมดอายุ คุณจำเป็นต้องลงชื่อเข้าใช้ใหม่อีกครั้ง",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidSteamAccountInfo2.message": {
+    "message": "โปรดลงชื่อเข้าใช้ใหม่อีกครั้งเพื่อดำเนินการต่อ เพื่อเหตุผลด้านความปลอดภัย Token จะถูกเก็บไว้แทนรหัสผ่าน ถ้า token ถูกยกเลิกหรือหมดอายุ คุณจำเป็นต้องลงชื่อเข้าใช้ใหม่อีกครั้ง",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidSocialAccountInfo2.message": {
+    "message": "โปรดลงชื่อเข้าใช้ใหม่อีกครั้งเพื่อดำเนินการต่อ เพื่อเหตุผลด้านความปลอดภัย Token จะถูกเก็บไว้แทนรหัสผ่าน ถ้า token ถูกยกเลิกหรือหมดอายุ คุณจำเป็นต้องลงชื่อเข้าใช้ใหม่อีกครั้ง",
+    "type": "warning"
+  },
+  "messageDialog.messages.YOUTUBE_ULTRALOW_LATENCY_INFO.message": {
+    "message": "การตั้งค่าแบบ อัลตราโลว์ latency นั้นไม่สนับสนุนการใช้งานแบบ 1440p หรือสูงกกว่า[br][br]เอ้าท์พุตความละเอียดของคุณถูกเปลี่ยนเป็น 1080p",
+    "type": "info"
+  },
+  "messageDialog.messages.msgStingerNameIsEmpty.message": {
+    "message": "โปรดระบุชื่อ Stinger:",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStingerAlreadyExists.message": {
+    "message": "Stinger ชื่อเดียวกันและตำแหน่งเดียวกันมีอยู่แล้ว",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStingerNameIsInvalid.message": {
+    "message": "ชื่อของ Stinger ต้องไม่มีอักขระต่อไปนี้:\\ / : * ? \" < > |",
+    "type": "error"
+  },
+  "messageDialog.messages.PRESENTATION_FOLDER_ALREADY_EXISTS.message": {
+    "message": "มีโฟล์เดอร์ **'%foldername%'** อยูแล้วในโฟล์เดอร์ปลายทาง &nbsp;  [br]&nbsp;  [br] คุณค้องการเขียนทับโฟลเดอร์และไฟล์ขังมันไหม และดำเนินการโหลดการนำเสนออีกครั้ง?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgPluginLoadError.message": {
+    "message": "ไม่สามารถโหลดปลั๊กอินได้",
+    "type": "warning"
+  },
+  "messageDialog.dropdown.projectorBorder.label.message": {
+    "message": "ทำการเลือกเส้นขอบสำหรับหน้าจอโปรเจ็กเตอร์"
+  },
+  "messageDialog.dropdown.projectorBorder.values.always.message": {
+    "message": "แสดงเส้นขอบหน้าจากที่ถูกโฮเวอร์เลือกเสมอ"
+  },
+  "messageDialog.dropdown.projectorBorder.values.shift.message": {
+    "message": "แสดงเส้นขอบสำหรับหน้าจากเวลาที่ปุ่ม SHIFT ถูกกดไว้"
+  },
+  "messageDialog.dropdown.projectorBorder.values.never.message": {
+    "message": "ไม่แสดงเส้นขอหน้าจอเมื่อมีการเลือกโฮเวอร์"
+  }
+}

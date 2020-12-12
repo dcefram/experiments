@@ -1,0 +1,110 @@
+{
+  "title.source": {
+    "message": "ソース"
+  },
+  "subtitle.account": {
+    "message": "アカウント"
+  },
+  "link.authorize": {
+    "message": "XSplitに対してFacebook Liveの使用を許可します。"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** アカウントを切り替える"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** 認証取り消し"
+  },
+  "subtitle2.authorize.error": {
+    "message": "XSplitが要求している権限を許可させる為、もう一度認証を行ってください。"
+  },
+  "subtitle.source": {
+    "message": "ソース"
+  },
+  "source.values.automatic": {
+    "message": "自動"
+  },
+  "chat.reaction.not_connected": {
+    "message": "配信が始まると自動的にリアクションが読み込まれます"
+  },
+  "chat.comment.not_connected": {
+    "message": "配信が始まると自動的にコメントが読み込まれます"
+  },
+  "chat.connected": {
+    "message": "接続しました。"
+  },
+  "title.display": {
+    "message": "ディスプレイ"
+  },
+  "help.display.title": {
+    "message": "リアクションアニメーション"
+  },
+  "help.display.text": {
+    "message": "配信でライブリアクションの表示方法をカスタマイズしよう！[br] アニメーションタイプと各種設定を選択しよう。[br][br] プレビューボタンをクリックし、配信を開始する前にアニメーションを確認しましょう。"
+  },
+  "animation.text": {
+    "message": "アニメーション"
+  },
+  "label.streamprops": {
+    "message": "配信プロパティ"
+  },
+  "button.reset": {
+    "message": "リセット"
+  },
+  "label.direction": {
+    "message": "方向"
+  },
+  "label.time": {
+    "message": "時間"
+  },
+  "label.seconds": {
+    "message": "秒"
+  },
+  "label.timevariation": {
+    "message": "時間バリエーション"
+  },
+  "label.emoji.size": {
+    "message": "リアクションサイズ"
+  },
+  "label.pixels": {
+    "message": "ピクセル"
+  },
+  "label.sizevariation": {
+    "message": "サイズバリエーション"
+  },
+  "label.hide_connection_message": {
+    "message": "接続メッセージを非表示にする"
+  },
+  "button.preview": {
+    "message": "プレビュー"
+  },
+  "animation.types.stream": {
+    "message": "リアクション配信"
+  },
+  "animation.types.pop": {
+    "message": "ポップアウト/イン"
+  },
+  "stream.directions.leftToRight": {
+    "message": "左から右へ"
+  },
+  "stream.directions.topToBottom": {
+    "message": "上から下へ"
+  },
+  "stream.directions.rightToLeft": {
+    "message": "右から左へ"
+  },
+  "stream.directions.bottomToTop": {
+    "message": "下から上へ"
+  },
+  "tabheader.title": {
+    "message": "リアクション"
+  },
+  "label.not_seeing_videos": {
+    "message": "ライブ映像が表示されておりませんか？"
+  },
+  "label.not_seeing_videos_help": {
+    "message": "あなたのページへアクセスする許可がない可能性があります。"
+  },
+  "label.not_seeing_videos_link": {
+    "message": "こちらをクリックし、再承認を行ってください"
+  }
+}

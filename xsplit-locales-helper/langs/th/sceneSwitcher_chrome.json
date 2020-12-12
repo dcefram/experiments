@@ -1,0 +1,65 @@
+{
+  "sceneSwitcher.inactive": {
+    "message": "เปิดใช้งาน"
+  },
+  "sceneSwitcher.start_scene_switcher": {
+    "message": "เริ่มตัวสลับฉาก"
+  },
+  "sceneSwitcher.stop_scene_switcher": {
+    "message": "หยุดตัวสลับฉาก"
+  },
+  "sceneSwitcher.general_info": {
+    "message": "โฟกัสไปที่แอปพลิเคชันที่อยู่ในฉากใดฉากหนึ่งของคุณจะเปลี่ยนมิกเซอร์ของคุณไปที่ฉากนั้นโดยอัตโนมัติ หากแอปพลิเคชันอยู่ในฉากของคุณสองฉากขึ้นไป แอปพลิเคชันจะเปลี่ยนเป็นฉากแรกตามค่าเริ่มต้น"
+  },
+  "sceneSwitcher.start_stop_hotkey": {
+    "message": "ปุ่มลัดเริ่ม/หยุดตัวสลับฉาก"
+  },
+  "sceneSwitcher.start_stop_hotkey_tooltip": {
+    "message": "ปุ่มลัดนี้เป็นไปตามหลักของปุ่มลัดสากลทั่วโลก แน่ใจว่าไม่มีปุ่มลัดที่ซ้ำกับของคุณภายใต้ เครื่องมือ >> ตั้งค่า >> ปุ่มลัด"
+  },
+  "sceneSwitcher.hotkey_permission": {
+    "message": "ปุ่มลัดต้องการคำอนุญาตเพิ่มเพื่อเปิด (เครื่องมือ -> สิทธิ์อนุญาต)"
+  },
+  "sceneSwitcher.hotkey_warning": {
+    "message": "ค่าปุ่มลัดตัวสลับฉากของคุณมีการซ้ำกับหนึ่งในปุ่มลัดของคุณภายใต้เมนูเครื่องมือ >> ตั้งค่า >> ปุ่มลัด"
+  },
+  "sceneSwitcher.no_window_match": {
+    "message": "เมื่อไม่มีหน้าต่างหัวข้อที่ตรงกัน"
+  },
+  "sceneSwitcher.dont_switch_radio": {
+    "message": "ไม่สลับ"
+  },
+  "sceneSwitcher.switch_to_radio": {
+    "message": "สลับไปยัง"
+  },
+  "sceneSwitcher.none": {
+    "message": "ว่าง"
+  },
+  "sceneSwitcher.switch_period": {
+    "message": "Switch Grace Period (ms)"
+  },
+  "sceneSwitcher.switch_period_tooltip": {
+    "message": "เวลาก่อนการสลับฉากไปยังฉากอื่น ถ้าแอปพลิเคชั่นที่ตั้งใหม่ไว้สลับกลับไปยังแอปพลิเคชั่นก่อนหน้าก่อนที่ระยะเวลาจะตรงกัน ไม่เกิดการเปลี่ยนฉากขึ้น"
+  },
+  "sceneSwitcher.advance_mode": {
+    "message": "โหมดขั้นสูง"
+  },
+  "sceneSwitcher.advance_mode_header": {
+    "message": "โหมดขั้นสูง"
+  },
+  "sceneSwitcher.advance_mode_details": {
+    "message": "ในโหมดขั้นสูง คุณสามารถตั้งค่าแอปพลิเคชั่นใดๆ เพื่อสลับไปยังฉากของคุณ"
+  },
+  "sceneSwitcher.custom_rules": {
+    "message": "ปรับแต่งกฎ"
+  },
+  "sceneSwitcher.custom_rules_add": {
+    "message": "เพิ่มเติม"
+  },
+  "sceneSwitcher.custom_rules_remove": {
+    "message": "เอาออก"
+  },
+  "sceneSwitcher.custom_rules_edit": {
+    "message": "แก้ไข"
+  }
+}

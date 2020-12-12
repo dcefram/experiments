@@ -1,0 +1,3655 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutBroadcaster" xml:space="preserve">
+    <value>엑스플릿 브로드캐스터 정보</value>
+  </data>
+  <data name="AboutBroadcaster_Acknowledgements" xml:space="preserve">
+    <value>드리는 말씀:</value>
+  </data>
+  <data name="AboutBroadcaster_AcknowledgementsFullText" xml:space="preserve">
+    <value>드리는 말씀: XSplit BROADCASTER는 Vladimir Hmelyoff 와 Egor Hmelyoff가 만든 Multicam Studio에 기반을 두고 있습니다. 이 프로그램은 오픈 소스 소프트웨어 라이브러리의 일부분을 사용하고 있으며 자세한 내용은 일반 라이센스 동의서를 참고하세요.</value>
+  </data>
+  <data name="AboutBroadcaster_LicenseLinkText" xml:space="preserve">
+    <value>일반 라이센스 동의서</value>
+  </data>
+  <data name="aboutToolStripMenuItem" xml:space="preserve">
+    <value>XSplit 정보 (&amp;A)</value>
+  </data>
+  <data name="addCameraToolStripMenuItem" xml:space="preserve">
+    <value>영상</value>
+  </data>
+  <data name="addCameraToolStripMenuItem2" xml:space="preserve">
+    <value>영상</value>
+  </data>
+  <data name="addChannelsToolStripMenuItem" xml:space="preserve">
+    <value>송출 플랫폼 추가하기</value>
+  </data>
+  <data name="addChannelsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>방송 플랫폼 추가하기</value>
+  </data>
+  <data name="addGameTsmi2" xml:space="preserve">
+    <value>게임 캡처(&amp;G)</value>
+  </data>
+  <data name="addMediaFileToolStripMenuItem2" xml:space="preserve">
+    <value>미디어 파일 (영상, 이미지 등) (&amp;M)</value>
+  </data>
+  <data name="addMoreTsmi2" xml:space="preserve">
+    <value>플러그인 상점에서 더 많은 플러그인을 만나보세요</value>
+  </data>
+  <data name="addMoreTsmi2Xbc5003" xml:space="preserve">
+    <value>더 많은 소스 보기</value>
+  </data>
+  <data name="addRTSPSourceToolStripMenuItem" xml:space="preserve">
+    <value>라이브스트림 추가... (&amp;V)</value>
+  </data>
+  <data name="addScreenRegionToolStripMenuItem2" xml:space="preserve">
+    <value>화면 캡처(&amp;R)</value>
+  </data>
+  <data name="addSource" xml:space="preserve">
+    <value>소스 추가</value>
+  </data>
+  <data name="addSource_Tooltip" xml:space="preserve">
+    <value>소스 추가</value>
+  </data>
+  <data name="addSwfPluginToolStripMenuItem" xml:space="preserve">
+    <value>SWF 플러그인 추가하기...</value>
+  </data>
+  <data name="AddSwfRtmp" xml:space="preserve">
+    <value>IP 카메라/RTSP 스트림 추가</value>
+  </data>
+  <data name="addTitleToolStripMenuItem" xml:space="preserve">
+    <value>제목 추가하기...(&amp;T)</value>
+  </data>
+  <data name="addUrlTsmi" xml:space="preserve">
+    <value>IP 카메라 (RTSP)...</value>
+  </data>
+  <data name="addUrlTsmi2" xml:space="preserve">
+    <value>IP 카메라 (RTSP)...</value>
+  </data>
+  <data name="announceToolStripMenuItem" xml:space="preserve">
+    <value>방송 주소 SNS 공유 (&amp;H)</value>
+  </data>
+  <data name="announceToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>방송 주소 SNS 공유 (&amp;H)</value>
+  </data>
+  <data name="AskToRetrySync" xml:space="preserve">
+    <value>사용자의 프로필과 서버의 프로필이 동일하지 않습니다.</value>
+  </data>
+  <data name="BandwidthTester" xml:space="preserve">
+    <value>대역폭 테스트</value>
+  </data>
+  <data name="boostCaptureFramerateTsmi" xml:space="preserve">
+    <value>캡처 프레임률 부스팅</value>
+  </data>
+  <data name="BroadcasterSceneX_desc" xml:space="preserve">
+    <value>[SceneX]으로 바꾸기</value>
+  </data>
+  <data name="BroadcasterScene1_desc" xml:space="preserve">
+    <value>[Scene1]으로 바꾸기</value>
+  </data>
+  <data name="BroadcasterScene10_desc" xml:space="preserve">
+    <value>[Scene10]으로 바꾸기</value>
+  </data>
+  <data name="BroadcasterScene11_desc" xml:space="preserve">
+    <value>[Scene11]으로 바꾸기</value>
+  </data>
+  <data name="BroadcasterScene12_desc" xml:space="preserve">
+    <value>[Scene12]으로 바꾸기</value>
+  </data>
+  <data name="BroadcasterScene2_desc" xml:space="preserve">
+    <value>[Scene2]으로 바꾸기</value>
+  </data>
+  <data name="BroadcasterScene3_desc" xml:space="preserve">
+    <value>[Scene3]으로 바꾸기</value>
+  </data>
+  <data name="BroadcasterScene4_desc" xml:space="preserve">
+    <value>[Scene4]으로 바꾸기</value>
+  </data>
+  <data name="BroadcasterScene5_desc" xml:space="preserve">
+    <value>[Scene5]으로 바꾸기</value>
+  </data>
+  <data name="BroadcasterScene6_desc" xml:space="preserve">
+    <value>[Scene6]으로 바꾸기</value>
+  </data>
+  <data name="BroadcasterScene7_desc" xml:space="preserve">
+    <value>[Scene7]으로 바꾸기</value>
+  </data>
+  <data name="BroadcasterScene8_desc" xml:space="preserve">
+    <value>[Scene8]으로 바꾸기</value>
+  </data>
+  <data name="BroadcasterScene9_desc" xml:space="preserve">
+    <value>[Scene9]으로 바꾸기</value>
+  </data>
+  <data name="BroadcasterSettings" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="BroadcasterToggleBroadcast" xml:space="preserve">
+    <value>방송 시작/정지 - {0}</value>
+  </data>
+  <data name="BroadcasterToggleBroadcastXbc5003" xml:space="preserve">
+    <value>송출 시작/정지 - {0}</value>
+  </data>
+  <data name="BroadcasterToggleBroadcast1" xml:space="preserve">
+    <value>시작/중지 {0}</value>
+  </data>
+  <data name="BroadcasterToggleBroadcast2" xml:space="preserve">
+    <value>녹화 시작/정지 {0}</value>
+  </data>
+  <data name="BroadcasterTogglePauseRecording" xml:space="preserve">
+    <value>녹화 일시정지/다시재생 {0}</value>
+  </data>
+  <data name="BroadcasterToggleMic_desc" xml:space="preserve">
+    <value>마이크 켜기</value>
+  </data>
+  <data name="BroadcasterToggleSpeaker_desc" xml:space="preserve">
+    <value>스피커 켜기</value>
+  </data>
+  <data name="PTT_desc" xml:space="preserve">
+    <value>눌러서 말하기</value>
+  </data>
+  <data name="BroadcasterTogglePauseRecording_desc" xml:space="preserve">
+    <value>일시정지 또는 연결 녹화하기</value>
+  </data>
+  <data name="BroadcasterToggleOverlay_desc" xml:space="preserve">
+    <value>오버레이 보이기/숨기기</value>
+  </data>
+  <data name="BroadcasterToggleOverlay2_desc" xml:space="preserve">
+    <value>오버레이 보이기/숨기기</value>
+  </data>
+  <data name="BroadcasterResizeSource1_desc" xml:space="preserve">
+    <value>소스를 전체 화면에 맞추기</value>
+  </data>
+  <data name="BroadcasterResizeSource2_desc" xml:space="preserve">
+    <value>소스 크기 조절 (1/4)</value>
+  </data>
+  <data name="BroadcasterResizeSource3_desc" xml:space="preserve">
+    <value>소스 크기 조절 (1/8)</value>
+  </data>
+  <data name="BroadcasterScnPreset1_desc" xml:space="preserve">
+    <value>프리셋 1로 전환 (생방송 화면)</value>
+  </data>
+  <data name="BroadcasterScnPreset2_desc" xml:space="preserve">
+    <value>프리셋 2로 전환 (생방송 화면)</value>
+  </data>
+  <data name="BroadcasterScnPreset3_desc" xml:space="preserve">
+    <value>프리셋 3으로 전환 (생방송 화면)</value>
+  </data>
+  <data name="BroadcastStatus_AcquiringConfiguration" xml:space="preserve">
+    <value>방송 구성 설정중{0}</value>
+  </data>
+  <data name="BroadcastStatus_AcquiringConfigurationLR" xml:space="preserve">
+    <value>녹화 구성요소 불러오는중</value>
+  </data>
+  <data name="BroadcastStatus_InitiatingStream" xml:space="preserve">
+    <value>스트리밍 준비{0}</value>
+  </data>
+  <data name="BroadcastStatus_InitiatingStreamLR" xml:space="preserve">
+    <value>녹화 준비중</value>
+  </data>
+  <data name="BroadcastStatus_Streaming" xml:space="preserve">
+    <value>{0}방송중</value>
+  </data>
+  <data name="broadcastToolStripMenuItem" xml:space="preserve">
+    <value>방송(&amp;B)</value>
+  </data>
+  <data name="broadcastToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>방송 송출 (&amp;O)</value>
+  </data>
+  <data name="btnAddChannel" xml:space="preserve">
+    <value>추가...</value>
+  </data>
+  <data name="btnAddRes" xml:space="preserve">
+    <value>추가...</value>
+  </data>
+  <data name="btnAddService" xml:space="preserve">
+    <value>서비스 추가</value>
+  </data>
+  <data name="btnApply" xml:space="preserve">
+    <value>적용</value>
+  </data>
+  <data name="btnAuthorize" xml:space="preserve">
+    <value>권한 인증</value>
+  </data>
+  <data name="btnCamDS" xml:space="preserve">
+    <value>환경설정</value>
+  </data>
+  <data name="btnCancel" xml:space="preserve">
+    <value>닫기</value>
+  </data>
+  <data name="btnCheckAllRes" xml:space="preserve">
+    <value>모두 선택</value>
+  </data>
+  <data name="btnClearAllRes" xml:space="preserve">
+    <value>모두 해제</value>
+  </data>
+  <data name="btnColorChromaEyedrop" xml:space="preserve">
+    <value>스포이드 툴</value>
+  </data>
+  <data name="btnColorPicReset" xml:space="preserve">
+    <value>재설정</value>
+  </data>
+  <data name="btnContinue" xml:space="preserve">
+    <value>계속</value>
+  </data>
+  <data name="btnEditChannel" xml:space="preserve">
+    <value>수정...</value>
+  </data>
+  <data name="btnEditRes" xml:space="preserve">
+    <value>수정...</value>
+  </data>
+  <data name="btnFinish" xml:space="preserve">
+    <value>완료</value>
+  </data>
+  <data name="btnLiveApply" xml:space="preserve">
+    <value>적용</value>
+  </data>
+  <data name="btnLogin" xml:space="preserve">
+    <value>로그인</value>
+  </data>
+  <data name="btnLogout" xml:space="preserve">
+    <value>로그아웃</value>
+  </data>
+  <data name="btnPos3DReset" xml:space="preserve">
+    <value>리셋</value>
+  </data>
+  <data name="btnPosCropReset" xml:space="preserve">
+    <value>리셋</value>
+  </data>
+  <data name="btnRemoveChannel" xml:space="preserve">
+    <value>제거</value>
+  </data>
+  <data name="btnRemoveRes" xml:space="preserve">
+    <value>제거</value>
+  </data>
+  <data name="btnRestoreAdvancedSettings" xml:space="preserve">
+    <value>설정 초기화</value>
+  </data>
+  <data name="btnRestoreDefaultHotKeys" xml:space="preserve">
+    <value>처음설정 복구하기</value>
+  </data>
+  <data name="btnRestoreInternalSettings" xml:space="preserve">
+    <value>처음설정 복구하기</value>
+  </data>
+  <data name="btnRestoreResolutions" xml:space="preserve">
+    <value>처음설정 복구하기</value>
+  </data>
+  <data name="btnScrCapReset" xml:space="preserve">
+    <value>리셋</value>
+  </data>
+  <data name="btnSignIn" xml:space="preserve">
+    <value>로그인</value>
+  </data>
+  <data name="btnSignOut" xml:space="preserve">
+    <value>로그아웃</value>
+  </data>
+  <data name="btnStartTest_2" xml:space="preserve">
+    <value>테스트 재시작</value>
+  </data>
+  <data name="btnUpdateChannel" xml:space="preserve">
+    <value>채널 갱신</value>
+  </data>
+  <data name="btnVidCueAddCuePoint" xml:space="preserve">
+    <value>큐 시점 추가</value>
+  </data>
+  <data name="btnVidCueDelete" xml:space="preserve">
+    <value>삭제</value>
+  </data>
+  <data name="btnVidCueEditCuePoint" xml:space="preserve">
+    <value>수정</value>
+  </data>
+  <data name="btnVidPlayReset" xml:space="preserve">
+    <value>리셋</value>
+  </data>
+  <data name="btnVidPlaySetEndTime" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="btnVidPlaySetStartTime" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="btnXSplitSearch" xml:space="preserve">
+    <value>프로필 이미지 추가</value>
+  </data>
+  <data name="BwTester_Aborted" xml:space="preserve">
+    <value>취소됨.</value>
+  </data>
+  <data name="BwTester_Done" xml:space="preserve">
+    <value>완료.</value>
+  </data>
+  <data name="BwTester_FinalStats" xml:space="preserve">
+    <value>평균 데이터 비율: {0} kbps.</value>
+  </data>
+  <data name="BwTester_Green" xml:space="preserve">
+    <value>테스트 결과: 양호</value>
+  </data>
+  <data name="BwTester_Init0" xml:space="preserve">
+    <value>최대 데이터 비율인 {0} kbps 로 방송을 시도해보십시오...</value>
+  </data>
+  <data name="BwTester_Init01" xml:space="preserve">
+    <value>{0} kbps에서 {1} 까지 방송 시도</value>
+  </data>
+  <data name="BwTester_Init1" xml:space="preserve">
+    <value>서버에 접속중...</value>
+  </data>
+  <data name="BwTester_Init2" xml:space="preserve">
+    <value>서버로 전환중...</value>
+  </data>
+  <data name="BwTester_Red" xml:space="preserve">
+    <value>테스트 결과: 불안</value>
+  </data>
+  <data name="BwTester_RedOffer" xml:space="preserve">
+    <value>다시 테스트 하실수 있지만, 계속해서 빨간 신호가 나온다면 오디오와 최대 비디오 Bitrate 를 낮춰야 할 것입니다{0}.</value>
+  </data>
+  <data name="BwTester_RedOffer2" xml:space="preserve">
+    <value> {0} kbps 이하로 낮추기</value>
+  </data>
+  <data name="BwTester_Sending" xml:space="preserve">
+    <value>{1:0} ms 동안 평균 데이터 비율: {0} kbps...</value>
+  </data>
+  <data name="BwTester_Sending1" xml:space="preserve">
+    <value>현재 처리율: {0} kbps</value>
+  </data>
+  <data name="BwTester_Sending2" xml:space="preserve">
+    <value>평균 데이터 비율: {0} kbps...</value>
+  </data>
+  <data name="BwTester_Sending3" xml:space="preserve">
+    <value>{1:0} 초 후 평균 데이터 값: {0} kbps...</value>
+  </data>
+  <data name="BwTester_AvgBitrate" xml:space="preserve">
+    <value>계산 된 평균 데이터 비율: {0} kbps</value>
+  </data>
+  <data name="BwTester_Yellow" xml:space="preserve">
+    <value>테스트 결과: 중간</value>
+  </data>
+  <data name="BwTester_ResultLegend" xml:space="preserve">
+    <value>결과: 
+녹색: 목표 Bitrate 전송률을 달성 했고 FPS 도 떨어지지 않음.
+노란색: 목표했던 Bitrate 전송률 달성 실패. Bitrate 약간 조절 필요.
+빨간색: Bitrate, FPS 모두 전송률 불안전함.</value>
+  </data>
+  <data name="BwTester_YellowOffer" xml:space="preserve">
+    <value>계속해서 노란 신호가 나온다면 오디오와 비디오 Bitrate 를 낮추십시오{0}.</value>
+  </data>
+  <data name="BwTester_YellowOffer2" xml:space="preserve">
+    <value>  {0} kbps 보다 약간 적은 값</value>
+  </data>
+  <data name="cboMaxBitrate_Tooltip" xml:space="preserve">
+    <value>비트전송률 최대화</value>
+  </data>
+  <data name="cboQuality_Tooltip" xml:space="preserve">
+    <value>품질: 0 - 제일 나쁜 품질과 느린 인터넷 속도 (CRF = 35) 품질: 10 - 제일 좋은 품질과 빠른 인터넷 속도 (CRF = 25)</value>
+  </data>
+  <data name="cboVBitrate_Auto" xml:space="preserve">
+    <value>자동</value>
+  </data>
+  <data name="ChannelNameAlreadyExists" xml:space="preserve">
+    <value>{0} 이미 존재합니다.</value>
+  </data>
+  <data name="ChannelNameIsEmpty" xml:space="preserve">
+    <value>채널 이름을 입력하십시오.</value>
+  </data>
+  <data name="checkStatus" xml:space="preserve">
+    <value>업데이트 확인 중... 잠시만 기다리십시오....</value>
+  </data>
+  <data name="checkStatus_Tier4" xml:space="preserve">
+    <value>업데이트 4단계 확인 중... 잠시만 기다리십시오...</value>
+  </data>
+  <data name="checkUpdatesToolStripMenuItem" xml:space="preserve">
+    <value>업데이트 확인하기</value>
+  </data>
+  <data name="chkAdvCapSpkrOut" xml:space="preserve">
+    <value>기본적으로 스피커 출력 캡처하기.</value>
+  </data>
+  <data name="chkAlwaysEnableAero" xml:space="preserve">
+    <value>Aero 테마 항상 활성화</value>
+  </data>
+  <data name="chkAutoLogin" xml:space="preserve">
+    <value>자동 로그인</value>
+  </data>
+  <data name="chkColorChromaKey" xml:space="preserve">
+    <value>크로마 키</value>
+  </data>
+  <data name="chkDisableAero" xml:space="preserve">
+    <value>Aero 테마 비활성화</value>
+  </data>
+  <data name="chkEnableGameSource" xml:space="preserve">
+    <value>게임 소스 실행</value>
+  </data>
+  <data name="chkEnableGameSource_Tooltip" xml:space="preserve">
+    <value>게임 캡처 소스는 전체화면 모드의 게임도 캡처할 수 있습니다.</value>
+  </data>
+  <data name="chkEnableSkypeInteraction" xml:space="preserve">
+    <value>Skype 와 연동</value>
+  </data>
+  <data name="chkEnableVCamOutput" xml:space="preserve">
+    <value>가상 카메라 아웃풋 실행</value>
+  </data>
+  <data name="chkGain" xml:space="preserve">
+    <value>음소거 탐지</value>
+  </data>
+  <data name="chkLogSysInfo" xml:space="preserve">
+    <value>시스템 정보 로그</value>
+  </data>
+  <data name="chkLogSysInfo_Tooltip" xml:space="preserve">
+    <value>XSplit 서버에 관한 로그입니다. 윈도우 운영체제, 프로세서, 그래픽 카드 등에 관한 정보가 있습니다.</value>
+  </data>
+  <data name="chkPosKeepAR" xml:space="preserve">
+    <value>가로/세로 비율 유지</value>
+  </data>
+  <data name="chkPosLock" xml:space="preserve">
+    <value>위치 고정</value>
+  </data>
+  <data name="chkRecordStream" xml:space="preserve">
+    <value>자동으로 로컬 드라이브에 방송 녹화</value>
+  </data>
+  <data name="chkRememberMe" xml:space="preserve">
+    <value>나를 항상 저장</value>
+  </data>
+  <data name="chkScrCapLayered" xml:space="preserve">
+    <value>레이어드 윈도우 캡처</value>
+  </data>
+  <data name="chkScrCapNoAero" xml:space="preserve">
+    <value>레이어드 윈도우 캡처 중지</value>
+  </data>
+  <data name="chkScrCapOptiTextResize" xml:space="preserve">
+    <value>글자 크기 조절 최적화</value>
+  </data>
+  <data name="chkScrCapShowMouse" xml:space="preserve">
+    <value>마우스 보이기</value>
+  </data>
+  <data name="chkScrCapShowMouseclicks" xml:space="preserve">
+    <value>마우스 클릭 보이기</value>
+  </data>
+  <data name="chkSkipIntro" xml:space="preserve">
+    <value>이 창을 다시 보이지 않습니다.</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace" xml:space="preserve">
+    <value>강제 디인터레이스</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace1" xml:space="preserve">
+    <value>디인터레이스 실행: 기본</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace2" xml:space="preserve">
+    <value>디인터레이스 실행: 최적화</value>
+  </data>
+  <data name="chkVidPlayRememberPosition" xml:space="preserve">
+    <value>재생 시점 기억하기</value>
+  </data>
+  <data name="chkVidPlayStartOnLoad" xml:space="preserve">
+    <value>로딩이 완료되면 바로 시작</value>
+  </data>
+  <data name="clockTransition" xml:space="preserve">
+    <value>시계 방향</value>
+  </data>
+  <data name="collapseTransition" xml:space="preserve">
+    <value>밖에서 안으로</value>
+  </data>
+  <data name="ConfirmCreationOfNonExistingFolder" xml:space="preserve">
+    <value>"{0}" 가 존재하지 않습니다. 다시 만드시겠습니까?</value>
+  </data>
+  <data name="contentToolStripMenuItem" xml:space="preserve">
+    <value>메뉴얼</value>
+  </data>
+  <data name="CustomFramerateLabel" xml:space="preserve">
+    <value>사용자 지정 FPS...</value>
+  </data>
+  <data name="debugOptions" xml:space="preserve">
+    <value>디버그 옵션</value>
+  </data>
+  <data name="editChannelsToolStripMenuItem" xml:space="preserve">
+    <value>채널 수정...</value>
+  </data>
+  <data name="EditCuePoints" xml:space="preserve">
+    <value>큐 시점</value>
+  </data>
+  <data name="editResolutions" xml:space="preserve">
+    <value>해상도 수정...</value>
+  </data>
+  <data name="enableVcamWhileStreamingTsmi" xml:space="preserve">
+    <value>스트리밍하는 동안 가상 카메라를 사용</value>
+  </data>
+  <data name="exitToolStripMenuItem" xml:space="preserve">
+    <value>종료(&amp;X)</value>
+  </data>
+  <data name="ExternalViewport" xml:space="preserve">
+    <value>프로젝터</value>
+  </data>
+  <data name="externalViewportTsmi" xml:space="preserve">
+    <value>프로젝터</value>
+  </data>
+  <data name="fadeTransition" xml:space="preserve">
+    <value>흐려지기</value>
+  </data>
+  <data name="FailureCreatingNonExistingFolder" xml:space="preserve">
+    <value>폴더를 만들 수 없습니다. "{0}". {1}.</value>
+  </data>
+  <data name="fanTransition" xml:space="preserve">
+    <value>선풍기</value>
+  </data>
+  <data name="feedbackToolStripMenuItem" xml:space="preserve">
+    <value>피드백 및 의견 보내기...</value>
+  </data>
+  <data name="fileToolStripMenuItem" xml:space="preserve">
+    <value>파일(&amp;F)</value>
+  </data>
+  <data name="folderLocationLabel" xml:space="preserve">
+    <value>위치:</value>
+  </data>
+  <data name="frameRateToolStripMenuItem" xml:space="preserve">
+    <value>프레임률(&amp;F)</value>
+  </data>
+  <data name="FreePopup" xml:space="preserve">
+    <value>공지사항</value>
+  </data>
+  <data name="frmAnnounce" xml:space="preserve">
+    <value>방송 주소 SNS 공유</value>
+  </data>
+  <data name="frmChannelProps" xml:space="preserve">
+    <value>채널 속성</value>
+  </data>
+  <data name="gainLatencyLabel" xml:space="preserve">
+    <value>음소거 기간:</value>
+  </data>
+  <data name="grpAudio" xml:space="preserve">
+    <value>오디오</value>
+  </data>
+  <data name="grpAudioEncoding" xml:space="preserve">
+    <value>오디오 인코딩</value>
+  </data>
+  <data name="grpChannel" xml:space="preserve">
+    <value>채널</value>
+  </data>
+  <data name="grpEncoding" xml:space="preserve">
+    <value>인코딩</value>
+  </data>
+  <data name="grpGeneral" xml:space="preserve">
+    <value>일반</value>
+  </data>
+  <data name="grpMyRecordings" xml:space="preserve">
+    <value>녹화 영상</value>
+  </data>
+  <data name="grpVideoEncoding" xml:space="preserve">
+    <value>비디오 인코딩</value>
+  </data>
+  <data name="helpToolStripMenuItem" xml:space="preserve">
+    <value>도움말(&amp;H)</value>
+  </data>
+  <data name="holeTransition" xml:space="preserve">
+    <value>홀</value>
+  </data>
+  <data name="InputCustomFramerate" xml:space="preserve">
+    <value>사용자 지정 FPS</value>
+  </data>
+  <data name="InvalidChannelCredentials" xml:space="preserve">
+    <value>사용자의 플랫폼 인증 절차도중 오류가 발생했습니다. 아이디와 비밀번호를 다시 확인해주십시오.</value>
+  </data>
+  <data name="InvalidCharactersInChannelName" xml:space="preserve">
+    <value>채널이름에 사용할 수 없는 문자가 있습니다.</value>
+  </data>
+  <data name="label1BroadcastShare" xml:space="preserve">
+    <value>{0} 로 생방송 송출을 진행 중입니다. &lt;a href="{1}"&gt;여기&lt;/a&gt;를 눌러 방송 브라우저를 여십시오. (소리가 울리는 현상을 막기위해 음소거하는 것을 잊지마세요).</value>
+  </data>
+  <data name="label1BroadcastShare1" xml:space="preserve">
+    <value>{0}로 생방송 스트리밍을 진행 중입니다.</value>
+  </data>
+  <data name="label1BroadcastShare2" xml:space="preserve">
+    <value>녹화가 시작되었습니다.
+저장된 녹화영상을 확인하시려면 파일 -&gt; 녹화 영상 폴더 를 확인하세요.</value>
+  </data>
+  <data name="label1BroadcastShare3" xml:space="preserve">
+    <value>활성화된 장면 녹화를 시작했습니다. 녹화된 영상은 파일 메뉴 -&gt; 녹화 영상 폴더를 확인해보세요.</value>
+  </data>
+  <data name="label1BroadcastShare4" xml:space="preserve">
+    <value>{0} 장면 녹화를 시작했습니다. 녹화된 영상은 파일 메뉴 -&gt; 녹화 영상 폴더를 확인해보세요.</value>
+  </data>
+  <data name="label3" xml:space="preserve">
+    <value>업데이트 완료</value>
+  </data>
+  <data name="label4" xml:space="preserve">
+    <value>이 기능을 사용하시면 방송 중 채널상태를 변경할 수 있습니다.</value>
+  </data>
+  <data name="LatestNews" xml:space="preserve">
+    <value>최신 뉴스</value>
+  </data>
+  <data name="latestNewsToolStripMenuItem" xml:space="preserve">
+    <value>최신 뉴스</value>
+  </data>
+  <data name="lblAbitrate" xml:space="preserve">
+    <value>오디오 Bitrate:</value>
+  </data>
+  <data name="lblACodec" xml:space="preserve">
+    <value>코덱:</value>
+  </data>
+  <data name="lblAudioBitrate" xml:space="preserve">
+    <value>Bitrate:</value>
+  </data>
+  <data name="lblAudioFormat" xml:space="preserve">
+    <value>형식:</value>
+  </data>
+  <data name="lblAudioIn" xml:space="preserve">
+    <value>마이크</value>
+  </data>
+  <data name="lblBirthDay" xml:space="preserve">
+    <value>생년월일:</value>
+  </data>
+  <data name="lblBufferSize" xml:space="preserve">
+    <value>VBV 버퍼 (kbit):</value>
+  </data>
+  <data name="lblBufferSize_Tooltip" xml:space="preserve">
+    <value>최대 Bitrate는 버퍼와 관계 있습니다. 버퍼는 시청자의 버퍼링보다 크면 안됩니다. (보통 생방송 스트리밍은 2초의 버퍼링을 선택합니다.)</value>
+  </data>
+  <data name="lblBufferTime" xml:space="preserve">
+    <value>플래쉬 버퍼링 (초)</value>
+  </data>
+  <data name="lblCamDS" xml:space="preserve">
+    <value>장치 구성요소</value>
+  </data>
+  <data name="lblCamDSHint" xml:space="preserve">
+    <value>귀하의 {0} 설정을 구성하려면 아래 버튼을 클릭하십시오.</value>
+  </data>
+  <data name="lblChannelNameLabel" xml:space="preserve">
+    <value>채널 이름:</value>
+  </data>
+  <data name="lblCodec" xml:space="preserve">
+    <value>코덱:</value>
+  </data>
+  <data name="lblColorChromaSel" xml:space="preserve">
+    <value>키</value>
+  </data>
+  <data name="lblColorPicture" xml:space="preserve">
+    <value>이미지</value>
+  </data>
+  <data name="lblCountry" xml:space="preserve">
+    <value>국가:</value>
+  </data>
+  <data name="lblCuePoints" xml:space="preserve">
+    <value>큐 시점:</value>
+  </data>
+  <data name="lblCuePointsHint" xml:space="preserve">
+    <value>아래의 텍스트 상자에, 쉼표로 구분하여 큐 시점을 입력하십시오. 시: 분: 초 형식을 사용하세요.</value>
+  </data>
+  <data name="lblDescription" xml:space="preserve">
+    <value>설명:</value>
+  </data>
+  <data name="lblDescription_Tooltip" xml:space="preserve">
+    <value>채널을 간단하게 설명합니다.</value>
+  </data>
+  <data name="lblEmail" xml:space="preserve">
+    <value>이메일</value>
+  </data>
+  <data name="lblFileType" xml:space="preserve">
+    <value>파일 형식:</value>
+  </data>
+  <data name="lblFlashPlayback" xml:space="preserve">
+    <value>재생 설정</value>
+  </data>
+  <data name="lblFlashUserAgent" xml:space="preserve">
+    <value>유저 에이전트 :</value>
+  </data>
+  <data name="lblFramerate" xml:space="preserve">
+    <value>프레임률:</value>
+  </data>
+  <data name="lblFramerate_Tooltip" xml:space="preserve">
+    <value>15보다 높은 초당 프레임 수를 설정하면 과도한 CPU 사용량 및 빠른 인터넷 속도가 필요합니다.</value>
+  </data>
+  <data name="lblFullName" xml:space="preserve">
+    <value>이름:</value>
+  </data>
+  <data name="lblGain" xml:space="preserve">
+    <value>한계치:</value>
+  </data>
+  <data name="lblGender" xml:space="preserve">
+    <value>성별:</value>
+  </data>
+  <data name="lblIngest" xml:space="preserve">
+    <value>서버:</value>
+  </data>
+  <data name="lblInternal2" xml:space="preserve">
+    <value>만약 Ustream, Twitch 또는 다른 온라인 서비스의 회원이시라면 RTMP나 RTMPT를 사용해 더 많은 채널 수를 입력하실 수 있습니다.</value>
+  </data>
+  <data name="lblInternal3" xml:space="preserve">
+    <value>클릭하여 자세히 알아보기...</value>
+  </data>
+  <data name="lblLanguage" xml:space="preserve">
+    <value>언어:</value>
+  </data>
+  <data name="lblLink" xml:space="preserve">
+    <value>링크 공유:</value>
+  </data>
+  <data name="lblLink_Tooltip" xml:space="preserve">
+    <value>이 URL은 다른 사람들이 볼 방송 주소입니다. 스트리밍이 시작하면 이 링크는 클립보드에 자동으로 복사됩니다.</value>
+  </data>
+  <data name="lblLivePassword" xml:space="preserve">
+    <value>비밀번호 :</value>
+  </data>
+  <data name="lblLivePlayback" xml:space="preserve">
+    <value>다시 재생</value>
+  </data>
+  <data name="lblLiveSource" xml:space="preserve">
+    <value>방송 소스</value>
+  </data>
+  <data name="lblLiveStreamName" xml:space="preserve">
+    <value>방송 이름:</value>
+  </data>
+  <data name="lblLiveUsername" xml:space="preserve">
+    <value>사용자 이름 :</value>
+  </data>
+  <data name="lblLoginTitle" xml:space="preserve">
+    <value>XSplit</value>
+  </data>
+  <data name="lblMaxBitrate" xml:space="preserve">
+    <value>VBV 최대 Bitrate (kbps):</value>
+  </data>
+  <data name="lblMaxBitrate_Tooltip" xml:space="preserve">
+    <value>사용자가 스트림 하고자하는 최대 비트 레이트로 설정</value>
+  </data>
+  <data name="lblName" xml:space="preserve">
+    <value>이름:</value>
+  </data>
+  <data name="lblName_Tooltip" xml:space="preserve">
+    <value>이름이 쉽게 식별되도록 입력해주세요.</value>
+  </data>
+  <data name="lblPassword" xml:space="preserve">
+    <value>비밀번호</value>
+  </data>
+  <data name="lblPos" xml:space="preserve">
+    <value>위치</value>
+  </data>
+  <data name="lblPos3DHint" xml:space="preserve">
+    <value>소스를 회전하려면 Shift 키를 누른채 마우스를 드래그 하십시오.</value>
+  </data>
+  <data name="lblPosCrop" xml:space="preserve">
+    <value>자르기</value>
+  </data>
+  <data name="lblPosCropBottom" xml:space="preserve">
+    <value>하단</value>
+  </data>
+  <data name="lblPosCropLeft" xml:space="preserve">
+    <value>왼쪽</value>
+  </data>
+  <data name="lblPosCropRight" xml:space="preserve">
+    <value>오른쪽</value>
+  </data>
+  <data name="lblPosCropTop" xml:space="preserve">
+    <value>상단</value>
+  </data>
+  <data name="lblPosHeight" xml:space="preserve">
+    <value>높이</value>
+  </data>
+  <data name="lblPosWidth" xml:space="preserve">
+    <value>넓이</value>
+  </data>
+  <data name="lblPreset" xml:space="preserve">
+    <value>CPU 사용 정도:</value>
+  </data>
+  <data name="lblPreset_Tooltip" xml:space="preserve">
+    <value>내부 관리자 사용</value>
+  </data>
+  <data name="lblQuality" xml:space="preserve">
+    <value>품질:</value>
+  </data>
+  <data name="lblQuality_Tooltip" xml:space="preserve">
+    <value>품질 : 0 - 제일 나쁜 품질을 낮은 대역폭으로(CRF = 35) 품질 : 10 - 제일 좋은 품질을 높은 대역폭 (CRF = 25)</value>
+  </data>
+  <data name="lblResolution" xml:space="preserve">
+    <value>해상도:</value>
+  </data>
+  <data name="lblRtmpUrl" xml:space="preserve">
+    <value>RTMP URL:</value>
+  </data>
+  <data name="lblScrArea" xml:space="preserve">
+    <value>위치</value>
+  </data>
+  <data name="lblScrAreaHeight" xml:space="preserve">
+    <value>높이</value>
+  </data>
+  <data name="lblScrAreaWidth" xml:space="preserve">
+    <value>폭</value>
+  </data>
+  <data name="lblScrCap" xml:space="preserve">
+    <value>화면 캡처</value>
+  </data>
+  <data name="lblScrCapLayeredHint" xml:space="preserve">
+    <value>(마우스 깜박거림을 해결하기 위해 체크해제)</value>
+  </data>
+  <data name="lblScrCapOptiTextResizeHint" xml:space="preserve">
+    <value>(더 좋은 성능을 위해 체크해제)
+(소스가 전체화면일 때만 적용됨)</value>
+  </data>
+  <data name="lblStatus" xml:space="preserve">
+    <value>귀하는 어떤 종류의 방송을 하십니까?</value>
+  </data>
+  <data name="lblStreamChannel" xml:space="preserve">
+    <value>채널:</value>
+  </data>
+  <data name="lblStreamName" xml:space="preserve">
+    <value>스트림 이름:</value>
+  </data>
+  <data name="lblTitleHint" xml:space="preserve">
+    <value>타이틀 소스를 구성하려면 아래 버튼을 클릭하십시오.</value>
+  </data>
+  <data name="lblUserName" xml:space="preserve">
+    <value>사용자 이름:</value>
+  </data>
+  <data name="lblVidCueSavedCuePoints" xml:space="preserve">
+    <value>저장된 큐 시점</value>
+  </data>
+  <data name="lblVideoCuePoints" xml:space="preserve">
+    <value>큐 포인트</value>
+  </data>
+  <data name="lblVideoPlayback" xml:space="preserve">
+    <value>다시 재생</value>
+  </data>
+  <data name="lblVidPlayActionOnEnd" xml:space="preserve">
+    <value>완료되면 :</value>
+  </data>
+  <data name="lblVidPlayEndTime" xml:space="preserve">
+    <value>종료 시점:</value>
+  </data>
+  <data name="lblVidPlayStartTime" xml:space="preserve">
+    <value>시작점:</value>
+  </data>
+  <data name="LivestreamNameIsEmtpy" xml:space="preserve">
+    <value>방송 이름을 지정하십시오.</value>
+  </data>
+  <data name="lnkBandwidthTesterGuide" xml:space="preserve">
+    <value>인터넷 속도 테스트의 과정을 확인하십시오.</value>
+  </data>
+  <data name="lnkForgotPassword" xml:space="preserve">
+    <value>비밀번호를 잊으셨나요?</value>
+  </data>
+  <data name="lnklblChangePassword" xml:space="preserve">
+    <value>여기에서 비밀번호를 변경</value>
+  </data>
+  <data name="lnkNoAccount" xml:space="preserve">
+    <value>가입하기</value>
+  </data>
+  <data name="loadPresetsToolStripMenuItem" xml:space="preserve">
+    <value>프레젠테이션 불러오기...(&amp;O)</value>
+  </data>
+  <data name="LocalRecording" xml:space="preserve">
+    <value>로컬 녹화</value>
+  </data>
+  <data name="localRecordingToolStripMenuItem" xml:space="preserve">
+    <value>녹화하기</value>
+  </data>
+  <data name="MakeXSplitLayeredWindowWarning" xml:space="preserve">
+    <value>엑스플릿을 레이어드 윈도우로 전환하면 프로그램이 최소화 되지 않을시에는 캡처소스의 성능에 문제가 발생할수 있습니다. 
+
+계속 하시겠습니까?</value>
+  </data>
+  <data name="MoreStreamAddins" xml:space="preserve">
+    <value>플러그인 스토어</value>
+  </data>
+  <data name="moreStreamAddinTsmi" xml:space="preserve">
+    <value>더 많은 서비스</value>
+  </data>
+  <data name="moreStreamAddinTsmiXbc5003" xml:space="preserve">
+    <value>기타 방송 플랫폼</value>
+  </data>
+  <data name="moveSourceDown_Tooltip" xml:space="preserve">
+    <value>소스를 밑으로</value>
+  </data>
+  <data name="moveSourceUp_Tooltip" xml:space="preserve">
+    <value>소스를 위로</value>
+  </data>
+  <data name="msgAbortPluginInstall" xml:space="preserve">
+    <value>플러그인 설치를 진행하고있습니다. 완료되기 전에 OK를 누르면 플러그인 설치가 중단되니 참고하세요.</value>
+  </data>
+  <data name="msgAddGameNotice" xml:space="preserve">
+    <value>게임이나 미디어 플레이어를 캡처하기 전에, 화면상 해당 프로그램에 클릭을 해야 합니다. 그러므로 먼저 해당 프로그램을 클릭 후 다시 메뉴에서 선택해주세요.</value>
+  </data>
+  <data name="msgAddGameNoticeGsDisabled" xml:space="preserve">
+    <value>게임이나 미디어 플레이어를 캡처하기 전에, 상단 메뉴의 도구 &gt; 환경설정 에서 게임 소스 활성화를 해야합니다. 게임 소스 활성화 이후 다시 캡처 메뉴를 선택해주세요.</value>
+  </data>
+  <data name="msgAddinDownloadFailed" xml:space="preserve">
+    <value>다운로드에 실패했습니다.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_ArgumentError" xml:space="preserve">
+    <value>설치파일이 불완전합니다. 다시 시도하거나 XSplit Support팀에 문의하세요.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallFailed" xml:space="preserve">
+    <value>설치가 완전하게 이루어지지 않았습니다. XSplit을 다시 시작해주세요.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallFileNotFound" xml:space="preserve">
+    <value>설치파일이 불완전합니다. 다시 시도하거나 XSplit Support팀에 문의하세요.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallHashCheckFailed" xml:space="preserve">
+    <value>해쉬파일이 올바르지 않아 설치를 완료하지 못했습니다. 다시 시도하거나 XSplit Support팀에 문의하세요.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_Unknown" xml:space="preserve">
+    <value>설치가 완전하게 이루어지지 않았습니다. XSplit을 다시 시작해주세요.</value>
+  </data>
+  <data name="msgAddinInstallerIsBusy_Text" xml:space="preserve">
+    <value>또 다른 기능 설치 - 진행 중입니다. 나중에 다시 시도하세요.</value>
+  </data>
+  <data name="msgAddinInstallerIsBusy_Title" xml:space="preserve">
+    <value>이미 설치 중입니다</value>
+  </data>
+  <data name="msgAddinInstallSucceeded" xml:space="preserve">
+    <value>완료되었습니다. XSplit을 재실행해서 변경된 사항을 적용합니다.
+
+XSplit 닫습니다.</value>
+  </data>
+  <data name="msgAddinInstallSucceeded1" xml:space="preserve">
+    <value>완료되었습니다. XSplit을 재실행해서 변경된 사항을 적용합니다.</value>
+  </data>
+  <data name="msgAddinInstallSucceeded2" xml:space="preserve">
+    <value>플러그인 설치가 완료되었습니다. XSplit을 재실행해서 변경된 사항을 적용합니다.
+
+XSplit 닫습니다.</value>
+  </data>
+  <data name="msgAddinInstallSucceeded3" xml:space="preserve">
+    <value>플러그인 설치가 완료되었습니다. XSplit을 재실행해서 변경된 사항을 적용합니다.
+
+지금 재실행 할까요?</value>
+  </data>
+  <data name="msgAddinInstallSucceeded4" xml:space="preserve">
+    <value>완료되었습니다. XSplit을 재실행해서 변경된 사항을 적용합니다.
+
+지금 재실행 하겠습니까?</value>
+  </data>
+  <data name="msgAddinInstallSucceeded5" xml:space="preserve">
+    <value>플러그인(들)을 성공적으로 설치했습니다. XSplit을 재실행하여 변경된 내용을 적용하십시오.</value>
+  </data>
+  <data name="msgAddinUinstallationFailed" xml:space="preserve">
+    <value>완전히 삭제 되지 못했습니다. XSplit을 다시 시작해주세요.</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_ArgumentError" xml:space="preserve">
+    <value>설치 매개변수에 문제가 생겨 삭제하지 못했습니다. 재실행하거나 XSplit 고객지원팀에 문의하십시오.</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_UninstallFailed" xml:space="preserve">
+    <value>완전히 삭제 되지 못했습니다. XSplit을 다시 시작해주세요.</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_Unknown" xml:space="preserve">
+    <value>완전히 삭제 되지 못했습니다. XSplit을 다시 시작해주세요..</value>
+  </data>
+  <data name="msgAddinUninstallConfirm_Text" xml:space="preserve">
+    <value>정말 삭제하시겠습니까"{0}"?</value>
+  </data>
+  <data name="msgAddinUninstallConfirm_Title" xml:space="preserve">
+    <value>삭제 {0}</value>
+  </data>
+  <data name="msgAudioDevice_None" xml:space="preserve">
+    <value>없음</value>
+  </data>
+  <data name="msgCantCreateRecordingOutDir" xml:space="preserve">
+    <value>녹화 파일 경로를 만들 수 없습니다'{0}'. 직접 생성하시고 다시 녹화를 시도하십시오.</value>
+  </data>
+  <data name="msgCantEditActiveStream" xml:space="preserve">
+    <value>스트리밍하시는 동안엔 설정을 변경할 수 없습니다.</value>
+  </data>
+  <data name="msgCantEditActiveStreamAdaptiveBr" xml:space="preserve">
+    <value>'Adaptive CBR'을 사용하여 방송할 때에는 설정을 수정할 수 없습니다</value>
+  </data>
+  <data name="msgCantEditActiveStreamCbr" xml:space="preserve">
+    <value>CBR 모드에서 방송하는 중에는 설정을 수정할 수 없습니다.</value>
+  </data>
+  <data name="msgCantEditActiveRecording" xml:space="preserve">
+    <value>로컬 녹화를 하는 도중에는 설정을 수정할 수 없습니다.</value>
+  </data>
+  <data name="msgCantEditActiveRecordingCbr" xml:space="preserve">
+    <value>로컬 녹화를 CBR모드에서 하는 도중에는 설정을 수정할 수 없습니다.</value>
+  </data>
+  <data name="msgCantEditChannelOfMissingAddin" xml:space="preserve">
+    <value>{0} 플러그인은 현재 시스템에서 실행할 수 없습니다. 추가 &gt; 기타... 에서 플러그인을 설치해보십시오.</value>
+  </data>
+  <data name="msgCantRemoveActiveStream" xml:space="preserve">
+    <value>방송중에는 채널을 삭제할 수 없습니다.</value>
+  </data>
+  <data name="msgClickContinue" xml:space="preserve">
+    <value>\"계속하기\"를 눌러주세요</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported" xml:space="preserve">
+    <value>XSplit 은 윈도우 XP에서 1920 x 1080 이상의 해상도를 지원하지 않습니다. 이러한 해상도는 메뉴에서도 선택할 수 없습니다. XSplit 은 현재 스테이지를 기본 해상도로 설정하겠습니다.</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported1" xml:space="preserve">
+    <value>XSplit 은 윈도우 XP에서 1920 x 1080 이상의 해상도를 지원하지 않습니다. 이러한 해상도는 메뉴에서도 선택할 수 없습니다.</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported3" xml:space="preserve">
+    <value>XSplit은 {0:N0} 픽셀 이하 해상도를 제공하지 않습니다.</value>
+  </data>
+  <data name="msgDefaultStageResolutionWarning" xml:space="preserve">
+    <value>낮은 해상도와 초당 프레임률을 설정하면 동시에 다수의 방송 송출을 각기 다른 설정으로 인코딩이 가능합니다.
+
+즉, 일반 화질의 방송과 고화질의 녹화를 동시에 실행할수 있게 됩니다.
+
+이 설정은 항시 저장되어있지 않으니 시도할때마다 따로 설정해주어야 합니다.</value>
+  </data>
+  <data name="msgDeviceNotFound_SndCap" xml:space="preserve">
+    <value>오디오 캡처 장치를 찾을 수 없습니다.</value>
+  </data>
+  <data name="msgDeviceNotFound_VidCap" xml:space="preserve">
+    <value>영상 캡처 장치를 찾을 수 없습니다.</value>
+  </data>
+  <data name="msgEnableAeroWarning" xml:space="preserve">
+    <value>윈도우7, 비스타에서는 Aero 테마가 작동중일때 layered window를 항상 캡처 할 것입니다. XSplit 기본 설정의 'Aero theme 작동 해제'를 비활성화 하시면 예상치 않은 결과를 낳을 수도 있습니다. 계속 하시겠습니까?</value>
+  </data>
+  <data name="msgEnableD3D" xml:space="preserve">
+    <value>사용자님의 PC 하드웨어는 필요 [최소 사양](https://xspl.it/bc/req) 에 해당하지 못했습니다. [고객지원 센터](https://xspl.it/support) 에 문의해주시면 더 자세히 알려드릴수 있습니다.</value>
+  </data>
+  <data name="msgEnableVcamCheckedChangedHint" xml:space="preserve">
+    <value>가상 카메라는 방송 중에 자동으로 해제됩니다.</value>
+  </data>
+  <data name="msgFailedGettingRtmp" xml:space="preserve">
+    <value>RTMP를 사용할 수 없습니다.</value>
+  </data>
+  <data name="msgFailedGettingRtmp_HowUserAffected" xml:space="preserve">
+    <value>스트리밍 사이트는 문제가 있거나 잠시 닫혔습니다.</value>
+  </data>
+  <data name="msgFailedGettingRtmp_WhatUserCanDo" xml:space="preserve">
+    <value>나중에 다시 시도 하시거나 스트리밍 서비스 또는 {0} 에 문의하십시오.</value>
+  </data>
+  <data name="msgFailedLoadingAddinStore" xml:space="preserve">
+    <value>플러그인 스토어을 불러오는데 실패했습니다. 나중에 다시 시도하십시오.</value>
+  </data>
+  <data name="msgFailureLoadinAddin_HowUserAffected" xml:space="preserve">
+    <value>이 플러그인을 추가한 방송은 사용 불가능합니다.</value>
+  </data>
+  <data name="msgFailureLoadingAddin" xml:space="preserve">
+    <value>플러그인 '{0}'을 불러오는데 실패 했습니다.</value>
+  </data>
+  <data name="msgFlashAxFailure" xml:space="preserve">
+    <value>윈도우 익스플로러와 플래시 플레이어가 함께 작동하는 데에 있어 문제가 발생했습니다: {0}</value>
+  </data>
+  <data name="msgFlashAxIsOld" xml:space="preserve">
+    <value>XSplit은 인터넷 익스플로러에 플래시 플레이어가 최신버전으로 업데이트되지 않은 것을 발견했습니다. 
+
+XSplit을 사용하시려면 인터넷 익스플로러의 플래시 플레이어 최신버전인 10.3.181을 설치하셔야 합니다. 최신버전을 설치하지 않으시는 경우에는 예상치 않은 결과를 낳을 수도 있습니다. 
+
+ 최신버전을 설치 하시겠습니까?</value>
+  </data>
+  <data name="msgFlashAxIsRequired" xml:space="preserve">
+    <value>XSplit은 인터넷 익스플로러에 플래시 플레이어가 설치되지 않을 것을 발견했습니다. 
+
+XSplit을 사용하시려면 인터넷 익스플로러의 플래시 플레이어 최신버전인 10.3.181을 설치하셔야 합니다. 최신버전을 설치하지 않으시는 경우에는 예상치 않은 결과를 낳을 수도 있습니다. 
+
+ 최신버전을 설치 하시겠습니까?</value>
+  </data>
+  <data name="msgFlashAxNotInstalled" xml:space="preserve">
+    <value>작업을 실행 하기 위해서는 인터넷 익스플로러용 플래시 플레이어가 필요합니다.</value>
+  </data>
+  <data name="msgFlashConfigLoadFailure" xml:space="preserve">
+    <value>대화 상자 구성을 불러드리는 것에 실패했습니다: {0}</value>
+  </data>
+  <data name="msgForcedUpdate" xml:space="preserve">
+    <value>이 버전 {0} 은 사용기간이 지났습니다. XSplit Broadcaster 의 새 버전 {1} 을 사용해 주십시오. 
+
+업데이트를 하는 데에 있어 문제가 발생하면 XSplit을 완전히 삭제하신 후 [www.xsplit.com](http://www.xsplit.com)에서 다시 다운로드 해주시기 바랍니다.</value>
+  </data>
+  <data name="msgFramerateDefined" xml:space="preserve">
+    <value>프레임률은 메뉴에서 변경이 가능합니다.</value>
+  </data>
+  <data name="msgHotKeyRegException1" xml:space="preserve">
+    <value>다음의 단축키를 등록하는 데에 있어 실패하였습니다.</value>
+  </data>
+  <data name="msgHotKeyRegException2" xml:space="preserve">
+    <value>지정한 단축키는 적용되지 않을것입니다.</value>
+  </data>
+  <data name="msgHotKeyRegException3" xml:space="preserve">
+    <value>다른 어플리케이션에서 사용하지 않는 키를 섞어서 지정할 수 있습니다.</value>
+  </data>
+  <data name="msgHotKeyRegException4" xml:space="preserve">
+    <value>다시 단축키를 지정하겠습니까?</value>
+  </data>
+  <data name="msgHotKeyRegException5" xml:space="preserve">
+    <value>다음 단축키는 같은 키로 지정될 수 없습니다.
+
+{0}</value>
+  </data>
+  <data name="msgHotKeyRegException6" xml:space="preserve">
+    <value>현재 일반 단축키 설정모드에 적용되어있습니다. 이 설정으로는 무조건 수정키 (Ctrl, Shift, Alt) 를 사용하여야 합니다.
+
+{0}</value>
+  </data>
+  <data name="msgHotKeyRegException7" xml:space="preserve">
+    <value>현재 설정은 '기본 단축키' 모드 입니다. 아래 표기된 단축키들은 '고급 단축키' 모드에서 가능합니다.
+
+{0}</value>
+  </data>
+  <data name="msgIncorrectCredentialsOrServerDown" xml:space="preserve">
+    <value>암호 또는 스트림 키가 유효하지 않거나 서버 다운되었을 수 있습니다. 다시 한 번 더 입력해주세요.</value>
+  </data>
+  <data name="msgInitializeFolder1" xml:space="preserve">
+    <value>폴더를 실행하는 데에 있어 에러가 발생하였습니다.</value>
+  </data>
+  <data name="msgInitializeFolder2" xml:space="preserve">
+    <value>폴더가 잘못 만들어졌습니다.</value>
+  </data>
+  <data name="msgInitializeFolder3" xml:space="preserve">
+    <value>파일과 폴더를 만들 수 있는 권한이 있어야 합니다.</value>
+  </data>
+  <data name="msgInputTransitionSpeed" xml:space="preserve">
+    <value>속도 (ms)</value>
+  </data>
+  <data name="msgInvalidEmail" xml:space="preserve">
+    <value>이메일 주소가 잘못되었습니다. 문자, 숫자, 마침표, 대쉬, 그리고 밑줄만 넣을 수 있습니다.</value>
+  </data>
+  <data name="msgInvalidFilenameChars" xml:space="preserve">
+    <value>다음과 같은 문자를 폴더이름에 넣을 수 없습니다.</value>
+  </data>
+  <data name="msgInvalidPassword" xml:space="preserve">
+    <value>비밀번호 입력이 잘못되었습니다. 문자, 숫자, 점, 대쉬만이 최소 6자 사용되어야 합니다.</value>
+  </data>
+  <data name="msgInvalidTransitionTime" xml:space="preserve">
+    <value>사용할 수 없는 화면 전환 속도입니다.</value>
+  </data>
+  <data name="msgLoginInitializationException1" xml:space="preserve">
+    <value>로그인하는 데에 문제가 발생했습니다.</value>
+  </data>
+  <data name="msgLoginMessageTitle" xml:space="preserve">
+    <value>로그인</value>
+  </data>
+  <data name="msgLoginOpenLinkException1" xml:space="preserve">
+    <value>비밀번호 변경 페이지로 이동하는 도중 에러가 발생했습니다.</value>
+  </data>
+  <data name="msgLoginOpenLinkException2" xml:space="preserve">
+    <value>비밀변호 변경 페이지로 이동하지 않습니다.</value>
+  </data>
+  <data name="msgLoginOpenLinkException3" xml:space="preserve">
+    <value>직접 저희 사이트에 접속할 수도 있습니다 %url%.</value>
+  </data>
+  <data name="msgLoginSaveAutoLogin" xml:space="preserve">
+    <value>로그인 세팅을 저장하는 데에 있어 에러가 발생했습니다.</value>
+  </data>
+  <data name="msgLoginSaveStartup" xml:space="preserve">
+    <value>시작 세팅을 저장하는 데에 있어 에러가 발생했습니다.</value>
+  </data>
+  <data name="msgLoginTitle" xml:space="preserve">
+    <value>XSplit</value>
+  </data>
+  <data name="msgLoginValidation1" xml:space="preserve">
+    <value>이메일 주소 칸을 빈칸으로 둘 수 없습니다.</value>
+  </data>
+  <data name="msgLoginValidation2" xml:space="preserve">
+    <value>비밀번호를 빈칸으로 둘 수 없습니다.</value>
+  </data>
+  <data name="msgMaxFps" xml:space="preserve">
+    <value>최대 프레임률은 {0} FPS 까지 허용됩니다.</value>
+  </data>
+  <data name="msgOptionalUpdate" xml:space="preserve">
+    <value>XSplit의 {0} 새 버전이 나왔습니다. SplitMediaLabs팀이 결함을 찾아내지 않는한 모든 사용자는 업데이트 요청을 {1}전에 받거나 바로 받을 것입니다. 
+
+만약 지금 업데이트 하기를 누르신다면 삭제 후 다시 설치하시면서 [www.xsplit.com](http://www.xsplit.com)에서 예전 XSplit Broadcaster를 받을 수 있습니다. 만약 업그레이드에 실패하거나 사용 중에 문제가 있다면 XSplit을 삭제 후 최신 버전으로 [www.xsplit.com](http://www.xsplit.com)에서 다운받아 주시기 바랍니다.</value>
+  </data>
+  <data name="msgOptionalUpdate2" xml:space="preserve">
+    <value>XSplit의 {0} 새 버전이 나왔습니다. 
+
+만약 지금 업데이트 하기를 누른다면 삭제 후 다시 설치합니다. 아니면 [www.xsplit.com](http://www.xsplit.com)에서 예전 XSplit Broadcaster를 받을 수 있습니다. 만약 업그레이드에 실패하거나 사용 중에 문제가 있다면 XSplit을 삭제 후 최신 버전으로 [www.xsplit.com](http://www.xsplit.com)에서 다운로드 해 주시기 바랍니다.</value>
+  </data>
+  <data name="msgOptionalUpdateConfirm" xml:space="preserve">
+    <value>지금 업데이트 하시겠습니까?</value>
+  </data>
+  <data name="msgRegistrationValidation6" xml:space="preserve">
+    <value>이메일 주소 칸은 빈칸으로 둘 수 없습니다.</value>
+  </data>
+  <data name="msgSaveBeforeCloseConfirmation" xml:space="preserve">
+    <value>대화 창을 닫기 전에 저장하시겠습니까?</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90012" xml:space="preserve">
+    <value>이메일 주소 또는 비밀번호가 맞지 않습니다. 다시 시도해 주세요.</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90013" xml:space="preserve">
+    <value>이메일 주소 또는 비밀번호가 맞지 않습니다. 다시 시도해 주세요.</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90024" xml:space="preserve">
+    <value>이 계정을 활성화 할 메일이 발송되었습니다. XSplit에 가입하시려면 활성화를 하셔야 합니다. 
+
+활성화 메일을 다시 보내시겠습니까?</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90027" xml:space="preserve">
+    <value>XSplit 은 사용자를 등록된 사용자 목록에서 찾지 못하였습니다. 321meet.com 에서 가입을 하셨다면 XSplit 웹사이트에서 [신규 등록](https://xspl.it/register) 을 하시기 바랍니다. 
+
+차후 321.meet 계정과 XSplit 계정을 연동하여 사용하실 수 있습니다.</value>
+  </data>
+  <data name="msgSettingsSaved_SyncFailed" xml:space="preserve">
+    <value>세팅한 것과 서버를 동기화 하는 데에 실패했습니다. {0}세팅한 것은 컴퓨터 내에 저장되었습니다.</value>
+  </data>
+  <data name="msgSignUpOpenLinkException1" xml:space="preserve">
+    <value>등록된 페이지로 이동하는 도중 문제가 발생했습니다.</value>
+  </data>
+  <data name="msgSignUpOpenLinkException2" xml:space="preserve">
+    <value>등록된 페이지로 이동할 수 없습니다.</value>
+  </data>
+  <data name="msgSignUpOpenLinkException3" xml:space="preserve">
+    <value>직접 %url%를 클릭해서 사이트에 방문할 수 있습니다.</value>
+  </data>
+  <data name="msgSourceConfigurationHandlerIsMissing" xml:space="preserve">
+    <value>구성 핸들러가 없습니다.</value>
+  </data>
+  <data name="msgSourceHandlerIsMissing" xml:space="preserve">
+    <value>소스 핸들러가 없습니다.</value>
+  </data>
+  <data name="growlStageResolutionIsHigh" xml:space="preserve">
+    <value>{0} x {1} 이상의 해상도는 추천 하지 않습니다. 엑스플릿 브로드캐스터를 재시작 하시면 1080p 로 변경 될 것 입니다.</value>
+  </data>
+  <data name="growlStageResolutionIsHighForWEI" xml:space="preserve">
+    <value>사용자의 시스템에서는 {0} 설정을 했을 때 방송이 부드럽게 진행됩니다.</value>
+  </data>
+  <data name="msgStreamResolutionIsHigh" xml:space="preserve">
+    <value>방송의 출력 해상도를 {0} x {1}으로 설정해놓았습니다. 저희는 1280 x 720이상으로 생방송을 하는 것을 추천해드리지 않습니다.
+
+그래도 진행하시겠습니까?</value>
+  </data>
+  <data name="growlStreamResolutionIsHigh" xml:space="preserve">
+    <value>방송의 출력 해상도를 {0} x {1}으로 설정해놓았습니다. 저희는 1280 x 720이상으로 생방송을 하는 것을 추천해드리지 않습니다.</value>
+  </data>
+  <data name="msgStreamResolutionIsHigherThanStageResolution" xml:space="preserve">
+    <value>기본 설정된 해상도보다 높은 해상도로 녹화 또는 방송 송출을 하도록 선택하셨습니다. 강제로 화질을 끌어올리는 과정에서 부드럽지 않은 부분이 있을것입니다.</value>
+  </data>
+  <data name="msgSyncFailure" xml:space="preserve">
+    <value>세팅한것과 서버를 동기화 하는 데에 실패했습니다. 인터넷이 연결되지 않았을 확률이 높습니다.</value>
+  </data>
+  <data name="msgUnableToValidateWithServer" xml:space="preserve">
+    <value>서버와 연결 할 수 없습니다. 워터마크가 작동중일수도 있습니다!</value>
+  </data>
+  <data name="msgUpdatedPlugins" xml:space="preserve">
+    <value>업데이트할 플러그인을 발견했습니다:
+
+{0}
+
+확인을 눌러 업데이트 하세요.
+</value>
+  </data>
+  <data name="msgUpdatedPluginsXbc5003" xml:space="preserve">
+    <value>업데이트된 출력 장치를 발견하였습니다.
+
+{0}
+
+OK 를 눌러서 선택된 출력 장치를 설치합니다.
+		</value>
+  </data>
+  <data name="msgVersionIsExpired" xml:space="preserve">
+    <value>이 XSplit버전은 사용할 수 있는 기간이 지났습니다.</value>
+  </data>
+  <data name="MyRecordings_FilesExistInPreviousLocation" xml:space="preserve">
+    <value>{0}에 이미 파일들이 존재합니다. 
+
+이것들을 다른 폴더로 옮기는 게 좋을 거 같습니다.</value>
+  </data>
+  <data name="myRecordingsMenuItem" xml:space="preserve">
+    <value>녹화 영상</value>
+  </data>
+  <data name="recordingsToolStripMenuItem" xml:space="preserve">
+    <value>녹화 영상 폴더</value>
+  </data>
+  <data name="newPresetsToolStripMenuItem" xml:space="preserve">
+    <value>새 프레젠테이션(&amp;N)</value>
+  </data>
+  <data name="NicoVideo" xml:space="preserve">
+    <value>Niconico</value>
+  </data>
+  <data name="numBufferSize_Tooltip" xml:space="preserve">
+    <value>최대 비트전송률은 이 완충장치와 관련 있습니다. 이 완충장치는 구독자의 완충장치보다 크면 안됩니다. (보통 라이브스트리밍 서비스는 느린 반응속도가 요구되지 않을 때 2초 정도로 설정됩니다.)</value>
+  </data>
+  <data name="numFramerate_Tooltip" xml:space="preserve">
+    <value>초당 프레임을 15로 해야지 CPU에 무리를 주지 않으며 큰 대역폭을 요구하지 않습니다.</value>
+  </data>
+  <data name="optFemale" xml:space="preserve">
+    <value>여성</value>
+  </data>
+  <data name="optMale" xml:space="preserve">
+    <value>남성</value>
+  </data>
+  <data name="par1" xml:space="preserve">
+    <value>알리기 기능을 사용하시면, Twitter나 Facebook과 같은 소셜 네트워크 서비스에도 알릴 수 있습니다.</value>
+  </data>
+  <data name="par2" xml:space="preserve">
+    <value>채널이 지원한다면, 방송하고 있는 채널 설명을 바꿀 수도 있습니다.</value>
+  </data>
+  <data name="par3" xml:space="preserve">
+    <value>방송하고 있다는 것을 알리기 위해서, 왼쪽에 있는 서비스를 선택하세요.</value>
+  </data>
+  <data name="PasswordIsEmpty" xml:space="preserve">
+    <value>비밀번호를 넣어주세요.</value>
+  </data>
+  <data name="PresetDoesNotExist" xml:space="preserve">
+    <value>미리 지정해두었던 "{0}"을 찾을 수 없습니다.</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_ADD" xml:space="preserve">
+    <value>소스 추가</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_DELETE" xml:space="preserve">
+    <value>선택된 소스 삭제</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GLBSET" xml:space="preserve">
+    <value>오디오 설정 열기</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MIC" xml:space="preserve">
+    <value>음소거/음소거 해제 {0}</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MOVEDOWN" xml:space="preserve">
+    <value>소스를 밑으로</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MOVEUP" xml:space="preserve">
+    <value>소스를 위로</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SETTINGS" xml:space="preserve">
+    <value>선택된 소스 세팅</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SPK" xml:space="preserve">
+    <value>음소거/음소거 해제 {0}</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_MICVOL" xml:space="preserve">
+    <value>마이크 볼륨</value>
+  </data>
+  <data name="rb1_AV" xml:space="preserve">
+    <value>미디어</value>
+  </data>
+  <data name="rb1_Cam" xml:space="preserve">
+    <value>카메라</value>
+  </data>
+  <data name="rb1_Screen" xml:space="preserve">
+    <value>화면</value>
+  </data>
+  <data name="rb1_Stream" xml:space="preserve">
+    <value>방송송출</value>
+  </data>
+  <data name="rb1_Title" xml:space="preserve">
+    <value>제목</value>
+  </data>
+  <data name="rbColor" xml:space="preserve">
+    <value>색상</value>
+  </data>
+  <data name="rbColorChromaNone" xml:space="preserve">
+    <value>없음</value>
+  </data>
+  <data name="rbColorChroma" xml:space="preserve">
+    <value>크로마 키</value>
+  </data>
+  <data name="rbColorChromaColor" xml:space="preserve">
+    <value>색상 키</value>
+  </data>
+  <data name="rbPosition" xml:space="preserve">
+    <value>레이아웃</value>
+  </data>
+  <data name="removeSource" xml:space="preserve">
+    <value>삭제</value>
+  </data>
+  <data name="removeSource_Tooltip" xml:space="preserve">
+    <value>선택된 소스 삭제</value>
+  </data>
+  <data name="ResolutionAlreadyExists" xml:space="preserve">
+    <value>해상도 {0} X {1}는 이미 존재합니다.</value>
+  </data>
+  <data name="resolutionToolStripMenuItem" xml:space="preserve">
+    <value>해상도(&amp;R)</value>
+  </data>
+  <data name="rtmp1ch" xml:space="preserve">
+    <value>한 RTMP채널당 하나의 교차 오디오/비디오를 사용</value>
+  </data>
+  <data name="RtmpUrlIsEmpty" xml:space="preserve">
+    <value>RTMP URL을 지정해야 합니다.</value>
+  </data>
+  <data name="RtmpUrlIsInvalid" xml:space="preserve">
+    <value>RTMP URL이 잘못되었습니다.</value>
+  </data>
+  <data name="savePresetToolStripMenuItem" xml:space="preserve">
+    <value>프레젠테이션 저장...(&amp;S)</value>
+  </data>
+  <data name="sbtnInsertLink" xml:space="preserve">
+    <value>링크 삽입</value>
+  </data>
+  <data name="scaleViewportToolStripMenuItem" xml:space="preserve">
+    <value>화면 크기 조정(&amp;S)</value>
+  </data>
+  <data name="SelectPresentation" xml:space="preserve">
+    <value>XSplit - 프레젠테이션 선택</value>
+  </data>
+  <data name="settingsToolStripMenuItem" xml:space="preserve">
+    <value>설정...(&amp;S)</value>
+  </data>
+  <data name="settingsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>환경 설정 (&amp;S)</value>
+  </data>
+  <data name="ShareLinkIsEmpty" xml:space="preserve">
+    <value>공유 링크가 지정 되어야합니다.</value>
+  </data>
+  <data name="ShareLinkIsInvalid" xml:space="preserve">
+    <value>공유 링크가 잘못되었습니다.</value>
+  </data>
+  <data name="ShowException_HowUserAffected" xml:space="preserve">
+    <value>일부 기능에 문제가 있기 때문에 작동하지 않을 수 있습니다.</value>
+  </data>
+  <data name="ShowException_WhatUserCanDo" xml:space="preserve">
+    <value>저희에게 이 정보를 전송하여 저희가 이 문제를 알고 해결하는데 도움을 주기 바랍니다.</value>
+  </data>
+  <data name="SourcePluginStore" xml:space="preserve">
+    <value>플러그인 스토어</value>
+  </data>
+  <data name="sourceSettings" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="sourceSettings_Tooltip" xml:space="preserve">
+    <value>소스 세팅 선택</value>
+  </data>
+  <data name="spApply" xml:space="preserve">
+    <value>계속</value>
+  </data>
+  <data name="spMessage" xml:space="preserve">
+    <value>최근 XSplit 은 정상적으로 종료되지 못했습니다. 이것은 불안정한 소스 또는 프로그램 에러와 같은 &lt;a name="blog" href="https://xspl.it/bc/satbhu"&gt;링크&lt;/a&gt; 에 해당된 이유 때문에 발생되었습니다. 버그를 신고하고 싶다면 &lt;a name="logreporter"&gt;여기&lt;/a&gt;를 클릭해주세요.</value>
+  </data>
+  <data name="spOptContinue" xml:space="preserve">
+    <value>현재 프레젠테이션 불러오기</value>
+  </data>
+  <data name="spOptCreateNew" xml:space="preserve">
+    <value>새 프레젠테이션 (이전의 프레젠테이션 무시)</value>
+  </data>
+  <data name="spOptLoadFromFile" xml:space="preserve">
+    <value>따로 저장했던 프레젠테이션 불러오기</value>
+  </data>
+  <data name="spOptLoadFromRegistry" xml:space="preserve">
+    <value>자동 백업해둔 프레젠테이션 불러오기</value>
+  </data>
+  <data name="sPostAgain" xml:space="preserve">
+    <value>다시 포스팅하기</value>
+  </data>
+  <data name="StreamChannelIsEmpty" xml:space="preserve">
+    <value>채널을 아직 사용할 수 없습니다. 사용자 이름과 {0} 웹사이트에 있는 설정에서 입력했던 채널이름이 똑같은지 확인하기 바랍니다.</value>
+  </data>
+  <data name="StreamNameIsEmpty" xml:space="preserve">
+    <value>스트림 이름을 지정해야 합니다.</value>
+  </data>
+  <data name="tbpChannels" xml:space="preserve">
+    <value>채널</value>
+  </data>
+  <data name="tbpGeneral" xml:space="preserve">
+    <value>일반</value>
+  </data>
+  <data name="tbpHotkeys" xml:space="preserve">
+    <value>단축키</value>
+  </data>
+  <data name="tbpProfile" xml:space="preserve">
+    <value>프로필</value>
+  </data>
+  <data name="tbpResolutions" xml:space="preserve">
+    <value>해상도</value>
+  </data>
+  <data name="tierVersionUpdateButton" xml:space="preserve">
+    <value>이 버전으로 업데이트...</value>
+  </data>
+  <data name="titleConfigButton" xml:space="preserve">
+    <value>구성</value>
+  </data>
+  <data name="titleLabel" xml:space="preserve">
+    <value>제목</value>
+  </data>
+  <data name="toolsToolStripMenuItem" xml:space="preserve">
+    <value>도구(&amp;T)</value>
+  </data>
+  <data name="transitionTimeTsmi" xml:space="preserve">
+    <value>전환 속도 변경</value>
+  </data>
+  <data name="transitionToolStripMenuItem" xml:space="preserve">
+    <value>장면 전환(&amp;T)</value>
+  </data>
+  <data name="txtDescription_Tooltip" xml:space="preserve">
+    <value>채널을 간단히 설명합니다.</value>
+  </data>
+  <data name="txtLink_Tooltip" xml:space="preserve">
+    <value>이 URL은 다른 사용자도 볼 수 있습니다. 스트림이 시작되면 이 링크는 자동으로 클립 보드에 복사됩니다.</value>
+  </data>
+  <data name="txtName_Tooltip" xml:space="preserve">
+    <value>채널에 이름이 쉽게 구별될 수 있도록 설정</value>
+  </data>
+  <data name="txtPreset_ForInternalUseOnly" xml:space="preserve">
+    <value>내부에서만 사용하십시오.</value>
+  </data>
+  <data name="txtPreset_Tooltip" xml:space="preserve">
+    <value>내부에서만 사용하십시오.</value>
+  </data>
+  <data name="UpdateDialog_GetMoreInfo" xml:space="preserve">
+    <value>XSplit Broadcaster를 업데이트하는 방법에 대한 자세한 정보를 얻으세요.</value>
+  </data>
+  <data name="UpdateDialog_NewReleaseFound" xml:space="preserve">
+    <value>{0}를 테스트하는 데에 있어 새로운 버전이 나왔습니다.</value>
+  </data>
+  <data name="UpdateDialog_NoNewReleaseFound" xml:space="preserve">
+    <value>더 이상 업데이트 할 내용이 없습니다.</value>
+  </data>
+  <data name="UsernameIsEmpty" xml:space="preserve">
+    <value>사용자 이름을 지정해야 합니다.</value>
+  </data>
+  <data name="UsernameIsUnknown" xml:space="preserve">
+    <value>알 수 없는 이름입니다.</value>
+  </data>
+  <data name="viewToolStripMenuItem" xml:space="preserve">
+    <value>보기(&amp;V)</value>
+  </data>
+  <data name="waveTransition" xml:space="preserve">
+    <value>웨이브</value>
+  </data>
+  <data name="XSplitBroadcasterIsAlreadyRunning" xml:space="preserve">
+    <value>XSplit Broadcaster가 이미 실행 중입니다.</value>
+  </data>
+  <data name="XSplitNetIsNotAllowed" xml:space="preserve">
+    <value>멀티스트림 서비스는 하나의 방송에서 여러 곳으로 스트리밍 할 수 있게 합니다. 이 서비스는 Broadcaster 끼리 연결시킬수 도 있습니다. 
+
+SplitMediaLabs 에 연락하셔 멀티스트림 서비스를 어떻게 이용하는지 문의 하기 바랍니다.</value>
+  </data>
+  <data name="XSplitNetNonPremiumNotice" xml:space="preserve">
+    <value>멀티스트림 서비스는 프리미엄 라이센스를 미리 구매한 분들께만 제공하고 있습니다. 서비스를 이용하고 싶은 분은 확인을 눌러주십시오.</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgRecordingFileTypeLicenseOffer" xml:space="preserve">
+    <value>{0} 라이센스 사용자만이 녹화 파일 형식 기능을 사용 할 수 있습니다.
+
+라이센스를 구입하시겠습니까?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxAllowedResLicenseOffer" xml:space="preserve">
+    <value>{0} 이상의 해상도는 무료 라이센스를 이용하는 사용자들에게는 워터마크 되었습니다. 
+
+라이센스를 지금 구매하시겠습니까?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxAllowedFpsLicenseOffer" xml:space="preserve">
+    <value>{0} FPS보다 높은 프레임률을 사용하려면 라이선스를 구매하셔야 합니다.
+
+지금 라이선스를 구매 하시겠습니까?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgFreeUserSimulcastLicenseOffer" xml:space="preserve">
+    <value>XSplit의 무료 버전은 한번에 많은 채널에 방송하는 기능을 지원하지 않습니다. 
+
+지금 라이센스를 구입하시겠습니까?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxBitrateIsTooLow" xml:space="preserve">
+    <value>최대 Bitrate 는 {0} kbps 보다 낮으면 안됩니다.</value>
+  </data>
+  <data name="msgMaxBitrateIsTooLow_VBR" xml:space="preserve">
+    <value>최대 비트레이트는 {0} kbps 보다 낮아야 합니다.</value>
+  </data>
+  <data name="msgMaxBitrateIsTooLow_CBR" xml:space="preserve">
+    <value>Bitrate 는 {0} kbps 보다 낮으면 안됩니다.</value>
+  </data>
+  <data name="chkGameSurfSharing" xml:space="preserve">
+    <value>특별 최적화</value>
+  </data>
+  <data name="ControlIds.IDC_STATIC_SCENECUR" xml:space="preserve">
+    <value>장면</value>
+  </data>
+  <data name="ControlIds.ID_FILE_ADDGAMESOURCE" xml:space="preserve">
+    <value>게임 추가(&amp;G)</value>
+  </data>
+  <data name="msgNetFxIsRequired" xml:space="preserve">
+    <value>XSplit을 사용하기 위해서는 Microsoft .NET Framework {0}가 필요합니다.
+
+지금 다운로드 하시겠습니까?</value>
+  </data>
+  <data name="servermessage_dlogtitle" xml:space="preserve">
+    <value>중복 로그인이 감지</value>
+  </data>
+  <data name="servermessage_dlogdesc" xml:space="preserve">
+    <value>사용자님의 계정은 현재 다른 시스템에 로그인 되어있습니다. 여기서 로그인을 진행하시고 싶으시다면 다시 비밀번호를 입력해주세요. 이대로 진행하실 경우 다른 시스템에 로그인 되었던 계정은 로그아웃되며 만약 방송 송출중이었다면 즉시 종료될 것 입니다.</value>
+  </data>
+  <data name="servermessage_fdistitle" xml:space="preserve">
+    <value>로그아웃 되었습니다.</value>
+  </data>
+  <data name="servermessage_fdisdesc" xml:space="preserve">
+    <value>사용자의 계정이 다른 기기에서 로그인 된 것으로 감지되었습니다. 이곳에서 다시 로그인 할 수 있지만 라이선스 약관에 의해 시스템당 하나의 계정만 로그인이 가능하기에 다른 기기의 계정은 로그아웃 될 것입니다. 이로인해 다른 기기에서의 방송이 중단 될 수 있으므로 주의해주세요.</value>
+  </data>
+  <data name="DefaultStageResolution" xml:space="preserve">
+    <value>현재 기본 해상도</value>
+  </data>
+  <data name="msgLocalLoginFailed" xml:space="preserve">
+    <value>올바르지 않은 사용자 정보 입니다. support@xsplit.com 으로 {0}을 문의해 답변을 받으세요.</value>
+  </data>
+  <data name="msgProjectorBuyPremiumOffer" xml:space="preserve">
+    <value>이 기능은 프리미엄 라이센스 사용자만 사용할 수 있습니다. 확인을 눌러 프리미엄 라이센스를 구입하십시오.</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="picCopyChromaKey" xml:space="preserve">
+    <value>크로마 키 설정 복사</value>
+  </data>
+  <data name="btnPosCropEasyCrop" xml:space="preserve">
+    <value>퀵 크로핑</value>
+  </data>
+  <data name="FailureSettingDirectoryAcl" xml:space="preserve">
+    <value>{0} 폴더에 권한을 얻을 수 없습니다.
+{1}</value>
+  </data>
+  <data name="chkKeepOnTop" xml:space="preserve">
+    <value>XSplit을 항상 위에</value>
+  </data>
+  <data name="msgEasyCropPreReqPrompt" xml:space="preserve">
+    <value>퀵 크로핑은 우선 XSplit 스테이지 크기비율을 실제 화면크기로 맞추신 뒤, 차후 바꾸고 싶은 크기 비율로 설정해야합니다. 계속 진행하시겠습니까?</value>
+  </data>
+  <data name="enableInternalRtmpServerToolStripMenuItem" xml:space="preserve">
+    <value>방송 지연하기 기능 활성화</value>
+  </data>
+  <data name="InternalRtmpServer" xml:space="preserve">
+    <value>서버 지연</value>
+  </data>
+  <data name="msgInternalServerBuyPremiumOffer" xml:space="preserve">
+    <value>이 기능은 프리미엄 라이센스 유저만 사용할 수 있습니다. 확인을 눌러 프리미엄 라이센스를 구입하세요.</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="btnRefreshSource" xml:space="preserve">
+    <value>새로고침</value>
+  </data>
+  <data name="growlFramerateAndResIsHighForWei" xml:space="preserve">
+    <value>귀하의 시스템에서 {0} 과 {1:N2} FPS 로 최적화된 방송 및 녹화가 원활하지 않을 수 있습니다.</value>
+  </data>
+  <data name="msgAddSkypeVideoSourceNotice" xml:space="preserve">
+    <value>스카이프 영상소스를 캡처하기전, 스카이프 영상 통화 전화창을 클릭 해야합니다. 우선 스카이프 영상 통화 클릭한 다음 다시 메뉴에서 선택해주세요.</value>
+  </data>
+  <data name="msgAddSkypeVideoSourceNoticeGsDisabled" xml:space="preserve">
+    <value>스카이프 영상 통화를 캡처하기 전에, 상단 메뉴의 도구 &gt; 환경설정 에서 게임 소스 활성화를 해야합니다. 게임 소스 활성화 이후 다시 스카이프 캡처 메뉴를 선택해주세요.</value>
+  </data>
+  <data name="LicenseExpiry" xml:space="preserve">
+    <value>라이센스는 {0}에 만료됩니다.</value>
+  </data>
+  <data name="rtfSkypeHint" xml:space="preserve">
+    <value>스카이프 전화 모니터창에 깜빡거림 현상이 있을 수도 있습니다. 
+이것을 피하기 위해서는 스카이프 옵션을 수정해야합니다:
+
+1. 도구 &gt; 옵션
+2. 통화 &gt; 통화설정
+3. "고급 옵션 표시"클릭
+4. "Skype가 배경에서 실행 중일 때 통화 조절 표시" 해제</value>
+  </data>
+  <data name="faster_Tooltip" xml:space="preserve">
+    <value>중간의 비율로 압축
+중간의 비율로 CPU사용
+(i7이외에는 사용금지)</value>
+  </data>
+  <data name="fast_Tooltip" xml:space="preserve">
+    <value>중상의 비율로 압축
+중상의 비율로 CPU사용
+(2GEN i7 이외에는 사용금지)</value>
+  </data>
+  <data name="medium_Tooltip" xml:space="preserve">
+    <value>높은 압축 비율
+높은 CPU 사용
+(i7이상 모델이 아니라면 사용금지)</value>
+  </data>
+  <data name="slow_Tooltip" xml:space="preserve">
+    <value>매우 높은 압축
+CPU 최대 사용
+(괴물 컴퓨터가 아니라면 사용 금지)</value>
+  </data>
+  <data name="superfast_Tooltip" xml:space="preserve">
+    <value>최소 압축
+CPU 최소 사용
+(작은 CPU를 사용하는 유저들에게 추천)</value>
+  </data>
+  <data name="veryfast" xml:space="preserve">
+    <value>매우 빠름(기본 세팅)</value>
+  </data>
+  <data name="veryfast_Tooltip" xml:space="preserve">
+    <value>합리적인 비교
+CPU를 적게 사용
+(대부분의 유저들에게 추천)</value>
+  </data>
+  <data name="lblMaxFileSize" xml:space="preserve">
+    <value>MP4 파일 사이즈 최대로:</value>
+  </data>
+  <data name="lblMaxFileSize_Tooltip" xml:space="preserve">
+    <value>한 파일당 용량 최대치(예를들어, 5120 kB, 5 MB, 2 GB).
+(0)을 넣어 파일 하나로 녹화할 수 있습니다(하지만 이렇게 하면 MP4 파일 용량이 너무 커 문제가 생길 수 도 있습니다.).
+단위가 설정되지 않는다면 byte로 자동 녹화됩니다.</value>
+  </data>
+  <data name="msgInvalidMaxRecordingFileSize" xml:space="preserve">
+    <value>입력한 MP4 파일 사이즈 최대치를 사용할 수 없습니다.</value>
+  </data>
+  <data name="txtMaxFileSize_Tooltip" xml:space="preserve">
+    <value>한 파일당 용량 최대치(예를들어, 5120 kB, 5 MB, 2 GB).
+(0)을 넣어 파일 하나로 녹화할 수 있습니다(하지만 이렇게 하면 MP4 파일 용량이 너무 커 문제가 생길 수 도 있습니다.).
+단위가 설정되지 않는다면 byte로 자동 녹화됩니다.</value>
+  </data>
+  <data name="lnkAudioStutterGuide" xml:space="preserve">
+    <value>오디오 문제가 있으세요?</value>
+  </data>
+  <data name="msgBroadcastTerminated" xml:space="preserve">
+    <value>{0} 방송이 종료되었습니다.
+채널 설정을 확인해보신 뒤 방송 진행에 문제가 없음을 "{1}" 버튼을 클릭하여 확인해주시기 바랍니다.&lt;a href="https://xspl.it/bc/s8s19t#{2:X}"&gt;여기를 클릭&lt;/a&gt; 해서 자세히 알아보세요.</value>
+  </data>
+  <data name="lblGameImageHint" xml:space="preserve">
+    <value>공식 이미지는 게임이나 소스가 감지되지 않았을때 보여집니다 (게임소스가 반영되도록 빈 공간으로 두어도 됩니다)</value>
+  </data>
+  <data name="lblSkypeImageHint" xml:space="preserve">
+    <value>오프라인 이미지는 스카이프 비디오 피드가 감지 되지 않았을 때 보여집니다 (스카이프 소스가 반영될 것이라면 빈 공간으로 두세요)</value>
+  </data>
+  <data name="msgAddSkypeNoticeGsDisabled" xml:space="preserve">
+    <value>스카이프 비디오 소스는 실행하기위해 게임소스 기능이 필요합니다. 도구 &gt; 일반 탭에서 게임소스를 실행한다음 다시 여기로 돌아와 선택해주세요.</value>
+  </data>
+  <data name="msgInternetExplorerIsRequired" xml:space="preserve">
+    <value>인터넷 익스플로러가 설치되지 않았습니다.
+
+XSplit을 사용하기 위해서는 최신 버전의 인터넷 익스플로러가 필요합니다.
+
+지금 설치하겠습니까?</value>
+  </data>
+  <data name="msgInternetExplorerIsOld" xml:space="preserve">
+    <value>인터넷 익스플로러의 버전이 오래되었습니다.
+
+XSplit을 사용하기 위해서는 최신 버전의 인터넷 익스플로러가 필요합니다
+
+최신 버전을 설치하겠습니까?</value>
+  </data>
+  <data name="MyRecordings_DirectoryFailedToOpen" xml:space="preserve">
+    <value>"{0}" 디렉토리를 여는데 실패했습니다.</value>
+  </data>
+  <data name="MyRecordings_DirectoryNotFound" xml:space="preserve">
+    <value>"{0}" 디렉토리는 존재하지 않습니다.</value>
+  </data>
+  <data name="msgAmdRadeonHd7xxxWarning" xml:space="preserve">
+    <value>엑스플릿 사용에 약간 불안정하다는 제보를 받은 AMD 라데온 HD 7xxx 시리즈 그래픽카드를 감지했습니다 .
+
+&lt;a href="{0}"&gt;여기&lt;/a&gt;를 눌러 자세히 알아보세요.
+
+&lt;a name="dontshowagain"&gt;더 이상 묻지 않기.&lt;/a&gt;</value>
+  </data>
+  <data name="msgDefaultStageResolutionWarning AVerMedia H.264 Encoder" xml:space="preserve">
+    <value>해상도와 초당 프레임률 설정은 사용자의 계정에 보존되지 않으니 새로운 컴퓨터에서 실행시 다시 설정해주셔야 합니다.</value>
+  </data>
+  <data name="chkWinXPSound" xml:space="preserve">
+    <value>윈도우XP 사운드 사용</value>
+  </data>
+  <data name="msgLicenseOffer_libh264aver" xml:space="preserve">
+    <value>AVerMedia c985 Live Gamer캡쳐 카드를 설치해서 XSplit에 내장된 하드웨어 인코더를 사용할 수 있습니다. 하지만 이것은 프리미엄 라이센스 유저들만 사용할 수 있습니다. 프리미엄으로 라이센스를 업그레이드 해주세요. 
+
+지금 라이센스를 구입하시겠습니까?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgLicenseOffer_libh264aver1" xml:space="preserve">
+    <value>지금 사용하고 있는 {0} 캡처 보드의 인코더는 현재 라이선스에서 사용할 수 없습니다. 엑스플릿을 {1} 인코더로 전환하겠습니다.</value>
+  </data>
+  <data name="msgNoNetNoLocal" xml:space="preserve">
+    <value>인터넷 연결이 되지 않았습니다. 반드시 한 번은 로그인해야 XSplit 서버에 연결 할 수 있습니다.</value>
+  </data>
+  <data name="msgMaintModeHasLocal" xml:space="preserve">
+    <value>{0} 엑스플릿이 오프라인 모드로 전환됩니다. 송출 서버 연결이 필요하지 않은 기능들만 사용할 수 있습니다.</value>
+    <comment>do not translate</comment>
+  </data>
+  <data name="msgMaintModeNoLocal" xml:space="preserve">
+    <value>{0} XSplit 서버에 접속할 수 없습니다. 반드시 한 번은 로그인해야 XSplit 서버에 연결 할 수 있습니다. 다시 시도하세요.</value>
+    <comment>do not translate</comment>
+  </data>
+  <data name="PreviewMain_confApplyPreviewToActual" xml:space="preserve">
+    <value>프리뷰 장면을 실제 장면으로 적용시키겠습니까?</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromFile" xml:space="preserve">
+    <value>프리뷰 장면이 수정되었습니다. 수정한 내용을 삭제하고 파일에 저장된 컨텐츠를 프리뷰 창으로 불러들이겠습니까?</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromFile_InvalidSceneFile" xml:space="preserve">
+    <value>Scene 파일이 유효하지 않습니다.</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromScene" xml:space="preserve">
+    <value>화면을 전환하기 전 현 화면의 설정이 바뀌었습니다. "{0}"를 적용하시겠습니까?</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_Revert" xml:space="preserve">
+    <value>프리뷰 장면이 수정되었습니다. 수정한 내용을 삭제하고 다시 실제 창으로 돌아가시겠습니까?</value>
+  </data>
+  <data name="PreviewMain_confSavePreviewBeforeClose" xml:space="preserve">
+    <value>프리뷰 장면이 수정되었습니다. 닫기전에 실제 창에 적용시키겠습니까?</value>
+  </data>
+  <data name="PreviewMain_confPreviewGoLive" xml:space="preserve">
+    <value>미리보기 장면을 지금 송출 하시겠습니까?</value>
+  </data>
+  <data name="PreviewPIP_msgBottom" xml:space="preserve">
+    <value>장면에서 오른쪽 마우스를 클릭해 프리뷰창을 수정하세요.</value>
+  </data>
+  <data name="PreviewPIP_msgTop" xml:space="preserve">
+    <value>"{0}"의 스냅샷</value>
+  </data>
+  <data name="btnPosCropEasyCrop_Tooltip" xml:space="preserve">
+    <value>이 도구는 임시로 뷰어포트를 실제크기로 해 두고, 크로핑과 스트리밍을 동시에 할 때는 비디오 세팅들을 3D에서 기본으로 리셋합니다.</value>
+  </data>
+  <data name="msgAddinLoadedFromPreviosSession" xml:space="preserve">
+    <value>불러들인 몇몇 플러그인들이 현재 사용자의 계정에서 사용할 수 없습니다. 플러그인을 다시 불러들이려면 XSplit을 재시작 해야합니다.</value>
+  </data>
+  <data name="StartStreamLicenseNotice_Watermarked" xml:space="preserve">
+    <value>{0}에 방송하려면 XSplit 라이센스가 필요합니다. 워터마크는 없어집니다.
+
+지금 라이센스를 구입하겠습니까?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="StartStreamLicenseNotice_Disallowed" xml:space="preserve">
+    <value>{0}에 방송하려면 XSplit 라이센스가 필요합니다.
+
+지금 라이센스를 구입하겠습니까?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaintMode" xml:space="preserve">
+    <value>XSplit은 유지모드로 작동됩니다.</value>
+  </data>
+  <data name="msgFinalizingRecordings" xml:space="preserve">
+    <value>마지막 녹화가 아직 완료중에 있습니다. 이 작업은 용량에 따라 몇분의 시간이 더 걸릴 수도 있습니다.
+
+지금 취소하면 미디어 플레이어에서 실행은 가능하지만 인터넷 웹사이트에 업로드 하지는 못합니다.
+
+작업을 중지하겠습니까?</value>
+  </data>
+  <data name="tsmiAddAudioDevice" xml:space="preserve">
+    <value>오디오 (&amp;A)</value>
+  </data>
+  <data name="tsmiAddAudioDevice2" xml:space="preserve">
+    <value>오디오 (&amp;A)</value>
+  </data>
+  <data name="msgFinalizeRecordingFileStarted" xml:space="preserve">
+    <value>{0}의 포스트 프로세싱을 시작합니다.</value>
+  </data>
+  <data name="msgFinalizeRecordingFileFinished" xml:space="preserve">
+    <value>{0}의 포스트 프로세싱이 완료되었습니다.</value>
+  </data>
+  <data name="msgResponseProcessingFailedHasLocal" xml:space="preserve">
+    <value>엑스플릿 로그인에 실패했습니다.
+
+해당 오류는 {0} 에 기록되었습니다.
+
+같은 문제가 지속적으로 발생한다면 엑스플릿 고객센터 이메일 support@xsplit.com 으로 기록 파일을 첨부 해주시기 바랍니다.
+
+엑스플릿은 지금부터 오프라인 모드로 진행됩니다.</value>
+  </data>
+  <data name="msgResponseProcessingFailedNoLocal" xml:space="preserve">
+    <value>로그인할 수 없습니다.
+
+로그인 하는데에 에러가 발생했습니다 {0}.
+
+만약 이 문제가 계속해서 발생한다면 support@xsplit.com으로 로그파일을 보내주세요.</value>
+  </data>
+  <data name="msgStreamResolutionIsNotSupportedResolution" xml:space="preserve">
+    <value>사용자의 하드웨어에서 현재 해상도를 지원하지 않습니다.
+인코딩 할 때에 선택한 해상도와 가장 가까운 비율이 선택될 것입니다. (품질은 변하지 않습니다).
+
+\더 많은 정보를 위해 &lt;a href="{0}"&gt;XSplit documentation&lt;/a&gt; 를 확인하세요.</value>
+  </data>
+  <data name="msgUpdateCheckOffline" xml:space="preserve">
+    <value>오프라인 모드에서는 업데이트 검색을 할 수 없습니다.</value>
+  </data>
+  <data name="msgLatestNewsFailedLoadDoc" xml:space="preserve">
+    <value>새 소식이 없습니다.</value>
+  </data>
+  <data name="msgGeneralGameSourceConflict" xml:space="preserve">
+    <value>다음 작업은 XSplit과 충돌을 일으킵니다. 불필요한 문제를 일으키지 않게하기 위해 이 작업(들)을 종료해야합니다. 
+
+{0}</value>
+  </data>
+  <data name="msgDroppedFrameThresholdHit" xml:space="preserve">
+    <value>프레임드롭 (송출 데이터 손실)이 감지 되었습니다. 방송 품질에 영향을 받을 수 있습니다.
+비트레이트를 조절하시거나, &lt;a href="https://xspl.it/bc/tz7q3i" name="learnmore"&gt;이곳을 클릭해서&lt;/a&gt; 관련 정보를 알아보세요.</value>
+  </data>
+  <data name="msgRecordingsAbortedOnDiskFullError" xml:space="preserve">
+    <value>녹화를 더 이상 진행할 수 없습니다. 디스크 용량이 충분한지 확인해주세요.</value>
+  </data>
+  <data name="msgRecordingsAbortedOnDiskFull" xml:space="preserve">
+    <value>녹화를 할 수 없습니다. 디스크 용량이 충분한지 확인해주세요.</value>
+  </data>
+  <data name="msgRecordingsStoppedOnInsufficientDiskSpace" xml:space="preserve">
+    <value>녹화를 더 이상 진행할 수 없습니다. {0}정도의 디스크 용량이 남아있는지 확인해주세요.</value>
+  </data>
+  <data name="msgRecordingsAbortedOnInsufficientDiskSpace" xml:space="preserve">
+    <value>녹화를 시작할 수 없습니다. {0}정도의 디스크 용량이 남아있는지 확인해주세요.</value>
+  </data>
+  <data name="chkScrCapMethod1" xml:space="preserve">
+    <value>특별한 최적화를 적용</value>
+  </data>
+  <data name="chkScrCapOptCapture1" xml:space="preserve">
+    <value>캡처 화면 최대화</value>
+  </data>
+  <data name="lblScrCapMethod1Hint" xml:space="preserve">
+    <value>(실험)</value>
+  </data>
+  <data name="lblScrCapOptCapture1" xml:space="preserve">
+    <value>(Aero 테마에서만 작동)</value>
+  </data>
+  <data name="BandwidthTesterCountdown" xml:space="preserve">
+    <value>대역폭 테스터 - {0} 초 남음</value>
+  </data>
+  <data name="chkScrCapMethod0" xml:space="preserve">
+    <value>레거시 모드</value>
+  </data>
+  <data name="showViewportToolStripMenuItem" xml:space="preserve">
+    <value>뷰포트 보이기</value>
+  </data>
+  <data name="lblGameSurfSharing" xml:space="preserve">
+    <value>(실험)</value>
+  </data>
+  <data name="hideViewportToolStripMenuItem" xml:space="preserve">
+    <value>뷰포트 숨기기</value>
+  </data>
+  <data name="AAC LC HQ_Tooltip" xml:space="preserve">
+    <value>AAC LC Medium to High Bitrate</value>
+  </data>
+  <data name="AAC LC LQ_Tooltip" xml:space="preserve">
+    <value>AAC LC Low Bitrate</value>
+  </data>
+  <data name="Speex_Tooltip" xml:space="preserve">
+    <value>Speex</value>
+  </data>
+  <data name="MP3_Tooltip" xml:space="preserve">
+    <value>MP3</value>
+  </data>
+  <data name="btnColorChromaEyedropCK_Tooltip" xml:space="preserve">
+    <value>제거하려는 색상 선택</value>
+  </data>
+  <data name="picColorChromaHueCK_Tooltip" xml:space="preserve">
+    <value>제거하고 싶은 색상</value>
+  </data>
+  <data name="picColorChromaRangeCK_Tooltip" xml:space="preserve">
+    <value>선택 된 색조/색상 (색조/색상 범위)에 대한 허용 한계</value>
+  </data>
+  <data name="picColorChromaRangeAlphaCK_Tooltip" xml:space="preserve">
+    <value>알파 가장자리 부드럽게 (제거 된 부분의 가장자리 부드럽게)</value>
+  </data>
+  <data name="picColorChromaSatCK_Tooltip" xml:space="preserve">
+    <value>설정된 채도보다 낮은 픽셀의 채도를 크로마에서 제외 (노이즈 정정)</value>
+  </data>
+  <data name="picColorChromaBrightnessCK_Tooltip" xml:space="preserve">
+    <value>설정된 밝기보다 낮은 픽셀의 밝기를 크로마에서 제외 (노이즈 정정)</value>
+  </data>
+  <data name="lblChannel" xml:space="preserve">
+    <value>채널</value>
+  </data>
+  <data name="lblNACodec" xml:space="preserve">
+    <value>코덱</value>
+  </data>
+  <data name="lblNAudioBitrate" xml:space="preserve">
+    <value>비트레이트 (kbps)</value>
+  </data>
+  <data name="lblNAudioFormat" xml:space="preserve">
+    <value>형식</value>
+  </data>
+  <data name="lblNBuffer1" xml:space="preserve">
+    <value>VBV buffer</value>
+  </data>
+  <data name="lblNBuffer2" xml:space="preserve">
+    <value>(kbit)</value>
+  </data>
+  <data name="lblNCodec" xml:space="preserve">
+    <value>코덱</value>
+  </data>
+  <data name="lblNExtra" xml:space="preserve">
+    <value>초과 Param</value>
+  </data>
+  <data name="lblNMaxBitrate_CBR" xml:space="preserve">
+    <value>비트레이트 (kbps)</value>
+  </data>
+  <data name="lblNMaxBitrate_VBR" xml:space="preserve">
+    <value>Max Bitrate (kbps)</value>
+  </data>
+  <data name="lblNMaxKeyint1" xml:space="preserve">
+    <value>Keyframes</value>
+  </data>
+  <data name="lblNMaxKeyint2" xml:space="preserve">
+    <value>(secs)</value>
+  </data>
+  <data name="lblNPreset" xml:space="preserve">
+    <value>사전 조절</value>
+  </data>
+  <data name="lblNQuality" xml:space="preserve">
+    <value>화질</value>
+  </data>
+  <data name="lblNResolution" xml:space="preserve">
+    <value>비디오 크기</value>
+  </data>
+  <data name="lblNVExtra_NoData" xml:space="preserve">
+    <value>데이터 없음</value>
+  </data>
+  <data name="lblNVExtra_WithData" xml:space="preserve">
+    <value>데이터와 함께</value>
+  </data>
+  <data name="lblQMode" xml:space="preserve">
+    <value>모드</value>
+  </data>
+  <data name="lblStrictCBR" xml:space="preserve">
+    <value>엄격한 CBR</value>
+  </data>
+  <data name="lblTestBW" xml:space="preserve">
+    <value>대역폭 테스트</value>
+  </data>
+  <data name="lblVideoEncoding" xml:space="preserve">
+    <value>비디오 인코딩</value>
+  </data>
+  <data name="lblAudioEncoding" xml:space="preserve">
+    <value>오디오 인코딩</value>
+  </data>
+  <data name="chkCBR" xml:space="preserve">
+    <value>엄격한 CBR 적용</value>
+  </data>
+  <data name="lblDefault" xml:space="preserve">
+    <value>복원</value>
+  </data>
+  <data name="lblExtra" xml:space="preserve">
+    <value>초과 인코더 매개 변수:</value>
+  </data>
+  <data name="lblKeyInt" xml:space="preserve">
+    <value>최대 키프레임 간격 (초):</value>
+  </data>
+  <data name="lblPreset2" xml:space="preserve">
+    <value>인코더 프리셋:</value>
+  </data>
+  <data name="lblVecTitle" xml:space="preserve">
+    <value>비디오 인코딩 설정</value>
+  </data>
+  <data name="rb1_Audio" xml:space="preserve">
+    <value>오디오</value>
+  </data>
+  <data name="msgSwitchingToRE2" xml:space="preserve">
+    <value>사용자의 그래픽 하드웨어는 D3D 11 레벨 10.1을 지원 하지 않습니다. XSplit는 레거시 렌더링 엔진으로 돌아가 사용하겠습니다.
+
+&lt;a href="http://#" name="dontshowagain"&gt; 다시 표시 하지 않습니다.&lt;/a&gt;</value>
+  </data>
+  <data name="msgCloseWhileStreaming" xml:space="preserve">
+    <value>현재 영상녹화 또는 방송 송출이 진행중입니다. 정말로 엑스플릿을 종료 하시겠습니까?</value>
+  </data>
+  <data name="chkEnhanceResize" xml:space="preserve">
+    <value>리사이즈 강화</value>
+  </data>
+  <data name="chkEnableEvrMf" xml:space="preserve">
+    <value>렌더 최적화 활성화</value>
+  </data>
+  <data name="chkEnableEvrMf_Tooltip" xml:space="preserve">
+    <value>이 옵션에는 대부분 시스템에서 전체적인 성능이 향상됩니다. 
+
+이 옵션은 XSplit의 다음 버전에서 기본설정이 될 것입니다.</value>
+  </data>
+  <data name="lblEnableEvrMfHint" xml:space="preserve">
+    <value>(실험, 다시 시작해야 함)</value>
+  </data>
+  <data name="lblEnableEvrMfHint_Tooltip" xml:space="preserve">
+    <value>이 옵션에는 대부분 시스템에서 전체적인 성능이 향상됩니다. 
+
+이 옵션은 XSplit의 다음 버전에서 기본설정이 될 것입니다.</value>
+  </data>
+  <data name="BwTester_Autosel" xml:space="preserve">
+    <value>최적한 서버를 찾는중입니다...</value>
+  </data>
+  <data name="BwTester_Autosel1" xml:space="preserve">
+    <value>{0} (으)로 방송 시도중</value>
+  </data>
+  <data name="lblHotkeyWarning" xml:space="preserve">
+    <value>핫키를 이용해 게임 또는 다른 응용프로그램을 실행하는 중에도 화면을 바꾸거나 명령할 수 있습니다.</value>
+  </data>
+  <data name="GlobalHotkeyWarningText" xml:space="preserve">
+    <value>다른 응용프로그램에서도 단축키를 사용할 수 있습니다. 그러므로 사용하고 있는 응용프로그램의 단축키와 XSplit의 단축기가 충돌하지 않도록 주의해주세요.</value>
+  </data>
+  <data name="WarningTitle" xml:space="preserve">
+    <value>Warning</value>
+  </data>
+  <data name="InformationTitle" xml:space="preserve">
+    <value>정보</value>
+  </data>
+  <data name="BroadcastStatus_Live" xml:space="preserve">
+    <value>생방송중{0}</value>
+  </data>
+  <data name="BroadcastStatus_SendingFrames" xml:space="preserve">
+    <value>송출 데이터 실시간 전송중{0}</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally" xml:space="preserve">
+    <value>로컬 녹화</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally2" xml:space="preserve">
+    <value>실시간 영상 녹화 중 {0}</value>
+  </data>
+  <data name="removeChannelsToolStripMenuItem" xml:space="preserve">
+    <value>채널 제거...</value>
+  </data>
+  <data name="removeChannelsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>방송 송출 설정 제거</value>
+  </data>
+  <data name="msgUncPathIsNotSupported" xml:space="preserve">
+    <value>네트워크 폴더는 지원 되지 않습니다. 네트워크 폴더를 드라이버에 매핑하고 그 드라이버를 녹화 저장 위치로 지정하세요.</value>
+  </data>
+  <data name="lblDecklinkPlayoutIntro" xml:space="preserve">
+    <value>Decklink Playout을 사용해 여러분은 XSplit에서 비디오와 오디오를 Blackmagic Design Declink 캡처 카드로 방송/내보낼 수 있습니다. XSplit 비디오와 오디오를 HDMI 피드를 송출하려면 이 기능을 사용하세요.</value>
+  </data>
+  <data name="lblDecklinkPlayoutTo" xml:space="preserve">
+    <value>송출 방식:</value>
+  </data>
+  <data name="lblDecklinkPlayoutResFps" xml:space="preserve">
+    <value>지원하는 해상도와 프레임률: 
+{0}
+
+XSplit 해상도와 초당 프레임률은 Blackmagic Media Express 의 비디오 형식과 일치해야 합니다.
+ 
+이 기능을 사용하려면 도구 &gt; 환경설정에 있는 가상 카메라를 활성화하세요.</value>
+  </data>
+  <data name="msgLicenseOffer_libh264qs" xml:space="preserve">
+    <value>QuickSync 인코더는 {0} 라이선스 사용자들만 사용할 수 있습니다. 지금 라이선스에서 업그레이드하는 것을 고려해보세요. 
+
+여러분의 라이선스를 업그레이드하시겠습니까?</value>
+  </data>
+  <data name="msgLicenseOffer_libh264qsext" xml:space="preserve">
+    <value>QuickSync 인코더는 {0} 라이선스 사용자들만 사용할 수 있습니다. 지금 라이선스에서 업그레이드하는 것을 고려해보세요. 
+
+여러분의 라이선스를 업그레이드하시겠습니까?</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_SCENECUR" xml:space="preserve">
+    <value>장면</value>
+  </data>
+  <data name="msgLicenseOffer_AAC" xml:space="preserve">
+    <value>AAC 오디오 품질을 높이는 것은 라이선스 사용자들만 사용할 수 있습니다.
+
+여러분의 라이선스를 업그레이드하시겠습니까?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgCantReconfigureYet" xml:space="preserve">
+    <value>스트림을 다시 설정 할  수 없습니다. 나중에 다시 시도 하십시오.</value>
+  </data>
+  <data name="lblEnterCaptcha" xml:space="preserve">
+    <value>코드 입력</value>
+  </data>
+  <data name="msgNotLiveForAnnounce" xml:space="preserve">
+    <value>소셜 네트워크에 알리기 전에 스트림을 다시 시작해야 합니다.</value>
+  </data>
+  <data name="titleNotLiveForAnnounce" xml:space="preserve">
+    <value>라이브로 방송을 해야합니다!</value>
+  </data>
+  <data name="LocalStreamingNonPremiumNotice" xml:space="preserve">
+    <value>이 기능은 퍼스널 또는 프리미엄 라이선스 유저들만 사용할 수 있습니다. Yes를 눌러 여러분 본인의 라이선스를 구매하고 XSplit Broadcaster의 좋은 기능들을 만나보세요!</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgSkypeVideoSourceBuyXSplitOffer" xml:space="preserve">
+    <value>이 기능은 퍼스널 또는 프리미엄 라이선스 유저들만 사용할 수 있습니다. Yes를 눌러 여러분 본인의 라이선스를 구매하고 XSplit Broadcaster의 좋은 기능들을 만나보세요!</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="RoxioGameCaptureNotice" xml:space="preserve">
+    <value>이 기능은 퍼스널 또는 프리미엄 라이선스 유저들만 사용할 수 있습니다. Yes를 눌러 여러분 본인의 라이선스를 구매하고 XSplit Broadcaster의 좋은 기능들을 만나보세요!</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="HauppaugeHdPvr2Notice" xml:space="preserve">
+    <value>이 기능은 퍼스널 또는 프리미엄 라이선스 유저들만 사용할 수 있습니다. Yes를 눌러 여러분 본인의 라이선스를 구매하고 XSplit Broadcaster의 좋은 기능들을 만나보세요!</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="titleShareFailed" xml:space="preserve">
+    <value>공유 실패</value>
+  </data>
+  <data name="msgRecordingPathIsTooLong" xml:space="preserve">
+    <value>{0}에 저장한다면, 저장할 경로가 너무 깁니다. 조금 줄여주세요.</value>
+  </data>
+  <data name="msgGamesourceUpdateNeedsRestart" xml:space="preserve">
+    <value>엑스플릿 브로드캐스터는 최신 업데이트된 게임 캡처의 구성요소를 포함하고 있지만 오래된 요소들이 이미 실행 중입니다. 컴퓨터를 재부팅 하고 엑스플릿 브로드캐스터를 다시 실행해주세요.</value>
+  </data>
+  <data name="msgGamesourceCantLoadMayNeedRestart" xml:space="preserve">
+    <value>엑스플릿 브로드캐스터는 게임 캡쳐 구성요소를 불러오는 도중 오류를 발견했습니다. 다시 한 번 더 시도해주시거나 시스템 메모리를 리셋하기 위해 컴퓨터를 재부팅.</value>
+  </data>
+  <data name="msgProfileSyncFailed" xml:space="preserve">
+    <value>프로필을 수정하는 요청이 거부되었습니다. 
+
+ {0}</value>
+  </data>
+  <data name="msgCantRemoveResolution" xml:space="preserve">
+    <value>선택한 해상도 제거할 수 없습니다. 먼저 다른 해상도를 선택하세요.</value>
+  </data>
+  <data name="msgCantDeleteChannel" xml:space="preserve">
+    <value>채널을 삭제할 수 없습니다.</value>
+  </data>
+  <data name="msgCantCreateRecordingFile" xml:space="preserve">
+    <value>'{0}'에 녹음 파일을 만들 수 없습니다. 그 폴더에 저장하는 데 충분한 사용 권한을 가졌는지 확인하십시오.</value>
+  </data>
+  <data name="activationReminderTitle" xml:space="preserve">
+    <value>알림</value>
+  </data>
+  <data name="msgStreamResolutionIsNotSupportedResolution1" xml:space="preserve">
+    <value>현재 단계의 해상도는 하드웨어 인코더에서 지원되지 않습니다. 사용자의 비디오는 이 설정과 가장 밀접하게 가능한 해상도 (품질 손실 없이)를 사용하여 인코딩될 것입니다.</value>
+  </data>
+  <data name="msgBwtestTerminated" xml:space="preserve">
+    <value>사용자의 대역폭은 {0}이고 테스트는 종료 되었습니다. 
+채널 설정을 확인 하시기 바랍니다.</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally_Paused" xml:space="preserve">
+    <value>녹화가 일시 중지되었습니다. {0} 을 눌러 다시 시작하세요.</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally_Paused1" xml:space="preserve">
+    <value>녹화 일시 중지</value>
+  </data>
+  <data name="WatermarkOn" xml:space="preserve">
+    <value>워터마크 켜기</value>
+  </data>
+  <data name="CustomFramerateLabel1" xml:space="preserve">
+    <value>(지정하기...)</value>
+  </data>
+  <data name="PreviewWindow" xml:space="preserve">
+    <value>미리보기 편집기</value>
+  </data>
+  <data name="msgPausedRecordingWarning" xml:space="preserve">
+    <value>진행 중이던 녹화가 일시 정지되었습니다. 계속해서 녹화하려면 {0}을 누르세요.
+
+녹화를 중지하겠습니까?</value>
+  </data>
+  <data name="msgPausedRecordingWarning1" xml:space="preserve">
+    <value>진행 중이던 녹화가 일시 정지되었습니다. 계속해서 녹화하려면 {1} 메뉴 아래의 {0}을 누르세요.
+
+녹화를 중지하겠습니까?</value>
+  </data>
+  <data name="addGameAutoDetect" xml:space="preserve">
+    <value>자동 감지</value>
+  </data>
+  <data name="addGameAutoDetect1" xml:space="preserve">
+    <value>게임: 자동 감지</value>
+  </data>
+  <data name="lblNBuffer1_Tooltip" xml:space="preserve">
+    <value>VBV buffer</value>
+  </data>
+  <data name="lblNExtra_Tooltip" xml:space="preserve">
+    <value>초과 Param</value>
+  </data>
+  <data name="lblNMaxKeyint1_Tooltip" xml:space="preserve">
+    <value>키 프레임 간격</value>
+  </data>
+  <data name="lblNPreset_Tooltip" xml:space="preserve">
+    <value>사전 조절</value>
+  </data>
+  <data name="lblNQuality_Tooltip" xml:space="preserve">
+    <value>화질</value>
+  </data>
+  <data name="lblNResolution_Tooltip" xml:space="preserve">
+    <value>비디오 크기</value>
+  </data>
+  <data name="lblStrictCBR_Tooltip" xml:space="preserve">
+    <value>엄격한 CBR</value>
+  </data>
+  <data name="runLogReportToolToolStripMenuItem" xml:space="preserve">
+    <value>문제를 보고...</value>
+  </data>
+  <data name="logoutToolStripMenuItem" xml:space="preserve">
+    <value>로그아웃</value>
+  </data>
+  <data name="growlStreamIsDelayed" xml:space="preserve">
+    <value>스트림 지연 기능이 활성화되었습니다. 라이브 스트림은 {0} 초후에 시작됩니다...</value>
+  </data>
+  <data name="growlStreamIsDelayedStopping" xml:space="preserve">
+    <value>사용자의 방송 {0}은 지연 방송 기능이 실행되었고 방송과 데이터를 {1}초후에 시청자에게 전송합니다...</value>
+  </data>
+  <data name="chkRecordStream_Tooltip" xml:space="preserve">
+    <value>지연 기능 모드가 사용되지 않는 한 이것은 인코딩 되고 있는 carbon copy라는 파일을 만듭니다. 
+carbon copy는 인코딩 되는 파일에서 화면 떨림이나 프레임이 낮춰지는 상황을 확인할 수 있습니다.</value>
+  </data>
+  <data name="AddWebUrl" xml:space="preserve">
+    <value>웹 주소 (URL) 입력</value>
+  </data>
+  <data name="AddRtmpStream" xml:space="preserve">
+    <value>RTMP 스트림을 추가</value>
+  </data>
+  <data name="AddScriptPlugin" xml:space="preserve">
+    <value>사용자 지정 확장 프로그램 추가</value>
+  </data>
+  <data name="lblAudioOut" xml:space="preserve">
+    <value>시스템 사운드</value>
+  </data>
+  <data name="StopLocalRecording" xml:space="preserve">
+    <value>로컬 녹화 중지</value>
+  </data>
+  <data name="PauseLocalRecording" xml:space="preserve">
+    <value>로컬 녹화 일시 정지</value>
+  </data>
+  <data name="ResumeLocalRecording" xml:space="preserve">
+    <value>로컬 녹화 다시 시작</value>
+  </data>
+  <data name="msgMixerFpsNotSupportedByVideoCodec" xml:space="preserve">
+    <value>{0} 는 다음과 같은 초당 프레임률만 지원합니다.
+
+{1}
+
+출력 프레임률을 "프레임률" 메뉴에서 설정해주세요.</value>
+  </data>
+  <data name="msgVideoCodecMaxEncodeLimited" xml:space="preserve">
+    <value>{0}는 최대 {1}까지 동시에 인코딩합니다.</value>
+  </data>
+  <data name="frmFeedback" xml:space="preserve">
+    <value>여러분의 목소리를 듣고싶습니다.</value>
+  </data>
+  <data name="msgdiskwritefailure_recording" xml:space="preserve">
+    <value>당신의 녹화는 디스크 작성 오류 때문에 종료 되었습니다.</value>
+  </data>
+  <data name="msgdiskwritefailure_streaming" xml:space="preserve">
+    <value>디스크 쓰기 오류로 디스크에 저장되지 못했습니다, 하지만 방송은 계속 진행될 것입니다.</value>
+  </data>
+  <data name="msgRE2ParameterWarning" xml:space="preserve">
+    <value>"{0}" exe 파라미터가 감지되었습니다. 이 옵션을 더 이상 추천해드리지 않습니다.</value>
+  </data>
+  <data name="growlMinAvailMemWarning" xml:space="preserve">
+    <value>XSplit은 높은 수준의 메모리를 사용하고 있고, 이것은 불안정한 시스템 상태를 만들 수 있습니다. 사용되지 않거나 숨겨진 소스들이 여전히 메모리를 차지하고 있습니다. 이 문제를 하결하려면 프레젠테이션 내 몇몇 소스들을 삭제해주세요.
+
+더 많은 정보를 얻으려면 &lt;a href="{0}" name="memstats" &gt;이&lt;/a&gt; 블로그 포스트를 참조하세요.</value>
+  </data>
+  <data name="growlD3dOnIntelWarning" xml:space="preserve">
+    <value>사용자는 현재 인텔 HD 그래픽으로 XSplit을 사용하고 있습니다. 좀 더 나은 성능을 위해 Nvidia나 Radeon Class CPU를 추천해드립니다.</value>
+  </data>
+  <data name="growlD3dOnIntelWarningHasOtherGPUOnDesktop" xml:space="preserve">
+    <value>사용자의 기본 모니터는 Intel HD GPU로 연결되어 있습니다. 우리는 성능의 안정성을 위해 사용자의 모니터를 Nvidia 또는 Radeon Class GPU를 기본으로 설정하는 것을 추천해드립니다. 
+
+&lt;a href="https://xspl.it/bhg75v" name="learnmore"&gt;여기를 클릭&lt;/a&gt;해 더 많은 정보를 얻으세요</value>
+  </data>
+  <data name="growlMp4FinalizationFailed" xml:space="preserve">
+    <value>"{0}" 의 녹화 프로세스가 아직 진행중입니다.</value>
+  </data>
+  <data name="growlRestartingWithEncoderError" xml:space="preserve">
+    <value>인코딩하는 데에 실패하였고 다시 시작될 것입니다, 더 많은 &lt;a href="https://xspl.it/err/{2}"&gt;정보&lt;/a&gt; 보기. 본 파일 "{0}"은 "{1}"으/로 바뀌어 저장되었습니다.</value>
+  </data>
+  <data name="growlRestartingWithEncoderError2" xml:space="preserve">
+    <value>인코딩하는 데에 실패하였고 다시 시작될 것입니다, 더 많은 &lt;a href="https://xspl.it/err/{1}"&gt;정보&lt;/a&gt; 보기. "{0}" 파일에 덮어쓰기 되었습니다.</value>
+  </data>
+  <data name="growlDesktopCaptureOnAeroWarning" xml:space="preserve">
+    <value>Aero 테마는 데스크탑 캡처를 지원하지 않으며 동시에 XSplit 성능에 영향을 미칠 수 있습니다. 데스크탑 캡처를 반드시 써야한다면 윈도우7 기본 테마로 바꿔주세요. [여기](https://xspl.it/bc/jn2qeo)에서 더 자세히 알아보세요.</value>
+  </data>
+  <data name="msgStreamingUnsupportedVideoCodec1" xml:space="preserve">
+    <value>사용자의 {0} 스트림이 강제종료되었습니다. {1} 캡처나 인코딩 가능이 다른 응용프로그램에서는 사용되지않고 있는 것을 확인해주세요.</value>
+  </data>
+  <data name="msgConfirmStreamingCodecInStage" xml:space="preserve">
+    <value>사용자의 {0}은 캡처 소스를 사용하고 있으면서 하드웨어 인코딩하는 것을 지원하지 않습니다. 하드웨어 인코더를 사용하려면, 첫번째로 화면에 보이는 것처럼 캡처 소스를 제거하세요. 기본 {1} 코덱으로 변경하시겠습니까?
+
+{0} 캡쳐 카드에 대한 더 많은 정보를 받으시려면 "도움말" 버튼을 클릭하세요.</value>
+  </data>
+  <data name="msgStreamingUnsupportedVideoCodec2Confirm" xml:space="preserve">
+    <value>{0} 카드는 한 번에 한 채널에서의 인코딩만 지원합니다. {1}가 이미 채널 {2}에서 사용되고 있습니다. 기본 {3} 코덱으로 전환하시겠습니까?
+
+{0} 캡처 카드에 대한 더 많은 정보를 받으시려면 "도움말" 버튼을 클릭하세요.</value>
+  </data>
+  <data name="msgCefGpuRendererStateChangedWarning" xml:space="preserve">
+    <value>GPU 렌더링 상태 변경이 감지되었습니다. XSplit Broadcaster은 최적화를 위해 재시작될 것입니다.</value>
+  </data>
+  <data name="volumeRange" xml:space="preserve">
+    <value>볼륨 범위 (%): {0}</value>
+  </data>
+  <data name="goLiveAndCloseSceneEditorTsmi" xml:space="preserve">
+    <value>미리보기 창 닫기</value>
+  </data>
+  <data name="goLiveAndReloadSceneEditor" xml:space="preserve">
+    <value>미리보기 창 다시 불러오기</value>
+  </data>
+  <data name="goLiveAndSwapLiveWithSceneEditor" xml:space="preserve">
+    <value>생방송에서 미리보기로 장면 전환</value>
+  </data>
+  <data name="goLiveAndSwitchSceneEditor" xml:space="preserve">
+    <value>미리보기 창 변경</value>
+  </data>
+  <data name="goLiveAndSwitchToLiveSceneEditor" xml:space="preserve">
+    <value>라이브 장면</value>
+  </data>
+  <data name="goLiveAndSwitchToLiveSceneSplit" xml:space="preserve">
+    <value>라이브 장면</value>
+  </data>
+  <data name="growlNonDefaultStreamResFpsXbc5003" xml:space="preserve">
+    <value>메인 화면의 해상도와 프레임률 ({1})과는 다르게 설정된 녹화 또는 송출 해상도와 프레임률 ({0})을 선택했습니다. 방송 플랫폼 설정 창의 비디오 인코딩 부분에서 해상도와 프레임룰을 메인화면과 항상 일치하도록 다시 설정할 수 있음을 알려드립니다.</value>
+  </data>
+  <data name="growlNonDefaultStreamResFps" xml:space="preserve">
+    <value>메인 화면의 해상도와 프레임률 ({1})과는 다르게 설정된 녹화 또는 송출 해상도와 프레임률 ({0})을 선택했습니다. 방송 플랫폼 설정 창의 비디오 인코딩 부분에서 해상도와 프레임룰을 메인화면과 항상 일치하도록 다시 설정할 수 있음을 알려드립니다.</value>
+  </data>
+  <data name="growlNonDefaultStreamResFpsForInvalidLicense" xml:space="preserve">
+    <value>메인 화면의 해상도와 프레임률 ({1})과는 다르게 설정된 녹화 또는 송출 해상도와 프레임률 ({0})을 선택했습니다. </value>
+  </data>
+  <data name="chkStreamDelay" xml:space="preserve">
+    <value>스트림 지연 활성화</value>
+  </data>
+  <data name="lblStreamDelay" xml:space="preserve">
+    <value>초</value>
+  </data>
+  <data name="msgNonDefaultStreamAspectRatioDifferent" xml:space="preserve">
+    <value>세팅된 {0} 비디오 종횡비는 현재 스테이지 해상도의 비디오 종횡비와 다릅니다. 스테이지 해상도 {1}로 비디오 사이즈를 맞추시겠습니까?</value>
+  </data>
+  <data name="msgNonDefaultStreamResLarger" xml:space="preserve">
+    <value>{0}의 설정된 비디오 사이즈 {1}는 이 스테이지 해상도보다 큰 상태입니다. 비디오 사이즈에 맞게 스테이지 해상도를 조절하시겠습니까?</value>
+  </data>
+  <data name="transitionSpeedTsmi" xml:space="preserve">
+    <value>화면 전환 속도</value>
+  </data>
+  <data name="favTransitionAddTip" xml:space="preserve">
+    <value>좋아하는 화면을 빠르게 전환하려면 전환과 속도를 왼쪽으로 당기고 별 아이콘을 클릭하세요.</value>
+  </data>
+  <data name="favTransitionMaxTip" xml:space="preserve">
+    <value>좋아하는 장면 전환의 최대 허용 수에 도달하였습니다. 더 추가하려면 현재 목록에 있는 것들을 제거해야합니다.</value>
+  </data>
+  <data name="favTransitionShortcutTip" xml:space="preserve">
+    <value>바로가기: 장면을 전환할 때 새로 바꿀 장면이 나오면 마우스 오른쪽 클릭을 하세요.</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_FAVTRANSADD" xml:space="preserve">
+    <value>좋아하는 장면 전환 추가</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_FAVTRANSLIST" xml:space="preserve">
+    <value>좋아하는 전환 열기</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GOLIVELIST" xml:space="preserve">
+    <value>송출하기 설정</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SCENELIST" xml:space="preserve">
+    <value>장면 전환</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_TRANSLIST" xml:space="preserve">
+    <value>장면 전환 스타일과 속도 설정</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_SCENESRC" xml:space="preserve">
+    <value>장면 전환</value>
+  </data>
+  <data name="favTransitionAddTip1" xml:space="preserve">
+    <value>즐겨찾는 전환 바로 가기는 비어 있습니다. 즐겨찾는 전환을 추가 하기 위해 위의 별 모양 아이콘을 클릭 하십시오.</value>
+  </data>
+  <data name="msgAskToBackupPresDueToNewSceneIndexes" xml:space="preserve">
+    <value>XSplit Broadcaster 는 이제 장면 순서를 클릭 후 드래그 하는 방식으로 옮길수 있으며 왼쪽에서 오른쪽 순서로 나열 합니다. 이로 인해서 미리 저장해 두신 장면 순서가 바뀌어졌을 수 있으나 드래그 하여 손쉽게 정리 하실 수 있습니다. 만약 장면 순서를 바꾸시게 된다면, 장면 바로가기 단축키 역시 바꾸는 것 을 잊지 마십시오.</value>
+  </data>
+  <data name="msgFunctionUnavailableDueToClosedPort" xml:space="preserve">
+    <value>닫힌 포트 {0} 때문에 사용할 수 없습니다.</value>
+  </data>
+  <data name="AutoSetup" xml:space="preserve">
+    <value>채널 설정 마법사</value>
+  </data>
+  <data name="btnRedoTest" xml:space="preserve">
+    <value>테스트 재실행</value>
+  </data>
+  <data name="colComputerHw" xml:space="preserve">
+    <value>컴퓨터 사양</value>
+  </data>
+  <data name="colReqUpload" xml:space="preserve">
+    <value>업로드 속도</value>
+  </data>
+  <data name="colResolution" xml:space="preserve">
+    <value>해상도</value>
+  </data>
+  <data name="lblLegendText" xml:space="preserve">
+    <value>권장된 설정</value>
+  </data>
+  <data name="lnkLogs" xml:space="preserve">
+    <value>기록 표시</value>
+  </data>
+  <data name="scriptAddTsmi" xml:space="preserve">
+    <value>확장 프로그램 추가...</value>
+  </data>
+  <data name="moreExtensionsToolStripMenuItem" xml:space="preserve">
+    <value>더 많은 확장 프로그램 보기</value>
+  </data>
+  <data name="scriptEditorTsmi" xml:space="preserve">
+    <value>확장 프로그램</value>
+  </data>
+  <data name="scriptRemoveTsmi" xml:space="preserve">
+    <value>확장 프로그램 제거</value>
+  </data>
+  <data name="msgSettingsSaved_RestartNeeded" xml:space="preserve">
+    <value>XSplit 이 재시작 되어야 아래 설정이 적용됩니다.[table]설정|현재 값|새로운 값[/table]재시작 하시겠습니까?</value>
+  </data>
+  <data name="msgOSCompatiblityModeWarning" xml:space="preserve">
+    <value>XSplit.core.exe 가 구 Windows 버전에 맞는 호환성 모드로 실행되도록 설정되었습니다. XSplit 을 호환성 모드로 실행하는것은 지원되지 않으며 예상치 못한 오류가 발생할 수 있습니다. (&lt;a href="https://xspl.it/tpyg23"&gt;이곳&lt;/a&gt; 에서 변경하는 법 보기.)</value>
+  </data>
+  <data name="growlHighCpuUsageWarning" xml:space="preserve">
+    <value>높은 CPU 사용률 감지. 성능에 문제가 발생할 수 있습니다.</value>
+  </data>
+  <data name="growlPowerSchemeWarning" xml:space="preserve">
+    <value>전원 설정을 "{0}" 로 하시는것을 권장합니다. &lt;a name="open-powercfg"&gt;여기&lt;/a&gt; 를 클릭하여 전원 설정 제어판을 열 수 있습니다.</value>
+  </data>
+  <data name="msgEVRWarning" xml:space="preserve">
+    <value>생산에 도움되지 않는 exe 변수를 사용하고 있습니다.</value>
+  </data>
+  <data name="msgFeatureRequiresMFP" xml:space="preserve">
+    <value>이 기능은 현재 버전의 Windows 의 미디어 기능 팩 이 필요로 합니다. [이곳]({0}) 에서 다운로드 하십시오.</value>
+  </data>
+  <data name="enableHardwareAccelerateUSB2" xml:space="preserve">
+    <value>하드웨어 가속을 사용하여 USB2 캡처 장치 사용</value>
+  </data>
+  <data name="enableMFEngine" xml:space="preserve">
+    <value>하드웨어 가속을 사용하여 동영상 재생</value>
+  </data>
+  <data name="BroadcasterTriggerAds" xml:space="preserve">
+    <value>광고 시작 - {0}</value>
+  </data>
+  <data name="enableDeveloperMode" xml:space="preserve">
+    <value>개발자 모드 활성화</value>
+  </data>
+  <data name="msgRemoteDebugPortIsBusy" xml:space="preserve">
+    <value>개발자 모드가 활성화 하였지만 디버그 포트 {0} 가 사용중 입니다. 플러그인 디버깅이 필요하시다면 다른 포트를 사용하여 주십시오 예: "remotedebug:&lt;port number&gt;"
+
+개발자 모드는 보안 설정이 낮은 관계로 항상 사용하기에는 권장하지 않습니다. 개발자 모드를 비활성화 하시려면 도구 -&gt; 환경 설정 -&gt; &lt;a name="open-advanced-settings"&gt;Advanced&lt;/a&gt; 를 확인 하십시오.</value>
+  </data>
+  <data name="msgRemoteDebugPortIsOkay" xml:space="preserve">
+    <value>개발자 모드가 디버그 포트 {0} 를 사용하여 활성화 하였습니다
+
+개발자 모드는 보안 설정이 낮은 관계로 항상 사용하기에는 권장하지 않습니다. 개발자 모드를 비활성화 하시려면 도구 -&gt; 환경 설정 -&gt; &lt;a name="open-advanced-settings"&gt;Advanced&lt;/a&gt; 를 확인 하십시오.</value>
+  </data>
+  <data name="msgNoNetNoValidLocal" xml:space="preserve">
+    <value>XSplit 은 유효한 인터넷 연결 상태 혹은 로컬 계정을 감지하지 못하였습니다. 인터넷에 연결 되어야 진행 하실수 있습니다.</value>
+  </data>
+  <data name="msgInvalidSocialAccountInfo" xml:space="preserve">
+    <value>현재 사용중인 계정 정보는 더이상 유효하지 않습니다. 다시 시도해 주시기 바랍니다.</value>
+  </data>
+  <data name="lblAdapter" xml:space="preserve">
+    <value>어댑터</value>
+    <comment>XBC plugins-wide; Properties</comment>
+  </data>
+  <data name="lblNetworkConnection" xml:space="preserve">
+    <value>네트워크 연결</value>
+    <comment>XBC plugins-wide; Properties</comment>
+  </data>
+  <data name="btnSetupWizard" xml:space="preserve">
+    <value>설치 마법사...</value>
+    <comment>Plugins with wizard feature (i.e. Dailymotion, Hitbox, Twitch, Ustream); Properties</comment>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>계정이 없을경우 이곳에서 가입</value>
+    <comment>XBC plugins-wide (default value); Properties</comment>
+  </data>
+  <data name="lblNic_System" xml:space="preserve">
+    <value>시스템이 자체 결정합니다</value>
+  </data>
+  <data name="msgCarbonCopyTerminatedDueToDiskWriteFailure" xml:space="preserve">
+    <value>디스크 쓰기 오류로 디스크에 저장되지 못했습니다, 하지만 방송은 계속 진행될 것입니다.</value>
+  </data>
+  <data name="msgRecordingTerminatedDueToDiskWriteFailure" xml:space="preserve">
+    <value>당신의 녹화는 디스크 작성 오류 때문에 종료 되었습니다.</value>
+  </data>
+  <data name="msgDeckLinkPlayoutStopped_PossiblyUnplugged" xml:space="preserve">
+    <value>{0} 으로 송출이 중단되었습니다. 관련 송출 장치를 확인해보시기 바랍니다.</value>
+  </data>
+  <data name="msgBMWDMRecommended" xml:space="preserve">
+    <value>{0} 소스가 이 프레젠테이션에서 사용되었습니다. 이 소스를 제거하고 Blackmagic WDM 캡쳐 소스를 권장합니다. (데스크탑 Video Driver 버전 10.5.3+ 권장)</value>
+  </data>
+  <data name="msgDecklinkPlayoutAborted" xml:space="preserve">
+    <value>사용자의 {0} 방송이 중단되었습니다. {0} 이(가) 재대로 설정되어있고 활성화 되었는지 확인하십시오. 새로운 장치를 연결하였다면 XSplit 브로드캐스터를 재시작 하는것을 추천합니다.</value>
+  </data>
+  <data name="lblDisabled" xml:space="preserve">
+    <value>비활성화</value>
+  </data>
+  <data name="lblEnabled" xml:space="preserve">
+    <value>활성화</value>
+  </data>
+  <data name="enableNativeFlashAndBrowserAudio" xml:space="preserve">
+    <value>네이티브 플래시와 오디오 컨트롤 브라우저를 사용</value>
+  </data>
+  <data name="upgradeExtendLicenseToolStripMenuItem" xml:space="preserve">
+    <value>라이센스 업그레이드 / 연장</value>
+  </data>
+  <data name="upgradeExtendLicenseToolStripMenuItem2" xml:space="preserve">
+    <value>라이센스 구입</value>
+  </data>
+  <data name="screenshotsToolStripMenuItem" xml:space="preserve">
+    <value>스크린샷 폴더</value>
+  </data>
+  <data name="btnDeleteChannel" xml:space="preserve">
+    <value>방송 송출 설정 제거</value>
+  </data>
+  <data name="titleDeleteChannel" xml:space="preserve">
+    <value>방송 송출 설정 제거</value>
+  </data>
+  <data name="pbNetworkConnection_Tooltip" xml:space="preserve">
+    <value>이 출력에 맞는 특정 네트워크 어댑터를 사용하시려면 "출력이 직접 네트워크 어댑터 설정하기" 설정을
+설정 &gt; 고급탭에 있는 목록에서 선택하시기 바랍니다.</value>
+  </data>
+  <data name="executeCustomURLToolStripMenuItem" xml:space="preserve">
+    <value>사용자 지정 URI 실행</value>
+  </data>
+  <data name="pluginStoreToolStripMenuItem" xml:space="preserve">
+    <value>플러그인 스토어</value>
+  </data>
+  <data name="myPluginsToolStripMenuItem" xml:space="preserve">
+    <value>설치된 플러그인</value>
+  </data>
+  <data name="deleteSceneToolStripMenuItem" xml:space="preserve">
+    <value>장면 삭제</value>
+  </data>
+  <data name="duplicateSceneToolStripMenuItem" xml:space="preserve">
+    <value>장면 복제</value>
+  </data>
+  <data name="loadSceneToolStripMenuItem" xml:space="preserve">
+    <value>장면 불러오기</value>
+  </data>
+  <data name="newSceneToolStripMenuItem" xml:space="preserve">
+    <value>새로운 장면</value>
+  </data>
+  <data name="saveSceneAsImageToolStripMenuItem" xml:space="preserve">
+    <value>장면을 이미지로 저장</value>
+  </data>
+  <data name="saveSceneToolStripMenuItem" xml:space="preserve">
+    <value>장면 저장</value>
+  </data>
+  <data name="titleExecuteCustomURI" xml:space="preserve">
+    <value>사용자 지정 URI 실행</value>
+  </data>
+  <data name="msgInvalidURI" xml:space="preserve">
+    <value>유효하지 않는 URI.</value>
+  </data>
+  <data name="titleLicenseIsNearExpiration" xml:space="preserve">
+    <value>라이센스가 곧 만료됩니다.</value>
+  </data>
+  <data name="msgLicenseIsNearExpiration" xml:space="preserve">
+    <value>라이센스는 {0} 에 만료됩니다. 이 기간 이후에도 방송/녹화 영상을 제작하시려면 새로운 라이센스를 구입하시기까지 워터마크가 표기됩니다.</value>
+  </data>
+  <data name="msgLicenseIsExpired" xml:space="preserve">
+    <value>라이센스가 만료 되었습니다. 라이센스를 다시 구입 하실때까지 방송/녹화 영상에 워터마크가 생길것 입니다.</value>
+  </data>
+  <data name="titleLicenseIsExpired" xml:space="preserve">
+    <value>라이센스가 만료 되었습니다.</value>
+  </data>
+  <data name="msgLicenseIsNearExpiration2" xml:space="preserve">
+    <value>&lt;a name="buy"&gt;여기를 클릭&lt;/a&gt;하여 라이센스를 갱신 하세요.</value>
+  </data>
+  <data name="btnRenewLicense" xml:space="preserve">
+    <value>라이센스 갱신</value>
+  </data>
+  <data name="growlScreenshotTaken" xml:space="preserve">
+    <value>스크린샷이 저장되었습니다! 스크린샷은 파일 -&gt; 스크린샷 에서 확인 할 수 있습니다.</value>
+  </data>
+  <data name="LocalFiles" xml:space="preserve">
+    <value>녹화 파일</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem" xml:space="preserve">
+    <value>NewTek NDI® 출력 활성화</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem1" xml:space="preserve">
+    <value>NewTek NDI® 출력 비활성화</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem2" xml:space="preserve">
+    <value>NewTek NDI® 송출</value>
+  </data>
+  <data name="msgCantDeleteSceneWhileEditingOrProjecting" xml:space="preserve">
+    <value>편집중 이거나 프로젝터에 설정된 장면은 삭제할 수 없습니다.</value>
+  </data>
+  <data name="msgCantDeleteSceneWhileInUse" xml:space="preserve">
+    <value>장면이 활성화 되어있으므로 삭제할 수 없습니다.</value>
+  </data>
+  <data name="msgCannotOpenMultipleXVE" xml:space="preserve">
+    <value>최대 하나의 실행된 Express Video Editor 만 지원합니다. 이미 XSplit 게임캐스터에서 실행하는 편집기를 종료하십시오.</value>
+  </data>
+  <data name="deleteSceneToolStripMenuItem1" xml:space="preserve">
+    <value>장면 삭제</value>
+  </data>
+  <data name="msgCantParseOutputUriWhileStreaming" xml:space="preserve">
+    <value>방송출력중엔 출력 URI 를 처리할 수 없습니다.</value>
+  </data>
+  <data name="msgExecuringUri" xml:space="preserve">
+    <value>URI 실행중...</value>
+  </data>
+  <data name="newtekNDIStreamBetaToolStripMenuItem" xml:space="preserve">
+    <value>NewTek NDI® 스트리밍 (베타)</value>
+  </data>
+  <data name="newtekNDIStreamToolStripMenuItem" xml:space="preserve">
+    <value>NewTek NDI® 스트리밍</value>
+  </data>
+  <data name="msgNdiBetaNotice" xml:space="preserve">
+    <value>NewTek NDI® 기능을 사용해 주셔서 감사합니다. 이 기능은 현재 베타 버전이며 이 기능에 대한 정보를 &lt;a href='https://xspl.it/z8tpys'&gt;더 읽어보기 &lt;/a&gt;바랍니다.</value>
+  </data>
+  <data name="msgSystemTimeIsIncorrect" xml:space="preserve">
+    <value>사용자의 시스템에 설정된 시간이 올바르지 않을수 있습니다. 이러한 경우 XSplit 기능에 영향을 줄 수 있습니다.</value>
+  </data>
+  <data name="msgWarningOn32bitOS" xml:space="preserve">
+    <value>현재 32비트 운영 시스템을 실행하고 있습니다. 메모리 제한 때문에 일부 성능 과 기능이 원활하게 작동하지 않을수 있습니다. &lt;a href='https://xspl.it/qrg6n3'&gt;여기&lt;/a&gt;를 클릭 하여 더 자세히 알아보세요.</value>
+  </data>
+  <data name="msgSteamLicenseConflict" xml:space="preserve">
+    <value>현재 적용되어있는 XSplit 계정이 존재함을 감지하였습니다. 고객지원에 문의해보시기 바랍니다. &lt;a href='https://xspl.it/support'&gt;support@xsplit.com&lt;/a&gt;</value>
+  </data>
+  <data name="msgNonDefaultSystemSoundWarning" xml:space="preserve">
+    <value>시스템 소리를 "{0}" 으로 설정하지 않으신다면 실행하시고 있는 어플리케이션, 게임, 방송 또는 녹화 파일이 음소거 될 가능성이 있습니다.</value>
+  </data>
+  <data name="changeLanguageToolStripMenuItem" xml:space="preserve">
+    <value>언어 변경</value>
+  </data>
+  <data name="msgPort443IsBlocked" xml:space="preserve">
+    <value>XSplit 브로드캐스터는 포트 TCP/433 이 비활성화한것을 감지하였습니다. 이 포트가 활성화 되어야 외부 서비스와 연동할수 있습니다. &lt;a href=\"http://xspl.it/how-to-unblock-port-443\"&gt;여기&lt;/a&gt;를 클릭하여 더 자세히 알아보세요.</value>
+  </data>
+  <data name="titlePort443IsBlocked" xml:space="preserve">
+    <value>포트 443 이 비활성화 되어있습니다.</value>
+  </data>
+  <data name="aboutNdiToolStripMenuItem" xml:space="preserve">
+    <value>NDI® 에 대해 배우기</value>
+  </data>
+  <data name="noNdiSourcesFoundOnNetworkToolStripMenuItem" xml:space="preserve">
+    <value>네트워크에서 NDI® 소스를 찾을수 없습니다.</value>
+  </data>
+  <data name="msgHasNoNdiPrereq" xml:space="preserve">
+    <value>이 기능은 Visual C++ Redistributable for Visual Studio 2013 x86 가 필요합니다. [여기](https://xspl.it/ftbdkn) 를 클릭하여 다운로드 받으세요.</value>
+  </data>
+  <data name="msgHasNoNdiPrereqX64" xml:space="preserve">
+    <value>이 기능은 Visual C++ Redistributable for Visual Studio 2015 x64 가 필요합니다. [여기](https://xspl.it/vc2015x64) 를 클릭하여 다운로드 받으세요.</value>
+  </data>
+  <data name="titleHasNoNdiPrereq" xml:space="preserve">
+    <value>NDI® 필수 구성 요소를 찾지 못함.</value>
+  </data>
+  <data name="noNdiPrereqToolStripMenuItem" xml:space="preserve">
+    <value>필수 구성 요소를 찾지 못함. 클릭하여 더 알아보기.</value>
+  </data>
+  <data name="tsslDisplayFps_Tooltip" xml:space="preserve">
+    <value>내 화면상 프레임률 / 실제 송출되는 프레임률</value>
+  </data>
+  <data name="tsslDisplayFpsVal_Tooltip" xml:space="preserve">
+    <value>내 화면상 프레임률 / 실제 송출되는 프레임률</value>
+  </data>
+  <data name="tsslCPU_Tooltip" xml:space="preserve">
+    <value>전체 CPU 사용량 / XSplit CPU 사용량 / CPU 클럭 속도</value>
+  </data>
+  <data name="tsslCPUVal_Tooltip" xml:space="preserve">
+    <value>전체 CPU 사용량 / XSplit CPU 사용량 / CPU 클럭 속도</value>
+  </data>
+  <data name="tsslGPU_Tooltip" xml:space="preserve">
+    <value>모든 GPU엔진중 가장 높은 부하 / 모든 엔진중 엑스플릿 브로드캐스터 관련 프로세스의 가장 부하 / GPU 클럭 속도</value>
+  </data>
+  <data name="tsslGPUVal_Tooltip" xml:space="preserve">
+    <value>모든 GPU엔진중 가장 높은 부하 / 모든 엔진중 엑스플릿 브로드캐스터 관련 프로세스의 가장 부하 / GPU 클럭 속도</value>
+  </data>
+  <data name="move_bottomTransition" xml:space="preserve">
+    <value>아래로 이동</value>
+  </data>
+  <data name="move_leftTransition" xml:space="preserve">
+    <value>왼쪽으로 이동</value>
+  </data>
+  <data name="move_left_rightTransition" xml:space="preserve">
+    <value>좌 우로 이동</value>
+  </data>
+  <data name="move_rightTransition" xml:space="preserve">
+    <value>오른쪽으로 이동</value>
+  </data>
+  <data name="move_topTransition" xml:space="preserve">
+    <value>위로 이동</value>
+  </data>
+  <data name="move_top_bottomTransition" xml:space="preserve">
+    <value>상 하로 이동</value>
+  </data>
+  <data name="msgAudioDevice_DefaultMicrophone" xml:space="preserve">
+    <value>기본 마이크</value>
+  </data>
+  <data name="msgAudioDevice_DefaultSpeakers" xml:space="preserve">
+    <value>기본 스피커</value>
+  </data>
+  <data name="noneTransition" xml:space="preserve">
+    <value>없음</value>
+  </data>
+  <data name="msgTobiiPluginDisabled" xml:space="preserve">
+    <value>향상 된 Tobii EyeTracker 기능이 화면 캡처와 게임캡처 소스에 적용 됩니다. 해당 소스를 마우스 우 클릭 하여 Tobii 탭을 확인하세요.
+
+Tobii EyeTracker 기능이 지원되도록 이전 Tobii Eye Tracker 플러그인은 비활성화 됩니다.</value>
+  </data>
+  <data name="msgTobiiSourceRemoved" xml:space="preserve">
+    <value>향상 된 Tobii EyeTracker 기능이 화면 캡처와 게임캡처 소스에 적용 됩니다. 해당 소스를 마우스 우 클릭 하여 Tobii 탭을 확인하세요.
+
+Tobii EyeTracker 기능이 지원되도록 이전 Tobii Eye Tracker 플러그인이 삭제되었습니다.</value>
+  </data>
+  <data name="newProjectorWindowToolStripMenuItem" xml:space="preserve">
+    <value>새 창</value>
+  </data>
+  <data name="newProjectorWindowToolStripMenuItem2" xml:space="preserve">
+    <value>새 창</value>
+  </data>
+  <data name="accountSettingsToolStripMenuItem" xml:space="preserve">
+    <value>계정 설정</value>
+  </data>
+  <data name="browserD3dMode" xml:space="preserve">
+    <value>브라우저 소스 특수 최적화</value>
+  </data>
+  <data name="msgErrorUpdatingYtVideo" xml:space="preserve">
+    <value>YouTube 동영상 업데이트중 오류가 발생했습니다.</value>
+  </data>
+  <data name="msgCancelUpload" xml:space="preserve">
+    <value>현재 업로드를 정말 취소하겠습니까?</value>
+  </data>
+  <data name="titleCancelUpload" xml:space="preserve">
+    <value>업로드 취소</value>
+  </data>
+  <data name="msgDeleteYtVideo" xml:space="preserve">
+    <value>해당 동영상을 YouTube 에서 삭제 하겠습니까?</value>
+  </data>
+  <data name="titleDeleteVideo" xml:space="preserve">
+    <value>동영상 삭제</value>
+  </data>
+  <data name="msgCantDoActionWhileUploading" xml:space="preserve">
+    <value>YouTube 에 업로드 도중 해당 작업을 수행할수 없습니다.</value>
+  </data>
+  <data name="msgTitleIsEmpty" xml:space="preserve">
+    <value>제목은 비워둘 수 없습니다.</value>
+  </data>
+  <data name="msgCantUploadFileIsInUse" xml:space="preserve">
+    <value>녹화 영상이 다른 프로세스를 사용하고 있어서 업로드를 할수 없습니다. 실행중인 다른 창을 종료하고 다시 시도해주세요.</value>
+  </data>
+  <data name="msgUnknownUploadError" xml:space="preserve">
+    <value>업로드 시도중 알수없는 오류가 발생했습니다.</value>
+  </data>
+  <data name="msgCantDeleteFilesInUse" xml:space="preserve">
+    <value>실행중인 작업이 존재해서 해당 파일을 삭제할수 없습니다.</value>
+  </data>
+  <data name="msgCantDeleteSomeFilesInUse" xml:space="preserve">
+    <value>실행중인 작업이 존재해서 특정 파일들을 삭제할수 없습니다.</value>
+  </data>
+  <data name="msgConfirmDeleteFiles" xml:space="preserve">
+    <value>{0} 파일(들)을 정말로 삭제 하겠습니까?</value>
+  </data>
+  <data name="titleConfirmDeleteFiles" xml:space="preserve">
+    <value>파일(들) 삭제</value>
+  </data>
+  <data name="msgConfirmCreateYtChannel" xml:space="preserve">
+    <value>YouTube 에 로그인 되어있습니다만 사용자의 채널이 존재하지 않습니다. 지금 생성 하시겠습니까?</value>
+  </data>
+  <data name="tsslMemory_Tooltip" xml:space="preserve">
+    <value>엑스플릿 실행에 필요한 메모리</value>
+  </data>
+  <data name="tsslMemoryVal_Tooltip" xml:space="preserve">
+    <value>엑스플릿 실행에 필요한 메모리</value>
+  </data>
+  <data name="dx12Capture" xml:space="preserve">
+    <value>DX12 게임 캡처 활성화</value>
+  </data>
+  <data name="pasteAsLinkedSourceToolStripMenuItem" xml:space="preserve">
+    <value>메모리 유지된 소스 붙혀넣기</value>
+  </data>
+  <data name="pasteAsNewSourceToolStripMenuItem" xml:space="preserve">
+    <value>새로운 소스 붙혀넣기</value>
+  </data>
+  <data name="msgDontShowDialogCheckbox" xml:space="preserve">
+    <value>이 글을 다시 보지 않기</value>
+  </data>
+  <data name="msgConfirmDiscardScene_loadFromFile" xml:space="preserve">
+    <value>현재 장면에 덮어 씌우시겠습니까?</value>
+  </data>
+  <data name="msgXSplitCertErrorEncountered" xml:space="preserve">
+    <value>엑스플릿은 엑스플릿과 타 온라인 서비스와의 인증서 관련 오류를 감지하였습니다. 이로 인하여 다른 비슷한 온라인 서비스 (Twitch/YouTube/Facebook 등) 과의 연동 오류를 불러 일으킬수 있습니다. 불법 소프트웨어나 악성 코드가 포함된 어플리케이션의 경우일수도 있습니다. 관련 [블로그](https://xspl.it/www/ngwv7e) 정보를 확인해보시기 바랍니다.[br][br] 이 오류 메세지를 무시하신다면 해당 변경사항이 저장될수도 있습니다. 이후 발생하는 오류는 사용자의 관리하에 적용될수 있습니다. 지금 엑스플릿을 종료 하시겠습니까?</value>
+  </data>
+  <data name="workspaceClassicToolStripMenuItem" xml:space="preserve">
+    <value>클래식 모드</value>
+  </data>
+  <data name="workspaceSplitToolStripMenuItem" xml:space="preserve">
+    <value>스플릿 모드</value>
+  </data>
+  <data name="workspaceToolStripMenuItem" xml:space="preserve">
+    <value>작업 영역</value>
+  </data>
+  <data name="themeClassicToolStripMenuItem" xml:space="preserve">
+    <value>클래식</value>
+  </data>
+  <data name="themeDarkToolStripMenuItem" xml:space="preserve">
+    <value>어두운</value>
+  </data>
+  <data name="themeToolStripMenuItem" xml:space="preserve">
+    <value>테마</value>
+  </data>
+  <data name="goLiveAndReloadSceneSplit" xml:space="preserve">
+    <value>현재 장면에 머물기</value>
+  </data>
+  <data name="goLiveAndSwapLiveWithSceneSplit" xml:space="preserve">
+    <value>라이브 장면</value>
+  </data>
+  <data name="goLiveAndSwitchSceneSplit" xml:space="preserve">
+    <value>미리보기 장면 변경</value>
+  </data>
+  <data name="splitViewMainTitleL1" xml:space="preserve">
+    <value>생방송: </value>
+  </data>
+  <data name="splitViewPrevTitleL1" xml:space="preserve">
+    <value>미리보기: </value>
+  </data>
+  <data name="warnNoPreviewEditorOnSplitView" xml:space="preserve">
+    <value>미리보기 편집기를 사용하시려면 클래식 모드의 작업 영역으로 설정되어있어야 합니다. 작업 영역을 변경하시려면 우측 상단의 '아래 화살표' 버튼을 클릭하시고 작업 영역을 선택하세요. (해상도와 프레임률 설정 옆 부분)</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GOLIVE" xml:space="preserve">
+    <value>생방송 송출</value>
+  </data>
+  <data name="tsslDisplayFps" xml:space="preserve">
+    <value>FPS:</value>
+  </data>
+  <data name="tsslMemory" xml:space="preserve">
+    <value>메모리:</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_INVALID" xml:space="preserve">
+    <value>FAT32 형식의 로컬디스크에 녹화가 시간 분할 방식으로 녹화가 시작됩니다. 상황에따라 각 녹화본의 최대 허용 파일크기 ({0}) 에 맞춰서 분할됩니다.</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_NOT_SET" xml:space="preserve">
+    <value>FAT32 형식의 로컬디스크에 녹화를 시작하였습니다. 상황에따라 각 녹화본의 최대 허용 파일크기 ({0}) 에 맞춰서 분할됩니다.</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_TOO_HIGH" xml:space="preserve">
+    <value>FAT32 형식의 로컬디스크에 녹화가 파일크기 분할 방식으로 녹화가 시작됩니다. 최대 허용 파일크기 ({0}) 를 초과하였으므로 각 녹화본은 {0} 파일크기에 맞춰서 분할 될 것 입니다</value>
+  </data>
+  <data name="msgInvalidXSplitAccountInfo" xml:space="preserve">
+    <value>현재의 XSplit 계정 로그인 정보가 더이상 유효하지 않습니다. 다시한번 로그인 해 주세요.{0}</value>
+  </data>
+  <data name="otherToolStripMenuItem" xml:space="preserve">
+    <value>일반 위젯</value>
+  </data>
+  <data name="cutTransition" xml:space="preserve">
+    <value>컷</value>
+  </data>
+  <data name="growlMidiGetPortsFailed" xml:space="preserve">
+    <value>MIDI 장치를 열거하지 못했습니다. MIDI 단축키가 비활성화 되었습니다.</value>
+  </data>
+  <data name="growlMidiGetPortsNoDevices" xml:space="preserve">
+    <value>MIDI 장치를 감지하지 못했습니다. MIDI 단축키가 비활성화 되었습니다.</value>
+  </data>
+  <data name="growlMidiInitFailed" xml:space="preserve">
+    <value>MIDI 장치를 초기화 하지 못했습니다. 일부 MIDI 단축키가 비활성화 되었습니다.</value>
+  </data>
+  <data name="growlMidiInitFailedAll" xml:space="preserve">
+    <value>MIDI 장치를 초기화 하지 못했습니다. MIDI 단축키가 비활성화 되었습니다.</value>
+  </data>
+  <data name="msgMidiGetPortsFailed" xml:space="preserve">
+    <value>MIDI 장치를 열거하지 못했습니다. MIDI 단축키가 비활성화 되었습니다.</value>
+  </data>
+  <data name="msgMidiGetPortsNoDevices" xml:space="preserve">
+    <value>MIDI 장치를 감지하지 못했습니다. MIDI 단축키가 비활성화 되었습니다.</value>
+  </data>
+  <data name="msgMidiInitFailed" xml:space="preserve">
+    <value>MIDI 장치를 초기화 하지 못했습니다. 일부 MIDI 단축키가 비활성화 되었습니다.</value>
+  </data>
+  <data name="msgMidiInitFailedAll" xml:space="preserve">
+    <value>MIDI 장치를 초기화 하지 못했습니다. 일부 MIDI 단축키가 비활성화 되었습니다.</value>
+  </data>
+  <data name="msgNdiStreamCantStart" xml:space="preserve">
+    <value>사용자님의 {0} 방송이 중단되었습니다. {1}자세한 내용은 &lt;a name="logfile"&gt;로그&lt;/a&gt; 의 기록을 확인하세요.</value>
+  </data>
+  <data name="tsmiProjectLiveScene" xml:space="preserve">
+    <value>라이브 장면</value>
+  </data>
+  <data name="tsmiProjectPreviewEditor" xml:space="preserve">
+    <value>미리보기 편집기</value>
+  </data>
+  <data name="msgUnableToPostBmpToPlayerMe" xml:space="preserve">
+    <value>Player.Me 로 BMP 파일 형식을 공유 실패하였습니다. JPEG 파일 형식으로 대채하세요</value>
+  </data>
+  <data name="Permissions" xml:space="preserve">
+    <value>확장 프로그램 권한</value>
+  </data>
+  <data name="BroadcasterCaptureMixerImage_desc" xml:space="preserve">
+    <value>활성화된 장면 스크린샷</value>
+  </data>
+  <data name="BroadcasterInsertCuepoint_desc" xml:space="preserve">
+    <value>큐 시점 삽입</value>
+  </data>
+  <data name="BroadcasterPushLive_desc" xml:space="preserve">
+    <value>생방송 송출</value>
+  </data>
+  <data name="videoProcessingMode" xml:space="preserve">
+    <value>동영상 처리 모드</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc1" xml:space="preserve">
+    <value>레거시 모드</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc2" xml:space="preserve">
+    <value>CPU 선호</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc3" xml:space="preserve">
+    <value>GPU 선호</value>
+  </data>
+  <data name="renameSource" xml:space="preserve">
+    <value>파일명 변경</value>
+  </data>
+  <data name="addWebUrlTsmi" xml:space="preserve">
+    <value>웹 브라우저</value>
+  </data>
+  <data name="LiveStream" xml:space="preserve">
+    <value>플래시 스트림 (RTMP)</value>
+  </data>
+  <data name="ablegamersplg" xml:space="preserve">
+    <value>AbleGamers 알림</value>
+  </data>
+  <data name="beamchatplg" xml:space="preserve">
+    <value>채팅창</value>
+  </data>
+  <data name="dmchatplg" xml:space="preserve">
+    <value>채팅창</value>
+  </data>
+  <data name="extralifeplg" xml:space="preserve">
+    <value>Extra Life 알림</value>
+  </data>
+  <data name="facebookchatplg" xml:space="preserve">
+    <value>실시간 댓글</value>
+  </data>
+  <data name="hitboxchatplg" xml:space="preserve">
+    <value>채팅창</value>
+  </data>
+  <data name="ImageSlideshowplg" xml:space="preserve">
+    <value>이미지 슬라이드쇼</value>
+  </data>
+  <data name="inputvisualizerplg" xml:space="preserve">
+    <value>키 입력 표기</value>
+  </data>
+  <data name="justgivingplg" xml:space="preserve">
+    <value>JustGiving 알림</value>
+  </data>
+  <data name="mediaslideshowplg" xml:space="preserve">
+    <value>미디어 슬라이드쇼</value>
+  </data>
+  <data name="perSceneAudioplg" xml:space="preserve">
+    <value>각 장면 오디오</value>
+  </data>
+  <data name="presentationPackagerplg" xml:space="preserve">
+    <value>프레젠테이션 묶음</value>
+  </data>
+  <data name="sceneSwitcherplg" xml:space="preserve">
+    <value>장면 스위칭</value>
+  </data>
+  <data name="titleplg" xml:space="preserve">
+    <value>텍스트</value>
+  </data>
+  <data name="twitchalertsplg" xml:space="preserve">
+    <value>Twitch 알림</value>
+  </data>
+  <data name="twitchchathtml5plg" xml:space="preserve">
+    <value>HTML5 채팅창</value>
+  </data>
+  <data name="twitchchatplg" xml:space="preserve">
+    <value>IRC 채팅창</value>
+  </data>
+  <data name="VideoPlaylistplg" xml:space="preserve">
+    <value>비디오 재생 목록</value>
+  </data>
+  <data name="webMEncoderplg" xml:space="preserve">
+    <value>스팅어 제작기</value>
+  </data>
+  <data name="WhiteboardOverlayplg" xml:space="preserve">
+    <value>화이트 보드</value>
+  </data>
+  <data name="youtubechatplg" xml:space="preserve">
+    <value>Live 채팅창</value>
+  </data>
+  <data name="youtubelivechatplg" xml:space="preserve">
+    <value>Live 채팅창 HTML5</value>
+  </data>
+  <data name="addSkypeTsmi" xml:space="preserve">
+    <value>Skype 영상</value>
+  </data>
+  <data name="addSkypeTsmi2" xml:space="preserve">
+    <value>Skype 영상</value>
+  </data>
+  <data name="ImageSlideshow" xml:space="preserve">
+    <value>이미지 슬라이드쇼 (레거시)</value>
+  </data>
+  <data name="Starboard" xml:space="preserve">
+    <value>스타보드</value>
+  </data>
+  <data name="title" xml:space="preserve">
+    <value>텍스트 (레거시)</value>
+  </data>
+  <data name="VideoPlaylist" xml:space="preserve">
+    <value>동영상 플레이 목록 (레거시)</value>
+  </data>
+  <data name="WhiteboardOverlay" xml:space="preserve">
+    <value>화이트보드 오버레이 (레거시)</value>
+  </data>
+  <data name="smashcastchatplg" xml:space="preserve">
+    <value>채팅창</value>
+  </data>
+  <data name="youtubesuperchatplg" xml:space="preserve">
+    <value>Super Chat 알림</value>
+  </data>
+  <data name="addCustomResolutionToolStripMenuItem" xml:space="preserve">
+    <value>사용자 지정 해상도...</value>
+  </data>
+  <data name="twitchcheeralertplg" xml:space="preserve">
+    <value>비트 알림</value>
+  </data>
+  <data name="msgMaxResWarning" xml:space="preserve">
+    <value>{0} x {1} 이상의 해상도는 고사양 PC 에서도 추천 하지 않습니다. 계속 하시겠습니까?</value>
+  </data>
+  <data name="msgInvalidInputValue" xml:space="preserve">
+    <value>잘못 된 입력 값 입니다.</value>
+  </data>
+  <data name="timespanAndSeparator" xml:space="preserve">
+    <value> 그리고 </value>
+  </data>
+  <data name="timespanDaysUnit" xml:space="preserve">
+    <value>{0} 일</value>
+  </data>
+  <data name="timespanDayUnit" xml:space="preserve">
+    <value>{0} 일</value>
+  </data>
+  <data name="timespanHoursUnit" xml:space="preserve">
+    <value>{0} 시간</value>
+  </data>
+  <data name="timespanHourUnit" xml:space="preserve">
+    <value>{0} 시간</value>
+  </data>
+  <data name="timespanMinutesUnit" xml:space="preserve">
+    <value>{0} 분</value>
+  </data>
+  <data name="timespanMinuteUnit" xml:space="preserve">
+    <value>{0} 분</value>
+  </data>
+  <data name="timespanSecondsUnit" xml:space="preserve">
+    <value>{0} 초</value>
+  </data>
+  <data name="timespanSecondUnit" xml:space="preserve">
+    <value>{0} 초</value>
+  </data>
+  <data name="timespanSeparator" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="msgMicMutedDueToPttKeyAssignedText" xml:space="preserve">
+    <value>마이크가 음소거 되었습니다. 푸쉬 후 대화 단축키 "{0}" 를 누르거나 마이크 아이콘을 클릭하여 음소거를 활성화/비활성화 할 수 있습니다.</value>
+  </data>
+  <data name="msgMicMutedDueToPttKeyAssignedTitle" xml:space="preserve">
+    <value>마이크가 음소거 되었습니다.</value>
+  </data>
+  <data name="msgMfpWarning" xml:space="preserve">
+    <value>{0} N 혹은 KN 버전을 사용하고 있습니다. 이 버전들은 Media Feature Pack 이 설치되지 않았습니다.
+
+최적한 성능 환경과 엑스플릿에서의 호환성을 최대화 하기 위해서는 Media Feature Pack 을 미리 설치하신 뒤 엑스플릿을 실행 하는것을 권장합니다. (가능하다면 32비트 와 64비트 설치를 모두 하시는것을 권장 합니다.)
+
+마이크로소프트 웹페이지로 접근하여 Media Feature Pack 을 설치 하시겠습니까?</value>
+  </data>
+  <data name="addStingerToolStripMenuItem" xml:space="preserve">
+    <value>장면 전환 추가...</value>
+  </data>
+  <data name="removeStingerToolStripMenuItem" xml:space="preserve">
+    <value>장면 전환 제거</value>
+  </data>
+  <data name="stingersToolStripMenuItem" xml:space="preserve">
+    <value>스팅어 장면 전환</value>
+  </data>
+  <data name="msgCantDeleteStingerInUse" xml:space="preserve">
+    <value>현재 사용중인 스팅어는 삭제할 수 없습니다.</value>
+  </data>
+  <data name="addStingerplg" xml:space="preserve">
+    <value>스팅어 추가</value>
+  </data>
+  <data name="chkMultitrack" xml:space="preserve">
+    <value>멀티트랙 오디오 트랙 생성 (마이크와 시스템 사운드 분리)</value>
+  </data>
+  <data name="pbMultitrack_Tooltip" xml:space="preserve">
+    <value>이 설정은 오디오를 개별의 트랙으로 녹음합니다 
+(믹스, 마이크, 시스템 사운드, 오직 방송에만)
+즉 후시 편집시 각 트랙의 오디오 편집이 가능합니다.</value>
+  </data>
+  <data name="growlPluginUpdateText" xml:space="preserve">
+    <value>플러그인 업데이트가 가능합니다
+
+상단 메뉴의 &lt;a name="openMyPlugins"&gt;도구 -&gt; 설치된 플러그인&lt;/a&gt; 을 확인하여 업데이트 가능 여부를 확인 하세요.</value>
+  </data>
+  <data name="growlOptimusNeedsRestart" xml:space="preserve">
+    <value>Nvidia Optimus 프로파일이 변경됨으로 성능 향상에 영향을 주게 됩니다. 이를 적용 하기위해 재시작 하셔야 합니다.
+    
+&lt;a name="growlOptimusNeedsRestartNow"&gt;지금 재시작하기&lt;/a&gt;</value>
+  </data>
+  <data name="BroadcastStatus_Connected" xml:space="preserve">
+    <value>연결됨{0}</value>
+  </data>
+  <data name="BroadcastStatus_Connecting" xml:space="preserve">
+    <value>연결 중{0}...</value>
+  </data>
+  <data name="BroadcastStatus_Restarting" xml:space="preserve">
+    <value>재시작중{0}</value>
+  </data>
+  <data name="msgBroadcastTerminated_TooManyRestarts" xml:space="preserve">
+    <value>번복된 재시작이 잦아져서 방송이 종료되었습니다.</value>
+  </data>
+  <data name="BroadcastStatus_GettingBestServer" xml:space="preserve">
+    <value>스트림 대상 서버 결정{0}</value>
+  </data>
+  <data name="BroadcastStatus_BestServerFound" xml:space="preserve">
+    <value>대상 서버{0}</value>
+  </data>
+  <data name="addReplayTsmi" xml:space="preserve">
+    <value>리플레이</value>
+  </data>
+  <data name="addReplayBottomTsmi" xml:space="preserve">
+    <value>리플레이</value>
+  </data>
+  <data name="uploadLogFilesToolStripMenuItem" xml:space="preserve">
+    <value>기록 파일 업로드</value>
+  </data>
+  <data name="UploadLogFilesSuccessAlertMessage" xml:space="preserve">
+    <value>기록 파일이 성공적으로 업로드 되었습니다 - 여기를 [클릭]({0}) 하여 확인하세요.</value>
+  </data>
+  <data name="UploadLogFilesFailedAlertMessage" xml:space="preserve">
+    <value>기록 파일 업로드 중 오류 발생</value>
+  </data>
+  <data name="facebookreactionsplg" xml:space="preserve">
+    <value>반응 이모티콘</value>
+  </data>
+  <data name="CurrentStageFPS" xml:space="preserve">
+    <value>현재 FPS</value>
+  </data>
+  <data name="Default" xml:space="preserve">
+    <value>기본값</value>
+  </data>
+  <data name="restoreResFpsDefaultToolStripMenuItem" xml:space="preserve">
+    <value>기본값 복원</value>
+  </data>
+  <data name="devicesWebcamCaptureCardsToolStripMenuItem" xml:space="preserve">
+    <value>장치 (웹캠, 캡처 보드 등)</value>
+  </data>
+  <data name="streamsToolStripMenuItem" xml:space="preserve">
+    <value>기타 송출 신호</value>
+  </data>
+  <data name="btnSourceMaximize" xml:space="preserve">
+    <value>소스를 전체 화면에 맞추기{0}</value>
+  </data>
+  <data name="btnSourceRestore" xml:space="preserve">
+    <value>소스 크기 조절 (1/4){0}</value>
+  </data>
+  <data name="tsmiAddSmartScreen" xml:space="preserve">
+    <value>스마트 선택</value>
+  </data>
+  <data name="tsmiAddDesktopCapture" xml:space="preserve">
+    <value>모니터 캡처</value>
+  </data>
+  <data name="tsmiAddWindowCapture" xml:space="preserve">
+    <value>실행 프로그램 캡처</value>
+  </data>
+  <data name="tsmiAddDesktopCaptureMonitor" xml:space="preserve">
+    <value>데스크탑 {0}</value>
+  </data>
+  <data name="btnSourceLock" xml:space="preserve">
+    <value>화면 유지</value>
+  </data>
+  <data name="noSourceLabel" xml:space="preserve">
+    <value>추가된 소스가 없습니다.
+여기서 찾아보세요!</value>
+  </data>
+  <data name="addExtensionToolStripMenuItem" xml:space="preserve">
+    <value>확장 프로그램 추가</value>
+  </data>
+  <data name="facebooklivereactionspollcounterplg" xml:space="preserve">
+    <value>실시간 반응 카운터</value>
+  </data>
+  <data name="facebooklivereactionsanimationplg" xml:space="preserve">
+    <value>실시간 반응 애니메이션</value>
+  </data>
+  <data name="pbShareStream_Tooltip" xml:space="preserve">
+    <value>방송 주소 SNS 공유</value>
+  </data>
+  <data name="playoutToolStripMenuItem" xml:space="preserve">
+    <value>기타 송출(&amp;P)</value>
+  </data>
+  <data name="recordToolStripMenuItem" xml:space="preserve">
+    <value>녹화(&amp;R)</value>
+  </data>
+  <data name="addResolutionToolStripMenuItem" xml:space="preserve">
+    <value>해상도 추가</value>
+  </data>
+  <data name="removeResolutionToolStripMenuItem" xml:space="preserve">
+    <value>해상도 제거</value>
+  </data>
+  <data name="scaleTo100ToolStripMenuItem" xml:space="preserve">
+    <value>100% 스케일</value>
+  </data>
+  <data name="snapToGridToolStripMenuItem2" xml:space="preserve">
+    <value>자동 나열</value>
+  </data>
+  <data name="duplicateSceneToolStripMenuItem1" xml:space="preserve">
+    <value>장면 복제</value>
+  </data>
+  <data name="lblHardware" xml:space="preserve">
+    <value>하드웨어</value>
+  </data>
+  <data name="lblSoftware" xml:space="preserve">
+    <value>소프트웨어</value>
+  </data>
+  <data name="msgCloseWhileVideoEditorIsOpen" xml:space="preserve">
+    <value>현재 영상 편집 작업중 입니다. 정말로 로그아웃 또는 종료 하시겠습니까?
+
+종료시 엑스플릿 익스프레스 비디오 에디터가 종료됩니다. 반드시 파일 저장 여부를 확인하시기 바랍니다.</value>
+  </data>
+  <data name="msgCloseWhileUploadingVod" xml:space="preserve">
+    <value>현재 영상이 업로드중입니다. 정말로 종료하시겠습니까?</value>
+  </data>
+  <data name="addSkypeNDITsmi" xml:space="preserve">
+    <value>스카이프</value>
+  </data>
+  <data name="msgRtmpsInitException" xml:space="preserve">
+    <value>RTMPS 스트리밍을 준비하는 도중에 오류가 발생하였습니다.
+
+ &lt;a href="https://xspl.it/bc/supportrtmps" name="learnmore"&gt;고객지원 센터에 문의.&lt;/a&gt;</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90024_Offline" xml:space="preserve">
+    <value>이 계정을 활성화 하기위한 링크가 이메일로 발송되었습니다. XSplit에 가입하시려면 계정 활성화를 하셔야 합니다. </value>
+  </data>
+  <data name="addLumaToolStripMenuItem" xml:space="preserve">
+    <value>장면 전환 추가...</value>
+  </data>
+  <data name="lumaTransitionToolStripMenuItem" xml:space="preserve">
+    <value>루마 트랜지션</value>
+  </data>
+  <data name="removeLumaToolStripMenuItem" xml:space="preserve">
+    <value>장면 전환 제거</value>
+  </data>
+  <data name="msgFailedDeletingStinger" xml:space="preserve">
+    <value>스팅어를 제거할 수 없습니다.</value>
+  </data>
+  <data name="growlNvencProbeErrorInvalidVersion" xml:space="preserve">
+    <value>NVIDIA 인코딩 (NVENC) 이 드라이버 호환 문제로 체크를 정상적으로 실행하지 못했습니다. 새로운 NVIDIA GPU 드라이버&lt;a href="https://xspl.it/bc/nvidiaDriverDL" name="nvdiaDriverUpdate"&gt;를 설치해보시기 바랍니다.&lt;/a&gt;</value>
+  </data>
+  <data name="transitionSpeedDialogTitle" xml:space="preserve">
+    <value>트랜지션 속도</value>
+  </data>
+  <data name="addSceneSourceTsmi" xml:space="preserve">
+    <value>타 장면 소스 추가</value>
+  </data>
+  <data name="ERROR_NVENCHW" xml:space="preserve">
+    <value>{0} 방송이 NVENC 인코더 사용중 예상치 못한 오류로 인해 종료되었습니다. 다른 인코더를 사용하여 방송을 진행합니다. &lt;a href="https://xspl.it/bc/s8s19t#{1:X}"&gt;여기를 클릭&lt;/a&gt; 하여 자세히 알아보세요.</value>
+  </data>
+  <data name="ERROR_NVENC" xml:space="preserve">
+    <value>{0} 방송이 NVENC 인코더 사용중 예상치 못한 오류로 인해 종료되었습니다. &lt;a href="https://xspl.it/bc/s8s19t#{1:X}"&gt;여기를 클릭&lt;/a&gt; 하여 자세히 알아보세요.</value>
+  </data>
+  <data name="lblDecklinkPlayoutFormat" xml:space="preserve">
+    <value>형식:</value>
+  </data>
+  <data name="cboPlayoutFormatAuto" xml:space="preserve">
+    <value>자동</value>
+  </data>
+  <data name="msgNoNetLoginPopup" xml:space="preserve">
+    <value>인터넷 연결이 감지되지 않았습니다. 인터넷이 활성화 되어야 로그인이 가능합니다</value>
+  </data>
+  <data name="msgRetryTokenLoginValidLocal" xml:space="preserve">
+    <value>저장된 정보를 사용하여 로그인 할 수 없습니다. 선택적으로 엑스플릿 서버 연결이 필요하지 않은 기능만을 사용하거나 저장된 정보만을 가지고 사용 할 수있는 오프라인 모드로 진행할 수 있습니다.</value>
+  </data>
+  <data name="msgRetryTokenLoginInvalidLocal" xml:space="preserve">
+    <value>저장된 정보를 사용하여 로그인 할 수 없습니다. 다시 로그인을 시도해보세요.</value>
+  </data>
+  <data name="msgAutoLoginUserDiffer" xml:space="preserve">
+    <value>다른 엑스플릿 프로그램으로 로그인을 감지 했습니다. **{0}** (으)로 계속 하시겠습니까?</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTime" xml:space="preserve">
+    <value>트랜지션 (Off)</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeWithVal" xml:space="preserve">
+    <value>트랜지션 ({0} ms)</value>
+  </data>
+  <data name="tsmiScenePresetAdd" xml:space="preserve">
+    <value>프리셋 추가</value>
+  </data>
+  <data name="tsmiScenePresetRemove" xml:space="preserve">
+    <value>프리셋 제거</value>
+  </data>
+  <data name="tsmiScenePresetLearnMore" xml:space="preserve">
+    <value>프리셋에 대해 더 알아보기</value>
+  </data>
+  <data name="btnSourceGroup_Tooltip" xml:space="preserve">
+    <value>그룹 ({0})</value>
+  </data>
+  <data name="btnSourceUngroup_Tooltip" xml:space="preserve">
+    <value>그룹 해체 ({0})</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_PRESETLIST" xml:space="preserve">
+    <value>프리셋과 트랜지션을 추가 또는 제거하세요</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET1" xml:space="preserve">
+    <value>프리셋 1 보기</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET2" xml:space="preserve">
+    <value>프리셋 2 보기
+    
+    프리셋 아이콘을 드래그하여 순서를 나열하세요</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET3" xml:space="preserve">
+    <value>프리셋 3 보기
+    
+    프리셋 아이콘을 드래그하여 순서를 나열하세요</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET4" xml:space="preserve">
+    <value>프리셋 4 보기
+    
+    프리셋 아이콘을 드래그하여 순서를 나열하세요</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogTitle" xml:space="preserve">
+    <value>프리셋 트랜지션 속도</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogLabel" xml:space="preserve">
+    <value>속도 (ms)</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogHeader" xml:space="preserve">
+    <value>프리셋 전환시 트랜지션 속도를 설정하세요. 회전, 크기전환 등의 애니메이션이 적용됩니다.</value>
+  </data>
+  <data name="tsmiScenePresetRemoveDD_Tooltip" xml:space="preserve">
+    <value>프리셋은 숫자열로 자동정렬 됩니다.</value>
+  </data>
+  <data name="msgNoNetHasLocalLoginPopup" xml:space="preserve">
+    <value>엑스플릿은 인터넷 연결을 감지하지 못했습니다. 로그인은 할 수 있지만 인터넷을 연결이 필수인 기능은 사용할 수 없습니다. 다시한번 인터넷이 활성화 되어있는지 확인 해주시기 바랍니다.</value>
+  </data>
+  <data name="redeemToolStripMenuItem" xml:space="preserve">
+    <value>라이선스 상품권 코드 등록하기...</value>
+  </data>
+  <data name="releaseNotesTsmi" xml:space="preserve">
+    <value>패치 노트</value>
+  </data>
+  <data name="videoTutorialsToolStripMenuItem" xml:space="preserve">
+    <value>튜토리얼 영상</value>
+  </data>
+  <data name="expressVideoEditorToolStripMenuItem" xml:space="preserve">
+    <value>익스프레스 비디오 에디터</value>
+  </data>
+  <data name="loadToolStripMenuItem" xml:space="preserve">
+    <value>장면 불러오기(&amp;L)...</value>
+  </data>
+  <data name="permissionsTsmi" xml:space="preserve">
+    <value>확장 프로그램 권한</value>
+  </data>
+  <data name="previewEditorToolStripMenuItem" xml:space="preserve">
+    <value>미리보기 편집기</value>
+  </data>
+  <data name="previewEditor2ToolStripMenuItem" xml:space="preserve">
+    <value>미리보기 편집기</value>
+  </data>
+  <data name="projectorScreenLabel" xml:space="preserve">
+    <value>화면 {0}</value>
+  </data>
+  <data name="saveToolStripMenuItem" xml:space="preserve">
+    <value>장면 저장(&amp;S)...</value>
+  </data>
+  <data name="XSplitBroadcasterTitleText" xml:space="preserve">
+    <value>XSplit Broadcaster</value>
+  </data>
+  <data name="invalidBpzipMessage" xml:space="preserve">
+    <value>압축된 프레젠테이션 파일을 풀 수 없었습니다. 파일에 오류가 있거나 bpres 파일 형식의 파일이 존재하지 않을 수 있습니다.</value>
+  </data>
+  <data name="loadPresentationTitle" xml:space="preserve">
+    <value>프레젠테이션 불러오기</value>
+  </data>
+  <data name="overwriteBpresFolderMessage" xml:space="preserve">
+    <value>**'{0}'** 폴더는 이미 지정한 파일 경로에 존재하는 폴더입니다.
+
+같은 폴더에 덮어씌운뒤 프레젠테이션을 불러오시겠습니까?</value>
+  </data>
+  <data name="selectDirectoryBpzipDesc" xml:space="preserve">
+    <value>압축 파일을 풀어줄 파일 경로를 선택해주세요</value>
+  </data>
+  <data name="extractingBpzipFile" xml:space="preserve">
+    <value>{0} 압축 파일 푸는중...</value>
+  </data>
+  <data name="loadingBpresFile" xml:space="preserve">
+    <value>{0} 불러오는중...</value>
+  </data>
+  <data name="checkingBpzipTargetDir" xml:space="preserve">
+    <value>목표 파일 경로 확인중...</value>
+  </data>
+  <data name="ioExceptionMessageWithBpzipExtraction" xml:space="preserve">
+    <value>일부 파일들의 압축 해제 및 덮어 쓰기에 실패했습니다. 일부 파일들이 현재 사용중일 수 있습니다.
+
+실행중인 파일을 종료하시고 다시 프레젠테이션 불러오기 시도를 해주시기 바랍니다.</value>
+  </data>
+  <data name="LocationIsEmpty" xml:space="preserve">
+    <value>파일 경로를 지정해주세요.</value>
+  </data>
+  <data name="LocationIsInvalid" xml:space="preserve">
+    <value>파일 경로가 유효하지 않습니다.</value>
+  </data>
+  <data name="ExtractBpzip" xml:space="preserve">
+    <value>프레젠테이션 불러오기</value>
+  </data>
+  <data name="PathIsNotRooted" xml:space="preserve">
+    <value>"{0}" 경로는 완전한 목표 경로가 아닙니다.</value>
+  </data>
+  <data name="crispSupportTsmi" xml:space="preserve">
+    <value>고객지원과 실시간 채팅</value>
+  </data>
+  <data name="disableSceneTransition" xml:space="preserve">
+    <value>비활성화</value>
+  </data>
+  <data name="sceneTransitionToolStripMenuItem" xml:space="preserve">
+    <value>트랜지션 무효화</value>
+  </data>
+  <data name="msgConfirmDeleteTransitionInUse" xml:space="preserve">
+    <value>해당 트랜지션이 사용중에 있습니다. 정말로 삭제하시겠습니까?</value>
+  </data>
+  <data name="msgFailedDeletingTransition" xml:space="preserve">
+    <value>지금 트랜지션 삭제가 불가능합니다</value>
+  </data>
+  <data name="msgOverMaxBitrate" xml:space="preserve">
+    <value>추천하는 비트레이트 {0} kbps 이상으로 설정하시게 되면 시청자들의 경험과 영상 품질이 부정적으로 작용할 수 있습니다.</value>
+  </data>
+  <data name="CustomResolution" xml:space="preserve">
+    <value>사용자 지정 해상도</value>
+  </data>
+  <data name="easeInOutBack" xml:space="preserve">
+    <value>서서히 등장/물러남</value>
+  </data>
+  <data name="easeOutBounceTransition" xml:space="preserve">
+    <value>서서히 튕기며</value>
+  </data>
+  <data name="easeOutElasticTransition" xml:space="preserve">
+    <value>서서히 탄력있게</value>
+  </data>
+  <data name="fadetoblackTransition" xml:space="preserve">
+    <value>서서히 검은색</value>
+  </data>
+  <data name="fadetowhiteTransition" xml:space="preserve">
+    <value>서서히 하얀색</value>
+  </data>
+  <data name="zoomTransition" xml:space="preserve">
+    <value>줌</value>
+  </data>
+  <data name="copySource" xml:space="preserve">
+    <value>복사</value>
+  </data>
+  <data name="pasteSource" xml:space="preserve">
+    <value>붙여넣기</value>
+  </data>
+  <data name="NdiPlayoutFormatOptionsTitle" xml:space="preserve">
+    <value>NewTek NDI® 설정</value>
+  </data>
+  <data name="frmChangeLog" xml:space="preserve">
+    <value>업데이트 가능</value>
+  </data>
+  <data name="dontAskAgain" xml:space="preserve">
+    <value>다시 묻지 않습니다</value>
+  </data>
+  <data name="localRecordAddToolStripMenuItem" xml:space="preserve">
+    <value>새로운 녹화설정 추가</value>
+  </data>
+  <data name="localRecordRemoveToolStripMenuItem" xml:space="preserve">
+    <value>저장된 녹화설정 삭제</value>
+  </data>
+  <data name="scenesListActive" xml:space="preserve">
+    <value>활성된 장면 녹화</value>
+  </data>
+  <data name="ProjectorSettingsTitle" xml:space="preserve">
+    <value>프로젝터 설정</value>
+  </data>
+  <data name="projectorSettingsTsmi" xml:space="preserve">
+    <value>설정</value>
+  </data>
+  <data name="msgCantEditActiveNdiOutput" xml:space="preserve">
+    <value>기타 송출이 유효할 경우 편집할 수 없습니다.</value>
+  </data>
+  <data name="audioEffectsToolStripMenuItem" xml:space="preserve">
+    <value>오디오 효과</value>
+  </data>
+  <data name="virtualCameraTsmi" xml:space="preserve">
+    <value>가상 카메라</value>
+  </data>
+  <data name="gpuAdapter" xml:space="preserve">
+    <value>그래픽카드 어댑터</value>
+  </data>
+  <data name="gpuAdapterAuto" xml:space="preserve">
+    <value>자동</value>
+  </data>
+</root>

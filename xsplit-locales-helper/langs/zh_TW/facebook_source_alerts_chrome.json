@@ -1,0 +1,107 @@
+{
+  "facebook.source_alert.tabheader": {
+    "message": "警報"
+  },
+  "facebook.source_alert.source": {
+    "message": "資源"
+  },
+  "facebook.source_alert.account": {
+    "message": "帳戶"
+  },
+  "facebook.source_alert.authorize": {
+    "message": "授權XSplit使用 Facebook"
+  },
+  "facebook.source_alert.remove_authorization": {
+    "message": "**%api%** 刪除授權"
+  },
+  "facebook.source_alert.switch_account": {
+    "message": "**%api%** 切換帳戶"
+  },
+  "facebook.source_alert.not_connected": {
+    "message": "當直播生效時警報將自動加載"
+  },
+  "facebook.source_alert.connected": {
+    "message": "連接"
+  },
+  "facebook.source_alert.connect": {
+    "message": "連接"
+  },
+  "facebook.source_alert.disconnect": {
+    "message": "斷開連接"
+  },
+  "facebook.source_alert.error_auth": {
+    "message": "請再次嘗試授權, 並授予 XSplit 對此功能所需的所有權限的訪問權限"
+  },
+  "facebook.source_alert.not_seeing_videos": {
+    "message": "沒有看到你的直播視頻？"
+  },
+  "facebook.source_alert.not_seeing_videos_help": {
+    "message": "我們可能沒有許可權訪問您的某些網頁的即時視頻。"
+  },
+  "facebook.source_alert.not_seeing_videos_link": {
+    "message": "點擊這裡重新授權"
+  },
+  "facebook.source_alert.hide_connection_message": {
+    "message": "隱藏連接消息"
+  },
+  "facebook.source_alert.alertLabel": {
+    "message": "警報"
+  },
+  "facebook.source_alert.animation_text": {
+    "message": "動畫"
+  },
+  "facebook.source_alert.duration": {
+    "message": "持續時間"
+  },
+  "facebook.source_alert.delay": {
+    "message": "顯示時間"
+  },
+  "facebook.source_alert.animateIn": {
+    "message": "動畫入場"
+  },
+  "facebook.source_alert.animateOut": {
+    "message": "動畫出場"
+  },
+  "facebook.source_alert.audio": {
+    "message": "音訊"
+  },
+  "facebook.source_alert.generalHeader": {
+    "message": "一般"
+  },
+  "facebook.source_alert.customizeHeader": {
+    "message": "自定義"
+  },
+  "facebook.source_alert.theme": {
+    "message": "主題"
+  },
+  "facebook.source_alert.minStars": {
+    "message": "最低星數"
+  },
+  "facebook.source_alert.type": {
+    "message": "類型"
+  },
+  "facebook.source_alert.nameStyleAndSettings": {
+    "message": "名稱風格和設置"
+  },
+  "facebook.source_alert.sound": {
+    "message": "聲音"
+  },
+  "facebook.source_alert.show_alert": {
+    "message": "預覽"
+  },
+  "facebook.source_alert.hide_alert": {
+    "message": "隱藏預覽"
+  },
+  "facebook.source_alert.test_alert": {
+    "message": "測試警報"
+  },
+  "facebook.source_alert.Color": {
+    "message": "顏色"
+  },
+  "facebook.source_alert.layout": {
+    "message": "佈局"
+  },
+  "facebook.source_alert.shareNote": {
+    "message": "僅在共享給公眾時有效"
+  }
+}

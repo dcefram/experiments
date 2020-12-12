@@ -1,0 +1,395 @@
+{
+    "home_newToStore": {
+        "message": "방송에 활기를 불어넣어줄 플러그인들을 경험해보세요!"
+    },
+    "home_search": {
+        "message": "위, 아래 표기될 아이콘들을 클릭하여 검색을 시작해보세요."
+    },
+    "home_sourceTip": {
+        "message": "소스 목록 보기"
+    },
+    "home_extensionTip": {
+        "message": "확장 프로그램 보기"
+    },
+    "home_outputTip": {
+        "message": "송출 플러그인 보기"
+    },
+    "home_libraryTip": {
+        "message": "설치된 플러그인 보기"
+    },
+    "home_sourceTipIn": {
+        "message": "소스 목록 숨기기"
+    },
+    "home_outputTipIn": {
+        "message": "송출 플러그인 숨기기"
+    },
+    "home_extensionTipIn": {
+        "message": "확장 프로그램 숨기기"
+    },
+    "home_tooltipToggle": {
+        "message": "모든 아이콘이 숨겨져있을 경우 검색을 하실 수 없습니다."
+    },
+    "plugin_developer": {
+        "message": "개발진:"
+    },
+    "plugin_publicVersion": {
+        "message": "공개 버전:"
+    },
+    "plugin_updated": {
+        "message": "최신 업데이트:"
+    },
+    "plugin_dllDownloadWarning": {
+        "message": "해당 다운로드는 사용자의 시스템의 기록된 파일 형식중 익숙하지 않은 파일들이 있을 수 있습니다."
+    },
+    "plugin_install": {
+        "message": "설치하기"
+    },
+    "plugin_uninstall": {
+        "message": "삭제하기"
+    },
+    "plugin_update": {
+        "message": "업데이트"
+    },
+    "plugin_published": {
+        "message": "최신 업데이트"
+    },
+    "plugin_size": {
+        "message": "사이즈"
+    },
+    "plugin_currentVersion": {
+        "message": "현재 버전"
+    },
+    "plugin_installs": {
+        "message": "설치"
+    },
+    "plugin_minimumXBCLabel": {
+        "message": "필요한 브로드캐스터 최소 버전"
+    },
+    "plugin_minimumXBC": {
+        "message": "%version% 이상의 버전"
+    },
+    "plugin_report": {
+        "message": "제안 및 제보"
+    },
+    "plugin_developerLabel": {
+        "message": "개발진"
+    },
+    "plugin_developerVisit": {
+        "message": "웹페이지 방문"
+    },
+    "plugin_developerMail": {
+        "message": "이메일 보내기"
+    },
+    "plugin_readMore": {
+        "message": "자세히"
+    },
+    "plugin_rateThisplugin": {
+        "message": "플러그인 평가"
+    },
+    "plugin_rating": {
+        "message": "해당 플러그인을 설치하셔야만 평가하실 수 있습니다"
+    },
+    "plugin_reviews": {
+        "message": "리뷰"
+    },
+    "plugin_votes": {
+        "message": "투표수"
+    },
+    "plugin_filter-recent": {
+        "message": "최신"
+    },
+    "plugin_filter-rating": {
+        "message": "투표율"
+    },
+    "plugin_viewAllReviews": {
+        "message": "모든 리뷰 보기"
+    },
+    "plugin_warning": {
+        "message": "해당 플러그인은 엑스플릿 개인정보 보호 정책 외의 다른 정책이 적용될 수 있습니다. 서드 파티 라이브러리 및 외부 단체의 협력으로 이루어져 있기 때문입니다. 플러그인 자체에서 트러블슈팅을 원할하게 도와줄 개인정보 요청 및 시스템 사양 정보를 전송할 수 있음를 주의해주세요."
+    },
+    "plugin_myReview": {
+        "message": "나의 리뷰"
+    },
+    "plugin_empty-search": {
+        "message": "검색 결과가 없습니다. 다른 검색을 시도하시거나 플러그인 종류를 다시 선택해주세요."
+    },
+    "plugin_back": {
+        "message": "< 플러그인 정보로 돌아가기"
+    },
+    "plugin_tag": {
+        "message": "태그"
+    },
+    "plugin_minimum": {
+        "message": "필요한 최소 사양의 운영 체제:"
+    },
+    "plugin_windows": {
+        "message": "윈도우 10"
+    },
+    "plugin_windows-warning": {
+        "message": "해당 플러그인을 설치 할 수 없습니다. 최소 사양의 운영체제 조건이 맞지 않습니다."
+    },
+    "plugin_local-recording": {
+        "message": "해당 플러그인은 필수 프로그램이므로 삭제할 수 없습니다."
+    },
+    "myPlugins_myPlugins": {
+        "message": "설치된 플러그인"
+    },
+    "myPlugins_updateAll": {
+        "message": "모두 업데이트"
+    },
+    "myPlugins_cancelAll": {
+        "message": "모두 취소"
+    },
+    "myPlugins_update": {
+        "message": "업데이트"
+    },
+    "myPlugins_uninstall": {
+        "message": "삭제"
+    },
+    "myPlugins_size": {
+        "message": "사이즈"
+    },
+    "search_results": {
+        "message": "검색 결과 "
+    },
+    "search_searching": {
+        "message": "검색중..."
+    },
+    "search_zero-search1": {
+        "message": "유효한 검색 결과물이 없습니다."
+    },
+    "search_zero-search2": {
+        "message": "제안:"
+    },
+    "search_zero-search3": {
+        "message": "플러그인 이름이 정확한지 문구를 확인해주세요."
+    },
+    "search_zero-search4": {
+        "message": "다른 키워드를 사용해보세요."
+    },
+    "search_zero-search5": {
+        "message": "보편적인 단어 선택을 해보세요."
+    },
+    "search_name": {
+        "message": "이름"
+    },
+    "search_downloads": {
+        "message": "종합 다운로드 수"
+    },
+    "search_rating": {
+        "message": "투표율"
+    },
+    "search_updated": {
+        "message": "최신 업데이트"
+    },
+    "search_installed": {
+        "message": "설치됨"
+    },
+    "search_clear-search": {
+        "message": "검색창 초기화"
+    },
+    "search_download-all": {
+        "message": "모두 다운로드"
+    },
+    "search_download": {
+        "message": "다운로드 (%count%)"
+    },
+    "help_what": {
+        "message": "이 플러그인은 무엇인가요?"
+    },
+    "help_source": {
+        "message": "**소스** 소스 플러그인은 장면에 구성하는 요소입니다. 각 소스에 마우스 우클릭을 할 경우 해당 소스의 구성요소를 설정할 수 있습니다."
+    },
+    "help_extension": {
+        "message": "**확장 프로그램** 엑스플릿 프로그램 전체에 영향을 줄 수 있고 장면 구성 외의 전반적인 설정과 편의에 적용할 수 있습니다."
+    },
+    "help_output": {
+        "message": "**송출** 데이터 출력 및 송출과 관련된 플러그인이며 인기 플랫폼인 트위치, 유튜브, 리스트림 등의 서비스로 연결해주는 플러그인 입니다."
+    },
+    "help_installed": {
+        "message": "설치한 플러그인들을 확인하고 업데이트 하거나 삭제할 수 있습니다. 설치된 플러그인을 확인하시려면 검색창 우측의 아이콘을 클릭하시거나 도구 메뉴의 설치된 플러그인 메뉴를 선택하세요."
+    },
+    "help_developer": {
+        "message": "개발자이신가요?"
+    },
+    "help_buildYourOwn": {
+        "message": "엑스플릿 브로드캐스터 전용 플러그인을 직접 개발하실 수 있습니다. 다양한 방법으로 도움드릴 수 있습니다. [자세히](https://xspl.it/developers)"
+    },
+    "overlay_uninstall": {
+        "message": "삭제 완료!"
+    },
+    "overlay_uninstallMessage": {
+        "message": "%name% 이 삭제되었습니다. \n 해당 플러그인에 대한 피드백이나 리뷰를 해주시면 감사하겠습니다"
+    },
+    "overlay_rateThisPlugin": {
+        "message": "플러그인 평가"
+    },
+    "overlay_yourRating": {
+        "message": "점수: "
+    },
+    "overlay_rating-0": {
+        "message": "점수 없음"
+    },
+    "overlay_rating-1": {
+        "message": "더 노력해야 합니다"
+    },
+    "overlay_rating-2": {
+        "message": "나쁘지 않습니다"
+    },
+    "overlay_rating-3": {
+        "message": "괜찮습니다"
+    },
+    "overlay_rating-4": {
+        "message": "좋습니다"
+    },
+    "overlay_rating-5": {
+        "message": "굉장히 만족합니다"
+    },
+    "overlay_placeholder": {
+        "message": "리뷰 작성 (선택)"
+    },
+    "overlay_charlimit": {
+        "message": "남은 문자 수 %action%"
+    },
+    "overlay_submit": {
+        "message": "제출하기"
+    },
+    "overlay_cancel": {
+        "message": "취소"
+    },
+    "overlay_skip": {
+        "message": "넘기기"
+    },
+    "overlay_ratingError": {
+        "message": "앗! 리뷰를 제출하는 도중 오류가 발생했습니다. 다시 시도해주세요."
+    },
+    "overlay_action-error": {
+        "message": "%action% 도중 오류가 발생했습니다. 다시 시도하시거나 엑스플릿 고객센터에 문의해주세요."
+    },
+    "overlay_action-error-download": {
+        "message": "플러그인 다운로드에 실패했습니다. 인터넷 연결 여부를 확인해보신 뒤 다시 시도해주세요."
+    },
+    "overlay_action-error-multiple": {
+        "message": "%count% 가지 플러그인이 업데이트가 필요합니다"
+    },
+    "overlay_action-rating": {
+        "message": ""
+    },
+    "overlay_action-searching": {
+        "message": "검색중..."
+    },
+    "overlay_action-loading": {
+        "message": "불러오는 중..."
+    },
+    "overlay_action-downloading": {
+        "message": "다운로드 중..."
+    },
+    "overlay_action-installing": {
+        "message": "설치 중..."
+    },
+    "overlay_action-updating": {
+        "message": "업데이트 중..."
+    },
+    "overlay_action-uninstalling": {
+        "message": "삭제 중..."
+    },
+    "overlay_action-updating-multiple": {
+        "message": "다운로드 개수 총 %total% 개 중%count% 플러그인..."
+    },
+    "overlay_complete-installing": {
+        "message": "%name% 플러그인이 %type% 메뉴와 설치된 플러그인 목록에 표시됩니다."
+    },
+    "overlay_complete-updating": {
+        "message": "%name% 플러그인 업데이트가 완료되었습니다."
+    },
+    "overlay_complete-updating-multiple": {
+        "message": "모든 플러그인 다운로드가 완료되었습니다."
+    },
+    "overlay_complete-uninstalling": {
+        "message": "%name% 플러그인이 삭제 되었습니다."
+    },
+    "overlay_title-complete-installing": {
+        "message": "설치 완료!"
+    },
+    "overlay_title-complete-uninstalling": {
+        "message": "삭제 완료!"
+    },
+    "overlay_title-complete-updating": {
+        "message": "업데이트 완료!"
+    },
+    "overlay_title-complete-updating-multiple": {
+        "message": "다운로드 완료!"
+    },
+    "overlay_button-downloading": {
+        "message": "다운로드"
+    },
+    "overlay_button-installing": {
+        "message": "설치하기"
+    },
+    "overlay_button-updating": {
+        "message": "업데이트"
+    },
+    "overlay_button-updating-multiple": {
+        "message": "모두 업데이트"
+    },
+    "overlay_button-uninstalling": {
+        "message": "삭제하기"
+    },
+    "overlay_button-ok": {
+        "message": "OK"
+    },
+    "overlay_button-loading": {
+        "message": "OK"
+    },
+    "overlay_toClose": {
+        "message": "플러그인 스토어를 닫겠습니까?"
+    },
+    "overlay_cancel-action": {
+        "message": "%action% 을 취소합니다"
+    },
+    "overlay_generic-error-header": {
+        "message": "받은 데이터가 없습니다!"
+    },
+    "overlay_generic-internet-fail": {
+        "message": "앗! 오류가 발생했습니다. 인터넷 연결 여부를 확인해보시고 재시도 해주세요."
+    },
+    "overlay_generic-error-text": {
+        "message": "데이터를 불러오는 도중 오류가 발생했습니다. 다시 시도해주세요."
+    },
+    "overlay_install-restart-now": {
+        "message": "지금 재시작"
+    },
+    "overlay_install-restart-later": {
+        "message": "나중에 재시작"
+    },
+    "overlay_needs-restart-info": {
+        "message": "엑스플릿이 재시작 되어야 변경점이 적용됩니다."
+    },
+    "extension_label": {
+        "message": "확장 프로그램"
+    },
+    "source_label": {
+        "message": "소스"
+    },
+    "output_label": {
+        "message": "송출"
+    },
+    "myPlugins_plugin_types": {
+        "message": "모든 플러그인 종류"
+    },
+    "myPlugins_show_plugins_with_update": {
+        "message": "업데이트가 필요한 플러그인만 보이기"
+    },
+    "search_ascending": {
+        "message": "오름차순"
+    },
+    "search_descending": {
+        "message": "내림차순"
+    },
+    "search_and_separator": {
+        "message": "그리고"
+    },
+    "home_search_placeholder": {
+        "message": "스토어 검색"
+    }
+}

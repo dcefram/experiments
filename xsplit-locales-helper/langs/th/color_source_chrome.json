@@ -1,0 +1,17 @@
+{
+	"color_source.tabheader": {
+		"message": "เติมสี"
+	},
+	"color_source.title": {
+		"message": "เติม"
+	},
+	"color_source.solid_color": {
+		"message": "สีทึบ"
+	},
+	"color_source.color_bars": {
+		"message": "บาร์สี"
+	},
+	"color_source.color": {
+		"message": "สี"
+	}
+}

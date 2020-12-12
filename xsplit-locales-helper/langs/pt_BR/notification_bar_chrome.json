@@ -1,0 +1,59 @@
+{
+  "COUNTER": {
+    "message": "(%count%/%total%)"
+  },
+  "IN_GAME_HUD.text": {
+    "message": "Try out our new in-game HUD! Just press ALT+` when playing any game added to your scene via Game Capture."
+  },
+  "UI_UPDATE_ANNOUNCEMENT.text": {
+    "message": "**Welcome to XBC 3.9!** We've a bunch of new features for you to try."
+  },
+  "UI_UPDATE_ANNOUNCEMENT.link": {
+    "message": "[LEARN MORE](%url%)"
+  },
+  "REQUEST_PERMISSION.label": {
+    "message": "Permissões"
+  },
+  "REQUEST_PERMISSION.text": {
+    "message": "One or more of your sources or extensions is requesting permission to execute scripts"
+  },
+  "REQUEST_PERMISSION.link": {
+    "message": "[EDIT PERMISSIONS](editAccess)"
+  },
+  "PLUGINS_UPDATE.label": {
+    "message": "Updates for your plugins are available!"
+  },
+  "PLUGINS_UPDATE.link": {
+    "message": "[SHOW UPDATES](PLUGINS_UPDATE)"
+  },
+  "NEW_CRISP_MESSAGE.label": {
+    "message": "Support"
+  },
+  "NEW_CRISP_MESSAGE.link": {
+    "message": "[OPEN MESSAGE](openCrispChat)"
+  },
+  "NEW_CRISP_MESSAGE.file": {
+    "message": "You've been sent a new file"
+  },
+  "NEW_CRISP_MESSAGE.single": {
+    "message": "You have %count% new message"
+  },
+  "NEW_CRISP_MESSAGE.multiple": {
+    "message": "You have %count% new messages"
+  },
+  "IDENTIFY_GAMES.label": {
+    "message": "Game Tracking"
+  },
+  "IDENTIFY_GAMES.text": {
+    "message": "Help us identify the games you capture so we can provide better support."
+  },
+  "IDENTIFY_GAMES.link": {
+    "message": "[TAG GAMES](identifyGames)"
+  },
+  "WINDOWS_GAMEBAR.text": {
+    "message": "**Windows Game Mode** is enabled on your system. This may cause performance issues in your stream."
+  },
+  "EXTENSION_RUNNING_IN_BACKGROUND.text": {
+    "message": "%name% is now running in the background. You may reconfigure its settings by clicking its gear [GEAR](ICON-GEAR) icon in the Extensions menu."
+  }
+}

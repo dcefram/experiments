@@ -1,0 +1,17 @@
+{
+	"color_source.tabheader": {
+		"message": "لون التعبئة"
+	},
+	"color_source.title": {
+		"message": "ملء"
+	},
+	"color_source.solid_color": {
+		"message": "اللون الصامد"
+	},
+	"color_source.color_bars": {
+		"message": "أشرطة اللون"
+	},
+	"color_source.color": {
+		"message": "اللون"
+	}
+}

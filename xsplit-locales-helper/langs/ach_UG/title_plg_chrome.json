@@ -1,0 +1,173 @@
+{
+  "title.content": {
+    "message": "crwdns6946:0crwdne6946:0"
+  },
+  "title.use_custom_script": {
+    "message": "crwdns6947:0crwdne6947:0"
+  },
+  "title.edit_script": {
+    "message": "crwdns6948:0crwdne6948:0"
+  },
+  "title.format": {
+    "message": "crwdns6949:0crwdne6949:0"
+  },
+  "title.font": {
+    "message": "crwdns6950:0crwdne6950:0"
+  },
+  "title.color": {
+    "message": "crwdns6951:0crwdne6951:0"
+  },
+  "title.outline": {
+    "message": "crwdns6952:0crwdne6952:0"
+  },
+  "title.opacity": {
+    "message": "crwdns6953:0crwdne6953:0"
+  },
+  "title.style": {
+    "message": "crwdns6954:0crwdne6954:0"
+  },
+  "title.align": {
+    "message": "crwdns6955:0crwdne6955:0"
+  },
+  "title.shadow": {
+    "message": "crwdns11985:0crwdne11985:0"
+  },
+  "title.distance": {
+    "message": "crwdns11986:0crwdne11986:0"
+  },
+  "title.blur": {
+    "message": "crwdns11987:0crwdne11987:0"
+  },
+  "title.angle": {
+    "message": "crwdns11988:0crwdne11988:0"
+  },
+  "title.animation": {
+    "message": "crwdns9780:0crwdne9780:0"
+  },
+  "title.none": {
+    "message": "crwdns9781:0crwdne9781:0"
+  },
+  "title.scroll": {
+    "message": "crwdns9782:0crwdne9782:0"
+  },
+  "title.fade": {
+    "message": "crwdns9783:0crwdne9783:0"
+  },
+  "title.scrolling": {
+    "message": "crwdns6956:0crwdne6956:0"
+  },
+  "title.line_limit": {
+    "message": "crwdns7750:0crwdne7750:0"
+  },
+  "title.direction": {
+    "message": "crwdns7101:0crwdne7101:0"
+  },
+  "title.speed": {
+    "message": "crwdns6958:0crwdne6958:0"
+  },
+  "title.scroll_units": {
+    "message": "crwdns7102:0crwdne7102:0"
+  },
+  "title.delimeter": {
+    "message": "crwdns9784:0crwdne9784:0"
+  },
+  "title.interval": {
+    "message": "crwdns9785:0crwdne9785:0"
+  },
+  "title.fade_speed": {
+    "message": "crwdns9786:0crwdne9786:0"
+  },
+  "title.enable_60_fps": {
+    "message": "crwdns14181:0crwdne14181:0"
+  },
+  "title.enable_60_fps_tooltip": {
+    "message": "crwdns54288:0crwdne54288:0"
+  },
+  "title.ok": {
+    "message": "crwdns6959:0crwdne6959:0"
+  },
+  "title.cancel": {
+    "message": "crwdns6960:0crwdne6960:0"
+  },
+  "title.hint.content_section": {
+    "message": "crwdns11989:0[here]crwdne11989:0"
+  },
+  "title.deprecated_scripts": {
+    "message": "crwdns7625:0[br]crwdnd7625:0[br]crwdne7625:0"
+  },
+  "title.outdated_scripts": {
+    "message": "crwdns7757:0[br]crwdnd7757:0[br]crwdne7757:0"
+  },
+  "title.script_editor.edit_script": {
+    "message": "crwdns7341:0crwdne7341:0"
+  },
+  "title.script_editor.title": {
+    "message": "crwdns6995:0crwdne6995:0"
+  },
+  "title.script_editor.template": {
+    "message": "crwdns6996:0crwdne6996:0"
+  },
+  "title.script_editor.settings": {
+    "message": "crwdns6997:0crwdne6997:0"
+  },
+  "title.script_editor.script": {
+    "message": "crwdns6998:0crwdne6998:0"
+  },
+  "title.script_editor.back": {
+    "message": "crwdns6999:0crwdne6999:0"
+  },
+  "title.script_editor.update_title": {
+    "message": "crwdns7626:0crwdne7626:0"
+  },
+  "title.help.outline_title": {
+    "message": "crwdns7047:0crwdne7047:0"
+  },
+  "title.help.outline_message": {
+    "message": "crwdns7048:0crwdne7048:0"
+  },
+  "title.help.pause_script_title": {
+    "message": "crwdns7751:0crwdne7751:0"
+  },
+  "title.help.pause_script_message": {
+    "message": "crwdns7752:0crwdne7752:0"
+  },
+  "title.help.delimeter_title": {
+    "message": "crwdns9787:0crwdne9787:0"
+  },
+  "title.help.delimeter_message": {
+    "message": "crwdns9788:0crwdne9788:0"
+  },
+  "title.help.interval_title": {
+    "message": "crwdns9789:0crwdne9789:0"
+  },
+  "title.help.interval_message": {
+    "message": "crwdns9790:0crwdne9790:0"
+  },
+  "title.pause_hotkey": {
+    "message": "crwdns7909:0crwdne7909:0"
+  },
+  "title.direction_options_right_to_left": {
+    "message": "crwdns13070:0crwdne13070:0"
+  },
+  "title.direction_options_left_to_right": {
+    "message": "crwdns13071:0crwdne13071:0"
+  },
+  "title.direction_options_bottom_to_top": {
+    "message": "crwdns13072:0crwdne13072:0"
+  },
+  "title.direction_options_top_to_bottom": {
+    "message": "crwdns13073:0crwdne13073:0"
+  },
+  "title.outline_options_none": {
+    "message": "crwdns13074:0crwdne13074:0"
+  },
+  "title.outline_options_thin": {
+    "message": "crwdns13075:0crwdne13075:0"
+  },
+  "title.outline_options_thick": {
+    "message": "crwdns13076:0crwdne13076:0"
+  },
+  "title.outline_options_thickest": {
+    "message": "crwdns14212:0crwdne14212:0"
+  }
+}

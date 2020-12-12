@@ -1,0 +1,98 @@
+{
+  "title.source": {
+    "message": "Source"
+  },
+  "subtitle.account": {
+    "message": "Account"
+  },
+  "link.authorize": {
+    "message": "Authorize XSplit to use Facebook Live"
+  },
+  "subtitle2.authorize.error": {
+    "message": "Please try authorizing again and grant access to all permission required by XSplit for this functionality"
+  },
+  "subtitle.connect": {
+    "message": "Post URL"
+  },
+  "chat.disconnected": {
+    "message": "Not Connected"
+  },
+  "chat.connected": {
+    "message": "Connected"
+  },
+  "help.post.title": {
+    "message": "Post URL"
+  },
+  "help.post.text": {
+    "message": "Allowed URLs are public posts, your own posts (videos, images, etc) in your timeline, or posts of images and videos of a page you manage."
+  },
+  "chat.connect": {
+    "message": "Connect"
+  },
+  "chat.disconnect": {
+    "message": "Disconnect"
+  },
+  "subtitle2.connect.error": {
+    "message": "Please provide a valid video or post URL."
+  },
+  "title.display": {
+    "message": "Display"
+  },
+  "label.lock": {
+    "message": "Lock Components"
+  },
+  "help.lock.title": {
+    "message": "Lock Components"
+  },
+  "help.lock.text": {
+    "message": "Checking this option will disable mouse hover, repositioning and resizing of the components.[br]Check this if you don't want to display hover effects on the components, especially while streaming or recording."
+  },
+  "label.reactions": {
+    "message": "Show Reactions and Labels"
+  },
+  "button.reset": {
+    "message": "Reset"
+  },
+  "label.bg": {
+    "message": "Counter BG"
+  },
+  "label.counter": {
+    "message": "Counter"
+  },
+  "label.label": {
+    "message": "Label"
+  },
+  "label.opacity": {
+    "message": "Opacity"
+  },
+  "label.hide_connection_message": {
+    "message": "Hide connection messages"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** Switch account"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** Remove authorization"
+  },
+  "input.like": {
+    "message": "Like"
+  },
+  "input.love": {
+    "message": "Love"
+  },
+  "input.haha": {
+    "message": "Haha"
+  },
+  "input.sad": {
+    "message": "Sad"
+  },
+  "input.wow": {
+    "message": "Wow"
+  },
+  "input.angry": {
+    "message": "Angry"
+  },
+  "tabheader.title": {
+    "message": "Post Reactions"
+  }
+}

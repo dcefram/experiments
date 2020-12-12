@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="btnFinish" xml:space="preserve">
+    <value>เสร็จสิ้น</value>
+  </data>
+  <data name="fmtAutoBitrateResult" xml:space="preserve">
+    <value>ความสามารถในการส่งข้อมูลสู่เซิร์ฟเวอร์เป้าหมายเคยเป็น {0} kbps (?)</value>
+  </data>
+  <data name="fmtAutoIngestAfter" xml:space="preserve">
+    <value>พยายามที่จะสตรีมไปยัง {0} (?)</value>
+  </data>
+  <data name="frmUStreamProps" xml:space="preserve">
+    <value>คุณสมบัติ Ustream</value>
+  </data>
+  <data name="lblAuthorize" xml:space="preserve">
+    <value>อนุญาต</value>
+  </data>
+  <data name="lblAutoIngestBefore" xml:space="preserve">
+    <value>กำลังกำหนดเซิร์ฟเวอร์นำเข้าที่ดีที่สุด...</value>
+  </data>
+  <data name="lblAutoIngestName" xml:space="preserve">
+    <value>อัตโนมัติ</value>
+  </data>
+  <data name="lblBwTestFailed" xml:space="preserve">
+    <value>การทดสอบแบนด์วิทล้มเหลว โปรดตรวจสอบการเลื่อมต่อของเน็ตเวิร์คแล้วลองใหม่อีกครั้ง</value>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>คลิ๊กอนุญาตเพื่อเชื่อมต่อกับบัญชี Ustream ของคุณ</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>ยกเลิกการอนุญาต</value>
+  </data>
+  <data name="lblTip" xml:space="preserve">
+    <value>เป็นไปได้ที่ {0} จะไม่เพียงพอต่อความละเอียดที่เลือก</value>
+  </data>
+  <data name="lblTipRequiredHw" xml:space="preserve">
+    <value>ฮาร์ดแวร์ที่แนะนำ (?)</value>
+  </data>
+  <data name="lblTipRequiredUpload" xml:space="preserve">
+    <value>แบนด์วิดท์ที่จำเป็น (?)</value>
+  </data>
+  <data name="lblTipRequiredUploadAndHw" xml:space="preserve">
+    <value>แบนด์วิดท์ที่จำเป็น (?) และฮาร์ดแวร์ที่แนะนำ (?)</value>
+  </data>
+  <data name="linktip_datarate" xml:space="preserve">
+    <value>แบนด์วิธระหว่างเครื่องคอมพิวเตอร์ของคุณ 
+และเซิร์ฟเวอร์เป้าหมายมีความเร็วเพียงพอ {0} kbps 
+โดยบิทเรทสูงสุดที่แนะนำคือ {1}</value>
+  </data>
+  <data name="linktip_datarate_over" xml:space="preserve">
+    <value>แบนด์วิธระหว่างเครื่องคอมพิวเตอร์ของคุณ 
+และเซิร์ฟเวอร์เป้าหมายมีความเร็วเพียงพอมากกว่า {0} kbps 
+โดยบิทเรทสูงสุดที่แนะนำคือ {1}</value>
+  </data>
+  <data name="linktip_datarate_under" xml:space="preserve">
+    <value>แบนด์วิธระหว่างเครื่องคอมพิวเตอร์ของคุณ 
+และเซิร์ฟเวอร์เป้าหมายคือ {0} kbps 
+ซึ่งเพียงพอสำหรับ {1}</value>
+  </data>
+  <data name="linktip_datarate_under1" xml:space="preserve">
+    <value>แบนด์วิธระหว่างเครื่องคอมพิวเตอร์ของคุณ 
+และเซิร์ฟเวอร์เป้าหมายคือ {0} kbps 
+ซึ่งอาจจะไม่เพียงพอสำหรับ {1}</value>
+  </data>
+  <data name="linktip_hardware" xml:space="preserve">
+    <value>ถ้าคุณเล่นผ่านทางเครื่องคอนโซล 
+หรือผ่านคอมพิวเตอร์เครื่องอื่นผ่าน 
+ทางการ์ดแคปเจอร์ก็ลองดูได้เลย! :-)</value>
+  </data>
+  <data name="linktip_ingest" xml:space="preserve">
+    <value>จากเซิร์ฟเวอร์ทั้งหมดที่ Ustream แจ้งว่าใช้งานได้
+อัตราการตอบสนองของ เซิร์ฟเวอร์ตัวนี้ดีที่สุดแล้ว
+เส้นทาง ระยะทาง ความหนาแน่น ช่วงเวลาของวัน และตัวแปรภายนอกอื่นๆ
+ของ Internet มีผลต่อตัวเลือกเซิร์ฟเวอร์</value>
+  </data>
+  <data name="linktip_upload" xml:space="preserve">
+    <value>ผู้ชมนั้นจะสนใจในวิดีโอที่มีคุณภาพดีไม่มีการกระตุก 
+ผู้ชมสวนมากนั้นจะสนใจที่จะชม {0} ที่ดี
+มากกว่าดูสตรีมที่ {1} Lag และกระตุก</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>ไม่มีบัญชี Ustream? สมัครที่นี่เลย</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>มีปัญหากับการสื่อสารกับ เซิร์ฟเวอร์ของUstream โปรดลองอีกครั้งภายหลัง</value>
+  </data>
+  <data name="msgAuthorizeRequired" xml:space="preserve">
+    <value>คุณต้องทำการอนุญาตบัญชีเป็นครั้งแรกก่อน</value>
+  </data>
+  <data name="msgChannelDescriptionEmpty" xml:space="preserve">
+    <value>คุณต้องทำการป้อนรายละเอียด</value>
+  </data>
+  <data name="msgConfirmMixerResFpsAdjustment" xml:space="preserve">
+    <value>ตอนนี้ mixer จะถูดตั้งค่าเป็น {0} ใช้ค่านี้หรือไม่?</value>
+  </data>
+  <data name="msgGameNameEmpty" xml:space="preserve">
+    <value>คุณต้องป้อนชื่อในเกม</value>
+  </data>
+  <data name="msgInvalidCredentials" xml:space="preserve">
+    <value>ไม่สามารถเชื่อมต่อกับบัญชีของคุณได้โปรดป้อนข้อมูลที่สำคัญและลองใหม่อีกครั้ง</value>
+  </data>
+  <data name="msgPasswordEmpty" xml:space="preserve">
+    <value>คุณต้องป้อนรหัสผ่าน</value>
+  </data>
+  <data name="msgReauthorizeRequired" xml:space="preserve">
+    <value>การลงชื่อเข้าใช้ของคุณหมดอายุแล้ว โปรดทำการอนุญาต XSplit ใหม่อีกครั้งเพื่อจะเข้าถึงแชนแนล Ustream ของคุณ</value>
+  </data>
+  <data name="msgStreamApiError" xml:space="preserve">
+    <value>ไม่สามารถสตรีมได้ เซิร์ฟเวอร์แจ้งข้อผิดพลาด: </value>
+  </data>
+  <data name="msgUnregisteredError" xml:space="preserve">
+    <value>ไม่สามารถเชื่อมต่อได้ ชื่อบัญชีที่คุณป้อนอาจจะยังไม่ได้ลงทะเบียน</value>
+  </data>
+  <data name="msgUsernameEmpty" xml:space="preserve">
+    <value>คุณต้องป้อนชื่อผู้ใช้</value>
+  </data>
+  <data name="msgVerificationCancelled" xml:space="preserve">
+    <value>คุณไม่สามารถทำการยืนยันให้เสร็จสิ้นได้ โปรดลองใหม่อีกครั้งภายหลัง</value>
+  </data>
+  <data name="msgVerificationCodeError" xml:space="preserve">
+    <value>คุณป้อนรหัสยืนยันผิดพลาด โปรดลองใหม่อีกครั้ง</value>
+  </data>
+  <data name="titleAuthPopup" xml:space="preserve">
+    <value>การอนุญาต Ustream</value>
+  </data>
+</root>

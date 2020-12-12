@@ -1,0 +1,77 @@
+{
+	"youtube.superchat.tabheader": {
+		"message": "Alerta"
+	},
+	"youtube.superchat.source": {
+		"message": "Fuente"
+	},
+	"youtube.superchat.account": {
+		"message": "Cuenta"
+	},
+	"youtube.superchat.preview": {
+		"message": "Previsualización"
+	},
+	"youtube.superchat.account_automatic": {
+		"message": "Automático"
+	},
+	"youtube.superchat.authorize": {
+		"message": "Autorizar a XSplit para usar YouTube Live"
+	},
+	"youtube.superchat.remove_authorization": {
+		"message": "%api%** Eliminar autorización"
+	},
+	"youtube.superchat.switch_account": {
+		"message": "%api%** Cambiar de cuenta"
+	},
+	"youtube.superchat.not_connected": {
+		"message": "El widget se conectará automáticamente una vez que la transmisión esté en vivo"
+	},
+	"youtube.superchat.connected": {
+		"message": "Conectado"
+	},
+	"youtube.superchat.error_channel_not_found": {
+		"message": "Proporciona un canal válido."
+	},
+	"youtube.superchat.notification": {
+		"message": "Notificación"
+	},
+	"youtube.superchat.lock_components": {
+		"message": "Bloquear componentes"
+	},
+	"youtube.superchat.lock_components_help": {
+		"message": "Si seleccionas esta opción, se deshabilitará la opción de pasar el ratón por encima, reposicionar y cambiar el tamaño de los componentes[br]Selecciona esta opción si no deseas que se muestre la opción de pasar el ratón por encima de los componentes, especialmente durante la transmisión o la grabación."
+	},
+	"youtube.superchat.show_ticker": {
+		"message": "Mostrar Ticker"
+	},
+	"youtube.superchat.show_alert": {
+		"message": "Mostrar alerta"
+	},
+	"youtube.superchat.opacity": {
+		"message": "Opacidad"
+	},
+	"youtube.superchat.font": {
+		"message": "Fuente"
+	},
+	"youtube.superchat.text_size": {
+		"message": "Tamaño del texto"
+	},
+	"youtube.superchat.hide_message": {
+		"message": "Ocultar el mensaje de Super Chat"
+	},
+	"youtube.superchat.duration": {
+		"message": "Duración"
+	},
+	"youtube.superchat.sound": {
+		"message": "Sonido"
+	},
+	"youtube.superchat.test_alert": {
+		"message": "Probar alerta"
+	},
+	"youtube.superchat.loggingInTo": {
+		"message": "Iniciando sesión en YouTube..."
+	},
+	"youtube.superchat.pleaseComplete": {
+		"message": "Por favor, completa el proceso de inicio de sesión en tu navegador"
+	}
+}

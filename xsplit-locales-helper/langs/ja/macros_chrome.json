@@ -1,0 +1,485 @@
+{
+  "permission_header": {
+    "message": "権限が必要です"
+  },
+  "permission_body": {
+    "message": "DLLアクセスが必要です。[ツール -> 権限]() にてこちらの拡張機能の権限を許可してください。"
+  },
+  "permission_button": {
+    "message": "権限へ行ってください"
+  },
+  "macro_exceeded_header": {
+    "message": "マクロを追加/複製する事ができません"
+  },
+  "macro_exceeded_body": {
+    "message": "マクロ100個の制限に達しました。"
+  },
+  "macro_executor_header": {
+    "message": "XSplit Broadcasterアクションのシークエンスを自動実行させるマクロを作成します。設定されたイベントが満たされると自動実行されます。"
+  },
+  "note_title": {
+    "message": "このバージョン:"
+  },
+  "warning_note": {
+    "message": "いくつかの値が更新されていない場合（シーンの名前など）、マクロ拡張機能を再読み込みしてください。[br]マクロを使用する時、スプリットモードやプレビューエディタで正しく動作しない場合がございますので、クラシックモードを使用してください。"
+  },
+  "button_ok": {
+    "message": "OK"
+  },
+  "button_cancel": {
+    "message": "キャンセル"
+  },
+  "delete_confirmation_header": {
+    "message": "マクロを削除する"
+  },
+  "delete_confirmation_body": {
+    "message": "**%macroName%** を本当に削除しても構いませんか?"
+  },
+  "add_macro": {
+    "message": "マクロを追加する"
+  },
+  "continue_on_error": {
+    "message": "エラー発生時でもマクロを実行し続ける"
+  },
+  "stop_macro": {
+    "message": "停止"
+  },
+  "test_macro": {
+    "message": "テスト"
+  },
+  "event_label": {
+    "message": "イベント"
+  },
+  "action_label": {
+    "message": "アクション"
+  },
+  "condition_label": {
+    "message": "条件"
+  },
+  "add_action": {
+    "message": "アクションを追加する"
+  },
+  "add_condition": {
+    "message": "条件を追加する"
+  },
+  "enable_event_listener": {
+    "message": "イベントリスナーを有効にする"
+  },
+  "enable_event_listener_help_title_description": {
+    "message": "[デフォルト: オフ]"
+  },
+  "enable_event_listener_help_message": {
+    "message": "こちらを有効にするとイベントを常に確認する様になります。イベントが確認されたら、マクロを起動します。 [br] イベント内容が「キーの入力」の場合、ホットキーの数値を変更時はこのオプションを無効にする事をおすすめします。さもないと変更された数値に勝手にマクロが起動してしまう可能性があります。"
+  },
+  "script_copied_to_clipboard": {
+    "message": "クリップボードにスクリプトをコピーしました"
+  },
+  "enable_condition_check_per_action": {
+    "message": "各アクションでのコンディション確認を有効にする"
+  },
+  "no_options": {
+    "message": "利用可能なオプションはありません\n"
+  },
+  "macro_tooltip": {
+    "message": "#### **%macroName%** [br] %triggerName%"
+  },
+  "key_stroke_placeholder": {
+    "message": "マウスクリックかキーコンビネーションを入力してください..."
+  },
+  "select_action_placeholder": {
+    "message": "アクションを選択してください..."
+  },
+  "select_condition_placeholder": {
+    "message": "コンディションを選択してください..."
+  },
+  "select_trigger_placeholder": {
+    "message": "トリガーを選択してください..."
+  },
+  "select_scene_placeholder": {
+    "message": "シーンを選択してください..."
+  },
+  "select_stream_source_placeholder": {
+    "message": "配信ソースを選択してください..."
+  },
+  "select_status_placeholder": {
+    "message": "ステータスを選択してください..."
+  },
+  "select_media_source_placeholder": {
+    "message": "メディアソースを選択してください..."
+  },
+  "select_output_placeholder": {
+    "message": "出力チャンネルを選択してください..."
+  },
+  "select_function_placeholder": {
+    "message": "ファンクションを選択してください..."
+  },
+  "select_transition_placeholder": {
+    "message": "トランジションを選択してください..."
+  },
+  "select_source_placeholder": {
+    "message": "ソースを選択してください..."
+  },
+  "select_visibility_placeholder": {
+    "message": "視認性を選択してください..."
+  },
+  "select_playback_state_placeholder": {
+    "message": "プレイバック状況を選択してください..."
+  },
+  "select_source_with_audio_placeholder": {
+    "message": "音声を含むソースを選択してください..."
+  },
+  "select_mute_state_placeholder": {
+    "message": "ミュート状況を選択してください..."
+  },
+  "select_macro_placeholder": {
+    "message": "マクロを選択してください..."
+  },
+  "select_media_state_placeholder": {
+    "message": "メディア状況を選択してください..."
+  },
+  "select_macro_state_placeholder": {
+    "message": "マクロ状況を選択してください..."
+  },
+  "edit_macro_name_placeholder": {
+    "message": "マクロ名を入力してください"
+  },
+  "disabled_trigger_display_name": {
+    "message": "(リスナー無効) %displayName%"
+  },
+  "trigger_display_name": {
+    "message": "%displayName%"
+  },
+  "new_action": {
+    "message": "新アクション"
+  },
+  "trigger_display_name_manual_run": {
+    "message": "イベント無"
+  },
+  "trigger_display_name_on_key_press": {
+    "message": "**%keyInput%** 入力時"
+  },
+  "trigger_display_name_every_interval": {
+    "message": "毎 **%time%** ms"
+  },
+  "trigger_display_name_on_scheduled_time": {
+    "message": "**%timeSchedule%** 時"
+  },
+  "trigger_display_name_on_scene_switch": {
+    "message": "シーン変更後 **%scene%** へシーン変更"
+  },
+  "trigger_display_name_stream_source_state_change": {
+    "message": "**%stream%** が **%state%** 後"
+  },
+  "trigger_display_name_after_media_playback": {
+    "message": "**%id%** が止まった後"
+  },
+  "trigger_display_name_custom_function": {
+    "message": "カスタムスクリプト"
+  },
+  "trigger_display_name_default_manual_run": {
+    "message": "イベント無"
+  },
+  "trigger_display_name_default_on_key_press": {
+    "message": "キーの入力 [?]"
+  },
+  "trigger_display_name_default_every_interval": {
+    "message": "各インターバル"
+  },
+  "trigger_display_name_default_on_scheduled_time": {
+    "message": "設定時間後 [?]"
+  },
+  "trigger_display_name_default_on_scene_switch": {
+    "message": "シーン変更後 [?]"
+  },
+  "trigger_display_name_default_stream_source_state_change": {
+    "message": "配信ソースがオフライン/オンラインになったら [?]"
+  },
+  "trigger_display_name_default_after_media_playback": {
+    "message": "メディアソースが停止後 [?]"
+  },
+  "trigger_display_name_default_custom_function": {
+    "message": "カスタムスクリプト [?]"
+  },
+  "trigger_option_display_manual_run": {
+    "message": "イベント無"
+  },
+  "trigger_option_display_on_key_press": {
+    "message": "キーの入力"
+  },
+  "trigger_option_display_every_interval": {
+    "message": "各インターバル"
+  },
+  "trigger_option_display_on_scheduled_time": {
+    "message": "設定時間後"
+  },
+  "trigger_option_display_on_scene_switch": {
+    "message": "シーン変更後"
+  },
+  "trigger_option_display_stream_source_state_change": {
+    "message": "配信ソースがオフライン/オンラインになったら"
+  },
+  "trigger_option_display_after_media_playback": {
+    "message": "メディアソースが停止後"
+  },
+  "trigger_option_display_custom_function": {
+    "message": "カスタムスクリプト"
+  },
+  "trigger_presets_time": {
+    "message": "時間"
+  },
+  "trigger_presets_time_schedule": {
+    "message": "予約"
+  },
+  "trigger_presets_state_online": {
+    "message": "オンライン"
+  },
+  "trigger_presets_state_offline": {
+    "message": "オフライン"
+  },
+  "trigger_presets_custom_function_placeholder": {
+    "message": "スクリプトをここに記入してください...[br] スクリプトにはこれらのパラメーターが存在します (callFunctionArray, xjs)。[br] カスタムイベントスクリプトは、イベントリスナーをクリア/削除するファンクションを返す必要があります"
+  },
+  "action_display_name_wait": {
+    "message": "%time% ms待つ"
+  },
+  "action_display_name_start_stop_broadcast": {
+    "message": "%broadcastState% %output% に配信中"
+  },
+  "action_display_name_scene_change": {
+    "message": "%scene% に変更"
+  },
+  "action_display_name_scene_transition_change": {
+    "message": "シーントランジションを %transition%, %time% ms に変更"
+  },
+  "action_display_name_set_source_visibilty": {
+    "message": "%visibility% %videoItem%"
+  },
+  "action_display_name_playback_media": {
+    "message": "%newPlaybackState% %id%"
+  },
+  "action_display_name_toggle_mute": {
+    "message": "%mute% %itemAudio%"
+  },
+  "action_display_name_run_macro": {
+    "message": "%macro% を起動"
+  },
+  "action_display_name_stop_macro": {
+    "message": "%stopMacroId% を停止"
+  },
+  "action_display_name_push_to_live": {
+    "message": "適応する"
+  },
+  "action_display_name_enable_disable_macro": {
+    "message": "%macro% リスナーを %toggle%"
+  },
+  "action_display_name_go_to_action": {
+    "message": "%action% へ移行"
+  },
+  "action_display_name_custom_function": {
+    "message": "カスタムスクリプト (%customFunctionAction% ...)"
+  },
+  "action_display_name_default_wait": {
+    "message": "待つ [?]"
+  },
+  "action_display_name_default_start_stop_broadcast": {
+    "message": "配信を開始/停止 [?]"
+  },
+  "action_display_name_default_scene_change": {
+    "message": "シーンに変更 [?]"
+  },
+  "action_display_name_default_scene_transition_change": {
+    "message": "シーントランジションを設定 [?]"
+  },
+  "action_display_name_default_set_source_visibilty": {
+    "message": "ソース可視化を設定 [?]"
+  },
+  "action_display_name_default_playback_media": {
+    "message": "メディアソースプレイバック時間を設定 [?]"
+  },
+  "action_display_name_default_toggle_mute": {
+    "message": "オーディオソース再生時間を設定 [?]"
+  },
+  "action_display_name_default_run_macro": {
+    "message": "マクロ起動 [?]"
+  },
+  "action_display_name_default_stop_macro": {
+    "message": "マクロ停止 [?]"
+  },
+  "action_display_name_default_push_to_live": {
+    "message": "適応する"
+  },
+  "action_display_name_default_enable_disable_macro": {
+    "message": "マクロイベントリスナーを有効/無効にする [?]"
+  },
+  "action_display_name_default_go_to_action": {
+    "message": "アクションへ移行 [?]"
+  },
+  "action_display_name_default_custom_function": {
+    "message": "カスタムスクリプト [?]"
+  },
+  "action_option_display_wait": {
+    "message": "待つ"
+  },
+  "action_option_display_start_stop_broadcast": {
+    "message": "配信を開始/停止"
+  },
+  "action_option_display_scene_change": {
+    "message": "シーンに変更"
+  },
+  "action_option_display_scene_transition_change": {
+    "message": "シーントランジションを設定"
+  },
+  "action_option_display_set_source_visibilty": {
+    "message": "ソース可視化を設定"
+  },
+  "action_option_display_playback_media": {
+    "message": "メディアソースプレイバック時間を設定"
+  },
+  "action_option_display_toggle_mute": {
+    "message": "オーディオソース再生時間を設定"
+  },
+  "action_option_display_run_macro": {
+    "message": "マクロ起動"
+  },
+  "action_option_display_stop_macro": {
+    "message": "マクロ停止"
+  },
+  "action_option_display_push_to_live": {
+    "message": "適応する"
+  },
+  "action_option_display_enable_disable_macro": {
+    "message": "マクロイベントリスナーを有効/無効にする"
+  },
+  "action_option_display_go_to_action": {
+    "message": "アクションへ移行"
+  },
+  "action_option_display_custom_function": {
+    "message": "カスタムスクリプト"
+  },
+  "action_presets_time": {
+    "message": "時間"
+  },
+  "action_presets_wait_until_done": {
+    "message": "終わるまで待つ"
+  },
+  "action_presets_custom_function_placeholder": {
+    "message": "スクリプトをここに入力してください...[br]スクリプトにはこれらのパラメーターが存在します (resolve, reject, xjs)。[br] カスタムアクションスクリプトは、解決するか拒否する必要があります。"
+  },
+  "action_presets_start": {
+    "message": "開始"
+  },
+  "action_presets_stop": {
+    "message": "停止"
+  },
+  "action_presets_show": {
+    "message": "表示"
+  },
+  "action_presets_hide": {
+    "message": "隠す"
+  },
+  "action_presets_toggle_visibility": {
+    "message": "可視化を切り替える"
+  },
+  "action_presets_play": {
+    "message": "再生"
+  },
+  "action_presets_pause": {
+    "message": "停止"
+  },
+  "action_presets_mute": {
+    "message": "ミュート"
+  },
+  "action_presets_unmute": {
+    "message": "ミュート解除"
+  },
+  "action_presets_toggle_audio": {
+    "message": "オーディオの状態を切り替える"
+  },
+  "action_presets_enable": {
+    "message": "有効"
+  },
+  "action_presets_disable": {
+    "message": "無効"
+  },
+  "condition_display_name_active_scene": {
+    "message": "%scene% が有効シーンの場合"
+  },
+  "condition_display_name_stream_source": {
+    "message": "%stream% が %state% の場合"
+  },
+  "condition_display_name_source_visibility": {
+    "message": "%videoItem% が %visibility% の場合"
+  },
+  "condition_display_name_media_state": {
+    "message": "%id% が %mediaState% の場合"
+  },
+  "condition_display_name_macro_state": {
+    "message": "%macro% が %state% の場合"
+  },
+  "condition_display_name_custom_function": {
+    "message": "カスタムコンディション (%customFunctionCondition%)"
+  },
+  "condition_display_name_default_active_scene": {
+    "message": "有効シーンを確認 [?]"
+  },
+  "condition_display_name_default_stream_source": {
+    "message": "配信ソースを確認 [?]"
+  },
+  "condition_display_name_default_source_visibility": {
+    "message": "ソース可視化を確認 [?]"
+  },
+  "condition_display_name_default_media_state": {
+    "message": "メディア状況を確認 [?]"
+  },
+  "condition_display_name_default_macro_state": {
+    "message": "マクロ状況を確認 [?]"
+  },
+  "condition_display_name_default_custom_function": {
+    "message": "カスタムコンディション [?]"
+  },
+  "condition_option_display_active_scene": {
+    "message": "有効シーンを確認"
+  },
+  "condition_option_display_stream_source": {
+    "message": "配信ソースを確認"
+  },
+  "condition_option_display_source_visibility": {
+    "message": "ソース可視化を確認"
+  },
+  "condition_option_display_media_state": {
+    "message": "メディア状況を確認"
+  },
+  "condition_option_display_macro_state": {
+    "message": "マクロ状況を確認"
+  },
+  "condition_option_display_custom_function": {
+    "message": "カスタムコンディション"
+  },
+  "condition_presets_online": {
+    "message": "オンライン"
+  },
+  "condition_presets_offline": {
+    "message": "オフライン"
+  },
+  "condition_presets_visible": {
+    "message": "表示"
+  },
+  "condition_presets_hidden": {
+    "message": "非表示"
+  },
+  "condition_presets_playing": {
+    "message": "再生中"
+  },
+  "condition_presets_not_playing": {
+    "message": "停止中"
+  },
+  "condition_presets_enabled": {
+    "message": "有効になっています"
+  },
+  "condition_presets_disabled": {
+    "message": "無効になっています"
+  },
+  "condition_presets_custom_function_placeholder": {
+    "message": "スクリプトをここに入力してください...[br]スクリプトにはこれらのパラメーターが存在します (resolve, reject, xjs, args, callFunctionArray)。[br] カスタムコンディションスクリプトは、かならず解決している必要があります。"
+  }
+}

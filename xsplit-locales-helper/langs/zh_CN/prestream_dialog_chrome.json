@@ -1,0 +1,314 @@
+{
+	"toptitle": {
+		"message": "管理计划现场视频"
+	},
+	"details": {
+		"message": "广播的详细信息"
+	},
+	"livevideo.label": {
+		"message": "现场视频"
+	},
+	"livevideo.tooltip": {
+		"message": "选择您想直播的方式。[br] [br] **新直播**-现在通过新的直播视频上直播[br] **预定**-广播到现有的预定直播视频"
+	},
+	"livevideovalues.0": {
+		"message": "新直播"
+	},
+	"scheduledvideovalues.new": {
+		"message": "新计划直播"
+	},
+	"delete": {
+		"message": "删除"
+	},
+	"stop": {
+		"message": "停止"
+	},
+	"status.label": {
+		"message": "状态"
+	},
+	"status.tooltip": {
+		"message": "设置您预定的直播. [br][br]**已设定**-自动开始运行数据到计划的开始时间. 你可以播放之前您的预览直播.[br]**直播** 开始时间-启动广播和直播. [br]**手动**- 预览您的广播和替换直播从预定到手动. 主要用于当你晚到了, 需要手动去预览广播在直播前, 注意, 手动永远不能再切换回原计划, 需要手动设置直播到 Facebook,"
+	},
+	"statusvalues.scheduled": {
+		"message": "计划"
+	},
+	"statusvalues.live": {
+		"message": "直播"
+	},
+	"statusvalues.manual": {
+		"message": "手动"
+	},
+	"title": {
+		"message": "标题"
+	},
+	"description": {
+		"message": "描述"
+	},
+	"tags.label": {
+		"message": "内容标签"
+	},
+	"tags.tooltip": {
+		"message": "标签可帮助使视频更容易发现. 他们不是对公众可见."
+	},
+	"videogame.label": {
+		"message": "电子游戏"
+	},
+	"videogame.tooltip": {
+		"message": "标记您将在Facebook上畅玩游戏的电子游戏。"
+	},
+	"checkin.label": {
+		"message": "位置签到"
+	},
+	"checkin.tooltip": {
+		"message": "你在广播的位置."
+	},
+	"privacy.label": {
+		"message": "隐私"
+	},
+	"privacy.tooltip": {
+		"message": "隐私范围可能为 XSplit 在你的 Facebook 应用程序设置的隐私上限所限制. 若要确保您可以控制隐私范围, 请确保您的隐私设置 XSplit 在你的 Facebook 应用程序设置为**公共**. [查看更多](https://xspl.it/fbxspriv)"
+	},
+	"privacyvalues.EVERYONE": {
+		"message": "公开"
+	},
+	"privacyvalues.ALL_FRIENDS": {
+		"message": "朋友"
+	},
+	"privacyvalues.SELF": {
+		"message": "只有我"
+	},
+	"pageaudience.label": {
+		"message": "页面观众"
+	},
+	"pageaudience.tooltip": {
+		"message": "选择要连接的人员的位置。"
+	},
+	"locations.label": {
+		"message": "位置"
+	},
+	"locations.tooltip": {
+		"message": "默认情况下, 设置为所有位置或您可以输入特定的国家的人们最想要联系你所在的位置."
+	},
+	"support.label": {
+		"message": "连续直播"
+	},
+	"support.tooltip": {
+		"message": "此选项允许您播放超过 4 小时, 但不是会生成记录你在你的 Facebook 上的实时流."
+	},
+	"manageschedule": {
+		"message": "管理计划现场视频"
+	},
+	"createschedule": {
+		"message": "创建计划直播"
+	},
+	"scheduledstart.label": {
+		"message": "计划开始"
+	},
+	"scheduledstart.tooltip": {
+		"message": "计划视频直播必须在你创建他们后的11分钟到7天(168小时) 内计划播放."
+	},
+	"customimage.label": {
+		"message": "自定义图像"
+	},
+	"customimage.tooltip": {
+		"message": "您可以添加自定义图像到直播公告."
+	},
+	"scheduleerror": {
+		"message": "无效计划"
+	},
+	"uploadimage": {
+		"message": "上传图片..."
+	},
+	"deleteimage": {
+		"message": "删除图像"
+	},
+	"errormessage": {
+		"message": "计划视频直播必须在你创建他们后的11分钟到7天(168小时) 内计划播放."
+	},
+	"addScheduleHeader": {
+		"message": "编辑计划"
+	},
+	"addSchedule": {
+		"message": "编辑计划"
+	},
+	"editSchedule": {
+		"message": "编辑计划"
+	},
+	"updateSchedule": {
+		"message": "编辑计划"
+	},
+	"start": {
+		"message": "开始广播"
+	},
+	"resume": {
+		"message": "恢复广播"
+	},
+	"ok": {
+		"message": "OK"
+	},
+	"cancel": {
+		"message": "取消"
+	},
+	"close": {
+		"message": "关闭"
+	},
+	"loading.create": {
+		"message": "创建视频直播..."
+	},
+	"loading.update": {
+		"message": "更新现场视频..."
+	},
+	"youtube.liveEvent.label": {
+		"message": "实况活动"
+	},
+	"youtube.liveEvent.tooltip": {
+		"message": "Select how you want to go live.[br][br]**New Live Event -** Create a new live event and go live[br]**Scheduled -** Select an existing live event.[br]**Live Now -** Resume an existing live now event"
+	},
+	"youtube.tags.label": {
+		"message": "标签"
+	},
+	"youtube.tags.tooltip": {
+		"message": "标签一些描述性关键字, 您可以将添加到您的视频, 以帮助人们找到你的内容. [br][br]使用逗号以分隔标记."
+	},
+	"youtube.category.label": {
+		"message": "分类"
+	},
+	"youtube.schedule": {
+		"message": "计划"
+	},
+	"youtube.noSchedule": {
+		"message": "没有直播计划"
+	},
+	"youtube.duration": {
+		"message": "持续时间"
+	},
+	"youtube.endSchedule": {
+		"message": "结束计划 (可选)"
+	},
+	"youtube.hours": {
+		"message": "小时"
+	},
+	"youtube.minutes": {
+		"message": "分钟"
+	},
+	"youtube.enable360.label": {
+		"message": "启用 360° 视频"
+	},
+	"youtube.enable360.title": {
+		"message": "启用 360° 视频"
+	},
+	"youtube.enable360.tooltip": {
+		"message": "设置360° 为你的直播视频. 启用这会让你的观众探索 360° 视频在所有的目录. [br][br] 低延迟实时流媒体不支持 360° 视频."
+	},
+	"youtube.enableLowLatency": {
+		"message": "启用低延迟时间"
+	},
+	"youtube.enableDvr": {
+		"message": "启动DVR"
+	},
+	"youtube.allowEmbed": {
+		"message": "允许嵌入"
+	},
+	"youtube.useBackupServer": {
+		"message": "使用备份服务器"
+	},
+	"youtube.manualTransition.label": {
+		"message": "手动过渡"
+	},
+	"youtube.manualTransition.tooltip": {
+		"message": "选中此选项可控制的状态你 broadast 从 YouTube 住控制面板. 如果未选中. XSplit 将自动过渡状态以\"直播\"后开始的广播和给选项\"完成\"后停止广播."
+	},
+	"youtube.liveEvent.values.scheduled": {
+		"message": "计划: 开始 %日期%-%标题%"
+	},
+	"youtube.liveEvent.values.liveNow": {
+		"message": "现在直播: 开始 %日期%-%标题%"
+	},
+	"youtube.liveEvent.defaults.new": {
+		"message": "新实况活动"
+	},
+	"youtube.category.values.1": {
+		"message": "电影& 动画"
+	},
+	"youtube.category.values.2": {
+		"message": "汽车&车辆"
+	},
+	"youtube.category.values.10": {
+		"message": "音乐"
+	},
+	"youtube.category.values.15": {
+		"message": "宠物&动物"
+	},
+	"youtube.category.values.17": {
+		"message": "体育"
+	},
+	"youtube.category.values.19": {
+		"message": "旅游&活动"
+	},
+	"youtube.category.values.20": {
+		"message": "游戏"
+	},
+	"youtube.category.values.22": {
+		"message": "人群&博客"
+	},
+	"youtube.category.values.23": {
+		"message": "喜剧"
+	},
+	"youtube.category.values.24": {
+		"message": "娱乐"
+	},
+	"youtube.category.values.25": {
+		"message": "新闻&政治"
+	},
+	"youtube.category.values.26": {
+		"message": "教程 & 风格"
+	},
+	"youtube.category.values.27": {
+		"message": "教育"
+	},
+	"youtube.category.values.28": {
+		"message": "科学与技术"
+	},
+	"youtube.category.values.29": {
+		"message": "非营利 &能动性"
+	},
+	"youtube.privacy.public": {
+		"message": "公开"
+	},
+	"youtube.privacy.unlisted": {
+		"message": "未收录"
+	},
+	"youtube.privacy.private": {
+		"message": "隐私"
+	},
+	"youtube.latency.label": {
+		"message": "延迟时间"
+	},
+	"youtube.latency.tooltip": {
+		"message": "**正常延迟**-最好的: 高质量观众播放和更高的分辨率. [br]**低-延迟**-最好为: 附近的实时交互与最小播放 缓冲. [br]**Ultra 低-延迟**-最好为: 实时互动.[br]**不支持**: 硬盘录像机, 关闭字幕, 1440 p 和 4 k 分辨率"
+	},
+	"youtube.latency.values.normal": {
+		"message": "正常延迟"
+	},
+	"youtube.latency.values.low": {
+		"message": "低延迟"
+	},
+	"youtube.latency.values.ultraLow": {
+		"message": "超低延迟"
+	},
+	"youtube.emptyTitle": {
+		"message": "标题不能为空."
+	},
+	"youtube.noEndSchedule": {
+		"message": "无结束计划"
+	},
+	"youtube.endScheduleInvalid": {
+		"message": "结束计划无效. 如果要添加结束计划, 请设置有效的日期和时间."
+	},
+	"youtube.endScheduleFuture": {
+		"message": "请选择将来的结束计划."
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "正在寻找建议..."
+	}
+}

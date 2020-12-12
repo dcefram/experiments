@@ -1,0 +1,86 @@
+{
+  "presentationPackager.info_text": {
+    "message": "Save your presentation as a self-contained <strong>BPRES</strong> file or export as a <strong>BPZIP</strong> file."
+  },
+  "presentationPackager.addtl_info": {
+    "message": "This is great for portability and lets you share your presentation easily."
+  },
+  "presentationPackager.export_as_bzip": {
+    "message": "Export as BPZIP file"
+  },
+  "presentationPackager.save_as": {
+    "message": "Save as..."
+  },
+  "presentationPackager.warning": {
+    "message": "Warning:"
+  },
+  "presentationPackager.warning_info": {
+    "message": "SWF and HTML dependencies such as external CSS and JavaScript files will not be included in the export process."
+  },
+  "presentationPackager.verify_presentation_files": {
+    "message": "Verify presentation files"
+  },
+  "presentationPackager.export": {
+    "message": "Export"
+  },
+  "presentationPackager.close": {
+    "message": "Close"
+  },
+  "presentationPackager.export_in_progress": {
+    "message": "Export in progress"
+  },
+  "presentationPackager.moving_files": {
+    "message": "Moving files "
+  },
+  "presentationPackager.cancel": {
+    "message": "Cancel"
+  },
+  "presentationPackager.validating_presentation_files": {
+    "message": "Validating presentation files"
+  },
+  "presentationPackager.dll_permission": {
+    "message": "Dll access is required. Please go to <span id='goToPermissions'>Permissions</span> and grant access for this extension in order to proceed."
+  },
+  "presentationPackager.export_successful": {
+    "message": "Export successful."
+  },
+  "presentationPackager.export_cancelled": {
+    "message": "Exporting cancelled."
+  },
+  "presentationPackager.validation_successful": {
+    "message": "Validation successful. "
+  },
+  "presentationPackager.no_missing_files": {
+    "message": "No reported missing file(s)."
+  },
+  "presentationPackager.invalidFields": {
+    "message": "Please provide valid filename and path. It must not contain &#92; &#47; &#58; &#8727; &#63; &#34; &#62; &#60; &#124; and should not end with a space or period(.)"
+  },
+  "presentationPackager.invalidReserved": {
+    "message": "Filename entered is a Windows reserved Word. Please provide another."
+  },
+  "presentationPackager.filenameTooLong": {
+    "message": "The filename and/or destination of your output file or any of your sources may be too long. You can shorten the filename or try a location that has a shorter path."
+  },
+  "presentationPackager.periodDetected": {
+    "message": "Please choose another file name, as having period/(s) within the filename is currently not supported."
+  },
+  "presentationPackager.destinationPresent": {
+    "message": "Destination file is already present. Would you like to overwrite file?"
+  },
+  "presentationPackager.error_report": {
+    "message": "reported missing file(s). It may have been renamed or deleted."
+  },
+  "presentationPackager.view_details": {
+    "message": "View details"
+  },
+  "presentationPackager.alert_ok": {
+    "message": "OK"
+  },
+  "presentationPackager.alert_yes": {
+    "message": "YES"
+  },
+  "presentationPackager.alert_no": {
+    "message": "NO"
+  }
+}

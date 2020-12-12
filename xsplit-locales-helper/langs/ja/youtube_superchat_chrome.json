@@ -1,0 +1,77 @@
+{
+	"youtube.superchat.tabheader": {
+		"message": "アラート"
+	},
+	"youtube.superchat.source": {
+		"message": "ソース"
+	},
+	"youtube.superchat.account": {
+		"message": "アカウント"
+	},
+	"youtube.superchat.preview": {
+		"message": "プレビュー"
+	},
+	"youtube.superchat.account_automatic": {
+		"message": "自動"
+	},
+	"youtube.superchat.authorize": {
+		"message": "XSplitに対してYouTube Liveの使用を許可します。"
+	},
+	"youtube.superchat.remove_authorization": {
+		"message": "**%api%** 認証取り消し"
+	},
+	"youtube.superchat.switch_account": {
+		"message": "**%api%** アカウントを切り替える"
+	},
+	"youtube.superchat.not_connected": {
+		"message": "配信が始まると自動的にウィジェットが接続されます"
+	},
+	"youtube.superchat.connected": {
+		"message": "接続しました。"
+	},
+	"youtube.superchat.error_channel_not_found": {
+		"message": "有効のチャンネルを入力してください。"
+	},
+	"youtube.superchat.notification": {
+		"message": "通知"
+	},
+	"youtube.superchat.lock_components": {
+		"message": "ロックコンポーネント"
+	},
+	"youtube.superchat.lock_components_help": {
+		"message": "このオプションを有効にするとコンポーネントのマウスホバー、位置調整、サイズ変更などが出来なくなります。[br] 特に配信中やレコーディング中にこれらの機能を無効にしたい場合はこのオプションを有効にしてください。"
+	},
+	"youtube.superchat.show_ticker": {
+		"message": "ティッカーを表示"
+	},
+	"youtube.superchat.show_alert": {
+		"message": "Show Alert"
+	},
+	"youtube.superchat.opacity": {
+		"message": "透明度"
+	},
+	"youtube.superchat.font": {
+		"message": "フォント"
+	},
+	"youtube.superchat.text_size": {
+		"message": "テキストサイズ"
+	},
+	"youtube.superchat.hide_message": {
+		"message": "スーパーチャットメッセージを非表示"
+	},
+	"youtube.superchat.duration": {
+		"message": "期間"
+	},
+	"youtube.superchat.sound": {
+		"message": "音"
+	},
+	"youtube.superchat.test_alert": {
+		"message": "アラートテスト"
+	},
+	"youtube.superchat.loggingInTo": {
+		"message": "YouTubeにログイン中..."
+	},
+	"youtube.superchat.pleaseComplete": {
+		"message": "ブラウザからログインを完了させてください"
+	}
+}

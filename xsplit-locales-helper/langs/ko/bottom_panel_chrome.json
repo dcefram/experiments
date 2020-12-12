@@ -1,0 +1,89 @@
+{
+  "scene_label": {
+    "message": "장면"
+  },
+  "add_source": {
+    "message": "소스 추가"
+  },
+  "copy": {
+    "message": "복사"
+  },
+  "paste": {
+    "message": "붙여넣기"
+  },
+  "remove": {
+    "message": "제거"
+  },
+  "rename": {
+    "message": "파일명 변경"
+  },
+  "settings": {
+    "message": "설정"
+  },
+  "group": {
+    "message": "소스 그룹"
+  },
+  "lock": {
+    "message": "위치 고정"
+  },
+  "fit": {
+    "message": "전체 화면"
+  },
+  "restore": {
+    "message": "기본값 복원"
+  },
+  "move_up": {
+    "message": "소스를 위로"
+  },
+  "move_down": {
+    "message": "소스를 밑으로"
+  },
+  "mute_mic": {
+    "message": "기본 마이크 음소거/활성화"
+  },
+  "mute_spk": {
+    "message": "기본 스피커 음소거/활성화"
+  },
+  "open_mixer": {
+    "message": "오디오 레벨 조절"
+  },
+  "transition_label": {
+    "message": "장면 전환"
+  },
+  "transition_menu": {
+    "message": "장면 전환 스타일과 속도 설정"
+  },
+  "add_favorite": {
+    "message": "선택한 트랜지션 즐겨찾기"
+  },
+  "open_favorite": {
+    "message": "즐겨찾는 장면전환 열기"
+  },
+  "push_live": {
+    "message": "생방송 송출"
+  },
+  "push_live_menu": {
+    "message": "송출 내보내기"
+  },
+  "stream": {
+    "message": "방송송출"
+  },
+  "record": {
+    "message": "녹화"
+  },
+  "pause_recording": {
+    "message": "녹화 일시정지"
+  },
+  "resume_recording": {
+    "message": "녹화 재개"
+  },
+  "screenshot": {
+    "message": "스크린샷"
+  },
+  "empty_channel": {
+    "message": "이곳이 비어있네요.<br/><br/>송출 버튼을 클릭하여 첫 방송 플랫폼을 추가해보세요."
+  },
+  "empty_list": {
+    "message": "아직 비어있는 공간입니다.<br/>아래 버튼을 클릭하여 첫번재 소스를 추가해보세요."
+  }
+}

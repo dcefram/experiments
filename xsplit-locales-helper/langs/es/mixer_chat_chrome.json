@@ -1,0 +1,95 @@
+{
+	"mixer.chat.tabheader": {
+		"message": "Chat"
+	},
+	"mixer.chat.source": {
+		"message": "Fuente"
+	},
+	"mixer.chat.not_connected": {
+		"message": "No conectado"
+	},
+	"mixer.chat.connected": {
+		"message": "Conectado"
+	},
+	"mixer.chat.channel": {
+		"message": "Canal"
+	},
+	"mixer.chat.connect": {
+		"message": "Conectar"
+	},
+	"mixer.chat.disconnect": {
+		"message": "Desconectar"
+	},
+	"mixer.chat.invalid.channel": {
+		"message": "Proporciona un canal válido."
+	},
+	"mixer.chat.display": {
+		"message": "Pantalla"
+	},
+	"mixer.chat.preview": {
+		"message": "Previsualización"
+	},
+	"mixer.chat.chat_box": {
+		"message": "Chat Box"
+	},
+	"mixer.chat.opacity": {
+		"message": "Opacidad"
+	},
+	"mixer.chat.viewers": {
+		"message": "Espectadores"
+	},
+	"mixer.chat.message": {
+		"message": "Mensaje"
+	},
+	"mixer.chat.text_size": {
+		"message": "Tamaño del texto"
+	},
+	"mixer.chat.pixel_unit": {
+		"message": "px"
+	},
+	"mixer.chat.default_color": {
+		"message": "Utiliza los colores del chat de Mixer"
+	},
+	"mixer.chat.hide_user_icons": {
+		"message": "Ocultar los iconos de usuario"
+	},
+	"mixer.chat.hide_timestamp": {
+		"message": "Ocultar las marcas de tiempo"
+	},
+	"mixer.chat.hide_on_idle": {
+		"message": "Ocultar el chat cuando esté inactivo durante"
+	},
+	"mixer.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"mixer.chat.blocking": {
+		"message": "Bloqueo"
+	},
+	"mixer.chat.blockedlist": {
+		"message": "Lista de bloqueados"
+	},
+	"mixer.chat.block_help": {
+		"message": "Puedes bloquear a los espectadores agregando su nombre o su nombre de usuario (incluyendo los bots, si aplica) en la lista de bloqueados para que sus mensajes no aparezcan en el chat.[br][br]Esta lista de bloqueados no está conectada con la lista de bloqueados de tu canal. Solo funciona para esta fuente de chat."
+	},
+	"mixer.chat.blocking_name": {
+		"message": "Introduce el nombre o el nombre de usuario del espectador que deseas bloquear."
+	},
+	"mixer.chat.block_name": {
+		"message": "Nombre"
+	},
+	"mixer.chat.block_add": {
+		"message": "Añadir"
+	},
+	"mixer.chat.block_remove": {
+		"message": "Eliminar"
+	},
+	"mixer.chat.account": {
+		"message": "Cuenta"
+	},
+	"mixer.chat.authorize": {
+		"message": "Authorize XSplit to use Mixer"
+	},
+	"mixer.chat.remove_authorization": {
+		"message": "%api%** Eliminar autorización"
+	}
+}

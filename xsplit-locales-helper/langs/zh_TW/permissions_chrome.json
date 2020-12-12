@@ -1,0 +1,35 @@
+{
+	"title": {
+		"message": "XSplit Broadcaster - 許可權"
+	},
+	"header": {
+		"message": "以下的來源和擴展請求您的許可才能執行腳本, 可能對您的電腦有害."
+	},
+	"hide_permission_alerts": {
+		"message": "隱藏許可權警報"
+	},
+	"column1": {
+		"message": "突出顯示新的許可權請求"
+	},
+	"column2": {
+		"message": "在選中允許訪問"
+	},
+	"sources": {
+		"message": "資源"
+	},
+	"extensions": {
+		"message": "擴展"
+	},
+	"footer": {
+		"message": "請注意僅允許來自受信任來源的訪問. 一個惡意腳本可以損害您的電腦中以各種方式."
+	},
+	"button.ok": {
+		"message": "OK"
+	},
+	"button.cancel": {
+		"message": "取消"
+	},
+	"button.apply": {
+		"message": "適用"
+	}
+}

@@ -1,0 +1,173 @@
+{
+  "title.content": {
+    "message": "コンテンツ"
+  },
+  "title.use_custom_script": {
+    "message": "カスタムスクリプトを使用する"
+  },
+  "title.edit_script": {
+    "message": "スクリプトを編集する"
+  },
+  "title.format": {
+    "message": "Format"
+  },
+  "title.font": {
+    "message": "フォント"
+  },
+  "title.color": {
+    "message": "色"
+  },
+  "title.outline": {
+    "message": "アウトライン"
+  },
+  "title.opacity": {
+    "message": "透明度"
+  },
+  "title.style": {
+    "message": "スタイル"
+  },
+  "title.align": {
+    "message": "位置を揃える"
+  },
+  "title.shadow": {
+    "message": "影"
+  },
+  "title.distance": {
+    "message": "距離"
+  },
+  "title.blur": {
+    "message": "ぼかし"
+  },
+  "title.angle": {
+    "message": "角度"
+  },
+  "title.animation": {
+    "message": "アニメーション"
+  },
+  "title.none": {
+    "message": "なし"
+  },
+  "title.scroll": {
+    "message": "スクロール"
+  },
+  "title.fade": {
+    "message": "フェード"
+  },
+  "title.scrolling": {
+    "message": "スクロール"
+  },
+  "title.line_limit": {
+    "message": "行の上限"
+  },
+  "title.direction": {
+    "message": "方向"
+  },
+  "title.speed": {
+    "message": "速度"
+  },
+  "title.scroll_units": {
+    "message": "ピクセル/秒"
+  },
+  "title.delimeter": {
+    "message": "デリミター"
+  },
+  "title.interval": {
+    "message": "インターバル"
+  },
+  "title.fade_speed": {
+    "message": "フェード速度"
+  },
+  "title.enable_60_fps": {
+    "message": "60FPSまで有効にする"
+  },
+  "title.enable_60_fps_tooltip": {
+    "message": "追加のGPU/CPUが必要となるかもしれません。このオプションを有効にする事でソースがリフレッシュされます。最高のパフォーマンスの為にはブラウザーソース最適化を有効にしてください。【ツール→設定→高度】"
+  },
+  "title.ok": {
+    "message": "OK"
+  },
+  "title.cancel": {
+    "message": "キャンセル"
+  },
+  "title.hint.content_section": {
+    "message": "こちらにテキストを入力ください。 &amp;lt;br&amp;gt; を使用して改行する事ができます。BBcodeを使用してテキストをフォーマットする事ができます。詳細は[こちら](https://xspl.it/bbcode) をクリックしてください。"
+  },
+  "title.deprecated_scripts": {
+    "message": "このテキストソースには、一部非推奨のスクリプトメソッドが含まれています。次の手順を行うことにより、スクリプトを更新することができます。[br]1. テキストタブ内の「スクリプトを編集する」ボタンをクリック[br]2. スクリプトテンプレートを選択し、「テキストを更新する」ボタンを押下"
+  },
+  "title.outdated_scripts": {
+    "message": "このテキストソースには、古いスクリプトが含まれている恐れがあります。次の手順を行うことにより、スクリプトを更新することができます。[br]1. テキストタブ内の「スクリプトを編集する」ボタンをクリック[br]2. スクリプトテンプレートを選択し、必要な設定を行った後で「テキストを更新する」ボタンを押下"
+  },
+  "title.script_editor.edit_script": {
+    "message": "スクリプトを編集 - "
+  },
+  "title.script_editor.title": {
+    "message": "スクリプト"
+  },
+  "title.script_editor.template": {
+    "message": "テンプレート"
+  },
+  "title.script_editor.settings": {
+    "message": "セッティング"
+  },
+  "title.script_editor.script": {
+    "message": "スクリプト"
+  },
+  "title.script_editor.back": {
+    "message": "戻る"
+  },
+  "title.script_editor.update_title": {
+    "message": "テキストを更新する"
+  },
+  "title.help.outline_title": {
+    "message": "テキストソースにアウトラインを使用する"
+  },
+  "title.help.outline_message": {
+    "message": "アウトラインを使用する場合は、フォントサイズが制限されます。ステージでテキストソースのサイズを調整することができます。ただし、テキストの調整は最大フォントサイズまでとなります。"
+  },
+  "title.help.pause_script_title": {
+    "message": "スクリプトの実行を一時停止/再開する"
+  },
+  "title.help.pause_script_message": {
+    "message": "汎用時計スクリプトのタイマーモードや時間モード、その他のカスタムスクリプトなど、サポートされているスクリプトを一時停止/実行することができます。"
+  },
+  "title.help.delimeter_title": {
+    "message": "デリミター"
+  },
+  "title.help.delimeter_message": {
+    "message": "デリミターとは、文字または文章などをセットに区切り、フェードエフェクトで表示させる為の文字の事です。"
+  },
+  "title.help.interval_title": {
+    "message": "インターバル"
+  },
+  "title.help.interval_message": {
+    "message": "インターバルとは次のテキストがフェードエフェクトで表示される前の時間の事です。"
+  },
+  "title.pause_hotkey": {
+    "message": "ステージでソースを選択した場合、ホットキー（「P」を押下）を使ってサポートされているスクリプトを一時停止/実行することができます。"
+  },
+  "title.direction_options_right_to_left": {
+    "message": "右から左へ"
+  },
+  "title.direction_options_left_to_right": {
+    "message": "左から右へ"
+  },
+  "title.direction_options_bottom_to_top": {
+    "message": "下から上へ"
+  },
+  "title.direction_options_top_to_bottom": {
+    "message": "上から下へ"
+  },
+  "title.outline_options_none": {
+    "message": "なし"
+  },
+  "title.outline_options_thin": {
+    "message": "薄い"
+  },
+  "title.outline_options_thick": {
+    "message": "太い"
+  },
+  "title.outline_options_thickest": {
+    "message": "最大太さ"
+  }
+}

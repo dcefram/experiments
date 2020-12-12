@@ -1,0 +1,95 @@
+{
+	"twitch.alert.tabheader": {
+		"message": "crwdns80240:0crwdne80240:0"
+	},
+	"twitch.alert.source": {
+		"message": "crwdns80242:0crwdne80242:0"
+	},
+	"twitch.alert.account": {
+		"message": "crwdns80244:0crwdne80244:0"
+	},
+	"twitch.alert.authorize": {
+		"message": "crwdns80246:0crwdne80246:0"
+	},
+	"twitch.alert.remove_authorization": {
+		"message": "crwdns80248:0%api%crwdne80248:0"
+	},
+	"twitch.alert.switch_account": {
+		"message": "crwdns80250:0%api%crwdne80250:0"
+	},
+	"twitch.alert.not_connected": {
+		"message": "crwdns80252:0crwdne80252:0"
+	},
+	"twitch.alert.connected": {
+		"message": "crwdns80254:0crwdne80254:0"
+	},
+	"twitch.alert.connect": {
+		"message": "crwdns80256:0crwdne80256:0"
+	},
+	"twitch.alert.disconnect": {
+		"message": "crwdns80258:0crwdne80258:0"
+	},
+	"twitch.alert.alertLabel": {
+		"message": "crwdns80260:0crwdne80260:0"
+	},
+	"twitch.alert.animation_text": {
+		"message": "crwdns80262:0crwdne80262:0"
+	},
+	"twitch.alert.duration": {
+		"message": "crwdns80264:0crwdne80264:0"
+	},
+	"twitch.alert.delay": {
+		"message": "crwdns80266:0crwdne80266:0"
+	},
+	"twitch.alert.animateIn": {
+		"message": "crwdns80268:0crwdne80268:0"
+	},
+	"twitch.alert.animateOut": {
+		"message": "crwdns80270:0crwdne80270:0"
+	},
+	"twitch.alert.audio": {
+		"message": "crwdns80272:0crwdne80272:0"
+	},
+	"twitch.alert.generalHeader": {
+		"message": "crwdns80274:0crwdne80274:0"
+	},
+	"twitch.alert.customizeHeader": {
+		"message": "crwdns80276:0crwdne80276:0"
+	},
+	"twitch.alert.theme": {
+		"message": "crwdns80278:0crwdne80278:0"
+	},
+	"twitch.alert.minMonth": {
+		"message": "crwdns80280:0crwdne80280:0"
+	},
+	"twitch.alert.minViewers": {
+		"message": "crwdns80282:0crwdne80282:0"
+	},
+	"twitch.alert.minCheer": {
+		"message": "crwdns80284:0crwdne80284:0"
+	},
+	"twitch.alert.type": {
+		"message": "crwdns80286:0crwdne80286:0"
+	},
+	"twitch.alert.nameStyleAndSettings": {
+		"message": "crwdns80288:0crwdne80288:0"
+	},
+	"twitch.alert.sound": {
+		"message": "crwdns80290:0crwdne80290:0"
+	},
+	"twitch.alert.show_alert": {
+		"message": "crwdns80292:0crwdne80292:0"
+	},
+	"twitch.alert.hide_alert": {
+		"message": "crwdns80294:0crwdne80294:0"
+	},
+	"twitch.alert.test_alert": {
+		"message": "crwdns80296:0crwdne80296:0"
+	},
+	"twitch.alert.Color": {
+		"message": "crwdns80298:0crwdne80298:0"
+	},
+	"twitch.alert.layout": {
+		"message": "crwdns80300:0crwdne80300:0"
+	}
+}

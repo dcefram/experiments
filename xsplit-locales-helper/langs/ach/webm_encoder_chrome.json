@@ -1,0 +1,74 @@
+{
+  "webm_encoder.info_text": {
+    "message": "crwdns162312:0crwdne162312:0"
+  },
+  "webm_encoder.source": {
+    "message": "crwdns162314:0crwdne162314:0"
+  },
+  "webm_encoder.source_description": {
+    "message": "crwdns162316:0crwdne162316:0"
+  },
+  "webm_encoder.destination": {
+    "message": "crwdns162318:0crwdne162318:0"
+  },
+  "webm_encoder.reset_output_folder": {
+    "message": "crwdns162320:0crwdne162320:0"
+  },
+  "webm_encoder.show_advanced_settings": {
+    "message": "crwdns162322:0crwdne162322:0"
+  },
+  "webm_encoder.frame_rate_settings": {
+    "message": "crwdns162324:0crwdne162324:0"
+  },
+  "webm_encoder.video_bit_rate": {
+    "message": "crwdns162326:0crwdne162326:0"
+  },
+  "webm_encoder.audio_bit_rate": {
+    "message": "crwdns162328:0crwdne162328:0"
+  },
+  "webm_encoder.key_frame_interval": {
+    "message": "crwdns162330:0crwdne162330:0"
+  },
+  "webm_encoder.transition_point": {
+    "message": "crwdns162332:0crwdne162332:0"
+  },
+  "webm_encoder.disable_audio": {
+    "message": "crwdns162334:0crwdne162334:0"
+  },
+  "webm_encoder.convert_webm": {
+    "message": "crwdns162336:0crwdne162336:0"
+  },
+  "webm_encoder.close": {
+    "message": "crwdns162338:0crwdne162338:0"
+  },
+  "webm_encoder.converting": {
+    "message": "crwdns162340:0crwdne162340:0"
+  },
+  "webm_encoder.cancel": {
+    "message": "crwdns162342:0crwdne162342:0"
+  },
+  "webm_encoder.checking_video": {
+    "message": "crwdns162344:0crwdne162344:0"
+  },
+  "webm_encoder.ok": {
+    "message": "crwdns162346:0crwdne162346:0"
+  },
+  "webm_encoder.title": {
+    "message": "crwdns162348:0crwdne162348:0"
+  },
+  "webm_encoder.alert_yes": {
+    "message": "crwdns162350:0crwdne162350:0"
+  },
+  "webm_encoder.alert_no": {
+    "message": "crwdns162352:0crwdne162352:0"
+  },
+  "webm_encoder.save_as": {
+    "message": "crwdns162354:0crwdne162354:0"
+  },
+  "webm_encoder.try_again": {
+    "message": "crwdns162356:0crwdne162356:0"
+  },
+  "webm_encoder.dll_permission": {
+    "message": "crwdns162358:0crwdne162358:0"
+  }
+}

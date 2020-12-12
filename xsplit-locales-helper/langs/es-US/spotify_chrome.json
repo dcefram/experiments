@@ -1,0 +1,38 @@
+{
+  "spotify.tabheader": {
+    "message": "Spotify: Now Playing"
+  },
+  "spotify.content": {
+    "message": "Contenido"
+  },
+  "spotify.auth": {
+    "message": "Authorize XSplit to use Spotify"
+  },
+  "spotify.log_out": {
+    "message": "Cerrar sesión"
+  },
+  "spotify.appearance": {
+    "message": "Aspecto"
+  },
+  "spotify.dark_mode": {
+    "message": "Dark Mode"
+  },
+  "spotify.light_mode": {
+    "message": "Light Mode"
+  },
+  "spotify.opacity": {
+    "message": "Opacidad"
+  },
+  "spotify.show_album": {
+    "message": "Show album art"
+  },
+  "spotify.now_playing": {
+    "message": "NOW PLAYING"
+  },
+  "spotify.not_connected": {
+    "message": "No Spotify account connected"
+  },
+  "spotify.right_click_login": {
+    "message": "Right click to login"
+  }
+}

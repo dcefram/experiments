@@ -1,0 +1,68 @@
+{
+  "gamepad.tabheader": {
+    "message": "게임패드 표시"
+  },
+  "gamepad.source": {
+    "message": "소스"
+  },
+  "gamepad.device": {
+    "message": "장치"
+  },
+  "gamepad.no_device": {
+    "message": "선택된 장치가 없습니다"
+  },
+  "gamepad.appearance": {
+    "message": "외관"
+  },
+  "gamepad.joystick_input": {
+    "message": "조이스틱 입력"
+  },
+  "gamepad.face_buttons": {
+    "message": "버튼"
+  },
+  "gamepad.remap_inputs": {
+    "message": "입력 값 편집"
+  },
+  "gamepad.cancel_remap": {
+    "message": "입력 값 편집 취소"
+  },
+  "gamepad.reset_default": {
+    "message": "기본값 복원"
+  },
+  "gamepad.reset": {
+    "message": "재설정"
+  },
+  "gamepad.skin": {
+    "message": "스킨"
+  },
+  "gamepad.joystick_color_light": {
+    "message": "밝음"
+  },
+  "gamepad.joystick_color_dark": {
+    "message": "어두운"
+  },
+  "gamepad.skin_ms_style": {
+    "message": "엑박 스타일"
+  },
+  "gamepad.skin_ps_style": {
+    "message": "플스 스타일"
+  },
+  "gamepad.skin_8_button": {
+    "message": "8버튼 아케이드"
+  },
+  "gamepad.skin_6_button": {
+    "message": "6버튼 아케이드"
+  },
+  "gamepad.skin_hitbox": {
+    "message": "히트박스 스타일"
+  },
+  "gamepad.skin_wasd": {
+    "message": "WASD 스타일"
+  },
+  "gamepad.waiting_for_input": {
+    "message": "입력 값 대기중"
+  },
+  "gamepad.press_any_button": {
+    "message": "컨트롤러 아무 버튼을 누르세요"
+  }
+}

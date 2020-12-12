@@ -1,0 +1,65 @@
+{
+  "sceneSwitcher.inactive": {
+    "message": "crwdns162232:0crwdne162232:0"
+  },
+  "sceneSwitcher.start_scene_switcher": {
+    "message": "crwdns162234:0crwdne162234:0"
+  },
+  "sceneSwitcher.stop_scene_switcher": {
+    "message": "crwdns162236:0crwdne162236:0"
+  },
+  "sceneSwitcher.general_info": {
+    "message": "crwdns162238:0crwdne162238:0"
+  },
+  "sceneSwitcher.start_stop_hotkey": {
+    "message": "crwdns162240:0crwdne162240:0"
+  },
+  "sceneSwitcher.start_stop_hotkey_tooltip": {
+    "message": "crwdns162242:0crwdne162242:0"
+  },
+  "sceneSwitcher.hotkey_permission": {
+    "message": "crwdns162244:0crwdne162244:0"
+  },
+  "sceneSwitcher.hotkey_warning": {
+    "message": "crwdns162246:0crwdne162246:0"
+  },
+  "sceneSwitcher.no_window_match": {
+    "message": "crwdns162248:0crwdne162248:0"
+  },
+  "sceneSwitcher.dont_switch_radio": {
+    "message": "crwdns162250:0crwdne162250:0"
+  },
+  "sceneSwitcher.switch_to_radio": {
+    "message": "crwdns162252:0crwdne162252:0"
+  },
+  "sceneSwitcher.none": {
+    "message": "crwdns162254:0crwdne162254:0"
+  },
+  "sceneSwitcher.switch_period": {
+    "message": "crwdns162256:0crwdne162256:0"
+  },
+  "sceneSwitcher.switch_period_tooltip": {
+    "message": "crwdns162258:0crwdne162258:0"
+  },
+  "sceneSwitcher.advance_mode": {
+    "message": "crwdns162260:0crwdne162260:0"
+  },
+  "sceneSwitcher.advance_mode_header": {
+    "message": "crwdns162262:0crwdne162262:0"
+  },
+  "sceneSwitcher.advance_mode_details": {
+    "message": "crwdns162264:0crwdne162264:0"
+  },
+  "sceneSwitcher.custom_rules": {
+    "message": "crwdns162266:0crwdne162266:0"
+  },
+  "sceneSwitcher.custom_rules_add": {
+    "message": "crwdns162268:0crwdne162268:0"
+  },
+  "sceneSwitcher.custom_rules_remove": {
+    "message": "crwdns162270:0crwdne162270:0"
+  },
+  "sceneSwitcher.custom_rules_edit": {
+    "message": "crwdns162272:0crwdne162272:0"
+  }
+}

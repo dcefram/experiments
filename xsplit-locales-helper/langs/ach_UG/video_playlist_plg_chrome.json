@@ -1,0 +1,65 @@
+{
+  "video_playlist.audio_output": {
+    "message": "crwdns6961:0crwdne6961:0"
+  },
+  "video_playlist.playback": {
+    "message": "crwdns6962:0crwdne6962:0"
+  },
+  "video_playlist.when_finished": {
+    "message": "crwdns6963:0crwdne6963:0"
+  },
+  "video_playlist.start_on_load": {
+    "message": "crwdns13989:0crwdne13989:0"
+  },
+  "video_playlist.remember_playback_position": {
+    "message": "crwdns6965:0crwdne6965:0"
+  },
+  "video_playlist.show_playback_position": {
+    "message": "crwdns6966:0crwdne6966:0"
+  },
+  "video_playlist.start_at": {
+    "message": "crwdns6967:0crwdne6967:0"
+  },
+  "video_playlist.set": {
+    "message": "crwdns6968:0crwdne6968:0"
+  },
+  "video_playlist.end_at": {
+    "message": "crwdns6969:0crwdne6969:0"
+  },
+  "video_playlist.reset": {
+    "message": "crwdns6970:0crwdne6970:0"
+  },
+  "video_playlist.force_deinterlace": {
+    "message": "crwdns6971:0crwdne6971:0"
+  },
+  "video_playlist.videos": {
+    "message": "crwdns6972:0crwdne6972:0"
+  },
+  "video_playlist.playlist": {
+    "message": "crwdns6973:0crwdne6973:0"
+  },
+  "video_playlist.add": {
+    "message": "crwdns6974:0crwdne6974:0"
+  },
+  "video_playlist.remove": {
+    "message": "crwdns6975:0crwdne6975:0"
+  },
+  "video_playlist.ok": {
+    "message": "crwdns6976:0crwdne6976:0"
+  },
+  "video_playlist.cancel": {
+    "message": "crwdns6977:0crwdne6977:0"
+  },
+  "video_playlist.hint.videos_section": {
+    "message": "crwdns13990:0crwdne13990:0"
+  },
+  "video_playlist.hint.video_playback_section": {
+    "message": "crwdns9708:0crwdne9708:0"
+  },
+  "video_playlist.hint.video_missing": {
+    "message": "crwdns14846:0crwdne14846:0"
+  },
+  "video_playlist.processing": {
+    "message": "crwdns6978:0crwdne6978:0"
+  }
+}

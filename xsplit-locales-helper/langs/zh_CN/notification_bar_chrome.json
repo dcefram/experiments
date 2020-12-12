@@ -1,0 +1,59 @@
+{
+  "COUNTER": {
+    "message": "(%count%/%total%)"
+  },
+  "IN_GAME_HUD.text": {
+    "message": "试试我们新的游戏HUD！ 只需按下ALT +`，即可通过游戏捕获播放添加到场景中的任何游戏。"
+  },
+  "UI_UPDATE_ANNOUNCEMENT.text": {
+    "message": "**欢迎来到XBC 3.9！**我们为您提供了更多新功能。"
+  },
+  "UI_UPDATE_ANNOUNCEMENT.link": {
+    "message": "[了解更多](%url%)"
+  },
+  "REQUEST_PERMISSION.label": {
+    "message": "权限"
+  },
+  "REQUEST_PERMISSION.text": {
+    "message": "一个或多个您的来源或扩展请求执行脚本的权限"
+  },
+  "REQUEST_PERMISSION.link": {
+    "message": "[编辑许可]（editAccess）"
+  },
+  "PLUGINS_UPDATE.label": {
+    "message": "您的插件已更新！"
+  },
+  "PLUGINS_UPDATE.link": {
+    "message": "[显示更新](PLUGINS_UPDATE)"
+  },
+  "NEW_CRISP_MESSAGE.label": {
+    "message": "支持"
+  },
+  "NEW_CRISP_MESSAGE.link": {
+    "message": "[开放信息](openCrispChat)"
+  },
+  "NEW_CRISP_MESSAGE.file": {
+    "message": "您已收到一个新文件"
+  },
+  "NEW_CRISP_MESSAGE.single": {
+    "message": "您有％count％条新讯息"
+  },
+  "NEW_CRISP_MESSAGE.multiple": {
+    "message": "您有％count％条新讯息"
+  },
+  "IDENTIFY_GAMES.label": {
+    "message": "游戏跟踪"
+  },
+  "IDENTIFY_GAMES.text": {
+    "message": "帮助我们识别您捕获的游戏, 以便我们能够提供更好的支持."
+  },
+  "IDENTIFY_GAMES.link": {
+    "message": "[选择游戏](identifyGames)"
+  },
+  "WINDOWS_GAMEBAR.text": {
+    "message": "**Windows游戏模式**系统启用。 这可能会导致直播出现性能问题。"
+  },
+  "EXTENSION_RUNNING_IN_BACKGROUND.text": {
+    "message": "％name％现在正在后台运行。 您可以通过单击“扩展”菜单中的齿轮[GEAR]（ICON-GEAR）图标来重新配置其设置。"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "facebook.reactions.counter.tabheader": {
+    "message": "Reaktionen"
+  },
+  "facebook.reactions.counter.source": {
+    "message": "Quelle"
+  },
+  "facebook.reactions.counter.account": {
+    "message": "Konto"
+  },
+  "facebook.reactions.counter.automatic": {
+    "message": "Automatisch"
+  },
+  "facebook.reactions.counter.authorize": {
+    "message": "XSplit autorisieren, Facebook Live zu verwenden"
+  },
+  "facebook.reactions.counter.remove_authorization": {
+    "message": "**%api%** Autorisierung entfernen"
+  },
+  "facebook.reactions.counter.switch_account": {
+    "message": "**%api%** Konto wechseln"
+  },
+  "facebook.reactions.counter.error_auth": {
+    "message": "Bitte versuchen Sie erneut zu autorisieren und gewähren Sie den Zugriff auf alle Berechtigungen, die von XSplit für diese Funktionalität benötigt werden"
+  },
+  "facebook.reactions.counter.not_connected": {
+    "message": "Reaktionen werden automatisch geladen, sobald Stream live ist"
+  },
+  "facebook.reactions.counter.connected": {
+    "message": "Verbunden"
+  },
+  "facebook.reactions.counter.display": {
+    "message": "Anzeige"
+  },
+  "facebook.reactions.counter.lock_components": {
+    "message": "Komponenten fixieren"
+  },
+  "facebook.reactions.counter.lock_components_text": {
+    "message": "Aktivieren dieser Option wird das Bewegen der Maus über Komponenten, deren Repositionierung und Größenänderung deaktivieren.[br][br]Vergewissern Sie sich, ob Sie wirklich kein Bewegen der Maus auf den Komponenten anzeigen möchten, insbesondere beim Streamen oder Aufzeichnen."
+  },
+  "facebook.reactions.counter.type": {
+    "message": "Typ"
+  },
+  "facebook.reactions.counter.show_reactions_labels": {
+    "message": "Reaktionen und Beschriftungen anzeigen"
+  },
+  "facebook.reactions.counter.reset": {
+    "message": "Zurücksetzen"
+  },
+  "facebook.reactions.counter.counter_background": {
+    "message": "Zähler-HG"
+  },
+  "facebook.reactions.counter.opacity": {
+    "message": "Deckkraft"
+  },
+  "facebook.reactions.counter.counter": {
+    "message": "Zähler"
+  },
+  "facebook.reactions.counter.label": {
+    "message": "Beschriftung"
+  },
+  "facebook.reactions.counter.dropdown.type.poll": {
+    "message": "Reaktionen-Umfrage"
+  },
+  "facebook.reactions.counter.dropdown.type.counter": {
+    "message": "Reaktionen-Zähler"
+  },
+  "facebook.reactions.hide_connection_message": {
+    "message": "Verbindungsmeldungen ausblenden"
+  },
+  "facebook.reactions.not_seeing_videos": {
+    "message": "Ihr Live-Video wird nicht angezeigt?"
+  },
+  "facebook.reactions.not_seeing_videos_help": {
+    "message": "Sie haben uns eventuell keine Berechtigung für den Zugriff auf einige der Live-Videos Ihrer Seite erteilt."
+  },
+  "facebook.reactions.not_seeing_videos_link": {
+    "message": "Klicken Sie hier, um erneut zu autorisieren"
+  }
+}

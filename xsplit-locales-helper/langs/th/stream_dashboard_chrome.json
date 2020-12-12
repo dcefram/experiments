@@ -1,0 +1,38 @@
+{
+  "streamDashBoard.offline": {
+    "message": "ออฟไลน์"
+  },
+  "streamDashBoard.live": {
+    "message": "ไลฟ์"
+  },
+  "streamDashBoard.chat_empty": {
+    "message": "ไม่มีอะไรที่นี่ <br /> เริ่มการสตรีมและเราจะส่งขาวสารเมื่อพวกเขาเข้ามา"
+  },
+  "streamDashBoard.stream_empty": {
+    "message": "ที่นี่ว่างอยู่ <br />ตั้งค่าเอาต์พุตการบอร์ดแคสต์และเราจะแสดงแดชบอร์ดของช่องคุณที่นี่"
+  },
+  "streamDashBoard.event_empty": {
+    "message": "ไม่มีอะไรที่นี่ <br /> เริ่มการสตรีมและเราจะแจ้งให้คุณทราบเกี่ยวกับกิจกรรมเมื่อมันเกิดขึ้น"
+  },
+  "streamDashBoard.streaming_to": {
+    "message": "กำลังสตรีมไปที่"
+  },
+  "streamDashBoard.stats": {
+    "message": "สถิติ"
+  },
+  "streamDashBoard.viewers": {
+    "message": "ผู้ชม:"
+  },
+  "streamDashBoard.running_time": {
+    "message": "เวลาที่ใช้ไป"
+  },
+  "streamDashBoard.resolution": {
+    "message": "ความละเอียด/FPS"
+  },
+  "streamDashBoard.bitrate": {
+    "message": "บิตเรต"
+  },
+  "streamDashBoard.dropped_frames": {
+    "message": "เฟรมตก"
+  }
+}

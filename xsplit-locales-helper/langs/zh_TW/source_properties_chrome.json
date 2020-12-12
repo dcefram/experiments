@@ -1,0 +1,1415 @@
+{
+	"main.pin": {
+		"message": "粘貼"
+	},
+	"main.refresh": {
+		"message": "刷新"
+	},
+	"main.keep_in_memory": {
+		"message": "在內存中保存資源"
+	},
+	"main.see_linked_sources": {
+		"message": "鏈接來源:"
+	},
+	"main.unlink": {
+		"message": "取消連結"
+	},
+	"main.linked_sources": {
+		"message": "鏈接來源:"
+	},
+	"main.none": {
+		"message": "'-' 無-"
+	},
+	"main.error_details_source": {
+		"message": "源文件缺失,可能已被重命名或刪除."
+	},
+	"main.go_to_store": {
+		"message": "轉到源插件商店"
+	},
+	"main.or": {
+		"message": "或"
+	},
+	"main.browse_file": {
+		"message": "流覽檔"
+	},
+	"main.add_loading": {
+		"message": "加載中..."
+	},
+	"main.add_text": {
+		"message": "添加文本"
+	},
+	"main.add_image_slideshow": {
+		"message": "添加圖像幻燈片"
+	},
+	"main.add_video_playlist": {
+		"message": "添加視頻播放清單"
+	},
+	"main.add_skype_ndi": {
+		"message": "添加 Skype NDI"
+	},
+	"main.add_plugin": {
+		"message": "添加 %plugin_name%"
+	},
+	"main.ok": {
+		"message": "Ok"
+	},
+	"main.cancel": {
+		"message": "取消"
+	},
+	"main.disable_audio_wrapper_warning": {
+		"message": "建議禁用音頻包裝[br]當\"使用本機閃光聲音控制\"在設置中啟用."
+	},
+	"main.win7_aero_desktop_capture_warning": {
+		"message": "不推薦使用Aero桌面捕獲可能會影響XSplit的性能. 如果桌面捕獲是必需的請更改您的主題為Windows 7 basic. 閱讀更多[here](https://xspl.it/bc/jn2qeo)."
+	},
+	"main.ndi_in_beta": {
+		"message": "NDI 源仍處於 Beta 階段. 尚不支援音訊渲染."
+	},
+	"main.ndi_in_beta_audio_supported": {
+		"message": "NDI 源仍處於 Beta 階段."
+	},
+	"main.ndi_audio_not_supported": {
+		"message": "尚不支援音訊渲染."
+	},
+	"main.file_contains_ac3": {
+		"message": "此文件包含編碼AC3 音頻, 微軟和XSplit 不為解碼AC3 音頻提供許可證. 要解碼AC3, 你可以下載並安裝[此篩選器](https://xspl.it/orsexj), 然後刷新資源.[br] 聲明: 這是在自行承擔風險和應僅安裝如果您有下載和使用(閱讀使用其條款) 所需的權限."
+	},
+	"main.flash_player_not_installed_outdated": {
+		"message": "快閃記憶體播放機未安裝或過時. [立即下載或更新到最新的 flash 播放機.](https://xspl.it/getflash)"
+	},
+	"main.sync_with_elgato": {
+		"message": "若要同步您的 %device%(在同一個場景) 額外延遲, 您需要添加 %elgatodelay% ms 進行延遲."
+	},
+	"main.stream_only_unsupported": {
+		"message": "Stream Only feature is only supported in Windows 10 or later."
+	},
+	"main.help.linked_sources_title": {
+		"message": "鏈接來源:"
+	},
+	"main.help.linked_sources_message": {
+		"message": "鏈接來源是全球覆蓋的一個或多個場景的來源. 他們總是共享同一名稱, 總是有一個固定的方案. 檢查\"保持在內存中的源\"中的鏈接的源, 以保持鏈接的源加載到內存中的一個實例的屬性."
+	},
+	"main.audio_output_options_system_sound": {
+		"message": "系統聲音"
+	},
+	"main.audio_output_options_stream_only": {
+		"message": "僅直播"
+	},
+	"main.audio_output_options_stream_only_unsupported": {
+		"message": "僅直播"
+	},
+	"main.audio_output_options_stream_only_install": {
+		"message": "僅直播 (安裝)"
+	},
+	"main.audio_output_options_default_speakers": {
+		"message": "預設揚聲器"
+	},
+	"main.when_finished_options_nothing": {
+		"message": "空"
+	},
+	"main.when_finished_options_rewind": {
+		"message": "倒帶"
+	},
+	"main.when_finished_options_loop": {
+		"message": "迴圈"
+	},
+	"main.when_finished_options_hide": {
+		"message": "隱藏"
+	},
+	"main.when_finished_options_transparent": {
+		"message": "透明"
+	},
+	"tabheader.color": {
+		"message": "顏色"
+	},
+	"tabheader.layout": {
+		"message": "佈局"
+	},
+	"tabheader.transition": {
+		"message": "效果"
+	},
+	"tabheader.debug": {
+		"message": "Debug"
+	},
+	"tabheader.video_playlist": {
+		"message": "播放清單"
+	},
+	"tabheader.ip_cam": {
+		"message": "IP Cam"
+	},
+	"tabheader.media": {
+		"message": "媒體"
+	},
+	"tabheader.audio": {
+		"message": "音訊"
+	},
+	"tabheader.cam": {
+		"message": "攝影機"
+	},
+	"tabheader.title": {
+		"message": "標題"
+	},
+	"tabheader.screen": {
+		"message": "螢幕"
+	},
+	"tabheader.stream": {
+		"message": "直播"
+	},
+	"tabheader.swf": {
+		"message": "SWF"
+	},
+	"tabheader.skype": {
+		"message": "Skype"
+	},
+	"tabheader.game": {
+		"message": "遊戲"
+	},
+	"tabheader.text": {
+		"message": "文本"
+	},
+	"tabheader.slideshow": {
+		"message": "投影片放映"
+	},
+	"tabheader.hotkeys": {
+		"message": "快捷鍵"
+	},
+	"tabheader.whiteboard": {
+		"message": "電子白板"
+	},
+	"tabheader.html": {
+		"message": "Html"
+	},
+	"tabheader.rtmp": {
+		"message": "RTMP"
+	},
+	"tabheader.ndi": {
+		"message": "NDI"
+	},
+	"tabheader.tobii": {
+		"message": "Tobii"
+	},
+	"tabheader.replay": {
+		"message": "回放"
+	},
+	"tabheader.scene": {
+		"message": "場景"
+	},
+	"colortab.picture": {
+		"message": "圖片"
+	},
+	"colortab.keying": {
+		"message": "鍵控"
+	},
+	"colortab.reset": {
+		"message": "重置"
+	},
+	"colortab.none": {
+		"message": "None"
+	},
+	"colortab.chroma_key": {
+		"message": "色度鍵"
+	},
+	"colortab.color_key": {
+		"message": "顏色鍵"
+	},
+	"colortab.quality": {
+		"message": "品質"
+	},
+	"colortab.real_sense": {
+		"message": "Intel&reg; RealSense&trade;"
+	},
+	"colortab.realsense_info": {
+		"message": "您的Intel&reg; RealSense&trade; 啟用 3D 相機會自動刪除你不使用的綠色螢幕的背景."
+	},
+	"colortab.realsense_not_installed": {
+		"message": "未檢測到所需的組件使用Intel &reg; RealSense &trade; 背景刪除. [啟動Intel RealSense SDK runtime安裝程序](%link%) (XSplit 應用程序使用的所有必要組件已預先選定)."
+	},
+	"colortab.realsense_error": {
+		"message": "一些需要使用Intel&reg; RealSense&trade;背景刪除組件安裝不正確. [閱讀這篇文章](https://xspl.it/realsense) 獲得更多的信息."
+	},
+	"colortab.legacy": {
+		"message": "傳統模式"
+	},
+	"colortab.keycolor": {
+		"message": "關鍵顏色"
+	},
+	"colortab.anti_aliasing": {
+		"message": "抗鋸齒"
+	},
+	"colortab.eyedrop": {
+		"message": "吸管工具"
+	},
+	"colortab.copy_color_settings": {
+		"message": "複製色度鍵設置"
+	},
+	"colortab.paste_color_settings": {
+		"message": "粘貼色度鍵設置"
+	},
+	"colortab.help.full_dynamic_range_title": {
+		"message": "全過程動態範圍"
+	},
+	"colortab.help.full_dynamic_range_message": {
+		"message": "全過程動態範圍是為每個攝像頭的設備/捕獲卡全域設置用作源."
+	},
+	"colortab.enable_full_dynamic_range": {
+		"message": "全過程動態範圍"
+	},
+	"colortab.apply_globally": {
+		"message": "適用于所有連結源"
+	},
+	"colortab.help.smartcam_quality_title": {
+		"message": "品質"
+	},
+	"colortab.help.smartcam_quality_message": {
+		"message": "品質越高, 越高的 CPU 使用率 (1 低/5-高)."
+	},
+	"colortab.key_color_options_green": {
+		"message": "綠色"
+	},
+	"colortab.key_color_options_red": {
+		"message": "紅色"
+	},
+	"colortab.key_color_options_blue": {
+		"message": "藍色"
+	},
+	"colortab.anti_aliasing_options_high": {
+		"message": "高"
+	},
+	"colortab.anti_aliasing_options_low": {
+		"message": "低"
+	},
+	"colortab.anti_aliasing_options_none": {
+		"message": "None"
+	},
+	"colortab.no_greenscreen": {
+		"message": "沒有綠色螢幕？"
+	},
+	"colortab.try_vcam": {
+		"message": "試試 XSplit VCam!"
+	},
+	"layouttab.position": {
+		"message": "位置"
+	},
+	"layouttab.3d": {
+		"message": "2D/3D 轉換"
+	},
+	"layouttab.cropping": {
+		"message": "裁剪"
+	},
+	"layouttab.source_rotate": {
+		"message": "若要旋轉您的資源,請按住shift 鍵的同時拖動滑鼠"
+	},
+	"layouttab.x": {
+		"message": "X"
+	},
+	"layouttab.y": {
+		"message": "Y"
+	},
+	"layouttab.z": {
+		"message": "Z"
+	},
+	"layouttab.rotate": {
+		"message": "旋轉"
+	},
+	"layouttab.flip": {
+		"message": "翻轉"
+	},
+	"layouttab.counter_clockwise": {
+		"message": "逆時針"
+	},
+	"layouttab.clockwise": {
+		"message": "順時針"
+	},
+	"layouttab.width": {
+		"message": "寬度"
+	},
+	"layouttab.height": {
+		"message": "高度"
+	},
+	"layouttab.reset": {
+		"message": "重置"
+	},
+	"layouttab.crop_alt_key": {
+		"message": "請嘗試按 ALT 鍵拖動源的輪廓"
+	},
+	"layouttab.top": {
+		"message": "頂部"
+	},
+	"layouttab.bottom": {
+		"message": "底部"
+	},
+	"layouttab.left": {
+		"message": "左"
+	},
+	"layouttab.right": {
+		"message": "右"
+	},
+	"layouttab.autocrop": {
+		"message": "自動裁剪"
+	},
+	"layouttab.keep_aspect_ratio": {
+		"message": "保持縱橫比"
+	},
+	"layouttab.lock_position": {
+		"message": "鎖定位置"
+	},
+	"layouttab.enhance_resize": {
+		"message": "提升調整大小"
+	},
+	"layouttab.pan_360": {
+		"message": "360 投放"
+	},
+	"layouttab.help.pan_360_message": {
+		"message": "啟用\"鎖定位置\"進行交互. 滑鼠滾輪來縮放, 單擊並拖動到板上."
+	},
+	"transitiontab.masking": {
+		"message": "掩蔽"
+	},
+	"transitiontab.none": {
+		"message": "None"
+	},
+	"transitiontab.shape": {
+		"message": "形狀"
+	},
+	"transitiontab.file": {
+		"message": "檔"
+	},
+	"transitiontab.filters": {
+		"message": "篩選"
+	},
+	"transitiontab.effects": {
+		"message": "過濾"
+	},
+	"transitiontab.shadow": {
+		"message": "陰影"
+	},
+	"transitiontab.size": {
+		"message": "大小"
+	},
+	"transitiontab.radius": {
+		"message": "半徑"
+	},
+	"transitiontab.opacity": {
+		"message": "透明度"
+	},
+	"transitiontab.border": {
+		"message": "邊框"
+	},
+	"transitiontab.color": {
+		"message": "顏色"
+	},
+	"transitiontab.reset": {
+		"message": "重置"
+	},
+	"transitiontab.offset_x": {
+		"message": "偏移量 X"
+	},
+	"transitiontab.blur": {
+		"message": "模糊"
+	},
+	"transitiontab.offset_y": {
+		"message": "Y 軸偏移量"
+	},
+	"transitiontab.mask_source": {
+		"message": "掩蓋到源"
+	},
+	"transitiontab.mask_stage": {
+		"message": "馬賽克階段"
+	},
+	"transitiontab.image_mask_file": {
+		"message": "圖像遮罩檔"
+	},
+	"transitiontab.show_masking_guide": {
+		"message": "顯示掩蔽指南"
+	},
+	"transitiontab.re2_mode": {
+		"message": "RE2 模式中源轉換不受支援."
+	},
+	"transitiontab.config_text": {
+		"message": "默認情況下, 轉型作品, 當您顯示或隱藏在舞台上的源(選中或取消選中該複選框在來源列表). 你也可以選擇在場景上應用過渡進入或退出. 然而, 如果主場景過渡設置為無的將不會觸發源過渡. 如果您需要使切主要過渡和仍然適用源轉換, 然後設置主要過渡到'切' 而不是無."
+	},
+	"transitiontab.transition": {
+		"message": "過濾"
+	},
+	"transitiontab.speed": {
+		"message": "速度"
+	},
+	"transitiontab.speed_unit": {
+		"message": "ms"
+	},
+	"transitiontab.preview_label": {
+		"message": "預覽"
+	},
+	"transitiontab.no_available_preview": {
+		"message": "沒有可用的預覽"
+	},
+	"transitiontab.on_scene_exit": {
+		"message": "在現場退出"
+	},
+	"transitiontab.on_scene_enter": {
+		"message": "在現場進入"
+	},
+	"transitiontab.lut_file": {
+		"message": "LUT文件"
+	},
+	"transitiontab.browse": {
+		"message": "流覽"
+	},
+	"transitiontab.intensity": {
+		"message": "效果強度"
+	},
+	"transitiontab.bloom_intensity": {
+		"message": "盛開強度"
+	},
+	"transitiontab.magnify_amount": {
+		"message": "放大量"
+	},
+	"transitiontab.blur_amount": {
+		"message": "模糊量"
+	},
+	"transitiontab.filters_none": {
+		"message": "沒有過濾"
+	},
+	"transitiontab.filters_sharpen": {
+		"message": "Sharpen"
+	},
+	"transitiontab.filters_smoothen": {
+		"message": "Smoothen"
+	},
+	"transitiontab.filters_cool": {
+		"message": "冷"
+	},
+	"transitiontab.filters_warm": {
+		"message": "熱情"
+	},
+	"transitiontab.filters_bloom": {
+		"message": "盛開"
+	},
+	"transitiontab.filters_mono": {
+		"message": "單色"
+	},
+	"transitiontab.filters_color_tint": {
+		"message": "色彩色調"
+	},
+	"transitiontab.filters_invert": {
+		"message": "反轉顏色"
+	},
+	"transitiontab.filters_old_movie": {
+		"message": "老電影"
+	},
+	"transitiontab.filters_sketch": {
+		"message": "素描"
+	},
+	"transitiontab.filters_magnify": {
+		"message": "放大"
+	},
+	"transitiontab.filters_blur": {
+		"message": "模糊"
+	},
+	"transitiontab.filters_custom": {
+		"message": "自定義 LUT"
+	},
+	"transitiontab.luts_article": {
+		"message": "什麼是LUT？"
+	},
+	"transitiontab.transition_select_options_none": {
+		"message": "None"
+	},
+	"transitiontab.transition_select_options_clock": {
+		"message": "時鐘"
+	},
+	"transitiontab.transition_select_options_collapse": {
+		"message": "崩潰"
+	},
+	"transitiontab.transition_select_options_ease_in_out_back": {
+		"message": "輕鬆回來"
+	},
+	"transitiontab.transition_select_options_ease_out_bounce": {
+		"message": "紓緩反彈"
+	},
+	"transitiontab.transition_select_options_ease_out_elastic": {
+		"message": "紓緩彈性"
+	},
+	"transitiontab.transition_select_options_fade": {
+		"message": "褪去"
+	},
+	"transitiontab.transition_select_options_fan": {
+		"message": "粉絲"
+	},
+	"transitiontab.transition_select_options_hole": {
+		"message": "孔"
+	},
+	"transitiontab.transition_select_options_move_left": {
+		"message": "左移"
+	},
+	"transitiontab.transition_select_options_move_right": {
+		"message": "右移"
+	},
+	"transitiontab.transition_select_options_move_left_right": {
+		"message": "移動左與右"
+	},
+	"transitiontab.transition_select_options_move_top": {
+		"message": "移到頂部"
+	},
+	"transitiontab.transition_select_options_move_bottom": {
+		"message": "移到底部"
+	},
+	"transitiontab.transition_select_options_move_top_bottom": {
+		"message": "移動頂部與底部"
+	},
+	"transitiontab.transition_select_options_wave": {
+		"message": "Wave"
+	},
+	"transitiontab.transition_select_options_zoom": {
+		"message": "縮放"
+	},
+	"debugtab.title": {
+		"message": "Debug"
+	},
+	"debugtab.videoitem_id": {
+		"message": "Videoitem ID"
+	},
+	"debugtab.src_id": {
+		"message": "Source ID"
+	},
+	"debugtab.src_type": {
+		"message": "Source Type"
+	},
+	"debugtab.copy": {
+		"message": "複製"
+	},
+	"debugtab.type_undefined": {
+		"message": "Undefined"
+	},
+	"debugtab.type_file": {
+		"message": "檔"
+	},
+	"debugtab.type_live": {
+		"message": "直播"
+	},
+	"debugtab.type_text": {
+		"message": "文本"
+	},
+	"debugtab.type_image": {
+		"message": "Image"
+	},
+	"debugtab.type_screen": {
+		"message": "螢幕"
+	},
+	"debugtab.type_swf": {
+		"message": "SWF"
+	},
+	"debugtab.type_game": {
+		"message": "遊戲"
+	},
+	"debugtab.type_html": {
+		"message": "Html"
+	},
+	"debugtab.type_3ds": {
+		"message": "3DS"
+	},
+	"debugtab.type_ppt": {
+		"message": "Presentation"
+	},
+	"debugtab.type_scene": {
+		"message": "場景"
+	},
+	"debugtab.type_group": {
+		"message": "組"
+	},
+	"debugtab.type_replay": {
+		"message": "回放"
+	},
+	"debugtab.type_view": {
+		"message": "View"
+	},
+	"camtab.processing": {
+		"message": "源開關切換..."
+	},
+	"camtab.updating_settings": {
+		"message": "正在更新設置..."
+	},
+	"camtab.playback": {
+		"message": "回放"
+	},
+	"camtab.device_configuration": {
+		"message": "設備配置"
+	},
+	"camtab.delay": {
+		"message": "延遲(毫秒)"
+	},
+	"camtab.audio_input": {
+		"message": "音訊輸入"
+	},
+	"camtab.audio_output": {
+		"message": "音訊輸出"
+	},
+	"camtab.offset": {
+		"message": "偏移量(ms)"
+	},
+	"camtab.offset_text": {
+		"message": "(音訊視頻同步)"
+	},
+	"camtab.silence_detection": {
+		"message": "靜音檢測"
+	},
+	"camtab.threshold": {
+		"message": "閾值"
+	},
+	"camtab.silence_period": {
+		"message": "沉默時間(毫秒)"
+	},
+	"camtab.camera_source": {
+		"message": "相機源"
+	},
+	"camtab.camera_source_audio": {
+		"message": "音訊源"
+	},
+	"camtab.configure_text": {
+		"message": "要配置您的%device_name%設置,請按一下下面的按鈕. "
+	},
+	"camtab.auto_logitech": {
+		"message": "使用標準設定"
+	},
+	"camtab.manual_logitech": {
+		"message": "手動設定"
+	},
+	"camtab.configure": {
+		"message": "配置"
+	},
+	"camtab.priority": {
+		"message": "優先"
+	},
+	"camtab.frame_rate_priority_logitech": {
+		"message": "幀率"
+	},
+	"camtab.exposure_priority_logitech": {
+		"message": "曝光"
+	},
+	"camtab.field_of_view": {
+		"message": "視圖區域"
+	},
+	"camtab.orientation": {
+		"message": "取向"
+	},
+	"camtab.orientation_disabled": {
+		"message": "已禁用"
+	},
+	"camtab.orientation_portrait": {
+		"message": "肖像"
+	},
+	"camtab.orientation_landscape": {
+		"message": "平面"
+	},
+	"camtab.orientation_auto": {
+		"message": "自動定向"
+	},
+	"camtab.enable_hdr": {
+		"message": "執行"
+	},
+	"camtab.hdr": {
+		"message": "HDR (高動態範圍)"
+	},
+	"camtab.help.hdr": {
+		"message": "啟用此選項提高了視頻品質所有照明條件-低光, 亮光, 高對比, 背光. 在 30 fps 及以下游戲工作"
+	},
+	"camtab.video_source": {
+		"message": "視頻輸入"
+	},
+	"camtab.video_capture_pin": {
+		"message": "視頻輸出"
+	},
+	"camtab.tv_tuner": {
+		"message": "電視調諧器"
+	},
+	"camtab.video_cross_bar1": {
+		"message": "交叉杆"
+	},
+	"camtab.video_cross_bar2": {
+		"message": "交叉杆 2"
+	},
+	"camtab.vfw_capture_source": {
+		"message": "VFW 輸入"
+	},
+	"camtab.vfw_capture_format": {
+		"message": "VFW 格式"
+	},
+	"camtab.vfw_capture_display": {
+		"message": "VFW 顯示"
+	},
+	"camtab.hw_video_encoder": {
+		"message": "HW 視頻編碼器"
+	},
+	"camtab.hw_audio_encoder": {
+		"message": "HW 音訊編碼器"
+	},
+	"camtab.hw_mux": {
+		"message": "HW 多工器"
+	},
+	"camtab.audio_source": {
+		"message": "音訊輸入"
+	},
+	"camtab.audio_capture_pin": {
+		"message": "音訊輸出"
+	},
+	"camtab.tv_audio": {
+		"message": "電視音訊"
+	},
+	"camtab.video_renderer": {
+		"message": "視頻渲染器"
+	},
+	"camtab.audio_renderer": {
+		"message": "音訊渲染器"
+	},
+	"camtab.force_deinterlace": {
+		"message": "逐行掃描"
+	},
+	"camtab.auto_configure": {
+		"message": "允許 XSplit 來自動設定"
+	},
+	"camtab.use_black_magic_wdm": {
+		"message": "使用 Blackmagic WDM Capture"
+	},
+	"camtab.description": {
+		"message": "若要瞭解如何與 XSplit 一起使用,請訪問:"
+	},
+	"camtab.avermedia.partnersite1_description": {
+		"message": "AVerMedia Live Gamer HD C985 頁"
+	},
+	"camtab.avermedia.partnersite2_description": {
+		"message": "AVerMedia C875 Live Gamer Portable 頁"
+	},
+	"camtab.elgato.partnersite1_description": {
+		"message": "Elgato 遊戲捕獲網站"
+	},
+	"camtab.elgato.partnersite2_description": {
+		"message": "Elgato 支持頁"
+	},
+	"camtab.roxio.partnersite1_description": {
+		"message": "Roxio 網站"
+	},
+	"camtab.roxio.partnersite2_description": {
+		"message": "Roxio 遊戲捕捉頁"
+	},
+	"camtab.xsplit_support_page": {
+		"message": "XSplit 支援頁面"
+	},
+	"camtab.youtube": {
+		"message": "%name%Youtube"
+	},
+	"camtab.audio_input_options_builtin": {
+		"message": "內置"
+	},
+	"camtab.audio_input_options_none": {
+		"message": "None"
+	},
+	"gametab.game_source": {
+		"message": "遊戲源"
+	},
+	"gametab.show_mouse": {
+		"message": "顯示滑鼠游標"
+	},
+	"gametab.enable_special_optimization": {
+		"message": "啟用特殊優化"
+	},
+	"gametab.unable_to_set": {
+		"message": "(無法設置優化)"
+	},
+	"gametab.special_optimization_hint": {
+		"message": "(禁用特殊的優化以避免Crossfire/SLI 延誤)"
+	},
+	"gametab.enable_playback_smoothness": {
+		"message": "啟用幀平滑"
+	},
+	"gametab.allow_transparency": {
+		"message": "允許透明"
+	},
+	"gametab.playback_smoothness": {
+		"message": "FPS 因數 (%)"
+	},
+	"gametab.limit_game_fps": {
+		"message": "遊戲FPS上限："
+	},
+	"gametab.offline_image": {
+		"message": "離線映射"
+	},
+	"gametab.offline_image_description": {
+		"message": "將顯示脫機映像當遊戲或資源未檢測到(留空,使遊戲資源透明)"
+	},
+	"mediatab.playback": {
+		"message": "回放"
+	},
+	"mediatab.audio_output": {
+		"message": "音訊輸出"
+	},
+	"mediatab.start_at": {
+		"message": "開始于"
+	},
+	"mediatab.set": {
+		"message": "設置"
+	},
+	"mediatab.end_at": {
+		"message": "結束時間"
+	},
+	"mediatab.reset": {
+		"message": "重置"
+	},
+	"mediatab.play": {
+		"message": "播放"
+	},
+	"mediatab.play_options_once": {
+		"message": "一次"
+	},
+	"mediatab.play_options_forever": {
+		"message": "永遠"
+	},
+	"mediatab.play_options_custom": {
+		"message": "定制..."
+	},
+	"mediatab.loop_times": {
+		"message": "時間"
+	},
+	"mediatab.when_finished": {
+		"message": "當完成"
+	},
+	"mediatab.start_on_load": {
+		"message": "在場景入口播放"
+	},
+	"mediatab.play_on_show": {
+		"message": "强制播放在源節目"
+	},
+	"mediatab.remember_playback_position": {
+		"message": "記住回放位置"
+	},
+	"mediatab.force_deinterlace": {
+		"message": "逐行掃描"
+	},
+	"mediatab.show_playback_position": {
+		"message": "顯示回放位置"
+	},
+	"mediatab.cuepoints": {
+		"message": "提示點"
+	},
+	"mediatab.add_to_cuepoints": {
+		"message": "添加到提示點"
+	},
+	"mediatab.add": {
+		"message": "添加"
+	},
+	"mediatab.saved_cue_points": {
+		"message": "保存提示點"
+	},
+	"mediatab.cue_point_type.cue_point": {
+		"message": "提示點"
+	},
+	"mediatab.cue_point_type.start": {
+		"message": "開始"
+	},
+	"mediatab.cue_point_type.end": {
+		"message": "結束"
+	},
+	"mediatab.cue_point_type.cut": {
+		"message": "切"
+	},
+	"mediatab.cue_point_type.pause": {
+		"message": "暫停"
+	},
+	"mediatab.cue_point_type.resume": {
+		"message": "恢復"
+	},
+	"mediatab.change": {
+		"message": "更改..."
+	},
+	"mediatab.cue_point_options_resume": {
+		"message": "恢復"
+	},
+	"mediatab.cue_point_options_pause": {
+		"message": "暫停"
+	},
+	"mediatab.cue_point_options_cut": {
+		"message": "切"
+	},
+	"mediatab.help.loop_times_title": {
+		"message": "自訂播放"
+	},
+	"mediatab.help.loop_times_message": {
+		"message": "設置一個新的自定義播放值將重置計數器到1."
+	},
+	"picturetab.mediasource": {
+		"message": "媒體源"
+	},
+	"screentab.processing": {
+		"message": "源開關切換..."
+	},
+	"screentab.window_capture": {
+		"message": "視窗捕獲"
+	},
+	"screentab.desktop_capture": {
+		"message": "桌面捕獲"
+	},
+	"screentab.area": {
+		"message": "地區"
+	},
+	"screentab.capture_options": {
+		"message": "捕獲選項"
+	},
+	"screentab.x": {
+		"message": "X"
+	},
+	"screentab.y": {
+		"message": "Y"
+	},
+	"screentab.width": {
+		"message": "寬度"
+	},
+	"screentab.height": {
+		"message": "高度"
+	},
+	"screentab.client_area": {
+		"message": "客戶區"
+	},
+	"screentab.track_window_title": {
+		"message": "跟蹤視窗標題"
+	},
+	"screentab.window_source": {
+		"message": "源視窗"
+	},
+	"screentab.desktop_source": {
+		"message": "桌面來源"
+	},
+	"screentab.screen_capture": {
+		"message": "螢幕捕獲"
+	},
+	"screentab.exclude_xsplit_window": {
+		"message": "從顯示捕獲中排除XSplit"
+	},
+	"screentab.optimize_window_capture": {
+		"message": "專屬視窗捕獲"
+	},
+	"screentab.capture_layered_windows": {
+		"message": "捕獲分層 Windows[br] (取消避免滑鼠閃爍)"
+	},
+	"screentab.not_supported": {
+		"message": "(系統不支援)"
+	},
+	"screentab.gpu_optimized": {
+		"message": "GPU優化"
+	},
+	"screentab.show_mouse": {
+		"message": "顯示滑鼠游標"
+	},
+	"screentab.show_mouse_clicks": {
+		"message": "顯示滑鼠點擊"
+	},
+	"screentab.fix_black_capture": {
+		"message": "修復黑色捕捉"
+	},
+	"screentab.reset": {
+		"message": "重置"
+	},
+	"skytab.skype": {
+		"message": "Skype"
+	},
+	"skytab.offline_image": {
+		"message": "離線映射"
+	},
+	"skytab.offline_image_description": {
+		"message": "將顯示脫機映像當skype視頻路徑未檢測到(留空,使skype透明)"
+	},
+	"skytab.source_flicker": {
+		"message": "Skype 源可能會閃爍因為:"
+	},
+	"skytab.multiple_calls": {
+		"message": "多個呼叫 (包括電話暫停)"
+	},
+	"skytab.skype_show_call_cotrols": {
+		"message": "啟用&quot; 顯示呼叫控制當 Skype 在背景中:&quot; 在 Skype 選項 -> 調用設置 -> 高級"
+	},
+	"skytab.ndi_skype_enable": {
+		"message": "如何在Skype中啟用NDI："
+	},
+	"skytab.ndi_multiple_calls": {
+		"message": "所需的最低版本 - Skype預覽8.28.76.42"
+	},
+	"skytab.ndi_skype_show_call_cotrols": {
+		"message": "啟用&quot;允許NDI使用&quot; 在Skype選項>呼叫設置>高級呼叫"
+	},
+	"skytab.skypeId": {
+		"message": "Skype ID:"
+	},
+	"skytab.computerName": {
+		"message": "電腦名稱："
+	},
+	"skytab.skypeNdiLink": {
+		"message": "了解更多關於Skype NDI"
+	},
+	"skytab.apply": {
+		"message": "適用"
+	},
+	"skytab.search.help.message": {
+		"message": "輸入Skype NDI源的計算機名稱和Skype ID，或單擊放大鏡以在網絡上搜索可用的Skype NDI源。 單擊“應用”以連接到源。"
+	},
+	"skytab.search.help.title": {
+		"message": "Skype NDI 源"
+	},
+	"skytab.skype_available_ndi_sources": {
+		"message": "可用的Skype NDI源"
+	},
+	"skytab.no_ndi_label": {
+		"message": "未檢測到Skype NDI呼叫"
+	},
+	"streamtab.playback": {
+		"message": "回放"
+	},
+	"streamtab.audio_output": {
+		"message": "音訊輸出"
+	},
+	"streamtab.use_rtmp_flash": {
+		"message": "使用flash 進行回放"
+	},
+	"streamtab.stream_source": {
+		"message": "直播源"
+	},
+	"streamtab.stream_name": {
+		"message": "直播名稱"
+	},
+	"streamtab.delay": {
+		"message": "流緩衝(秒)"
+	},
+	"streamtab.protocol": {
+		"message": "協議"
+	},
+	"streamtab.protocol_tooltip": {
+		"message": "設置低級別 RTSP 運輸協議.[br][br] 如果你看到延遲或沒有連接，嘗試到 UDP TCP 從更改議定. 如果被防火牆阻止, 試圖將協議設置為 HTTP."
+	},
+	"streamtab.apply": {
+		"message": "應用"
+	},
+	"nditab.playback": {
+		"message": "回放"
+	},
+	"nditab.audio_output": {
+		"message": "音訊輸出"
+	},
+	"nditab.ndi_source": {
+		"message": "直播源"
+	},
+	"nditab.quality": {
+		"message": "品質"
+	},
+	"nditab.standard": {
+		"message": "標準"
+	},
+	"nditab.maximum": {
+		"message": "最大"
+	},
+	"nditab.apply": {
+		"message": "適用"
+	},
+	"replaytab.saveToDisk": {
+		"message": "Save to disk"
+	},
+	"replaytab.saveToDiskOnPlayback": {
+		"message": "Save to disk on playback"
+	},
+	"replaytab.source": {
+		"message": "資源"
+	},
+	"replaytab.no_output": {
+		"message": "沒有選擇的輸出"
+	},
+	"replaytab.output_live": {
+		"message": "輸出已上线"
+	},
+	"replaytab.output_offline": {
+		"message": "輸出还没上线"
+	},
+	"replaytab.connect_to": {
+		"message": "連接到"
+	},
+	"replaytab.help.connect_to_title": {
+		"message": "連接到"
+	},
+	"replaytab.help.connect_to_message": {
+		"message": "選擇此重播源可以連接的輸出. “自動”設置可讓此重播連接到即將開始流式傳輸的下一個輸出."
+	},
+	"replaytab.help.save_playback_title": {
+		"message": "Save replay to disk on playback"
+	},
+	"replaytab.help.save_playback_message": {
+		"message": "Saves a copy of your replay to your default recording folder."
+	},
+	"replaytab.help.saveToDisk_title": {
+		"message": "Save to disk"
+	},
+	"replaytab.help.saveToDisk_message": {
+		"message": "Saves your replay buffer to disk without showing it on your stream."
+	},
+	"replaytab.replay": {
+		"message": "回放"
+	},
+	"replaytab.hotkey": {
+		"message": "快捷鍵"
+	},
+	"replaytab.replayTime": {
+		"message": "重播時間"
+	},
+	"replaytab.bufferLength": {
+		"message": "Buffer Length"
+	},
+	"replaytab.playback": {
+		"message": "回放"
+	},
+	"replaytab.seconds": {
+		"message": "秒"
+	},
+	"replaytab.start_on_load": {
+		"message": "在場景入口播放"
+	},
+	"replaytab.audio_output": {
+		"message": "音訊輸出"
+	},
+	"replaytab.display": {
+		"message": "顯示"
+	},
+	"scenetab.display": {
+		"message": "顯示"
+	},
+	"scenetab.scene": {
+		"message": "場景資源"
+	},
+	"scenetab.scene_description": {
+		"message": "噪音抑制要編輯此場景源，請切換到參考場景。[br][br] 或者，如果要在不切換場景的情況下進行編輯，請使用分割模式或預覽編輯器。 確保單擊“直播”以應用場景更改。"
+	},
+	"swftab.playback": {
+		"message": "回放"
+	},
+	"swftab.disable_audio_wrapper": {
+		"message": "禁用音訊包裝"
+	},
+	"swftab.swf_source": {
+		"message": "SWF 源"
+	},
+	"swftab.resolution": {
+		"message": "分辨率"
+	},
+	"swftab.original_resolution": {
+		"message": "原始資源"
+	},
+	"swftab.custom_resolution": {
+		"message": "自定義"
+	},
+	"swftab.configuration": {
+		"message": "配置"
+	},
+	"swftab.configure_text": {
+		"message": "配置您SWF源,請按一下下面的按鈕."
+	},
+	"swftab.configure": {
+		"message": "配置"
+	},
+	"swftab.audio_output": {
+		"message": "音訊輸出"
+	},
+	"swfhotkeystab.hotkeys": {
+		"message": "快捷鍵"
+	},
+	"titletab.title": {
+		"message": "標題"
+	},
+	"titletab.configure_text": {
+		"message": "如需設置您的標題資源,單擊下面的按鈕."
+	},
+	"titletab.configure": {
+		"message": "配置"
+	},
+	"tobiitab.title": {
+		"message": "Tobii 眼球跟蹤設置"
+	},
+	"tobiitab.cursor_color": {
+		"message": "游標顏色"
+	},
+	"tobiitab.enable": {
+		"message": "啟用跟蹤"
+	},
+	"tobiitab.shape": {
+		"message": "形狀"
+	},
+	"tobiitab.solid": {
+		"message": "固體"
+	},
+	"tobiitab.bubble": {
+		"message": "泡沫"
+	},
+	"tobiitab.size": {
+		"message": "大小"
+	},
+	"tobiitab.trail": {
+		"message": "線索"
+	},
+	"tobiitab.filtering": {
+		"message": "過濾"
+	},
+	"htmltab.playback": {
+		"message": "回放"
+	},
+	"htmltab.audio_output": {
+		"message": "音訊輸出"
+	},
+	"htmltab.apply": {
+		"message": "適用"
+	},
+	"htmltab.invalid_url": {
+		"message": "請輸入一個有效的 url."
+	},
+	"htmltab.html_source": {
+		"message": "HTML 碼"
+	},
+	"htmltab.reload_on_scene_enter": {
+		"message": "重新加載場景輸入"
+	},
+	"htmltab.reload_on_source_show": {
+		"message": "重新加載源節目"
+	},
+	"htmltab.resolution": {
+		"message": "分辨率"
+	},
+	"htmltab.resolution_tooltip": {
+		"message": "設置網頁源為特定解析度設計固定的解析度. 原始源將遵循源的像素大小和行為就像常規的瀏覽器調整大小. 鏈接的源總是會被強制固定的解析度."
+	},
+	"htmltab.display": {
+		"message": "顯示"
+	},
+	"htmltab.original_resolution": {
+		"message": "原始資源"
+	},
+	"htmltab.custom_resolution": {
+		"message": "自定義"
+	},
+	"htmltab.css_overwrite": {
+		"message": "自訂代碼"
+	},
+	"htmltab.custom_css": {
+		"message": "使用自訂的 CSS"
+	},
+	"htmltab.edit_css": {
+		"message": "編輯 CSS"
+	},
+	"htmltab.custom_js": {
+		"message": "使用自訂的 JS"
+	},
+	"htmltab.edit_js": {
+		"message": "編輯 JS"
+	},
+	"htmltab.appearance": {
+		"message": "外觀"
+	},
+	"htmltab.disable_transparency": {
+		"message": "禁用透明度"
+	},
+	"htmltab.disable_scrollbars": {
+		"message": "禁用捲軸"
+	},
+	"htmltab.enable_60_fps": {
+		"message": "啟用高達 60 幀/秒"
+	},
+	"htmltab.enable_60_fps_tooltip": {
+		"message": "可能需要額外的 GPU/CPU 資源. 注意切換此選項將觸髮刷新源. 為了獲得最佳性能, 使您能夠瀏覽器源特別優化下工具-設置-高級 >."
+	},
+	"htmltab.configuration": {
+		"message": "配置"
+	},
+	"htmltab.configure_text": {
+		"message": "配置您 HTML 源,請按一下下面的按鈕."
+	},
+	"htmltab.configure": {
+		"message": "配置"
+	},
+	"htmlhotkeystab.hotkeys": {
+		"message": "快捷鍵"
+	},
+	"presentationtab.playback": {
+		"message": "回放"
+	},
+	"presentationtab.audio_output": {
+		"message": "音訊輸出"
+	},
+	"presentationtab.remember_playback_position": {
+		"message": "記住回放位置"
+	},
+	"presentationtab.current_slide": {
+		"message": "Current Slide"
+	},
+	"presentationtab.hotkeys": {
+		"message": "Alternatively, you can use the arrow keys to go to the next or previous slide when source is in focus."
+	},
+	"presentationtab.pptSource": {
+		"message": "Presentation Source"
+	},
+	"presentationtab.change": {
+		"message": "更改..."
+	},
+	"css_editor.edit_css": {
+		"message": "編輯 CSS- "
+	},
+	"css_editor.css": {
+		"message": "CSS"
+	},
+	"css_editor.overwrite_css": {
+		"message": "覆蓋 CSS"
+	},
+	"css_editor.back": {
+		"message": "返回"
+	},
+	"js_editor.edit_js": {
+		"message": "編輯 JS- "
+	},
+	"js_editor.js": {
+		"message": "JS"
+	},
+	"js_editor.add_custom_js": {
+		"message": "添加自訂 JS"
+	},
+	"js_editor.back": {
+		"message": "返回"
+	},
+	"hints.picture_section": {
+		"message": "在這裡您可以調整您的源的顏色."
+	},
+	"hints.keying_section": {
+		"message": "在這裡您可以應用為背景去除色度鍵."
+	},
+	"hints.position_section": {
+		"message": "在這裡你可以在視口上設置您的源的大小和位置."
+	},
+	"hints.threed_section": {
+		"message": "在這裡您可以調整您的 3D 平面上的源. 請注意HTML 和 SWF 來源不註冊滑鼠事件當源旋轉/翻轉."
+	},
+	"hints.media_playback_section": {
+		"message": "控制播放, 設置媒體卷, 並設置媒體音訊輸出設備."
+	},
+	"hints.cue_points_section": {
+		"message": "設置各點暫停, 切, 或恢復媒體檔案."
+	},
+	"hints.game_source_section": {
+		"message": "顯示/隱藏滑鼠和啟用/禁用表面共用"
+	},
+	"hints.camera_playback_section": {
+		"message": "為USB 2.0 設備它推薦設置音頻輸出來直播"
+	},
+	"hints.rtsp_rtmp_playback_section": {
+		"message": "為了避免延遲的音訊, 設置音訊輸出来直播"
+	},
+	"hints.configuration_section": {
+		"message": "單擊以打開用於更新源的控制組件/配置窗口."
+	},
+	"hints.masking_section": {
+		"message": "掩蔽讓你剪貼蒙版的形狀的源. 你可以選擇一個檔作為遮罩或選擇一個形狀."
+	},
+	"hints.transition_section": {
+		"message": "默認情況下, 轉型作品, 當您顯示或隱藏在舞台上的源(選中或取消選中該複選框在來源列表). 你也可以選擇在場景上應用過渡進入或退出. 然而, 如果主場景過渡設置為無的將不會觸發源過渡. 如果您需要使切主要過渡和仍然適用源轉換, 然後設置主要過渡到'切' 而不是無."
+	},
+	"hints.ndi_playback_section": {
+		"message": "設置音量和音訊輸出設備."
+	}
+}

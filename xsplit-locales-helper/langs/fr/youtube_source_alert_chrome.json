@@ -1,0 +1,95 @@
+{
+  "youtube.source_alert.tabheader": {
+    "message": "alerte"
+  },
+  "youtube.source_alert.source": {
+    "message": "Source"
+  },
+  "youtube.source_alert.account": {
+    "message": "Compte"
+  },
+  "youtube.source_alert.authorize": {
+    "message": "Autoriser XSplit à utiliser YouTube Live"
+  },
+  "youtube.source_alert.remove_authorization": {
+    "message": "**%api%** Retirer l'autorisation"
+  },
+  "youtube.source_alert.switch_account": {
+    "message": "**%api%** Changer de compte"
+  },
+  "youtube.source_alert.not_connected": {
+    "message": "Les alertes chargeront automatiquement lorsque le stream sera live"
+  },
+  "youtube.source_alert.connected": {
+    "message": "Connecté"
+  },
+  "youtube.source_alert.connect": {
+    "message": "Connexion"
+  },
+  "youtube.source_alert.disconnect": {
+    "message": "Déconnexion"
+  },
+  "youtube.source_alert.alertLabel": {
+    "message": "Alerte"
+  },
+  "youtube.source_alert.animation_text": {
+    "message": "Animation"
+  },
+  "youtube.source_alert.duration": {
+    "message": "Durée "
+  },
+  "youtube.source_alert.delay": {
+    "message": "Durée d'affichage"
+  },
+  "youtube.source_alert.animateIn": {
+    "message": "Animation entrante"
+  },
+  "youtube.source_alert.animateOut": {
+    "message": "Animation sortant"
+  },
+  "youtube.source_alert.audio": {
+    "message": "Audio"
+  },
+  "youtube.source_alert.generalHeader": {
+    "message": "Général"
+  },
+  "youtube.source_alert.customizeHeader": {
+    "message": "Personnaliser"
+  },
+  "youtube.source_alert.theme": {
+    "message": "Thème"
+  },
+  "youtube.source_alert.minAmount": {
+    "message": "Montant min."
+  },
+  "youtube.source_alert.type": {
+    "message": "Type"
+  },
+  "youtube.source_alert.nameStyleAndSettings": {
+    "message": "Style et réglage du nom"
+  },
+  "youtube.source_alert.sound": {
+    "message": "Son"
+  },
+  "youtube.source_alert.show_alert": {
+    "message": "Aperçu"
+  },
+  "youtube.source_alert.hide_alert": {
+    "message": "Masquer l’aperçu"
+  },
+  "youtube.source_alert.test_alert": {
+    "message": "Test Alerte"
+  },
+  "youtube.source_alert.Color": {
+    "message": "Couleur"
+  },
+  "youtube.source_alert.layout": {
+    "message": "Mise en page"
+  },
+  "youtube.source_alert.loggingInTo": {
+    "message": "Logging in to YouTube..."
+  },
+  "youtube.source_alert.pleaseComplete": {
+    "message": "Please complete the login process in your browser"
+  }
+}

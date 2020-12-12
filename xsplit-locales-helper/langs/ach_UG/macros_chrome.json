@@ -1,0 +1,485 @@
+{
+  "permission_header": {
+    "message": "crwdns14403:0crwdne14403:0"
+  },
+  "permission_body": {
+    "message": "crwdns14404:0crwdne14404:0"
+  },
+  "permission_button": {
+    "message": "crwdns14405:0crwdne14405:0"
+  },
+  "macro_exceeded_header": {
+    "message": "crwdns14406:0crwdne14406:0"
+  },
+  "macro_exceeded_body": {
+    "message": "crwdns14407:0crwdne14407:0"
+  },
+  "macro_executor_header": {
+    "message": "crwdns14408:0crwdne14408:0"
+  },
+  "note_title": {
+    "message": "crwdns14409:0crwdne14409:0"
+  },
+  "warning_note": {
+    "message": "crwdns14410:0[br]crwdne14410:0"
+  },
+  "button_ok": {
+    "message": "crwdns14411:0crwdne14411:0"
+  },
+  "button_cancel": {
+    "message": "crwdns14412:0crwdne14412:0"
+  },
+  "delete_confirmation_header": {
+    "message": "crwdns14413:0crwdne14413:0"
+  },
+  "delete_confirmation_body": {
+    "message": "crwdns14414:0%macroName%crwdne14414:0"
+  },
+  "add_macro": {
+    "message": "crwdns14415:0crwdne14415:0"
+  },
+  "continue_on_error": {
+    "message": "crwdns14416:0crwdne14416:0"
+  },
+  "stop_macro": {
+    "message": "crwdns14417:0crwdne14417:0"
+  },
+  "test_macro": {
+    "message": "crwdns14418:0crwdne14418:0"
+  },
+  "event_label": {
+    "message": "crwdns14419:0crwdne14419:0"
+  },
+  "action_label": {
+    "message": "crwdns14420:0crwdne14420:0"
+  },
+  "condition_label": {
+    "message": "crwdns14421:0crwdne14421:0"
+  },
+  "add_action": {
+    "message": "crwdns14422:0crwdne14422:0"
+  },
+  "add_condition": {
+    "message": "crwdns14423:0crwdne14423:0"
+  },
+  "enable_event_listener": {
+    "message": "crwdns14424:0crwdne14424:0"
+  },
+  "enable_event_listener_help_title_description": {
+    "message": "crwdns14425:0crwdne14425:0"
+  },
+  "enable_event_listener_help_message": {
+    "message": "crwdns14426:0[br]crwdne14426:0"
+  },
+  "script_copied_to_clipboard": {
+    "message": "crwdns14427:0crwdne14427:0"
+  },
+  "enable_condition_check_per_action": {
+    "message": "crwdns14428:0crwdne14428:0"
+  },
+  "no_options": {
+    "message": "crwdns14429:0crwdne14429:0"
+  },
+  "macro_tooltip": {
+    "message": "crwdns14430:0%macroName%crwdnd14430:0[br]crwdnd14430:0%triggerName%crwdne14430:0"
+  },
+  "key_stroke_placeholder": {
+    "message": "crwdns14431:0crwdne14431:0"
+  },
+  "select_action_placeholder": {
+    "message": "crwdns14432:0crwdne14432:0"
+  },
+  "select_condition_placeholder": {
+    "message": "crwdns14433:0crwdne14433:0"
+  },
+  "select_trigger_placeholder": {
+    "message": "crwdns14434:0crwdne14434:0"
+  },
+  "select_scene_placeholder": {
+    "message": "crwdns14435:0crwdne14435:0"
+  },
+  "select_stream_source_placeholder": {
+    "message": "crwdns14436:0crwdne14436:0"
+  },
+  "select_status_placeholder": {
+    "message": "crwdns14437:0crwdne14437:0"
+  },
+  "select_media_source_placeholder": {
+    "message": "crwdns14438:0crwdne14438:0"
+  },
+  "select_output_placeholder": {
+    "message": "crwdns14439:0crwdne14439:0"
+  },
+  "select_function_placeholder": {
+    "message": "crwdns14440:0crwdne14440:0"
+  },
+  "select_transition_placeholder": {
+    "message": "crwdns14441:0crwdne14441:0"
+  },
+  "select_source_placeholder": {
+    "message": "crwdns14442:0crwdne14442:0"
+  },
+  "select_visibility_placeholder": {
+    "message": "crwdns14443:0crwdne14443:0"
+  },
+  "select_playback_state_placeholder": {
+    "message": "crwdns14444:0crwdne14444:0"
+  },
+  "select_source_with_audio_placeholder": {
+    "message": "crwdns14445:0crwdne14445:0"
+  },
+  "select_mute_state_placeholder": {
+    "message": "crwdns14446:0crwdne14446:0"
+  },
+  "select_macro_placeholder": {
+    "message": "crwdns14447:0crwdne14447:0"
+  },
+  "select_media_state_placeholder": {
+    "message": "crwdns14448:0crwdne14448:0"
+  },
+  "select_macro_state_placeholder": {
+    "message": "crwdns14449:0crwdne14449:0"
+  },
+  "edit_macro_name_placeholder": {
+    "message": "crwdns14450:0crwdne14450:0"
+  },
+  "disabled_trigger_display_name": {
+    "message": "crwdns14451:0%displayName%crwdne14451:0"
+  },
+  "trigger_display_name": {
+    "message": "crwdns14452:0%displayName%crwdne14452:0"
+  },
+  "new_action": {
+    "message": "crwdns14453:0crwdne14453:0"
+  },
+  "trigger_display_name_manual_run": {
+    "message": "crwdns14454:0crwdne14454:0"
+  },
+  "trigger_display_name_on_key_press": {
+    "message": "crwdns14455:0%keyInput%crwdne14455:0"
+  },
+  "trigger_display_name_every_interval": {
+    "message": "crwdns14456:0%time%crwdne14456:0"
+  },
+  "trigger_display_name_on_scheduled_time": {
+    "message": "crwdns14457:0%timeSchedule%crwdne14457:0"
+  },
+  "trigger_display_name_on_scene_switch": {
+    "message": "crwdns14458:0%scene%crwdne14458:0"
+  },
+  "trigger_display_name_stream_source_state_change": {
+    "message": "crwdns14459:0%stream%crwdnd14459:0%state%crwdne14459:0"
+  },
+  "trigger_display_name_after_media_playback": {
+    "message": "crwdns14460:0%id%crwdne14460:0"
+  },
+  "trigger_display_name_custom_function": {
+    "message": "crwdns14461:0crwdne14461:0"
+  },
+  "trigger_display_name_default_manual_run": {
+    "message": "crwdns14462:0crwdne14462:0"
+  },
+  "trigger_display_name_default_on_key_press": {
+    "message": "crwdns14463:0crwdne14463:0"
+  },
+  "trigger_display_name_default_every_interval": {
+    "message": "crwdns14464:0crwdne14464:0"
+  },
+  "trigger_display_name_default_on_scheduled_time": {
+    "message": "crwdns14465:0crwdne14465:0"
+  },
+  "trigger_display_name_default_on_scene_switch": {
+    "message": "crwdns14466:0crwdne14466:0"
+  },
+  "trigger_display_name_default_stream_source_state_change": {
+    "message": "crwdns14467:0crwdne14467:0"
+  },
+  "trigger_display_name_default_after_media_playback": {
+    "message": "crwdns14468:0crwdne14468:0"
+  },
+  "trigger_display_name_default_custom_function": {
+    "message": "crwdns14469:0crwdne14469:0"
+  },
+  "trigger_option_display_manual_run": {
+    "message": "crwdns14470:0crwdne14470:0"
+  },
+  "trigger_option_display_on_key_press": {
+    "message": "crwdns14471:0crwdne14471:0"
+  },
+  "trigger_option_display_every_interval": {
+    "message": "crwdns14472:0crwdne14472:0"
+  },
+  "trigger_option_display_on_scheduled_time": {
+    "message": "crwdns14473:0crwdne14473:0"
+  },
+  "trigger_option_display_on_scene_switch": {
+    "message": "crwdns14474:0crwdne14474:0"
+  },
+  "trigger_option_display_stream_source_state_change": {
+    "message": "crwdns14475:0crwdne14475:0"
+  },
+  "trigger_option_display_after_media_playback": {
+    "message": "crwdns14476:0crwdne14476:0"
+  },
+  "trigger_option_display_custom_function": {
+    "message": "crwdns14477:0crwdne14477:0"
+  },
+  "trigger_presets_time": {
+    "message": "crwdns14478:0crwdne14478:0"
+  },
+  "trigger_presets_time_schedule": {
+    "message": "crwdns14479:0crwdne14479:0"
+  },
+  "trigger_presets_state_online": {
+    "message": "crwdns14480:0crwdne14480:0"
+  },
+  "trigger_presets_state_offline": {
+    "message": "crwdns14481:0crwdne14481:0"
+  },
+  "trigger_presets_custom_function_placeholder": {
+    "message": "crwdns14482:0[br]crwdnd14482:0[br]crwdne14482:0"
+  },
+  "action_display_name_wait": {
+    "message": "crwdns14483:0%time%crwdne14483:0"
+  },
+  "action_display_name_start_stop_broadcast": {
+    "message": "crwdns14484:0%broadcastState%crwdnd14484:0%output%crwdne14484:0"
+  },
+  "action_display_name_scene_change": {
+    "message": "crwdns14485:0%scene%crwdne14485:0"
+  },
+  "action_display_name_scene_transition_change": {
+    "message": "crwdns14486:0%transition%crwdnd14486:0%time%crwdne14486:0"
+  },
+  "action_display_name_set_source_visibilty": {
+    "message": "crwdns14487:0%visibility%crwdnd14487:0%videoItem%crwdne14487:0"
+  },
+  "action_display_name_playback_media": {
+    "message": "crwdns14488:0%newPlaybackState%crwdnd14488:0%id%crwdne14488:0"
+  },
+  "action_display_name_toggle_mute": {
+    "message": "crwdns14489:0%mute%crwdnd14489:0%itemAudio%crwdne14489:0"
+  },
+  "action_display_name_run_macro": {
+    "message": "crwdns14490:0%macro%crwdne14490:0"
+  },
+  "action_display_name_stop_macro": {
+    "message": "crwdns14491:0%stopMacroId%crwdne14491:0"
+  },
+  "action_display_name_push_to_live": {
+    "message": "crwdns14492:0crwdne14492:0"
+  },
+  "action_display_name_enable_disable_macro": {
+    "message": "crwdns14493:0%toggle%crwdnd14493:0%macro%crwdne14493:0"
+  },
+  "action_display_name_go_to_action": {
+    "message": "crwdns14494:0%action%crwdne14494:0"
+  },
+  "action_display_name_custom_function": {
+    "message": "crwdns14495:0%customFunctionAction%crwdne14495:0"
+  },
+  "action_display_name_default_wait": {
+    "message": "crwdns14496:0crwdne14496:0"
+  },
+  "action_display_name_default_start_stop_broadcast": {
+    "message": "crwdns14497:0crwdne14497:0"
+  },
+  "action_display_name_default_scene_change": {
+    "message": "crwdns14498:0crwdne14498:0"
+  },
+  "action_display_name_default_scene_transition_change": {
+    "message": "crwdns14499:0crwdne14499:0"
+  },
+  "action_display_name_default_set_source_visibilty": {
+    "message": "crwdns14500:0crwdne14500:0"
+  },
+  "action_display_name_default_playback_media": {
+    "message": "crwdns14501:0crwdne14501:0"
+  },
+  "action_display_name_default_toggle_mute": {
+    "message": "crwdns14502:0crwdne14502:0"
+  },
+  "action_display_name_default_run_macro": {
+    "message": "crwdns14503:0crwdne14503:0"
+  },
+  "action_display_name_default_stop_macro": {
+    "message": "crwdns14504:0crwdne14504:0"
+  },
+  "action_display_name_default_push_to_live": {
+    "message": "crwdns14505:0crwdne14505:0"
+  },
+  "action_display_name_default_enable_disable_macro": {
+    "message": "crwdns14506:0crwdne14506:0"
+  },
+  "action_display_name_default_go_to_action": {
+    "message": "crwdns14507:0crwdne14507:0"
+  },
+  "action_display_name_default_custom_function": {
+    "message": "crwdns14508:0crwdne14508:0"
+  },
+  "action_option_display_wait": {
+    "message": "crwdns14509:0crwdne14509:0"
+  },
+  "action_option_display_start_stop_broadcast": {
+    "message": "crwdns14510:0crwdne14510:0"
+  },
+  "action_option_display_scene_change": {
+    "message": "crwdns14511:0crwdne14511:0"
+  },
+  "action_option_display_scene_transition_change": {
+    "message": "crwdns14512:0crwdne14512:0"
+  },
+  "action_option_display_set_source_visibilty": {
+    "message": "crwdns14513:0crwdne14513:0"
+  },
+  "action_option_display_playback_media": {
+    "message": "crwdns14514:0crwdne14514:0"
+  },
+  "action_option_display_toggle_mute": {
+    "message": "crwdns14515:0crwdne14515:0"
+  },
+  "action_option_display_run_macro": {
+    "message": "crwdns14516:0crwdne14516:0"
+  },
+  "action_option_display_stop_macro": {
+    "message": "crwdns14517:0crwdne14517:0"
+  },
+  "action_option_display_push_to_live": {
+    "message": "crwdns14518:0crwdne14518:0"
+  },
+  "action_option_display_enable_disable_macro": {
+    "message": "crwdns14519:0crwdne14519:0"
+  },
+  "action_option_display_go_to_action": {
+    "message": "crwdns14520:0crwdne14520:0"
+  },
+  "action_option_display_custom_function": {
+    "message": "crwdns14521:0crwdne14521:0"
+  },
+  "action_presets_time": {
+    "message": "crwdns14522:0crwdne14522:0"
+  },
+  "action_presets_wait_until_done": {
+    "message": "crwdns14523:0crwdne14523:0"
+  },
+  "action_presets_custom_function_placeholder": {
+    "message": "crwdns14524:0[br]crwdnd14524:0[br]crwdne14524:0"
+  },
+  "action_presets_start": {
+    "message": "crwdns14525:0crwdne14525:0"
+  },
+  "action_presets_stop": {
+    "message": "crwdns14526:0crwdne14526:0"
+  },
+  "action_presets_show": {
+    "message": "crwdns14527:0crwdne14527:0"
+  },
+  "action_presets_hide": {
+    "message": "crwdns14528:0crwdne14528:0"
+  },
+  "action_presets_toggle_visibility": {
+    "message": "crwdns14529:0crwdne14529:0"
+  },
+  "action_presets_play": {
+    "message": "crwdns14530:0crwdne14530:0"
+  },
+  "action_presets_pause": {
+    "message": "crwdns14531:0crwdne14531:0"
+  },
+  "action_presets_mute": {
+    "message": "crwdns14532:0crwdne14532:0"
+  },
+  "action_presets_unmute": {
+    "message": "crwdns14533:0crwdne14533:0"
+  },
+  "action_presets_toggle_audio": {
+    "message": "crwdns14534:0crwdne14534:0"
+  },
+  "action_presets_enable": {
+    "message": "crwdns14535:0crwdne14535:0"
+  },
+  "action_presets_disable": {
+    "message": "crwdns14536:0crwdne14536:0"
+  },
+  "condition_display_name_active_scene": {
+    "message": "crwdns14537:0%scene%crwdne14537:0"
+  },
+  "condition_display_name_stream_source": {
+    "message": "crwdns14538:0%stream%crwdnd14538:0%state%crwdne14538:0"
+  },
+  "condition_display_name_source_visibility": {
+    "message": "crwdns14539:0%videoItem%crwdnd14539:0%visibility%crwdne14539:0"
+  },
+  "condition_display_name_media_state": {
+    "message": "crwdns14540:0%id%crwdnd14540:0%mediaState%crwdne14540:0"
+  },
+  "condition_display_name_macro_state": {
+    "message": "crwdns14541:0%macro%crwdnd14541:0%state%crwdne14541:0"
+  },
+  "condition_display_name_custom_function": {
+    "message": "crwdns14542:0%customFunctionCondition%crwdne14542:0"
+  },
+  "condition_display_name_default_active_scene": {
+    "message": "crwdns14543:0crwdne14543:0"
+  },
+  "condition_display_name_default_stream_source": {
+    "message": "crwdns14544:0crwdne14544:0"
+  },
+  "condition_display_name_default_source_visibility": {
+    "message": "crwdns14545:0crwdne14545:0"
+  },
+  "condition_display_name_default_media_state": {
+    "message": "crwdns14546:0crwdne14546:0"
+  },
+  "condition_display_name_default_macro_state": {
+    "message": "crwdns14547:0crwdne14547:0"
+  },
+  "condition_display_name_default_custom_function": {
+    "message": "crwdns14548:0crwdne14548:0"
+  },
+  "condition_option_display_active_scene": {
+    "message": "crwdns14549:0crwdne14549:0"
+  },
+  "condition_option_display_stream_source": {
+    "message": "crwdns14550:0crwdne14550:0"
+  },
+  "condition_option_display_source_visibility": {
+    "message": "crwdns14551:0crwdne14551:0"
+  },
+  "condition_option_display_media_state": {
+    "message": "crwdns14552:0crwdne14552:0"
+  },
+  "condition_option_display_macro_state": {
+    "message": "crwdns14553:0crwdne14553:0"
+  },
+  "condition_option_display_custom_function": {
+    "message": "crwdns14554:0crwdne14554:0"
+  },
+  "condition_presets_online": {
+    "message": "crwdns14555:0crwdne14555:0"
+  },
+  "condition_presets_offline": {
+    "message": "crwdns14556:0crwdne14556:0"
+  },
+  "condition_presets_visible": {
+    "message": "crwdns14557:0crwdne14557:0"
+  },
+  "condition_presets_hidden": {
+    "message": "crwdns14558:0crwdne14558:0"
+  },
+  "condition_presets_playing": {
+    "message": "crwdns14559:0crwdne14559:0"
+  },
+  "condition_presets_not_playing": {
+    "message": "crwdns14560:0crwdne14560:0"
+  },
+  "condition_presets_enabled": {
+    "message": "crwdns14561:0crwdne14561:0"
+  },
+  "condition_presets_disabled": {
+    "message": "crwdns14562:0crwdne14562:0"
+  },
+  "condition_presets_custom_function_placeholder": {
+    "message": "crwdns14563:0[br]crwdnd14563:0[br]crwdne14563:0"
+  }
+}

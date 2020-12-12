@@ -1,0 +1,38 @@
+{
+  "audioMixer.settings": {
+    "message": "Device settings"
+  },
+  "audioMixer.device_unavailable": {
+    "message": "This audio device is unavailable"
+  },
+  "audioMixer.global_devices": {
+    "message": "Global Devices"
+  },
+  "audioMixer.playback_devices": {
+    "message": "Playback devices"
+  },
+  "audioMixer.recording_devices": {
+    "message": "Recording devices"
+  },
+  "audioMixer.add_device": {
+    "message": "Add device"
+  },
+  "audioMixer.default_microphone": {
+    "message": "預設麥克風"
+  },
+  "audioMixer.default_speakers": {
+    "message": "預設揚聲器"
+  },
+  "audioMixer.stream_only_audio": {
+    "message": "Stream Only Audio"
+  },
+  "audioMixer.mic": {
+    "message": "MIC"
+  },
+  "audioMixer.system": {
+    "message": "SYSTEM"
+  },
+  "audioMixer.stream_only": {
+    "message": "STREAM ONLY"
+  }
+}

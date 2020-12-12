@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="frmTwitchProps" xml:space="preserve">
+    <value>Twitch Properties</value>
+  </data>
+  <data name="label5" xml:space="preserve">
+    <value>To edit your channel status you must log-in to your Twitch account by clicking the "Authorize" button below.</value>
+  </data>
+  <data name="lblStreamKey" xml:space="preserve">
+    <value>or Stream Key:</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>No Twitch account? Sign up here.</value>
+  </data>
+  <data name="msgCantAuthorizeDifferentUser" xml:space="preserve">
+    <value>You can't authorize with a different user.</value>
+  </data>
+  <data name="msgAuthorizeToPost" xml:space="preserve">
+    <value>You need to authorize XSplit to post to your Twitch channel.</value>
+  </data>
+  <data name="msgNotAuthorized" xml:space="preserve">
+    <value>You are not authorized to use Twitch.</value>
+  </data>
+  <data name="msgStreamKeyOrPasswordEmpty" xml:space="preserve">
+    <value>Password or stream key is not valid or server may be down. Please try to re-enter your credentials.</value>
+  </data>
+  <data name="StreamChannelIsEmpty" xml:space="preserve">
+    <value>Your channel is not yet available, or access code protected. Please ensure that you have entered your credentials correctly, your channel does not have access code and that you have configured your channel properly in the {0} website.</value>
+  </data>
+  <data name="InvalidIngestLocationPrompt" xml:space="preserve">
+    <value>Unable to connect to the preferred ingest server. Would you like to continue using the default ingest server?</value>
+  </data>
+  <data name="InvalidIngestLocationTitle" xml:space="preserve">
+    <value>Invalid Server</value>
+  </data>
+  <data name="msgIngestLocationUnavailable" xml:space="preserve">
+    <value>Selected ingest server is no longer available.</value>
+  </data>
+  <data name="btnNext" xml:space="preserve">
+    <value>Next</value>
+  </data>
+  <data name="btnFinish" xml:space="preserve">
+    <value>Finish</value>
+  </data>
+  <data name="msgDataRateAdjusted" xml:space="preserve">
+    <value>Your data rate has been adjusted based on the result of bandwidth testing to Twitch server.</value>
+  </data>
+  <data name="msgBwTestSuccess" xml:space="preserve">
+    <value>Your internet connection successfully passed the bandwidth test for {0} kbps.</value>
+  </data>
+  <data name="msgBwTestFailedOrCancelled" xml:space="preserve">
+    <value>Bandwidth testing to Twitch server was not completed.</value>
+  </data>
+  <data name="msgNoBwTestWarning" xml:space="preserve">
+    <value>Your desired data rate has not been tested against your actual upload speed. Proceed anyway?</value>
+  </data>
+  <data name="lblStreamKey2" xml:space="preserve">
+    <value>Stream Key:</value>
+  </data>
+  <data name="msgAuthorizeDifferentUser1" xml:space="preserve">
+    <value>You have authorized with a different user. Do you want to setup your channel with "{0}" instead?</value>
+  </data>
+  <data name="lblHint1" xml:space="preserve">
+    <value>Please enter your Twitch credentials.</value>
+  </data>
+  <data name="lnkSignInViaOAuth" xml:space="preserve">
+    <value>Request authorization</value>
+  </data>
+  <data name="msgAuthorizeToPost1" xml:space="preserve">
+    <value>You need to authorize XSplit to access your Twitch channel.</value>
+  </data>
+  <data name="lblHint0" xml:space="preserve">
+    <value>XSplit has detected that no streaming channels are currently setup on your account. When you signed up for XSplit, your account was associated with Twitch.</value>
+  </data>
+  <data name="rtbAutoIngestResult0" xml:space="preserve">
+    <value>Determining best ingest server...</value>
+  </data>
+  <data name="rtbAutoIngestResult" xml:space="preserve">
+    <value>Attempting to stream to {0} (?)</value>
+  </data>
+  <data name="lblAutoBitrateResultHighestRes" xml:space="preserve">
+    <value>Recommended resolutions for streaming on Twitch is from {0} to {1}. Your bandwidth and hardware has been tested sufficient to stream the highest recommended resolution. Your recommended settings are:</value>
+  </data>
+  <data name="lblAutoBitrateResultMaxRes" xml:space="preserve">
+    <value>Recommended resolutions for streaming on Twitch is from {0} to {1}. Your bandwidth and hardware has been tested sufficient to stream up to {0}. Your recommended settings are:</value>
+  </data>
+  <data name="lblAutoBitrateResultInsufficient" xml:space="preserve">
+    <value>Recommended resolutions for streaming on Twitch is from {0} to {1}. Your {3} may not be sufficient to stream {2}. Your recommended settings are:</value>
+  </data>
+  <data name="lblHint5" xml:space="preserve">
+    <value>Your Twitch channel is ready to be created.
+Please click Finish to proceed or click Back to change your entries.</value>
+  </data>
+  <data name="lblHint5_Mode0" xml:space="preserve">
+    <value>Your Twitch channel is ready to be finalized.
+Please click Finish to proceed or click Back to change your entries.</value>
+  </data>
+  <data name="chkRecordStream" xml:space="preserve">
+    <value>Automatically save recording on local drive</value>
+  </data>
+  <data name="PasswordOrStreamKeyMustBeSpecified" xml:space="preserve">
+    <value>Password or Stream Key must be specified.</value>
+  </data>
+  <data name="StreamKeyMustBeSpecified" xml:space="preserve">
+    <value>Stream Key must be specified.</value>
+  </data>
+  <data name="StreamChannelIsEmpty2" xml:space="preserve">
+    <value>Unavailable or, access code protected. Use stream key instead.</value>
+  </data>
+  <data name="InvalidChannelCredentials" xml:space="preserve">
+    <value>A problem occured while authenticating your credentials. Please check that your username and password are correct, your channel is not access code protected, and your connection to Twitch is okay.</value>
+  </data>
+  <data name="InvalidChannelCredentials2" xml:space="preserve">
+    <value>A problem occured while authenticating your account. Please check that your account is properly authorized and your connection to Twitch is okay.</value>
+  </data>
+  <data name="UsernameIsUnknown" xml:space="preserve">
+    <value>Your channel is not yet available, or access code protected. Please ensure that you have entered your credentials correctly, your channel does not have access code and that you have configured your channel properly in the Twitch website.</value>
+  </data>
+  <data name="neverShowAgain" xml:space="preserve">
+    <value>I no longer want to be linked to Twitch.</value>
+  </data>
+  <data name="msgApiLimitExceeded" xml:space="preserve">
+    <value>API request limit exceeded. Please try again later.</value>
+  </data>
+  <data name="lblHint01" xml:space="preserve">
+    <value>This wizard will help you setup your Twitch channel.</value>
+  </data>
+  <data name="rtbTip" xml:space="preserve">
+    <value>The {0} is possibly not sufficient for the chosen resolution.</value>
+  </data>
+  <data name="rtbTip_ReqUpload" xml:space="preserve">
+    <value>required bandwidth (?)</value>
+  </data>
+  <data name="rtbTip_ReqHw" xml:space="preserve">
+    <value>recommended hardware (?)</value>
+  </data>
+  <data name="rtbTip_ReqUploadAndHw" xml:space="preserve">
+    <value>required bandwidth (?) and recommended hardware (?)</value>
+  </data>
+  <data name="rtbAutoBitrateResult" xml:space="preserve">
+    <value>Capable throughput to target server was {0} kbps (?)</value>
+  </data>
+  <data name="lblLegendText" xml:space="preserve">
+    <value>Recommended setting</value>
+  </data>
+  <data name="linktip_upload" xml:space="preserve">
+    <value>Viewers are interested in a smooth good quality video feed. 
+Most viewers will rather want to see a good {0} 
+instead of a lagging and stuttering {1} stream.</value>
+  </data>
+  <data name="linktip_hardware" xml:space="preserve">
+    <value>If you are playing on either a console 
+or another computer connected via 
+captured card then go ahead and try :-)</value>
+  </data>
+  <data name="linktip_ingest" xml:space="preserve">
+    <value>Of the available target servers provided by Twitch, 
+this server is currently the one with the best response times. 
+The server will likely vary depending on routing, congestion, 
+time of day and other external factors happening on the internet</value>
+  </data>
+  <data name="linktip_datarate_under" xml:space="preserve">
+    <value>Bandwidth between your computer 
+and target server is {0} kbps 
+which is sufficient for {1}.</value>
+  </data>
+  <data name="linktip_datarate_under1" xml:space="preserve">
+    <value>Bandwidth between your computer 
+and target server is {0} kbps 
+which may not be sufficient for {1}.</value>
+  </data>
+  <data name="linktip_datarate_over" xml:space="preserve">
+    <value>Bandwidth between your computer 
+and the target server is capable of more than {0} kbps 
+which is the maximum recommended bitrate for {1}.</value>
+  </data>
+  <data name="linktip_datarate" xml:space="preserve">
+    <value>Bandwidth between your computer 
+and the target server is capable of {0} kbps 
+which is the maximum recommended bitrate for {1}.</value>
+  </data>
+  <data name="AutoIngestName" xml:space="preserve">
+    <value>Automatic</value>
+  </data>
+  <data name="lblAutoBitrateResult" xml:space="preserve">
+    <value>Based on the choice below, the wizard will pre-configure your channel settings to match the desired resolution. Your recommended resolution is:</value>
+  </data>
+  <data name="StreamPopup_AutoIngestStatus" xml:space="preserve">
+    <value>Determining stream target server</value>
+  </data>
+  <data name="StreamPopup_AutoIngestStatus1" xml:space="preserve">
+    <value>Target server found: {0}</value>
+  </data>
+  <data name="StreamPopup_AutoIngestStatus2" xml:space="preserve">
+    <value>Suggested stream target server:</value>
+  </data>
+  <data name="msgSetToAutomatic" xml:space="preserve">
+    <value>The option to confirm the ingest location requires setting the server to 'Automatic'. Do you want to set it?</value>
+  </data>
+  <data name="msgApiError" xml:space="preserve">
+    <value>{0}
+
+Please try again later.</value>
+  </data>
+  <data name="PasswordMustBeSpecified" xml:space="preserve">
+    <value>Password must be specified.</value>
+  </data>
+  <data name="chkConfirmAutoIngestOnBroadcast" xml:space="preserve">
+    <value>Confirm ingest server before broadcasting</value>
+  </data>
+  <data name="lblNote" xml:space="preserve">
+    <value>Note: Some encoding settings may be disabled for compatibility with Twitch.</value>
+  </data>
+  <data name="msgLicenseOffer_AAC" xml:space="preserve">
+    <value>Enabling the higher quality AAC audio is only available for licensed XSplit users.
+
+Upgrade your license now?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="lnkVbrWarning" xml:space="preserve">
+    <value>Your current settings doesn't match the Twitch recommended. More details here.</value>
+  </data>
+  <data name="msgBroadcastTerminated" xml:space="preserve">
+    <value>Your {0} broadcast was terminated.
+Please check your authentication credentials, such as your stream key, and confirm that these are correct by clicking the "{1}" button.</value>
+  </data>
+  <data name="msgConfirmMixerResFpsAdjustment" xml:space="preserve">
+    <value>The mixer will now be set to {0}. Apply?</value>
+  </data>
+  <data name="lblAuth" xml:space="preserve">
+    <value>Credentials:</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="rbAuthToken" xml:space="preserve">
+    <value>Web Authentication (Recommended)</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="rbAuthStreamKey" xml:space="preserve">
+    <value>Stream Key</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="lblUsername2" xml:space="preserve">
+    <value>Account:</value>
+    <comment>Properties; Wizard</comment>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>Authorize XSplit to use {0}</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>Remove authorization</value>
+  </data>
+  <data name="lblSwitchAccount" xml:space="preserve">
+    <value>Switch account</value>
+  </data>
+  <data name="msgSwitchToStreamKeyAuthWarning" xml:space="preserve">
+    <value>Selecting this option will de-authorize the current account.</value>
+  </data>
+  <data name="msg403OnGetChannel" xml:space="preserve">
+    <value>Your Twitch account needs to have two-factor authentication enabled to be able to stream. [Learn More](https://xspl.it/bc/twitch2fa)</value>
+  </data>
+  <data name="btnSetup2FA" xml:space="preserve">
+    <value>Set up 2FA</value>
+  </data>
+  <data name="lblStreamName2" xml:space="preserve">
+    <value>Stream Key</value>
+  </data>
+</root>

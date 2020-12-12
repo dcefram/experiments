@@ -1,0 +1,35 @@
+{
+	"title": {
+		"message": "crwdns11543:0crwdne11543:0"
+	},
+	"header": {
+		"message": "crwdns11544:0crwdne11544:0"
+	},
+	"hide_permission_alerts": {
+		"message": "crwdns14272:0crwdne14272:0"
+	},
+	"column1": {
+		"message": "crwdns11545:0crwdne11545:0"
+	},
+	"column2": {
+		"message": "crwdns11546:0crwdne11546:0"
+	},
+	"sources": {
+		"message": "crwdns14273:0crwdne14273:0"
+	},
+	"extensions": {
+		"message": "crwdns14274:0crwdne14274:0"
+	},
+	"footer": {
+		"message": "crwdns11547:0crwdne11547:0"
+	},
+	"button.ok": {
+		"message": "crwdns11548:0crwdne11548:0"
+	},
+	"button.cancel": {
+		"message": "crwdns11549:0crwdne11549:0"
+	},
+	"button.apply": {
+		"message": "crwdns11550:0crwdne11550:0"
+	}
+}

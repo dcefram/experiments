@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="msgAuthExpiredOrInvalid" xml:space="preserve">
+    <value>アクセストークンが無い、期限切れ、または無効です。再認証を行ってください。
+
+
+問題が解決しない場合は、サポートに連絡をしてください。</value>
+  </data>
+  <data name="AutoRTMPServer" xml:space="preserve">
+    <value>&lt;自動&gt;</value>
+  </data>
+  <data name="lblClickAuthorize" xml:space="preserve">
+    <value>YouNowアカウントをリンクするには「承認」をクリックしてください。</value>
+  </data>
+  <data name="fmtAutoBitrateResult" xml:space="preserve">
+    <value>指定サーバーに可能なスループットは {0} kbps (?)</value>
+  </data>
+  <data name="fmtAutoIngestAfter" xml:space="preserve">
+    <value>{0}への放送を試みています (?)</value>
+  </data>
+  <data name="YouNowProps" xml:space="preserve">
+    <value>YouNowプロパティ</value>
+  </data>
+  <data name="btnAuthorize" xml:space="preserve">
+    <value>承認</value>
+  </data>
+  <data name="lblAutoIngestBefore" xml:space="preserve">
+    <value>最適なサーバーを決定しています...</value>
+  </data>
+  <data name="lblBwTestFailed" xml:space="preserve">
+    <value>帯域幅 (Bandwidth) のテストに失敗しました。ネットワーク接続を確認して再度お試しください。</value>
+  </data>
+  <data name="lblDeauthorize" xml:space="preserve">
+    <value>承認解除</value>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>YouNowアカウントをお持ちでない場合は、こちらで登録してください。</value>
+  </data>
+  <data name="msgAPIError" xml:space="preserve">
+    <value>YouNowのサーバーとの通信に失敗しました。後でもう一度やり直してください。</value>
+  </data>
+  <data name="msgAuthorizeRequired" xml:space="preserve">
+    <value>まず、アカウントを承認する必要があります。</value>
+  </data>
+  <data name="lblServer" xml:space="preserve">
+    <value>サーバー:</value>
+  </data>
+  <data name="lblUsername" xml:space="preserve">
+    <value>ユーザーID:</value>
+  </data>
+  <data name="lblStreamDelay" xml:space="preserve">
+    <value>秒（RTMPのみサポートされております）</value>
+  </data>
+  <data name="useFTL" xml:space="preserve">
+    <value>FTL を使用する（ベータ版）</value>
+  </data>
+  <data name="msgPeakBitrateNotEnough" xml:space="preserve">
+    <value>あなたの現在の帯域幅の設定の {2} kbpsが高すぎるかもしれません。選択した {0} インジェストサーバーとネットワークの環境などを参考にした結果、最大ビデオビットレートを {1} kbpsに設定する事をお勧めいたします。
+
+ＯＫをクリックする事でビデオビットレートかインジェストサーバーを変更します。
+無視か [X] をクリックし配信を続行します。</value>
+  </data>
+  <data name="msgPublishRejectedDeniedBadName" xml:space="preserve">
+    <value>{0} のインジェストロケーションにデータを送る事ができませんでした。YouNowに別のインジェストサーバーを使わせるにはOKをクリックしてください。</value>
+  </data>
+  <data name="msgVcodecNotSupportedForFtl" xml:space="preserve">
+    <value>このエンコーダーはFTL配信をまだサポートしておりません。</value>
+  </data>
+  <data name="msgGoLiveNotActive" xml:space="preserve">
+    <value>Before you can start streaming, click [here](https://www.younow.com/broadcast) to start the Go Live process on YouNow.</value>
+  </data>
+</root>

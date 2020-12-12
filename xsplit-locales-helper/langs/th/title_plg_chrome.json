@@ -1,0 +1,173 @@
+{
+  "title.content": {
+    "message": "เนื้อหา"
+  },
+  "title.use_custom_script": {
+    "message": "ใช้สคริปต์แบบกำหนดเอง"
+  },
+  "title.edit_script": {
+    "message": "แก้ไขสคริปต์"
+  },
+  "title.format": {
+    "message": "Format"
+  },
+  "title.font": {
+    "message": "ฟ้อนต์"
+  },
+  "title.color": {
+    "message": "สี"
+  },
+  "title.outline": {
+    "message": "เอาท์ไลน์"
+  },
+  "title.opacity": {
+    "message": "ความทึบแสง"
+  },
+  "title.style": {
+    "message": "สไตล์"
+  },
+  "title.align": {
+    "message": "จัดเส้นตรง"
+  },
+  "title.shadow": {
+    "message": "เงา"
+  },
+  "title.distance": {
+    "message": "ระยะ"
+  },
+  "title.blur": {
+    "message": "เบลอ"
+  },
+  "title.angle": {
+    "message": "มุม"
+  },
+  "title.animation": {
+    "message": "อนิเมชั่น"
+  },
+  "title.none": {
+    "message": "ว่าง"
+  },
+  "title.scroll": {
+    "message": "เลื่อน"
+  },
+  "title.fade": {
+    "message": "จาง"
+  },
+  "title.scrolling": {
+    "message": "การเลื่อน"
+  },
+  "title.line_limit": {
+    "message": "จำกัดบรรทัด"
+  },
+  "title.direction": {
+    "message": "ทิศทาง"
+  },
+  "title.speed": {
+    "message": "ความเร็ว"
+  },
+  "title.scroll_units": {
+    "message": "px/วิ"
+  },
+  "title.delimeter": {
+    "message": "ตัวคั่น"
+  },
+  "title.interval": {
+    "message": "ระยะห่าง"
+  },
+  "title.fade_speed": {
+    "message": "ความเร็วการจาง"
+  },
+  "title.enable_60_fps": {
+    "message": "เปิดการใช้งานจนถึง 60 FPS"
+  },
+  "title.enable_60_fps_tooltip": {
+    "message": "อาจจจะต้องการทรัพยากร GPU/CPU เพิ่มเติม โปรดทราบว่าการเปลี่ยนตัวเลือกนี้จะทำให้ซอสทำการรีเฟรช เพื่อประสิทธิภาพที่ดีที่สุดเปิดการใช้ซอสบราวเซอร์ปรับแต่งค่าแบบพิเศษภายใต้ เครื่องมือ -> การตั้งค่า -> ขึ้นสูง"
+  },
+  "title.ok": {
+    "message": "โอเค"
+  },
+  "title.cancel": {
+    "message": "ยกเลิก"
+  },
+  "title.hint.content_section": {
+    "message": "ใส่ข้อความของคุณที่นี่ คุณสามารถใช้ &amp;lt;br&amp;gt; เพื้อแทรกการตัดยรรทัดได้ คุณยังสามารถใช้ BBcode เพื่อที่จะจัดรูปแบบข้อความของคุณได้ดียิ่งขึ้น คลิ๊ก[ที่นี่](https://xspl.it/bbcode) เพื่อเรียนรู้เพิ่มเติม"
+  },
+  "title.deprecated_scripts": {
+    "message": "สคริปต์ที่ใช้ในแหล่งข้อความนี้มี script methods ที่เลิกใช้แล้ว อัพเดทสคริปต์โดยทำดังต่อไปนี้:[br]1. คลิ๊กที่ปุ่ม 'แก้ไขสคริปต์' ในแท็ปข้อความ[br]2.เลือกสคริปต์เทมเพลตและกดปุ่ม 'อัพเดทข้อความ'"
+  },
+  "title.outdated_scripts": {
+    "message": "สคริปต์ที่ใช้ในแหล่งข้อความนี้มีอาจจะมีรุ่นที่ใหม่กว่าแล้ว อัพเดทสคริปต์โดยทำดังต่อไปนี้:[br]1. คลิ๊กที่ปุ่ม 'แก้ไขสคริปต์' ในแท็ปข้อความ[br]2.เลือกสคริปต์เทมเพลต,ปรับแต่งการตั้งค่า และกดปุ่ม 'อัพเดทข้อความ'"
+  },
+  "title.script_editor.edit_script": {
+    "message": "แก้ไขสคริปต์ - "
+  },
+  "title.script_editor.title": {
+    "message": "สคริปต์"
+  },
+  "title.script_editor.template": {
+    "message": "เทมเพลต"
+  },
+  "title.script_editor.settings": {
+    "message": "การตั้งค่า"
+  },
+  "title.script_editor.script": {
+    "message": "สคริปต์"
+  },
+  "title.script_editor.back": {
+    "message": "ย้อนกลับ"
+  },
+  "title.script_editor.update_title": {
+    "message": "อัพเดทข้อความ"
+  },
+  "title.help.outline_title": {
+    "message": "ใช้เอาท์ไลน์สำหรับแหล่งที่มาของข้อความ"
+  },
+  "title.help.outline_message": {
+    "message": "มีข้อจำกัดสำหรับขนาดของฟอนต์เวลาใช้เอาท์ไลน์ คุณสามารถเปลี่ยนแหล่งที่มาข้อความได้ในฉากของคุณ แต่ข้อความจะเปลี่ยนไปถึงขนาดสูงสุดของฟอนต์เท่านั้น"
+  },
+  "title.help.pause_script_title": {
+    "message": "หยุดหรือดำเนินการสคริปต์"
+  },
+  "title.help.pause_script_message": {
+    "message": "คุณสามารถ หยุด/เล่น สคริปต์ที่สนับสนุนเช่นกโหมดการจับเวลาและโหมดช่วงเวลา ของสคริปต์นาฬิกาพื้นฐานทั่วไปหรือการสนับสนุนสคริปต์แบบกำหนดเอง"
+  },
+  "title.help.delimeter_title": {
+    "message": "ตัวคั่น"
+  },
+  "title.help.delimeter_message": {
+    "message": "ตัวคั่นคือตัวอักษรหรือชุดของตัวอักษรที่ใช้แบ่งข้อความออกเป็นกลุ่มและจะถูกแสดงต่อเอฟเฟ็คต์การจาง"
+  },
+  "title.help.interval_title": {
+    "message": "ระยะห่าง"
+  },
+  "title.help.interval_message": {
+    "message": "ระยะเวลาคือเวลาที่ข้อความจะแสดงก่อนที่เอฟเฟ็คต์การจางจะเกิดขึ้น"
+  },
+  "title.pause_hotkey": {
+    "message": "เมื่อแหล่งที่มาถูกเลือกในฉาก คุณอาจจะใช้คีย์ลัด (กด P) เพื่อที่การเล่นและหยุดสคริปต์ที่สนับสนุน"
+  },
+  "title.direction_options_right_to_left": {
+    "message": "ขวาไปซ้าย"
+  },
+  "title.direction_options_left_to_right": {
+    "message": "ซ้ายไปขวา"
+  },
+  "title.direction_options_bottom_to_top": {
+    "message": "ล่างขึ้นบน"
+  },
+  "title.direction_options_top_to_bottom": {
+    "message": "บนลงล่าง"
+  },
+  "title.outline_options_none": {
+    "message": "ว่าง"
+  },
+  "title.outline_options_thin": {
+    "message": "บาง"
+  },
+  "title.outline_options_thick": {
+    "message": "หนา"
+  },
+  "title.outline_options_thickest": {
+    "message": "หนาที่สุด"
+  }
+}

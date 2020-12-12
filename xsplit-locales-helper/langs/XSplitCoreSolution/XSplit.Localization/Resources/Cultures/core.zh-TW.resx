@@ -1,0 +1,3663 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutBroadcaster" xml:space="preserve">
+    <value>關於Broadcaster</value>
+  </data>
+  <data name="AboutBroadcaster_Acknowledgements" xml:space="preserve">
+    <value>鳴謝:</value>
+  </data>
+  <data name="AboutBroadcaster_AcknowledgementsFullText" xml:space="preserve">
+    <value>鳴謝：XSplit BROADCASTER基於Multicam 工作室的原始代碼, Vladimir H​​melyoff 和Egor Hmelyoff 開發的產品.此程序的某些部分使用開放源代碼軟件庫,請參閱一般許可條款和這裡的詳細信息.</value>
+  </data>
+  <data name="AboutBroadcaster_LicenseLinkText" xml:space="preserve">
+    <value>一般許可條款和詳細信息</value>
+  </data>
+  <data name="aboutToolStripMenuItem" xml:space="preserve">
+    <value>關於(&amp;A)</value>
+  </data>
+  <data name="addCameraToolStripMenuItem" xml:space="preserve">
+    <value>視頻</value>
+  </data>
+  <data name="addCameraToolStripMenuItem2" xml:space="preserve">
+    <value>視頻</value>
+  </data>
+  <data name="addChannelsToolStripMenuItem" xml:space="preserve">
+    <value>添加頻道...</value>
+  </data>
+  <data name="addChannelsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>建立一個新的輸出</value>
+  </data>
+  <data name="addGameTsmi2" xml:space="preserve">
+    <value>遊戲捕獲(&amp;G)</value>
+  </data>
+  <data name="addMediaFileToolStripMenuItem2" xml:space="preserve">
+    <value>媒體檔案 (視頻, 圖片)... (&amp;M)</value>
+  </data>
+  <data name="addMoreTsmi2" xml:space="preserve">
+    <value>從外掛程式存儲區獲取更多外掛程式</value>
+  </data>
+  <data name="addMoreTsmi2Xbc5003" xml:space="preserve">
+    <value>尋找更多資源</value>
+  </data>
+  <data name="addRTSPSourceToolStripMenuItem" xml:space="preserve">
+    <value>添加直播...(&amp;V)</value>
+  </data>
+  <data name="addScreenRegionToolStripMenuItem2" xml:space="preserve">
+    <value>屏幕捕獲...(&amp;R)</value>
+  </data>
+  <data name="addSource" xml:space="preserve">
+    <value>添加資源</value>
+  </data>
+  <data name="addSource_Tooltip" xml:space="preserve">
+    <value>添加資源</value>
+  </data>
+  <data name="addSwfPluginToolStripMenuItem" xml:space="preserve">
+    <value>添加 SWF 外掛程式...</value>
+  </data>
+  <data name="AddSwfRtmp" xml:space="preserve">
+    <value>添加IP攝像機/RTSP直播</value>
+  </data>
+  <data name="addTitleToolStripMenuItem" xml:space="preserve">
+    <value>添加標題...(&amp;T)</value>
+  </data>
+  <data name="addUrlTsmi" xml:space="preserve">
+    <value>IP 攝像機 (RTSP)...</value>
+  </data>
+  <data name="addUrlTsmi2" xml:space="preserve">
+    <value>IP 攝像機 (RTSP)...</value>
+  </data>
+  <data name="announceToolStripMenuItem" xml:space="preserve">
+    <value>分享你的直播...(&amp;H)</value>
+  </data>
+  <data name="announceToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>分享我的直播...</value>
+  </data>
+  <data name="AskToRetrySync" xml:space="preserve">
+    <value>無法與伺服器同步您的設定檔.</value>
+  </data>
+  <data name="BandwidthTester" xml:space="preserve">
+    <value>頻寬測試</value>
+  </data>
+  <data name="boostCaptureFramerateTsmi" xml:space="preserve">
+    <value>提高捕獲畫面播放速率</value>
+  </data>
+  <data name="BroadcasterSceneX_desc" xml:space="preserve">
+    <value>切換到 [SceneX]</value>
+  </data>
+  <data name="BroadcasterScene1_desc" xml:space="preserve">
+    <value>切換到 [Scene1]</value>
+  </data>
+  <data name="BroadcasterScene10_desc" xml:space="preserve">
+    <value>切換到 [Scene10]</value>
+  </data>
+  <data name="BroadcasterScene11_desc" xml:space="preserve">
+    <value>切換到 [Scene11]</value>
+  </data>
+  <data name="BroadcasterScene12_desc" xml:space="preserve">
+    <value>切換到 [Scene12]</value>
+  </data>
+  <data name="BroadcasterScene2_desc" xml:space="preserve">
+    <value>切換到 [Scene2]</value>
+  </data>
+  <data name="BroadcasterScene3_desc" xml:space="preserve">
+    <value>切換到 [Scene3]</value>
+  </data>
+  <data name="BroadcasterScene4_desc" xml:space="preserve">
+    <value>切換到 [Scene4]</value>
+  </data>
+  <data name="BroadcasterScene5_desc" xml:space="preserve">
+    <value>切換到 [Scene5]</value>
+  </data>
+  <data name="BroadcasterScene6_desc" xml:space="preserve">
+    <value>切換到 [Scene6]</value>
+  </data>
+  <data name="BroadcasterScene7_desc" xml:space="preserve">
+    <value>切換到 [Scene7]</value>
+  </data>
+  <data name="BroadcasterScene8_desc" xml:space="preserve">
+    <value>切換到 [Scene8]</value>
+  </data>
+  <data name="BroadcasterScene9_desc" xml:space="preserve">
+    <value>切換到 [Scene9]</value>
+  </data>
+  <data name="BroadcasterSettings" xml:space="preserve">
+    <value>設置</value>
+  </data>
+  <data name="BroadcasterToggleBroadcast" xml:space="preserve">
+    <value>啟動/停止廣播 - {0}</value>
+  </data>
+  <data name="BroadcasterToggleBroadcastXbc5003" xml:space="preserve">
+    <value>啟動/停止輸出 - {0}</value>
+  </data>
+  <data name="BroadcasterToggleBroadcast1" xml:space="preserve">
+    <value>啟動/停止 {0}</value>
+  </data>
+  <data name="BroadcasterToggleBroadcast2" xml:space="preserve">
+    <value>開始/停止錄製 {0}</value>
+  </data>
+  <data name="BroadcasterTogglePauseRecording" xml:space="preserve">
+    <value>暫停/繼續錄製 {0}</value>
+  </data>
+  <data name="BroadcasterToggleMic_desc" xml:space="preserve">
+    <value>切換麥克風</value>
+  </data>
+  <data name="BroadcasterToggleSpeaker_desc" xml:space="preserve">
+    <value>切換揚聲器</value>
+  </data>
+  <data name="PTT_desc" xml:space="preserve">
+    <value>一鍵通</value>
+  </data>
+  <data name="BroadcasterTogglePauseRecording_desc" xml:space="preserve">
+    <value>暫停/繼續錄製</value>
+  </data>
+  <data name="BroadcasterToggleOverlay_desc" xml:space="preserve">
+    <value>顯示/隱藏覆蓋</value>
+  </data>
+  <data name="BroadcasterToggleOverlay2_desc" xml:space="preserve">
+    <value>顯示/隱藏覆蓋</value>
+  </data>
+  <data name="BroadcasterResizeSource1_desc" xml:space="preserve">
+    <value>添加資源到屏幕</value>
+  </data>
+  <data name="BroadcasterResizeSource2_desc" xml:space="preserve">
+    <value>修改資源大小 (1/4)</value>
+  </data>
+  <data name="BroadcasterResizeSource3_desc" xml:space="preserve">
+    <value>修改資源大小 (1/8)</value>
+  </data>
+  <data name="BroadcasterScnPreset1_desc" xml:space="preserve">
+    <value>切換到預設1（實時場景）</value>
+  </data>
+  <data name="BroadcasterScnPreset2_desc" xml:space="preserve">
+    <value>切換到預設2（實時場景）</value>
+  </data>
+  <data name="BroadcasterScnPreset3_desc" xml:space="preserve">
+    <value>切換到預設3（實時場景）</value>
+  </data>
+  <data name="BroadcastStatus_AcquiringConfiguration" xml:space="preserve">
+    <value>獲取直播配置{0}</value>
+  </data>
+  <data name="BroadcastStatus_AcquiringConfigurationLR" xml:space="preserve">
+    <value>正在獲取錄製配置</value>
+  </data>
+  <data name="BroadcastStatus_InitiatingStream" xml:space="preserve">
+    <value>啟動直播{0}</value>
+  </data>
+  <data name="BroadcastStatus_InitiatingStreamLR" xml:space="preserve">
+    <value>開始錄製</value>
+  </data>
+  <data name="BroadcastStatus_Streaming" xml:space="preserve">
+    <value>{0}直播</value>
+  </data>
+  <data name="broadcastToolStripMenuItem" xml:space="preserve">
+    <value>廣播(&amp;B)</value>
+  </data>
+  <data name="broadcastToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>輸出</value>
+  </data>
+  <data name="btnAddChannel" xml:space="preserve">
+    <value>添加...</value>
+  </data>
+  <data name="btnAddRes" xml:space="preserve">
+    <value>添加...</value>
+  </data>
+  <data name="btnAddService" xml:space="preserve">
+    <value>添加服務</value>
+  </data>
+  <data name="btnApply" xml:space="preserve">
+    <value>應用</value>
+  </data>
+  <data name="btnAuthorize" xml:space="preserve">
+    <value>授權</value>
+  </data>
+  <data name="btnCamDS" xml:space="preserve">
+    <value>配置</value>
+  </data>
+  <data name="btnCancel" xml:space="preserve">
+    <value>取消</value>
+  </data>
+  <data name="btnCheckAllRes" xml:space="preserve">
+    <value>選擇所有</value>
+  </data>
+  <data name="btnClearAllRes" xml:space="preserve">
+    <value>清除全部</value>
+  </data>
+  <data name="btnColorChromaEyedrop" xml:space="preserve">
+    <value>吸管工具</value>
+  </data>
+  <data name="btnColorPicReset" xml:space="preserve">
+    <value>重置</value>
+  </data>
+  <data name="btnContinue" xml:space="preserve">
+    <value>繼續</value>
+  </data>
+  <data name="btnEditChannel" xml:space="preserve">
+    <value>編輯...</value>
+  </data>
+  <data name="btnEditRes" xml:space="preserve">
+    <value>編輯...</value>
+  </data>
+  <data name="btnFinish" xml:space="preserve">
+    <value>完成</value>
+  </data>
+  <data name="btnLiveApply" xml:space="preserve">
+    <value>應用</value>
+  </data>
+  <data name="btnLogin" xml:space="preserve">
+    <value>登入</value>
+  </data>
+  <data name="btnLogout" xml:space="preserve">
+    <value>登出</value>
+  </data>
+  <data name="btnPos3DReset" xml:space="preserve">
+    <value>重置</value>
+  </data>
+  <data name="btnPosCropReset" xml:space="preserve">
+    <value>重置</value>
+  </data>
+  <data name="btnRemoveChannel" xml:space="preserve">
+    <value>移除</value>
+  </data>
+  <data name="btnRemoveRes" xml:space="preserve">
+    <value>移除</value>
+  </data>
+  <data name="btnRestoreAdvancedSettings" xml:space="preserve">
+    <value>還原預設值</value>
+  </data>
+  <data name="btnRestoreDefaultHotKeys" xml:space="preserve">
+    <value>還原預設值</value>
+  </data>
+  <data name="btnRestoreInternalSettings" xml:space="preserve">
+    <value>還原預設值</value>
+  </data>
+  <data name="btnRestoreResolutions" xml:space="preserve">
+    <value>還原預設值</value>
+  </data>
+  <data name="btnScrCapReset" xml:space="preserve">
+    <value>重置</value>
+  </data>
+  <data name="btnSignIn" xml:space="preserve">
+    <value>登入</value>
+  </data>
+  <data name="btnSignOut" xml:space="preserve">
+    <value>登出</value>
+  </data>
+  <data name="btnStartTest_2" xml:space="preserve">
+    <value>再次測試</value>
+  </data>
+  <data name="btnUpdateChannel" xml:space="preserve">
+    <value>更新通道</value>
+  </data>
+  <data name="btnVidCueAddCuePoint" xml:space="preserve">
+    <value>添加到提示點</value>
+  </data>
+  <data name="btnVidCueDelete" xml:space="preserve">
+    <value>刪除</value>
+  </data>
+  <data name="btnVidCueEditCuePoint" xml:space="preserve">
+    <value>編輯</value>
+  </data>
+  <data name="btnVidPlayReset" xml:space="preserve">
+    <value>重置</value>
+  </data>
+  <data name="btnVidPlaySetEndTime" xml:space="preserve">
+    <value>設置</value>
+  </data>
+  <data name="btnVidPlaySetStartTime" xml:space="preserve">
+    <value>設置</value>
+  </data>
+  <data name="btnXSplitSearch" xml:space="preserve">
+    <value>添加設定檔圖像...</value>
+  </data>
+  <data name="BwTester_Aborted" xml:space="preserve">
+    <value>中止.</value>
+  </data>
+  <data name="BwTester_Done" xml:space="preserve">
+    <value>完成.</value>
+  </data>
+  <data name="BwTester_FinalStats" xml:space="preserve">
+    <value>平均數據速率: {0} kbps.</value>
+  </data>
+  <data name="BwTester_Green" xml:space="preserve">
+    <value>測試結果: 綠色</value>
+  </data>
+  <data name="BwTester_Init0" xml:space="preserve">
+    <value>嘗試{0} kbps直播最大數據速率...</value>
+  </data>
+  <data name="BwTester_Init01" xml:space="preserve">
+    <value>嘗試在 {0} kbps 到 {1}直播</value>
+  </data>
+  <data name="BwTester_Init1" xml:space="preserve">
+    <value>正在初始化連接到伺服器...</value>
+  </data>
+  <data name="BwTester_Init2" xml:space="preserve">
+    <value>正在初始化傳輸到伺服器...</value>
+  </data>
+  <data name="BwTester_Red" xml:space="preserve">
+    <value>測試結果: 紅色</value>
+  </data>
+  <data name="BwTester_RedOffer" xml:space="preserve">
+    <value>你可以重做測試,但如果測試一再地給你紅色信號,你可能需要考慮降低您的混合音頻比特率和最大的視頻比特率{0}.</value>
+  </data>
+  <data name="BwTester_RedOffer2" xml:space="preserve">
+    <value>到以下 {0} kbps</value>
+  </data>
+  <data name="BwTester_Sending" xml:space="preserve">
+    <value>{1:0} ms 期間取得的數據速率: {0} kbps...</value>
+  </data>
+  <data name="BwTester_Sending1" xml:space="preserve">
+    <value>目前流量:{0} kbps</value>
+  </data>
+  <data name="BwTester_Sending2" xml:space="preserve">
+    <value>初始平均數據速率: {0} kbps.</value>
+  </data>
+  <data name="BwTester_Sending3" xml:space="preserve">
+    <value>平均數據在 {1:0} 秒之後: {0} kbps...</value>
+  </data>
+  <data name="BwTester_AvgBitrate" xml:space="preserve">
+    <value>計算出的平均數據速率: {0} kbps</value>
+  </data>
+  <data name="BwTester_Yellow" xml:space="preserve">
+    <value>測試結果:黃色</value>
+  </data>
+  <data name="BwTester_ResultLegend" xml:space="preserve">
+    <value>結果圖例:
+綠色:目標比特率實現並且沒有丟幀
+黃色:目標比特率沒有達到所有測試.你應該降低比特率,然後重試.
+紅色:當前出現丟幀.您不應使用當前比特率.</value>
+  </data>
+  <data name="BwTester_YellowOffer" xml:space="preserve">
+    <value>如果測試一再地給你黃色信號,你可能需要考慮降低您的混合音頻比特率和最大的視頻比特率{0}.</value>
+  </data>
+  <data name="BwTester_YellowOffer2" xml:space="preserve">
+    <value>微調至以下 {0} kbps</value>
+  </data>
+  <data name="cboMaxBitrate_Tooltip" xml:space="preserve">
+    <value>設置直播時希望使用的最高碼率</value>
+  </data>
+  <data name="cboQuality_Tooltip" xml:space="preserve">
+    <value>畫質: 0 - 最低畫質，需要低帶寬(CRF = 35) 畫質: 10 - 最高畫質，需要高帶寬(CRF = 25)</value>
+  </data>
+  <data name="cboVBitrate_Auto" xml:space="preserve">
+    <value>自動</value>
+  </data>
+  <data name="ChannelNameAlreadyExists" xml:space="preserve">
+    <value>{0} 已經存在.</value>
+  </data>
+  <data name="ChannelNameIsEmpty" xml:space="preserve">
+    <value>請指定頻道名稱.</value>
+  </data>
+  <data name="checkStatus" xml:space="preserve">
+    <value>正在檢查更新等級...請稍候...</value>
+  </data>
+  <data name="checkStatus_Tier4" xml:space="preserve">
+    <value>正在檢查等級4...請稍候...</value>
+  </data>
+  <data name="checkUpdatesToolStripMenuItem" xml:space="preserve">
+    <value>檢查更新</value>
+  </data>
+  <data name="chkAdvCapSpkrOut" xml:space="preserve">
+    <value>默認捕捉揚聲器輸出</value>
+  </data>
+  <data name="chkAlwaysEnableAero" xml:space="preserve">
+    <value>總是啟用Aero主題</value>
+  </data>
+  <data name="chkAutoLogin" xml:space="preserve">
+    <value>自動登入</value>
+  </data>
+  <data name="chkColorChromaKey" xml:space="preserve">
+    <value>色度鍵</value>
+  </data>
+  <data name="chkDisableAero" xml:space="preserve">
+    <value>禁用 Aero 主題</value>
+  </data>
+  <data name="chkEnableGameSource" xml:space="preserve">
+    <value>啟用遊戲源</value>
+  </data>
+  <data name="chkEnableGameSource_Tooltip" xml:space="preserve">
+    <value>遊戲源可以在全屏模式下用於捕獲遊戲.</value>
+  </data>
+  <data name="chkEnableSkypeInteraction" xml:space="preserve">
+    <value>啟用Skype互交</value>
+  </data>
+  <data name="chkEnableVCamOutput" xml:space="preserve">
+    <value>啟用虛擬攝像機輸出</value>
+  </data>
+  <data name="chkGain" xml:space="preserve">
+    <value>靜音檢測</value>
+  </data>
+  <data name="chkLogSysInfo" xml:space="preserve">
+    <value>日誌系統資訊</value>
+  </data>
+  <data name="chkLogSysInfo_Tooltip" xml:space="preserve">
+    <value>記錄系統信息並保存至XSplit服務器.系統信息包括操作系統,處理器,顯卡和分辨率.</value>
+  </data>
+  <data name="chkPosKeepAR" xml:space="preserve">
+    <value>保持縱橫比</value>
+  </data>
+  <data name="chkPosLock" xml:space="preserve">
+    <value>鎖定位置</value>
+  </data>
+  <data name="chkRecordStream" xml:space="preserve">
+    <value>自動在本地磁碟機上保存錄製</value>
+  </data>
+  <data name="chkRememberMe" xml:space="preserve">
+    <value>記得我</value>
+  </data>
+  <data name="chkScrCapLayered" xml:space="preserve">
+    <value>捕獲階層式視窗</value>
+  </data>
+  <data name="chkScrCapNoAero" xml:space="preserve">
+    <value>禁用分層視窗的捕捉</value>
+  </data>
+  <data name="chkScrCapOptiTextResize" xml:space="preserve">
+    <value>優化文本調整大小</value>
+  </data>
+  <data name="chkScrCapShowMouse" xml:space="preserve">
+    <value>顯示滑鼠</value>
+  </data>
+  <data name="chkScrCapShowMouseclicks" xml:space="preserve">
+    <value>顯示滑鼠點擊</value>
+  </data>
+  <data name="chkSkipIntro" xml:space="preserve">
+    <value>不要再顯示此視窗.</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace" xml:space="preserve">
+    <value>逐行掃描</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace1" xml:space="preserve">
+    <value>逐行掃描:標準</value>
+  </data>
+  <data name="chkVidPlayForceDeinterlace2" xml:space="preserve">
+    <value>逐行掃描:優化</value>
+  </data>
+  <data name="chkVidPlayRememberPosition" xml:space="preserve">
+    <value>記住回放位置</value>
+  </data>
+  <data name="chkVidPlayStartOnLoad" xml:space="preserve">
+    <value>在加載場景時開始</value>
+  </data>
+  <data name="clockTransition" xml:space="preserve">
+    <value>時鐘</value>
+  </data>
+  <data name="collapseTransition" xml:space="preserve">
+    <value>崩潰</value>
+  </data>
+  <data name="ConfirmCreationOfNonExistingFolder" xml:space="preserve">
+    <value>"{0}"不存在,是否創建?</value>
+  </data>
+  <data name="contentToolStripMenuItem" xml:space="preserve">
+    <value>手動</value>
+  </data>
+  <data name="CustomFramerateLabel" xml:space="preserve">
+    <value>自訂FPS...</value>
+  </data>
+  <data name="debugOptions" xml:space="preserve">
+    <value>調試選項</value>
+  </data>
+  <data name="editChannelsToolStripMenuItem" xml:space="preserve">
+    <value>編輯頻道...</value>
+  </data>
+  <data name="EditCuePoints" xml:space="preserve">
+    <value>提示點</value>
+  </data>
+  <data name="editResolutions" xml:space="preserve">
+    <value>編輯分辨率...</value>
+  </data>
+  <data name="enableVcamWhileStreamingTsmi" xml:space="preserve">
+    <value>在直播時啟用虛擬攝像機</value>
+  </data>
+  <data name="exitToolStripMenuItem" xml:space="preserve">
+    <value>退出(&amp;X)</value>
+  </data>
+  <data name="ExternalViewport" xml:space="preserve">
+    <value>投影儀</value>
+  </data>
+  <data name="externalViewportTsmi" xml:space="preserve">
+    <value>投影儀</value>
+  </data>
+  <data name="fadeTransition" xml:space="preserve">
+    <value>褪去</value>
+  </data>
+  <data name="FailureCreatingNonExistingFolder" xml:space="preserve">
+    <value>無法創建資料夾"{0}".{1}.</value>
+  </data>
+  <data name="fanTransition" xml:space="preserve">
+    <value>粉絲</value>
+  </data>
+  <data name="feedbackToolStripMenuItem" xml:space="preserve">
+    <value>發送回饋...</value>
+  </data>
+  <data name="fileToolStripMenuItem" xml:space="preserve">
+    <value>檔案(&amp;F)</value>
+  </data>
+  <data name="folderLocationLabel" xml:space="preserve">
+    <value>位置:</value>
+  </data>
+  <data name="frameRateToolStripMenuItem" xml:space="preserve">
+    <value>幀率(&amp;F)</value>
+  </data>
+  <data name="FreePopup" xml:space="preserve">
+    <value>通知</value>
+  </data>
+  <data name="frmAnnounce" xml:space="preserve">
+    <value>分享直播</value>
+  </data>
+  <data name="frmChannelProps" xml:space="preserve">
+    <value>通道屬性</value>
+  </data>
+  <data name="gainLatencyLabel" xml:space="preserve">
+    <value>沉默期:</value>
+  </data>
+  <data name="grpAudio" xml:space="preserve">
+    <value>音訊</value>
+  </data>
+  <data name="grpAudioEncoding" xml:space="preserve">
+    <value>音訊編碼</value>
+  </data>
+  <data name="grpChannel" xml:space="preserve">
+    <value>通道</value>
+  </data>
+  <data name="grpEncoding" xml:space="preserve">
+    <value>編碼</value>
+  </data>
+  <data name="grpGeneral" xml:space="preserve">
+    <value>一般</value>
+  </data>
+  <data name="grpMyRecordings" xml:space="preserve">
+    <value>記錄</value>
+  </data>
+  <data name="grpVideoEncoding" xml:space="preserve">
+    <value>視頻編碼</value>
+  </data>
+  <data name="helpToolStripMenuItem" xml:space="preserve">
+    <value>幫助(&amp;H)</value>
+  </data>
+  <data name="holeTransition" xml:space="preserve">
+    <value>孔</value>
+  </data>
+  <data name="InputCustomFramerate" xml:space="preserve">
+    <value>自訂畫面播放速率</value>
+  </data>
+  <data name="InvalidChannelCredentials" xml:space="preserve">
+    <value>驗證身份時發生錯誤,請確認您的用戶名和密碼無誤並且網絡連接正常.</value>
+  </data>
+  <data name="InvalidCharactersInChannelName" xml:space="preserve">
+    <value>頻道名稱包含無效字符.</value>
+  </data>
+  <data name="label1BroadcastShare" xml:space="preserve">
+    <value>你現在是直播到{0}.按一下&lt;a href="{1}"&gt; 這裡&lt;/a&gt; 打開一個瀏覽器來查看直播(記得靜音避免的音訊回環的直播).</value>
+  </data>
+  <data name="label1BroadcastShare1" xml:space="preserve">
+    <value>你現在是直播到 {0}.</value>
+  </data>
+  <data name="label1BroadcastShare2" xml:space="preserve">
+    <value>已經啟動視頻錄製.
+您視頻文件可以從文件菜單進入-&gt; 我的視頻.</value>
+  </data>
+  <data name="label1BroadcastShare3" xml:space="preserve">
+    <value>您現在正在錄製活動場景。可以訪問已錄製的文件從文件菜單-&gt;我的錄製。</value>
+  </data>
+  <data name="label1BroadcastShare4" xml:space="preserve">
+    <value>您現在正在錄製活動場景{0}。訪問錄製的文件從文件菜單-&gt;我的錄製。</value>
+  </data>
+  <data name="label3" xml:space="preserve">
+    <value>更新成功</value>
+  </data>
+  <data name="label4" xml:space="preserve">
+    <value>使用此功能,您可在直播過程中編輯您的頻道狀態​​.</value>
+  </data>
+  <data name="LatestNews" xml:space="preserve">
+    <value>最新消息</value>
+  </data>
+  <data name="latestNewsToolStripMenuItem" xml:space="preserve">
+    <value>最新消息</value>
+  </data>
+  <data name="lblAbitrate" xml:space="preserve">
+    <value>音訊位元速率：</value>
+  </data>
+  <data name="lblACodec" xml:space="preserve">
+    <value>編解碼:</value>
+  </data>
+  <data name="lblAudioBitrate" xml:space="preserve">
+    <value>位元速率:</value>
+  </data>
+  <data name="lblAudioFormat" xml:space="preserve">
+    <value>格式:</value>
+  </data>
+  <data name="lblAudioIn" xml:space="preserve">
+    <value>麥克風</value>
+  </data>
+  <data name="lblBirthDay" xml:space="preserve">
+    <value>出生日期:</value>
+  </data>
+  <data name="lblBufferSize" xml:space="preserve">
+    <value>VBV 緩衝區 (kbit):</value>
+  </data>
+  <data name="lblBufferSize_Tooltip" xml:space="preserve">
+    <value>最大碼率和此緩衝有關.緩沖不應該大於用戶緩衝.(通常如果不需要低延遲,直播服務商將緩衝設置為2秒.)</value>
+  </data>
+  <data name="lblBufferTime" xml:space="preserve">
+    <value>Flash緩衝(秒):</value>
+  </data>
+  <data name="lblCamDS" xml:space="preserve">
+    <value>設備配置</value>
+  </data>
+  <data name="lblCamDSHint" xml:space="preserve">
+    <value>請單擊下面的按鈕配置您的{0}設置.</value>
+  </data>
+  <data name="lblChannelNameLabel" xml:space="preserve">
+    <value>頻道名稱:</value>
+  </data>
+  <data name="lblCodec" xml:space="preserve">
+    <value>編解碼:</value>
+  </data>
+  <data name="lblColorChromaSel" xml:space="preserve">
+    <value>按鍵</value>
+  </data>
+  <data name="lblColorPicture" xml:space="preserve">
+    <value>圖片</value>
+  </data>
+  <data name="lblCountry" xml:space="preserve">
+    <value>國家:</value>
+  </data>
+  <data name="lblCuePoints" xml:space="preserve">
+    <value>提示點:</value>
+  </data>
+  <data name="lblCuePointsHint" xml:space="preserve">
+    <value>請在下面文本框輸入您想使用的時間點,以逗號分隔.格式為:hh:mm:ss</value>
+  </data>
+  <data name="lblDescription" xml:space="preserve">
+    <value>描述:</value>
+  </data>
+  <data name="lblDescription_Tooltip" xml:space="preserve">
+    <value>請簡單描述此頻道.</value>
+  </data>
+  <data name="lblEmail" xml:space="preserve">
+    <value>電子郵箱</value>
+  </data>
+  <data name="lblFileType" xml:space="preserve">
+    <value>檔案類型:</value>
+  </data>
+  <data name="lblFlashPlayback" xml:space="preserve">
+    <value>回放</value>
+  </data>
+  <data name="lblFlashUserAgent" xml:space="preserve">
+    <value>使用者代理:</value>
+  </data>
+  <data name="lblFramerate" xml:space="preserve">
+    <value>幀率:</value>
+  </data>
+  <data name="lblFramerate_Tooltip" xml:space="preserve">
+    <value>每秒幀數大於15會佔用大量CPU資源以及帶寬.</value>
+  </data>
+  <data name="lblFullName" xml:space="preserve">
+    <value>全名:</value>
+  </data>
+  <data name="lblGain" xml:space="preserve">
+    <value>起始值:</value>
+  </data>
+  <data name="lblGender" xml:space="preserve">
+    <value>性別:</value>
+  </data>
+  <data name="lblIngest" xml:space="preserve">
+    <value>伺服器:</value>
+  </data>
+  <data name="lblInternal2" xml:space="preserve">
+    <value>如果您是Twitch,Ustream或其他在線服務的會員,您可以為這些服務添加一個或多個頻道,這些服務必須支持RTMP或RTMPT的視頻流直播.</value>
+  </data>
+  <data name="lblInternal3" xml:space="preserve">
+    <value>按一下此處以瞭解更多...</value>
+  </data>
+  <data name="lblLanguage" xml:space="preserve">
+    <value>語言:</value>
+  </data>
+  <data name="lblLink" xml:space="preserve">
+    <value>分享鏈接:</value>
+  </data>
+  <data name="lblLink_Tooltip" xml:space="preserve">
+    <value>此鏈接可以讓其他用戶觀看您的直播.當直播開始後,此鏈接將會被自動複製到剪貼板.</value>
+  </data>
+  <data name="lblLivePassword" xml:space="preserve">
+    <value>密碼:</value>
+  </data>
+  <data name="lblLivePlayback" xml:space="preserve">
+    <value>回放</value>
+  </data>
+  <data name="lblLiveSource" xml:space="preserve">
+    <value>直播源</value>
+  </data>
+  <data name="lblLiveStreamName" xml:space="preserve">
+    <value>直播名稱:</value>
+  </data>
+  <data name="lblLiveUsername" xml:space="preserve">
+    <value>用戶名: </value>
+  </data>
+  <data name="lblLoginTitle" xml:space="preserve">
+    <value>XSplit</value>
+  </data>
+  <data name="lblMaxBitrate" xml:space="preserve">
+    <value>VBV 最大位元速率 (kbps):</value>
+  </data>
+  <data name="lblMaxBitrate_Tooltip" xml:space="preserve">
+    <value>設置直播時希望使用的最高碼率</value>
+  </data>
+  <data name="lblName" xml:space="preserve">
+    <value>名稱:</value>
+  </data>
+  <data name="lblName_Tooltip" xml:space="preserve">
+    <value>分配給此频道的易於識別的名稱.</value>
+  </data>
+  <data name="lblPassword" xml:space="preserve">
+    <value>密碼</value>
+  </data>
+  <data name="lblPos" xml:space="preserve">
+    <value>位置</value>
+  </data>
+  <data name="lblPos3DHint" xml:space="preserve">
+    <value>若要旋轉您的資源,請按住shift 鍵的同時拖動滑鼠</value>
+  </data>
+  <data name="lblPosCrop" xml:space="preserve">
+    <value>裁剪</value>
+  </data>
+  <data name="lblPosCropBottom" xml:space="preserve">
+    <value>底部</value>
+  </data>
+  <data name="lblPosCropLeft" xml:space="preserve">
+    <value>左</value>
+  </data>
+  <data name="lblPosCropRight" xml:space="preserve">
+    <value>右</value>
+  </data>
+  <data name="lblPosCropTop" xml:space="preserve">
+    <value>頂部</value>
+  </data>
+  <data name="lblPosHeight" xml:space="preserve">
+    <value>高度</value>
+  </data>
+  <data name="lblPosWidth" xml:space="preserve">
+    <value>寬度</value>
+  </data>
+  <data name="lblPreset" xml:space="preserve">
+    <value>預設:</value>
+  </data>
+  <data name="lblPreset_Tooltip" xml:space="preserve">
+    <value>僅供內部使用.</value>
+  </data>
+  <data name="lblQuality" xml:space="preserve">
+    <value>質量:</value>
+  </data>
+  <data name="lblQuality_Tooltip" xml:space="preserve">
+    <value>畫質: 0 - 最低畫質,需要低帶寬(CRF = 35) 畫質: 10 - 最高畫質,需要高帶寬(CRF = 25)</value>
+  </data>
+  <data name="lblResolution" xml:space="preserve">
+    <value>解析度:</value>
+  </data>
+  <data name="lblRtmpUrl" xml:space="preserve">
+    <value>RTMP URL:</value>
+  </data>
+  <data name="lblScrArea" xml:space="preserve">
+    <value>地區</value>
+  </data>
+  <data name="lblScrAreaHeight" xml:space="preserve">
+    <value>高度</value>
+  </data>
+  <data name="lblScrAreaWidth" xml:space="preserve">
+    <value>寬度</value>
+  </data>
+  <data name="lblScrCap" xml:space="preserve">
+    <value>螢幕捕獲</value>
+  </data>
+  <data name="lblScrCapLayeredHint" xml:space="preserve">
+    <value>(取消勾選此選項可防止鼠標閃爍)</value>
+  </data>
+  <data name="lblScrCapOptiTextResizeHint" xml:space="preserve">
+    <value>(取消勾選此選項可獲得更好的性能表現)
+(僅在視頻源獨占整個畫面時起效)</value>
+  </data>
+  <data name="lblStatus" xml:space="preserve">
+    <value>您在廣播什麼?</value>
+  </data>
+  <data name="lblStreamChannel" xml:space="preserve">
+    <value>頻道:</value>
+  </data>
+  <data name="lblStreamName" xml:space="preserve">
+    <value>直播名稱:</value>
+  </data>
+  <data name="lblTitleHint" xml:space="preserve">
+    <value>如需設置您的標題資源,單擊下面的按鈕.</value>
+  </data>
+  <data name="lblUserName" xml:space="preserve">
+    <value>用戶名:</value>
+  </data>
+  <data name="lblVidCueSavedCuePoints" xml:space="preserve">
+    <value>保存的提示點</value>
+  </data>
+  <data name="lblVideoCuePoints" xml:space="preserve">
+    <value>提示點</value>
+  </data>
+  <data name="lblVideoPlayback" xml:space="preserve">
+    <value>回放</value>
+  </data>
+  <data name="lblVidPlayActionOnEnd" xml:space="preserve">
+    <value>完成後:</value>
+  </data>
+  <data name="lblVidPlayEndTime" xml:space="preserve">
+    <value>結束時間:</value>
+  </data>
+  <data name="lblVidPlayStartTime" xml:space="preserve">
+    <value>開始于:</value>
+  </data>
+  <data name="LivestreamNameIsEmtpy" xml:space="preserve">
+    <value>請指定直播名稱.</value>
+  </data>
+  <data name="lnkBandwidthTesterGuide" xml:space="preserve">
+    <value>請參閱頻寬測試儀的工作原理.</value>
+  </data>
+  <data name="lnkForgotPassword" xml:space="preserve">
+    <value>忘記密碼</value>
+  </data>
+  <data name="lnklblChangePassword" xml:space="preserve">
+    <value>更改您的密碼</value>
+  </data>
+  <data name="lnkNoAccount" xml:space="preserve">
+    <value>註冊</value>
+  </data>
+  <data name="loadPresetsToolStripMenuItem" xml:space="preserve">
+    <value>加載演示文稿...(&amp;O)</value>
+  </data>
+  <data name="LocalRecording" xml:space="preserve">
+    <value>本地錄製</value>
+  </data>
+  <data name="localRecordingToolStripMenuItem" xml:space="preserve">
+    <value>本地錄製</value>
+  </data>
+  <data name="MakeXSplitLayeredWindowWarning" xml:space="preserve">
+    <value>在XSplit沒有最小化時把XSplit設置為分層窗口會降低屏幕捕捉時的性能.
+
+是否繼續將XSplit設置為分層窗口?</value>
+  </data>
+  <data name="MoreStreamAddins" xml:space="preserve">
+    <value>外掛程式商店</value>
+  </data>
+  <data name="moreStreamAddinTsmi" xml:space="preserve">
+    <value>更多服務</value>
+  </data>
+  <data name="moreStreamAddinTsmiXbc5003" xml:space="preserve">
+    <value>尋找更多輸出</value>
+  </data>
+  <data name="moveSourceDown_Tooltip" xml:space="preserve">
+    <value>向下移動資源</value>
+  </data>
+  <data name="moveSourceUp_Tooltip" xml:space="preserve">
+    <value>向上移動資源</value>
+  </data>
+  <data name="msgAbortPluginInstall" xml:space="preserve">
+    <value>插件仍在進行安裝.如果您按OK在下載完成之前,插件的安裝將被中止.</value>
+  </data>
+  <data name="msgAddGameNotice" xml:space="preserve">
+    <value>在您捕獲遊戲或媒體播放器之前,你首先需要單擊您想要捕獲的窗口.所以單擊您的遊戲然後返回並選擇此菜單項.</value>
+  </data>
+  <data name="msgAddGameNoticeGsDisabled" xml:space="preserve">
+    <value>在您可以捕獲遊戲或媒體播放器之前,你首先需要啟用遊戲資源從工具&gt; 一般設置菜單,然後單擊您想要捕獲的窗口.所以啟動遊戲資源,單擊你的遊戲,然後回來和選擇此菜單項.</value>
+  </data>
+  <data name="msgAddinDownloadFailed" xml:space="preserve">
+    <value>無法下載.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_ArgumentError" xml:space="preserve">
+    <value>無法安裝參數存在問題.請再試一次,或者聯繫XSplit 獲得支持.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallFailed" xml:space="preserve">
+    <value>安裝過早結束.請重新啟動XSplit,以避免不必要的行為.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallFileNotFound" xml:space="preserve">
+    <value>無法安裝由於缺少安裝文件.請再試一次.或者聯繫XSplit 獲得支持.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_InstallHashCheckFailed" xml:space="preserve">
+    <value>無法安裝由於錯亂的不匹配文件.請再試一次或者聯繫XSplit 獲得支持.</value>
+  </data>
+  <data name="msgAddinInstallationFailed_Unknown" xml:space="preserve">
+    <value>安裝過早結束.請重新啟動XSplit,以避免不必要的行為.</value>
+  </data>
+  <data name="msgAddinInstallerIsBusy_Text" xml:space="preserve">
+    <value>正在安裝其他插件,請稍後再試.</value>
+  </data>
+  <data name="msgAddinInstallerIsBusy_Title" xml:space="preserve">
+    <value>安裝程式正忙</value>
+  </data>
+  <data name="msgAddinInstallSucceeded" xml:space="preserve">
+    <value>完成.請重新啟動 XSplit 更新才會生效.
+
+XSplit 將立即關閉.</value>
+  </data>
+  <data name="msgAddinInstallSucceeded1" xml:space="preserve">
+    <value>完成.請重新啟動 XSplit 更新才會生效.
+
+XSplit 將立即關閉.</value>
+  </data>
+  <data name="msgAddinInstallSucceeded2" xml:space="preserve">
+    <value>成功安裝插件.請重新啟動XSplit更新才會生效.
+
+XSplit 將立即關閉.</value>
+  </data>
+  <data name="msgAddinInstallSucceeded3" xml:space="preserve">
+    <value>成功安裝插件.請重新啟動XSplit更新才會生效.
+
+現在重新啟動嗎?</value>
+  </data>
+  <data name="msgAddinInstallSucceeded4" xml:space="preserve">
+    <value>完成.請重新啟動 XSplit更新才會生效.
+
+現在重新啟動嗎?</value>
+  </data>
+  <data name="msgAddinInstallSucceeded5" xml:space="preserve">
+    <value>成功安裝插件.請重新啟動XSplit更新才會生效.</value>
+  </data>
+  <data name="msgAddinUinstallationFailed" xml:space="preserve">
+    <value>卸載過早結束.請重新啟動XSplit,以避免不必要的行為.</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_ArgumentError" xml:space="preserve">
+    <value>無法安裝參數存在問題.請再試一次,或者聯繫XSplit 獲得支持.</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_UninstallFailed" xml:space="preserve">
+    <value>卸載過早結束.請重新啟動XSplit,以避免不必要的行為.</value>
+  </data>
+  <data name="msgAddinUinstallationFailed_Unknown" xml:space="preserve">
+    <value>卸載過早結束.請重新啟動XSplit,以避免不必要的行為.</value>
+  </data>
+  <data name="msgAddinUninstallConfirm_Text" xml:space="preserve">
+    <value>你確定你要卸載"{0}"?</value>
+  </data>
+  <data name="msgAddinUninstallConfirm_Title" xml:space="preserve">
+    <value>卸載 {0}</value>
+  </data>
+  <data name="msgAudioDevice_None" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="msgCantCreateRecordingOutDir" xml:space="preserve">
+    <value>無法創建錄像的目錄'{0}'. 請嘗試自行創建目錄並再次錄製.</value>
+  </data>
+  <data name="msgCantEditActiveStream" xml:space="preserve">
+    <value>直播視頻流時無法編輯此視頻流設置.</value>
+  </data>
+  <data name="msgCantEditActiveStreamAdaptiveBr" xml:space="preserve">
+    <value>您不能編輯設置當與' 自適應CBR' 直播時</value>
+  </data>
+  <data name="msgCantEditActiveStreamCbr" xml:space="preserve">
+    <value>您無法編輯設置當直播在 CBR 模式下.</value>
+  </data>
+  <data name="msgCantEditActiveRecording" xml:space="preserve">
+    <value>您不能在本地錄製的同時編輯設置.</value>
+  </data>
+  <data name="msgCantEditActiveRecordingCbr" xml:space="preserve">
+    <value>您無法編輯設置當錄製在 CBR 模式下.</value>
+  </data>
+  <data name="msgCantEditChannelOfMissingAddin" xml:space="preserve">
+    <value>尚未安裝{0}插件.請點擊添加&gt; 更多... 嘗試從插件商店中安裝.</value>
+  </data>
+  <data name="msgCantRemoveActiveStream" xml:space="preserve">
+    <value>你不能刪除頻道在直播時.</value>
+  </data>
+  <data name="msgClickContinue" xml:space="preserve">
+    <value>請單擊\"繼續\"按鈕.</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported" xml:space="preserve">
+    <value>XSplit在Windows XP系統中不支持大於1920 x 1080的分辨率. 這些分辨率將不會在分辨率菜單中顯示. XSplit將把您的場景分辨率恢復到默認值.</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported1" xml:space="preserve">
+    <value>XSplit在Windows XP系統中不支持大於1920 x 1080的分辨率. 這些分辨率將不會在分辨率菜單中顯示. XSplit將把您的場景分辨率恢復到默認值.</value>
+  </data>
+  <data name="msgCurrentResolutionIsNotSupported3" xml:space="preserve">
+    <value>XSplit 不支持分辨率低於{0:N0} 像素單位.</value>
+  </data>
+  <data name="msgDefaultStageResolutionWarning" xml:space="preserve">
+    <value>通過設置分辨率和/或幀速率低於您當前階段分辨率和/或幀率, 這可能的在同一時間與不同的分辨率和幀速率編碼多個直播.
+
+因此你可以使一個直播或本地錄製設置為使用默認的分辨率/幀速率, 然後再設置另一個直播, 迫使較低的分辨率和(或) 而不是默認的幀速率.
+
+此設置不會保留在您的帳戶並需要在每次登入時設置.</value>
+  </data>
+  <data name="msgDeviceNotFound_SndCap" xml:space="preserve">
+    <value>未發現音頻捕捉設備.</value>
+  </data>
+  <data name="msgDeviceNotFound_VidCap" xml:space="preserve">
+    <value>未發現視頻捕捉設備.</value>
+  </data>
+  <data name="msgEnableAeroWarning" xml:space="preserve">
+    <value>在Windows 7和Vista系統中,啟用Aero主題時會始終捕捉分層窗口.禁止XSplit禁用Aero主題會導致某些捕捉源產生意外的問題. 
+
+仍然繼續嗎?</value>
+  </data>
+  <data name="msgEnableD3D" xml:space="preserve">
+    <value>您的PC硬件不符合最低圖形硬件[requirements](https://xspl.it/bc/req)，請聯繫[support](https://xspl.it/support)以獲取更多信息。</value>
+  </data>
+  <data name="msgEnableVcamCheckedChangedHint" xml:space="preserve">
+    <value>請注意在廣播時虛擬攝影機將自動關閉.</value>
+  </data>
+  <data name="msgFailedGettingRtmp" xml:space="preserve">
+    <value>獲取 RTMP 失敗</value>
+  </data>
+  <data name="msgFailedGettingRtmp_HowUserAffected" xml:space="preserve">
+    <value>直播網站可能已關閉,或有問題.</value>
+  </data>
+  <data name="msgFailedGettingRtmp_WhatUserCanDo" xml:space="preserve">
+    <value>請稍後再試,請聯繫直播媒體供應商,或者聯繫 {0}</value>
+  </data>
+  <data name="msgFailedLoadingAddinStore" xml:space="preserve">
+    <value>失敗載入外掛程式存儲區.請稍後再試.</value>
+  </data>
+  <data name="msgFailureLoadinAddin_HowUserAffected" xml:space="preserve">
+    <value>使用此外掛程式添加直播可能不可用.</value>
+  </data>
+  <data name="msgFailureLoadingAddin" xml:space="preserve">
+    <value>載入外掛程式"{0}"失敗</value>
+  </data>
+  <data name="msgFlashAxFailure" xml:space="preserve">
+    <value>失敗與 Flash 播放器在 Windows Internet Explorer工作: {0}</value>
+  </data>
+  <data name="msgFlashAxIsOld" xml:space="preserve">
+    <value>XSplit檢測到您使用的IE版Flash播放器不是最新版本的.
+
+XSplit需要您安裝10.3.181版或更新的IE版Flash播放器.未使用最新的IE版Flash播放器可能會導致異常反應.
+
+您是否希望獲取最新版本的IE版Flash播放器?
+</value>
+  </data>
+  <data name="msgFlashAxIsRequired" xml:space="preserve">
+    <value>XSplit檢測到您使用的IE版Flash播放器未安裝.
+
+XSplit需要您安裝10.3.181版或更新的IE版Flash播放器.未使用最新的IE版Flash播放器可能會導致異常反應.
+
+您是否希望獲取最新版本的IE版Flash播放器?
+</value>
+  </data>
+  <data name="msgFlashAxNotInstalled" xml:space="preserve">
+    <value>此功能需要IE版Flash播放器才能正常使用.</value>
+  </data>
+  <data name="msgFlashConfigLoadFailure" xml:space="preserve">
+    <value>失敗載入配置對話: {0}</value>
+  </data>
+  <data name="msgForcedUpdate" xml:space="preserve">
+    <value>此版本{0}已過期.發現可用的新版XSplit Broadcaster {1}.您需要升級到最新版本.
+
+如果升級失敗,或者自動升級後在使用中發生問題,請卸載XSplit並從[www.xsplit.com](http://www.xsplit.com)下載新版重新安裝.</value>
+  </data>
+  <data name="msgFramerateDefined" xml:space="preserve">
+    <value>畫面播放速率已經在功能表中</value>
+  </data>
+  <data name="msgHotKeyRegException1" xml:space="preserve">
+    <value>下列快捷鍵註冊失敗.</value>
+  </data>
+  <data name="msgHotKeyRegException2" xml:space="preserve">
+    <value>設定的快捷鍵將不起效.</value>
+  </data>
+  <data name="msgHotKeyRegException3" xml:space="preserve">
+    <value>您可以設定其他活動程序未使用的其他快捷鍵組合.</value>
+  </data>
+  <data name="msgHotKeyRegException4" xml:space="preserve">
+    <value>您想重新設定快捷鍵嗎?</value>
+  </data>
+  <data name="msgHotKeyRegException5" xml:space="preserve">
+    <value>以下快捷鍵不能使用相同的按鍵.
+
+{0}</value>
+  </data>
+  <data name="msgHotKeyRegException6" xml:space="preserve">
+    <value>您目前在標準快捷鍵模式. 下列快捷鍵與修改鍵(Alt shift 鍵控制) 僅在組合中分配.
+
+{0}</value>
+  </data>
+  <data name="msgHotKeyRegException7" xml:space="preserve">
+    <value>您目前在標準快捷鍵模式. 只能在高級模式下分配以下快捷鍵.
+
+{0}</value>
+  </data>
+  <data name="msgIncorrectCredentialsOrServerDown" xml:space="preserve">
+    <value>密碼或直播鑰無效或服務器可能已關閉.請嘗試重新輸入您的用戶信息.</value>
+  </data>
+  <data name="msgInitializeFolder1" xml:space="preserve">
+    <value>初始化文件夾時發生錯誤.</value>
+  </data>
+  <data name="msgInitializeFolder2" xml:space="preserve">
+    <value>資料夾可能無法正確創建.</value>
+  </data>
+  <data name="msgInitializeFolder3" xml:space="preserve">
+    <value>請確保您擁有創建檔和資料夾的許可權.</value>
+  </data>
+  <data name="msgInputTransitionSpeed" xml:space="preserve">
+    <value>速度 (ms)</value>
+  </data>
+  <data name="msgInvalidEmail" xml:space="preserve">
+    <value>郵箱格式無效.請使用字母,數字,點,破折號和下劃線.</value>
+  </data>
+  <data name="msgInvalidFilenameChars" xml:space="preserve">
+    <value>檔案名不能包含下列任何字元</value>
+  </data>
+  <data name="msgInvalidPassword" xml:space="preserve">
+    <value>密碼格式無效.只有字母, 數位, 點, 和破折號允許使用,並且必須是至少 6 個字元長.</value>
+  </data>
+  <data name="msgInvalidTransitionTime" xml:space="preserve">
+    <value>不正確轉換速度.</value>
+  </data>
+  <data name="msgLoginInitializationException1" xml:space="preserve">
+    <value>初始化登入視窗遇到錯誤.</value>
+  </data>
+  <data name="msgLoginMessageTitle" xml:space="preserve">
+    <value>登入</value>
+  </data>
+  <data name="msgLoginOpenLinkException1" xml:space="preserve">
+    <value>跳轉至更改密碼頁面時發生錯誤.</value>
+  </data>
+  <data name="msgLoginOpenLinkException2" xml:space="preserve">
+    <value>您將不會被跳轉至我們的修改密碼頁面.</value>
+  </data>
+  <data name="msgLoginOpenLinkException3" xml:space="preserve">
+    <value>您可以手動輸入%url% 訪問我們的網站.</value>
+  </data>
+  <data name="msgLoginSaveAutoLogin" xml:space="preserve">
+    <value>嘗試保存自動登入設置時出錯.</value>
+  </data>
+  <data name="msgLoginSaveStartup" xml:space="preserve">
+    <value>嘗試保存啟動設置時出錯.</value>
+  </data>
+  <data name="msgLoginTitle" xml:space="preserve">
+    <value>XSplit</value>
+  </data>
+  <data name="msgLoginValidation1" xml:space="preserve">
+    <value>請填寫郵件地址.</value>
+  </data>
+  <data name="msgLoginValidation2" xml:space="preserve">
+    <value>請填寫密碼.</value>
+  </data>
+  <data name="msgMaxFps" xml:space="preserve">
+    <value>最大允許畫面播放速率是 {0} FPS.</value>
+  </data>
+  <data name="msgOptionalUpdate" xml:space="preserve">
+    <value>發現可用的新版XSplit Broadcaster {0}.除非SplitMediaLabs團隊在此新版中發現嚴重問題,否則所有用戶都要求在{1}前升級.
+
+如果您選擇現在安裝更新,您可以通過卸載並從[www.xsplit.com](http://www.xsplit.com)下載官方安裝版恢復到舊版本.
+
+如果升級失敗,或者自動升級後在使用中發生問題,請卸載XSplit並從[www.xsplit.com](http://www.xsplit.com)下載新版重新安裝.</value>
+  </data>
+  <data name="msgOptionalUpdate2" xml:space="preserve">
+    <value>發現可用的新版XSplit Broadcaster {0}.
+
+如果您選擇現在安裝更新,您可以通過卸載並從[www.xsplit.com](http://www.xsplit.com)下載官方安裝版恢復到舊版本.
+
+如果升級失敗,或者自動升級後在使用中發生問題,請卸載XSplit並從[www.xsplit.com](http://www.xsplit.com)下載新版重新安裝.</value>
+  </data>
+  <data name="msgOptionalUpdateConfirm" xml:space="preserve">
+    <value>現在更新?</value>
+  </data>
+  <data name="msgRegistrationValidation6" xml:space="preserve">
+    <value>個人資料頁面中的郵件地址不能為空.</value>
+  </data>
+  <data name="msgSaveBeforeCloseConfirmation" xml:space="preserve">
+    <value>在對話框關閉前保存更改嗎?</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90012" xml:space="preserve">
+    <value>電子郵件地址或密碼不正確.請再試一次.</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90013" xml:space="preserve">
+    <value>電子郵件地址或密碼不正確.請再試一次.</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90024" xml:space="preserve">
+    <value>已將包含激活鏈接的郵件發送到您的郵箱帳號.您需要先激活XSplit才能登入.
+
+您希望重新發送激活鏈接嗎?</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90027" xml:space="preserve">
+    <value>XSplit無法驗證您是否為註冊用戶.如果您以前在321meet.com註冊過,請 [re-register](https://xspl.it/register) 在XSplit網站重新註冊.
+
+以後您可用同一賬號登錄使用XSplit和321meet.</value>
+  </data>
+  <data name="msgSettingsSaved_SyncFailed" xml:space="preserve">
+    <value>於服務器同步您的設置時發生錯誤.{0}您的設置將保存在本地.</value>
+  </data>
+  <data name="msgSignUpOpenLinkException1" xml:space="preserve">
+    <value>跳轉至註冊頁面時發生錯誤.</value>
+  </data>
+  <data name="msgSignUpOpenLinkException2" xml:space="preserve">
+    <value>您將不會被跳轉至註冊頁面.</value>
+  </data>
+  <data name="msgSignUpOpenLinkException3" xml:space="preserve">
+    <value>您可以手動輸入%url% 訪問我們的網站.</value>
+  </data>
+  <data name="msgSourceConfigurationHandlerIsMissing" xml:space="preserve">
+    <value>配置處理程序丟失.</value>
+  </data>
+  <data name="msgSourceHandlerIsMissing" xml:space="preserve">
+    <value>資源處理程序丟失.</value>
+  </data>
+  <data name="growlStageResolutionIsHigh" xml:space="preserve">
+    <value>不推荐任何解析度高于 {0} x {1}. 你解析度将重置为全高清 (1080p), 当你重新启动 XSplit Broadcaster.</value>
+  </data>
+  <data name="growlStageResolutionIsHighForWEI" xml:space="preserve">
+    <value>您的系統可能不能流暢直播或錄製在{0} 中.</value>
+  </data>
+  <data name="msgStreamResolutionIsHigh" xml:space="preserve">
+    <value>您為直播輸出設置了{0}x{1}的場景分辨率.在線直播時不推薦使用大於1280x720的分辨率.
+
+您還是要繼續使用嗎?</value>
+  </data>
+  <data name="growlStreamResolutionIsHigh" xml:space="preserve">
+    <value>您為直播輸出設置了{0}x{1}的場景分辨率.在線直播時不推薦使用大於1280x720的分辨率.</value>
+  </data>
+  <data name="msgStreamResolutionIsHigherThanStageResolution" xml:space="preserve">
+    <value>您已選擇要在某分辨率記錄/直播, 大於默認分辨率. 您的視頻不會縮放, 但只有填充.</value>
+  </data>
+  <data name="msgSyncFailure" xml:space="preserve">
+    <value>與服務器同步設置失敗.您的網絡連接可能已斷開.</value>
+  </data>
+  <data name="msgUnableToValidateWithServer" xml:space="preserve">
+    <value>無法與服務器驗證.水印可能已開啟.本地錄像除外!</value>
+  </data>
+  <data name="msgUpdatedPlugins" xml:space="preserve">
+    <value>XSplit 發現了更新的插件可用:
+
+ {0}
+
+按確定安裝這些更新的插件.</value>
+  </data>
+  <data name="msgUpdatedPluginsXbc5003" xml:space="preserve">
+    <value>XSplit 發現了更新的輸出可用:
+
+ {0}
+
+按確定安裝這些更新的輸出.</value>
+  </data>
+  <data name="msgVersionIsExpired" xml:space="preserve">
+    <value>此版本的XSplit Broadcaster已過期.</value>
+  </data>
+  <data name="MyRecordings_FilesExistInPreviousLocation" xml:space="preserve">
+    <value>{0}目錄中存在文件.
+
+您應當在更改目錄後手動將這些文件移動到新的目錄.</value>
+  </data>
+  <data name="myRecordingsMenuItem" xml:space="preserve">
+    <value>記錄</value>
+  </data>
+  <data name="recordingsToolStripMenuItem" xml:space="preserve">
+    <value>我的錄製</value>
+  </data>
+  <data name="newPresetsToolStripMenuItem" xml:space="preserve">
+    <value>新的演示文稿(&amp;N)</value>
+  </data>
+  <data name="NicoVideo" xml:space="preserve">
+    <value>Niconico</value>
+  </data>
+  <data name="numBufferSize_Tooltip" xml:space="preserve">
+    <value>最大碼率和此緩衝有關.緩沖不應該大於用戶緩衝.(通常如果不需要低延遲,直播服務商將緩衝設置為2秒.)</value>
+  </data>
+  <data name="numFramerate_Tooltip" xml:space="preserve">
+    <value>每秒幀數大於15會佔用大量CPU資源以及帶寬.</value>
+  </data>
+  <data name="optFemale" xml:space="preserve">
+    <value>女</value>
+  </data>
+  <data name="optMale" xml:space="preserve">
+    <value>男</value>
+  </data>
+  <data name="par1" xml:space="preserve">
+    <value>使用發布消息功能,您可以將您的廣播信息發佈到社交類網站,例如Twitter和Facebook.</value>
+  </data>
+  <data name="par2" xml:space="preserve">
+    <value>如果您的服務商支持,您也可以為您的廣播更改頻道描述.</value>
+  </data>
+  <data name="par3" xml:space="preserve">
+    <value>請在左側選擇您所使用的服務,以便發布您的廣播.</value>
+  </data>
+  <data name="PasswordIsEmpty" xml:space="preserve">
+    <value>請指定密碼.</value>
+  </data>
+  <data name="PresetDoesNotExist" xml:space="preserve">
+    <value>預設"{0}"不存在.</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_ADD" xml:space="preserve">
+    <value>添加資源</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_DELETE" xml:space="preserve">
+    <value>刪除選定資源</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GLBSET" xml:space="preserve">
+    <value>打開音訊設置</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MIC" xml:space="preserve">
+    <value>靜音/關閉靜音{0}</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MOVEDOWN" xml:space="preserve">
+    <value>向下移動資源</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_MOVEUP" xml:space="preserve">
+    <value>向上移動資源</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SETTINGS" xml:space="preserve">
+    <value>選定的資源設置</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SPK" xml:space="preserve">
+    <value>靜音/關閉靜音{0}</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_MICVOL" xml:space="preserve">
+    <value>麥克風音量</value>
+  </data>
+  <data name="rb1_AV" xml:space="preserve">
+    <value>媒體</value>
+  </data>
+  <data name="rb1_Cam" xml:space="preserve">
+    <value>攝影機</value>
+  </data>
+  <data name="rb1_Screen" xml:space="preserve">
+    <value>螢幕</value>
+  </data>
+  <data name="rb1_Stream" xml:space="preserve">
+    <value>直播</value>
+  </data>
+  <data name="rb1_Title" xml:space="preserve">
+    <value>標題</value>
+  </data>
+  <data name="rbColor" xml:space="preserve">
+    <value>顏色</value>
+  </data>
+  <data name="rbColorChromaNone" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="rbColorChroma" xml:space="preserve">
+    <value>色度鍵</value>
+  </data>
+  <data name="rbColorChromaColor" xml:space="preserve">
+    <value>顏色鍵</value>
+  </data>
+  <data name="rbPosition" xml:space="preserve">
+    <value>佈局</value>
+  </data>
+  <data name="removeSource" xml:space="preserve">
+    <value>移除</value>
+  </data>
+  <data name="removeSource_Tooltip" xml:space="preserve">
+    <value>刪除選定資源</value>
+  </data>
+  <data name="ResolutionAlreadyExists" xml:space="preserve">
+    <value>分辨率 {0} x {1} 已存在.</value>
+  </data>
+  <data name="resolutionToolStripMenuItem" xml:space="preserve">
+    <value>分辨率(&amp;R)</value>
+  </data>
+  <data name="rtmp1ch" xml:space="preserve">
+    <value>隔行掃描音頻和視頻在同個 RTMP 頻道</value>
+  </data>
+  <data name="RtmpUrlIsEmpty" xml:space="preserve">
+    <value>必須指定 RTMP URL.</value>
+  </data>
+  <data name="RtmpUrlIsInvalid" xml:space="preserve">
+    <value>RTMP URL 無效.</value>
+  </data>
+  <data name="savePresetToolStripMenuItem" xml:space="preserve">
+    <value>將演示文稿保存...(&amp;S)</value>
+  </data>
+  <data name="sbtnInsertLink" xml:space="preserve">
+    <value>插入鏈接</value>
+  </data>
+  <data name="scaleViewportToolStripMenuItem" xml:space="preserve">
+    <value>規模視區(&amp;S)</value>
+  </data>
+  <data name="SelectPresentation" xml:space="preserve">
+    <value>XSplit-選擇演示文稿</value>
+  </data>
+  <data name="settingsToolStripMenuItem" xml:space="preserve">
+    <value>一般設置...(&amp;S)</value>
+  </data>
+  <data name="settingsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>設置 (&amp;S)</value>
+  </data>
+  <data name="ShareLinkIsEmpty" xml:space="preserve">
+    <value>必須指定分享鏈接.</value>
+  </data>
+  <data name="ShareLinkIsInvalid" xml:space="preserve">
+    <value>分享鏈接不正確.</value>
+  </data>
+  <data name="ShowException_HowUserAffected" xml:space="preserve">
+    <value>某些功能可能不運作也因為這個問題.</value>
+  </data>
+  <data name="ShowException_WhatUserCanDo" xml:space="preserve">
+    <value>請將此信息發送給我們,這樣可以讓我們了解並解決此問題.</value>
+  </data>
+  <data name="SourcePluginStore" xml:space="preserve">
+    <value>外掛程式商店</value>
+  </data>
+  <data name="sourceSettings" xml:space="preserve">
+    <value>設置</value>
+  </data>
+  <data name="sourceSettings_Tooltip" xml:space="preserve">
+    <value>選定的資源設置</value>
+  </data>
+  <data name="spApply" xml:space="preserve">
+    <value>繼續</value>
+  </data>
+  <data name="spMessage" xml:space="preserve">
+    <value>XSplit 上一次使用不正常關閉. 這可能會引起各種問題&lt;a name="blog" href="https://xspl.it/bc/satbhu"&gt;在這個環節中&lt;/a&gt; 其中可能包括不穩定的來源或程序錯誤. 如果您想要報告一個錯誤, 請單擊&lt;a name="logreporter"&gt; 此處&lt;/a&gt;.</value>
+  </data>
+  <data name="spOptContinue" xml:space="preserve">
+    <value>載入當前演示文稿</value>
+  </data>
+  <data name="spOptCreateNew" xml:space="preserve">
+    <value>創建新的演示文稿(無視當前演示文稿)</value>
+  </data>
+  <data name="spOptLoadFromFile" xml:space="preserve">
+    <value>載入以前保存到一個檔的演示文稿</value>
+  </data>
+  <data name="spOptLoadFromRegistry" xml:space="preserve">
+    <value>載入以前的系統備份的演示文稿</value>
+  </data>
+  <data name="sPostAgain" xml:space="preserve">
+    <value>再次發布</value>
+  </data>
+  <data name="StreamChannelIsEmpty" xml:space="preserve">
+    <value>您的管道尚不可用.請確保已正確輸入您的憑據並在 {0} 網站正確配置您的頻道.</value>
+  </data>
+  <data name="StreamNameIsEmpty" xml:space="preserve">
+    <value>必須指定直播名稱.</value>
+  </data>
+  <data name="tbpChannels" xml:space="preserve">
+    <value>頻道</value>
+  </data>
+  <data name="tbpGeneral" xml:space="preserve">
+    <value>一般</value>
+  </data>
+  <data name="tbpHotkeys" xml:space="preserve">
+    <value>快捷鍵</value>
+  </data>
+  <data name="tbpProfile" xml:space="preserve">
+    <value>設定檔</value>
+  </data>
+  <data name="tbpResolutions" xml:space="preserve">
+    <value>分辨率</value>
+  </data>
+  <data name="tierVersionUpdateButton" xml:space="preserve">
+    <value>更新到此版本...</value>
+  </data>
+  <data name="titleConfigButton" xml:space="preserve">
+    <value>配置</value>
+  </data>
+  <data name="titleLabel" xml:space="preserve">
+    <value>標題</value>
+  </data>
+  <data name="toolsToolStripMenuItem" xml:space="preserve">
+    <value>工具(&amp;T)</value>
+  </data>
+  <data name="transitionTimeTsmi" xml:space="preserve">
+    <value>改變轉型速度</value>
+  </data>
+  <data name="transitionToolStripMenuItem" xml:space="preserve">
+    <value>現場 轉型(&amp;T)</value>
+  </data>
+  <data name="txtDescription_Tooltip" xml:space="preserve">
+    <value>請簡單描述此頻道.</value>
+  </data>
+  <data name="txtLink_Tooltip" xml:space="preserve">
+    <value>此鏈接可以讓其他用戶觀看您的直播.當直播開始後,此鏈接將會被自動複製到剪貼板.</value>
+  </data>
+  <data name="txtName_Tooltip" xml:space="preserve">
+    <value>分配給此频道的易於識別的名稱.</value>
+  </data>
+  <data name="txtPreset_ForInternalUseOnly" xml:space="preserve">
+    <value>僅供內部使用.</value>
+  </data>
+  <data name="txtPreset_Tooltip" xml:space="preserve">
+    <value>僅供內部使用.</value>
+  </data>
+  <data name="UpdateDialog_GetMoreInfo" xml:space="preserve">
+    <value>獲取有關如何更新您當前安裝的XSplit Broadcaster的詳細資訊.</value>
+  </data>
+  <data name="UpdateDialog_NewReleaseFound" xml:space="preserve">
+    <value>較新的版本可供測試 {0}.</value>
+  </data>
+  <data name="UpdateDialog_NoNewReleaseFound" xml:space="preserve">
+    <value>沒有可用的更新版本.</value>
+  </data>
+  <data name="UsernameIsEmpty" xml:space="preserve">
+    <value>必須指定使用者名.</value>
+  </data>
+  <data name="UsernameIsUnknown" xml:space="preserve">
+    <value>使用者名是未知的.</value>
+  </data>
+  <data name="viewToolStripMenuItem" xml:space="preserve">
+    <value>查看(&amp;V)</value>
+  </data>
+  <data name="waveTransition" xml:space="preserve">
+    <value>Wave</value>
+  </data>
+  <data name="XSplitBroadcasterIsAlreadyRunning" xml:space="preserve">
+    <value>XSplit Broadcaster在運行.</value>
+  </data>
+  <data name="XSplitNetIsNotAllowed" xml:space="preserve">
+    <value>MultiStream服務允許將一個直播流同時對多個目的地進行直播.使用此服務,還可以在不同直播服務間連接直播流.
+
+請聯繫SplitMediaLabs以獲得如何裡有多重直播服務的信息.</value>
+  </data>
+  <data name="XSplitNetNonPremiumNotice" xml:space="preserve">
+    <value>MultiStream服務目前僅供預定XSplit高級用戶使用.如需訂購高級證書,請按確定.</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgRecordingFileTypeLicenseOffer" xml:space="preserve">
+    <value>{0}只有證書用戶可更改錄製文件屬性.
+
+你想現在購買證書嗎?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxAllowedResLicenseOffer" xml:space="preserve">
+    <value>分辨率大於{0}有水印對於無證書用戶.
+
+您需要現在購買證書嗎?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxAllowedFpsLicenseOffer" xml:space="preserve">
+    <value>只有證書用戶可設置FPS大於{0}.
+
+你想現在購買證書嗎?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgFreeUserSimulcastLicenseOffer" xml:space="preserve">
+    <value>XSplit免費版並不提供同時直播到多個頻道.
+
+你想現在購買證書嗎?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaxBitrateIsTooLow" xml:space="preserve">
+    <value>最大比特率不能低於 {0} kbps.</value>
+  </data>
+  <data name="msgMaxBitrateIsTooLow_VBR" xml:space="preserve">
+    <value>最大比特率不能低於 {0} kbps.</value>
+  </data>
+  <data name="msgMaxBitrateIsTooLow_CBR" xml:space="preserve">
+    <value>比特率不能低於 {0} kbps.</value>
+  </data>
+  <data name="chkGameSurfSharing" xml:space="preserve">
+    <value>啟用特殊優化</value>
+  </data>
+  <data name="ControlIds.IDC_STATIC_SCENECUR" xml:space="preserve">
+    <value>場景</value>
+  </data>
+  <data name="ControlIds.ID_FILE_ADDGAMESOURCE" xml:space="preserve">
+    <value>添加遊戲...(&amp;G)</value>
+  </data>
+  <data name="msgNetFxIsRequired" xml:space="preserve">
+    <value>XSplit 需要Microsoft.NET Framework {0} 來運行.
+
+你想現在下載並安裝Microsoft.NETFramework {0} 嗎?</value>
+  </data>
+  <data name="servermessage_dlogtitle" xml:space="preserve">
+    <value>檢測到重複的登入</value>
+  </data>
+  <data name="servermessage_dlogdesc" xml:space="preserve">
+    <value>您的帳戶當前在另一台計算機登入. 如果你仍然要登入, 請重新輸入您的用戶信息. 請注意這將註銷您其他計算機的帳戶, 並將會停止當前正在運行的任何直播.</value>
+  </data>
+  <data name="servermessage_fdistitle" xml:space="preserve">
+    <value>您已登出</value>
+  </data>
+  <data name="servermessage_fdisdesc" xml:space="preserve">
+    <value>您的帳戶已被登錄到另一台機器. 此客戶端已註銷由於您的證書在指定時間內只允許一台機器登入. 如果你想要再次登入, 請重新輸入您的用戶信息. 請注意這將在其他計算機註銷您的帳戶並將會停止當前正在運行的任何直播.</value>
+  </data>
+  <data name="DefaultStageResolution" xml:space="preserve">
+    <value>舞臺的預設解析度</value>
+  </data>
+  <data name="msgLocalLoginFailed" xml:space="preserve">
+    <value>無法驗證用戶身份.請將{0} 發送到support@xsplit.com 進行分析.</value>
+  </data>
+  <data name="msgProjectorBuyPremiumOffer" xml:space="preserve">
+    <value>此功能需要高級證書.點擊OK來獲取高級證書.</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="picCopyChromaKey" xml:space="preserve">
+    <value>複製色度鍵設置</value>
+  </data>
+  <data name="btnPosCropEasyCrop" xml:space="preserve">
+    <value>快速修剪</value>
+  </data>
+  <data name="FailureSettingDirectoryAcl" xml:space="preserve">
+    <value>無法將所需權限設置到文件夾 {0}.{1}</value>
+  </data>
+  <data name="chkKeepOnTop" xml:space="preserve">
+    <value>始終在最前面XSplit</value>
+  </data>
+  <data name="msgEasyCropPreReqPrompt" xml:space="preserve">
+    <value>快速修剪目前需要設置階段規模為實際大小然後重新設置為首選的規模.您要繼續嗎?</value>
+  </data>
+  <data name="enableInternalRtmpServerToolStripMenuItem" xml:space="preserve">
+    <value>啟動延遲伺服器...</value>
+  </data>
+  <data name="InternalRtmpServer" xml:space="preserve">
+    <value>延遲伺服器</value>
+  </data>
+  <data name="msgInternalServerBuyPremiumOffer" xml:space="preserve">
+    <value>此功能需要高級證書.點擊OK來獲取高級證書.</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="btnRefreshSource" xml:space="preserve">
+    <value>刷新</value>
+  </data>
+  <data name="growlFramerateAndResIsHighForWei" xml:space="preserve">
+    <value>您的系統可能不能順利在直播 fps {0}或  {1:N2}中錄製.</value>
+  </data>
+  <data name="msgAddSkypeVideoSourceNotice" xml:space="preserve">
+    <value>在您捕獲Skype 視頻源之前,您首先需要點擊Skype 的視頻通話窗口.所以請點擊Skype 視頻通話窗口然後回去並選擇此菜單項.</value>
+  </data>
+  <data name="msgAddSkypeVideoSourceNoticeGsDisabled" xml:space="preserve">
+    <value>在您捕獲Skype 視頻源之前,您首先需要從工具中啟動遊戲資源&gt; 一般設置菜單,然後單擊Skype 的視頻通話窗口.所以啟動遊戲資源,點擊Skype 的視頻通話窗口,然後返回並選擇此菜單項.</value>
+  </data>
+  <data name="LicenseExpiry" xml:space="preserve">
+    <value>您的證書將在 {0} 到期.</value>
+  </data>
+  <data name="rtfSkypeHint" xml:space="preserve">
+    <value>Skype 通話功能窗口可能會導致視頻項目閃爍.
+若要避免此問題,您可以禁用Skype 通話功能:
+
+1.轉到工具 &gt; 選項
+2.轉到通話 &gt; 通話設置
+3.點擊"顯示高級選項"按鈕
+4.取消選中"當Skype 在背景中顯示其通話控件"</value>
+  </data>
+  <data name="faster_Tooltip" xml:space="preserve">
+    <value>中等壓縮,
+中等 CPU 使用率
+(沒有 i7不要嘗試)</value>
+  </data>
+  <data name="fast_Tooltip" xml:space="preserve">
+    <value>中等-高壓縮,
+中等-高 CPU 使用率
+(沒有第二代 i7不要嘗試)</value>
+  </data>
+  <data name="medium_Tooltip" xml:space="preserve">
+    <value>高壓縮,
+高 CPU 使用率
+(沒有第二代快速 i7不要嘗試)</value>
+  </data>
+  <data name="slow_Tooltip" xml:space="preserve">
+    <value>非常高的壓縮
+非常高 CPU 使用率
+(請不要嘗試如果沒有超屌的CPU)</value>
+  </data>
+  <data name="superfast_Tooltip" xml:space="preserve">
+    <value>最低壓縮
+最低 CPU 使用率
+(推薦低CPU)</value>
+  </data>
+  <data name="veryfast" xml:space="preserve">
+    <value>veryfast(預設設置)</value>
+  </data>
+  <data name="veryfast_Tooltip" xml:space="preserve">
+    <value>合理壓縮
+低CPU 使用率
+(推薦廣大用戶)</value>
+  </data>
+  <data name="lblMaxFileSize" xml:space="preserve">
+    <value>最大值.MP4 檔案大小:</value>
+  </data>
+  <data name="lblMaxFileSize_Tooltip" xml:space="preserve">
+    <value>每段(例如5120 kB,5 MB,2 GB) 錄製的最大大小.
+指定零(0) 保持單個文件(可能導致文件寫問題大於MP4 文件).
+如果不指定單位,則假定輸入以字​​節為單位.</value>
+  </data>
+  <data name="msgInvalidMaxRecordingFileSize" xml:space="preserve">
+    <value>無效的最大值.指定 MP4 文件大小.</value>
+  </data>
+  <data name="txtMaxFileSize_Tooltip" xml:space="preserve">
+    <value>每段(例如5120 kB,5 MB,2 GB) 錄製的最大大小.
+指定零(0) 保持單個文件(可能導致文件寫問題大於MP4 文件).
+如果不指定單位,則假定輸入以字​​節為單位.</value>
+  </data>
+  <data name="lnkAudioStutterGuide" xml:space="preserve">
+    <value>音訊問題嗎?</value>
+  </data>
+  <data name="msgBroadcastTerminated" xml:space="preserve">
+    <value>您的{0}直播已終止。
+請檢查您的頻道設置然後點擊"{1}" 按鈕確認您可以直播。 &lt;a href="https://xspl.it/bc/s8s19t#{2:X}"&gt;Click here&lt;/a&gt; 了解詳情。</value>
+  </data>
+  <data name="lblGameImageHint" xml:space="preserve">
+    <value>將顯示脫機映像當遊戲或資源未檢測到(留空,使遊戲資源透明)</value>
+  </data>
+  <data name="lblSkypeImageHint" xml:space="preserve">
+    <value>將顯示脫機映像當skype視頻路徑未檢測到(留空,使skype透明)</value>
+  </data>
+  <data name="msgAddSkypeNoticeGsDisabled" xml:space="preserve">
+    <value>Skype視頻需要啟用遊戲資源運行.所以啟動遊戲資源從工具&gt; 一般設置菜單然後回來並選擇此菜單項.</value>
+  </data>
+  <data name="msgInternetExplorerIsRequired" xml:space="preserve">
+    <value>XSplit 已檢測到Internet Explorer未安裝.
+
+XSplit 至少需要版本7 的Internet Explorer來保證正常工作.
+
+你想現在獲取最新版本的Internet Explorer 嗎?</value>
+  </data>
+  <data name="msgInternetExplorerIsOld" xml:space="preserve">
+    <value>XSplit 已檢測到您的Internet Explorer版本過低.
+
+XSplit 至少需要版本7 的Internet Explorer來保證正常工作.
+
+你想現在獲取最新版本的Internet Explorer 嗎?</value>
+  </data>
+  <data name="MyRecordings_DirectoryFailedToOpen" xml:space="preserve">
+    <value>未能打開"{0}"目錄.</value>
+  </data>
+  <data name="MyRecordings_DirectoryNotFound" xml:space="preserve">
+    <value>"{0}"目錄不存在.</value>
+  </data>
+  <data name="msgAmdRadeonHd7xxxWarning" xml:space="preserve">
+    <value>XSplit 已檢測到您正在使用AMD Radeon HD 7xxx 系列顯卡,目前可能存在XSplit 兼容性問題.
+
+請點擊&lt;a href="{0}"&gt; 這裡&lt;/a&gt; 更多的信息.
+
+&lt;a name="d​​ontshowagain"&gt; 下次不再顯示.&lt;/a&gt;</value>
+  </data>
+  <data name="msgDefaultStageResolutionWarning AVerMedia H.264 Encoder" xml:space="preserve">
+    <value>此設置不會保留在您的帳戶並需要在每次登入時設置.</value>
+  </data>
+  <data name="chkWinXPSound" xml:space="preserve">
+    <value>使用 WinXP 音效</value>
+  </data>
+  <data name="msgLicenseOffer_libh264aver" xml:space="preserve">
+    <value>AVerMedia c985 Live Gamer捕獲卡已安裝在您的電腦,現在XSplit可以使用的內置硬件編碼器.此功能只有高級用戶可以使用.請考慮升級您當前證書.
+
+現在升級您的證書嗎?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgLicenseOffer_libh264aver1" xml:space="preserve">
+    <value>您的證書不允許{0}捕捉卡安置在內置解碼器中. XSplit將切換到默認{1} 解碼器.</value>
+  </data>
+  <data name="msgNoNetNoLocal" xml:space="preserve">
+    <value>XSplit 沒有檢測到互聯網連接.您第一次在此計算機登入時需要同時連接到互聯網.</value>
+  </data>
+  <data name="msgMaintModeHasLocal" xml:space="preserve">
+    <value>{0} XSplit 將脫機登錄模式使您可以使用大多數的功能, 不需要連接XSplit 服務器.</value>
+    <comment>do not translate</comment>
+  </data>
+  <data name="msgMaintModeNoLocal" xml:space="preserve">
+    <value>{0} 第一次在此計算機登入時需要同時連接到XSplit 服務器.請稍後再試.</value>
+    <comment>do not translate</comment>
+  </data>
+  <data name="PreviewMain_confApplyPreviewToActual" xml:space="preserve">
+    <value>使用預覽場景內容於實際場景嗎?</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromFile" xml:space="preserve">
+    <value>預覽場景已被修改, 放棄更改並加載在預覽窗口中的保存的場景文件內容嗎?</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromFile_InvalidSceneFile" xml:space="preserve">
+    <value>景象文件無效.</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_loadFromScene" xml:space="preserve">
+    <value>您將要更改到另一個場景但您已修改了當前場景. 將更改應用於"{0}"?</value>
+  </data>
+  <data name="PreviewMain_confDiscardPreview_Revert" xml:space="preserve">
+    <value>預覽場景已被修改,放棄更改並還原為實際場景內容嗎?</value>
+  </data>
+  <data name="PreviewMain_confSavePreviewBeforeClose" xml:space="preserve">
+    <value>預覽場景已被修改,將更改應用到實際場景在關閉之前嗎?</value>
+  </data>
+  <data name="PreviewMain_confPreviewGoLive" xml:space="preserve">
+    <value>使用預覽場景直播嗎?</value>
+  </data>
+  <data name="PreviewPIP_msgBottom" xml:space="preserve">
+    <value>右鍵單擊場景按鈕,在預覽窗口中編輯</value>
+  </data>
+  <data name="PreviewPIP_msgTop" xml:space="preserve">
+    <value>"{0}"快照</value>
+  </data>
+  <data name="btnPosCropEasyCrop_Tooltip" xml:space="preserve">
+    <value>此工具可能會暫時縮放到實際的視區,重置該視頻項目同時使用中的3D 位置設置.</value>
+  </data>
+  <data name="msgAddinLoadedFromPreviosSession" xml:space="preserve">
+    <value>XSplit 在當前會話中已經加載某些插件不可用在您的用戶帳戶.要重新加載插件與您的帳戶相關聯,XSplit 需要重新啟動.</value>
+  </data>
+  <data name="StartStreamLicenseNotice_Watermarked" xml:space="preserve">
+    <value>直播到{0} 需要XSplit 證書.水印將被啟用.
+
+你想現在購買證書嗎?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="StartStreamLicenseNotice_Disallowed" xml:space="preserve">
+    <value>直播到 {0} 需要 XSplit 證書.
+
+你想現在購買證書嗎?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgMaintMode" xml:space="preserve">
+    <value>XSplit 在維護模式下運行.</value>
+  </data>
+  <data name="msgFinalizingRecordings" xml:space="preserve">
+    <value>您最近的錄製仍正在最後確定.取決於文件​​的大小此過程可能需要幾分鐘時間.
+
+現在中止這一進程仍將允許您的錄製在媒體播放器播放,但可能需要後期處理後才能上傳到視頻網站.
+
+你想要中止現在嗎?</value>
+  </data>
+  <data name="tsmiAddAudioDevice" xml:space="preserve">
+    <value>音訊 (&amp;A)</value>
+  </data>
+  <data name="tsmiAddAudioDevice2" xml:space="preserve">
+    <value>音訊 (&amp;A)</value>
+  </data>
+  <data name="msgFinalizeRecordingFileStarted" xml:space="preserve">
+    <value>後期處理 {0} 開始.</value>
+  </data>
+  <data name="msgFinalizeRecordingFileFinished" xml:space="preserve">
+    <value>後期處理 {0}完成.</value>
+  </data>
+  <data name="msgResponseProcessingFailedHasLocal" xml:space="preserve">
+    <value>XSplit 無法登錄.
+
+已 {0} 記錄錯誤.
+
+如果問題仍然存在,請聯繫support@xsplit.com附加的日誌文件.
+
+XSplit 將進行登入在脫機模式下,將允許您使用大多數的功能.</value>
+  </data>
+  <data name="msgResponseProcessingFailedNoLocal" xml:space="preserve">
+    <value>XSplit 無法登錄.
+
+已 {0} 記錄錯誤.
+
+如果問題仍然存在,請聯繫support@xsplit.com附加的日誌文件.</value>
+  </data>
+  <data name="msgStreamResolutionIsNotSupportedResolution" xml:space="preserve">
+    <value>您當前分辨率不支持硬件編碼器.
+您的視頻將會使用最接近的可能支持的分辨率(沒有質量將會丟失) 進行編碼.
+
+請參閱&lt;a href="{0}"&gt; XSplit 文件&lt;/a&gt; 詳細信息.</value>
+  </data>
+  <data name="msgUpdateCheckOffline" xml:space="preserve">
+    <value>無法檢查更新在離線模式下.</value>
+  </data>
+  <data name="msgLatestNewsFailedLoadDoc" xml:space="preserve">
+    <value>沒有當前可用的消息.</value>
+  </data>
+  <data name="msgGeneralGameSourceConflict" xml:space="preserve">
+    <value>以下過程可能有一些XSplit 的問題.如果你看到一些XSplit 功能工作不像預期的那樣.你可以嘗試關閉這些進程.
+
+{0}</value>
+  </data>
+  <data name="msgDroppedFrameThresholdHit" xml:space="preserve">
+    <value>檢測到掉幀.你直播質量可能受到影響.
+
+&lt;a href="https://xspl.it/bc/tz7q3i" name="learnmore"&gt;請點擊這裡&lt;/a&gt;來幫助分析這些問題.</value>
+  </data>
+  <data name="msgRecordingsAbortedOnDiskFullError" xml:space="preserve">
+    <value>您的錄製已停止.請檢查您的磁盤未滿.</value>
+  </data>
+  <data name="msgRecordingsAbortedOnDiskFull" xml:space="preserve">
+    <value>您的錄製無法開始.請檢查您的磁盤未滿.</value>
+  </data>
+  <data name="msgRecordingsStoppedOnInsufficientDiskSpace" xml:space="preserve">
+    <value>您的錄製已停止.請檢查您至少具有{0} 可用空間.</value>
+  </data>
+  <data name="msgRecordingsAbortedOnInsufficientDiskSpace" xml:space="preserve">
+    <value>無法開始您的錄製.請檢查您至少具有{0} 可用空間.</value>
+  </data>
+  <data name="chkScrCapMethod1" xml:space="preserve">
+    <value>應用特別優化</value>
+  </data>
+  <data name="chkScrCapOptCapture1" xml:space="preserve">
+    <value>優化視窗捕獲</value>
+  </data>
+  <data name="lblScrCapMethod1Hint" xml:space="preserve">
+    <value>(實驗)</value>
+  </data>
+  <data name="lblScrCapOptCapture1" xml:space="preserve">
+    <value>(只和Aero 主題運作)</value>
+  </data>
+  <data name="BandwidthTesterCountdown" xml:space="preserve">
+    <value>頻寬測試儀-{0} 秒剩餘</value>
+  </data>
+  <data name="chkScrCapMethod0" xml:space="preserve">
+    <value>傳統模式</value>
+  </data>
+  <data name="showViewportToolStripMenuItem" xml:space="preserve">
+    <value>顯示視區</value>
+  </data>
+  <data name="lblGameSurfSharing" xml:space="preserve">
+    <value>(實驗)</value>
+  </data>
+  <data name="hideViewportToolStripMenuItem" xml:space="preserve">
+    <value>隱藏視區</value>
+  </data>
+  <data name="AAC LC HQ_Tooltip" xml:space="preserve">
+    <value>AAC 低複雜度中等至高的位元速率</value>
+  </data>
+  <data name="AAC LC LQ_Tooltip" xml:space="preserve">
+    <value>AAC 低複雜度低位元速率</value>
+  </data>
+  <data name="Speex_Tooltip" xml:space="preserve">
+    <value>Speex</value>
+  </data>
+  <data name="MP3_Tooltip" xml:space="preserve">
+    <value>MP3</value>
+  </data>
+  <data name="btnColorChromaEyedropCK_Tooltip" xml:space="preserve">
+    <value>選擇一個色調/顏色您想要刪除</value>
+  </data>
+  <data name="picColorChromaHueCK_Tooltip" xml:space="preserve">
+    <value>您想要刪除的色調/顏色</value>
+  </data>
+  <data name="picColorChromaRangeCK_Tooltip" xml:space="preserve">
+    <value>容忍差值為所選色調/顏色(色調/顏色範圍)</value>
+  </data>
+  <data name="picColorChromaRangeAlphaCK_Tooltip" xml:space="preserve">
+    <value>Alpha 平滑邊緣(使移除的區域邊緣光滑)</value>
+  </data>
+  <data name="picColorChromaSatCK_Tooltip" xml:space="preserve">
+    <value>排除下面這個飽和度色度的像素為單位(修正噪音)</value>
+  </data>
+  <data name="picColorChromaBrightnessCK_Tooltip" xml:space="preserve">
+    <value>排除低於此亮度色度中的像素(修正噪音)</value>
+  </data>
+  <data name="lblChannel" xml:space="preserve">
+    <value>通道</value>
+  </data>
+  <data name="lblNACodec" xml:space="preserve">
+    <value>編解碼</value>
+  </data>
+  <data name="lblNAudioBitrate" xml:space="preserve">
+    <value>位元速率 (kbps)</value>
+  </data>
+  <data name="lblNAudioFormat" xml:space="preserve">
+    <value>格式</value>
+  </data>
+  <data name="lblNBuffer1" xml:space="preserve">
+    <value>VBV Buffer</value>
+  </data>
+  <data name="lblNBuffer2" xml:space="preserve">
+    <value>(kbit)</value>
+  </data>
+  <data name="lblNCodec" xml:space="preserve">
+    <value>編解碼</value>
+  </data>
+  <data name="lblNExtra" xml:space="preserve">
+    <value>Extra Param</value>
+  </data>
+  <data name="lblNMaxBitrate_CBR" xml:space="preserve">
+    <value>位元速率 (kbps)</value>
+  </data>
+  <data name="lblNMaxBitrate_VBR" xml:space="preserve">
+    <value>最大位元速率 (kbps)</value>
+  </data>
+  <data name="lblNMaxKeyint1" xml:space="preserve">
+    <value>Keyframes</value>
+  </data>
+  <data name="lblNMaxKeyint2" xml:space="preserve">
+    <value>(secs)</value>
+  </data>
+  <data name="lblNPreset" xml:space="preserve">
+    <value>預設</value>
+  </data>
+  <data name="lblNQuality" xml:space="preserve">
+    <value>品質</value>
+  </data>
+  <data name="lblNResolution" xml:space="preserve">
+    <value>視頻大小</value>
+  </data>
+  <data name="lblNVExtra_NoData" xml:space="preserve">
+    <value>沒有資料</value>
+  </data>
+  <data name="lblNVExtra_WithData" xml:space="preserve">
+    <value>和資料</value>
+  </data>
+  <data name="lblQMode" xml:space="preserve">
+    <value>模式</value>
+  </data>
+  <data name="lblStrictCBR" xml:space="preserve">
+    <value>Strict CBR</value>
+  </data>
+  <data name="lblTestBW" xml:space="preserve">
+    <value>測試頻寬</value>
+  </data>
+  <data name="lblVideoEncoding" xml:space="preserve">
+    <value>視頻編碼</value>
+  </data>
+  <data name="lblAudioEncoding" xml:space="preserve">
+    <value>音訊編碼</value>
+  </data>
+  <data name="chkCBR" xml:space="preserve">
+    <value>適用精準CBR</value>
+  </data>
+  <data name="lblDefault" xml:space="preserve">
+    <value>還原</value>
+  </data>
+  <data name="lblExtra" xml:space="preserve">
+    <value>額外編碼參數:</value>
+  </data>
+  <data name="lblKeyInt" xml:space="preserve">
+    <value>最大的關鍵幀間隔(秒):</value>
+  </data>
+  <data name="lblPreset2" xml:space="preserve">
+    <value>編碼器預設:</value>
+  </data>
+  <data name="lblVecTitle" xml:space="preserve">
+    <value>視頻編碼設置</value>
+  </data>
+  <data name="rb1_Audio" xml:space="preserve">
+    <value>音訊</value>
+  </data>
+  <data name="msgSwitchingToRE2" xml:space="preserve">
+    <value>您的圖形硬件不支持D3D 11 級10.1.XSplit 將恢復使用傳統渲染引擎.
+
+&lt;a href="http://#"name="d​​ontshowagain"&gt; 不再顯示.&lt;/a&gt;</value>
+  </data>
+  <data name="msgCloseWhileStreaming" xml:space="preserve">
+    <value>直播/錄製當前處於激活狀態. 你確定你想要註銷/退出?</value>
+  </data>
+  <data name="chkEnhanceResize" xml:space="preserve">
+    <value>提升調整大小</value>
+  </data>
+  <data name="chkEnableEvrMf" xml:space="preserve">
+    <value>啟用優化呈現</value>
+  </data>
+  <data name="chkEnableEvrMf_Tooltip" xml:space="preserve">
+    <value>此選項可以提高總體性能在大多數係統上.
+此選項預計成為下一個主要發行版的XSplit 的默認值.</value>
+  </data>
+  <data name="lblEnableEvrMfHint" xml:space="preserve">
+    <value>(實驗,需要重新開機)</value>
+  </data>
+  <data name="lblEnableEvrMfHint_Tooltip" xml:space="preserve">
+    <value>此選項可以提高總體性能在大多數係統上.
+此選項預計成為下一個主要發行版的XSplit 的默認值.</value>
+  </data>
+  <data name="BwTester_Autosel" xml:space="preserve">
+    <value>正在確定最佳伺服器...</value>
+  </data>
+  <data name="BwTester_Autosel1" xml:space="preserve">
+    <value>試圖向 {0} 導入</value>
+  </data>
+  <data name="lblHotkeyWarning" xml:space="preserve">
+    <value>您可以使用您的鍵盤快捷鍵來觸發場景切換和其他命令甚至在遊戲或其他應用程序中</value>
+  </data>
+  <data name="GlobalHotkeyWarningText" xml:space="preserve">
+    <value>您的XSplit 快捷鍵可以在其他應用程序觸發.請確保您在XSplit 中設置的快捷鍵不與應用程序或遊戲同時使用衝突.</value>
+  </data>
+  <data name="WarningTitle" xml:space="preserve">
+    <value>警告</value>
+  </data>
+  <data name="InformationTitle" xml:space="preserve">
+    <value>資訊</value>
+  </data>
+  <data name="BroadcastStatus_Live" xml:space="preserve">
+    <value>直播{0}</value>
+  </data>
+  <data name="BroadcastStatus_SendingFrames" xml:space="preserve">
+    <value>發送幀{0}</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally" xml:space="preserve">
+    <value>本地錄製</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally2" xml:space="preserve">
+    <value>錄製 {0}</value>
+  </data>
+  <data name="removeChannelsToolStripMenuItem" xml:space="preserve">
+    <value>刪除頻道...</value>
+  </data>
+  <data name="removeChannelsToolStripMenuItemXbc5003" xml:space="preserve">
+    <value>刪除輸出</value>
+  </data>
+  <data name="msgUncPathIsNotSupported" xml:space="preserve">
+    <value>不支持網絡文件夾.嘗試映射網絡文件夾到一個驅動器並將您錄製的位置設置為該驅動器.</value>
+  </data>
+  <data name="lblDecklinkPlayoutIntro" xml:space="preserve">
+    <value>與Decklink Playout,你直接可以廣播/播出XSplit 視頻和音頻向您Blackmagic Design Decklink捕捉卡.使用此功能來輸出HDMI與XSplit 視頻和音頻.</value>
+  </data>
+  <data name="lblDecklinkPlayoutTo" xml:space="preserve">
+    <value>播出到:</value>
+  </data>
+  <data name="lblDecklinkPlayoutResFps" xml:space="preserve">
+    <value>可支持分辨率和幀速率:
+{0}
+
+XSplit 分辨率和幀率應匹配Blackmagic Media Express.
+
+此功能需要虛擬攝像機,在工具中啟用&gt; 常規設置.</value>
+  </data>
+  <data name="msgLicenseOffer_libh264qs" xml:space="preserve">
+    <value>QuickSync 編碼器只有{0} 證書用戶可用.請考慮升級您的當前證書.
+
+現在升級您的證書嗎?</value>
+  </data>
+  <data name="msgLicenseOffer_libh264qsext" xml:space="preserve">
+    <value>QuickSync 編碼器只有{0} 證書用戶可用.請考慮升級您的當前證書.
+
+現在升級您的證書嗎?</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_SCENECUR" xml:space="preserve">
+    <value>場景</value>
+  </data>
+  <data name="msgLicenseOffer_AAC" xml:space="preserve">
+    <value>啟動高質量AAC 音頻僅提供給XSplit 證書用戶.
+
+現在升級您的證書嗎?</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgCantReconfigureYet" xml:space="preserve">
+    <value>不能在這個時候重新直播.請稍後再試.</value>
+  </data>
+  <data name="lblEnterCaptcha" xml:space="preserve">
+    <value>輸入代碼</value>
+  </data>
+  <data name="msgNotLiveForAnnounce" xml:space="preserve">
+    <value>在您發佈到社會網絡之前您需要啟動你的直播.</value>
+  </data>
+  <data name="titleNotLiveForAnnounce" xml:space="preserve">
+    <value>嘿 !你需要登入.</value>
+  </data>
+  <data name="LocalStreamingNonPremiumNotice" xml:space="preserve">
+    <value>此功能只是供個人或高級證書用戶.單擊YES得到您自己的證書和開始釋放出的XSplit Broadcaster充分潛力!</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="msgSkypeVideoSourceBuyXSplitOffer" xml:space="preserve">
+    <value>此功能只是供個人或高級證書用戶.單擊YES得到您自己的證書和開始釋放出的XSplit Broadcaster充分潛力!</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="RoxioGameCaptureNotice" xml:space="preserve">
+    <value>此功能只是供個人或高級證書用戶.單擊YES得到您自己的證書和開始釋放出的XSplit Broadcaster充分潛力!</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="HauppaugeHdPvr2Notice" xml:space="preserve">
+    <value>此功能只是供個人或高級證書用戶.單擊YES得到您自己的證書和開始釋放出的XSplit Broadcaster充分潛力!</value>
+    <comment>purchase point</comment>
+  </data>
+  <data name="titleShareFailed" xml:space="preserve">
+    <value>分享失敗</value>
+  </data>
+  <data name="msgRecordingPathIsTooLong" xml:space="preserve">
+    <value>錄製路徑{0} 太長.請設置一個較短的錄製路徑.</value>
+  </data>
+  <data name="msgGamesourceUpdateNeedsRestart" xml:space="preserve">
+    <value>XSplit Broadcaster包含更新的遊戲捕獲組件,但舊組件當前加載的是您的系統中.請重新啟動您的計算機,然後再次運行XSplit Broadcaster.</value>
+  </data>
+  <data name="msgGamesourceCantLoadMayNeedRestart" xml:space="preserve">
+    <value>XSplit Broadcaster檢測到不常規行為當加載遊戲捕捉組件.請再次嘗試,或重新啟動您的電腦來重新設置系統內存.</value>
+  </data>
+  <data name="msgProfileSyncFailed" xml:space="preserve">
+    <value>您之前的配置文件設置的要求已被拒絕.
+
+{0}</value>
+  </data>
+  <data name="msgCantRemoveResolution" xml:space="preserve">
+    <value>不能刪除所選的分辨率.請先選擇另一項分辨率.</value>
+  </data>
+  <data name="msgCantDeleteChannel" xml:space="preserve">
+    <value>不能刪除通道.</value>
+  </data>
+  <data name="msgCantCreateRecordingFile" xml:space="preserve">
+    <value>無法創建錄製文件中'{0}'.請確保您有足夠的權限來記錄到該文件夾中.</value>
+  </data>
+  <data name="activationReminderTitle" xml:space="preserve">
+    <value>提醒</value>
+  </data>
+  <data name="msgStreamResolutionIsNotSupportedResolution1" xml:space="preserve">
+    <value>您當前分辨率不支持硬件編碼器.
+您的視頻將會使用最接近的可能支持的分辨率(沒有質量將會丟失) 進行編碼.</value>
+  </data>
+  <data name="msgBwtestTerminated" xml:space="preserve">
+    <value>{0} 頻寬測試被終止了.
+請檢查您的通道設置.</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally_Paused" xml:space="preserve">
+    <value>錄製暫停. 點擊 {0} 恢復</value>
+  </data>
+  <data name="BroadcastStatus_RecordingLocally_Paused1" xml:space="preserve">
+    <value>記錄暫停</value>
+  </data>
+  <data name="WatermarkOn" xml:space="preserve">
+    <value>使用水印</value>
+  </data>
+  <data name="CustomFramerateLabel1" xml:space="preserve">
+    <value>(自訂...)</value>
+  </data>
+  <data name="PreviewWindow" xml:space="preserve">
+    <value>預覽編輯</value>
+  </data>
+  <data name="msgPausedRecordingWarning" xml:space="preserve">
+    <value>暫停正在進行的錄製.如果你想要繼續錄製,請按{0}.
+
+您希望停止錄製嗎?</value>
+  </data>
+  <data name="msgPausedRecordingWarning1" xml:space="preserve">
+    <value>暫停正在進行的錄製.如果你想要繼續錄製,請單擊"{0}"在{1} 菜單下.
+
+您希望停止錄音嗎?</value>
+  </data>
+  <data name="addGameAutoDetect" xml:space="preserve">
+    <value>自動檢測</value>
+  </data>
+  <data name="addGameAutoDetect1" xml:space="preserve">
+    <value>遊戲:自動檢測</value>
+  </data>
+  <data name="lblNBuffer1_Tooltip" xml:space="preserve">
+    <value>VBV Buffer</value>
+  </data>
+  <data name="lblNExtra_Tooltip" xml:space="preserve">
+    <value>Extra Param</value>
+  </data>
+  <data name="lblNMaxKeyint1_Tooltip" xml:space="preserve">
+    <value>關鍵幀間隔</value>
+  </data>
+  <data name="lblNPreset_Tooltip" xml:space="preserve">
+    <value>預設</value>
+  </data>
+  <data name="lblNQuality_Tooltip" xml:space="preserve">
+    <value>品質</value>
+  </data>
+  <data name="lblNResolution_Tooltip" xml:space="preserve">
+    <value>視頻大小</value>
+  </data>
+  <data name="lblStrictCBR_Tooltip" xml:space="preserve">
+    <value>Strict CBR</value>
+  </data>
+  <data name="runLogReportToolToolStripMenuItem" xml:space="preserve">
+    <value>報告問題...</value>
+  </data>
+  <data name="logoutToolStripMenuItem" xml:space="preserve">
+    <value>登出</value>
+  </data>
+  <data name="growlStreamIsDelayed" xml:space="preserve">
+    <value>直播延遲激活.實時直播將在{0} 秒開始...</value>
+  </data>
+  <data name="growlStreamIsDelayedStopping" xml:space="preserve">
+    <value>你的直播{0} 已延遲啟用,並將繼續為 {1} 秒發送資料...</value>
+  </data>
+  <data name="chkRecordStream_Tooltip" xml:space="preserve">
+    <value>除非使用延時功能,否則這將創建被編碼碳副本.您可以查看此文件,看看是否沒有任何幀編碼過程中掉幀.</value>
+  </data>
+  <data name="AddWebUrl" xml:space="preserve">
+    <value>添加網頁URL</value>
+  </data>
+  <data name="AddRtmpStream" xml:space="preserve">
+    <value>添加 RTMP</value>
+  </data>
+  <data name="AddScriptPlugin" xml:space="preserve">
+    <value>添加自訂擴展</value>
+  </data>
+  <data name="lblAudioOut" xml:space="preserve">
+    <value>系統聲音</value>
+  </data>
+  <data name="StopLocalRecording" xml:space="preserve">
+    <value>停止本地錄製</value>
+  </data>
+  <data name="PauseLocalRecording" xml:space="preserve">
+    <value>暫停本地錄製</value>
+  </data>
+  <data name="ResumeLocalRecording" xml:space="preserve">
+    <value>恢復本地錄製</value>
+  </data>
+  <data name="msgMixerFpsNotSupportedByVideoCodec" xml:space="preserve">
+    <value>{0} 編碼過程中僅支持以下的幀速率.
+
+{1}
+
+請相匹配的輸出幀速率, 在"幀速率"菜單.</value>
+  </data>
+  <data name="msgVideoCodecMaxEncodeLimited" xml:space="preserve">
+    <value>{0}同時只支持{1}編碼一次.</value>
+  </data>
+  <data name="frmFeedback" xml:space="preserve">
+    <value>我們希望能從您那邊得到意見!</value>
+  </data>
+  <data name="msgdiskwritefailure_recording" xml:space="preserve">
+    <value>由於磁片寫入失敗終止您的錄制.</value>
+  </data>
+  <data name="msgdiskwritefailure_streaming" xml:space="preserve">
+    <value>保存到磁盤被終止由於磁盤寫入失敗,您的廣播不會中斷並繼續.</value>
+  </data>
+  <data name="msgRE2ParameterWarning" xml:space="preserve">
+    <value>檢測到"{0}"exe 參數. 不再建議使用此選項.</value>
+  </data>
+  <data name="growlMinAvailMemWarning" xml:space="preserve">
+    <value>XSplit 正在使用高水準的記憶體, 這可能導致系統不穩定. 隱藏和並且不使用的來源仍然使用記憶體. 若要解決此問題, 請刪除一些源在演示文稿中. 
+
+進一步的指導, 請參閱 &lt;a href="{0}" name="memstats" &gt;這&lt;/a&gt;篇部落格.</value>
+  </data>
+  <data name="growlD3dOnIntelWarning" xml:space="preserve">
+    <value>你在英特爾高清顯卡上運行 XSplit. 一個專用的 Nvidia 或 Radeon 類 GPU 推薦用於穩定性和性能.</value>
+  </data>
+  <data name="growlD3dOnIntelWarningHasOtherGPUOnDesktop" xml:space="preserve">
+    <value>主監視器連接到您的英特爾高清GPU. 它建議連接到您專用的Nvidia 或Radeon Class GPU 主監視器以帶來穩定性和高性能.
+
+&lt;a href="https://xspl.it/bhg75v"name="learnmore"&gt; 請點擊這裡&lt;/a&gt;更多詳細信息</value>
+  </data>
+  <data name="growlMp4FinalizationFailed" xml:space="preserve">
+    <value>錄製碎片整理未完成的"{0}".
+
+您可能需要修復該文件, 請打開文件菜單-&gt; 我的錄製, 右鍵點擊該文件.</value>
+  </data>
+  <data name="growlRestartingWithEncoderError" xml:space="preserve">
+    <value>編碼失敗並將重新開機, read &lt;a href="https://xspl.it/err/{2}"&gt;this post&lt;/a&gt; for more information. 目的檔案"{0}"已更名為"{1}".</value>
+  </data>
+  <data name="growlRestartingWithEncoderError2" xml:space="preserve">
+    <value>編碼失敗並將重新開機, 閱讀&lt;a href="https://xspl.it/err/{1}"&gt;這篇文章&lt;/a&gt; 獲取更多資訊. 目標文章"{0}" 將覆蓋目的檔案.</value>
+  </data>
+  <data name="growlDesktopCaptureOnAeroWarning" xml:space="preserve">
+    <value>桌面捕獲Aero不推薦並且可能會影響XSplit性能. 如果桌面捕獲是必需的請更改您的主題為Windows 7 Basic. 更多信息&lt;a name="readmore" href="https://xspl.it/bc/jn2qeo"&gt;這裡&lt;/a&gt;.
+
+&lt;a name="dontshowagain"&gt;不再顯示.&lt;/a&gt;</value>
+  </data>
+  <data name="msgStreamingUnsupportedVideoCodec1" xml:space="preserve">
+    <value>你的{0} 直播被終止了. 確保{1} 捕獲或編碼器功能不被另一個應用程序用</value>
+  </data>
+  <data name="msgConfirmStreamingCodecInStage" xml:space="preserve">
+    <value>您的 {0} 不支持硬件編碼被用作捕獲源.若要使用編碼器的硬件,首先將其刪除捕獲源從你的場景.是否需要切換到默認{1} 解碼器?
+
+有關使用和故障排除你的{0} 詳細信息採集卡,請單擊'Help'按鈕.</value>
+  </data>
+  <data name="msgStreamingUnsupportedVideoCodec2Confirm" xml:space="preserve">
+    <value>{0} 卡僅支持一次為一個信道編碼, {1} 已經被用於在您的{2} 頻道直播. 是否要切換到默認的{3} 編碼解碼器?
+
+使用和故障排除您{0} 捕獲卡詳細信息請單擊"help"按鈕.</value>
+  </data>
+  <data name="msgCefGpuRendererStateChangedWarning" xml:space="preserve">
+    <value>GPU 渲染狀態檢測到更改. XSplit Broadcaster 會重新實現最佳利用率.</value>
+  </data>
+  <data name="volumeRange" xml:space="preserve">
+    <value>容量範圍 (%): {0}</value>
+  </data>
+  <data name="goLiveAndCloseSceneEditorTsmi" xml:space="preserve">
+    <value>關閉預覽視窗</value>
+  </data>
+  <data name="goLiveAndReloadSceneEditor" xml:space="preserve">
+    <value>重新載入預覽視窗</value>
+  </data>
+  <data name="goLiveAndSwapLiveWithSceneEditor" xml:space="preserve">
+    <value>交換直播到預覽</value>
+  </data>
+  <data name="goLiveAndSwitchSceneEditor" xml:space="preserve">
+    <value>更改預覽視窗</value>
+  </data>
+  <data name="goLiveAndSwitchToLiveSceneEditor" xml:space="preserve">
+    <value>直播現場</value>
+  </data>
+  <data name="goLiveAndSwitchToLiveSceneSplit" xml:space="preserve">
+    <value>直播現場</value>
+  </data>
+  <data name="growlNonDefaultStreamResFpsXbc5003" xml:space="preserve">
+    <value>您已選擇要記錄/直播在不同比當前分辨率/幀速率({1}) 的分辨率/幀速率({0}). 您可以更改分辨率/幀速率為你的輸出設置窗口的視頻編碼部分的默認值.</value>
+  </data>
+  <data name="growlNonDefaultStreamResFps" xml:space="preserve">
+    <value>您已選擇要記錄/直播在不同比當前分辨率/幀速率({1}) 的分辨率/幀速率({0}). 您可以更改分辨率/幀速率為你廣播的插件設置窗口的視頻編碼部分的默認值.</value>
+  </data>
+  <data name="growlNonDefaultStreamResFpsForInvalidLicense" xml:space="preserve">
+    <value>您已選擇要記錄/流與不同比當前解析度/速率 ({1}) 的解析度/畫面播放速率 ({0}).</value>
+  </data>
+  <data name="chkStreamDelay" xml:space="preserve">
+    <value>啟用直播延遲</value>
+  </data>
+  <data name="lblStreamDelay" xml:space="preserve">
+    <value>秒</value>
+  </data>
+  <data name="msgNonDefaultStreamAspectRatioDifferent" xml:space="preserve">
+    <value>視頻大小比例{0} 設置與當前舞台分辨率不同. 更改舞台分辨率來匹配視頻大小{1}?</value>
+  </data>
+  <data name="msgNonDefaultStreamResLarger" xml:space="preserve">
+    <value>視頻尺寸{0} 在於{1} 設置是大於當前舞台分辨率. 更改舞台分辨率來匹配視頻尺寸.</value>
+  </data>
+  <data name="transitionSpeedTsmi" xml:space="preserve">
+    <value>過渡速度</value>
+  </data>
+  <data name="favTransitionAddTip" xml:space="preserve">
+    <value>若要添加一個喜歡的過渡度, 在左邊設置過渡和速度, 並點擊星狀圖標.</value>
+  </data>
+  <data name="favTransitionMaxTip" xml:space="preserve">
+    <value>你已經到達可添加的喜愛過濾度最高允許量. 你可以刪除一個已添加的喜愛來添加其它.</value>
+  </data>
+  <data name="favTransitionShortcutTip" xml:space="preserve">
+    <value>快捷方式: 按右鍵場景按鈕來設置新的過渡度, 同時切換到一個場景.</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_FAVTRANSADD" xml:space="preserve">
+    <value>添加到過濾度收藏夾</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_FAVTRANSLIST" xml:space="preserve">
+    <value>開放最喜歡過渡</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GOLIVELIST" xml:space="preserve">
+    <value>打開Push Live選項</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_SCENELIST" xml:space="preserve">
+    <value>更改場景</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_TRANSLIST" xml:space="preserve">
+    <value>設置過渡樣式和速度</value>
+  </data>
+  <data name="PropertyIds.IDC_STATIC_SCENESRC" xml:space="preserve">
+    <value>過濾</value>
+  </data>
+  <data name="favTransitionAddTip1" xml:space="preserve">
+    <value>未設置收藏夾快捷方式. 添加一個最喜歡的過渡度, 請點擊上面的星圖標.</value>
+  </data>
+  <data name="msgAskToBackupPresDueToNewSceneIndexes" xml:space="preserve">
+    <value>XSplit Broadcaster 現在支持點擊和拖動場景重新排序和按從左到右的順序將它們列出. 如此, 你的場景按鈕排列改變了, 可以更容易糾正通過拖放他們回來到你所需的佈局.</value>
+  </data>
+  <data name="msgFunctionUnavailableDueToClosedPort" xml:space="preserve">
+    <value>由於關閉端口 {0} 功能不可用.</value>
+  </data>
+  <data name="AutoSetup" xml:space="preserve">
+    <value>通道安裝精靈</value>
+  </data>
+  <data name="btnRedoTest" xml:space="preserve">
+    <value>重做測試</value>
+  </data>
+  <data name="colComputerHw" xml:space="preserve">
+    <value>電腦硬體</value>
+  </data>
+  <data name="colReqUpload" xml:space="preserve">
+    <value>需要上傳</value>
+  </data>
+  <data name="colResolution" xml:space="preserve">
+    <value>分辨率</value>
+  </data>
+  <data name="lblLegendText" xml:space="preserve">
+    <value>推薦設置</value>
+  </data>
+  <data name="lnkLogs" xml:space="preserve">
+    <value>顯示日誌</value>
+  </data>
+  <data name="scriptAddTsmi" xml:space="preserve">
+    <value>添加擴展文件...</value>
+  </data>
+  <data name="moreExtensionsToolStripMenuItem" xml:space="preserve">
+    <value>尋找更多擴展</value>
+  </data>
+  <data name="scriptEditorTsmi" xml:space="preserve">
+    <value>擴展</value>
+  </data>
+  <data name="scriptRemoveTsmi" xml:space="preserve">
+    <value>刪除擴展</value>
+  </data>
+  <data name="msgSettingsSaved_RestartNeeded" xml:space="preserve">
+    <value>XSplit 需要為以下更改重啟.[table]設置| 當前參數|現在參數[/table]重啟嗎?</value>
+  </data>
+  <data name="msgOSCompatiblityModeWarning" xml:space="preserve">
+    <value>XSplit 檢測 XSplit.core.exe 設置在舊版本的 Windows 相容性模式. 在舊版本相容模式下運行 XSplit 不受支援, 可能會導致意外行為. (請參閱 &lt;a href="HTTPs://xspl.it/tpyg23"&gt; 這裡&lt;/a&gt; 如何更改.)</value>
+  </data>
+  <data name="growlHighCpuUsageWarning" xml:space="preserve">
+    <value>檢測到 CPU 使用率過高, 你可能會遇到性能問題.</value>
+  </data>
+  <data name="growlPowerSchemeWarning" xml:space="preserve">
+    <value>建議您設置電源選項到"{0}". 按一下 &lt;a name="open-powercfg"&gt; 這裡&lt;/a&gt; 打開電源選項.</value>
+  </data>
+  <data name="msgEVRWarning" xml:space="preserve">
+    <value>您正在使用自訂和實驗 exe 參數不建議用於製作.</value>
+  </data>
+  <data name="msgFeatureRequiresMFP" xml:space="preserve">
+    <value>此功能要求媒體功能包為此版本的 Windows. 請下載並安裝它通過按一下 [這裡]({0}).</value>
+  </data>
+  <data name="enableHardwareAccelerateUSB2" xml:space="preserve">
+    <value>為 USB2 擷取裝置使用硬體加速</value>
+  </data>
+  <data name="enableMFEngine" xml:space="preserve">
+    <value>使用硬體加速的視頻播放</value>
+  </data>
+  <data name="BroadcasterTriggerAds" xml:space="preserve">
+    <value>啟動廣告 - {0}</value>
+  </data>
+  <data name="enableDeveloperMode" xml:space="preserve">
+    <value>啟用開發人員模式</value>
+  </data>
+  <data name="msgRemoteDebugPortIsBusy" xml:space="preserve">
+    <value>開發人員模式下啟用調試端口 {0} 忙碌. 如果您需要調試插件, 請將替代端口設置通過添加參數啟動"remotedebug:&lt;端口號&gt;"
+
+開發人員模式是不建議為生產或經常使用的低安全調試模式. 若要禁用開發人員模式, 轉到工具-&gt; 一般設置-&gt; &lt;a name="open-advanced-settings"&gt; 高級&lt;/a&gt;.</value>
+  </data>
+  <data name="msgRemoteDebugPortIsOkay" xml:space="preserve">
+    <value>開發人員模式下啟用使用調試埠 {0}.
+開發人員模式是不建議為生產或經常使用的低安全偵錯模式. 若要禁用開發人員模式, 轉到工具-常規設置 &gt; 網站-&gt; &lt;a name="open-advanced-settings"&gt; 先進&lt;/a&gt;.</value>
+  </data>
+  <data name="msgNoNetNoValidLocal" xml:space="preserve">
+    <value>XSplit 沒有檢測到互聯網連接和一個有效的本地設定檔. 您需要連接到互聯網以便繼續進行.</value>
+  </data>
+  <data name="msgInvalidSocialAccountInfo" xml:space="preserve">
+    <value>當前社會的帳戶登錄資訊已不再有效, 請重新登錄一次.</value>
+  </data>
+  <data name="lblAdapter" xml:space="preserve">
+    <value>配接器</value>
+    <comment>XBC plugins-wide; Properties</comment>
+  </data>
+  <data name="lblNetworkConnection" xml:space="preserve">
+    <value>網路連接</value>
+    <comment>XBC plugins-wide; Properties</comment>
+  </data>
+  <data name="btnSetupWizard" xml:space="preserve">
+    <value>設置嚮導...</value>
+    <comment>Plugins with wizard feature (i.e. Dailymotion, Hitbox, Twitch, Ustream); Properties</comment>
+  </data>
+  <data name="lnkSignUpHere" xml:space="preserve">
+    <value>沒有帳戶? 在這裡註冊.</value>
+    <comment>XBC plugins-wide (default value); Properties</comment>
+  </data>
+  <data name="lblNic_System" xml:space="preserve">
+    <value>讓系統決定</value>
+  </data>
+  <data name="msgCarbonCopyTerminatedDueToDiskWriteFailure" xml:space="preserve">
+    <value>保存到磁盤被終止由於磁盤寫入失敗, 您的廣播不會中斷並繼續.</value>
+  </data>
+  <data name="msgRecordingTerminatedDueToDiskWriteFailure" xml:space="preserve">
+    <value>由於磁片寫入失敗終止您的錄制.</value>
+  </data>
+  <data name="msgDeckLinkPlayoutStopped_PossiblyUnplugged" xml:space="preserve">
+    <value>由可能的設備終止播出到 {0} 上拔下.</value>
+  </data>
+  <data name="msgBMWDMRecommended" xml:space="preserve">
+    <value>此演示文稿中使用 {0} 源. 建議刪除此源和替換現在 WDM 捕捉源 (桌面視頻驅動程式版本 10.5.3+ 建議).</value>
+  </data>
+  <data name="msgDecklinkPlayoutAborted" xml:space="preserve">
+    <value>你的 {0} 直播被中止. 確保 {0} 配置正確, 並且設備工作. XSplit Broadcaster重新開機可能需要為新插入的設備.</value>
+  </data>
+  <data name="lblDisabled" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="lblEnabled" xml:space="preserve">
+    <value>啟用</value>
+  </data>
+  <data name="enableNativeFlashAndBrowserAudio" xml:space="preserve">
+    <value>啟用本機 Flash 和瀏覽器的音訊控制</value>
+  </data>
+  <data name="upgradeExtendLicenseToolStripMenuItem" xml:space="preserve">
+    <value>升級/延長證書</value>
+  </data>
+  <data name="upgradeExtendLicenseToolStripMenuItem2" xml:space="preserve">
+    <value>购买证书</value>
+  </data>
+  <data name="screenshotsToolStripMenuItem" xml:space="preserve">
+    <value>我的螢幕截圖</value>
+  </data>
+  <data name="btnDeleteChannel" xml:space="preserve">
+    <value>刪除此輸出</value>
+  </data>
+  <data name="titleDeleteChannel" xml:space="preserve">
+    <value>刪除輸出</value>
+  </data>
+  <data name="pbNetworkConnection_Tooltip" xml:space="preserve">
+    <value>若要使用特定網路介面卡為此輸出, 啟用
+"允許輸出指定自己的網路介面卡"選項
+設置 &gt; 高級然後從下面的清單中選擇配接器.</value>
+  </data>
+  <data name="executeCustomURLToolStripMenuItem" xml:space="preserve">
+    <value>執行自訂 URI...</value>
+  </data>
+  <data name="pluginStoreToolStripMenuItem" xml:space="preserve">
+    <value>外掛程式商店</value>
+  </data>
+  <data name="myPluginsToolStripMenuItem" xml:space="preserve">
+    <value>我的外掛程式</value>
+  </data>
+  <data name="deleteSceneToolStripMenuItem" xml:space="preserve">
+    <value>刪除場景</value>
+  </data>
+  <data name="duplicateSceneToolStripMenuItem" xml:space="preserve">
+    <value>複製場景</value>
+  </data>
+  <data name="loadSceneToolStripMenuItem" xml:space="preserve">
+    <value>加載場景...</value>
+  </data>
+  <data name="newSceneToolStripMenuItem" xml:space="preserve">
+    <value>新場景</value>
+  </data>
+  <data name="saveSceneAsImageToolStripMenuItem" xml:space="preserve">
+    <value>作為圖像保存場景...</value>
+  </data>
+  <data name="saveSceneToolStripMenuItem" xml:space="preserve">
+    <value>保存場景</value>
+  </data>
+  <data name="titleExecuteCustomURI" xml:space="preserve">
+    <value>執行自訂 URI</value>
+  </data>
+  <data name="msgInvalidURI" xml:space="preserve">
+    <value>不正確 URI.</value>
+  </data>
+  <data name="titleLicenseIsNearExpiration" xml:space="preserve">
+    <value>您的證書快要過期了!</value>
+  </data>
+  <data name="msgLicenseIsNearExpiration" xml:space="preserve">
+    <value>您的證書將在 {0} 到期. 如果你打算直播/錄製超過這個日期, 直播/錄製可能對他們有水印, 直到您續訂證書.</value>
+  </data>
+  <data name="msgLicenseIsExpired" xml:space="preserve">
+    <value>您的證書已過期. 你成功的直播/錄製可能對他們有水印, 直到您續訂證書.</value>
+  </data>
+  <data name="titleLicenseIsExpired" xml:space="preserve">
+    <value>您的證書已過期!</value>
+  </data>
+  <data name="msgLicenseIsNearExpiration2" xml:space="preserve">
+    <value>&lt;a name="buy"&gt; 按一下此處&lt;/a&gt; 以續訂您的證書.</value>
+  </data>
+  <data name="btnRenewLicense" xml:space="preserve">
+    <value>續訂證書</value>
+  </data>
+  <data name="growlScreenshotTaken" xml:space="preserve">
+    <value>保存截圖! 你的截圖可以從文件菜單-&gt; 我的截圖進入.</value>
+  </data>
+  <data name="LocalFiles" xml:space="preserve">
+    <value>我的視頻</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem" xml:space="preserve">
+    <value>啟用NewTek NDI®輸出</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem1" xml:space="preserve">
+    <value>禁用NewTek NDI®輸出</value>
+  </data>
+  <data name="toggleNewtekNDIOutputToolStripMenuItem2" xml:space="preserve">
+    <value>NewTek NDI®輸出</value>
+  </data>
+  <data name="msgCantDeleteSceneWhileEditingOrProjecting" xml:space="preserve">
+    <value>不能在編輯或投影場景時刪除場景.</value>
+  </data>
+  <data name="msgCantDeleteSceneWhileInUse" xml:space="preserve">
+    <value>使用中的場景無法刪除。</value>
+  </data>
+  <data name="msgCannotOpenMultipleXVE" xml:space="preserve">
+    <value>只有一個實例的表達視頻編輯器被支援. 請關閉已打開的 XSplit Gamecaster現有運行實例.</value>
+  </data>
+  <data name="deleteSceneToolStripMenuItem1" xml:space="preserve">
+    <value>刪除場景</value>
+  </data>
+  <data name="msgCantParseOutputUriWhileStreaming" xml:space="preserve">
+    <value>不能同時流處理輸出的 URI.</value>
+  </data>
+  <data name="msgExecuringUri" xml:space="preserve">
+    <value>正在執行 URI...</value>
+  </data>
+  <data name="newtekNDIStreamBetaToolStripMenuItem" xml:space="preserve">
+    <value>NewTek NDI® stream (Beta)</value>
+  </data>
+  <data name="newtekNDIStreamToolStripMenuItem" xml:space="preserve">
+    <value>NewTek NDI® stream</value>
+  </data>
+  <data name="msgNdiBetaNotice" xml:space="preserve">
+    <value>感謝您試用我們 NewTek NDI®功能. 此功能仍處於測試階段, 我們建議你閱讀更多關於功能&lt;a href='https://xspl.it/z8tpys'&gt;這裡&lt;/a&gt;.</value>
+  </data>
+  <data name="msgSystemTimeIsIncorrect" xml:space="preserve">
+    <value>您的系統時間設置可能不正確. 這可能會影響操作的 XSplit 和相關的服務.</value>
+  </data>
+  <data name="msgWarningOn32bitOS" xml:space="preserve">
+    <value>您當前正在運行在 32 位作業系統上. 一般性能和功能可能會受到限制由於記憶體的限制. 按一下 &lt;a href='https://xspl.it/qrg6n3'&gt;這裡&lt;/a&gt; 瞭解更多.</value>
+  </data>
+  <data name="msgSteamLicenseConflict" xml:space="preserve">
+    <value>我們已經檢測到您目前現有的 XSplit 和Steam證書活動。** 請聯繫支援**:&lt;a href='https://xspl.it/support'&gt;support@xsplit.com&lt;/a&gt;</value>
+  </data>
+  <data name="msgNonDefaultSystemSoundWarning" xml:space="preserve">
+    <value>如果你不設定係統聲音到 "{0}", 你可能不再能夠聽到從你的應用程序或遊戲對你的直播或錄製的聲音.</value>
+  </data>
+  <data name="changeLanguageToolStripMenuItem" xml:space="preserve">
+    <value>更改語言</value>
+  </data>
+  <data name="msgPort443IsBlocked" xml:space="preserve">
+    <value>XSplit Broadcaster 已檢測到該端口TCP/443 被阻止.此端口被需要對幾個外部服務進行身份驗證.請單擊&lt;a href=\"http://xspl.it/how-to-unblock-port-443\"&gt;這裡&lt;/a&gt; 了解更多.</value>
+  </data>
+  <data name="titlePort443IsBlocked" xml:space="preserve">
+    <value>埠 443 被阻止</value>
+  </data>
+  <data name="aboutNdiToolStripMenuItem" xml:space="preserve">
+    <value>瞭解更多關於 NDI®</value>
+  </data>
+  <data name="noNdiSourcesFoundOnNetworkToolStripMenuItem" xml:space="preserve">
+    <value>在網路上找到的 No NDI® 來源</value>
+  </data>
+  <data name="msgHasNoNdiPrereq" xml:space="preserve">
+    <value>此功能要求 Visual C++ 可轉散發元件視覺工作室 2013 年 x86.請點擊 [here](https://xspl.it/ftbdkn) 下載並安裝它.</value>
+  </data>
+  <data name="msgHasNoNdiPrereqX64" xml:space="preserve">
+    <value>此功能要求 Visual C++ 可轉散發元件視覺工作室 2015 年 x64.請點擊 [這裡](https://xspl.it/vc2015x64) 下載並安裝它.</value>
+  </data>
+  <data name="titleHasNoNdiPrereq" xml:space="preserve">
+    <value>Missing NDI® 系統必備元件</value>
+  </data>
+  <data name="noNdiPrereqToolStripMenuItem" xml:space="preserve">
+    <value>缺少的系統必備元件, 點擊查看資訊</value>
+  </data>
+  <data name="tsslDisplayFps_Tooltip" xml:space="preserve">
+    <value>在屏幕上顯示直播或錄製的FPS / 輸出幀. 顯示 FPS (在屏幕上顯示) 不優先考慮而變動.</value>
+  </data>
+  <data name="tsslDisplayFpsVal_Tooltip" xml:space="preserve">
+    <value>在屏幕上顯示直播或錄製的FPS / 輸出幀. 顯示 FPS (在屏幕上顯示) 不優先考慮而變動.</value>
+  </data>
+  <data name="tsslCPU_Tooltip" xml:space="preserve">
+    <value>總的 CPU 負載 / CPU 使用的 XSplit / CPU 時脈速度</value>
+  </data>
+  <data name="tsslCPUVal_Tooltip" xml:space="preserve">
+    <value>總的 CPU 負載 / CPU 使用的 XSplit / CPU 時脈速度</value>
+  </data>
+  <data name="tsslGPU_Tooltip" xml:space="preserve">
+    <value>所有GPU引擎中的最高負載/所有GPU引擎下與XSplit Broadcaster相關的進程的最高負載/GPU時鐘速度</value>
+  </data>
+  <data name="tsslGPUVal_Tooltip" xml:space="preserve">
+    <value>所有GPU引擎中的最高負載/所有GPU引擎下與XSplit Broadcaster相關的進程的最高負載/GPU時鐘速度</value>
+  </data>
+  <data name="move_bottomTransition" xml:space="preserve">
+    <value>移到底部</value>
+  </data>
+  <data name="move_leftTransition" xml:space="preserve">
+    <value>左移</value>
+  </data>
+  <data name="move_left_rightTransition" xml:space="preserve">
+    <value>移動左與右</value>
+  </data>
+  <data name="move_rightTransition" xml:space="preserve">
+    <value>右移</value>
+  </data>
+  <data name="move_topTransition" xml:space="preserve">
+    <value>移到頂部</value>
+  </data>
+  <data name="move_top_bottomTransition" xml:space="preserve">
+    <value>移動頂部與底部</value>
+  </data>
+  <data name="msgAudioDevice_DefaultMicrophone" xml:space="preserve">
+    <value>預設麥克風</value>
+  </data>
+  <data name="msgAudioDevice_DefaultSpeakers" xml:space="preserve">
+    <value>預設揚聲器</value>
+  </data>
+  <data name="noneTransition" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="msgTobiiPluginDisabled" xml:space="preserve">
+    <value>改進的 Tobii EyeTracker 一體化現供屏幕捕獲和遊戲捕獲源, 右鍵點擊源, 請參閱"Tobii"選項卡.
+
+ 為了保持與新的 Tobii EyeTracker 集成兼容, Tobii 眼球跟踪器插件已被禁用.</value>
+  </data>
+  <data name="msgTobiiSourceRemoved" xml:space="preserve">
+    <value>改進的 Tobii EyeTracker 一體化現供屏幕捕獲和遊戲捕獲源, 右鍵點擊源, 請參閱"Tobii"選項卡.
+
+ 為了保持與新的 Tobii EyeTracker 集成兼容, Tobii 眼球跟踪器已從你的演示中移除.</value>
+  </data>
+  <data name="newProjectorWindowToolStripMenuItem" xml:space="preserve">
+    <value>新視窗</value>
+  </data>
+  <data name="newProjectorWindowToolStripMenuItem2" xml:space="preserve">
+    <value>新視窗</value>
+  </data>
+  <data name="accountSettingsToolStripMenuItem" xml:space="preserve">
+    <value>帳戶設置</value>
+  </data>
+  <data name="browserD3dMode" xml:space="preserve">
+    <value>瀏覽器源特別優化</value>
+  </data>
+  <data name="msgErrorUpdatingYtVideo" xml:space="preserve">
+    <value>更新 YouTube 視頻時遇到錯誤.</value>
+  </data>
+  <data name="msgCancelUpload" xml:space="preserve">
+    <value>您確定要取消上傳？</value>
+  </data>
+  <data name="titleCancelUpload" xml:space="preserve">
+    <value>取消上傳</value>
+  </data>
+  <data name="msgDeleteYtVideo" xml:space="preserve">
+    <value>你确定要删除这个YouTube視頻嗎?</value>
+  </data>
+  <data name="titleDeleteVideo" xml:space="preserve">
+    <value>刪除視頻</value>
+  </data>
+  <data name="msgCantDoActionWhileUploading" xml:space="preserve">
+    <value>无法执行操作當 YouTube 正在进行上傳时</value>
+  </data>
+  <data name="msgTitleIsEmpty" xml:space="preserve">
+    <value>標題不能為空.</value>
+  </data>
+  <data name="msgCantUploadFileIsInUse" xml:space="preserve">
+    <value>錄音不能因為它是在使用上載由另一個進程。請關閉所有其他視窗，使用它，如 XSplit 視頻編輯器，然後再試。影像無法被上傳由於在其他路徑中被使用. 請關閉其他窗口如XSplit 視頻剪輯者并再次嘗試使用.</value>
+  </data>
+  <data name="msgUnknownUploadError" xml:space="preserve">
+    <value>嘗試開始上傳時遇到未知錯誤.</value>
+  </data>
+  <data name="msgCantDeleteFilesInUse" xml:space="preserve">
+    <value>無法刪除文件因為它正在被使用.</value>
+  </data>
+  <data name="msgCantDeleteSomeFilesInUse" xml:space="preserve">
+    <value>無法刪除文件因為它正在被使用.</value>
+  </data>
+  <data name="msgConfirmDeleteFiles" xml:space="preserve">
+    <value>你確定要刪除這個 {0} 文件嗎?</value>
+  </data>
+  <data name="titleConfirmDeleteFiles" xml:space="preserve">
+    <value>刪除文件</value>
+  </data>
+  <data name="msgConfirmCreateYtChannel" xml:space="preserve">
+    <value>您已登錄到 YouTube但還沒有頻道, 您想現在創建一個嗎?</value>
+  </data>
+  <data name="tsslMemory_Tooltip" xml:space="preserve">
+    <value>XSplit使用的專用字節</value>
+  </data>
+  <data name="tsslMemoryVal_Tooltip" xml:space="preserve">
+    <value>XSplit使用的專用字節</value>
+  </data>
+  <data name="dx12Capture" xml:space="preserve">
+    <value>啟用 DX12 遊戲捕獲</value>
+  </data>
+  <data name="pasteAsLinkedSourceToolStripMenuItem" xml:space="preserve">
+    <value>粘貼為連結的原始檔案</value>
+  </data>
+  <data name="pasteAsNewSourceToolStripMenuItem" xml:space="preserve">
+    <value>粘貼為新的源</value>
+  </data>
+  <data name="msgDontShowDialogCheckbox" xml:space="preserve">
+    <value>不要再顯示此對話框</value>
+  </data>
+  <data name="msgConfirmDiscardScene_loadFromFile" xml:space="preserve">
+    <value>你確定你想要覆蓋當前的場景?</value>
+  </data>
+  <data name="msgXSplitCertErrorEncountered" xml:space="preserve">
+    <value>XSplit 檢測證書相關的錯誤指示XSplit 和在線服務之間的安全連接. 這也可能會禁止您進行身份驗證或與第三方服務提供商如Twitch/YouTube/Facebook 通信. 在某些情況下這可能是在您的計算機上安裝的惡意軟件的結果, 其中可用於所謂的man-in-the-middle attacks (MitM). 請點擊[這篇博客](https://xspl.it/www/ngwv7e) 了解更多.[br][br]如果您選擇忽略此警告它將記住此會話並將是您自己的風險. 現在關閉XSplit 嗎?</value>
+  </data>
+  <data name="workspaceClassicToolStripMenuItem" xml:space="preserve">
+    <value>傳統模式</value>
+  </data>
+  <data name="workspaceSplitToolStripMenuItem" xml:space="preserve">
+    <value>拆分模式</value>
+  </data>
+  <data name="workspaceToolStripMenuItem" xml:space="preserve">
+    <value>工作區</value>
+  </data>
+  <data name="themeClassicToolStripMenuItem" xml:space="preserve">
+    <value>Classic</value>
+  </data>
+  <data name="themeDarkToolStripMenuItem" xml:space="preserve">
+    <value>Dark</value>
+  </data>
+  <data name="themeToolStripMenuItem" xml:space="preserve">
+    <value>主題</value>
+  </data>
+  <data name="goLiveAndReloadSceneSplit" xml:space="preserve">
+    <value>留在當前場景</value>
+  </data>
+  <data name="goLiveAndSwapLiveWithSceneSplit" xml:space="preserve">
+    <value>直播現場</value>
+  </data>
+  <data name="goLiveAndSwitchSceneSplit" xml:space="preserve">
+    <value>更改預覽場景</value>
+  </data>
+  <data name="splitViewMainTitleL1" xml:space="preserve">
+    <value>直播: </value>
+  </data>
+  <data name="splitViewPrevTitleL1" xml:space="preserve">
+    <value>預覽: </value>
+  </data>
+  <data name="warnNoPreviewEditorOnSplitView" xml:space="preserve">
+    <value>你必須要進入經典模式工作區才可以打開預覽編輯器. 若要切換工作區, 單擊箭頭圖標上 (旁邊的混頻器分辨率和幀數據) 並選擇工作區</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_GOLIVE" xml:space="preserve">
+    <value>推送實況</value>
+  </data>
+  <data name="tsslDisplayFps" xml:space="preserve">
+    <value>FPS:</value>
+  </data>
+  <data name="tsslMemory" xml:space="preserve">
+    <value>記憶體:</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_INVALID" xml:space="preserve">
+    <value>FAT32 磁盤上開始錄製和文件分割是基於時間的, 如有必要錄製將被分割的最大允許文件大小 ({0}).</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_NOT_SET" xml:space="preserve">
+    <value>FAT32 磁盤上開始錄製, 錄製將拆分的最大允許文件大小 ({0}) 如有必要.</value>
+  </data>
+  <data name="WARN_FAT32_SEGMENT_TOO_HIGH" xml:space="preserve">
+    <value>FAT32 磁盤上開始錄製和文件拆分設置高於允許的最大文件大小 ({0}) 時, 錄製將分割為 {0}.</value>
+  </data>
+  <data name="msgInvalidXSplitAccountInfo" xml:space="preserve">
+    <value>當前直播帳戶登錄資訊已不再有效, 請重新登錄一次.{0}</value>
+  </data>
+  <data name="otherToolStripMenuItem" xml:space="preserve">
+    <value>部件</value>
+  </data>
+  <data name="cutTransition" xml:space="preserve">
+    <value>切</value>
+  </data>
+  <data name="growlMidiGetPortsFailed" xml:space="preserve">
+    <value>無法獲取MIDI設備. 您的MIDI快捷鍵將無法工作.</value>
+  </data>
+  <data name="growlMidiGetPortsNoDevices" xml:space="preserve">
+    <value>未檢測到MIDI設備. 您的MIDI快捷鍵將無法工作.</value>
+  </data>
+  <data name="growlMidiInitFailed" xml:space="preserve">
+    <value>無法初始化MIDI設備. 某些MIDI快捷鍵可能無法正常工作.</value>
+  </data>
+  <data name="growlMidiInitFailedAll" xml:space="preserve">
+    <value>無法初始化MIDI設備. 你的MIDI快捷鍵無法正常工作.</value>
+  </data>
+  <data name="msgMidiGetPortsFailed" xml:space="preserve">
+    <value>無法枚舉 MIDI 設備. MIDI 快捷鍵綁定將無法工作.</value>
+  </data>
+  <data name="msgMidiGetPortsNoDevices" xml:space="preserve">
+    <value>沒有 MIDI 設備檢測到. MIDI 快捷鍵綁定將無法工作.</value>
+  </data>
+  <data name="msgMidiInitFailed" xml:space="preserve">
+    <value>從受影響的 MIDI 設備失敗初始化 MIDI 設備. 控制項將不會檢測.</value>
+  </data>
+  <data name="msgMidiInitFailedAll" xml:space="preserve">
+    <value>無法開始 MIDI 設備. MIDI 快捷鍵綁定將無法工作.</value>
+  </data>
+  <data name="msgNdiStreamCantStart" xml:space="preserve">
+    <value>你的 {0} 直播被中止. {1}請檢查 &lt;a name="logfile"&gt; 日誌&lt;/a&gt; 瞭解詳細資訊.</value>
+  </data>
+  <data name="tsmiProjectLiveScene" xml:space="preserve">
+    <value>直播現場</value>
+  </data>
+  <data name="tsmiProjectPreviewEditor" xml:space="preserve">
+    <value>預覽編輯</value>
+  </data>
+  <data name="msgUnableToPostBmpToPlayerMe" xml:space="preserve">
+    <value>無法共用BMP 影像檔到Player.me, 請選擇 JPEG 圖像.</value>
+  </data>
+  <data name="Permissions" xml:space="preserve">
+    <value>許可權</value>
+  </data>
+  <data name="BroadcasterCaptureMixerImage_desc" xml:space="preserve">
+    <value>拍攝活動場景的截圖</value>
+  </data>
+  <data name="BroadcasterInsertCuepoint_desc" xml:space="preserve">
+    <value>插入 Cuepoint</value>
+  </data>
+  <data name="BroadcasterPushLive_desc" xml:space="preserve">
+    <value>推送實況</value>
+  </data>
+  <data name="videoProcessingMode" xml:space="preserve">
+    <value>視頻處理模式</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc1" xml:space="preserve">
+    <value>遺產</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc2" xml:space="preserve">
+    <value>偏向的 CPU</value>
+  </data>
+  <data name="videoProcessingMode_ShortDesc3" xml:space="preserve">
+    <value>偏向的 GPU</value>
+  </data>
+  <data name="renameSource" xml:space="preserve">
+    <value>重命名</value>
+  </data>
+  <data name="addWebUrlTsmi" xml:space="preserve">
+    <value>網頁...</value>
+  </data>
+  <data name="LiveStream" xml:space="preserve">
+    <value>Flash 流 (RTMP)</value>
+  </data>
+  <data name="ablegamersplg" xml:space="preserve">
+    <value>AbleGamers 警報</value>
+  </data>
+  <data name="beamchatplg" xml:space="preserve">
+    <value>聊天查看器</value>
+  </data>
+  <data name="dmchatplg" xml:space="preserve">
+    <value>聊天查看器</value>
+  </data>
+  <data name="extralifeplg" xml:space="preserve">
+    <value>額外警報</value>
+  </data>
+  <data name="facebookchatplg" xml:space="preserve">
+    <value>現場留言</value>
+  </data>
+  <data name="hitboxchatplg" xml:space="preserve">
+    <value>聊天檢視器</value>
+  </data>
+  <data name="ImageSlideshowplg" xml:space="preserve">
+    <value>圖像幻燈片</value>
+  </data>
+  <data name="inputvisualizerplg" xml:space="preserve">
+    <value>輸入視覺化檢視</value>
+  </data>
+  <data name="justgivingplg" xml:space="preserve">
+    <value>JustGiving 警報</value>
+  </data>
+  <data name="mediaslideshowplg" xml:space="preserve">
+    <value>媒體幻燈片</value>
+  </data>
+  <data name="perSceneAudioplg" xml:space="preserve">
+    <value>每個現場音訊</value>
+  </data>
+  <data name="presentationPackagerplg" xml:space="preserve">
+    <value>演示文稿包裝機</value>
+  </data>
+  <data name="sceneSwitcherplg" xml:space="preserve">
+    <value>場景切換器</value>
+  </data>
+  <data name="titleplg" xml:space="preserve">
+    <value>文本</value>
+  </data>
+  <data name="twitchalertsplg" xml:space="preserve">
+    <value>Twitch 警報</value>
+  </data>
+  <data name="twitchchathtml5plg" xml:space="preserve">
+    <value>聊天檢視器通過 HTML5</value>
+  </data>
+  <data name="twitchchatplg" xml:space="preserve">
+    <value>IRC 聊天檢視器</value>
+  </data>
+  <data name="VideoPlaylistplg" xml:space="preserve">
+    <value>視頻播放清單</value>
+  </data>
+  <data name="webMEncoderplg" xml:space="preserve">
+    <value>Stinger創造者</value>
+  </data>
+  <data name="WhiteboardOverlayplg" xml:space="preserve">
+    <value>電子白板</value>
+  </data>
+  <data name="youtubechatplg" xml:space="preserve">
+    <value>直播聊天檢視器</value>
+  </data>
+  <data name="youtubelivechatplg" xml:space="preserve">
+    <value>直播聊天檢視器通過 HTML5</value>
+  </data>
+  <data name="addSkypeTsmi" xml:space="preserve">
+    <value>Skype 視頻</value>
+  </data>
+  <data name="addSkypeTsmi2" xml:space="preserve">
+    <value>Skype 視頻</value>
+  </data>
+  <data name="ImageSlideshow" xml:space="preserve">
+    <value>圖像幻燈片 (舊版)</value>
+  </data>
+  <data name="Starboard" xml:space="preserve">
+    <value>右舷</value>
+  </data>
+  <data name="title" xml:space="preserve">
+    <value>標題 (舊版)</value>
+  </data>
+  <data name="VideoPlaylist" xml:space="preserve">
+    <value>視頻播放清單 (舊版)</value>
+  </data>
+  <data name="WhiteboardOverlay" xml:space="preserve">
+    <value>白板覆蓋 (舊版)</value>
+  </data>
+  <data name="smashcastchatplg" xml:space="preserve">
+    <value>聊天檢視器</value>
+  </data>
+  <data name="youtubesuperchatplg" xml:space="preserve">
+    <value>超級聊天警報</value>
+  </data>
+  <data name="addCustomResolutionToolStripMenuItem" xml:space="preserve">
+    <value>自訂解析度...</value>
+  </data>
+  <data name="twitchcheeralertplg" xml:space="preserve">
+    <value>歡呼提醒</value>
+  </data>
+  <data name="msgMaxResWarning" xml:space="preserve">
+    <value>任何解析度高於 {0} x {1} 可能無法按預期工作, 並且不建議甚至在高級的硬件上. 你是否仍要添加這解析度?</value>
+  </data>
+  <data name="msgInvalidInputValue" xml:space="preserve">
+    <value>輸入的值無效.</value>
+  </data>
+  <data name="timespanAndSeparator" xml:space="preserve">
+    <value> 和 </value>
+  </data>
+  <data name="timespanDaysUnit" xml:space="preserve">
+    <value>{0} 天</value>
+  </data>
+  <data name="timespanDayUnit" xml:space="preserve">
+    <value>{0} 天</value>
+  </data>
+  <data name="timespanHoursUnit" xml:space="preserve">
+    <value>{0} 小時</value>
+  </data>
+  <data name="timespanHourUnit" xml:space="preserve">
+    <value>{0} 小時</value>
+  </data>
+  <data name="timespanMinutesUnit" xml:space="preserve">
+    <value>{0} 分鐘</value>
+  </data>
+  <data name="timespanMinuteUnit" xml:space="preserve">
+    <value>{0} 分鐘</value>
+  </data>
+  <data name="timespanSecondsUnit" xml:space="preserve">
+    <value>{0} 秒</value>
+  </data>
+  <data name="timespanSecondUnit" xml:space="preserve">
+    <value>{0} 秒</value>
+  </data>
+  <data name="timespanSeparator" xml:space="preserve">
+    <value>, </value>
+  </data>
+  <data name="msgMicMutedDueToPttKeyAssignedText" xml:space="preserve">
+    <value>麥克風已靜音, 可以通過按Push-to-Talk (PTT)"{0}"鍵或取消靜音麥克風圖標來啟用.</value>
+  </data>
+  <data name="msgMicMutedDueToPttKeyAssignedTitle" xml:space="preserve">
+    <value>麥克風已被設置為靜音</value>
+  </data>
+  <data name="msgMfpWarning" xml:space="preserve">
+    <value>您正在運行 {0} N 或 KN 版, 他們都沒有安裝媒體功能包.
+
+為了獲得最佳性能, 使用 XSplit 的全部功能, 它被建議安裝在運行 XSplit 之前媒體功能包. (選擇安裝 32 位和 64 位版本, 如果可用)
+
+現在前往微軟下載並安裝媒體功能包?</value>
+  </data>
+  <data name="addStingerToolStripMenuItem" xml:space="preserve">
+    <value>添加過渡...</value>
+  </data>
+  <data name="removeStingerToolStripMenuItem" xml:space="preserve">
+    <value>刪除過渡</value>
+  </data>
+  <data name="stingersToolStripMenuItem" xml:space="preserve">
+    <value>Stinger 過渡</value>
+  </data>
+  <data name="msgCantDeleteStingerInUse" xml:space="preserve">
+    <value>不能刪除正在使用中的縱梁.</value>
+  </data>
+  <data name="addStingerplg" xml:space="preserve">
+    <value>添加縱梁...</value>
+  </data>
+  <data name="chkMultitrack" xml:space="preserve">
+    <value>創建麥克風和系統音頻的多軌錄音</value>
+  </data>
+  <data name="pbMultitrack_Tooltip" xml:space="preserve">
+    <value>這將錄製音訊到不同的軌道
+(混合, 麥克風, 系統聲音, 流)
+以便以後單獨編輯.</value>
+  </data>
+  <data name="growlPluginUpdateText" xml:space="preserve">
+    <value>插件更新可用. 轉到 &lt;a name="openMyPlugins"&gt; 工具-&gt;&gt; 我的插件 &lt;/a&gt; 查看和更新​​您的插件.</value>
+  </data>
+  <data name="growlOptimusNeedsRestart" xml:space="preserve">
+    <value>Nvidia Optimus設定檔被修改以提高性能. 這些更改需要重新開機 
+
+&lt;a name="growlOptimusNeedsRestartNow"&gt; 立即重新開機 &lt;/a&gt;</value>
+  </data>
+  <data name="BroadcastStatus_Connected" xml:space="preserve">
+    <value>連接{0}</value>
+  </data>
+  <data name="BroadcastStatus_Connecting" xml:space="preserve">
+    <value>連接中{0}</value>
+  </data>
+  <data name="BroadcastStatus_Restarting" xml:space="preserve">
+    <value>重新開始{0}</value>
+  </data>
+  <data name="msgBroadcastTerminated_TooManyRestarts" xml:space="preserve">
+    <value>因為反復重啟您的錄製被終止.</value>
+  </data>
+  <data name="BroadcastStatus_GettingBestServer" xml:space="preserve">
+    <value>確定直播目標伺服器{0}</value>
+  </data>
+  <data name="BroadcastStatus_BestServerFound" xml:space="preserve">
+    <value>目標伺服器發現{0}</value>
+  </data>
+  <data name="addReplayTsmi" xml:space="preserve">
+    <value>回放</value>
+  </data>
+  <data name="addReplayBottomTsmi" xml:space="preserve">
+    <value>回放</value>
+  </data>
+  <data name="uploadLogFilesToolStripMenuItem" xml:space="preserve">
+    <value>上傳日誌文件</value>
+  </data>
+  <data name="UploadLogFilesSuccessAlertMessage" xml:space="preserve">
+    <value>日誌文件已成功上載-單擊 [這裡]({0}) 查看.</value>
+  </data>
+  <data name="UploadLogFilesFailedAlertMessage" xml:space="preserve">
+    <value>上載日誌檔時遇到錯誤</value>
+  </data>
+  <data name="facebookreactionsplg" xml:space="preserve">
+    <value>後期反應</value>
+  </data>
+  <data name="CurrentStageFPS" xml:space="preserve">
+    <value>現階段FPS</value>
+  </data>
+  <data name="Default" xml:space="preserve">
+    <value>默認</value>
+  </data>
+  <data name="restoreResFpsDefaultToolStripMenuItem" xml:space="preserve">
+    <value>還原預設值</value>
+  </data>
+  <data name="devicesWebcamCaptureCardsToolStripMenuItem" xml:space="preserve">
+    <value>設備 (攝像頭, 捕獲卡...)</value>
+  </data>
+  <data name="streamsToolStripMenuItem" xml:space="preserve">
+    <value>直播</value>
+  </data>
+  <data name="btnSourceMaximize" xml:space="preserve">
+    <value>添加資源到屏幕{0}</value>
+  </data>
+  <data name="btnSourceRestore" xml:space="preserve">
+    <value>修改資源大小 (1/4){0}</value>
+  </data>
+  <data name="tsmiAddSmartScreen" xml:space="preserve">
+    <value>智慧選擇</value>
+  </data>
+  <data name="tsmiAddDesktopCapture" xml:space="preserve">
+    <value>監控捕獲</value>
+  </data>
+  <data name="tsmiAddWindowCapture" xml:space="preserve">
+    <value>視窗捕獲</value>
+  </data>
+  <data name="tsmiAddDesktopCaptureMonitor" xml:space="preserve">
+    <value>桌面 {0}</value>
+  </data>
+  <data name="btnSourceLock" xml:space="preserve">
+    <value>鎖定位置</value>
+  </data>
+  <data name="noSourceLabel" xml:space="preserve">
+    <value>未添加源。
+在這裡找一個!</value>
+  </data>
+  <data name="addExtensionToolStripMenuItem" xml:space="preserve">
+    <value>添加擴展</value>
+  </data>
+  <data name="facebooklivereactionspollcounterplg" xml:space="preserve">
+    <value>現場反應計數器</value>
+  </data>
+  <data name="facebooklivereactionsanimationplg" xml:space="preserve">
+    <value>實時反應動畫</value>
+  </data>
+  <data name="pbShareStream_Tooltip" xml:space="preserve">
+    <value>分享我的直播</value>
+  </data>
+  <data name="playoutToolStripMenuItem" xml:space="preserve">
+    <value>播出(&amp;P)</value>
+  </data>
+  <data name="recordToolStripMenuItem" xml:space="preserve">
+    <value>錄製(&amp;R)</value>
+  </data>
+  <data name="addResolutionToolStripMenuItem" xml:space="preserve">
+    <value>添加解析度</value>
+  </data>
+  <data name="removeResolutionToolStripMenuItem" xml:space="preserve">
+    <value>刪除分辨率</value>
+  </data>
+  <data name="scaleTo100ToolStripMenuItem" xml:space="preserve">
+    <value>縮放到100%</value>
+  </data>
+  <data name="snapToGridToolStripMenuItem2" xml:space="preserve">
+    <value>對齊網格</value>
+  </data>
+  <data name="duplicateSceneToolStripMenuItem1" xml:space="preserve">
+    <value>複製場景</value>
+  </data>
+  <data name="lblHardware" xml:space="preserve">
+    <value>硬體</value>
+  </data>
+  <data name="lblSoftware" xml:space="preserve">
+    <value>軟體</value>
+  </data>
+  <data name="msgCloseWhileVideoEditorIsOpen" xml:space="preserve">
+    <value>你目前在視頻編輯. 是否確實要退出嗎?
+
+退出將關閉 XSplit Broadcaster 快速視頻編輯器, 請務必保存您的更改, 然後再進行.</value>
+  </data>
+  <data name="msgCloseWhileUploadingVod" xml:space="preserve">
+    <value>當前正在上傳一段視頻. 你確定你想要註銷/退出?</value>
+  </data>
+  <data name="addSkypeNDITsmi" xml:space="preserve">
+    <value>Skype</value>
+  </data>
+  <data name="msgRtmpsInitException" xml:space="preserve">
+    <value>初始化 rtmps 時遇到錯誤。
+    
+    請 &lt;a href="https://xspl.it/bc/supportrtmps" name="learnmore"&gt;聯繫支持.&lt;/a&gt;</value>
+  </data>
+  <data name="msgServerAuthenticateFailed_90024_Offline" xml:space="preserve">
+    <value>已將包含激活鏈接的郵件發送到您的郵箱帳號. 您需要先激活XSplit才能登入.</value>
+  </data>
+  <data name="addLumaToolStripMenuItem" xml:space="preserve">
+    <value>添加過渡...</value>
+  </data>
+  <data name="lumaTransitionToolStripMenuItem" xml:space="preserve">
+    <value>色調過渡</value>
+  </data>
+  <data name="removeLumaToolStripMenuItem" xml:space="preserve">
+    <value>刪除過渡</value>
+  </data>
+  <data name="msgFailedDeletingStinger" xml:space="preserve">
+    <value>無法刪除stinger.</value>
+  </data>
+  <data name="growlNvencProbeErrorInvalidVersion" xml:space="preserve">
+    <value>由於驅動程式版本不相容, NVIDIA 編碼器 (NVENC) 探測器檢查失敗。請嘗試 &lt;a href="https://xspl.it/bc/nvidiaDriverDL" name="nvdiaDriverUpdate"&gt;更新您的 NVIDIA GPU 驅動程式。&lt;/a&gt;</value>
+  </data>
+  <data name="transitionSpeedDialogTitle" xml:space="preserve">
+    <value>過渡速度</value>
+  </data>
+  <data name="addSceneSourceTsmi" xml:space="preserve">
+    <value>場景</value>
+  </data>
+  <data name="ERROR_NVENCHW" xml:space="preserve">
+    <value>您的 {0} 直播由於使用 NVENC 編碼器時出現意外錯誤而終止, 直播將繼續使用另一個編碼器。 &lt;a href="https://xspl.it/bc/s8s19t#{1:X}"&gt;點擊這裡&lt;/a&gt; 了解更多。</value>
+  </data>
+  <data name="ERROR_NVENC" xml:space="preserve">
+    <value>您的 {0} 直播由於使用 NVENC 編碼器時出現意外錯誤而終止。 &lt;a href="https://xspl.it/bc/s8s19t#{1:X}"&gt;點擊這裡&lt;/a&gt; 了解更多。</value>
+  </data>
+  <data name="lblDecklinkPlayoutFormat" xml:space="preserve">
+    <value>格式:</value>
+  </data>
+  <data name="cboPlayoutFormatAuto" xml:space="preserve">
+    <value>自動</value>
+  </data>
+  <data name="msgNoNetLoginPopup" xml:space="preserve">
+    <value>未檢測到互聯網連接。 您需要互聯網連接才能登錄</value>
+  </data>
+  <data name="msgRetryTokenLoginValidLocal" xml:space="preserve">
+    <value>無法使用您保存的信息登錄。您可以進入離線模式，這將允許您使用大多數不需要連接XSplit服務器的功能，或重試再次使用保存的信息登錄。</value>
+  </data>
+  <data name="msgRetryTokenLoginInvalidLocal" xml:space="preserve">
+    <value>無法使用您保存的信息登錄。您可以使用賬號密碼重新登錄，或者再次使用保存的信息登錄。</value>
+  </data>
+  <data name="msgAutoLoginUserDiffer" xml:space="preserve">
+    <value>您已從另一個XSplit應用程序登錄到其他帳戶。 你想以**{0}**繼續嗎？</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTime" xml:space="preserve">
+    <value>過渡（關閉）</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeWithVal" xml:space="preserve">
+    <value>過渡（{0} 毫秒）</value>
+  </data>
+  <data name="tsmiScenePresetAdd" xml:space="preserve">
+    <value>添加預設</value>
+  </data>
+  <data name="tsmiScenePresetRemove" xml:space="preserve">
+    <value>刪除預設</value>
+  </data>
+  <data name="tsmiScenePresetLearnMore" xml:space="preserve">
+    <value>瞭解更多關於預設</value>
+  </data>
+  <data name="btnSourceGroup_Tooltip" xml:space="preserve">
+    <value>組 ({0})</value>
+  </data>
+  <data name="btnSourceUngroup_Tooltip" xml:space="preserve">
+    <value>取消組 ({0})</value>
+  </data>
+  <data name="PropertyIds.IDC_BUTTON_PRESETLIST" xml:space="preserve">
+    <value>添加，刪除預設並設置過渡</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET1" xml:space="preserve">
+    <value>轉到預設1</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET2" xml:space="preserve">
+    <value>轉到預設2。
+    
+     拖動預設圖標以重新排序</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET3" xml:space="preserve">
+    <value>轉到預設3。
+    
+     拖動預設圖標以重新排序</value>
+  </data>
+  <data name="PropertyIds.IDC_CHECK_PRESET4" xml:space="preserve">
+    <value>轉到預設4。
+    
+     拖動預設圖標以重新排序</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogTitle" xml:space="preserve">
+    <value>預設過渡速度</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogLabel" xml:space="preserve">
+    <value>速度 (ms)</value>
+  </data>
+  <data name="tsmiScenePresetTransitionTimeDialogHeader" xml:space="preserve">
+    <value>在預設之間切換時設置過渡速度。這將改變動畫屬性，如旋轉，縮放，裁剪等。</value>
+  </data>
+  <data name="tsmiScenePresetRemoveDD_Tooltip" xml:space="preserve">
+    <value>預設將自動重命名以遵循數字順序。</value>
+  </data>
+  <data name="msgNoNetHasLocalLoginPopup" xml:space="preserve">
+    <value>XSplit 沒有檢測到互聯網連接. 你仍能夠登入, 但是需要互聯網連接的某些功能可能無法工作，或再次重試連接網絡。</value>
+  </data>
+  <data name="redeemToolStripMenuItem" xml:space="preserve">
+    <value>兌現禮包...</value>
+  </data>
+  <data name="releaseNotesTsmi" xml:space="preserve">
+    <value>版本資訊</value>
+  </data>
+  <data name="videoTutorialsToolStripMenuItem" xml:space="preserve">
+    <value>影片教學</value>
+  </data>
+  <data name="expressVideoEditorToolStripMenuItem" xml:space="preserve">
+    <value>XSplit 高速視頻編輯器</value>
+  </data>
+  <data name="loadToolStripMenuItem" xml:space="preserve">
+    <value>加載場景(&amp;L)...</value>
+  </data>
+  <data name="permissionsTsmi" xml:space="preserve">
+    <value>許可權</value>
+  </data>
+  <data name="previewEditorToolStripMenuItem" xml:space="preserve">
+    <value>預覽編輯</value>
+  </data>
+  <data name="previewEditor2ToolStripMenuItem" xml:space="preserve">
+    <value>預覽編輯</value>
+  </data>
+  <data name="projectorScreenLabel" xml:space="preserve">
+    <value>屏幕{0}</value>
+  </data>
+  <data name="saveToolStripMenuItem" xml:space="preserve">
+    <value>保存場景(&amp;S)...</value>
+  </data>
+  <data name="XSplitBroadcasterTitleText" xml:space="preserve">
+    <value>XSplit Broadcaster</value>
+  </data>
+  <data name="invalidBpzipMessage" xml:space="preserve">
+    <value>無法加載壓縮的演示文稿文件。該文件可能無效或不包含演示文稿文件（.bpres）。</value>
+  </data>
+  <data name="loadPresentationTitle" xml:space="preserve">
+    <value>加載演示文稿</value>
+  </data>
+  <data name="overwriteBpresFolderMessage" xml:space="preserve">
+    <value>文件夾**“{0}”**已存在於目標文件夾中。
+
+是否要覆蓋文件夾及其文件，並繼續加載演示文稿？</value>
+  </data>
+  <data name="selectDirectoryBpzipDesc" xml:space="preserve">
+    <value>選擇目錄以提取文件</value>
+  </data>
+  <data name="extractingBpzipFile" xml:space="preserve">
+    <value>提取{0} 文件...</value>
+  </data>
+  <data name="loadingBpresFile" xml:space="preserve">
+    <value>正在加載{0}...</value>
+  </data>
+  <data name="checkingBpzipTargetDir" xml:space="preserve">
+    <value>檢查目標目錄...</value>
+  </data>
+  <data name="ioExceptionMessageWithBpzipExtraction" xml:space="preserve">
+    <value>無法提取和覆蓋某些文件。 可能正在使用一個或多個文件。
+
+關閉文件並嘗試再次加載演示文稿。</value>
+  </data>
+  <data name="LocationIsEmpty" xml:space="preserve">
+    <value>請指定位置。</value>
+  </data>
+  <data name="LocationIsInvalid" xml:space="preserve">
+    <value>位置無效。</value>
+  </data>
+  <data name="ExtractBpzip" xml:space="preserve">
+    <value>加載演示文稿</value>
+  </data>
+  <data name="PathIsNotRooted" xml:space="preserve">
+    <value>“{0}”不是絕對路徑。</value>
+  </data>
+  <data name="crispSupportTsmi" xml:space="preserve">
+    <value>聯繫支持</value>
+  </data>
+  <data name="disableSceneTransition" xml:space="preserve">
+    <value>禁用</value>
+  </data>
+  <data name="sceneTransitionToolStripMenuItem" xml:space="preserve">
+    <value>過渡優先</value>
+  </data>
+  <data name="msgConfirmDeleteTransitionInUse" xml:space="preserve">
+    <value>當前正在使用此過渡。 您確定要刪除它嗎？</value>
+  </data>
+  <data name="msgFailedDeletingTransition" xml:space="preserve">
+    <value>無法刪除過渡.</value>
+  </data>
+  <data name="msgOverMaxBitrate" xml:space="preserve">
+    <value>當設置的比特率高於建議的最大{0} kbps時，可能會對觀看者的體驗或流質量造成負面影響。</value>
+  </data>
+  <data name="CustomResolution" xml:space="preserve">
+    <value>自訂解析度</value>
+  </data>
+  <data name="easeInOutBack" xml:space="preserve">
+    <value>輕鬆回來</value>
+  </data>
+  <data name="easeOutBounceTransition" xml:space="preserve">
+    <value>紓緩反彈</value>
+  </data>
+  <data name="easeOutElasticTransition" xml:space="preserve">
+    <value>紓緩彈性</value>
+  </data>
+  <data name="fadetoblackTransition" xml:space="preserve">
+    <value>漸黑</value>
+  </data>
+  <data name="fadetowhiteTransition" xml:space="preserve">
+    <value>漸白</value>
+  </data>
+  <data name="zoomTransition" xml:space="preserve">
+    <value>縮放</value>
+  </data>
+  <data name="copySource" xml:space="preserve">
+    <value>複製</value>
+  </data>
+  <data name="pasteSource" xml:space="preserve">
+    <value>粘貼</value>
+  </data>
+  <data name="NdiPlayoutFormatOptionsTitle" xml:space="preserve">
+    <value>NewTek NDI® 選項</value>
+  </data>
+  <data name="frmChangeLog" xml:space="preserve">
+    <value>更新可用</value>
+  </data>
+  <data name="dontAskAgain" xml:space="preserve">
+    <value>不再提醒</value>
+  </data>
+  <data name="localRecordAddToolStripMenuItem" xml:space="preserve">
+    <value>設置新的錄音輸出</value>
+  </data>
+  <data name="localRecordRemoveToolStripMenuItem" xml:space="preserve">
+    <value>刪除記錄輸出</value>
+  </data>
+  <data name="scenesListActive" xml:space="preserve">
+    <value>活動場景</value>
+  </data>
+  <data name="ProjectorSettingsTitle" xml:space="preserve">
+    <value>投影機設定</value>
+  </data>
+  <data name="projectorSettingsTsmi" xml:space="preserve">
+    <value>設置</value>
+  </data>
+  <data name="msgCantEditActiveNdiOutput" xml:space="preserve">
+    <value>播放處於活動狀態時，您無法編輯設置。</value>
+  </data>
+  <data name="audioEffectsToolStripMenuItem" xml:space="preserve">
+    <value>Audio Effects</value>
+  </data>
+  <data name="virtualCameraTsmi" xml:space="preserve">
+    <value>Virtual Camera</value>
+  </data>
+  <data name="gpuAdapter" xml:space="preserve">
+    <value>GPU Adapter</value>
+  </data>
+  <data name="gpuAdapterAuto" xml:space="preserve">
+    <value>自動</value>
+  </data>
+</root>

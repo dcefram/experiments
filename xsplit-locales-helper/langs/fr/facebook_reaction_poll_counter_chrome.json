@@ -1,0 +1,80 @@
+{
+  "facebook.reactions.counter.tabheader": {
+    "message": "Réactions"
+  },
+  "facebook.reactions.counter.source": {
+    "message": "Source"
+  },
+  "facebook.reactions.counter.account": {
+    "message": "Compte"
+  },
+  "facebook.reactions.counter.automatic": {
+    "message": "Automatique"
+  },
+  "facebook.reactions.counter.authorize": {
+    "message": "Autoriser XSplit à utiliser Facebook Live"
+  },
+  "facebook.reactions.counter.remove_authorization": {
+    "message": "**%api%** Retirer l'autorisation"
+  },
+  "facebook.reactions.counter.switch_account": {
+    "message": "**%api%** Changer de compte"
+  },
+  "facebook.reactions.counter.error_auth": {
+    "message": "Veuillez réessayer d'autoriser l'action et toutes les permissions requises par XSplit pour cette fonctionnalité"
+  },
+  "facebook.reactions.counter.not_connected": {
+    "message": "Les Réactions chargeront automatiquement lorsque le stream sera live"
+  },
+  "facebook.reactions.counter.connected": {
+    "message": "Connecté"
+  },
+  "facebook.reactions.counter.display": {
+    "message": "Affichage"
+  },
+  "facebook.reactions.counter.lock_components": {
+    "message": "Vérrouiller les éléments"
+  },
+  "facebook.reactions.counter.lock_components_text": {
+    "message": "Cocher cette option désactivera le curseur de la souris, le repositionnement et redimensionnement des éléments.[br][br]Cocher ceci si vous ne voulez pas afficher les effets de survolement de souris sur les éléments, particulièrement lorsque vous streamez ou enregistrez."
+  },
+  "facebook.reactions.counter.type": {
+    "message": "Type"
+  },
+  "facebook.reactions.counter.show_reactions_labels": {
+    "message": "Montrer les Réactions et Labels"
+  },
+  "facebook.reactions.counter.reset": {
+    "message": "Remise à zéro"
+  },
+  "facebook.reactions.counter.counter_background": {
+    "message": "Fond d'écran du Compteur"
+  },
+  "facebook.reactions.counter.opacity": {
+    "message": "Opacité"
+  },
+  "facebook.reactions.counter.counter": {
+    "message": "Compteur"
+  },
+  "facebook.reactions.counter.label": {
+    "message": "Label"
+  },
+  "facebook.reactions.counter.dropdown.type.poll": {
+    "message": "Votes pour Réactions"
+  },
+  "facebook.reactions.counter.dropdown.type.counter": {
+    "message": "Compteur de Réactions"
+  },
+  "facebook.reactions.hide_connection_message": {
+    "message": "Cacher les messages de connexion"
+  },
+  "facebook.reactions.not_seeing_videos": {
+    "message": "Vous ne voyez pas votre vidéo live?"
+  },
+  "facebook.reactions.not_seeing_videos_help": {
+    "message": "Il se peut que nous n'ayons pas les permissions pour certains vidéos live de votre page."
+  },
+  "facebook.reactions.not_seeing_videos_link": {
+    "message": "Cliquez ici pour ré-autoriser"
+  }
+}

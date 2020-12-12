@@ -1,0 +1,89 @@
+{
+  "scene_label": {
+    "message": "Szene"
+  },
+  "add_source": {
+    "message": "Quelle hinzufügen"
+  },
+  "copy": {
+    "message": "Kopieren"
+  },
+  "paste": {
+    "message": "Einfügen"
+  },
+  "remove": {
+    "message": "Entfernen"
+  },
+  "rename": {
+    "message": "Umbenennen"
+  },
+  "settings": {
+    "message": "Einstellungen"
+  },
+  "group": {
+    "message": "Quellen gruppieren"
+  },
+  "lock": {
+    "message": "Position fixieren"
+  },
+  "fit": {
+    "message": "An Bildschirm anpassen"
+  },
+  "restore": {
+    "message": "Standard wiederherstellen"
+  },
+  "move_up": {
+    "message": "Quelle nach oben verschieben"
+  },
+  "move_down": {
+    "message": "Quelle nach unten verschieben"
+  },
+  "mute_mic": {
+    "message": "Stummschalten/Lautschalten des Standard-Mikrofons"
+  },
+  "mute_spk": {
+    "message": "Stummschalten/Lautschalten des Standard-Lautsprechers"
+  },
+  "open_mixer": {
+    "message": "Audio-Mixer öffnen"
+  },
+  "transition_label": {
+    "message": "Übergang"
+  },
+  "transition_menu": {
+    "message": "Übergangsstil und Geschwindigkeit einstellen"
+  },
+  "add_favorite": {
+    "message": "Ausgewählten Übergang als Favorit festlegen"
+  },
+  "open_favorite": {
+    "message": "Favoriten-Übergänge öffnen"
+  },
+  "push_live": {
+    "message": "Live schalten"
+  },
+  "push_live_menu": {
+    "message": "Live-Menü drücken"
+  },
+  "stream": {
+    "message": "Stream"
+  },
+  "record": {
+    "message": "Aufnehmen"
+  },
+  "pause_recording": {
+    "message": "Aufzeichnung anhalten"
+  },
+  "resume_recording": {
+    "message": "Aufnahme fortsetzen"
+  },
+  "screenshot": {
+    "message": "Bildschirmaufnahme"
+  },
+  "empty_channel": {
+    "message": "Scheinbar gibt es hier nichts.<br/><br/>Klicke auf den Streaming-Knopf, um Deine erste Streaming-Ausgabe einzurichten."
+  },
+  "empty_list": {
+    "message": "Hier ist es ziemlich leer. <br/>Klicke auf die Schaltfläche unten, um Deine erste Quelle hinzuzufügen."
+  }
+}

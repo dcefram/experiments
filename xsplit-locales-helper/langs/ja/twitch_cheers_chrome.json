@@ -1,0 +1,77 @@
+{
+	"twitch.cheers.tabheader": {
+		"message": "アラート"
+	},
+	"twitch.cheers.source": {
+		"message": "ソース"
+	},
+	"twitch.cheers.account": {
+		"message": "アカウント"
+	},
+	"twitch.cheers.authorize": {
+		"message": "XSplitに対してTwitchの使用を許可します。"
+	},
+	"twitch.cheers.remove_authorization": {
+		"message": "**%api%** 認証取り消し"
+	},
+	"twitch.cheers.switch_account": {
+		"message": "**%api%** アカウントを切り替える"
+	},
+	"twitch.cheers.not_connected": {
+		"message": "接続されていません。"
+	},
+	"twitch.cheers.connected": {
+		"message": "接続しました。"
+	},
+	"twitch.cheers.error_channel_not_found": {
+		"message": "有効のチャンネルを入力してください。"
+	},
+	"twitch.cheers.notification": {
+		"message": "通知"
+	},
+	"twitch.cheers.lock_components": {
+		"message": "ロックコンポーネント"
+	},
+	"twitch.cheers.lock_components_help": {
+		"message": "このオプションを有効にするとコンポーネントのマウスホバー、位置調整、サイズ変更などが出来なくなります。[br] 特に配信中やレコーディング中にこれらの機能を無効にしたい場合はこのオプションを有効にしてください。"
+	},
+	"twitch.cheers.show_stats": {
+		"message": "Show Stats"
+	},
+	"twitch.cheers.show_stats_help": {
+		"message": "This will show the top and recent cheer of your Twitch channel. To clear the stats data, disconnect the channel and connect again. To prevent clearing the data when switching scenes, make sure you have 'Keep source in memory' checked."
+	},
+	"twitch.cheers.opacity": {
+		"message": "透明度"
+	},
+	"twitch.cheers.user_name": {
+		"message": "ユーザー名"
+	},
+	"twitch.cheers.labels": {
+		"message": "Labels"
+	},
+	"twitch.cheers.show_alert": {
+		"message": "Show Alert"
+	},
+	"twitch.cheers.message": {
+		"message": "メッセージ"
+	},
+	"twitch.cheers.show_message": {
+		"message": "Show message"
+	},
+	"twitch.cheers.duration": {
+		"message": "期間"
+	},
+	"twitch.cheers.millisecond_unit": {
+		"message": "ms"
+	},
+	"twitch.cheers.sound": {
+		"message": "Sound"
+	},
+	"twitch.cheers.preview": {
+		"message": "プレビュー"
+	},
+	"twitch.cheers.test_alert": {
+		"message": "アラートテスト"
+	}
+}

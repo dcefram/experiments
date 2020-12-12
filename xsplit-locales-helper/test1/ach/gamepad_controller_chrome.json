@@ -1,0 +1,68 @@
+{
+  "gamepad.tabheader": {
+    "message": "crwdns162050:0crwdne162050:0"
+  },
+  "gamepad.source": {
+    "message": "crwdns162052:0crwdne162052:0"
+  },
+  "gamepad.device": {
+    "message": "crwdns162054:0crwdne162054:0"
+  },
+  "gamepad.no_device": {
+    "message": "crwdns162056:0crwdne162056:0"
+  },
+  "gamepad.appearance": {
+    "message": "crwdns162058:0crwdne162058:0"
+  },
+  "gamepad.joystick_input": {
+    "message": "crwdns162060:0crwdne162060:0"
+  },
+  "gamepad.face_buttons": {
+    "message": "crwdns162062:0crwdne162062:0"
+  },
+  "gamepad.remap_inputs": {
+    "message": "crwdns162064:0crwdne162064:0"
+  },
+  "gamepad.cancel_remap": {
+    "message": "crwdns162066:0crwdne162066:0"
+  },
+  "gamepad.reset_default": {
+    "message": "crwdns162068:0crwdne162068:0"
+  },
+  "gamepad.reset": {
+    "message": "crwdns162070:0crwdne162070:0"
+  },
+  "gamepad.skin": {
+    "message": "crwdns162072:0crwdne162072:0"
+  },
+  "gamepad.joystick_color_light": {
+    "message": "crwdns162074:0crwdne162074:0"
+  },
+  "gamepad.joystick_color_dark": {
+    "message": "crwdns162076:0crwdne162076:0"
+  },
+  "gamepad.skin_ms_style": {
+    "message": "crwdns162078:0crwdne162078:0"
+  },
+  "gamepad.skin_ps_style": {
+    "message": "crwdns162080:0crwdne162080:0"
+  },
+  "gamepad.skin_8_button": {
+    "message": "crwdns162082:0crwdne162082:0"
+  },
+  "gamepad.skin_6_button": {
+    "message": "crwdns162084:0crwdne162084:0"
+  },
+  "gamepad.skin_hitbox": {
+    "message": "crwdns162086:0crwdne162086:0"
+  },
+  "gamepad.skin_wasd": {
+    "message": "crwdns162088:0crwdne162088:0"
+  },
+  "gamepad.waiting_for_input": {
+    "message": "crwdns162090:0crwdne162090:0"
+  },
+  "gamepad.press_any_button": {
+    "message": "crwdns162092:0crwdne162092:0"
+  }
+}

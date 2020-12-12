@@ -1,0 +1,50 @@
+{
+  "whiteboard_overlay.drawing": {
+    "message": "การวาด"
+  },
+  "whiteboard_overlay.reminder": {
+    "message": "เพื่อที่จะเริ่มการวาด โปรดระลึกไว้เสมอว่าต้องเลือกตัวเลือก ตำแหน่งที่ล็อค ในแท็บเลย์เอ้าท์ และแน่ใจว่าซอสนั้นไม่ได้ถูกหมุน"
+  },
+  "whiteboard_overlay.tool": {
+    "message": "เครื่องมือ"
+  },
+  "whiteboard_overlay.size": {
+    "message": "ขนาด"
+  },
+  "whiteboard_overlay.color": {
+    "message": "สี"
+  },
+  "whiteboard_overlay.clear_whiteboard": {
+    "message": "ล้างไวท์บอร์ด"
+  },
+  "whiteboard_overlay.hotkeys": {
+    "message": "คีย์ลัด"
+  },
+  "whiteboard_overlay.hotkey_header": {
+    "message": "ใช้คีย์ลัดเหล่านี้เมื่อซอสถูกเลือก:"
+  },
+  "whiteboard_overlay.hotkey_s": {
+    "message": "กด &quot;**S**&quot; เพื่อสลับระหว่างขนาด (S\/M\/L)"
+  },
+  "whiteboard_overlay.hotkey_shift": {
+    "message": "กด &quot;**Shift**&quot; ค้างไว้เพื่อใช้ตัวเลือกเครื่องมืออื่น[br]รูปร่าง :รูปแบบอิสระ -> ตรวจสอบรูปร่าง (เส้น,สามเหลี่ยม,วงกลม,สี่เหลี่ยม)"
+  },
+  "whiteboard_overlay.hotkey_d": {
+    "message": "กด &quot;**D**&quot; เพื่อเซฟการวาดปัจจุบัน"
+  },
+  "whiteboard_overlay.hotkey_esc": {
+    "message": "กด &quot;**Esc**&quot; เพื่อล้างไวท์บอร์ด"
+  },
+  "whiteboard_overlay.tool_options_freehand": {
+    "message": "ฟรีแฮนด์"
+  },
+  "whiteboard_overlay.size_options_thin": {
+    "message": "บาง"
+  },
+  "whiteboard_overlay.size_options_normal": {
+    "message": "ปรกติ"
+  },
+  "whiteboard_overlay.size_options_thick": {
+    "message": "หนา"
+  }
+}

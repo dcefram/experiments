@@ -1,0 +1,122 @@
+{
+  "textSource.tabheader_content": {
+    "message": "コンテンツ"
+  },
+  "textSource.tabheader_style": {
+    "message": "Styles"
+  },
+  "textSource.style_dropshadow": {
+    "message": "Drop shadow"
+  },
+  "textSource.style_dropshadow_color": {
+    "message": "色"
+  },
+  "textSource.style_dropshadow_distance": {
+    "message": "距離"
+  },
+  "textSource.style_dropshadow_angle": {
+    "message": "角度"
+  },
+  "textSource.style_dropshadow_blur": {
+    "message": "ぼかし"
+  },
+  "textSource.style_dropshadow_opacity": {
+    "message": "透明度"
+  },
+  "textSource.style_animation": {
+    "message": "アニメーション"
+  },
+  "textSource.style_animation_scroll": {
+    "message": "スクロール"
+  },
+  "textSource.style_animation_fade": {
+    "message": "フェード"
+  },
+  "textSource.style_animation_enable_60fps": {
+    "message": "60FPSまで有効にする"
+  },
+  "textSource.style_animation_fade_delimeter": {
+    "message": "デリミター"
+  },
+  "textSource.style_animation_fade_interval": {
+    "message": "インターバル"
+  },
+  "textSource.style_animation_scroll_direction": {
+    "message": "方向"
+  },
+  "textSource.style_animation_scroll_direction_rightToLeft": {
+    "message": "右から左へ"
+  },
+  "textSource.style_animation_scroll_direction_leftToRight": {
+    "message": "左から右へ"
+  },
+  "textSource.style_animation_scroll_direction_bottomToTop": {
+    "message": "下から上へ"
+  },
+  "textSource.style_animation_scroll_direction_topToBottom": {
+    "message": "上から下へ"
+  },
+  "textSource.style_animation_scroll_speed": {
+    "message": "速度"
+  },
+  "textSource.style_animation_scroll_lineLimit": {
+    "message": "行の上限"
+  },
+  "textSource.content_text": {
+    "message": "Text/BBCode"
+  },
+  "textSource.content_textFile": {
+    "message": "Text file"
+  },
+  "textSource.content_script": {
+    "message": "スクリプト"
+  },
+  "textSource.content_script_clock": {
+    "message": "時計"
+  },
+  "textSource.content_script_stopwatch": {
+    "message": "Stopwatch"
+  },
+  "textSource.content_script_timer": {
+    "message": "Timer"
+  },
+  "textSource.content_script_load_url": {
+    "message": "Load text from Remote URL"
+  },
+  "textSource.content_script_rss": {
+    "message": "RSS Feed Reader"
+  },
+  "textSource.content_script_videoList": {
+    "message": "Video List"
+  },
+  "textSource.content_script_custom": {
+    "message": "カスタムスクリプト"
+  },
+  "textSource.content_header_formatting": {
+    "message": "Formatting"
+  },
+  "textSource.formatting_font": {
+    "message": "フォント"
+  },
+  "textSource.formatting_outline": {
+    "message": "アウトライン"
+  },
+  "textSource.formatting_style": {
+    "message": "スタイル"
+  },
+  "textSource.formatting_align": {
+    "message": "位置を揃える"
+  },
+  "textSource.formatting_sizing": {
+    "message": "Sizing"
+  },
+  "textSource.formatting_sizing_automatic": {
+    "message": "自動"
+  },
+  "textSource.formatting_sizing_fixed": {
+    "message": "Fixed"
+  },
+  "textSource.formatting_sizing_wordWrap": {
+    "message": "Word wrap"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title.source": {
+    "message": "ซอส"
+  },
+  "subtitle.account": {
+    "message": "บัญชี"
+  },
+  "link.authorize": {
+    "message": "อนุญาตให้ XSplit ใช้ Facebook Live"
+  },
+  "subtitle2.authorize.error": {
+    "message": "โปรดลองอนุญาตให้ใช้ใหม่อีกครั้งและเพิ่มการเข้าถึงสิทธิ์การใช้งานที่ XSplit ต้องใช้สำหรับฟังก์ชั่นนี้"
+  },
+  "subtitle.connect": {
+    "message": "โพส URL"
+  },
+  "chat.disconnected": {
+    "message": "ไม่ได้เชื่อมต่อ"
+  },
+  "chat.connected": {
+    "message": "เชื่อมต่อแล้ว"
+  },
+  "help.post.title": {
+    "message": "โพส URL"
+  },
+  "help.post.text": {
+    "message": "URL ที่อนุญาตเป็นแบบโพสสาธารณะ โพสของคุณ (วิดีโอโอ ภาพ อื่นๆ) ที่อยู่ในทามไลน์ของคุณ หรือโพสของรูปภาพหรือวิดีโอที่อยุ่ในเพจของคุณที่คุณเป็นคนดูแล"
+  },
+  "chat.connect": {
+    "message": "เชื่อมต่อ"
+  },
+  "chat.disconnect": {
+    "message": "ตัดการเชื่อมต่อ"
+  },
+  "subtitle2.connect.error": {
+    "message": "โปรดระบุ URL ของวีดิโอหรือโพสที่ถูกต้อง"
+  },
+  "title.display": {
+    "message": "แสดงผล"
+  },
+  "label.lock": {
+    "message": "ล็อคส่วนประกอบ"
+  },
+  "help.lock.title": {
+    "message": "ล็อคส่วนประกอบ"
+  },
+  "help.lock.text": {
+    "message": "เลือกตัวนี้จะปิดการใช้งานโฮเวอร์เมาส์, การปรับตำแหน่งและปรับขนาดของส่วนประกอบ [br]เลือกตัวเลือกนี้ถ้าคุณไม่ต้องการให้การโฮเวอร์เมาส์แสดงผลบนส่วนประกอบต่างๆ โดยเฉพาะเวลาที่คุณกำลังสตรีมหรือกำลังบันทึก"
+  },
+  "label.reactions": {
+    "message": "แสดงรีแอคชั่นและป้ายชื่อ"
+  },
+  "button.reset": {
+    "message": "รีเซ็ต"
+  },
+  "label.bg": {
+    "message": "เค้าเตอร์ BG"
+  },
+  "label.counter": {
+    "message": "เค้าเตอร์"
+  },
+  "label.label": {
+    "message": "ป้ายชื่อ"
+  },
+  "label.opacity": {
+    "message": "ความทึบแสง"
+  },
+  "label.hide_connection_message": {
+    "message": "ซ่อนข้อความการเชื่อมต่อ"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** สลับบัญชี"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** ถอนการอนุญาต"
+  },
+  "input.like": {
+    "message": "ไลค์"
+  },
+  "input.love": {
+    "message": "รัก"
+  },
+  "input.haha": {
+    "message": "หัวเราะ"
+  },
+  "input.sad": {
+    "message": "เศร้า"
+  },
+  "input.wow": {
+    "message": "ว้าว"
+  },
+  "input.angry": {
+    "message": "โกรธ"
+  },
+  "tabheader.title": {
+    "message": "โพสรีแอคชั่น"
+  }
+}

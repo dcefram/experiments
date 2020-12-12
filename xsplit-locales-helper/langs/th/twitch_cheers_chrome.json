@@ -1,0 +1,77 @@
+{
+	"twitch.cheers.tabheader": {
+		"message": "เตือน"
+	},
+	"twitch.cheers.source": {
+		"message": "ซอส"
+	},
+	"twitch.cheers.account": {
+		"message": "บัญชี"
+	},
+	"twitch.cheers.authorize": {
+		"message": "เชื่อมต่อ Xsplit เพื่อใช้ Twitch"
+	},
+	"twitch.cheers.remove_authorization": {
+		"message": "**%api%** ถอนการอนุญาต"
+	},
+	"twitch.cheers.switch_account": {
+		"message": "**%api%** สลับบัญชี"
+	},
+	"twitch.cheers.not_connected": {
+		"message": "ไม่ได้เชื่อมต่อ"
+	},
+	"twitch.cheers.connected": {
+		"message": "เชื่อมต่อแล้ว"
+	},
+	"twitch.cheers.error_channel_not_found": {
+		"message": "โปรดระบุแชนแนลที่ถูกต้อง"
+	},
+	"twitch.cheers.notification": {
+		"message": "การแจ้งเตือน"
+	},
+	"twitch.cheers.lock_components": {
+		"message": "ล็อคส่วนประกอบ"
+	},
+	"twitch.cheers.lock_components_help": {
+		"message": "เลือกตัวนี้จะปิดการใช้งานโฮเวอร์เมาส์, การปรับตำแหน่งและปรับขนาดของส่วนประกอบ [br]เลือกตัวเลือกนี้ถ้าคุณไม่ต้องการให้การโฮเวอร์เมาส์แสดงผลบนส่วนประกอบต่างๆ โดยเฉพาะเวลาที่คุณกำลังสตรีมหรือกำลังบันทึก"
+	},
+	"twitch.cheers.show_stats": {
+		"message": "แสดงสถิติ"
+	},
+	"twitch.cheers.show_stats_help": {
+		"message": "นี่จะเป็นการแสดงจำนวนเชียร์ล่าสุดและสูงสุดของแชนแนล Twitch ของคุณ การที่จะลบสถิตีข้อมูลนี้ ตัดการเชื่อมต่อกับแชนแนลของคุณและเชื่อมต่อใหม่อีกครั้ง การที่จะป้องการให้มูลพวกนี้ไม่ถูกลบเมื่อมีการเปลี่ยนฉาก โปรดแน่ใจว่าคุณได้เลือกตัวเลือก \"เก็บซอสไว้ในหน่วยความจำ\" ไว้"
+	},
+	"twitch.cheers.opacity": {
+		"message": "ความทึบแสง"
+	},
+	"twitch.cheers.user_name": {
+		"message": "ชื่อผู้ใช้"
+	},
+	"twitch.cheers.labels": {
+		"message": "ป้ายชื่อ"
+	},
+	"twitch.cheers.show_alert": {
+		"message": "แสดงการเตือน"
+	},
+	"twitch.cheers.message": {
+		"message": "ข้อความ"
+	},
+	"twitch.cheers.show_message": {
+		"message": "แสดงข้อความ"
+	},
+	"twitch.cheers.duration": {
+		"message": "ระยะเวลา"
+	},
+	"twitch.cheers.millisecond_unit": {
+		"message": "ms"
+	},
+	"twitch.cheers.sound": {
+		"message": "เสียง"
+	},
+	"twitch.cheers.preview": {
+		"message": "ตัวอย่าง"
+	},
+	"twitch.cheers.test_alert": {
+		"message": "ทดสอบการเตือน"
+	}
+}

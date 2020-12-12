@@ -1,0 +1,62 @@
+{
+	"twitch.html.tabheader": {
+		"message": "Чат"
+	},
+	"twitch.html.source": {
+		"message": "Источник"
+	},
+	"twitch.html.account": {
+		"message": "Учетная запись"
+	},
+	"twitch.html.preview": {
+		"message": "Предварительный просмотр"
+	},
+	"twitch.html.not_connected": {
+		"message": "Не подключен"
+	},
+	"twitch.html.connected": {
+		"message": "Подключен"
+	},
+	"twitch.html.error_channel_not_found": {
+		"message": "Пожалуйста, укажите существующий канал."
+	},
+	"twitch.html.display": {
+		"message": "Дисплей"
+	},
+	"twitch.html.chat_box": {
+		"message": "Окно чата"
+	},
+	"twitch.html.opacity": {
+		"message": "Прозрачность"
+	},
+	"twitch.html.viewers": {
+		"message": "Зрители"
+	},
+	"twitch.html.message": {
+		"message": "Сообщение"
+	},
+	"twitch.html.text_size": {
+		"message": "Размер текста"
+	},
+	"twitch.html.hide_user_icons": {
+		"message": "Скрыть иконки пользователей"
+	},
+	"twitch.html.hide_timestamps": {
+		"message": "Скрыть метки времени"
+	},
+	"twitch.html.hide_on_idle": {
+		"message": "Скрывать чат в режиме простоя"
+	},
+	"twitch.html.channel": {
+		"message": "Канал"
+	},
+	"twitch.html.connect": {
+		"message": "Подключение"
+	},
+	"twitch.html.disconnect": {
+		"message": "Отсоединить"
+	},
+	"twitch.html.use_twitch_colors": {
+		"message": "Использовать в чате цвета из Twitch"
+	}
+}

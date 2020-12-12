@@ -1,0 +1,89 @@
+{
+	"youtube.chat.tabheader": {
+		"message": "Chat"
+	},
+	"youtube.chat.source": {
+		"message": "Source"
+	},
+	"youtube.chat.account": {
+		"message": "Account"
+	},
+	"youtube.chat.preview": {
+		"message": "Preview"
+	},
+	"youtube.chat.account_automatic": {
+		"message": "Automatic"
+	},
+	"youtube.chat.authorize": {
+		"message": "Authorize XSplit to use YouTube Live"
+	},
+	"youtube.chat.remove_authorization": {
+		"message": "**%api%** Remove authorization"
+	},
+	"youtube.chat.switch_account": {
+		"message": "**%api%** Switch account"
+	},
+	"youtube.chat.not_connected": {
+		"message": "Widget will automatically connect once stream is live"
+	},
+	"youtube.chat.connected": {
+		"message": "Connected"
+	},
+	"youtube.chat.error_channel_not_found": {
+		"message": "Please provide a valid channel."
+	},
+	"youtube.chat.display": {
+		"message": "Display"
+	},
+	"youtube.chat.chat_box": {
+		"message": "Chat Box"
+	},
+	"youtube.chat.opacity": {
+		"message": "Opacity"
+	},
+	"youtube.chat.viewers": {
+		"message": "Viewers"
+	},
+	"youtube.chat.message": {
+		"message": "Message"
+	},
+	"youtube.chat.text_size": {
+		"message": "Text Size"
+	},
+	"youtube.chat.hide_user_icons": {
+		"message": "Hide user icons"
+	},
+	"youtube.chat.hide_timestamps": {
+		"message": "Hide timestamps"
+	},
+	"youtube.chat.hide_on_idle": {
+		"message": "Hide chat when idle for"
+	},
+	"youtube.chat.blocking": {
+		"message": "Blocking"
+	},
+	"youtube.chat.blockedlist": {
+		"message": "Blocked list"
+	},
+	"youtube.chat.block_help": {
+		"message": "You can block viewers by adding their name or username (including bots, if applicable) in the blocked list so that their messages will not appear in the chat viewer.[br][br]This blocked list is not connected to your channel's blocked list. It only works for this chat source."
+	},
+	"youtube.chat.blocking_name": {
+		"message": "Enter the name or username of the viewer you wish to block."
+	},
+	"youtube.chat.block_name": {
+		"message": "Name"
+	},
+	"youtube.chat.block_add": {
+		"message": "Add"
+	},
+	"youtube.chat.block_remove": {
+		"message": "Remove"
+	},
+	"youtube.chat.loggingInTo": {
+		"message": "Logging in to YouTube..."
+	},
+	"youtube.chat.pleaseComplete": {
+		"message": "Please complete the login process in your browser"
+	}
+}

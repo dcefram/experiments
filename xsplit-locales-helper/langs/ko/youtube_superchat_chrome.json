@@ -1,0 +1,77 @@
+{
+	"youtube.superchat.tabheader": {
+		"message": "알림"
+	},
+	"youtube.superchat.source": {
+		"message": "소스"
+	},
+	"youtube.superchat.account": {
+		"message": "계정"
+	},
+	"youtube.superchat.preview": {
+		"message": "미리 보기"
+	},
+	"youtube.superchat.account_automatic": {
+		"message": "자동"
+	},
+	"youtube.superchat.authorize": {
+		"message": "유튜브에 엑스플릿 권한 부여"
+	},
+	"youtube.superchat.remove_authorization": {
+		"message": "**%api%** 권한 제거"
+	},
+	"youtube.superchat.switch_account": {
+		"message": "**%api%** 계정 변경"
+	},
+	"youtube.superchat.not_connected": {
+		"message": "방송이 시작되면 자동으로 위젯이 연동돕니다"
+	},
+	"youtube.superchat.connected": {
+		"message": "연결됨"
+	},
+	"youtube.superchat.error_channel_not_found": {
+		"message": "유효한 채널을 제공해주세요."
+	},
+	"youtube.superchat.notification": {
+		"message": "알림"
+	},
+	"youtube.superchat.lock_components": {
+		"message": "구성 요소 잠금"
+	},
+	"youtube.superchat.lock_components_help": {
+		"message": "이 설정을 체크 하면 마우스 커서, 구성 요소들의 위치와 크기 조절을 잠그게 됩니다.[br]방송 송출이나 녹화중에 구성 요소들의 마우스 움직임 표기를 비활성화 할때 사용하세요."
+	},
+	"youtube.superchat.show_ticker": {
+		"message": "알림 표기"
+	},
+	"youtube.superchat.show_alert": {
+		"message": "알림 표시"
+	},
+	"youtube.superchat.opacity": {
+		"message": "투명도"
+	},
+	"youtube.superchat.font": {
+		"message": "글꼴"
+	},
+	"youtube.superchat.text_size": {
+		"message": "글자 크기"
+	},
+	"youtube.superchat.hide_message": {
+		"message": "슈퍼채팅 숨기기"
+	},
+	"youtube.superchat.duration": {
+		"message": "기간"
+	},
+	"youtube.superchat.sound": {
+		"message": "소리"
+	},
+	"youtube.superchat.test_alert": {
+		"message": "알림 테스트"
+	},
+	"youtube.superchat.loggingInTo": {
+		"message": "유튜브 로그인중..."
+	},
+	"youtube.superchat.pleaseComplete": {
+		"message": "브라우저에서 로그인 절차를 진행하세요"
+	}
+}

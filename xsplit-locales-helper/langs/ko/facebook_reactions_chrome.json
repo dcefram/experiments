@@ -1,0 +1,98 @@
+{
+  "title.source": {
+    "message": "소스"
+  },
+  "subtitle.account": {
+    "message": "계정"
+  },
+  "link.authorize": {
+    "message": "페이스북 라이브에 엑스플릿 권한 부여"
+  },
+  "subtitle2.authorize.error": {
+    "message": "권한 승인을 다시 시도해보시고 엑스플릿이 필요한 권한에 접근하도록 합니다."
+  },
+  "subtitle.connect": {
+    "message": "URL 게시"
+  },
+  "chat.disconnected": {
+    "message": "연결 안됨"
+  },
+  "chat.connected": {
+    "message": "연결됨"
+  },
+  "help.post.title": {
+    "message": "URL 게시"
+  },
+  "help.post.text": {
+    "message": "허용된 URL 은 공개 게시물, 본인의 타임라인에 게시된 링크, 영상 및 이미지 이거나 관리하는 페이지에 게시된 게시물 입니다."
+  },
+  "chat.connect": {
+    "message": "연결"
+  },
+  "chat.disconnect": {
+    "message": "연결 끊기"
+  },
+  "subtitle2.connect.error": {
+    "message": "유효한 영상 링크나 URL 을 게시해주세요."
+  },
+  "title.display": {
+    "message": "디스플레이"
+  },
+  "label.lock": {
+    "message": "구성 요소 잠금"
+  },
+  "help.lock.title": {
+    "message": "구성 요소 잠금"
+  },
+  "help.lock.text": {
+    "message": "이 설정을 체크 하면 마우스 커서, 구성 요소들의 위치와 크기 조절을 잠그게 됩니다.[br]방송 송출이나 녹화중에 구성 요소들의 마우스 움직임 표기를 비활성화 할때 사용하세요."
+  },
+  "label.reactions": {
+    "message": "반응 과 레이블 표기"
+  },
+  "button.reset": {
+    "message": "재설정"
+  },
+  "label.bg": {
+    "message": "카운터 배경"
+  },
+  "label.counter": {
+    "message": "카운터"
+  },
+  "label.label": {
+    "message": "레이블"
+  },
+  "label.opacity": {
+    "message": "투명도"
+  },
+  "label.hide_connection_message": {
+    "message": "연결 상태 알림 숨기기"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** 계정 변경"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** 권한 제거"
+  },
+  "input.like": {
+    "message": "좋아요"
+  },
+  "input.love": {
+    "message": "하트"
+  },
+  "input.haha": {
+    "message": "웃음"
+  },
+  "input.sad": {
+    "message": "슬픔"
+  },
+  "input.wow": {
+    "message": "감탄"
+  },
+  "input.angry": {
+    "message": "화남"
+  },
+  "tabheader.title": {
+    "message": "반응 이모티콘"
+  }
+}

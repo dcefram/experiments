@@ -1,0 +1,38 @@
+{
+	"currentResolutionNotSupported": {
+		"message": "現在、ビデオ解像度が%resolution%に設定されています。現在のビデオフレームレートは%fps%に設定されています。"
+	},
+	"currentResolutionNotSupportedYouTube": {
+		"message": "現在YouTube Liveではサポートされていないビデオ解像度の%resolution%、フレームレート%fps%に設定されています。下の表のサポートされている解像度から解像度を設定してください。"
+	},
+	"currentResolutionSupported": {
+		"message": "現在、ビデオ解像度は%resolution%に設定されています。現在のビデオフレームレートは*%fps%*に設定されています。お勧めのビットレートは下記の表を参照してください。"
+	},
+	"currentResolutionSupportedYouTube": {
+		"message": "*現在のビデオ解像度*は%resolution%に設定されています。現在のビデオフレームレートは*%fps%*に設定されています。推奨のビデオビットレートは下記のガイドを参照してください。"
+	},
+	"currentResolutionCapable1080pYouTube": {
+		"message": "*現在のビデオ解像度*は*%resolution%*に設定されています。現在のビデオフレームレートは*%fps%*に設定されています。*1080pかそれ以上の解像度で放送する前に*十分高スペックのCPUをお持ちであるかご確認ください。"
+	},
+	"currentResolutionNotCapable1080pYouTube": {
+		"message": "*現在のビデオ解像度*は*%resolution%*に設定されています。現在のビデオフレームレートは*%fps%*に設定されています。*1080pかそれ以上の解像度で放送する前に*十分高スペックのCPUをお持ちであるか(お持ちでない可能性がございます)ご確認ください。"
+	},
+	"defaultMessage": {
+		"message": " %service%には、以下の解像度を推奨しています。閲覧->解像度メニューから解像度を変更してください"
+	},
+	"resolution": {
+		"message": "解像度:"
+	},
+	"suggestedBitRate": {
+		"message": "推奨ビットレート"
+	},
+	"maximumBitRate": {
+		"message": "最大ビットレート"
+	},
+	"minimumBitRate": {
+		"message": "最小ビットレート"
+	},
+	"warning": {
+		"message": "%resolutions%は高性能のCPU,高速インターネット回線が無い限り使用しないで下さい"
+	}
+}

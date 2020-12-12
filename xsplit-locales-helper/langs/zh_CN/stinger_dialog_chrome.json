@@ -1,0 +1,17 @@
+{
+    "stinger.title": {
+        "message": "编辑您的stinger名称或过渡点."
+    },
+    "stinger.name": {
+        "message": "Stinger名称"
+    },
+    "stinger.transition": {
+        "message": "转换点 (ms)"
+    },
+    "button.ok": {
+        "message": "OK"
+    },
+    "button.cancel": {
+        "message": "取消"
+    }
+}

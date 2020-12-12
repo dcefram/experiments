@@ -1,0 +1,173 @@
+{
+  "title.content": {
+    "message": "Conteúdo"
+  },
+  "title.use_custom_script": {
+    "message": "Utilizar Script personalizado"
+  },
+  "title.edit_script": {
+    "message": "Editar Script"
+  },
+  "title.format": {
+    "message": "Format"
+  },
+  "title.font": {
+    "message": "Fonte"
+  },
+  "title.color": {
+    "message": "Cor"
+  },
+  "title.outline": {
+    "message": "Contorno"
+  },
+  "title.opacity": {
+    "message": "Opacidade"
+  },
+  "title.style": {
+    "message": "Estilo"
+  },
+  "title.align": {
+    "message": "Alinhar"
+  },
+  "title.shadow": {
+    "message": "Sombra"
+  },
+  "title.distance": {
+    "message": "Distância"
+  },
+  "title.blur": {
+    "message": "Esmaecimento"
+  },
+  "title.angle": {
+    "message": "Ângulo"
+  },
+  "title.animation": {
+    "message": "Animação"
+  },
+  "title.none": {
+    "message": "Nenhum"
+  },
+  "title.scroll": {
+    "message": "Rolar"
+  },
+  "title.fade": {
+    "message": "Desvanecer"
+  },
+  "title.scrolling": {
+    "message": "Rolagem"
+  },
+  "title.line_limit": {
+    "message": "Limite de linha"
+  },
+  "title.direction": {
+    "message": "Direção"
+  },
+  "title.speed": {
+    "message": "Velocidade"
+  },
+  "title.scroll_units": {
+    "message": "px/seg"
+  },
+  "title.delimeter": {
+    "message": "Delimitar"
+  },
+  "title.interval": {
+    "message": "Intervalo"
+  },
+  "title.fade_speed": {
+    "message": "Velocidade de fade"
+  },
+  "title.enable_60_fps": {
+    "message": "Habilita até 60 FPS"
+  },
+  "title.enable_60_fps_tooltip": {
+    "message": "Pode exigir recursos adicionais de GPU/CPU. Note que a habilitação desta opção irá ocasionar a atualização da fonte. Para um melhor desempenho, habilite a otimização especial de navegador fonte em Ferramentas-> Configurações-> Avançado."
+  },
+  "title.ok": {
+    "message": "Ok"
+  },
+  "title.cancel": {
+    "message": "Cancelar"
+  },
+  "title.hint.content_section": {
+    "message": "Digite seu texto aqui. Você pode usar &amp;lt;br&amp; gt; para inserir a linha break(s). Você também pode usar BBcode para mais formatar o seu texto. Clique em [here](https://xspl.it/bbcode) para saber mais."
+  },
+  "title.deprecated_scripts": {
+    "message": "O script em utilização nesta fonte de texto contém alguns métodos de script preteridos. Atualize o script da seguinte forma:[br]1. Clique no botão \"Editar Script\" no separador Texto[br]2. Selecione o modelo de script e pressione o botão \"Atualizar Texto\""
+  },
+  "title.outdated_scripts": {
+    "message": "O script que está sendo utilizado nesta fonte de texto pode estar desatualizado. Você pode atualizar o script fazendo o seguinte:[br]1. Clique no botão \"Editar Script\" no separador Texto[br]2. Selecione o modelo de script, configure as definições e pressione o botão \"Atualizar Texto\""
+  },
+  "title.script_editor.edit_script": {
+    "message": "Editar Script - "
+  },
+  "title.script_editor.title": {
+    "message": "Script"
+  },
+  "title.script_editor.template": {
+    "message": "Modelo"
+  },
+  "title.script_editor.settings": {
+    "message": "Configurações"
+  },
+  "title.script_editor.script": {
+    "message": "Script"
+  },
+  "title.script_editor.back": {
+    "message": "Voltar"
+  },
+  "title.script_editor.update_title": {
+    "message": "Atualizar Texto"
+  },
+  "title.help.outline_title": {
+    "message": "Utilizar Contorno para a Fonte do Texto"
+  },
+  "title.help.outline_message": {
+    "message": "Com a utilização de contorno, existe uma limite de tamanho do texto. Você pode redimensionar a fonte de texto na transmissão, mas o texto apenas vai ser ajustado ao tamanho máximo do tipo de fonte."
+  },
+  "title.help.pause_script_title": {
+    "message": "Pausar ou Retomar Script"
+  },
+  "title.help.pause_script_message": {
+    "message": "Você pode pausar/reproduzir um script suportado como, por exemplo, os de relógio em modo de tempo e duração, para propósito geral e outros scripts customizados compatíveis."
+  },
+  "title.help.delimeter_title": {
+    "message": "Delimitar"
+  },
+  "title.help.delimeter_message": {
+    "message": "Um delimitador é um caractere ou um conjunto de caracteres que irá separar o texto em segmentos que serão apresentados com efeito de fade."
+  },
+  "title.help.interval_title": {
+    "message": "Intervalo"
+  },
+  "title.help.interval_message": {
+    "message": "Intervalo é o tempo que um texto será exibido antes de um outro efeito de fade acontecer."
+  },
+  "title.pause_hotkey": {
+    "message": "Quando a fonte é selecionada na transmissão, pode utilizar a tecla de atalho (Pressione \"P\") para pausar/reproduzir um script compatível."
+  },
+  "title.direction_options_right_to_left": {
+    "message": "Direita para a esquerda"
+  },
+  "title.direction_options_left_to_right": {
+    "message": "Esquerda para a direita"
+  },
+  "title.direction_options_bottom_to_top": {
+    "message": "Baixo para cima"
+  },
+  "title.direction_options_top_to_bottom": {
+    "message": "Cima para baixo"
+  },
+  "title.outline_options_none": {
+    "message": "Nenhum"
+  },
+  "title.outline_options_thin": {
+    "message": "Fina"
+  },
+  "title.outline_options_thick": {
+    "message": "Grossa"
+  },
+  "title.outline_options_thickest": {
+    "message": "Mais grosso"
+  }
+}

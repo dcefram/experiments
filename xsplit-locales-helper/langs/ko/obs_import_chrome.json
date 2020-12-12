@@ -1,0 +1,23 @@
+{
+  "obsImport.permission_error": {
+    "message": "DLL 권한이 필요합니다. [도구 -> 확장 프로그램 권한] 로 들어가신 뒤 해당 확장 프로그램에 권한을 부여해주세요."
+  },
+  "obsImport.permission_button": {
+    "message": "권한 설정 가기"
+  },
+  "obsImport.import_text": {
+    "message": "저장된 OBS 장면 컬렉션을 XSplit Broadcaster 프레젠테이션 으로 전환하세요. 일부 소스는 적용되지 않을 수 있습니다."
+  },
+  "obsImport.text_link": {
+    "message": "여기를 클릭하여 자세히 알아보세요"
+  },
+  "obsImport.file_error": {
+    "message": "유효한 OBS 장면 컬렉션 json 파일을 선택해주세요"
+  },
+  "obsImport.logs_link": {
+    "message": "여기를 클릭하여 기록을 보세요"
+  },
+  "obsImport.import": {
+    "message": "불러오기"
+  }
+}

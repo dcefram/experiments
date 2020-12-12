@@ -1,0 +1,395 @@
+{
+    "home_newToStore": {
+        "message": "發現我們強大的插件，並提高您的廣播！"
+    },
+    "home_search": {
+        "message": "單擊上方或下方的圖標開始瀏覽。"
+    },
+    "home_sourceTip": {
+        "message": "顯示來源"
+    },
+    "home_extensionTip": {
+        "message": "顯示擴展"
+    },
+    "home_outputTip": {
+        "message": "顯示輸出"
+    },
+    "home_libraryTip": {
+        "message": "顯示我的插件"
+    },
+    "home_sourceTipIn": {
+        "message": "隱藏來源"
+    },
+    "home_outputTipIn": {
+        "message": "隱藏輸出"
+    },
+    "home_extensionTipIn": {
+        "message": "隱藏擴展"
+    },
+    "home_tooltipToggle": {
+        "message": "在搜索模式下，無法關閉所有圖標。"
+    },
+    "plugin_developer": {
+        "message": "開發商："
+    },
+    "plugin_publicVersion": {
+        "message": "公開版本："
+    },
+    "plugin_updated": {
+        "message": "更新:"
+    },
+    "plugin_dllDownloadWarning": {
+        "message": "此下載內容可能包含不安全的文件，這些文件允許不受限制地訪問您的計算機。"
+    },
+    "plugin_install": {
+        "message": "安裝"
+    },
+    "plugin_uninstall": {
+        "message": "卸載"
+    },
+    "plugin_update": {
+        "message": "更新"
+    },
+    "plugin_published": {
+        "message": "已發表"
+    },
+    "plugin_size": {
+        "message": "大小"
+    },
+    "plugin_currentVersion": {
+        "message": "當前版本"
+    },
+    "plugin_installs": {
+        "message": "安裝次數"
+    },
+    "plugin_minimumXBCLabel": {
+        "message": "最低XBC要求"
+    },
+    "plugin_minimumXBC": {
+        "message": "%version% 或更高版本"
+    },
+    "plugin_report": {
+        "message": "報告插件"
+    },
+    "plugin_developerLabel": {
+        "message": "開發者"
+    },
+    "plugin_developerVisit": {
+        "message": "訪問網站"
+    },
+    "plugin_developerMail": {
+        "message": "發郵件"
+    },
+    "plugin_readMore": {
+        "message": "閱讀全文"
+    },
+    "plugin_rateThisplugin": {
+        "message": "評價此插件"
+    },
+    "plugin_rating": {
+        "message": "您必須先安裝此插件，然後才能提交評論"
+    },
+    "plugin_reviews": {
+        "message": "評論"
+    },
+    "plugin_votes": {
+        "message": "投票數"
+    },
+    "plugin_filter-recent": {
+        "message": "最近"
+    },
+    "plugin_filter-rating": {
+        "message": "評分"
+    },
+    "plugin_viewAllReviews": {
+        "message": "查看所有評論"
+    },
+    "plugin_warning": {
+        "message": "XSplit隱私政策未完全涵蓋此插件，因為它利用了外部或第三方庫和服務。 該插件可能包含收集個人信息的功能，這些功能包括但不限於有關您的計算機系統和您對本軟件的使用的詳細信息。"
+    },
+    "plugin_myReview": {
+        "message": "我的評論"
+    },
+    "plugin_empty-search": {
+        "message": "您的搜索結果為空。 請嘗試其他搜索或瀏覽插件。"
+    },
+    "plugin_back": {
+        "message": "<返回插件詳細信息"
+    },
+    "plugin_tag": {
+        "message": "標籤"
+    },
+    "plugin_minimum": {
+        "message": "所需的最低操作系統："
+    },
+    "plugin_windows": {
+        "message": "Windows 10"
+    },
+    "plugin_windows-warning": {
+        "message": "無法安裝此插件。 未達到最低操作系統要求。"
+    },
+    "plugin_local-recording": {
+        "message": "此插件是必需的，無法卸載。"
+    },
+    "myPlugins_myPlugins": {
+        "message": "我的外掛程式"
+    },
+    "myPlugins_updateAll": {
+        "message": "全部更新"
+    },
+    "myPlugins_cancelAll": {
+        "message": "全部取消"
+    },
+    "myPlugins_update": {
+        "message": "更新"
+    },
+    "myPlugins_uninstall": {
+        "message": "卸載"
+    },
+    "myPlugins_size": {
+        "message": "大小"
+    },
+    "search_results": {
+        "message": "為尋找結果"
+    },
+    "search_searching": {
+        "message": "正在搜尋..."
+    },
+    "search_zero-search1": {
+        "message": "我們找不到您要搜索的任何內容。"
+    },
+    "search_zero-search2": {
+        "message": "建议:"
+    },
+    "search_zero-search3": {
+        "message": "確保單詞拼寫正確。"
+    },
+    "search_zero-search4": {
+        "message": "嘗試其他關鍵字。"
+    },
+    "search_zero-search5": {
+        "message": "嘗試更寬泛的關鍵字。"
+    },
+    "search_name": {
+        "message": "名稱"
+    },
+    "search_downloads": {
+        "message": "# 下載次數"
+    },
+    "search_rating": {
+        "message": "評分"
+    },
+    "search_updated": {
+        "message": "更新日期"
+    },
+    "search_installed": {
+        "message": "已安裝"
+    },
+    "search_clear-search": {
+        "message": "清除搜尋"
+    },
+    "search_download-all": {
+        "message": "全部下載"
+    },
+    "search_download": {
+        "message": "下載 (%count%)"
+    },
+    "help_what": {
+        "message": "這些插件是什麼？"
+    },
+    "help_source": {
+        "message": "** SOURCES **是放置在舞台上的插件。 在主窗口中右鍵單擊源，以打開其屬性窗口。"
+    },
+    "help_extension": {
+        "message": "**擴展**是全局級別的插件，可以控制您的場景。 它們具有來源的所有功能以及更多功能。"
+    },
+    "help_output": {
+        "message": "**輸出**支持最受歡迎的流媒體網站，例如Twitch，YouTube Live，Smashcast和Ustream。"
+    },
+    "help_installed": {
+        "message": "您可以在“我的插件”頁面中查看已安裝的插件，更新或卸載它們。 要打開“我的插件”，請單擊搜索欄右側的圖標，或進入“工具”菜單，然後單擊“我的插件”。"
+    },
+    "help_developer": {
+        "message": "您是開發人員嗎？"
+    },
+    "help_buildYourOwn": {
+        "message": "您可以為XSplit Broadcaster構建自己的插件！我們有很多方法可以幫助您，只需在 [here.](https://xspl.it/developers)"
+    },
+    "overlay_uninstall": {
+        "message": "卸載完成！"
+    },
+    "overlay_uninstallMessage": {
+        "message": "％name％已被卸載。\n我們非常希望您能給我們一些反饋並分享您的意見"
+    },
+    "overlay_rateThisPlugin": {
+        "message": "評價此插件"
+    },
+    "overlay_yourRating": {
+        "message": "你的評分："
+    },
+    "overlay_rating-0": {
+        "message": "無評分"
+    },
+    "overlay_rating-1": {
+        "message": "需要改進"
+    },
+    "overlay_rating-2": {
+        "message": "不錯"
+    },
+    "overlay_rating-3": {
+        "message": "好"
+    },
+    "overlay_rating-4": {
+        "message": "贊"
+    },
+    "overlay_rating-5": {
+        "message": "太棒了"
+    },
+    "overlay_placeholder": {
+        "message": "撰寫評論（可選）"
+    },
+    "overlay_charlimit": {
+        "message": "%action% 剩餘字符"
+    },
+    "overlay_submit": {
+        "message": "提交"
+    },
+    "overlay_cancel": {
+        "message": "CANCEL"
+    },
+    "overlay_skip": {
+        "message": "跳過這個"
+    },
+    "overlay_ratingError": {
+        "message": "糟糕！ 提交您的價格和評論時發生錯誤。 請再試一遍。"
+    },
+    "overlay_action-error": {
+        "message": "發生錯誤 %action% 請重試或聯繫XSplit支持。"
+    },
+    "overlay_action-error-download": {
+        "message": "無法下載plugin_ 您可能需要檢查您的互聯網連接，然後重試。"
+    },
+    "overlay_action-error-multiple": {
+        "message": "%count% 插件需要更新"
+    },
+    "overlay_action-rating": {
+        "message": ""
+    },
+    "overlay_action-searching": {
+        "message": "正在搜尋..."
+    },
+    "overlay_action-loading": {
+        "message": "加載中..."
+    },
+    "overlay_action-downloading": {
+        "message": "下載中..."
+    },
+    "overlay_action-installing": {
+        "message": "安裝中..."
+    },
+    "overlay_action-updating": {
+        "message": "更新中..."
+    },
+    "overlay_action-uninstalling": {
+        "message": "卸載中..."
+    },
+    "overlay_action-updating-multiple": {
+        "message": "正在下載 %count%/%total% 插件..."
+    },
+    "overlay_complete-installing": {
+        "message": "%name% 已添加到您的 %type% 菜單和我的插件。"
+    },
+    "overlay_complete-updating": {
+        "message": "%name% 已经升级了。"
+    },
+    "overlay_complete-updating-multiple": {
+        "message": "所有插件均已下載。"
+    },
+    "overlay_complete-uninstalling": {
+        "message": "%name% 已經卸載了。"
+    },
+    "overlay_title-complete-installing": {
+        "message": "安裝完成！"
+    },
+    "overlay_title-complete-uninstalling": {
+        "message": "卸載完成！"
+    },
+    "overlay_title-complete-updating": {
+        "message": "更新完成！"
+    },
+    "overlay_title-complete-updating-multiple": {
+        "message": "下載完成！"
+    },
+    "overlay_button-downloading": {
+        "message": "下載"
+    },
+    "overlay_button-installing": {
+        "message": "安裝"
+    },
+    "overlay_button-updating": {
+        "message": "更新"
+    },
+    "overlay_button-updating-multiple": {
+        "message": "全部更新"
+    },
+    "overlay_button-uninstalling": {
+        "message": "卸載"
+    },
+    "overlay_button-ok": {
+        "message": "OK"
+    },
+    "overlay_button-loading": {
+        "message": "OK"
+    },
+    "overlay_toClose": {
+        "message": "您要關閉插件商店嗎？"
+    },
+    "overlay_cancel-action": {
+        "message": "這將取消 %action%"
+    },
+    "overlay_generic-error-header": {
+        "message": "未收到數據！"
+    },
+    "overlay_generic-internet-fail": {
+        "message": "糟糕！ 發生錯誤。 您可能需要檢查互聯網連接，然後重試。"
+    },
+    "overlay_generic-error-text": {
+        "message": "提取數據時出錯。 請再試一遍"
+    },
+    "overlay_install-restart-now": {
+        "message": "現在重啟"
+    },
+    "overlay_install-restart-later": {
+        "message": "稍後重新啟動"
+    },
+    "overlay_needs-restart-info": {
+        "message": "請重新啟動 XSplit更新才會生效."
+    },
+    "extension_label": {
+        "message": "擴展"
+    },
+    "source_label": {
+        "message": "資源"
+    },
+    "output_label": {
+        "message": "輸出"
+    },
+    "myPlugins_plugin_types": {
+        "message": "所有插件類型"
+    },
+    "myPlugins_show_plugins_with_update": {
+        "message": "僅顯示具有更新的插件"
+    },
+    "search_ascending": {
+        "message": "升序"
+    },
+    "search_descending": {
+        "message": "降序"
+    },
+    "search_and_separator": {
+        "message": "和"
+    },
+    "home_search_placeholder": {
+        "message": "搜索商店..."
+    }
+}

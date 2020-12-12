@@ -1,0 +1,95 @@
+{
+	"twitch.alert.tabheader": {
+		"message": "оповещение"
+	},
+	"twitch.alert.source": {
+		"message": "Источник"
+	},
+	"twitch.alert.account": {
+		"message": "Учетная запись"
+	},
+	"twitch.alert.authorize": {
+		"message": "Разрешить XSplit использовать Twitch"
+	},
+	"twitch.alert.remove_authorization": {
+		"message": "**%api%** Отозвать авторизацию"
+	},
+	"twitch.alert.switch_account": {
+		"message": "**%api%** Сменить учетную запись"
+	},
+	"twitch.alert.not_connected": {
+		"message": "Не подключен"
+	},
+	"twitch.alert.connected": {
+		"message": "Подключен"
+	},
+	"twitch.alert.connect": {
+		"message": "Подключение"
+	},
+	"twitch.alert.disconnect": {
+		"message": "Отсоединить"
+	},
+	"twitch.alert.alertLabel": {
+		"message": "Оповещение"
+	},
+	"twitch.alert.animation_text": {
+		"message": "Анимация"
+	},
+	"twitch.alert.duration": {
+		"message": "Длительность"
+	},
+	"twitch.alert.delay": {
+		"message": "Время показа"
+	},
+	"twitch.alert.animateIn": {
+		"message": "Добавить анимацию"
+	},
+	"twitch.alert.animateOut": {
+		"message": "Убрать анимацию"
+	},
+	"twitch.alert.audio": {
+		"message": "Аудио"
+	},
+	"twitch.alert.generalHeader": {
+		"message": "Общие"
+	},
+	"twitch.alert.customizeHeader": {
+		"message": "Настроить"
+	},
+	"twitch.alert.theme": {
+		"message": "Тема"
+	},
+	"twitch.alert.minMonth": {
+		"message": "Минимум месяцев"
+	},
+	"twitch.alert.minViewers": {
+		"message": "Минимум зрителей"
+	},
+	"twitch.alert.minCheer": {
+		"message": "Минимум чиров"
+	},
+	"twitch.alert.type": {
+		"message": "По типу"
+	},
+	"twitch.alert.nameStyleAndSettings": {
+		"message": "Дать имя стилю и настройке"
+	},
+	"twitch.alert.sound": {
+		"message": "Звук"
+	},
+	"twitch.alert.show_alert": {
+		"message": "Предварительный просмотр"
+	},
+	"twitch.alert.hide_alert": {
+		"message": "Скрыть предварительный просмотр"
+	},
+	"twitch.alert.test_alert": {
+		"message": "Тестовое оповещение"
+	},
+	"twitch.alert.Color": {
+		"message": "Цвет"
+	},
+	"twitch.alert.layout": {
+		"message": "Макет"
+	}
+}

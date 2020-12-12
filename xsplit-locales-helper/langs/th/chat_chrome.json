@@ -1,0 +1,71 @@
+{
+  "chat.title": {
+    "message": "%service% ตั้งค่าการแชท"
+  },
+  "chat.source": {
+    "message": "ซอส"
+  },
+  "chat.account": {
+    "message": "บัญชี"
+  },
+  "chat.authorize": {
+    "message": "เชื่อมต่อ Xsplit เพื่อใช้ %service%"
+  },
+  "chat.deauthorize": {
+    "message": "%username% (ยกเลิกการอนุญาต)"
+  },
+  "chat.connected": {
+    "message": "เชื่อมต่อแล้ว"
+  },
+  "chat.not_connected": {
+    "message": "ไม่ได้เชื่อมต่อ"
+  },
+  "chat.channel_text": {
+    "message": "พิมพ์ชื่อแชนแนลของ %service% แชทที่คุณต้องการจะแสดง"
+  },
+  "chat.channel": {
+    "message": "แชนแนล"
+  },
+  "chat.channel_name": {
+    "message": "ชื่อแชนแนล"
+  },
+  "chat.connect": {
+    "message": "เชื่อมต่อ"
+  },
+  "chat.error_channel_not_found": {
+    "message": "ไม่พบ %service% แชนแนล โปรดลองใหม่อีกครั้ง"
+  },
+  "chat.error_no_connection": {
+    "message": "โปรดตรวจสอบการเชื่อมต่อ internet ของคุณและลองใหม่อีกครั้ง"
+  },
+  "chat.display": {
+    "message": "แสดงผล"
+  },
+  "chat.chat_box": {
+    "message": "ช่องแชท"
+  },
+  "chat.opacity": {
+    "message": "ความทึบแสง"
+  },
+  "chat.viewers": {
+    "message": "ผู้ชม"
+  },
+  "chat.message": {
+    "message": "ข้อความ"
+  },
+  "chat.text_size": {
+    "message": "ขนาดข้อความ"
+  },
+  "chat.disconnect": {
+    "message": "ตัดการเชื่อมต่อ"
+  },
+  "chat.connecting": {
+    "message": "กำลังเชื่อมต่อ..."
+  },
+  "chat.connect_error": {
+    "message": "%service% ไม่สามารถเชื่อมต่อกับแชนแนลได้ โปรดลองใหม่อีกครั้ง"
+  },
+  "chat.invalid_channel": {
+    "message": "กรุณระบุ %service% แชนแนลที่ถูกต้อง"
+  }
+}

@@ -1,0 +1,38 @@
+{
+	"copyright": {
+		"message": "Copyright &copy; %dates%"
+	},
+	"terms": {
+		"message": "Portions of this program use open source software libraries, please refer to the [general license terms here.](%termslink%)"
+	},
+	"licenseBenefitsLine": {
+		"message": "Køb XSplit og få Simulcast, 1080P + mere!"
+	},
+	"licenseWillExpire": {
+		"message": "Din licens udløber **%expiry_date%**"
+	},
+	"license-named": {
+		"message": "Du har en **%name%** licens"
+	},
+	"license-scoped": {
+		"message": "Du har en **%name%** licens der udløber **%date%**"
+	},
+	"license-outsourced": {
+		"message": "Du har en license fra **%source%**"
+	},
+	"license-complimentary": {
+		"message": "Du har fået en gratis forlængelse på din **%name%** licens idag"
+	},
+	"upgrade": {
+		"message": "Klik her for at opgradere din licens"
+	},
+	"extend": {
+		"message": "Klik her for at forlænge din licens"
+	},
+	"buy": {
+		"message": "Klik her for at opgradere nu!"
+	},
+	"steam-header": {
+		"message": "Vælg den applikation du ønsker at starte."
+	}
+}

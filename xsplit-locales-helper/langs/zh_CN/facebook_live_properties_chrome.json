@@ -1,0 +1,95 @@
+{
+	"title": {
+		"message": "Facebook Live属性"
+	},
+	"save_close": {
+		"message": "保存&关闭"
+	},
+	"start_streaming": {
+		"message": "继续"
+	},
+	"logged_in_as": {
+		"message": "登录为: %fullname%"
+	},
+	"switch_account": {
+		"message": "[切换帐户](switchAccount)"
+	},
+	"remove_auth": {
+		"message": "[删除授权](removeAuth)"
+	},
+	"stream_settings": {
+		"message": "流设置"
+	},
+	"stream_to.label": {
+		"message": "直播到: "
+	},
+	"stream_to.values.timeline": {
+		"message": "时间表"
+	},
+	"stream_to.values.page": {
+		"message": "頁面"
+	},
+	"stream_to.values.group": {
+		"message": "组"
+	},
+	"stream_to.values.event": {
+		"message": "事件"
+	},
+	"stream_to.pageauth": {
+		"message": "页面-需要权限"
+	},
+	"stream_to.groupauth": {
+		"message": "组-需要权限"
+	},
+	"stream_to.eventauth": {
+		"message": "事件-需要权限"
+	},
+	"page": {
+		"message": "頁面: "
+	},
+	"timeline": {
+		"message": "时间表: "
+	},
+	"group": {
+		"message": "组: "
+	},
+	"event": {
+		"message": "事件: "
+	},
+	"format.label": {
+		"message": "格式: "
+	},
+	"encoder.label": {
+		"message": "编码： "
+	},
+	"bitrate": {
+		"message": "比特率： "
+	},
+	"saveVideo": {
+		"message": "将视频保存到我的录制中"
+	},
+	"resolutionWarning": {
+		"message": "您的硬件可能会在本解决方案中遇到性能问题。"
+	},
+	"bitrateWarning": {
+		"message": "您的带宽可能不足以以此比特率直播。"
+	},
+	"streamingWarning": {
+		"message": "由于正在进行直播/录制，无法执行带宽和硬件测试。"
+	},
+	"checkAgain": {
+		"message": "[再次测试？](testAgain)"
+	},
+	"authorize": {
+		"message": "单击此处授权 XSplit 到您的 Facebook 帐户"
+	},
+	"configuring": {
+		"message": "正在配置设置..."
+	},
+	"system_test": {
+		"message": "上次系统测试: %timestamp% [再次测试](testAgain)"
+	},
+	"advanced_settings": {
+		"message": "[高级设置](advancedSettings)"
+	}
+}

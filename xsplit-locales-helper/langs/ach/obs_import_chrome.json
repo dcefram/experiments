@@ -1,0 +1,23 @@
+{
+  "obsImport.permission_error": {
+    "message": "crwdns162184:0crwdne162184:0"
+  },
+  "obsImport.permission_button": {
+    "message": "crwdns162186:0crwdne162186:0"
+  },
+  "obsImport.import_text": {
+    "message": "crwdns162188:0crwdne162188:0"
+  },
+  "obsImport.text_link": {
+    "message": "crwdns162190:0crwdne162190:0"
+  },
+  "obsImport.file_error": {
+    "message": "crwdns162192:0crwdne162192:0"
+  },
+  "obsImport.logs_link": {
+    "message": "crwdns162194:0crwdne162194:0"
+  },
+  "obsImport.import": {
+    "message": "crwdns162196:0crwdne162196:0"
+  }
+}

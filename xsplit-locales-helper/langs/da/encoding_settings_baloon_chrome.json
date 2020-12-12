@@ -1,0 +1,38 @@
+{
+	"currentResolutionNotSupported": {
+		"message": "Your current video resolution is set to %resolution%. Your current video framerate is %fps%."
+	},
+	"currentResolutionNotSupportedYouTube": {
+		"message": "Your video resolution is set to %resolution% at %fps% frames per second which is NOT supported by YouTube Live. Set your resolution to a supported resolution from the table below."
+	},
+	"currentResolutionSupported": {
+		"message": "Your current video resolution is set to %resolution%.  Your current video framerate is *%fps%*. Please see table below for recommended bitrate"
+	},
+	"currentResolutionSupportedYouTube": {
+		"message": "Your *current video resolution* is set to *%resolution%*. Your current video framerate is *%fps%*. See guidance below for recommended video bitrate."
+	},
+	"currentResolutionCapable1080pYouTube": {
+		"message": "Your *current video resolution* is set to *%resolution%*. Your current video framerate is *%fps%*. You should *consider twice before streaming in 1080p or higher resolutions* unless you have a very strong CPU along with a very wide band internet connection."
+	},
+	"currentResolutionNotCapable1080pYouTube": {
+		"message": "Your *current video resolution* is set to *%resolution%*. Your current video framerate is *%fps%*. You should *consider twice before streaming in 1080p or higher resolutions* unless you have a very strong CPU (which you may not have) along with a very wide band internet connection."
+	},
+	"defaultMessage": {
+		"message": "For %service% we only recommend any of the resolutions below. Change your resolution in the Resolution menu"
+	},
+	"resolution": {
+		"message": "Resolution"
+	},
+	"suggestedBitRate": {
+		"message": "Suggested bitrate"
+	},
+	"maximumBitRate": {
+		"message": "Maximum bitrate"
+	},
+	"minimumBitRate": {
+		"message": "Minimum bitrate"
+	},
+	"warning": {
+		"message": "Do not try %resolutions% unless you have a huge CPU and an internet connection like an oil pipeline"
+	}
+}

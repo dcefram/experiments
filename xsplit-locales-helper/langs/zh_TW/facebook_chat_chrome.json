@@ -1,0 +1,101 @@
+{
+  "facebook.chat.tabheader": {
+    "message": "聊天"
+  },
+  "facebook.chat.source": {
+    "message": "資源"
+  },
+  "facebook.chat.account": {
+    "message": "帳戶"
+  },
+  "facebook.chat.automatic": {
+    "message": "自動"
+  },
+  "facebook.chat.authorize": {
+    "message": "授權XSplit使用 Facebook Live"
+  },
+  "facebook.chat.remove_authorization": {
+    "message": "**%api%** 刪除授權"
+  },
+  "facebook.chat.switch_account": {
+    "message": "**%api%** 切換帳戶"
+  },
+  "facebook.chat.error_auth": {
+    "message": "請再次嘗試授權, 並授予 XSplit 對此功能所需的所有權限的訪問權限"
+  },
+  "facebook.chat.not_connected": {
+    "message": "當直播生效時評論將自動加載"
+  },
+  "facebook.chat.connected": {
+    "message": "連接"
+  },
+  "facebook.chat.display": {
+    "message": "顯示"
+  },
+  "facebook.chat.preview": {
+    "message": "預覽"
+  },
+  "facebook.chat.chatbox": {
+    "message": "聊天框"
+  },
+  "facebook.chat.opacity": {
+    "message": "透明度"
+  },
+  "facebook.chat.viewers": {
+    "message": "觀眾"
+  },
+  "facebook.chat.message": {
+    "message": "消息"
+  },
+  "facebook.chat.text_size": {
+    "message": "文本大小"
+  },
+  "facebook.chat.text_direction": {
+    "message": "文本方向"
+  },
+  "facebook.chat.hide_user_icons": {
+    "message": "隱藏用戶圖示"
+  },
+  "facebook.chat.one_line_entries": {
+    "message": "單行條目"
+  },
+  "facebook.chat.hide_timestamps": {
+    "message": "隱藏時間戳記"
+  },
+  "facebook.chat.hide_chat_when_idle": {
+    "message": "空閒時隱藏聊天"
+  },
+  "facebook.chat.blocking": {
+    "message": "阻止中"
+  },
+  "facebook.chat.blockedlist": {
+    "message": "阻止列表"
+  },
+  "facebook.chat.block_help": {
+    "message": "您可以通過在阻止列表中添加觀眾的姓名或用戶名 (包括機器人，如果適用) 來阻止觀眾, 這樣他們的消息就不會出現在聊天信息。 [br][br]此阻止列表未連接到您的頻道的阻止列表。它只適用於此聊天源。"
+  },
+  "facebook.chat.blocking_name": {
+    "message": "輸入要阻止的觀眾的名稱或用戶名。"
+  },
+  "facebook.chat.block_name": {
+    "message": "名稱"
+  },
+  "facebook.chat.block_add": {
+    "message": "添加"
+  },
+  "facebook.chat.block_remove": {
+    "message": "移除"
+  },
+  "facebook.chat.hide_connection_message": {
+    "message": "隱藏連接消息"
+  },
+  "facebook.chat.not_seeing_videos": {
+    "message": "沒有看到你的直播視頻？"
+  },
+  "facebook.chat.not_seeing_videos_help": {
+    "message": "我們可能沒有許可權訪問您的某些網頁的即時視頻。"
+  },
+  "facebook.chat.not_seeing_videos_link": {
+    "message": "點擊這裡重新授權"
+  }
+}

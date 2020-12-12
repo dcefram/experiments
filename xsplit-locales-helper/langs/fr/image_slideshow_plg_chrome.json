@@ -1,0 +1,104 @@
+{
+  "image_slideshow.images": {
+    "message": "Images"
+  },
+  "image_slideshow.add": {
+    "message": "Ajouter"
+  },
+  "image_slideshow.remove": {
+    "message": "Supprimer"
+  },
+  "image_slideshow.preview": {
+    "message": "Aperçu"
+  },
+  "image_slideshow.transition_preview": {
+    "message": "Aperçu de la transition"
+  },
+  "image_slideshow.browser_60_fps": {
+    "message": "Permettre jusqu'à 60 FPS"
+  },
+  "image_slideshow.effects": {
+    "message": "Transition"
+  },
+  "image_slideshow.transition": {
+    "message": "Transition"
+  },
+  "image_slideshow.loop": {
+    "message": "Boucle"
+  },
+  "image_slideshow.interval": {
+    "message": "Intervalle"
+  },
+  "image_slideshow.seconds": {
+    "message": "secondes"
+  },
+  "image_slideshow.shuffle_images": {
+    "message": "Images aléatoires"
+  },
+  "image_slideshow.auto_refresh_images": {
+    "message": "Actualiser automatiquement les images"
+  },
+  "image_slideshow.remember_playback_position": {
+    "message": "Se souvenir de la position de lecture"
+  },
+  "image_slideshow.ok": {
+    "message": "OK"
+  },
+  "image_slideshow.cancel": {
+    "message": "Annuler"
+  },
+  "image_slideshow.hint.images_section": {
+    "message": "Ajouter, supprimer et arranger des images"
+  },
+  "image_slideshow.hint.effects_section": {
+    "message": "Appliquez des transitions, activez la lecture en boucle et définissez la période d'intervale"
+  },
+  "image_slideshow.hint.browser_60_fps_title": {
+    "message": "Permettre jusqu'à 60 FPS"
+  },
+  "image_slideshow.hint.browser_60_fps_message": {
+    "message": "Peut exiger des resources supplémentaires de GPU/CPU. Notez qu'activer cette option enclenchera l'actualisation de la source. Pour la meilleure performance, activez l'Optimisation Spéciale Source Navigateur dans Outils -> Options -> Avancé."
+  },
+  "image_slideshow.hint.auto_refresh_images_message": {
+    "message": "Activer cette option actualisera les images automatiquement après chaque boucle. Cependant, cela peut également ralentir votre source de diaporama."
+  },
+  "image_slideshow.hotkeys": {
+    "message": "Raccourcis"
+  },
+  "image_slideshow.hotkey_header": {
+    "message": "Utiliser ces raccourcis lorsque la source est sélectionnée :"
+  },
+  "image_slideshow.hotkey_p": {
+    "message": "Appuyez sur &quot;**P**&quot; pour mettre en pause/reprendre le diaporama (mode diaporama)"
+  },
+  "image_slideshow.hotkey_s": {
+    "message": "Appuyez sur &quot;**S**&quot; pour arrêter le diaporama (mode diaporama)"
+  },
+  "image_slideshow.hotkey_r": {
+    "message": "Appuyez sur &quot;**R**&quot; pour redémarrer le diaporama (mode diaporama)"
+  },
+  "image_slideshow.hotkey_n": {
+    "message": "Appuyez sur &quot;**N**&quot; pour aller à l'image de diaporama suivante (mode diaporama)"
+  },
+  "image_slideshow.hotkey_b": {
+    "message": "Appuyez sur &quot;**B**&quot; pour aller à l'image de diaporama précédente (mode diaporama)"
+  },
+  "image_slideshow.double_click_main": {
+    "message": "Double-cliquez sur l'image principale pour afficher les miniatures (mode diaporama)"
+  },
+  "image_slideshow.double_click_thumbnail": {
+    "message": "Double-cliquez sur la miniature pour afficher l'image principale (mode diaporama)"
+  },
+  "image_slideshow.browse": {
+    "message": "Parcourez les images chargées sur les miniatures en déplaçant la bande de miniatures. La case  &quot;Verrouiller position&quot; doit être cochée (elle se trouve dans l'onglet &quot;Disposition&quot;)"
+  },
+  "image_slideshow.loop_select_options_hide": {
+    "message": "Une fois, puis masquer"
+  },
+  "image_slideshow.loop_select_options_nothing": {
+    "message": "Une fois"
+  },
+  "image_slideshow.loop_select_options_loop": {
+    "message": "Pour toujours"
+  }
+}

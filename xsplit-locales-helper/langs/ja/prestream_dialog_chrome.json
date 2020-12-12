@@ -1,0 +1,314 @@
+{
+	"toptitle": {
+		"message": "予定されているライブ動画を管理する"
+	},
+	"details": {
+		"message": "放送詳細"
+	},
+	"livevideo.label": {
+		"message": "ライブビデオ"
+	},
+	"livevideo.tooltip": {
+		"message": "Select how you want to go live.[br][br]**New Live** - Go live now with a new live video[br]**Scheduled** - Broadcast to an existing scheduled live video"
+	},
+	"livevideovalues.0": {
+		"message": "新規ライブ"
+	},
+	"scheduledvideovalues.new": {
+		"message": "新規ライブ予約"
+	},
+	"delete": {
+		"message": "削除"
+	},
+	"stop": {
+		"message": "停止"
+	},
+	"status.label": {
+		"message": "ステータス"
+	},
+	"status.tooltip": {
+		"message": "予約済みのライブビデオのステータスを設定してください。[br][br]**予約済み** - データが配信されておりましたら、予約した開始時間に自動的に配信が開始されます。配信開始時間前に配信を行う事で本番前に配信を確認する事ができます。[br]**ライブ** - 配信を開始する。[br]**手動** - テスト配信を行う事が出来、ライブビデオを予約済みから手動に切り替える。遅れている時などに配信を確認した後に開始したい時などにしようできます。但し、手動に切り替えた後、また予約済みに切り替える事は出来ず、Facebookから直接ライブボタンを押さなくてはいけません。"
+	},
+	"statusvalues.scheduled": {
+		"message": "予約済み"
+	},
+	"statusvalues.live": {
+		"message": "ライブ"
+	},
+	"statusvalues.manual": {
+		"message": "手動"
+	},
+	"title": {
+		"message": "タイトル"
+	},
+	"description": {
+		"message": "説明"
+	},
+	"tags.label": {
+		"message": "コンテンツタグ"
+	},
+	"tags.tooltip": {
+		"message": "タグをつける事で動画が発見されやすくなります。タグは一般公開はされません。"
+	},
+	"videogame.label": {
+		"message": "ビデオゲーム"
+	},
+	"videogame.tooltip": {
+		"message": "Facebook Gamingで遊ぶゲーム名をタグ付けしてください。"
+	},
+	"checkin.label": {
+		"message": "ロケーションチェックイン"
+	},
+	"checkin.tooltip": {
+		"message": "放送している場所の事です。"
+	},
+	"privacy.label": {
+		"message": "プライバシー"
+	},
+	"privacy.tooltip": {
+		"message": "Facebook Apps内にてXSplitにプライバシー限界が設定されている可能性がございます。プライバシースコープをこちらで操作するには、Facebook Apps内にてXSplitのプライバシー設定を **Public**に設定してください。 [詳細](https://xspl.it/fbxspriv)\n "
+	},
+	"privacyvalues.EVERYONE": {
+		"message": "パブリック"
+	},
+	"privacyvalues.ALL_FRIENDS": {
+		"message": "友人"
+	},
+	"privacyvalues.SELF": {
+		"message": "自分だけ"
+	},
+	"pageaudience.label": {
+		"message": "ページ視聴者"
+	},
+	"pageaudience.tooltip": {
+		"message": "繋がりたい人達の場所を選択してください。"
+	},
+	"locations.label": {
+		"message": "ロケーション"
+	},
+	"locations.tooltip": {
+		"message": "デフォルトで全ロケーションに設定するか、どの国の人と共有したいか選択してください。"
+	},
+	"support.label": {
+		"message": "連続ライブ"
+	},
+	"support.tooltip": {
+		"message": "このオプションを有効にする事でFacebookに４時間以上配信する事が可能ですが、レコーディングはFacebookに残りません。"
+	},
+	"manageschedule": {
+		"message": "予定中のライブ動画を管理する"
+	},
+	"createschedule": {
+		"message": "ライブ予定を作成する"
+	},
+	"scheduledstart.label": {
+		"message": "開始予定時間"
+	},
+	"scheduledstart.tooltip": {
+		"message": "予約済みライブ動画は作成から11分後から７日間以内の間（１６８時間）に作成しなくてはいけません。"
+	},
+	"customimage.label": {
+		"message": "カスタム画像"
+	},
+	"customimage.tooltip": {
+		"message": "予約したライブ告知にカスタム画像を追加する事が出来ます。"
+	},
+	"scheduleerror": {
+		"message": "無効なスケジュール"
+	},
+	"uploadimage": {
+		"message": "画像をアップロード..."
+	},
+	"deleteimage": {
+		"message": "画像を削除する"
+	},
+	"errormessage": {
+		"message": "予約済みライブ動画は作成から11分後から７日間以内の間（１６８時間）に作成しなくてはいけません。"
+	},
+	"addScheduleHeader": {
+		"message": "スケジュールを追加する"
+	},
+	"addSchedule": {
+		"message": "スケジュールを追加する"
+	},
+	"editSchedule": {
+		"message": "スケジュールを編集する"
+	},
+	"updateSchedule": {
+		"message": "スケジュールを更新する"
+	},
+	"start": {
+		"message": "放送を開始する"
+	},
+	"resume": {
+		"message": "放送を再開する"
+	},
+	"ok": {
+		"message": "OK"
+	},
+	"cancel": {
+		"message": "キャンセル"
+	},
+	"close": {
+		"message": "閉じる"
+	},
+	"loading.create": {
+		"message": "予約ライブ動画を作成中..."
+	},
+	"loading.update": {
+		"message": "予約ライブ動画を更新中..."
+	},
+	"youtube.liveEvent.label": {
+		"message": "ライブイベント"
+	},
+	"youtube.liveEvent.tooltip": {
+		"message": "Select how you want to go live.[br][br]**New Live Event -** Create a new live event and go live[br]**Scheduled -** Select an existing live event.[br]**Live Now -** Resume an existing live now event"
+	},
+	"youtube.tags.label": {
+		"message": "タグ"
+	},
+	"youtube.tags.tooltip": {
+		"message": "タグとは人々があなたの動画を見つけやすい様に設定するキーワードです。[br][br]コンマを使いタグを分けてください。"
+	},
+	"youtube.category.label": {
+		"message": "カテゴリ"
+	},
+	"youtube.schedule": {
+		"message": "予約"
+	},
+	"youtube.noSchedule": {
+		"message": "配信のスケジュールはありません"
+	},
+	"youtube.duration": {
+		"message": "期間"
+	},
+	"youtube.endSchedule": {
+		"message": "終了時間 (任意)"
+	},
+	"youtube.hours": {
+		"message": "時間"
+	},
+	"youtube.minutes": {
+		"message": "分"
+	},
+	"youtube.enable360.label": {
+		"message": "360°ビデオを有効にする"
+	},
+	"youtube.enable360.title": {
+		"message": "360°ビデオを有効にする"
+	},
+	"youtube.enable360.tooltip": {
+		"message": "あなたの配信を 360°ビデオに設定する。これを有効にする事で視聴者に 360°ビデオを体験させる事が出来ます。[br][br]低遅延モードはこの機能に対応しておりません。"
+	},
+	"youtube.enableLowLatency": {
+		"message": "低遅延を有効にする"
+	},
+	"youtube.enableDvr": {
+		"message": "DVRを有効にする"
+	},
+	"youtube.allowEmbed": {
+		"message": "埋め込みの許可をする"
+	},
+	"youtube.useBackupServer": {
+		"message": "バックアップサーバーを使用する"
+	},
+	"youtube.manualTransition.label": {
+		"message": "マニュアルトランジション"
+	},
+	"youtube.manualTransition.tooltip": {
+		"message": "このオプションを有効にする事で YouTube Liveコントロールパネルから配信のステータスを制御できます。無効になっている場合、XSplitが自動的に配信を「ライブ」状態にし、配信を切るとそのまま配信自体も「完了」状態になります。"
+	},
+	"youtube.liveEvent.values.scheduled": {
+		"message": "予約済み: 開始 %date% - %title%"
+	},
+	"youtube.liveEvent.values.liveNow": {
+		"message": "今すぐ配信: 開始 %date% - %title%"
+	},
+	"youtube.liveEvent.defaults.new": {
+		"message": "新規ライブイベント"
+	},
+	"youtube.category.values.1": {
+		"message": "映画&アニメ"
+	},
+	"youtube.category.values.2": {
+		"message": "自動車&乗り物"
+	},
+	"youtube.category.values.10": {
+		"message": "音楽"
+	},
+	"youtube.category.values.15": {
+		"message": "ペット&動物"
+	},
+	"youtube.category.values.17": {
+		"message": "スポーツ"
+	},
+	"youtube.category.values.19": {
+		"message": "旅行&イベント"
+	},
+	"youtube.category.values.20": {
+		"message": "ゲーム"
+	},
+	"youtube.category.values.22": {
+		"message": "ブログ"
+	},
+	"youtube.category.values.23": {
+		"message": "コメディー"
+	},
+	"youtube.category.values.24": {
+		"message": "エンターテインメント"
+	},
+	"youtube.category.values.25": {
+		"message": "ニュース&政治"
+	},
+	"youtube.category.values.26": {
+		"message": "Howto & スタイル"
+	},
+	"youtube.category.values.27": {
+		"message": "教育"
+	},
+	"youtube.category.values.28": {
+		"message": "科学&テクノロジー"
+	},
+	"youtube.category.values.29": {
+		"message": "非営利&活動"
+	},
+	"youtube.privacy.public": {
+		"message": "パブリック"
+	},
+	"youtube.privacy.unlisted": {
+		"message": "非公開"
+	},
+	"youtube.privacy.private": {
+		"message": "プライベート"
+	},
+	"youtube.latency.label": {
+		"message": "遅延"
+	},
+	"youtube.latency.tooltip": {
+		"message": "**通常遅延** - 高クォリティの解像度とプレイバックを視聴者に提供するのに最適です。[br]**低遅延** - プレイバックバッファが少なく、リアルタイムに視聴者と交流するのに最適です。[br]**超低遅延** - リアルタイム交流に最適です。[br]**サポートしていない**-DVR、キャプション、1440p、4k解像度"
+	},
+	"youtube.latency.values.normal": {
+		"message": "通常遅延"
+	},
+	"youtube.latency.values.low": {
+		"message": "低遅延"
+	},
+	"youtube.latency.values.ultraLow": {
+		"message": "超低遅延"
+	},
+	"youtube.emptyTitle": {
+		"message": "タイトルは必ず入力してください"
+	},
+	"youtube.noEndSchedule": {
+		"message": "終了予定時間はありません"
+	},
+	"youtube.endScheduleInvalid": {
+		"message": "終了予定時間が無効です。正しい日付を入力してください。"
+	},
+	"youtube.endScheduleFuture": {
+		"message": "次は終了予定時間を選択してください。"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "提案を検索中..."
+	}
+}

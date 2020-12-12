@@ -1,0 +1,80 @@
+{
+  "facebook.reactions.counter.tabheader": {
+    "message": "Reacciones"
+  },
+  "facebook.reactions.counter.source": {
+    "message": "Fuente"
+  },
+  "facebook.reactions.counter.account": {
+    "message": "Cuenta"
+  },
+  "facebook.reactions.counter.automatic": {
+    "message": "Automático"
+  },
+  "facebook.reactions.counter.authorize": {
+    "message": "Autorizar a XSplit para utilizar Facebook Live"
+  },
+  "facebook.reactions.counter.remove_authorization": {
+    "message": "%api%** Eliminar autorización"
+  },
+  "facebook.reactions.counter.switch_account": {
+    "message": "%api%** Cambiar de cuenta"
+  },
+  "facebook.reactions.counter.error_auth": {
+    "message": "Trata de dar autorización de nuevo y concede el acceso a todos los permisos requeridos por XSplit para utilizar esta función"
+  },
+  "facebook.reactions.counter.not_connected": {
+    "message": "Las reacciones se cargarán automáticamente una vez que el stream se transmita en vivo"
+  },
+  "facebook.reactions.counter.connected": {
+    "message": "Conectado"
+  },
+  "facebook.reactions.counter.display": {
+    "message": "Pantalla"
+  },
+  "facebook.reactions.counter.lock_components": {
+    "message": "Bloquear componentes"
+  },
+  "facebook.reactions.counter.lock_components_text": {
+    "message": "Si seleccionas esta opción, se deshabilitará la opción de pasar el ratón por encima, reposicionar y cambiar el tamaño de los componentes[br][br]Selecciona esta opción si no deseas que se muestre la opción de pasar el ratón por encima de los componentes, especialmente durante la transmisión o la grabación."
+  },
+  "facebook.reactions.counter.type": {
+    "message": "Tipo"
+  },
+  "facebook.reactions.counter.show_reactions_labels": {
+    "message": "Mostrar las reacciones y etiquetas"
+  },
+  "facebook.reactions.counter.reset": {
+    "message": "Reiniciar"
+  },
+  "facebook.reactions.counter.counter_background": {
+    "message": "Color de fondo del contador"
+  },
+  "facebook.reactions.counter.opacity": {
+    "message": "Opacidad"
+  },
+  "facebook.reactions.counter.counter": {
+    "message": "Contador"
+  },
+  "facebook.reactions.counter.label": {
+    "message": "Etiqueta"
+  },
+  "facebook.reactions.counter.dropdown.type.poll": {
+    "message": "Encuesta de reacciones"
+  },
+  "facebook.reactions.counter.dropdown.type.counter": {
+    "message": "Contador de reacciones"
+  },
+  "facebook.reactions.hide_connection_message": {
+    "message": "Ocultar los mensajes de conexión"
+  },
+  "facebook.reactions.not_seeing_videos": {
+    "message": "¿No ves tu vídeo en vivo?"
+  },
+  "facebook.reactions.not_seeing_videos_help": {
+    "message": "Es posible que no tengamos permiso para acceder a algunos de los vídeos en vivo de tus páginas."
+  },
+  "facebook.reactions.not_seeing_videos_link": {
+    "message": "Haz clic aquí para re-autorizar"
+  }
+}

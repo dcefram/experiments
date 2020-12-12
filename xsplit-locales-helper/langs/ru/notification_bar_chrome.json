@@ -1,0 +1,59 @@
+{
+  "COUNTER": {
+    "message": "(%count%/%total%)"
+  },
+  "IN_GAME_HUD.text": {
+    "message": "Попробуйте наш новый игровой HUD! Просто нажмите ALT+` при воспроизведении любой игры, добавленной в вашу сцену с помощью Game Capture."
+  },
+  "UI_UPDATE_ANNOUNCEMENT.text": {
+    "message": "**Добро пожаловать в XBC 3.9!** У нас есть куча всего такого, что вы можете попробовать."
+  },
+  "UI_UPDATE_ANNOUNCEMENT.link": {
+    "message": "[ПОДРОБНЕЕ](%url%)"
+  },
+  "REQUEST_PERMISSION.label": {
+    "message": "Права доступа"
+  },
+  "REQUEST_PERMISSION.text": {
+    "message": "Один или несколько ваших источников или расширений запрашивают разрешение на выполнение скриптов"
+  },
+  "REQUEST_PERMISSION.link": {
+    "message": "[РЕДАКТИРОВАТЬ ПРАВА ДОСТУПА](editAccess)"
+  },
+  "PLUGINS_UPDATE.label": {
+    "message": "Доступны обновления для ваших плагинов!"
+  },
+  "PLUGINS_UPDATE.link": {
+    "message": "[ПОКАЗАТЬ ОБНОВЛЕНИЯ](PLUGINS_UPDATE)"
+  },
+  "NEW_CRISP_MESSAGE.label": {
+    "message": "Поддержка"
+  },
+  "NEW_CRISP_MESSAGE.link": {
+    "message": "[ОТКРЫТЬ СООБЩЕНИЕ](openCrispChat)"
+  },
+  "NEW_CRISP_MESSAGE.file": {
+    "message": "Вам прислали новый файл"
+  },
+  "NEW_CRISP_MESSAGE.single": {
+    "message": "У вас %count% новое сообщение"
+  },
+  "NEW_CRISP_MESSAGE.multiple": {
+    "message": "У вас %count% новых сообщений"
+  },
+  "IDENTIFY_GAMES.label": {
+    "message": "Слежение за игрой"
+  },
+  "IDENTIFY_GAMES.text": {
+    "message": "Помогите нам узнать об играх, видео из которых вы уже захватывали, чтобы мы смогли обеспечить вам более качественную техподдержку."
+  },
+  "IDENTIFY_GAMES.link": {
+    "message": "[ОТМЕТИТЬ ИГРЫ](identifyGames)"
+  },
+  "WINDOWS_GAMEBAR.text": {
+    "message": "В вашей системе активирован **Игровой режим Windows**. Это может оказывать влияние на производительность вашего стрима."
+  },
+  "EXTENSION_RUNNING_IN_BACKGROUND.text": {
+    "message": "%name% is now running in the background. You may reconfigure its settings by clicking its gear [GEAR](ICON-GEAR) icon in the Extensions menu."
+  }
+}

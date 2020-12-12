@@ -1,0 +1,95 @@
+{
+  "youtube.source_alert.tabheader": {
+    "message": "警報"
+  },
+  "youtube.source_alert.source": {
+    "message": "資源"
+  },
+  "youtube.source_alert.account": {
+    "message": "帳戶"
+  },
+  "youtube.source_alert.authorize": {
+    "message": "授權XSplit使用YouTube Live"
+  },
+  "youtube.source_alert.remove_authorization": {
+    "message": "**%api%** 刪除授權"
+  },
+  "youtube.source_alert.switch_account": {
+    "message": "**%api%** 切換帳戶"
+  },
+  "youtube.source_alert.not_connected": {
+    "message": "當直播生效時警報將自動加載"
+  },
+  "youtube.source_alert.connected": {
+    "message": "連接"
+  },
+  "youtube.source_alert.connect": {
+    "message": "連接"
+  },
+  "youtube.source_alert.disconnect": {
+    "message": "斷開連接"
+  },
+  "youtube.source_alert.alertLabel": {
+    "message": "警報"
+  },
+  "youtube.source_alert.animation_text": {
+    "message": "動畫"
+  },
+  "youtube.source_alert.duration": {
+    "message": "持續時間"
+  },
+  "youtube.source_alert.delay": {
+    "message": "顯示時間"
+  },
+  "youtube.source_alert.animateIn": {
+    "message": "動畫入場"
+  },
+  "youtube.source_alert.animateOut": {
+    "message": "動畫出場"
+  },
+  "youtube.source_alert.audio": {
+    "message": "音訊"
+  },
+  "youtube.source_alert.generalHeader": {
+    "message": "一般"
+  },
+  "youtube.source_alert.customizeHeader": {
+    "message": "自定義"
+  },
+  "youtube.source_alert.theme": {
+    "message": "主題"
+  },
+  "youtube.source_alert.minAmount": {
+    "message": "最少數量"
+  },
+  "youtube.source_alert.type": {
+    "message": "類型"
+  },
+  "youtube.source_alert.nameStyleAndSettings": {
+    "message": "名稱風格和設置"
+  },
+  "youtube.source_alert.sound": {
+    "message": "聲音"
+  },
+  "youtube.source_alert.show_alert": {
+    "message": "預覽"
+  },
+  "youtube.source_alert.hide_alert": {
+    "message": "隱藏預覽"
+  },
+  "youtube.source_alert.test_alert": {
+    "message": "測試警報"
+  },
+  "youtube.source_alert.Color": {
+    "message": "顏色"
+  },
+  "youtube.source_alert.layout": {
+    "message": "佈局"
+  },
+  "youtube.source_alert.loggingInTo": {
+    "message": "登錄YouTube..."
+  },
+  "youtube.source_alert.pleaseComplete": {
+    "message": "請在瀏覽器中完成登錄過程"
+  }
+}

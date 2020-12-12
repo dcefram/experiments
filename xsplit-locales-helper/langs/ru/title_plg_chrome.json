@@ -1,0 +1,173 @@
+{
+  "title.content": {
+    "message": "Контент"
+  },
+  "title.use_custom_script": {
+    "message": "Пользовательский скрипт"
+  },
+  "title.edit_script": {
+    "message": "Редактировать скрипт"
+  },
+  "title.format": {
+    "message": "Format"
+  },
+  "title.font": {
+    "message": "Шрифт"
+  },
+  "title.color": {
+    "message": "Цвет"
+  },
+  "title.outline": {
+    "message": "Контур"
+  },
+  "title.opacity": {
+    "message": "Прозрачность"
+  },
+  "title.style": {
+    "message": "Стиль"
+  },
+  "title.align": {
+    "message": "Выравнивание"
+  },
+  "title.shadow": {
+    "message": "Тень"
+  },
+  "title.distance": {
+    "message": "Расстояние"
+  },
+  "title.blur": {
+    "message": "Размытие"
+  },
+  "title.angle": {
+    "message": "Угол"
+  },
+  "title.animation": {
+    "message": "Анимация"
+  },
+  "title.none": {
+    "message": "Нет"
+  },
+  "title.scroll": {
+    "message": "Прокрутить"
+  },
+  "title.fade": {
+    "message": "Затемнить"
+  },
+  "title.scrolling": {
+    "message": "Прокрутка"
+  },
+  "title.line_limit": {
+    "message": "Линия предела"
+  },
+  "title.direction": {
+    "message": "Направление"
+  },
+  "title.speed": {
+    "message": "Скорость"
+  },
+  "title.scroll_units": {
+    "message": "Пикселей в секунду"
+  },
+  "title.delimeter": {
+    "message": "Разделитель"
+  },
+  "title.interval": {
+    "message": "Интервал"
+  },
+  "title.fade_speed": {
+    "message": "Скорость затемнения"
+  },
+  "title.enable_60_fps": {
+    "message": "Показывать при частоте до 60 FPS"
+  },
+  "title.enable_60_fps_tooltip": {
+    "message": "Могут потребоваться дополнительные ресурсы процессора или видеокарты. Учтите, что переключение этой опции приведёт к обновлению источника. Для достижения наилучшей производительности активируйте в браузере параметр \"Специальная оптимизация браузерного источника\" в пункте меню Инструменты -> Настройки -> Дополнительно."
+  },
+  "title.ok": {
+    "message": "Ok"
+  },
+  "title.cancel": {
+    "message": "Отменить"
+  },
+  "title.hint.content_section": {
+    "message": "Введите текст сюда. Вы можете использовать &amp;lt; br&amp;gt; чтобы вставить пустую(-ые) строку(-и). Вы также можете использовать BBcode для дальнейшего форматирования текста. Нажмите [сюда](https://xspl.it/bbcode), чтобы узнать больше."
+  },
+  "title.deprecated_scripts": {
+    "message": "Скрипт, используемый в этом источнике текста, содержит некоторые устаревшие методы. Обновите скрипт, выполнив следующее:[br]1. Нажмите на кнопку «Изменить сценарий» в текстовом окне[br]2. Выберите шаблон скрипта и нажмите кнопку «Обновить текст»"
+  },
+  "title.outdated_scripts": {
+    "message": "Сценарий, используемый в этом источнике текста может быть устаревшим. Вы можете обновить сценарий, выполнив следующее:[br]1. Нажмите на кнопку «Изменить сценарий» во вкладке текст[br]2. Выберите шаблон скрипта, настройте параметры и нажмите кнопку «Обновить текст»"
+  },
+  "title.script_editor.edit_script": {
+    "message": "Редактировать скрипт- "
+  },
+  "title.script_editor.title": {
+    "message": "Скрипт"
+  },
+  "title.script_editor.template": {
+    "message": "Шаблон"
+  },
+  "title.script_editor.settings": {
+    "message": "Настройки"
+  },
+  "title.script_editor.script": {
+    "message": "Скрипт"
+  },
+  "title.script_editor.back": {
+    "message": "Назад"
+  },
+  "title.script_editor.update_title": {
+    "message": "Обновить текст"
+  },
+  "title.help.outline_title": {
+    "message": "Использовать контур для исходного текста"
+  },
+  "title.help.outline_message": {
+    "message": "Существует ограничение в размера шрифта при использовании контуров. Вы можете изменять размер текста в вашем скрипте, но только до максимального размера шрифта."
+  },
+  "title.help.pause_script_title": {
+    "message": "Приостановить или возобновить сценарий"
+  },
+  "title.help.pause_script_message": {
+    "message": "Вы можете приостановить/воспроизвести поддерживаемые скрипты, такие как таймер и режим продолжительности тайминга скриптов общего назначения и других поддерживающих пользовательских скриптов."
+  },
+  "title.help.delimeter_title": {
+    "message": "Разделитель"
+  },
+  "title.help.delimeter_message": {
+    "message": "Разделитель — это символ или набор символов, разделяющий текст на сегменты которые будут показаны с эффектом затухания по очереди."
+  },
+  "title.help.interval_title": {
+    "message": "Интервал"
+  },
+  "title.help.interval_message": {
+    "message": "Интервал - это время, за которое текст будет отображаться перед тем, как произойдет еще один эффект затухания."
+  },
+  "title.pause_hotkey": {
+    "message": "Когда на определённом этапе источник выбран, вы можете использовать горячую клавишу (нажмите «P») для паузы/воспроизведения поддерживаемых скриптов."
+  },
+  "title.direction_options_right_to_left": {
+    "message": "Справа налево"
+  },
+  "title.direction_options_left_to_right": {
+    "message": "Слева направо"
+  },
+  "title.direction_options_bottom_to_top": {
+    "message": "Снизу вверх"
+  },
+  "title.direction_options_top_to_bottom": {
+    "message": "Сверху вниз"
+  },
+  "title.outline_options_none": {
+    "message": "Нет"
+  },
+  "title.outline_options_thin": {
+    "message": "Тонкий"
+  },
+  "title.outline_options_thick": {
+    "message": "Толстый"
+  },
+  "title.outline_options_thickest": {
+    "message": "Очень толстый"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "COUNTER": {
+    "message": "(%count%/%total%)"
+  },
+  "IN_GAME_HUD.text": {
+    "message": "最新のゲーム内HUDを使用してみてください！ ゲームキャプチャでキャプチャ中のゲームをプレイ中に「ALT+」を押すだけ！"
+  },
+  "UI_UPDATE_ANNOUNCEMENT.text": {
+    "message": "**XBC 3.9へようこそ！** 色々な新機能が追加されましたのでお試しください。"
+  },
+  "UI_UPDATE_ANNOUNCEMENT.link": {
+    "message": "[詳細確認](%url%)"
+  },
+  "REQUEST_PERMISSION.label": {
+    "message": "アクセス許可"
+  },
+  "REQUEST_PERMISSION.text": {
+    "message": "一つ、または複数のソースか拡張機能がスクリプトを実行するためのアクセス権を要求しています。"
+  },
+  "REQUEST_PERMISSION.link": {
+    "message": "[許可編集](editAccess)"
+  },
+  "PLUGINS_UPDATE.label": {
+    "message": "プラグインの更新データがあります！"
+  },
+  "PLUGINS_UPDATE.link": {
+    "message": "[アップデート見せる](PLUGINS_UPDATE)\n"
+  },
+  "NEW_CRISP_MESSAGE.label": {
+    "message": "サポート"
+  },
+  "NEW_CRISP_MESSAGE.link": {
+    "message": "[メッセージを開く](openCrispChat)"
+  },
+  "NEW_CRISP_MESSAGE.file": {
+    "message": "ファイルを新しく送られました"
+  },
+  "NEW_CRISP_MESSAGE.single": {
+    "message": "%count% 新規メッセージがあります"
+  },
+  "NEW_CRISP_MESSAGE.multiple": {
+    "message": "%count% 新規メッセージがあります"
+  },
+  "IDENTIFY_GAMES.label": {
+    "message": "ゲームトラッキング"
+  },
+  "IDENTIFY_GAMES.text": {
+    "message": "皆様に最高なサービスを提供する為にキャプチャしたゲームを指定する手助けしてください。"
+  },
+  "IDENTIFY_GAMES.link": {
+    "message": "[ゲームタグ](identifyGames)"
+  },
+  "WINDOWS_GAMEBAR.text": {
+    "message": "**ウィンドウズゲームモード** が有効になっております。あなたの配信に影響を与える可能性があります。"
+  },
+  "EXTENSION_RUNNING_IN_BACKGROUND.text": {
+    "message": "%name% が背景で起動しております。拡張機能メニューで [歯車](ICON-GEAR) アイコンをクリックする事で設定を変更する事が出来ます。"
+  }
+}

@@ -1,0 +1,155 @@
+{
+	"twitch.chat.tabheader": {
+		"message": "Chat"
+	},
+	"twitch.chat.source": {
+		"message": "Source"
+	},
+	"twitch.chat.account": {
+		"message": "Account"
+	},
+	"twitch.chat.authorize": {
+		"message": "Authorize XSplit to use Twitch"
+	},
+	"twitch.chat.remove_authorization": {
+		"message": "**%api%** Remove authorization"
+	},
+	"twitch.chat.switch_account": {
+		"message": "**%api%** Switch account"
+	},
+	"twitch.chat.not_connected": {
+		"message": "Not Connected"
+	},
+	"twitch.chat.connected": {
+		"message": "Connected"
+	},
+	"twitch.chat.connect": {
+		"message": "Connect"
+	},
+	"twitch.chat.disconnect": {
+		"message": "Disconnect"
+	},
+	"twitch.chat.channel": {
+		"message": "Channel"
+	},
+	"twitch.chat.error_channel_not_found": {
+		"message": "Please provide a valid channel."
+	},
+	"twitch.chat.display": {
+		"message": "Display"
+	},
+	"twitch.chat.chat_box": {
+		"message": "Chat Box"
+	},
+	"twitch.chat.opacity": {
+		"message": "Opacity"
+	},
+	"twitch.chat.viewers": {
+		"message": "Viewers"
+	},
+	"twitch.chat.message": {
+		"message": "Message"
+	},
+	"twitch.chat.outline_text": {
+		"message": "Outline"
+	},
+	"twitch.chat.text_size": {
+		"message": "Text Size"
+	},
+	"twitch.chat.hide_user_name": {
+		"message": "Hide usernames"
+	},
+	"twitch.chat.hide_timestamp": {
+		"message": "Hide timestamps"
+	},
+	"twitch.chat.hide_user_icons": {
+		"message": "Hide user icons"
+	},
+	"twitch.chat.hide_on_idle": {
+		"message": "Hide chat when idle for"
+	},
+	"twitch.chat.seconds_unit": {
+		"message": " sec"
+	},
+	"twitch.chat.animation_text": {
+		"message": "Animation"
+	},
+	"twitch.chat.animation_direction_text": {
+		"message": "Direction"
+	},
+	"twitch.chat.animation_randomize": {
+		"message": "Randomize"
+	},
+	"twitch.chat.animation_override_settings": {
+		"message": "This section will override manually set display settings."
+	},
+	"twitch.chat.animation_duration": {
+		"message": "Duration"
+	},
+	"twitch.chat.animation_set_duration": {
+		"message": "This will set the time duration of the scrolling animation."
+	},
+	"twitch.chat.animation_text_size": {
+		"message": "Text Size"
+	},
+	"twitch.chat.seconds": {
+		"message": "seconds"
+	},
+	"twitch.chat.animation_text_color": {
+		"message": "Text color"
+	},
+	"twitch.chat.animation_none": {
+		"message": "None"
+	},
+	"twitch.chat.animation_scroll": {
+		"message": "Scroll"
+	},
+	"twitch.chat.animation_scroll_text": {
+		"message": "This will dynamically scroll user chat messages across the screen.[br][br]The best way to display this plugin is to adjust your source to full size view."
+	},
+	"twitch.chat.animation_direction_rightToLeft": {
+		"message": "Right to left"
+	},
+	"twitch.chat.animation_direction_leftToRight": {
+		"message": "Left to right"
+	},
+	"twitch.chat.animation_direction_randomize": {
+		"message": "Randomize"
+	},
+	"twitch.chat.outline_none": {
+		"message": "None"
+	},
+	"twitch.chat.outline_thin": {
+		"message": "Thin"
+	},
+	"twitch.chat.outline_thick": {
+		"message": "Thick"
+	},
+	"twitch.chat.outline_thickest": {
+		"message": "Thickest"
+	},
+	"twitch.chat.blocking": {
+		"message": "Blocking"
+	},
+	"twitch.chat.blockedlist": {
+		"message": "Blocked list"
+	},
+	"twitch.chat.block_help": {
+		"message": "You can block viewers by adding their name or username (including bots, if applicable) in the blocked list so that their messages will not appear in the chat viewer.[br][br]This blocked list is not connected to your channel's blocked list. It only works for this chat source."
+	},
+	"twitch.chat.blocking_name": {
+		"message": "Enter the name or username of the viewer you wish to block."
+	},
+	"twitch.chat.block_name": {
+		"message": "Name"
+	},
+	"twitch.chat.block_add": {
+		"message": "Add"
+	},
+	"twitch.chat.block_remove": {
+		"message": "Remove"
+	},
+	"twitch.chat.preview": {
+		"message": "Preview"
+	}
+}

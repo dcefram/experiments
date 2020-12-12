@@ -1,0 +1,1176 @@
+{
+  "messageDialog.okButton": {
+    "message": "OK"
+  },
+  "messageDialog.yesButton": {
+    "message": "はい"
+  },
+  "messageDialog.noButton": {
+    "message": "いいえ"
+  },
+  "messageDialog.helpButton": {
+    "message": "ヘルプ"
+  },
+  "messageDialog.cancelButton": {
+    "message": "キャンセル"
+  },
+  "messageDialog.abortButton": {
+    "message": "中止"
+  },
+  "messageDialog.retryButton": {
+    "message": "リトライ"
+  },
+  "messageDialog.ignoreButton": {
+    "message": "無視"
+  },
+  "messageDialog.copyButton": {
+    "message": "リンクをコピーする"
+  },
+  "messageDialog.error": {
+    "message": "エラー"
+  },
+  "messageDialog.question": {
+    "message": "確認"
+  },
+  "messageDialog.info": {
+    "message": "info"
+  },
+  "messageDialog.warning": {
+    "message": "Warning"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_GOOGLE_PLUS.title": {
+    "message": "Google+に無事投稿されました"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_GOOGLE_PLUS.message": {
+    "message": "正常にGoogle+に掲載しました。[br][%url%](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_FACEBOOK.title": {
+    "message": "Facebookに無事投稿されました"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_FACEBOOK.message": {
+    "message": "正常にFacebookに掲載しました。[br][View post](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_TWITTER.title": {
+    "message": "Twitterに無事投稿されました"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_TWITTER.message": {
+    "message": "正常にTwitterに掲載しました。[br][View tweet](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_SENT_MESSAGE_ON_TWITTER.title": {
+    "message": "Twitterに無事投稿されました"
+  },
+  "messageDialog.messages.SUCCESSFULLY_SENT_MESSAGE_ON_TWITTER.message": {
+    "message": "Twitterに無事投稿されました",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_PLAYERME.title": {
+    "message": "Player.meに無事投稿されました"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_PLAYERME.message": {
+    "message": "Player.meに無事投稿されました。[br][投稿を見る](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhileStreaming.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhileStreaming.message": {
+    "message": "ストリーミングまたはレコーディング中は、帯域幅をテストできません。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAacLicenseOffer.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgAacLicenseOffer.message": {
+    "message": "AAC LCのサポートは現在ライセンス所有のユーザーのみ利用可能です。[br][br]ライセンスを購入しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver.message": {
+    "message": "AVerMedia c985 Live Gamerキャプチャーカードがワークステーションにインストールされています。ビルドインハードウェアエンコーダを利用可能です。この機能はプレミアムユーザーのみ利用可能です。プレミアムライセンスへのアップグレードを検討して下さい[br][br]ライセンスをアップグレードしますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver1.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver1.message": {
+    "message": "お使いのライセンスではAVerMedia c985 Live Gamerキャプチャーカードビルトインエンコーダの使用許可がありません。デフォルトのX264エンコーダに切り替えます",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qs.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qs.message": {
+    "message": "QuickSyncエンコーダは%licensetype%ライセンス所有のユーザーのみ利用可能です。現在のライセンスのアップグレードを検討して下さい[br][br]ライセンスをアップグレードしますか？\"",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qsext.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qsext.message": {
+    "message": "QuickSyncエンコーダは %licensetype%ライセンス所有のユーザーのみ利用可能です。現在のライセンスのアップグレードを検討して下さい[br][br]ライセンスをアップグレードしますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_AAC.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_AAC.message": {
+    "message": "高品質のAAC オーディオの有効化はライセンス所有のユーザーのみ利用可能です。[br][br]ライセンスをアップグレードしますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.UsernameIsEmpty.message": {
+    "message": "ユーザー名を指定して下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.PasswordIsEmpty.message": {
+    "message": "パスワードを指定する必要があります",
+    "type": "warning"
+  },
+  "messageDialog.messages.StreamChannelIsEmpty.message": {
+    "message": "チャンネルはまだ使用できません。資格情報が正しく入力され、%service%ウェブサイトでチャンネルが適切にコンフィグされているか確認して下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.UsernameIsUnknown.message": {
+    "message": "ユーザー名が不明です",
+    "type": "warning"
+  },
+  "messageDialog.messages.InvalidChannelCredentials.message": {
+    "message": "ユーザーの資格情報を認証中に問題が発生しました。ユーザー名とパスワード、ネットワーク接続が正しいか確認してください",
+    "type": "warning"
+  },
+  "messageDialog.messages.PresetDoesNotExist.message": {
+    "message": "プリセット%preset%が存在しません",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow.message": {
+    "message": "最高ビットレートは%bitrate%kbps以上で設定して下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow_VBR.message": {
+    "message": "最高ビットレートは%bitrate%kbps以上で設定して下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow_CBR.message": {
+    "message": "ビットレートは%bitrate%kbps以上で設定して下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSaveBeforeCloseConfirmation.message": {
+    "message": "このダイアログを閉じる前に変更を保存しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.msgDefaultStageResolutionWarning AVerMedia H.264 Encoder.message": {
+    "message": "この設定はあなたのアカウントに保存されません。ログイン毎に設定する必要があります。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDefaultStageResolutionWarning.message": {
+    "message": "特定のストリーミングの解像度を現在のステージ解像度より、ストリーミング解像度を低く設定することで、様々な解像度で複数のストリーミングを同時に行うことができます。[br][br]デフォルトのステージ解像度で1つのストリーミングを始めた後に、デフォルトより低い解像度で別のストリーミングをセットアップすることが出来ます。[br][br]この設定はログイン毎に設定する必要があります。\n\n",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgChannelResolutionLicenseOffer.message": {
+    "message": "チャンネル出力解像度設定はライセンスを持っているユーザーのみ可能です。[br][br]ライセンスを購入しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.LivestreamUrlIsEmpty.title": {
+    "message": "IPカメラ/RTSPストリームの追加"
+  },
+  "messageDialog.messages.LivestreamUrlIsEmpty.message": {
+    "message": "URL を指定してください",
+    "type": "warning"
+  },
+  "messageDialog.messages.LivestreamUrlIsInvalid.title": {
+    "message": "IPカメラ/RTSPストリームの追加"
+  },
+  "messageDialog.messages.LivestreamUrlIsInvalid.message": {
+    "message": "URL が無効です",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhenAlreadyStreaming.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhenAlreadyStreaming.message": {
+    "message": "ストリーミング中は帯域幅をテストできません。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgErrorSavingSettings.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.msgErrorSavingSettings.message": {
+    "message": "設定の保存中に問題が発生しました",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCreateYouTubeChannel.title": {
+    "message": "YouTubeチャンネルを作成しますか？"
+  },
+  "messageDialog.messages.msgCreateYouTubeChannel.message": {
+    "message": "YouTubeに既にログインしていますが、チャンネルがありません。チャンネルを作成しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.msgEnsureNotSuspended.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgEnsureNotSuspended.message": {
+    "message": "適切なアカウント情報を取得できません。アカウントが停止していないか確認して下さい",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGamesourceBuyXSplitOffer.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgGamesourceBuyXSplitOffer.message": {
+    "message": "XSplitゲームソースはDirectXやOpenGLのゲームをスクリーンキャプチャー無しで、直接キャプチャすることが可能です。[br]この機能はライセンス所有のユーザーにのみ開放されています。[br][br]OKをクリックして、XSplitライセンスを入手し、メディアプレイヤーの動画やゲームを直接キャプチャして下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUsernameIsInvalid.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.msgUsernameIsInvalid.message": {
+    "message": "プロフィールタブで指定されるスクリーン名は最低4文字以上の必要があります(英数字、ドット、ダッシュ)",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidScreenName.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.msgInvalidScreenName.message": {
+    "message": "スクリーン名が無効です。アルファベット、ハイフン(-)、ドット(.)のみ使用可能です。他の文字のサポートは現在取り組み中です。ハイフンとドットは、最初または最後の文字には使用できません",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation5.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.msgRegistrationValidation5.message": {
+    "message": "プロフィールタブで指定されている生年月日は無効です",
+    "type": "warning"
+  },
+  "messageDialog.messages.FeatureIsNotSupportedByOS.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.FeatureIsNotSupportedByOS.message": {
+    "message": "このオプションは、お使いのオペレーティングシステムにサポートされていません",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDisallowDisableAeroTheme.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.msgDisallowDisableAeroTheme.message": {
+    "message": "Windows7とVistaではレイヤードウィンドウは、Aeroテーマが有効の時に常にキャプチャーされます。XSplitでAeroテーマを無効にすることを許可しない場合は、スクリーンキャプチャソースのオプションが、正常に効果を発揮しない場合があります。[br][br]続行しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.msgVideoUploading.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.msgVideoUploading.message": {
+    "message": "その操作はアップロード中に実行できません。後ほど再試行して下さい。",
+    "type": "error"
+  },
+  "messageDialog.messages.MicIsStereoMixCapable.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.MicIsStereoMixCapable.message": {
+    "message": "選択したマイクはスピーカーのアウトプットを既にキャプチャー出来るかもしれません。ブロードキャストにサウンドの問題を引き起こす可能性があります。もし問題が起これば、ブロードキャストのスピーカーをミュートにして下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSaveAV_Failed.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.msgSaveAV_Failed.message": {
+    "message": "オーディオ/ビデオ設定の保存に失敗しました",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRegistrationValidation1.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.msgRegistrationValidation1.message": {
+    "message": "スクリーン名変更のリクエストは、名前が空白の為、拒否されました",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation7.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.msgRegistrationValidation7.message": {
+    "message": "本名欄を空白にしないで下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation9.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.msgRegistrationValidation9.message": {
+    "message": "あなたの国を空白にしないで下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation4.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.msgRegistrationValidation4.message": {
+    "message": "あなたの誕生日として今日の日付より前の日付を選択してください。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSettingsValidation7.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.msgSettingsValidation7.message": {
+    "message": "あなたの設定は無効です。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSettingsSaved_SyncFailed.title": {
+    "message": "XSplit Broadcaster -一般設定"
+  },
+  "messageDialog.messages.msgSettingsSaved_SyncFailed.message": {
+    "message": "あなたの設定をサーバーと同期中にエラーが発生しました。 %serverResponse%設定はローカルで保存されます。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDuplicateUsername.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgDuplicateUsername.message": {
+    "message": "そのスクリーン名は既に使用されています。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgProfileSyncFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgProfileSyncFailed.message": {
+    "message": "\"以前のプロフィール設定のリクエストは拒否されました[br][br]%exception%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCurrentResolutionIsNotSupported3.title": {
+    "message": "カスタム解像度"
+  },
+  "messageDialog.messages.msgCurrentResolutionIsNotSupported3.message": {
+    "message": "XSplitはXPシステムの %resolution%以下のステージ解像度をサポートしていません。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgShareFailed.title": {
+    "message": "共有失敗"
+  },
+  "messageDialog.messages.msgShareFailed.message": {
+    "message": "\"ストリーミングは無事%service%に投稿されました[br][br]%reason%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgNoNetHasLocal.title": {
+    "message": "ログイン"
+  },
+  "messageDialog.messages.msgNoNetHasLocal.message": {
+    "message": "XSplitはインターネット接続を検出出来ませんでした。ログインは可能ですが、いくつかの機能はインターネット接続を要求します。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSrvFailedHasLocal.title": {
+    "message": "ログイン"
+  },
+  "messageDialog.messages.msgSrvFailedHasLocal.message": {
+    "message": "XSplitはサーバーに接続出来ませんでした。オフラインモードでのログインを続行します。XSplitサーバーへの接続を要求しないほとんどの機能が使用できます。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSrvFailedNoLocal.title": {
+    "message": "ログイン"
+  },
+  "messageDialog.messages.msgSrvFailedNoLocal.message": {
+    "message": "XSplitはサーバーに接続出来ませんでした。このコンピューターで初めてログインする場合はXSplitサーバーへの接続が必要です。後で再試行して下さい。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLoginToServerException.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLoginToServerException.message": {
+    "message": "XSplitにログインするにはオンラインになる必要があります",
+    "type": "info"
+  },
+  "messageDialog.messages.msgLoginToServerException1.message": {
+    "message": "パスワードが有効であると認識されていません。パスワードを再入力してください。別のコンピュータやオンラインでこのアカウントのパスワードを変更した可能性があります。アプリケーションが、あなたのパスワードがXSplitサーバーのパスワードに同期されていることを確実にするために、インターネットに接続されているか確認してください",
+    "type": "info"
+  },
+  "messageDialog.messages.activationReminderText.title": {
+    "message": "確認"
+  },
+  "messageDialog.messages.activationReminderText.message": {
+    "message": "アカウントをアクティベートして下さい。アクティベートのリンクが記載されたメールを送信しました。[br][br]再送信を希望しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.msgUpdateCheckNone.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgUpdateCheckNone.message": {
+    "message": "アップデートが検出されませんでした。お使いのアカウントでログインして下さい",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedPlugins.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgUpdatedPlugins.message": {
+    "message": "XSplitはアップデート可能なプラグインを検出しました[br][br]%pluginlist%[br][br]OKを押してこれらのアップデートをインストールして下さい",
+    "type": "question"
+  },
+  "messageDialog.messages.msgAddinInstallationFailed.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgAddinInstallationFailed.message": {
+    "message": "プラグインのインストールは途中で終了しました。不要な動作を回避する 為にXSplit を再起動してください。[br][br]XSplit を終了します。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAddinInstallRestartFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgAddinInstallRestartFailed.message": {
+    "message": "XSplit を再起動することができません。タスク マネージャーを開き、XSplitが起動していれば終了して下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdateCheckFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgUpdateCheckFailed.message": {
+    "message": "アップデートが確認できません。次回ログイン時に再試行します",
+    "type": "warning"
+  },
+  "messageDialog.messages.FailureCreatingNonExistingFolder.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.FailureCreatingNonExistingFolder.message": {
+    "message": "フォルダー%folder%. %exception%を作成できません",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAddinLoadedFromPreviousSession.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgAddinLoadedFromPreviousSession.message": {
+    "message": "現在のXSplitセッションに読み込まれたいくつかのプラグインはユーザーアカウントで使用できません。アカウントに関連付けられたプラグインを再読み込みするには、XSplitを再起動して下さい。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgD3DGearInstalled.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgD3DGearInstalled.message": {
+    "message": "D3DGearがお使いのシステムにインストールされています。このアプリケーションがインストールされているとXSplitを起動できません。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgD3DGearRunning.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgD3DGearRunning.message": {
+    "message": "D3DGearを実行しています。このアプリケーションの実行中はXSplitを起動できません。XSplitを実行する際に、ゲームをキャプチャーする他のアプリケーションを実行しないで下さい。",
+    "type": "error"
+  },
+  "messageDialog.messages.NicoProps.UsernameIsEmpty.title": {
+    "message": "ニコ動ライブ"
+  },
+  "messageDialog.messages.NicoProps.UsernameIsEmpty.message": {
+    "message": "メールアドレスを指定して下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.StreamChannelIsEmpty.title": {
+    "message": "Twitchプロパティ"
+  },
+  "messageDialog.messages.frmTwitchProps.StreamChannelIsEmpty.message": {
+    "message": "チャンネルが利用可能でないかアクセスコードがプロテクトされています。認証情報の入力、アクセスコードの有無、チャンネルプロパティのコンフィグがTwitchのウェブサイトで適切に行われているか確認して下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmFc2.StreamChannelIsEmpty.title": {
+    "message": "FC2ライブプロパティ"
+  },
+  "messageDialog.messages.frmFc2.StreamChannelIsEmpty.message": {
+    "message": "チャンネルは使用可能でありません。FC2ライブサービスがアカウントに追加されているか確認して下さい。",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustinTVProps.StreamChannelIsEmpty.title": {
+    "message": "Justin.tvプロパティ"
+  },
+  "messageDialog.messages.frmJustinTVProps.StreamChannelIsEmpty.message": {
+    "message": "チャンネルが利用可能でないかアクセスコードがプロテクトされています。認証情報の入力、アクセスコードの有無、チャンネルプロパティのコンフィグがTwitchのウェブサイトで適切に行われているか確認して下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmhitboxProps.StreamChannelIsEmpty.title": {
+    "message": "Hitbox"
+  },
+  "messageDialog.messages.frmhitboxProps.StreamChannelIsEmpty.message": {
+    "message": "チャンネルが利用可能でないかアクセスコードがプロテクトされています。ライブストリーミングが適切に設定されているか、ストリーミングキー/承認情報が正しく入力されているか、Hitboxウェブサイトでチャンネルが適切にコンフィグされているか確認して下さい。",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmhitboxProps.UsernameAndPasswordMismatch.title": {
+    "message": "Hitbox"
+  },
+  "messageDialog.messages.frmhitboxProps.UsernameAndPasswordMismatch.message": {
+    "message": "ユーザー名とパスワードが一致しません。",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidUsername.title": {
+    "message": "Twitchプロパティ"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidUsername.message": {
+    "message": "有効なTwitchのユーザー名を指定して下さい。ユーザー名がチャンネル名や共有リンクに使用されます。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAuthorizeAccountFirst.message": {
+    "message": "最初にアカウントを承認してください",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgConfirmAccountDeauthorization.message": {
+    "message": "このオプションを選択すると、現在のアカウントを非承認にします",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_StartStream.message": {
+    "message": "%service%は無料のストリーミングサービスを提供していません。%service%にストリーミングするにはXSplitのライセンスが必要です[br][br]ライセンスをアップグレードしますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleMaxCharsExceeded.title": {
+    "message": "YouTubeライブプロパティ"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleMaxCharsExceeded.message": {
+    "message": "タイトルの長さは100文字以内で設定して下さい(現在%length%)",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleHasInvalidChars.title": {
+    "message": "YouTubeライブプロパティ"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleHasInvalidChars.message": {
+    "message": "タイトルに'<' and '>'を使用することは出来ません",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescMaxCharsExceeded.title": {
+    "message": "YouTubeライブプロパティ"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescMaxCharsExceeded.message": {
+    "message": "説明は5000文字以内で入力してください(現在%length%)",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescHasInvalidChars.title": {
+    "message": "YouTubeライブプロパティ"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescHasInvalidChars.message": {
+    "message": "説明に'<' and '>'を使用することは出来ません",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsMaxCharsExceeded.title": {
+    "message": "YouTubeライブプロパティ"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsMaxCharsExceeded.message": {
+    "message": "タグの合計は500文字以内で入力してください(現在%length%)",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsHasInvalidChars.title": {
+    "message": "YouTubeライブプロパティ"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsHasInvalidChars.message": {
+    "message": "タグに'<' and '>'を使用することは出来ません",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagMaxCharsExceeded.title": {
+    "message": "YouTubeライブプロパティ"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagMaxCharsExceeded.message": {
+    "message": "タグ '%tag%' はYouTubeに要求された30文字制限を越えています。",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.EmailIsInvalid.title": {
+    "message": "YouTubeライブプロパティ"
+  },
+  "messageDialog.messages.frmYouTubeLive.EmailIsInvalid.message": {
+    "message": "有効な電子メール アドレスを入力してください",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgApiError.title": {
+    "message": "YouTubeライブプロパティ"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgApiError.message": {
+    "message": "YouTube Live APIにアクセスの際にエラーが発生しました。YouTube Liveにアクセス出来ないかもしれません",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgServerError.title": {
+    "message": "YouTubeライブプロパティ"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgServerError.message": {
+    "message": "YouTubeライブサーバーに通信の際に問題が発生しました。ネットワークの問題があるか、YouTube Liveにアクセスできないかもしれません",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleIsEmpty.title": {
+    "message": "YouTubeライブプロパティ"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleIsEmpty.message": {
+    "message": "タイトルを入力して下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustTVProps.UsernameIsUnknown.message": {
+    "message": "チャンネルが利用可能でないかアクセスコードがプロテクトされています。認証情報の入力、アクセスコードの有無、チャンネルプロパティのコンフィグがJustin.tvのウェブサイトで適切に行われているか確認して下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.UsernameIsUnknown.title": {
+    "message": "Twitchプロパティ"
+  },
+  "messageDialog.messages.frmTwitchProps.UsernameIsUnknown.message": {
+    "message": "チャンネルが利用可能でないかアクセスコードがプロテクトされています。認証情報の入力、アクセスコードの有無、チャンネルプロパティのコンフィグがTwitchのウェブサイトで適切に行われているか確認して下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustinTVProps.InvalidChannelCredentials.title": {
+    "message": "Justin.tvプロパティ"
+  },
+  "messageDialog.messages.frmJustinTVProps.InvalidChannelCredentials.message": {
+    "message": "ユーザーの資格情報を認証中に問題が発生しました。Justin.tv認証サービスの動作が遅くなっている可能性があります。再試行するか、ユーザー名、パスワード、Justin.tvへのインターネット接続が適切か確認してください",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidChannelCredentials.title": {
+    "message": "Twitchプロパティ"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidChannelCredentials.message": {
+    "message": "ユーザーの資格情報を認証中に問題が発生しました。ユーザー名、パスワードが正しいか、チャンネルのアクセスコードがプロテクトされていないか、Twitchへのインターネット接続が適切か確認してください",
+    "type": "warning"
+  },
+  "messageDialog.messages.RECORDING_FILE_DELETE.title": {
+    "message": "XSplit Broadcaster - レコーディング"
+  },
+  "messageDialog.messages.RECORDING_FILE_DELETE.message": {
+    "message": "**%file%**を本当に削除しても構いませんか?",
+    "type": "question"
+  },
+  "messageDialog.messages.REPAIR_FILE.title": {
+    "message": "破損したファイルを修復する"
+  },
+  "messageDialog.messages.REPAIR_FILE.message": {
+    "message": "**%file%** を本当に修復しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.CONVERT_VIDEO_TO_MP4.title": {
+    "message": "動画をMP4に変換する",
+    "type": "question"
+  },
+  "messageDialog.messages.CONVERT_VIDEO_TO_MP4.message": {
+    "message": "**%filename%** を本当にMP4に変換しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.RECORDING_FILE_UNABLE_TO_DELETE.title": {
+    "message": "XSplit Broadcaster - レコーディング"
+  },
+  "messageDialog.messages.RECORDING_FILE_UNABLE_TO_DELETE.message": {
+    "message": "%file%が使用されている為、削除できませんでした。",
+    "type": "warning"
+  },
+  "messageDialog.messages.FUNCTION_NOT_AVAIL_NOINTERNET.title": {
+    "message": "利用不可能な機能です",
+    "type": "error"
+  },
+  "messageDialog.messages.FUNCTION_NOT_AVAIL_NOINTERNET.message": {
+    "message": "インターネット接続が無いためこの機能は利用できません"
+  },
+  "messageDialog.messages.msgLoginValidation1.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLoginValidation1.message": {
+    "message": "メールアドレス欄を空白にしないで下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidEmail.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgInvalidEmail.message": {
+    "message": "メールの形式が正しくありません。アルファベット、数字、ドット、ダッシュ、アンダーバーのみ使用可能です",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLoginValidation2.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLoginValidation2.message": {
+    "message": "パスワードを空白にしないで下さい",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxFailedLogin.title": {
+    "message": "ログイン失敗が最大数に達しました"
+  },
+  "messageDialog.messages.msgMaxFailedLogin.message": {
+    "message": "XSplit Broadcasterを再起動して再度ログインして下さい。",
+    "type": "error"
+  },
+  "messageDialog.messages.servermessage_fdisdesc.message": {
+    "message": "あなたのアカウントは現在別のアカウントにログインしています。同時には複数のコンピューターからログイン出来ないため、このクライアントからログアウトします。ログインするには資格情報を再入力して下さい。この操作は別のコンピューターのアカウントからログアウトするため、現在のストリーミングは停止されますのでご注意下さい",
+    "type": "error"
+  },
+  "messageDialog.messages.servermessage_dlogdesc.message": {
+    "message": "お使いのアカウントは現在別のコンピューターにログインしています。ログインするには資格情報を再入力して下さい。この操作は別のコンピューターのアカウントからログアウトするため、現在のストリーミングは停止されますのでご注意下さい",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantRegisterOffline.message": {
+    "message": "オフラインモードでは登録できません。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgLoginFailedRecentAccount.message": {
+    "message": "最近登録したアカウントでログインできませんでした。再度お試しください。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgSavePresentation.message": {
+    "message": "現在のプレゼンテーションの変更を保存しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.msgSavePresentationBeforeLoad.message": {
+    "message": "ファイルをロードする前に現在のプレゼンテーションの変更を保存しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.msgMaxFps.message": {
+    "message": "許容される最大のフレーム レートは %maxfps% FPS です。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgVeryHighFps.message": {
+    "message": "このFPSの設定は高性能コンピューターが必要となります。ご自身の責任で続行してください。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgGameComponentUpdate.message": {
+    "message": "XSplit Broadcasterをゲームキャプチャーコンポーネントのアップデートを完了する為に再起動する必要があります",
+    "type": "info"
+  },
+  "messageDialog.messages.msgGameComponentUpdateFailed.message": {
+    "message": "XSplit Broadcasterはゲームキャプチャーコンポーネントをアップデートする必要があります。システムメモリーに読み込まれている旧式のコンポーネントがアップデートを防いでいます。コンピュータを再起動しXSplit Broadcasterを起動してください。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGameComponentUpdateUnusualBehaviour.message": {
+    "message": "XSplit Broadcasterはゲームキャプチャーコンポーネントの読み込みの際に、異常な挙動を検出しました。再試行するか、コンピューターを再起動してシステムメモリーをリセットして下さい。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGameComponentUpdateTerminateXGCQuestion.message": {
+    "message": "XSplit Broadcasterがゲームキャプチャーコンポーネントを更新する必要がありますが、XSplit Gamecasterの起動中は実行できません。続行する場合XSplit Gamecasterを停止します。\n続行しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.msgGameComponentUpdateRestart.message": {
+    "message": "XSplit Broadcasterがゲームキャプチャーコンポーネントを更新する必要がありますが、XSplit Gamecasterの起動中は実行できません。XSplit Gamecaster を閉じて、XSplit Broadcasterを再度起動してください。",
+    "type": "error"
+  },
+  "messageDialog.messages.RtmpUrlIsEmpty.message": {
+    "message": "RTMPのURL を指定する必要があります。",
+    "type": "warning"
+  },
+  "messageDialog.messages.RtmpUrlIsInvalid.message": {
+    "message": "RTMPのURLが無効です",
+    "type": "warning"
+  },
+  "messageDialog.messages.ChannelNameIsEmpty.message": {
+    "message": "チャンネル名を指定する必要があります",
+    "type": "warning"
+  },
+  "messageDialog.messages.InvalidCharactersInChannelName.message": {
+    "message": "チャンネル名には無効な文字が含まれています。",
+    "type": "warning"
+  },
+  "messageDialog.messages.StreamNameIsEmpty.message": {
+    "message": "ストリーミング名を指定する必要があります",
+    "type": "warning"
+  },
+  "messageDialog.messages.ShareLinkIsInvalid.message": {
+    "message": "シェアリンクが無効です",
+    "type": "warning"
+  },
+  "messageDialog.messages.CloseDelay.message": {
+    "message": "遅延サーバーを閉じる事ですべてのプロキシされている放送が停止します。続行しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.EnableEVR.message": {
+    "message": "このオプションを選択する事は、副作用が起こりうる可能性がある為、お勧めできません。一部のユーザーから EVR (Microsoft Enhanced Video Renderer) を使用する事で Roxio Game Capture HDを含む一部のキャプチャカードのスローモーション問題が解決されたと報告がありました。この設定を変更した後は XSplit Broadcaster を再起動してください。EVRを有効にしますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.SystemSoundNotDefaultSpeakers.message": {
+    "message": "システムサウンドを%defaultSpeakers%に設定しないと、生放送や録画でアプリケーションやゲームから音が聞こえなくなります。",
+    "type": "warning"
+  },
+  "messageDialog.messages.PostRegisterFailed.message": {
+    "message": "正常に新しいユーザーアカウントを登録した後にエラーが発生しました。",
+    "type": "error"
+  },
+  "messageDialog.messages.RegisterFailed.message": {
+    "message": "新しいユーザーアカウントを登録できません。",
+    "type": "error"
+  },
+  "messageDialog.messages.RestartLogin.message": {
+    "message": "XSplit Broadcasterを再起動して再度ログインして下さい。",
+    "type": "error"
+  },
+  "messageDialog.messages.LogoutWhileRecording.message": {
+    "message": "レコーディングを現在アップロード中ですが、ログアウト/終了してもよろしいでしょうか？",
+    "type": "question"
+  },
+  "messageDialog.messages.PortBlocked.message": {
+    "message": "XSPlit Broadcasterはport TCP/443がブロックされていることを検出しました。%serviceName%の承認にはport TCP/443の解除が必要です。詳細はこちらをクリックしてください[here](http://xspl.it/how-to-unblock-port-443)。[br][br]もしport TCP/443を開く事ができなければ、CustomRTMPとストリームキーを利用してのストリーミングが可能かもしれません",
+    "type": "warning"
+  },
+  "messageDialog.messages.NoInternetPortBlocked.message": {
+    "message": "%serviceName%にXSplit Broadcasterが接続できないようです。%serviceName%を承認するにはインターネット接続とPort TCP/433の解除をする必要があります。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgEnableD3D.message": {
+    "message": "ウィンドウを作成できません。Direct3dアクセラレータを有効にしてください。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgAmdEnduroWarning.message": {
+    "message": "AMD Enduro&trade; technology switchable graphicsを使用して、「高パフォーマンス」モードを使用するようXSplit Boradcasterを設定いたしました。ドライバーの制限の為、このモードはサポートされておりません。「省電力モード」を変わりに使用する事をおすすめします。[br]こちらで詳細を確認する事ができます：[ブログ](https://xspl.it/ktvgqc)",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantRemoveResolution.message": {
+    "message": "選択した解像度は削除できません。まずは別の解像度を選択して下さい。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRecordingsAbortedOnInsufficientDiskSpace.message": {
+    "message": "レコーディングが開始できません。少なくとも%minFreeSpace%以上の空き容量があるか確認して下さい",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantCreateRecordingFile.message": {
+    "message": "レコーディングファイルを '%folder%'に保存できません。そのフォルダに記録を行う権限があるか確認して下さい。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantCreateRecordingOutDir.message": {
+    "message": "レコーディングディレクトリを作成できません '%folder%'。自分で作成するかレコーディングを再度行って下さい",
+    "type": "error"
+  },
+  "messageDialog.messages.msgMp4requiresAac.message": {
+    "message": "MP4にはAACコーデックのみ許可されています。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRecordingPathIsTooLong.message": {
+    "message": "レコーディングパス%path%が長すぎます。レコーディングパスを短く設定して下さい。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStreamingIsPrevented.message": {
+    "message": "現在、生放送を行うことができません。再度ログインしてください。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgStreamingWhileOfflineIsNotAllowed.message": {
+    "message": "オフラインでログインしたましたが、オンラインと表示されております。続行するには再度ログインしてください。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgMixerFpsNotSupportedByVideoCodec.message": {
+    "message": "%codec%は次のFPSのエンコードのみサポートしております：[br][br]%fpslist%。[br][br]フレームレートメニューで出力フレームレートを合わせて下さい。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgVideoCodecMaxEncodeLimited.message": {
+    "message": "現在、%codec%は最大同時で%maxEncode%の同時エンコードのみサポートしています。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgPausedRecordingWarning1.message": {
+    "message": "現在行っている録画が一時停止されました。録画を再開する場合は、%broadcast%メニューの%resumeRecording%をクリックしてください。[br][br]録画を停止しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.msgPausedRecordingWarning.message": {
+    "message": "現在行っている録画が一時停止されました。録画を再開する場合は、%hotkey%を押してください。[br][br]録画を停止しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.ResolutionAlreadyExists.message": {
+    "message": "解像度 %width% x %height% は既に存在します。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidFramerate.message": {
+    "message": "無効なフレーム レート",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgHighFps.message": {
+    "message": "このFPSの設定は高性能コンピューターが必要となります。ご自身の責任で続行してください。",
+    "type": "warning"
+  },
+  "messageDialog.messages.ChannelNameAlreadyExists.message": {
+    "message": "%channel% は既に存在しています",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantDeleteChannel.message": {
+    "message": "チャンネルを削除出来ません",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedSourcePlugins.message": {
+    "message": "ソースプラグインの最新版が見つかりました：[br][br]%pluginlist%[br][br] 影響受けたプラグインにアクセス件を再度許可する必要があります。[br][br] OKをクリックして最新版をインストールしてください。XSplitを再起動する必要はございません。",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePlugins_npw.message": {
+    "message": "XSplitのソースプラグインがアップデート可能です。[br][br]%pluginlist%[br][br] OKを押してプラグインをインストールして下さい。インストールの際、XSplitは再起動する必要はありません。",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePluginsXbc5003.message": {
+    "message": "ソースの最新版が見つかりました：[br][br]%pluginlist%[br][br] 影響受けたプラグインにアクセス件を再度許可する必要があります。[br][br] OKをクリックして最新版をインストールしてください。XSplitを再起動する必要はございません。",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePluginsXbc5003_npw.message": {
+    "message": "XSplitのソースがアップデート可能です。[br][br]%pluginlist%[br][br] OKを押してプラグインをインストールして下さい。アップデートの際、XSplitは再起動は必要ありません",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePlugins.message": {
+    "message": "現在の使用されているXSplitが以下のソースプラグインに対応していない事が確認されました： [br][br]%pluginlist%[br][br] 影響受けたプラグインにアクセス件を再度許可する必要があります。[br][br] OKをクリックして最新版をインストールしてください。XSplitを再起動する必要はございません。",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePlugins_npw.message": {
+    "message": "XSplitはインストールされている次のプラグインと互換性がありません。[br][br]%pluginlist%[br][br]OKを押して、互換性のあるプラグインをインストールして下さい。アップデートの際、XSplitは再起動は必要ありません",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsXbc5003.message": {
+    "message": "現在の使用されているXSplitが以下のソースに対応していない事が確認されました： [br][br]%pluginlist%[br][br] 影響受けたプラグインにアクセス件を再度許可する必要があります。[br][br] OKをクリックして最新版をインストールしてください。XSplitを再起動する必要はございません。",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsXbc5003_npw.message": {
+    "message": "このバージョンのXSplitはインストールされている次のソースと互換性がありません：[br][br]%pluginlist%[br][br]OKを押して、互換性のあるソースをインストールして下さい。アップデートの際、XSplitは再起動は必要ありません",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsInStage.message": {
+    "message": "XSplitは次のソースプラグインを現在のプレゼンテーションで検出しましたが、このバージョンのXSplitと互換性がありません。[br][br]%pluginlist%[br][br]OKを押してこれらの物を現在のプレゼンテーションから削除して下さい。現在のプレゼンテーションを削除する前に保存することも出来ます。",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsInStageXbc5003.message": {
+    "message": "XSplitは次のソースを現在のプレゼンテーションで検出しましたが、このバージョンのXSplitと互換性がありません。[br][br]%pluginlist%[br][br]OKを押してこれらの物を現在のプレゼンテーションから削除して下さい。現在のプレゼンテーションを削除する前に保存することも出来ます。",
+    "type": "info"
+  },
+  "messageDialog.messages.msgInvalidTransitionTime.message": {
+    "message": "無効な切り替え速度",
+    "type": "error"
+  },
+  "messageDialog.messages.PreviewMain_unableToCreateWindow.message": {
+    "message": "プレビューウィンドウを作成する事ができませんでした。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgHotKeyRegException6.message": {
+    "message": "次のホットキーは修飾キー(Control, Shift, Alt)との組み合わせのみ割り当て可能です[br][br]%hotkeys%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgHotKeyRegException5.message": {
+    "message": "同じ組み合わせのホットキーはできません[br][br]%hotkeys%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantEditActiveRecording.message": {
+    "message": "ローカルでレコーディング中は設定を編集できません。"
+  },
+  "messageDialog.messages.msgFlashConfigLoadFailure.message": {
+    "message": "コンフィグダイアログの読み込みに失敗しました: %exceptionMessage%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgFlashAxFailure.message": {
+    "message": "Windows Internet ExplorerのFlash Playerとの作動に失敗しました: %failMessage%"
+  },
+  "messageDialog.messages.msgFlashAxNotInstalled.message": {
+    "message": "Internet Explorerの最新のFlash Playerがこの機能には必要です"
+  },
+  "messageDialog.messages.msgSourceHandlerIsMissing.message": {
+    "message": "ソースハンドラーがありません。"
+  },
+  "messageDialog.messages.msgSourceConfigurationHandlerIsMissing.message": {
+    "message": "コンフィグハンドラーがありません"
+  },
+  "messageDialog.messages.msgCantEditActiveStream.message": {
+    "message": "ストリーミング中は設定を編集できません。"
+  },
+  "messageDialog.messages.msgLogSystemInformation.message": {
+    "message": "XSplit にOS、プロセッサー、グラフィックカードの種類などの情報の記録を許可する事をお勧めします。この事により私たちの開発チームが技術的問題の解決、バグ報告やフォーラム記事にサポートチームに対応しやすく為の情報共有などの手助けになります。[br][br]この設定を有効のままにしますか？"
+  },
+  "messageDialog.messages.msgGlobalScriptWarning.message": {
+    "message": "信頼できるソースのスクリプトのみを追加する事をお勧めします。悪質なスクリプトはPCに害を及ぼす恐れがあります。このリスクを理解して尚続行する場合は「OK」をクリックしてください。"
+  },
+  "messageDialog.messages.msgEVRWarning.message": {
+    "message": "プロダクションには推奨されていないカスタム/試作 exe パラメーターを使用しています。"
+  },
+  "messageDialog.messages.INVALID_USER_TOKEN.message": {
+    "message": "無効なトークンの為、機能が有効でありません。ログインを再度お試しください。"
+  },
+  "messageDialog.messages.DATABASE_ERROR_WAIT_TIMEOUT.title": {
+    "message": "エラー"
+  },
+  "messageDialog.messages.DATABASE_ERROR_WAIT_TIMEOUT.message": {
+    "message": "XSplit 共有データベース ファイルにアクセスできませんでした、別の XSplit の作業によって使用されている可能性があります。作業がファイルを使用し終わるまで待つか、作業を終了させ、再度ログインしてください。",
+    "type": "error"
+  },
+  "messageDialog.messages.DATABASE_ERROR_INITIALIZATION.title": {
+    "message": "エラー"
+  },
+  "messageDialog.messages.DATABASE_ERROR_INITIALIZATION.message": {
+    "message": "XSplit共有データベースの初期化が予期せず停止しました。再度ログインしてください。",
+    "type": "error"
+  },
+  "messageDialog.messages.ENABLE_SCRIPT_SECURITY.title": {
+    "message": "続行する前に注意してお読みください。"
+  },
+  "messageDialog.messages.ENABLE_SCRIPT_SECURITY.message": {
+    "message": "この設定を解除する前にすべてのソースや拡張機能が信頼できるソースである事をご確認ください。悪質なスクリプトは様々な方法でコンピューターに害を及ぼす可能性があります。リスクを承知で続行する場合は「OK」をクリックしてください。",
+    "type": "warning"
+  },
+  "messageDialog.messages.ALLOW_EXECUTE_SCRIPT.message": {
+    "message": "信頼できるソースのスクリプトのみを追加する事をお勧めします。悪質なスクリプトはPCに害を及ぼす恐れがあります。このリスクを理解して尚続行する場合は「OK」をクリックしてください。",
+    "type": "warning"
+  },
+  "messageDialog.checkbox.faststart": {
+    "message": "Web 用に最適化します。"
+  },
+  "messageDialog.messages.msgFullnameIsInvalid.message": {
+    "message": "名前は6文字から50文字の間で入力して下さい"
+  },
+  "messageDialog.messages.msgSocialLoginIsTemporarilyDisabled.message": {
+    "message": "ソーシャルメディアの情報を使用してのログインはv2.7のパブリックリリースで利用可能になります。",
+    "type": "info"
+  },
+  "messageDialog.messages.msgNoLogoutFromSteam.message": {
+    "message": "Unable to log out when using Steam account.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgInvalidSteamAccountInfo.message": {
+    "message": "Current Steam account login info is no longer valid, please re-login again.%message2%",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdateUsingSteamClientApp.message": {
+    "message": "Please update using the Steam client application.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUnableToLoginAccount_Social.message": {
+    "message": "SNSアカウントにログインする事ができませんでした。%message2%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUnableToLoginAccount_Steam.message": {
+    "message": "Unable to log in to your Steam account.%message2%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgOutdatedExtensions.message": {
+    "message": "現在の使用されているXSplitが以下の拡張機能に対応していない事が確認されました： [br][br]%pluginlist%[br][br] 影響受けたプラグインにアクセス件を再度許可する必要があります。[br][br] OKをクリックして最新版をインストールしてください。XSplitを再起動する必要はございません。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgOutdatedExtensions_npw.message": {
+    "message": "XSplitはインストールされている次の拡張機能と互換性がありません。[br][br]%pluginlist%[br][br]OKを押して、互換性のある拡張機能をインストールして下さい。アップデートの際、XSplitは再起動は必要ありません",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedExtensions.message": {
+    "message": "拡張機能の最新版が見つかりました：[br][br]%pluginlist%[br][br] 影響受けたプラグインにアクセス件を再度許可する必要があります。[br][br] OKをクリックして最新版をインストールしてください。XSplitを再起動する必要はございません。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedExtensions_npw.message": {
+    "message": "XSplitの拡張機能がアップデート可能です。[br][br]%pluginlist%[br][br] OKを押すと更新する事ができます。アップデートの際、XSplitは再起動は必要ありません",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCoreDllNotRegistered.message": {
+    "message": "重要なWindows DLLが登録されていないのを発見いたしました。この問題の詳細に関しては [こちら](https://xspl.it/3lcf8n) をご確認ください。既にこの問題をXSplitが解決する様試みましたが、念のためにシステムファイルを確認し、修正が必要な箇所がないか確認する事をお勧めします。[br][br]OKを押すとXSplitにWindows System File Checkerを起動する許可を与えます。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCoreDllNotRegistered2.message": {
+    "message": "XSplitが重要なWindows DLLが登録されていないのを発見いたしました。この問題の詳細に関しては [こちら](https://xspl.it/3lcf8n) をご確認ください。既にこの問題をXSplitが解決する様試みましたが、念のためにシステムファイルを確認し、修正が必要な箇所がないか確認する為にWindows System File Checkerを使用する事をお勧めします。詳細は [こちら](https://xspl.it/1rte7x) をご確認ください。",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCoreDllNotOK.message": {
+    "message": "XSplitが重要のWindows DLLがインテグリティチェックを通らない事を発見しました。インテグリティチェックが通らないと [こちら](https://xspl.it/3lcf8n) の様な問題が起こる可能性があります。[br][br]念のためにシステムファイルを確認し、修正が必要な箇所がないか確認する為にWindows System File Checkerを使用する事をお勧めします。詳細は [こちら](https://xspl.it/1rte7x) をご確認ください。",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_CANNOT_OPEN_MULTIPLE_XVE.title": {
+    "message": "エラー",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_CANNOT_OPEN_MULTIPLE_XVE.message": {
+    "message": "エクスプレスビデオエディタでは同時に１つのインスタンスのみサポートされております。XSplit Gamecasterで開かれているインスタンスを閉じてください。"
+  },
+  "messageDialog.messages.ERROR_MISSING_REQUIRED_PREREQ.title": {
+    "message": "エラー",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_REQUIRED_PREREQ.message": {
+    "message": "起動に必要なこれらの物が不足しています：[br][br]%value%[br]これからXSplit Broadcasterを閉じますので、必要なものをインストールした後に再起動してください。"
+  },
+  "messageDialog.messages.ERROR_MISSING_VCE_PREREQ.title": {
+    "message": "エラー",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_VCE_PREREQ.message": {
+    "message": "VCEはこちらのパラメーターが必要です：[br][br]%value%"
+  },
+  "messageDialog.messages.ERROR_MISSING_NET45_PREREQ.title": {
+    "message": "エラー",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_NET45_PREREQ.message": {
+    "message": "Player.me機能を使用するには以下のTLS1.2が必要です:[br][br]%value%"
+  },
+  "messageDialog.messages.DELETE_SCENE.message": {
+    "message": "**%scene%** - このシーンを本当に削除しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.DUPLICATE_HOTKEY.message": {
+    "message": "このホットキーは同じキーで設定する事はできません。&nbsp;  [br][br]%value%[br]",
+    "type": "warning"
+  },
+  "messageDialog.messages.REMOVE_OUTPUT_ENTRY.message": {
+    "message": "**%value%** - 本当にこの出力エントリを削除しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.INVALID_PATH.message": {
+    "message": "\"%path%\" は無効なパスです",
+    "type": "error"
+  },
+  "messageDialog.messages.PATH_ACCESS_ERROR.message": {
+    "message": "**\"%path%\"** このパスにアクセス中にエラーが発生しました。",
+    "type": "error"
+  },
+  "messageDialog.messages.CREATE_NON_EXISTING_PATH.message": {
+    "message": "\"%path%\" のパスは存在しません。作成しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.PATH_DOES_NOT_EXIST.message": {
+    "message": "\"%path%\" のパスは存在しません。",
+    "type": "warning"
+  },
+  "messageDialog.messages.INVALID_URL.message": {
+    "message": "有効なURLを入力してください。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgPasteInfo.message": {
+    "message": "ソースをどの様にペーストしますか？ [radio]pasteAsNewSource[/radio][radio]pasteAsLinkedSource[/radio][br] **リンクされたソース** はグローバルソースで、他のシーンのソースとリンクされている物です。例：テキストが二つのシーンを通してスクロールし続けさせたい場合や、名札グラフィックを二つ以上のシーンに共有したい時などに便利です。詳細に関しては [この記事](https://xspl.it/bc/uv65wd) を参考にしてください。",
+    "type": "info"
+  },
+  "messageDialog.radio.msgPasteInfo.pasteAsNewSource.message": {
+    "message": "**新規ソースとしてペースト** (Ctrl + Shift + V)"
+  },
+  "messageDialog.radio.msgPasteInfo.pasteAsLinkedSource.message": {
+    "message": "**リンクされたソースとして** (Ctrl + Alt + V)"
+  },
+  "messageDialog.messages.msgPlayoutFormat.message": {
+    "message": "Playout Format[radio]noAlpha[/radio][radio]withAlpha[/radio][br][Learn more about NewTek NDI&trade;](https://xspl.it/06s8kq) **%version%**"
+  },
+  "messageDialog.radio.msgPlayoutFormat.noAlpha.message": {
+    "message": "Without Alpha transparency (Less CPU)"
+  },
+  "messageDialog.radio.msgPlayoutFormat.withAlpha.message": {
+    "message": "With Alpha transparency (More CPU)"
+  },
+  "messageDialog.checkbox.dontAskAgain": {
+    "message": "Don't ask again"
+  },
+  "messageDialog.messages.YOUTUBE_STOPPED_STREAMING.message": {
+    "message": "YouTube Live eventへの放送を停止しました。 このライブイベントも終了しますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.msgInvalidXSplitAccountInfo2.message": {
+    "message": "続けるにはもう一度ログインしてください。セキュリティの為、パスワードの代わりにトークンが記憶されております。トークンの起源が切れたりしている場合、再ログインする必要があります。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidSteamAccountInfo2.message": {
+    "message": "続けるにはもう一度ログインしてください。セキュリティの為、パスワードの代わりにトークンが記憶されております。トークンの起源が切れたりしている場合、再ログインする必要があります。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidSocialAccountInfo2.message": {
+    "message": "続けるにはもう一度ログインしてください。セキュリティの為、パスワードの代わりにトークンが記憶されております。トークンの起源が切れたりしている場合、再ログインする必要があります。",
+    "type": "warning"
+  },
+  "messageDialog.messages.YOUTUBE_ULTRALOW_LATENCY_INFO.message": {
+    "message": "超低遅延設定は1440pかそれ以上の解像度に対応しておりません。[br][br]あなたの出力解像度は1080pに変更されました。",
+    "type": "info"
+  },
+  "messageDialog.messages.msgStingerNameIsEmpty.message": {
+    "message": "スティンガー名を指定してください",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStingerAlreadyExists.message": {
+    "message": "同じ切り替えポイントと名前のスティンガーが既に存在します。",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStingerNameIsInvalid.message": {
+    "message": "スティンガー名には以下の記号\\ / : * ? \" < > |は使用できません ",
+    "type": "error"
+  },
+  "messageDialog.messages.PRESENTATION_FOLDER_ALREADY_EXISTS.message": {
+    "message": "**'%foldername%'** フォルダは既に保存先フォルダ内に存在します。 &nbsp;  [br]&nbsp;  [br] フォルダとそのフォルダ内のファイルを上書きし、プレゼンテーションを読み込み続けますか？",
+    "type": "question"
+  },
+  "messageDialog.messages.msgPluginLoadError.message": {
+    "message": "Couldn't load plugin.",
+    "type": "warning"
+  },
+  "messageDialog.dropdown.projectorBorder.label.message": {
+    "message": "プロジェクター画面の選択範囲の境界線"
+  },
+  "messageDialog.dropdown.projectorBorder.values.always.message": {
+    "message": "境界線をマウスでホバーするとかならず表示する"
+  },
+  "messageDialog.dropdown.projectorBorder.values.shift.message": {
+    "message": "Shiftキーが押されたときにスクリーン選択のホバーで境界線を表示します"
+  },
+  "messageDialog.dropdown.projectorBorder.values.never.message": {
+    "message": "境界線を絶対に見せない"
+  }
+}

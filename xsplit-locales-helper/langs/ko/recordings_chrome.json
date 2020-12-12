@@ -1,0 +1,674 @@
+{
+	"title": {
+		"message": "XSplit 방송 - 녹화 영상"
+	},
+	"myRecordings.back": {
+		"message": "뒤로..."
+	},
+	"myRecordings.processing": {
+		"message": "녹화 영상 불러오는 중..."
+	},
+	"myRecordings.openWith": {
+		"message": "열기"
+	},
+	"myRecordings.edit": {
+		"message": "영상 편집"
+	},
+	"myRecordings.CONVERT_TO_MP4": {
+		"message": "MP4로 전환"
+	},
+	"myRecordings.REPAIR_FILE": {
+		"message": "파일 복구"
+	},
+	"myRecordings.FIX_MOV_FILE": {
+		"message": "웹에 최적화"
+	},
+	"myRecordings.FIX_MOV_FILE_TOOLTIP": {
+		"message": "이 설정은 YouTube와 같은 서비스에 동영상 업로드 후에, 마무리 작업을 최소화 하도록 합니다. 이러한 방식은 동영상 클립의 미디어 정보 코드를 정리해 줌으로써 온라인 형식의 영상을 시청하기에 최적화 되도록 전환 시켜줍니다. 더 많은 정보는 [이곳에서...](https://xspl.it/j5hfit)"
+	},
+	"myRecordings.openFileLocation": {
+		"message": "파일 위치 열기"
+	},
+	"myRecordings.openFolderLocation": {
+		"message": "폴더 위치 열기"
+	},
+	"myRecordings.sortBy": {
+		"message": "분류"
+	},
+	"myRecordings.orderBy": {
+		"message": "정렬"
+	},
+	"myRecordings.ascending": {
+		"message": "오름차순"
+	},
+	"myRecordings.descending": {
+		"message": "내림차순"
+	},
+	"myRecordings.header.name": {
+		"message": "이름"
+	},
+	"myRecordings.header.date": {
+		"message": "날짜"
+	},
+	"myRecordings.header.type": {
+		"message": "종류"
+	},
+	"myRecordings.header.videoLength": {
+		"message": "길이"
+	},
+	"myRecordings.header.size": {
+		"message": "사이즈"
+	},
+	"myRecordings.details.recordedOn": {
+		"message": "녹화 날짜"
+	},
+	"myRecordings.details.deleteRecordings": {
+		"message": "선택된 아이템"
+	},
+	"myRecordings.details.files": {
+		"message": "아이템"
+	},
+	"myRecordings.details.selected": {
+		"message": "선택"
+	},
+	"myRecordings.details.total": {
+		"message": "합계"
+	},
+	"myRecordings.details.uploading": {
+		"message": "영상 업로드 중. %percent%% 완료."
+	},
+	"myRecordings.details.rename": {
+		"message": "파일명 변경"
+	},
+	"myRecordings.details.delete": {
+		"message": "로컬 영상 삭제"
+	},
+	"myRecordings.details.editSettings": {
+		"message": "설정 편집"
+	},
+	"myRecordings.details.link": {
+		"message": "링크"
+	},
+	"myRecordings.details.open": {
+		"message": "링크로 가기"
+	},
+	"myRecordings.details.copy": {
+		"message": "링크 복사"
+	},
+	"myRecordings.details.deleteVideoFromYoutube": {
+		"message": "YouTube 에서 동영상 삭제"
+	},
+	"myRecordings.details.deleteVideoFromDailymotion": {
+		"message": "데일리모션에서 비디오 삭제"
+	},
+	"myRecordings.details.filename.errors.FILE_ALREADY_EXISTS": {
+		"message": "파일 이름이 이미 존재합니다."
+	},
+	"myRecordings.details.filename.errors.INVALID_FILENAME": {
+		"message": "새 파일명에 사용 불가한 문자 입니다"
+	},
+	"myRecordings.details.filename.hoverMessage": {
+		"message": "마우스 우클릭 하여 더 많은 설정 보기"
+	},
+	"myRecordings.youtube.error.upload": {
+		"message": "업로드 도중 오류가 발생하였습니다."
+	},
+	"myRecordings.youtube.error.tryAgain": {
+		"message": "재시도"
+	},
+	"myRecordings.youtube.error.cancel": {
+		"message": "취소"
+	},
+	"myRecordings.youtube.link.copy": {
+		"message": "링크 복사"
+	},
+	"myRecordings.youtube.link.open": {
+		"message": "브라우저에서 열기"
+	},
+	"myRecordings.youtube.privacy.unlisted": {
+		"message": "미등록"
+	},
+	"myRecordings.youtube.privacy.private": {
+		"message": "비공개"
+	},
+	"myRecordings.youtube.privacy.public": {
+		"message": "공개"
+	},
+	"myRecordings.youtube.cancelUpload": {
+		"message": "업로드 취소"
+	},
+	"myRecordings.location.label": {
+		"message": "위치"
+	},
+	"myRecordings.location.open": {
+		"message": "폴더 열기"
+	},
+	"uploadVideoDialog.dialogTitle": {
+		"message": "YouTube에 업로드"
+	},
+	"uploadVideoDialog.edit": {
+		"message": "동영상 설정 편집"
+	},
+	"uploadVideoDialog.title": {
+		"message": "제목"
+	},
+	"uploadVideoDialog.description": {
+		"message": "설명"
+	},
+	"uploadVideoDialog.category": {
+		"message": "카테고리"
+	},
+	"uploadVideoDialog.categoryValues.Autos": {
+		"message": "자동차"
+	},
+	"uploadVideoDialog.categoryValues.Comedy": {
+		"message": "코미디"
+	},
+	"uploadVideoDialog.categoryValues.Education": {
+		"message": "교육"
+	},
+	"uploadVideoDialog.categoryValues.Entertainment": {
+		"message": "엔터테인먼트"
+	},
+	"uploadVideoDialog.categoryValues.Film": {
+		"message": "영화 & 애니메이션"
+	},
+	"uploadVideoDialog.categoryValues.Gaming": {
+		"message": "게임"
+	},
+	"uploadVideoDialog.categoryValues.Howto": {
+		"message": "노하우 & 스타일"
+	},
+	"uploadVideoDialog.categoryValues.Music": {
+		"message": "음악"
+	},
+	"uploadVideoDialog.categoryValues.News": {
+		"message": "뉴스 & 정치"
+	},
+	"uploadVideoDialog.categoryValues.Nonprofit": {
+		"message": "비영리 & 사회운동"
+	},
+	"uploadVideoDialog.categoryValues.People": {
+		"message": "인물 & 블로그"
+	},
+	"uploadVideoDialog.categoryValues.Pets&Animals": {
+		"message": "동물"
+	},
+	"uploadVideoDialog.categoryValues.Tech": {
+		"message": "과학기술"
+	},
+	"uploadVideoDialog.categoryValues.Sports": {
+		"message": "스포츠"
+	},
+	"uploadVideoDialog.categoryValues.Travel": {
+		"message": "여행 & 이벤트"
+	},
+	"uploadVideoDialog.gameName": {
+		"message": "게임 이름"
+	},
+	"uploadVideoDialog.tags.label": {
+		"message": "태그"
+	},
+	"uploadVideoDialog.tags.tooltip": {
+		"message": "태그를 구분하려면 쉼표 사용. 태그를 더블 클릭해서 문구 수정."
+	},
+	"uploadVideoDialog.privacy": {
+		"message": "개인정보"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Unlisted": {
+		"message": "미등록"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Private": {
+		"message": "비공개"
+	},
+	"uploadVideoDialog.privacyValues-youtube.Public": {
+		"message": "공개"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Private": {
+		"message": "비공개"
+	},
+	"uploadVideoDialog.privacyValues-dailymotion.Public": {
+		"message": "공개"
+	},
+	"uploadVideoDialog.applyClose": {
+		"message": "적용후 종료"
+	},
+	"uploadVideoDialog.uploadNow": {
+		"message": "지금 업로드"
+	},
+	"uploadVideoDialog.title-youtube": {
+		"message": "YouTube 에 업로드"
+	},
+	"uploadVideoDialog.title-dailymotion": {
+		"message": "Dailymotion에 동영상 업로드"
+	},
+	"uploadVideoDialog.editVideo-youtube": {
+		"message": "YouTube 영상 설정"
+	},
+	"uploadVideoDialog.cancel": {
+		"message": "취소"
+	},
+	"uploadVideoDialog.allowEmbed": {
+		"message": "허용"
+	},
+	"uploadVideoDialog.embed.label": {
+		"message": "EMBED"
+	},
+	"uploadVideoDialog.processing": {
+		"message": "프로세싱"
+	},
+	"uploadVideoDialog.uploadNotification": {
+		"message": "'지금 업로드' 버튼을 클릭하시면 본인이 업로드 하는 모든 콘텐츠는 [유튜브 서비스 약관](https://xspl.it/ox4uyd) 에 준수하기를 동의합니다 (유튜브 커뮤니티 가이드라인에 포함됨). 반드시 타인의 저작권 또는 개인정보 권리를 위반하지 않도록 하세요."
+	},
+	"youtubeUpload.dialogTitle": {
+		"message": "YouTube에 업로드"
+	},
+	"youtubeUpload.edit": {
+		"message": "동영상 설정 편집"
+	},
+	"youtubeUpload.title": {
+		"message": "제목"
+	},
+	"youtubeUpload.description": {
+		"message": "설명"
+	},
+	"youtubeUpload.category": {
+		"message": "카테고리"
+	},
+	"youtubeUpload.categoryValues.Autos": {
+		"message": "자동차"
+	},
+	"youtubeUpload.categoryValues.Comedy": {
+		"message": "코미디"
+	},
+	"youtubeUpload.categoryValues.Education": {
+		"message": "교육"
+	},
+	"youtubeUpload.categoryValues.Entertainment": {
+		"message": "엔터테인먼트"
+	},
+	"youtubeUpload.categoryValues.Film": {
+		"message": "영화 & 애니메이션"
+	},
+	"youtubeUpload.categoryValues.Gaming": {
+		"message": "게임"
+	},
+	"youtubeUpload.categoryValues.Howto": {
+		"message": "노하우 & 스타일"
+	},
+	"youtubeUpload.categoryValues.Music": {
+		"message": "음악"
+	},
+	"youtubeUpload.categoryValues.News": {
+		"message": "뉴스 & 정치"
+	},
+	"youtubeUpload.categoryValues.Nonprofit": {
+		"message": "비영리 & 사회운동"
+	},
+	"youtubeUpload.categoryValues.People": {
+		"message": "인물 & 블로그"
+	},
+	"youtubeUpload.categoryValues.Pets&Animals": {
+		"message": "동물"
+	},
+	"youtubeUpload.categoryValues.Tech": {
+		"message": "과학기술"
+	},
+	"youtubeUpload.categoryValues.Sports": {
+		"message": "스포츠"
+	},
+	"youtubeUpload.categoryValues.Travel": {
+		"message": "여행 & 이벤트"
+	},
+	"youtubeUpload.tags.label": {
+		"message": "태그"
+	},
+	"youtubeUpload.tags.tooltip": {
+		"message": "쉼표를 사용해 태그 구분"
+	},
+	"youtubeUpload.privacy": {
+		"message": "개인정보"
+	},
+	"youtubeUpload.privacyValues.Unlisted": {
+		"message": "미등록"
+	},
+	"youtubeUpload.privacyValues.Private": {
+		"message": "비공개"
+	},
+	"youtubeUpload.privacyValues.Public": {
+		"message": "공개"
+	},
+	"youtubeUpload.applyClose": {
+		"message": "적용후 종료"
+	},
+	"youtubeUpload.uploadNow": {
+		"message": "지금 업로드"
+	},
+	"youtubeUpload.uploadVideo": {
+		"message": "YouTube 에 업로드"
+	},
+	"youtubeUpload.editVideo": {
+		"message": "YouTube 영상 설정"
+	},
+	"youtubeUpload.cancel": {
+		"message": "취소"
+	},
+	"youtubeUpload.allowEmbed": {
+		"message": "허용"
+	},
+	"youtubeUpload.embed.label": {
+		"message": "EMBED"
+	},
+	"youtubeUpload.processing": {
+		"message": "프로세싱"
+	},
+	"facebookShare.addMessage": {
+		"message": "여기에 메시지 입력"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "Facebook 에 동영상 공유"
+	},
+	"facebookShare.via": {
+		"message": "XSplit Broadcaster를 통해"
+	},
+	"facebookShare.privacy": {
+		"message": "개인 정보"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "전체 공개"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "친구"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "친구의 친구"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "나에게만"
+	},
+	"facebookShare.shareVideo": {
+		"message": "공유"
+	},
+	"facebookShare.cancel": {
+		"message": "취소"
+	},
+	"facebookShare.processing": {
+		"message": "프로세싱"
+	},
+	"facebookShare.postAs": {
+		"message": "게시할 곳"
+	},
+	"facebookShare.timeline": {
+		"message": "Facebook 타임라인"
+	},
+	"facebookShare.managePage": {
+		"message": "관리하는 페이지"
+	},
+	"twitterShare.addMessage": {
+		"message": "여기에 메시지 입력"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "Twitter 에 동영상 공유"
+	},
+	"twitterShare.privacy": {
+		"message": "프라이버시"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "공유"
+	},
+	"twitterShare.cancel": {
+		"message": "취소"
+	},
+	"twitterShare.processing": {
+		"message": "프로세싱"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "여기에 메시지 입력"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "Google 플러스에 동영상 공유"
+	},
+	"googlePlusShare.via": {
+		"message": "XSplit Broadcaster를 통해"
+	},
+	"googlePlusShare.privacy": {
+		"message": "프라이버시"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "모두에게"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "모든 친구에게"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "친구의 친구에게"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "나에게만"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "공유"
+	},
+	"googlePlusShare.cancel": {
+		"message": "취소"
+	},
+	"googlePlusShare.processing": {
+		"message": "프로세싱"
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "동영상 공유"
+	},
+	"vodShare.processing": {
+		"message": "프로세싱"
+	},
+	"vodShare.addLink": {
+		"message": "링크 추가"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "Facebook 개인 정보"
+	},
+	"vodShare.gameCheckin": {
+		"message": "게임 체크 인"
+	},
+	"vodShare.gameCheckin.placeholder": {
+		"message": "게임 체크 인"
+	},
+	"vodShare.shareVideo": {
+		"message": "공유"
+	},
+	"vodShare.cancel": {
+		"message": "취소"
+	},
+	"vodShare.shareTo.1": {
+		"message": "%service1% 유일하게 공유"
+	},
+	"vodShare.shareTo.2": {
+		"message": "%service1% 와 %service2% 에만 공유"
+	},
+	"vodShare.shareTo.3": {
+		"message": "%service1%, %service2%, %service3% 에 공유"
+	},
+	"vodShare.shareTo.4": {
+		"message": "%service1%, %service2%, %service3%, %service4% 에 공유"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "Twitter 글자 수"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "Twitter에 게시할 수 있는 남은 글자수를 보여줍니다. 글자 중 파란색만이 Twitter로 보내질 것입니다."
+	},
+	"vodShare.gameNameWarning": {
+		"message": "이 게임은 Player.me 데이터베이스에 존재하지 않습니다. 이로인해 게시물에 표기되지 않습니다."
+	},
+	"vodShare.loadMore": {
+		"message": "더 불러오기..."
+	},
+	"vodStatus.title": {
+		"message": "상황 공유하기"
+	},
+	"vodStatus.facebook": {
+		"message": "페이스북"
+	},
+	"vodStatus.twitter": {
+		"message": "트위터"
+	},
+	"vodStatus.playerme": {
+		"message": "Player.me"
+	},
+	"vodStatus.gplus": {
+		"message": "구글 플러스"
+	},
+	"vodStatus.posting": {
+		"message": "%social% 에 글 게시..."
+	},
+	"vodStatus.success": {
+		"message": "%social% 에 성공적으로 작성하였습니다.[br][%message%](%url%)"
+	},
+	"vodStatus.message.facebook": {
+		"message": "작성된 글 보기"
+	},
+	"vodStatus.message.twitter": {
+		"message": "트윗 보기"
+	},
+	"vodStatus.message.playerme": {
+		"message": "작성된 글 보기"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "정보 보기"
+	},
+	"vodStatus.error": {
+		"message": "%social% 에 게시를 실패하였습니다."
+	},
+	"vodStatus.failed": {
+		"message": "%social% 에 게시를 실패하였습니다.[br]%message%(%url%)"
+	},
+	"vodStatus.invalid": {
+		"message": "%social% 에 글 작성을 할 수 없습니다."
+	},
+	"vodStatus.edit": {
+		"message": "수정"
+	},
+	"vodStatus.retry": {
+		"message": "재시도"
+	},
+	"dialog.ok": {
+		"message": "닫기"
+	},
+	"myRecordings.shareupload.loading": {
+		"message": "유튜브에 연결...[br]엑스플릿을 유튜브로 연결 진행하기"
+	},
+	"growl.yes": {
+		"message": "네"
+	},
+	"growl.no": {
+		"message": "아니오"
+	},
+	"growl.error": {
+		"message": "Error"
+	},
+	"growl.info": {
+		"message": "Info"
+	},
+	"growl.warning": {
+		"message": "Warning"
+	},
+	"growl.question": {
+		"message": "질문"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.title": {
+		"message": "유효성 검사 오류",
+		"type": "error"
+	},
+	"growl.messages.ERROR_BAD_DEVICE.message": {
+		"message": "  입력하신 파일명에 사용할 수 없는 문자가 포함되었습니다. 윈도우에서 사용할 수 없는 문자를 넣은 경우 폴더나 파일 이름으로 지정할 수 없습니다."
+	},
+	"growl.messages.BLANK_FILENAME.title": {
+		"message": "인증 오류",
+		"type": "error"
+	},
+	"growl.messages.BLANK_FILENAME.message": {
+		"message": "파일 이름은 빈칸으로 둘 수 없습니다."
+	},
+	"growl.messages.INVALID_FILENAME.title": {
+		"message": "오류",
+		"type": "error"
+	},
+	"growl.messages.INVALID_FILENAME.message": {
+		"message": "파일 이름에는 다음 문자를 사용할 수 없습니다: \\ / : * ? \" < > |"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.title": {
+		"message": "오류",
+		"type": "error"
+	},
+	"growl.messages.FILE_ALREADY_EXISTS.message": {
+		"message": "파일 이름이 이미 존재합니다."
+	},
+	"growl.messages.TOO_LONG_FILENAME.title": {
+		"message": "대상 경로가 너무 깁니다",
+		"type": "error"
+	},
+	"growl.messages.TOO_LONG_FILENAME.message": {
+		"message": "파일 위치 경로가 너무 깁니다. 파일 이름이나 경로를 줄여주십시오."
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.title": {
+		"message": "오류",
+		"type": "error"
+	},
+	"growl.messages.FILE_LOCKED_OR_IN_USE.message": {
+		"message": "파일이 잠겨있거나 사용 중에 있습니다."
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.title": {
+		"message": "동영상 링크가 필요합니다",
+		"type": "warning"
+	},
+	"growl.messages.VIDEO_LINK_NEEDED.message": {
+		"message": "동영상을 SNS 에 공유하시기 전에 YouTube 버튼을 클릭하여 YouTube 에 업로드를 먼저 하세요."
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.title": {
+		"message": "트위터에 공유 할 수 없습니다.",
+		"type": "error"
+	},
+	"growl.messages.CANNOT_SHARE_TWITTER.message": {
+		"message": "사용자의 메세지 수 가 트위터 문자 수 제한을 초과 하였습니다. 트위터에 작성되지 않았지만 Facebook 에는 작성 될 것 입니다."
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.title": {
+		"message": "트위터에 공유 할 수 없습니다.",
+		"type": "error"
+	},
+	"messageDialog.messages.FAILED_POST_TWITTER.message": {
+		"message": "이미지 파일 크기가 Twitter 최대 제한 3MB 를 초과합니다."
+	},
+	"myScreenshots.emptyMessage": {
+		"message": "이곳은 비어있습니다."
+	},
+	"myScreenshots.watchTutorial": {
+		"message": "[tutorials] 튜토리얼 (https://xspl.it/bc/tutorials) 확인하여 더 알아보기."
+	},
+	"myRecordings.title": {
+		"message": "녹화 영상"
+	},
+	"myRecordings.emptyFileLocation": {
+		"message": "방송을 녹화하고 동영상 공유 사이트에 업로드하셔서 즉시 인기있는 영상 제작자가 되십시오!"
+	},
+	"imgShare.unauthorized": {
+		"message": "이미지를 공유하기전에 최소 한가지 SNS 서비스를 인증하셔야 합니다. 위의 아이콘들중 하나를 선택하셔서 인증하세요."
+	},
+	"imgShare.shareImageTitle": {
+		"message": "이미지 공유하기"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "제안을 찾는중..."
+	},
+	"myScreenshots.title": {
+		"message": "스크린샷"
+	},
+	"myScreenshots.processing": {
+		"message": "스크린샷 로딩중..."
+	},
+	"myScreenshots.details.takenon": {
+		"message": "찍은 날짜"
+	},
+	"myScreenshots.emptyFileLocation": {
+		"message": "스크린샷 단축키 (도구 -> 설정 -> 단축키) 를 사용하여 구성된 장면 (Scene) 을 캡처 하세요!"
+	}
+}

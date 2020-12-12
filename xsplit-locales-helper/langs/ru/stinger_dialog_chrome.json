@@ -1,0 +1,17 @@
+{
+    "stinger.title": {
+        "message": "Изменить имя стингера или точки перехода."
+    },
+    "stinger.name": {
+        "message": "Имя стингера"
+    },
+    "stinger.transition": {
+        "message": "Точка перехода (мс)"
+    },
+    "button.ok": {
+        "message": "ОК"
+    },
+    "button.cancel": {
+        "message": "Отменить"
+    }
+}

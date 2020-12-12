@@ -1,0 +1,1176 @@
+{
+  "messageDialog.okButton": {
+    "message": "OK"
+  },
+  "messageDialog.yesButton": {
+    "message": "예"
+  },
+  "messageDialog.noButton": {
+    "message": "아니오"
+  },
+  "messageDialog.helpButton": {
+    "message": "도움말"
+  },
+  "messageDialog.cancelButton": {
+    "message": "취소"
+  },
+  "messageDialog.abortButton": {
+    "message": "취소"
+  },
+  "messageDialog.retryButton": {
+    "message": "재시도"
+  },
+  "messageDialog.ignoreButton": {
+    "message": "무시"
+  },
+  "messageDialog.copyButton": {
+    "message": "링크 복사"
+  },
+  "messageDialog.error": {
+    "message": "Error"
+  },
+  "messageDialog.question": {
+    "message": "확인"
+  },
+  "messageDialog.info": {
+    "message": "Info"
+  },
+  "messageDialog.warning": {
+    "message": "Warning"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_GOOGLE_PLUS.title": {
+    "message": "구글 플러스에 성공적으로 포스팅되었습니다"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_GOOGLE_PLUS.message": {
+    "message": "구글 플러스에 성공적으로 포스팅 됨[br][%url%](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_FACEBOOK.title": {
+    "message": "페이스북에 성공적으로 포스팅 되었습니다"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_FACEBOOK.message": {
+    "message": "페이스북에 성공적으로 포스팅됨.[br][보기](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_TWITTER.title": {
+    "message": "트위터에 성공적으로 포스팅 되었습니다."
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_TWITTER.message": {
+    "message": "트위터에 성공적으로 포스팅 됨.[br][트윗 보기](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_SENT_MESSAGE_ON_TWITTER.title": {
+    "message": "트위터에 성공적으로 포스팅 되었습니다."
+  },
+  "messageDialog.messages.SUCCESSFULLY_SENT_MESSAGE_ON_TWITTER.message": {
+    "message": "Twitter 에 성공적으로 게시 되었습니다.",
+    "type": "info"
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_PLAYERME.title": {
+    "message": "Player.me 에 성공적으로 게시되었습니다."
+  },
+  "messageDialog.messages.SUCCESSFULLY_POSTED_ON_PLAYERME.message": {
+    "message": "Player.me 에 성공적으로 게시되었습니다. [br][게시물 보기](%url%)",
+    "type": "info"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhileStreaming.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhileStreaming.message": {
+    "message": "방송중에는 대역폭을 확인 할 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAacLicenseOffer.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgAacLicenseOffer.message": {
+    "message": "AAC LC는 라이센스 유저만 사용할 수 있습니다.[br][br]지금 라이센스를 구입하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver.message": {
+    "message": "AVerMedia c985 Live Gamer캡처 카드를 설치해서 XSplit에 내장된 하드웨어 인코더를 사용할 수 있습니다. 프리미엄 라이선스를 소지하셔야 사용하실 수 있습니다. 엑스플릿 프리미엄 라이선스로 업그레이드 해주세요.[br][br]지금 라이선스를 구입하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver1.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264aver1.message": {
+    "message": "현재 사용하고 있는 AVerMedia c985 Live Gamer 캡처카드에 내장된 인코더는 본 라이센스에서 사용할 수 없습니다. 일반 x264 인코더로 전환하겠습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qs.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qs.message": {
+    "message": "QuickSync 인코더는 %licensetype%를 가지고 계신 분만 사용할 수 있습니다. 라이선스를 업그레이드하는 것을 고려해보세요.[br][br]지금 업그레이드하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qsext.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_libh264qsext.message": {
+    "message": "QuickSync 인코더는 %licensetype%를 가지고 계신 분만 사용할 수 있습니다. 라이선스를 업그레이드하는 것을 고려해보세요.[br][br]지금 업그레이드하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_AAC.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLicenseOffer_AAC.message": {
+    "message": "AAC 오디오 품질을 높이는 것은 라이선스 사용자들만 사용할 수 있습니다.[br][br]여러분의 라이선스를 업그레이드하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.UsernameIsEmpty.message": {
+    "message": "사용자 이름을 지정해야 합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.PasswordIsEmpty.message": {
+    "message": "비밀번호를 넣어주세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.StreamChannelIsEmpty.message": {
+    "message": "채널을 아직 사용할 수 없습니다. 사용자 이름과 %service% 웹사이트에 있는 설정에서 입력했던 채널이름이 똑같은지 확인하기 바랍니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.UsernameIsUnknown.message": {
+    "message": "알 수 없는 이름입니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.InvalidChannelCredentials.message": {
+    "message": "사용자의 인증서를 확인하는 작업에서 오류가 발생했습니다. 아이디와 비밀번호를 다시 확인해주세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.PresetDoesNotExist.message": {
+    "message": "미리 지정해두었던 %preset%을 찾을 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow.message": {
+    "message": "최대 비트레이트는 %bitrate% kbps 보다 낮아야 합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow_VBR.message": {
+    "message": "최대 비트레이트는 %bitrate% kbps 보다 낮아야 합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxBitrateIsTooLow_CBR.message": {
+    "message": "최대 비트레이트는 %bitrate% kbps 보다 낮아야 합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSaveBeforeCloseConfirmation.message": {
+    "message": "대화 창을 닫기 전에 저장하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgDefaultStageResolutionWarning AVerMedia H.264 Encoder.message": {
+    "message": "이 설정은 계정에 저장되지 않으며 로그인할 때 마다 설정해주어야 합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDefaultStageResolutionWarning.message": {
+    "message": "현재 스테이지 보다 낮거나 다른 해상도를 조정하여 여러개의 방송을 동시에 스트리밍 할 수 있습니다.[br][br] 즉, 한가지 방송은 스테이지 기본 해상도에 맞추고 다른 방송은 스테이지 보다 작게 설정하여서 두 화면이 동시에 스트리밍 되는 것 입니다.[br][br]이 설정은 한번 로그아웃 하시면 다음에 로그인 하실 때 다시 설정해주셔야 합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgChannelResolutionLicenseOffer.message": {
+    "message": "이 채널 출력 해상도를 설정하는 것은 라이선스 사용자만 사용할 수 있습니다.  [br][br]지금 라이선스를 구매하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.LivestreamUrlIsEmpty.title": {
+    "message": "IP 카메라/RTSP 스트림 추가"
+  },
+  "messageDialog.messages.LivestreamUrlIsEmpty.message": {
+    "message": "URL을 지정하십시오.",
+    "type": "warning"
+  },
+  "messageDialog.messages.LivestreamUrlIsInvalid.title": {
+    "message": "IP 카메라/RTSP 스트림 추가"
+  },
+  "messageDialog.messages.LivestreamUrlIsInvalid.message": {
+    "message": "URL이 잘못되었습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhenAlreadyStreaming.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgCantTestBandwidthWhenAlreadyStreaming.message": {
+    "message": "방송 중에는 대역폭 테스트를 할 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgErrorSavingSettings.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.msgErrorSavingSettings.message": {
+    "message": "세팅 저장 중에 문제가 발생했습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCreateYouTubeChannel.title": {
+    "message": "유튜브 채널을 만들겠습니까?"
+  },
+  "messageDialog.messages.msgCreateYouTubeChannel.message": {
+    "message": "유튜브에 로그인되어있지만 유효하지 않은 채널입니다. 사용자의 채널을 만드시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgEnsureNotSuspended.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgEnsureNotSuspended.message": {
+    "message": "적절한 계정 정보를 가져올 수 없습니다. 계정이 정지되지 않았는지 확인해 주세요.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGamesourceBuyXSplitOffer.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgGamesourceBuyXSplitOffer.message": {
+    "message": "엑스플릿 게임캡처 소스는 단순한 화면 캡처가 아닌 DirectX나 OpenGL형식의 게임을 직접 캡처하는 방식입니다. [br]이 기능은 프리미엄 라이선스를 적용하면 사용하실 수 있습니다. [br][br]확인을 눌러 엑스플릿 라이선스를 구입해 게임캡처 소스를 사용해보세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUsernameIsInvalid.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.msgUsernameIsInvalid.message": {
+    "message": "프로필에 있는 사용자 이름은 반드시 4글자(영 숫자, 마침표, 대쉬)만을 사용해야 합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidScreenName.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.msgInvalidScreenName.message": {
+    "message": "화면 이름이 잘못되었습니다. 문자, 하이픈(-) 그리고 마침표(.)만 사용하실 수 있습니다. 나머지 문자들도 제공해드리려 저희는 작업 중에 있습니다. 하이픈 또는 마침표는 맨 끝에 올 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation5.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.msgRegistrationValidation5.message": {
+    "message": "프로필에 있는 생일은 사용할 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.FeatureIsNotSupportedByOS.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.FeatureIsNotSupportedByOS.message": {
+    "message": "이 옵션은 사용자의 컴퓨터의 운영 체제에서 지원되지 않습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDisallowDisableAeroTheme.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.msgDisallowDisableAeroTheme.message": {
+    "message": "윈도우7, 비스타에서 Aero 테마 적용시, 윈도우 창 겹침 현상은 항상 캡처 됩니다. 엑스플릿은 Aero 테마를 자동으로 비활성화 하지만, 활성 시킬시 예상치 않은 결과가 일어날수도 있습니다. [br][br]진행 하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgVideoUploading.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.msgVideoUploading.message": {
+    "message": "비디오를 업로드하는 동안 액션을 할 수 없습니다. 나중에 다시 시도 하십시오",
+    "type": "error"
+  },
+  "messageDialog.messages.MicIsStereoMixCapable.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.MicIsStereoMixCapable.message": {
+    "message": "선택한 마이크는 이미 스피커 출력을 캡처할 수 있기에 적합하지만 이 기능은 방송도중 음향 문제를 발생할 수 있습니다. 해당 문제가 발생하면 엑스플릿의 스피커를 음소거 해주세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSaveAV_Failed.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.msgSaveAV_Failed.message": {
+    "message": "오디오/비디오 세팅을 저장할 수 없습니다.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRegistrationValidation1.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.msgRegistrationValidation1.message": {
+    "message": "스크린 이름을 바꾸는 요청이 빈칸으로 있었기 때문에 거절당했습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation7.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.msgRegistrationValidation7.message": {
+    "message": "이름 칸을 빈칸으로 둘 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation9.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.msgRegistrationValidation9.message": {
+    "message": "국적 칸을 빈칸으로 둘 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgRegistrationValidation4.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.msgRegistrationValidation4.message": {
+    "message": "사용자 분의 생일보다 앞선 날짜를 선택해주세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSettingsValidation7.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.msgSettingsValidation7.message": {
+    "message": "사용자의 세팅은 설정될 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSettingsSaved_SyncFailed.title": {
+    "message": "XSplit 방송 - 설정"
+  },
+  "messageDialog.messages.msgSettingsSaved_SyncFailed.message": {
+    "message": "세팅한 것과 서버를 동기화 하는 데에 실패했습니다. %serverResponse%세팅한 것은 컴퓨터 내에 저장되었습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgDuplicateUsername.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgDuplicateUsername.message": {
+    "message": "사용자가 요청한 스크린 이름 바꾸기는 사용중에 있는 이름이기 때문에 바꿀수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgProfileSyncFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgProfileSyncFailed.message": {
+    "message": "프로필 수정이 거부되었습니다.[br][br]%exception%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCurrentResolutionIsNotSupported3.title": {
+    "message": "사용자 지정 해상도"
+  },
+  "messageDialog.messages.msgCurrentResolutionIsNotSupported3.message": {
+    "message": "XSplit은 %resolution% 픽셀 이하 해상도를 제공하지 않습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgShareFailed.title": {
+    "message": "공유 실패"
+  },
+  "messageDialog.messages.msgShareFailed.message": {
+    "message": "%service%에 방송 정보가 게시되지 않았습니다. [br][br] 그 이유는 다음과 같습니다.%reason%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgNoNetHasLocal.title": {
+    "message": "로그인"
+  },
+  "messageDialog.messages.msgNoNetHasLocal.message": {
+    "message": "엑스플릿은 인터넷 연결을 감지하지 못했습니다. 로그인은 할 수 있지만 인터넷을 연결이 필수인 기능은 사용할 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSrvFailedHasLocal.title": {
+    "message": "로그인"
+  },
+  "messageDialog.messages.msgSrvFailedHasLocal.message": {
+    "message": "엑스플릿 서버에 접속하지 못했습니다. 오프라인으로 진행되오니 서버연결이 필요한 기능들을 사용하지 못할수 있습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgSrvFailedNoLocal.title": {
+    "message": "로그인"
+  },
+  "messageDialog.messages.msgSrvFailedNoLocal.message": {
+    "message": "엑스플릿 서버에 접속하지 못했습니다. 처음으로 엑스플릿을 실행할때는 반드시 로그인 하셔야 합니다. 다시 시도해 주세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLoginToServerException.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgLoginToServerException.message": {
+    "message": "XSplit에 로그인 하기위해 온라인 상태이어야 합니다.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgLoginToServerException1.message": {
+    "message": "본 PC 에서 비밀번호를 인식할 수 없습니다. 다시 시도 해보시기 바랍니다. 다른 PC 에서 또는 온라인상에서 비밀번호를 변경하셨을 경우에는 반드시 본 PC 가 온라인 상태여야만 로그인이 가능합니다.",
+    "type": "info"
+  },
+  "messageDialog.messages.activationReminderText.title": {
+    "message": "알림"
+  },
+  "messageDialog.messages.activationReminderText.message": {
+    "message": "계정을 활성화하는 것을 잊지 마세요. 활성화 링크가 포함된 이메일이 사용자의 이메일 주소로 전송되었습니다. [br][br]다시 메일을 보내시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgUpdateCheckNone.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgUpdateCheckNone.message": {
+    "message": "업데이트할 부분이 감지되지 않았습니다. 사용자님의 계정으로 로그인 해주세요.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedPlugins.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgUpdatedPlugins.message": {
+    "message": "업데이트할 플러그인을 발견했습니다:[br][br]%pluginlist%[br][br]확인을 눌러 업데이트 하세요.",
+    "type": "question"
+  },
+  "messageDialog.messages.msgAddinInstallationFailed.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgAddinInstallationFailed.message": {
+    "message": "플러그인 설치가 완전하게 이루어지지 않았습니다. XSplit을 다시 시작해주세요..[br][br]XSplit창 닫습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAddinInstallRestartFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgAddinInstallRestartFailed.message": {
+    "message": "XSplit을 다시 시작할 수 없습니다. 작업 관리자를 켜 XSplit이 이미 실행중인지 확인해 주세요. 켜져 있다면 강제종료 해 주세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdateCheckFailed.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgUpdateCheckFailed.message": {
+    "message": "업데이트를 체크할 수 없습니다. 다음 로그인시 다시 시도합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.FailureCreatingNonExistingFolder.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.FailureCreatingNonExistingFolder.message": {
+    "message": "폴더를 만들 수 없습니다. %folder%. %exception%.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAddinLoadedFromPreviousSession.title": {
+    "message": "XSplit"
+  },
+  "messageDialog.messages.msgAddinLoadedFromPreviousSession.message": {
+    "message": "불러들인 몇몇 플러그인들이 현재 사용자의 계정에서 사용할 수 없습니다. 플러그인을 다시 불러들이려면 XSplit을 재시작 해야합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgD3DGearInstalled.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgD3DGearInstalled.message": {
+    "message": "사용하고 있는 시스템에 D3DGear를 설치해야 합니다. 이 응용 프로그램이 설치되었을 때에는 XSplit을 시작할 수 없습니다.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgD3DGearRunning.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgD3DGearRunning.message": {
+    "message": "D3DGear가 실행 중입니다. 이 응용프로그램을 실행하는 동안 XSplit을 시작할 수 없습니다. 저희는 일반적으로 XSplit 실행하는 동안 게임을 캡처할 다른 응용프로그램을 실행하는 것을 추천해드리지 않습니다",
+    "type": "error"
+  },
+  "messageDialog.messages.NicoProps.UsernameIsEmpty.title": {
+    "message": "Nico Nico Live"
+  },
+  "messageDialog.messages.NicoProps.UsernameIsEmpty.message": {
+    "message": "이메일을 입력해야 합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.StreamChannelIsEmpty.title": {
+    "message": "트위치 속성"
+  },
+  "messageDialog.messages.frmTwitchProps.StreamChannelIsEmpty.message": {
+    "message": "채널을 사용할 수 없거나 엑세스 코드가 보호되었습니다. 인증 번호를 제대로 넣었는지 확인해 보시고 트위치 웹사이트에 채널 이름을 바르게 넣었는지 확인해 보세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmFc2.StreamChannelIsEmpty.title": {
+    "message": "FC2 Live 속성"
+  },
+  "messageDialog.messages.frmFc2.StreamChannelIsEmpty.message": {
+    "message": "채널을 사용할 수 없습니다. FC2 Live를 계정에 추가했는지 확인해 주세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustinTVProps.StreamChannelIsEmpty.title": {
+    "message": "Justin.tv 속성"
+  },
+  "messageDialog.messages.frmJustinTVProps.StreamChannelIsEmpty.message": {
+    "message": "채널을 사용할 수 없거나 엑세스 코드가 보호되었습니다. 인증 번호를 제대로 넣었는지 확인해 보시고 트위치 웹사이트에 채널 이름을 바르게 넣었는지 확인해 보세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmhitboxProps.StreamChannelIsEmpty.title": {
+    "message": "Hitbox"
+  },
+  "messageDialog.messages.frmhitboxProps.StreamChannelIsEmpty.message": {
+    "message": "채널이 아직 유효하지 않거나 보안설정으로 잠겨져 있습니다. 권한 인증을 올바르게 진행하셨는지 확인해 보시고 Hitbox 웹사이트에 채널 설정을 올바르게 넣었는지 확인해 보십시오",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmhitboxProps.UsernameAndPasswordMismatch.title": {
+    "message": "히트박스"
+  },
+  "messageDialog.messages.frmhitboxProps.UsernameAndPasswordMismatch.message": {
+    "message": "사용자 이름 및 암호가 일치하지 않습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidUsername.title": {
+    "message": "트위치 속성"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidUsername.message": {
+    "message": "사용할 수 있는 트위치 이름을 넣어야 합니다. 이름은 채널 이름과 링크를 공유할 때 보입니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgAuthorizeAccountFirst.message": {
+    "message": "계정을 먼저 인증하세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgConfirmAccountDeauthorization.message": {
+    "message": "이 옵션을 선택하면 현재 사용하고 있는 계정의 인증을 취소하게 됩니다.",
+    "type": "question"
+  },
+  "messageDialog.messages.msgLicenseOffer_StartStream.message": {
+    "message": "%service%는 무료 스트리밍 서비스를 제공하지 않습니다. 그러므로 %service%로 XSplit을 사용해 방송하는 것은 불가능합니다.[br][br]지금 라이선스를 업그레이드하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleMaxCharsExceeded.title": {
+    "message": "YouTube 라이브 속성"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleMaxCharsExceeded.message": {
+    "message": "제목은 100자를 넘을 수 없습니다 (현재 %length%자).",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleHasInvalidChars.title": {
+    "message": "YouTube 라이브 속성"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleHasInvalidChars.message": {
+    "message": "제목 다음 문자를 포함 할 수 없습니다 '<' 와 '>'.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescMaxCharsExceeded.title": {
+    "message": "YouTube 라이브 속성"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescMaxCharsExceeded.message": {
+    "message": "설명은 5000자 이상이 될 수 없습니다. (현재 %length%자).",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescHasInvalidChars.title": {
+    "message": "YouTube 라이브 속성"
+  },
+  "messageDialog.messages.frmYouTubeLive.DescHasInvalidChars.message": {
+    "message": "설명에 '>'나 '<'을 포함할 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsMaxCharsExceeded.title": {
+    "message": "YouTube 라이브 속성"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsMaxCharsExceeded.message": {
+    "message": "태그의 길이는 500자를 넘을 수 업습니다. (현재 %length%자)",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsHasInvalidChars.title": {
+    "message": "YouTube 라이브 속성"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagsHasInvalidChars.message": {
+    "message": "태그에 '>'나 '<'을 포함할 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagMaxCharsExceeded.title": {
+    "message": "YouTube 라이브 속성"
+  },
+  "messageDialog.messages.frmYouTubeLive.TagMaxCharsExceeded.message": {
+    "message": "유튜브에 넣을 태그 '%tag%'는 30자를 초과했습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.EmailIsInvalid.title": {
+    "message": "YouTube 라이브 속성"
+  },
+  "messageDialog.messages.frmYouTubeLive.EmailIsInvalid.message": {
+    "message": "유효한 이메일 주소를 입력하십시오.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgApiError.title": {
+    "message": "YouTube 라이브 속성"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgApiError.message": {
+    "message": "YouTube Live API에 접속하는 데 오류가 발생했습니다. YouTube Live 계정이 있으신지 확인해주세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgServerError.title": {
+    "message": "YouTube 라이브 속성"
+  },
+  "messageDialog.messages.frmYouTubeLive.msgServerError.message": {
+    "message": "YouTube Live 서버와 통신상의 문제가 발생했습니다. 이것은 네트워크 문제이거나 사용자가 YouTube Live 계정이 없을 때 발생합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleIsEmpty.title": {
+    "message": "YouTube 라이브 속성"
+  },
+  "messageDialog.messages.frmYouTubeLive.TitleIsEmpty.message": {
+    "message": "제목은 비워둘 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustTVProps.UsernameIsUnknown.message": {
+    "message": "채널을 사용할 수 없거나 엑세스 코드가 보호되었습니다. 인증 번호를 제대로 넣었는지 확인해 보시고 Justin.tv 웹사이트에 채널 이름을 바르게 넣었는지 확인해 보세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.UsernameIsUnknown.title": {
+    "message": "트위치 속성"
+  },
+  "messageDialog.messages.frmTwitchProps.UsernameIsUnknown.message": {
+    "message": "채널을 사용할 수 없거나 엑세스 코드가 보호되었습니다. 인증 번호를 제대로 넣었는지 확인해 보시고 트위치 웹사이트에 채널 이름을 바르게 넣었는지 확인해 보세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmJustinTVProps.InvalidChannelCredentials.title": {
+    "message": "Justin.tv 속성"
+  },
+  "messageDialog.messages.frmJustinTVProps.InvalidChannelCredentials.message": {
+    "message": "인증하는 데 오류가 발생했습니다. Justin.tv 인증 서비스는 보통보다 시간이 지체될 수 있습니다. 아이디와 비밀번호가 맞는지 확인하시고 인터넷이 제대로 연결되었다면 이 시도를 몇 번 더 해보시기 바랍니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidChannelCredentials.title": {
+    "message": "트위치 속성"
+  },
+  "messageDialog.messages.frmTwitchProps.InvalidChannelCredentials.message": {
+    "message": "인증하는 데 오류가 발생했습니다. 아이디와 비밀번호가 맞는지 확인하시고 엑세스 코드가 보호되지는 않았는지, 그리고 트위치와의 연결이 올바른지 확인하세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.RECORDING_FILE_DELETE.title": {
+    "message": "XSplit 방송 - 녹화 영상"
+  },
+  "messageDialog.messages.RECORDING_FILE_DELETE.message": {
+    "message": "**%file%**를 삭제하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.REPAIR_FILE.title": {
+    "message": "손상된 파일 복구"
+  },
+  "messageDialog.messages.REPAIR_FILE.message": {
+    "message": "손상된 파일을 복구하시겠습니까? **%file%**?",
+    "type": "question"
+  },
+  "messageDialog.messages.CONVERT_VIDEO_TO_MP4.title": {
+    "message": "동영상을 MP4 로 변환",
+    "type": "question"
+  },
+  "messageDialog.messages.CONVERT_VIDEO_TO_MP4.message": {
+    "message": "해당 파일을 MP4 로 변환하시겠습니까? **%filename%**",
+    "type": "question"
+  },
+  "messageDialog.messages.RECORDING_FILE_UNABLE_TO_DELETE.title": {
+    "message": "XSplit 방송 - 녹화 영상"
+  },
+  "messageDialog.messages.RECORDING_FILE_UNABLE_TO_DELETE.message": {
+    "message": "%file%가 사용 중이라 삭제할 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.FUNCTION_NOT_AVAIL_NOINTERNET.title": {
+    "message": "사용할 수 없는 기능",
+    "type": "error"
+  },
+  "messageDialog.messages.FUNCTION_NOT_AVAIL_NOINTERNET.message": {
+    "message": "인터넷 연결 실패로 기능 사용 불가."
+  },
+  "messageDialog.messages.msgLoginValidation1.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLoginValidation1.message": {
+    "message": "이메일 주소 칸을 빈칸으로 둘 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidEmail.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgInvalidEmail.message": {
+    "message": "이메일 주소가 잘못되었습니다. 문자, 숫자, 점, 대쉬, 그리고 밑줄만 넣을 수 있습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgLoginValidation2.title": {
+    "message": "XSplit Broadcaster"
+  },
+  "messageDialog.messages.msgLoginValidation2.message": {
+    "message": "비밀번호를 빈칸으로 둘 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgMaxFailedLogin.title": {
+    "message": "최대  로그인 시도 실패 도달"
+  },
+  "messageDialog.messages.msgMaxFailedLogin.message": {
+    "message": "XSplit Gamecaster를 다시 시작하고 로그인을 시도 하십시오",
+    "type": "error"
+  },
+  "messageDialog.messages.servermessage_fdisdesc.message": {
+    "message": "사용자의 계정이 다른 기기에서 사용 중인것으로 감지되었습니다. 라이센스 하나 당 한 기기에서만 사용할 수 있기 때문에 해당 클라이언트의 계정은 로그아웃 되었습니다. 다시 로그인 할 수 있지만 다른 기기의 계정은 다시 로그아웃 될 것입니다. 이로인해 다른 기기의 방송이 중단 될 수 있으므로 주의해주세요.",
+    "type": "error"
+  },
+  "messageDialog.messages.servermessage_dlogdesc.message": {
+    "message": "사용자의 계정이 다른 기기에서 로그인 된 것으로 감지되었습니다. 다시 로그인 할 수 있지만 다른 기기의 계정은 다시 로그아웃 될 것입니다. 이로인해 다른 기기의 방송이 중단 될 수 있으므로 주의해주세요.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantRegisterOffline.message": {
+    "message": "오프라인 모드에서 등록할 수 없습니다.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgLoginFailedRecentAccount.message": {
+    "message": "최근 등록한 계정으로 로그인할 수 없습니다. 다시 시도 해주세요.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgSavePresentation.message": {
+    "message": "현재 프레젠테이션의 변경 내용을 저장하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgSavePresentationBeforeLoad.message": {
+    "message": "파일에서 불러오기 전에 현재 프레젠테이션의 변경 내용을 저장하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgMaxFps.message": {
+    "message": "최대 허용되는 프레임률은 %maxfps% FPS 입니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgVeryHighFps.message": {
+    "message": "이 FPS 세팅은 컴퓨터 성능이 상당히 좋아야합니다. 그 점을 인지하시고 진행해주시기 바랍니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgGameComponentUpdate.message": {
+    "message": "XSplit Broadcaster의 Game Capture 구성 요소 업데이트를 완료하려면 구성요소 자체를 다시 시작해야 합니다.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgGameComponentUpdateFailed.message": {
+    "message": "XSplit Broadcaster의 게임 캡처 구성 요소가 구 버전으로 활성되어있으니. 게임 캡처 구성 요소를 업그레이드 해야합니다. 컴퓨터를 다시 시작하고 XSplit Broadcaster를 다시 시작해 주십시오.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGameComponentUpdateUnusualBehaviour.message": {
+    "message": "XSplit Broadcaster 가 게임 캡처 구성 요소를 불러오는 도중 오류를 발견했습니다. 다시 한 번 더 시도해주시거나 시스템 메모리를 재시작 하기 위해 컴퓨터를 다시 시작해주세요.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgGameComponentUpdateTerminateXGCQuestion.message": {
+    "message": "XSplit Broadcaster의 Game Capture 구성요소를 업데이트해야 합니다. 하지만 XSplit Gamecaster가 실행 중일 때는 업데이트할 수 없습니다. 만약 계속해서 진행하면 XSplit Gamecaster는 강제종료 될 것입니다. 계속 하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgGameComponentUpdateRestart.message": {
+    "message": "XSplit Broadcaster의 Game Capture 구성요소를 업데이트해야 합니다. 하지만 XSplit Gamecaster가 실행 중일 때는 업데이트할 수 없습니다. 만약 계속해서 진행하면 XSplit Broadcaster는 강제종료 될 것입니다. 계속 하시겠습니까?",
+    "type": "error"
+  },
+  "messageDialog.messages.RtmpUrlIsEmpty.message": {
+    "message": "RTMP URL을 지정해야 합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.RtmpUrlIsInvalid.message": {
+    "message": "RTMP URL이 잘못되었습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.ChannelNameIsEmpty.message": {
+    "message": "채널 이름을 적어주세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.InvalidCharactersInChannelName.message": {
+    "message": "채널이름에 사용할 수 없는 문자가 있습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.StreamNameIsEmpty.message": {
+    "message": "스트림 이름을 지정해야 합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.ShareLinkIsInvalid.message": {
+    "message": "공유 링크가 잘못되었습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.CloseDelay.message": {
+    "message": "서버 지연 기능을 끄면 프록시 방송은 중지됩니다. 계속하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.EnableEVR.message": {
+    "message": "해당 설정 변경은 추천하지 않으며 사용시 부작용이 있을 수 있습니다. 일부 사용자들은 EVR (Microsoft Enhanced Video Renderer)사용 후 특정 캡처 카드(Roxio Game Capture HD 등)에서 일어나는 슬로우 모션 문제를 해결했다고 전해졌습니다. 이 설정을 변경하신 뒤 엑스플릿 브로드캐스터를 재시작 하세요. EVR을 사용하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.SystemSoundNotDefaultSpeakers.message": {
+    "message": "%defaultSpeakers%로 시스템 사운드를 설정해두지 않으면, 사용자의 응용 프로그램이나 게임 등 사용자의 방송과 녹화된 파일에서 나오는 소리를 들을 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.PostRegisterFailed.message": {
+    "message": "새 계정을 만들고 난 후 에러가 발생했습니다.",
+    "type": "error"
+  },
+  "messageDialog.messages.RegisterFailed.message": {
+    "message": "새로운 사용자 계정을 등록할 수 없습니다.",
+    "type": "error"
+  },
+  "messageDialog.messages.RestartLogin.message": {
+    "message": "XSplit Gamecaster를 다시 시작하고 로그인을 시도 하십시오",
+    "type": "error"
+  },
+  "messageDialog.messages.LogoutWhileRecording.message": {
+    "message": "녹화 파일은 현재 업로드 되고 있습니다. 당신은 로그아웃/종료하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.PortBlocked.message": {
+    "message": "XSplit Broadcaster는 TCP/443 포트가 차단된 것을 확인했습니다. %serviceName% 에 인증하려면 TCP/443 포트를 개방 해야합니다. [here](http://xspl.it/how-to-unblock-port-443) 이곳을 클릭해 정보를 확인하십시오.[br][br] TCP/443 포트를 열 수 없다면 'CustomRTMP'과 스트림 키를 이용해 방송하실 수도 있습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.NoInternetPortBlocked.message": {
+    "message": "XSplit Broadcaster는 %serviceName%에 연결할 수 없습니다. 차단된 TCP/443 포트를 %serviceName%에서 열려면 인증을 해야합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgEnableD3D.message": {
+    "message": "윈도우창을 만들지 못했습니다. direct3d acceleration를 작동시켜 주세요.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgAmdEnduroWarning.message": {
+    "message": "XSplit 브로드캐스터를 AMD Enduro&trade; 기술력을 사용하는 \"최고 성능\" 으로 설정 하셨습니다. 드라이버의 한계의 이해 이 기능은 지원하지 않습니다. \"전력 절약\" 모드를 사용 하시는것을 권장합니다. [br]더 알아보기: [블로그](https://xspl.it/ktvgqc)",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantRemoveResolution.message": {
+    "message": "선택한 해상도 제거할 수 없습니다. 먼저 다른 해상도를 선택하세요.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRecordingsAbortedOnInsufficientDiskSpace.message": {
+    "message": "녹화를 시작할 수 없습니다. %minFreeSpace%정도의 디스크 용량이 남아있는지 확인해주세요.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantCreateRecordingFile.message": {
+    "message": "%folder%에 녹음 파일을 만들 수 없습니다. 그 폴더에 저장하는 데 충분한 사용 권한을 가졌는지 확인하십시오.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantCreateRecordingOutDir.message": {
+    "message": "녹음 디렉토리를 만들 수 없습니다'%folder%'. 녹음을 다시 시도합니다.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgMp4requiresAac.message": {
+    "message": "AAC 코덱에서만 MP4를 사용할 수 있습니다.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgRecordingPathIsTooLong.message": {
+    "message": "%path%에 저장한다면, 저장할 경로가 너무 깁니다. 조금 줄여주세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStreamingIsPrevented.message": {
+    "message": "지금 스트리밍할 수 없습니다. 다시 로그인 하시기 바랍니다.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgStreamingWhileOfflineIsNotAllowed.message": {
+    "message": "오프라인에서 로그인했지만 온라인에서 한 것처럼 보입니다. 다시 로그인 해주세요.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgMixerFpsNotSupportedByVideoCodec.message": {
+    "message": "%codec% 으로 인코딩 가능한 프레임률 (FPS)은 다음과 같습니다.[br][br]%fpslist%.[br][br]나중에 프레임률 메뉴에서 알맞게 설정 해주세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgVideoCodecMaxEncodeLimited.message": {
+    "message": "%codec%는 최대 %maxEncode%까지 동시에 인코딩합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgPausedRecordingWarning1.message": {
+    "message": "진행 중이던 녹화가 일시 정지되었습니다. 계속해서 녹화하려면 %broadcast% 메뉴 아래의 %resumeRecording%을 누르세요.[br][br]녹화를 중지하겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgPausedRecordingWarning.message": {
+    "message": "진행 중이던 녹화가 일시 정지되었습니다. 계속해서 녹화하려면 %hotkey%을 누르세요.[br][br]녹화를 중지하겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.ResolutionAlreadyExists.message": {
+    "message": "해상도 %width% X %height%는 이미 존재합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidFramerate.message": {
+    "message": "올바른 프레임률을 설정해주세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgHighFps.message": {
+    "message": "이 FPS 세팅은 컴퓨터 성능이 상당히 좋아야합니다. 그 점을 인지하시고 진행해주시기 바랍니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.ChannelNameAlreadyExists.message": {
+    "message": "%channel% 이미 존재합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCantDeleteChannel.message": {
+    "message": "채널을 삭제할 수 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedSourcePlugins.message": {
+    "message": "XSplit 은 업데이트된 소스 플러그인을 발견 하였습니다.[br][br]%pluginlist%[br][br] 해당 플러그인에게 권한을 다시 부여해야 할 수도 있습니다.[br][br] OK 를 선택하여 표기된 플러그인을 업데이트 합니다. XSplit 을 재시작 하지 않아도 됩니다.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePlugins_npw.message": {
+    "message": "XSplit 은 업데이트된 소스 플러그인을 발견 하였습니다.[br][br]%pluginlist%[br][br] OK 를 선택하여 표기된 플러그인을 업데이트 합니다. XSplit 을 재시작 할 필요가 없습니다. ",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePluginsXbc5003.message": {
+    "message": "XSplit 은 업데이트된 소스를 발견 하였습니다.[br][br]%pluginlist%[br][br] 해당 소스에게 권한을 다시 부여해야 할 수도 있습니다.[br][br] OK 를 선택하여 표기된 소스를 업데이트 합니다. XSplit 을 재시작 하지 않아도 됩니다.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdatedSourcePluginsXbc5003_npw.message": {
+    "message": "XSplit 은 업데이트된 소스 플러그인을 발견 하였습니다.[br][br]%pluginlist%[br][br] OK 를 선택하여 표기된 플러그인을 업데이트 합니다. XSplit 을 재시작 할 필요가 없습니다. ",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePlugins.message": {
+    "message": "XSplit 은 아래의 플러그인들이 현재 버전의 XSplit 과 호환되지 않음을 발견하였습니다.[br][br]%pluginlist%[br][br] 해당 플러그인에게 권한을 다시 부여해야 할 수도 있습니다.[br][br] OK 를 선택하여 호환 가능한 플러그인 버전을 설치합니다. XSplit 을 재시작 하지 않아도 됩니다.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePlugins_npw.message": {
+    "message": "XSplit 은 아래의 플러그인들이 현재 버전의 XSplit 과 호환되지 않음을 발견하였습니다.[br][br]%pluginlist%[br][br] OK 를 선택하여 표기된 플러그인을 OK 를 선택하여 호환 가능한 플러그인 버전을 설치합니다. XSplit 의 재시작을 필요로 하지 않습니다. ",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsXbc5003.message": {
+    "message": "XSplit 은 아래의 소스들이 현재 버전의 XSplit 과 호환되지 않음을 발견하였습니다.[br][br]%pluginlist%[br][br] 해당 소스에게 권한을 다시 부여해야 할 수도 있습니다.[br][br] OK 를 선택하여 호환 가능한 소스의 버전을 설치합니다. XSplit 을 재시작 하지 않아도 됩니다.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsXbc5003_npw.message": {
+    "message": "XSplit 은 아래의 플러그인들이 현재 버전의 XSplit 과 호환되지 않음을 발견하였습니다.[br][br]%pluginlist%[br][br] OK 를 선택하여 표기된 플러그인을 OK 를 선택하여 호환 가능한 플러그인 버전을 설치합니다. XSplit 의 재시작을 필요로 하지 않습니다. ",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsInStage.message": {
+    "message": "현재 사용하고 있는 XSplit 버전에서 이미 지정하신 플러그인들이 호환하지 않는것을 발견하였습니다.\n\n[br][br]%pluginlist%[br][br]\n\nOK를 눌러 해당 플러그인들을 삭제합니다. 삭제전에 해당 프레젠테이션을 저장할 기회를 드립니다.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgOutdatedSourcePluginsInStageXbc5003.message": {
+    "message": "현재 사용하고 있는 XSplit 버전에서 이미 지정하신 플러그인들이 호환하지 않는것을 발견하였습니다.\n\n[br][br]%pluginlist%[br][br]\n\nOK를 눌러 해당 플러그인들을 삭제합니다. 삭제전에 해당 프레젠테이션을 저장할 기회를 드립니다.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgInvalidTransitionTime.message": {
+    "message": "사용할 수 없는 화면 전환 속도입니다.",
+    "type": "error"
+  },
+  "messageDialog.messages.PreviewMain_unableToCreateWindow.message": {
+    "message": "미리보기 창을 만들 수 없습니다.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgHotKeyRegException6.message": {
+    "message": "다음 단축기는 수정키 (SHIFT, CTRL, ALT)와 혼합하여 지정되어야만 합니다.[br][br]%hotkeys%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgHotKeyRegException5.message": {
+    "message": "다음 단축기는 같은 키로 지정될 수 없습니다.[br][br]%hotkeys%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCantEditActiveRecording.message": {
+    "message": "로컬 녹화를 하는 도중에는 세팅을 수정할 수 없습니다."
+  },
+  "messageDialog.messages.msgFlashConfigLoadFailure.message": {
+    "message": "대화 상자 구성을 불러드리는 것에 실패했습니다: %exceptionMessage%",
+    "type": "error"
+  },
+  "messageDialog.messages.msgFlashAxFailure.message": {
+    "message": "윈도우 익스플로러와 플래시 플레이어가 함께 작동하는 데에 있어 문제가 발생했습니다: %failMessage%"
+  },
+  "messageDialog.messages.msgFlashAxNotInstalled.message": {
+    "message": "작업을 실행 하기 위해서는 인터넷 익스플로러용 플래시 플레이어가 필요합니다."
+  },
+  "messageDialog.messages.msgSourceHandlerIsMissing.message": {
+    "message": "소스 핸들러가 없습니다."
+  },
+  "messageDialog.messages.msgSourceConfigurationHandlerIsMissing.message": {
+    "message": "구성 핸들러가 없습니다."
+  },
+  "messageDialog.messages.msgCantEditActiveStream.message": {
+    "message": "스트리밍하는 동안이 스트림의 설정을 수정할 수 없습니다."
+  },
+  "messageDialog.messages.msgLogSystemInformation.message": {
+    "message": "XSplit가 OS, 프로세서, 그래픽 카드 종류가 담긴 로그 시스템 정보에 접근하는 것을 허용하도록 해주세요. 이것은 우리 개발팀에서 기술적인 문제나 사용자가 불편해할 수 있는 것들을 조금 더 쉽게 해결할 수 있도록 합니다.[br][br]계속 체크해두시겠습니까?"
+  },
+  "messageDialog.messages.msgGlobalScriptWarning.message": {
+    "message": "반드시 신뢰할 수 있는 소스만을 추가하도록 권해드립니다. 악의적인 스크립트는 사용자의 PC에 다양한 방법으로 피해를 끼칠 수 있습니다. \"OK\"를 누르면 이 위험요소에 대해 인지하고있고 계속 진행하는 것에 동의하게 됩니다."
+  },
+  "messageDialog.messages.msgEVRWarning.message": {
+    "message": "생산에 도움되지 않는 exe 변수를 사용하고 있습니다."
+  },
+  "messageDialog.messages.INVALID_USER_TOKEN.message": {
+    "message": "알 수없는 토큰을 사용하고 있어 기능이 작동되지 않습니다. 다시 로그인 해주세요."
+  },
+  "messageDialog.messages.DATABASE_ERROR_WAIT_TIMEOUT.title": {
+    "message": "Error"
+  },
+  "messageDialog.messages.DATABASE_ERROR_WAIT_TIMEOUT.message": {
+    "message": "XSplit 공유 데이터베이스 파일에 액세스할 수 없고 다른 XSplit 요소에서 사용되고 있을 수 있습니다. 다른 요소 파일이 완료되기를 기다리시거나 다른 요소를 종료하시고 다시 로그인해주세요.",
+    "type": "error"
+  },
+  "messageDialog.messages.DATABASE_ERROR_INITIALIZATION.title": {
+    "message": "Error"
+  },
+  "messageDialog.messages.DATABASE_ERROR_INITIALIZATION.message": {
+    "message": "XSplit 공유 데이터베이스의 초기화가 예상치않게 지연 되었습니다. 다시 로그인을 시도하십시오.",
+    "type": "error"
+  },
+  "messageDialog.messages.ENABLE_SCRIPT_SECURITY.title": {
+    "message": "진행 하시기 전에 주의 깊게 읽어 보시기 바랍니다."
+  },
+  "messageDialog.messages.ENABLE_SCRIPT_SECURITY.message": {
+    "message": "이 설정을 비활성화 하시기 전에 알아두셔야 할 점은 사용 하시는 소스가 모두 신뢰되는 것이어야 합니다. 악의적인 스크립트는 사용자의 시스템을 여러모로 해칠수 있습니다. \"OK\" 를 선택하시면 이 위험을 각오 하시고 진행에 동의하시는 것 입니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.ALLOW_EXECUTE_SCRIPT.message": {
+    "message": "오직 신뢰되는 소스만을 사용하시는것을 권장합니다. 악의적인 스크립트는 사용자의 시스템을 여러모로 해칠수 있습니다. \"OK\" 를 선택하시면 이 위험을 각오 하시고 진행에 동의하시는 것 입니다.",
+    "type": "warning"
+  },
+  "messageDialog.checkbox.faststart": {
+    "message": "웹에 최적화"
+  },
+  "messageDialog.messages.msgFullnameIsInvalid.message": {
+    "message": "성명은 6-50자여야 합니다."
+  },
+  "messageDialog.messages.msgSocialLoginIsTemporarilyDisabled.message": {
+    "message": "SNS 계정을 연동하는 로그인 방식은 2.7 버전 이후부터 가능합니다.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgNoLogoutFromSteam.message": {
+    "message": "스팀 계정 사용시 로그아웃할 수 없습니다.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgInvalidSteamAccountInfo.message": {
+    "message": "스팀 계정 정보가 더이상 유효하지 않습니다. 다시 로그인 하시기 바랍니다.%message2%",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUpdateUsingSteamClientApp.message": {
+    "message": "스팀 어플리케이션을 사용하여 업데이트 하세요.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgUnableToLoginAccount_Social.message": {
+    "message": "SNS 계정으로 로그인 할 수 없습니다.%message2%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUnableToLoginAccount_Steam.message": {
+    "message": "스팀 계정으로 로그인 할 수 없습니다.%message2%",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgOutdatedExtensions.message": {
+    "message": "엑스플릿은 아래의 확장 프로그램들이 현재 버전의 엑스플릿과 호환되지 않음을 발견하였습니다.[br][br]%pluginlist%[br][br] 해당 확장 프로그램들에게 접근 권한을 다시 부여해야 할 수도 있습니다.[br][br] OK 를 선택하여 호환 가능한 확장 프로그램 버전으로 업데이트 합니다. 이후 엑스플릿을 재시작 하지 않으셔도 됩니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgOutdatedExtensions_npw.message": {
+    "message": "XSplit 은 아래의 플러그인들이 현재 버전의 XSplit 과 호환되지 않음을 발견하였습니다.[br][br]%pluginlist%[br][br] OK 를 선택하여 표기된 플러그인을 OK 를 선택하여 호환 가능한 플러그인 버전을 설치합니다. XSplit 의 재시작을 필요로 하지 않습니다. ",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedExtensions.message": {
+    "message": "업데이트 가능한 확장 프로그램과 플러그인을 감지했습니다.[br][br]%pluginlist%[br][br] 일부 확장 프로그램에게 접근 권한을 다시 부여해야 할 수도 있습니다.[br][br] OK 를 선택하여 표기된 플러그인을 업데이트 합니다. 이후 엑스플릿을 재시작 하지 않으셔도 됩니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgUpdatedExtensions_npw.message": {
+    "message": "XSplit 은 업데이트된 소스 플러그인을 발견 하였습니다.[br][br]%pluginlist%[br][br] OK 를 선택하여 표기된 플러그인을 업데이트 합니다. XSplit 을 재시작 할 필요가 없습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgCoreDllNotRegistered.message": {
+    "message": "XSplit은 일부 윈도우 DLL 이 등록되지 않은걸 발견했습니다. 이에 대한 정보는 [여기](https://xspl.it/3lcf8n)) 에서 확인 하세요. [br][br] XSplit 은 이미 이 오류를 수정하도록 시도하였지만 사용자가 직접 하시는것을 권장합니다.[br][br] OK 를 누르면 XSplit 이 직접 윈도우 시스템 파일 확인 어플리케이션을 실행합니다.",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCoreDllNotRegistered2.message": {
+    "message": "XSplit은 일부 윈도우 DLL 이 등록되지 않은걸 발견했습니다. 이에 대한 정보는 [여기](https://xspl.it/3lcf8n)) 에서 확인 하세요. [br][br] XSplit 은 이미 이 오류를 수정하도록 시도하였지만 사용자가 직접 윈도우 시스템 파일 확인 어플리케이션을 (Windows System File Checker) 실행하시는것을권장합니다.[br][br] 더 알아보기 [클릭](https://xspl.it/1rte7x).",
+    "type": "error"
+  },
+  "messageDialog.messages.msgCoreDllNotOK.message": {
+    "message": "XSplit은 일부 윈도우 DLL 이 오류로 인하여 실행 불가능하게 된것을 확인하였습니다. 이에 대한 정보는 [여기](https://xspl.it/3lcf8n)) 에서 확인 하세요. [br][br] 사용자가 직접 윈도우 시스템 파일 확인 어플리케이션을 (Windows System File Checker) 실행하시는것을권장합니다.[br][br] 더 알아보기 [클릭](https://xspl.it/1rte7x).",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_CANNOT_OPEN_MULTIPLE_XVE.title": {
+    "message": "Error",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_CANNOT_OPEN_MULTIPLE_XVE.message": {
+    "message": "최대 하나의 실행된 Express Video Editor 만 지원합니다. 이미 XSplit 게임캐스터에서 실행하는 편집기를 종료하십시오."
+  },
+  "messageDialog.messages.ERROR_MISSING_REQUIRED_PREREQ.title": {
+    "message": "Error",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_REQUIRED_PREREQ.message": {
+    "message": "필수 구성 요소를 찾지 못했습니다:[br][br]%value%[br]XSplit 브로드캐스터가 종료됩니다. 해당 필수 요소를 설치하신뒤 재시작 하세요."
+  },
+  "messageDialog.messages.ERROR_MISSING_VCE_PREREQ.title": {
+    "message": "Error",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_VCE_PREREQ.message": {
+    "message": "VCE 실행 필요 요소:[br][br]%value%"
+  },
+  "messageDialog.messages.ERROR_MISSING_NET45_PREREQ.title": {
+    "message": "Error",
+    "type": "error"
+  },
+  "messageDialog.messages.ERROR_MISSING_NET45_PREREQ.message": {
+    "message": "Player.me 기능은 다음의 TLS 1.2 연동이 필요합니다.[br][br]%value%"
+  },
+  "messageDialog.messages.DELETE_SCENE.message": {
+    "message": "해당 장면을 삭제하시겠습니까? **%scene%**",
+    "type": "question"
+  },
+  "messageDialog.messages.DUPLICATE_HOTKEY.message": {
+    "message": "해당 단축키는 동일한 키로 지정할수 없습니다. &nbsp; [br][br]%value%[br]",
+    "type": "warning"
+  },
+  "messageDialog.messages.REMOVE_OUTPUT_ENTRY.message": {
+    "message": "해당 송출 항목을 제거하시겠습니까? **%value%**",
+    "type": "question"
+  },
+  "messageDialog.messages.INVALID_PATH.message": {
+    "message": "\"%path%\" 는 잘못된 경로 입니다.",
+    "type": "error"
+  },
+  "messageDialog.messages.PATH_ACCESS_ERROR.message": {
+    "message": "**\"%path%\"** (으)로 진행하려는 도중 오류가 발생하였습니다.",
+    "type": "error"
+  },
+  "messageDialog.messages.CREATE_NON_EXISTING_PATH.message": {
+    "message": "\"%path%\" 경로는 존재하지 않습니다. 새로 만드시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.PATH_DOES_NOT_EXIST.message": {
+    "message": "\"%path%\" 경로는 존재하지 않습니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.INVALID_URL.message": {
+    "message": "유효한 URL 을 입력 하세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgPasteInfo.message": {
+    "message": "소스를 붙혀넣기 할 방법을 선택하세요.[radio]pasteAsNewSource[/radio][radio]pasteAsLinkedSource[/radio][br]**연결된 소스** 는 여러 장면에 동시에 적용되는 글로벌 소스입니다. 예를 들어 두 장면 이상에 스크롤 되는 텍스트를 자연스럽게 보이도록 사용하실 수 있습니다. [자세히 알아보기](https://xspl.it/bc/uv65wd).",
+    "type": "info"
+  },
+  "messageDialog.radio.msgPasteInfo.pasteAsNewSource.message": {
+    "message": "**새로운 소스로 붙혀넣기** (Ctrl + Shift +V)"
+  },
+  "messageDialog.radio.msgPasteInfo.pasteAsLinkedSource.message": {
+    "message": "**연결된 소스로 붙혀넣기** (Ctrl + Alt + V)"
+  },
+  "messageDialog.messages.msgPlayoutFormat.message": {
+    "message": "송출 포맷[radio]noAlpha[/radio][radio]withAlpha[/radio][br][NewTek NDI&trade; 자세히 보기](https://xspl.it/06s8kq) **%version%**"
+  },
+  "messageDialog.radio.msgPlayoutFormat.noAlpha.message": {
+    "message": "알파값 투명도 무효 (최소 CPU)"
+  },
+  "messageDialog.radio.msgPlayoutFormat.withAlpha.message": {
+    "message": "알파값 투명도 유효 (최대 CPU)"
+  },
+  "messageDialog.checkbox.dontAskAgain": {
+    "message": "다시 묻지 않습니다"
+  },
+  "messageDialog.messages.YOUTUBE_STOPPED_STREAMING.message": {
+    "message": "YouTube Live 이벤트 스트리밍을 종료 하였습니다. 현재 진행중인 이벤트도 종료 하시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgInvalidXSplitAccountInfo2.message": {
+    "message": "다시 로그인 하시기 바랍니다. 보안을 위해 비밀번호가 아닌 로그인 토큰이 저장됩니다. 해당 토큰이 취소되거나 만료되면 새로 로그인하셔야 합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidSteamAccountInfo2.message": {
+    "message": "다시 로그인 하시기 바랍니다. 보안을 위해 비밀번호가 아닌 로그인 토큰이 저장됩니다. 해당 토큰이 취소되거나 만료되면 새로 로그인하셔야 합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgInvalidSocialAccountInfo2.message": {
+    "message": "다시 로그인 하시기 바랍니다. 보안을 위해 비밀번호가 아닌 로그인 토큰이 저장됩니다. 해당 토큰이 취소되거나 만료되면 새로 로그인하셔야 합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.YOUTUBE_ULTRALOW_LATENCY_INFO.message": {
+    "message": "울트라 최저 지연 설정은 1440p 이상의 해상도를 지원하지 않습니다.[br][br]사용자님의 현재 해상도가 1080p 로 변경 되었습니다.",
+    "type": "info"
+  },
+  "messageDialog.messages.msgStingerNameIsEmpty.message": {
+    "message": "스팅어에 제목을 지정 해주세요.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStingerAlreadyExists.message": {
+    "message": "같은 제목, 같은 전환 에니매이션의 스팅어가 이미 존재합니다.",
+    "type": "warning"
+  },
+  "messageDialog.messages.msgStingerNameIsInvalid.message": {
+    "message": "스팅어의 이름에 다음과 같은 특수문자가 허용되지 않습니다: \\ / : * ? \" < > |",
+    "type": "error"
+  },
+  "messageDialog.messages.PRESENTATION_FOLDER_ALREADY_EXISTS.message": {
+    "message": "폴더명 **%foldername%** 은 이미 해당 파일 경로에 존재합니다.&nbsp; [br]&nbsp; [br]기존 폴더와 해당 폴더내 파일들을 모두 덮어씌운뒤 프레젠테이션을 불러오시겠습니까?",
+    "type": "question"
+  },
+  "messageDialog.messages.msgPluginLoadError.message": {
+    "message": "플러그인을 불러오지 못했습니다.",
+    "type": "warning"
+  },
+  "messageDialog.dropdown.projectorBorder.label.message": {
+    "message": "프로젝터 화면 테두리 영역"
+  },
+  "messageDialog.dropdown.projectorBorder.values.always.message": {
+    "message": "화면 구별을 위한 테두리 영역 항상 보이기"
+  },
+  "messageDialog.dropdown.projectorBorder.values.shift.message": {
+    "message": "SHIFT 키를 눌렀을때 화면의 테두리 영역 보이기"
+  },
+  "messageDialog.dropdown.projectorBorder.values.never.message": {
+    "message": "화면 테두리 영역 절대 보이지 않기"
+  }
+}

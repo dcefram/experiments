@@ -1,0 +1,65 @@
+{
+  "sceneSwitcher.inactive": {
+    "message": "ACTIVE"
+  },
+  "sceneSwitcher.start_scene_switcher": {
+    "message": "Start Scene Switcher"
+  },
+  "sceneSwitcher.stop_scene_switcher": {
+    "message": "Stop Scene Switcher"
+  },
+  "sceneSwitcher.general_info": {
+    "message": "Focusing on an application that is in one of your scenes will switch your mixer to that scene automaticaly. If the application is in two or more of your scenes, it will switch to the first scene by default."
+  },
+  "sceneSwitcher.start_stop_hotkey": {
+    "message": "Start/Stop Scene Switcher hotkey"
+  },
+  "sceneSwitcher.start_stop_hotkey_tooltip": {
+    "message": "This hotkey follows the global hotkey behavior. Make sure it has no duplicate with your hotkeys under Tools >> Settings >> Hotkeys."
+  },
+  "sceneSwitcher.hotkey_permission": {
+    "message": "Hotkey requires additional permission to enable (Tools -> Permissions)"
+  },
+  "sceneSwitcher.hotkey_warning": {
+    "message": "Your scene switcher hotkey value has a duplication with one of your hotkeys under Tools menu >> Settings >> Hotkeys."
+  },
+  "sceneSwitcher.no_window_match": {
+    "message": "When no window title matches"
+  },
+  "sceneSwitcher.dont_switch_radio": {
+    "message": "Don't Switch"
+  },
+  "sceneSwitcher.switch_to_radio": {
+    "message": "Switch to"
+  },
+  "sceneSwitcher.none": {
+    "message": "Нет"
+  },
+  "sceneSwitcher.switch_period": {
+    "message": "Switch Grace Period (ms)"
+  },
+  "sceneSwitcher.switch_period_tooltip": {
+    "message": "The time before a scene switches to another scene. If the newly focused application switched back to the previous application before the duration is met, no scene change will occur."
+  },
+  "sceneSwitcher.advance_mode": {
+    "message": "Advanced Mode"
+  },
+  "sceneSwitcher.advance_mode_header": {
+    "message": "ADVANCED MODE"
+  },
+  "sceneSwitcher.advance_mode_details": {
+    "message": "In Advanced Mode, you can set any application to switch to any of your scenes."
+  },
+  "sceneSwitcher.custom_rules": {
+    "message": "Custom Rules"
+  },
+  "sceneSwitcher.custom_rules_add": {
+    "message": "Добавить"
+  },
+  "sceneSwitcher.custom_rules_remove": {
+    "message": "Удалить"
+  },
+  "sceneSwitcher.custom_rules_edit": {
+    "message": "Изменить"
+  }
+}

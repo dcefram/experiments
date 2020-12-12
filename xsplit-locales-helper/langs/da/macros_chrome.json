@@ -1,0 +1,485 @@
+{
+  "permission_header": {
+    "message": "Permission is required"
+  },
+  "permission_body": {
+    "message": "DLL access is required. Please go to [Tools -> Permissions]() and grant access for this extension in order to proceed."
+  },
+  "permission_button": {
+    "message": "Go to Permissions"
+  },
+  "macro_exceeded_header": {
+    "message": "Cannot add or duplicate macro"
+  },
+  "macro_exceeded_body": {
+    "message": "You have reached the limit of 100 macros."
+  },
+  "macro_executor_header": {
+    "message": "Create a macro to setup an automated execution of XSplit Broadcaster actions in sequence. It will runautomatically when the event set is satisfied."
+  },
+  "note_title": {
+    "message": "For this version:"
+  },
+  "warning_note": {
+    "message": "If some values are not updated (i.e. scene name changes), please reload Macros extension.[br]Some events and actions may not work properly when in Split Mode or Preview Editor so it's recommended to use Classic mode when runnng Macros."
+  },
+  "button_ok": {
+    "message": "Ok"
+  },
+  "button_cancel": {
+    "message": "Cancel"
+  },
+  "delete_confirmation_header": {
+    "message": "Delete Macro"
+  },
+  "delete_confirmation_body": {
+    "message": "Are you sure you want to delete **%macroName%?**"
+  },
+  "add_macro": {
+    "message": "Add macro"
+  },
+  "continue_on_error": {
+    "message": "Continue to run macros on error"
+  },
+  "stop_macro": {
+    "message": "Stop"
+  },
+  "test_macro": {
+    "message": "Test"
+  },
+  "event_label": {
+    "message": "Event"
+  },
+  "action_label": {
+    "message": "Action"
+  },
+  "condition_label": {
+    "message": "Condition"
+  },
+  "add_action": {
+    "message": "Add action"
+  },
+  "add_condition": {
+    "message": "Add condition"
+  },
+  "enable_event_listener": {
+    "message": "Enable event listener"
+  },
+  "enable_event_listener_help_title_description": {
+    "message": "[default: unchecked]"
+  },
+  "enable_event_listener_help_message": {
+    "message": "Enabling this will start to continuously check the event. Once event is satisfied, it will run the macro (execute the actions sequentially).[br]If Event = 'On key press', it is recommended to disable this when changing the hotkey value, otherwise it will automatically run the macro on change value."
+  },
+  "script_copied_to_clipboard": {
+    "message": "Script copied to clipboard"
+  },
+  "enable_condition_check_per_action": {
+    "message": "Enable checking condition for each action"
+  },
+  "no_options": {
+    "message": "No available options"
+  },
+  "macro_tooltip": {
+    "message": "#### **%macroName%** [br] %triggerName%"
+  },
+  "key_stroke_placeholder": {
+    "message": "Enter key combination or mouse click..."
+  },
+  "select_action_placeholder": {
+    "message": "Select action..."
+  },
+  "select_condition_placeholder": {
+    "message": "Select condition..."
+  },
+  "select_trigger_placeholder": {
+    "message": "Select trigger..."
+  },
+  "select_scene_placeholder": {
+    "message": "Select scene..."
+  },
+  "select_stream_source_placeholder": {
+    "message": "Select stream source..."
+  },
+  "select_status_placeholder": {
+    "message": "Select status..."
+  },
+  "select_media_source_placeholder": {
+    "message": "Select media source..."
+  },
+  "select_output_placeholder": {
+    "message": "Select output/channel..."
+  },
+  "select_function_placeholder": {
+    "message": "Select function..."
+  },
+  "select_transition_placeholder": {
+    "message": "Select transition..."
+  },
+  "select_source_placeholder": {
+    "message": "Select source..."
+  },
+  "select_visibility_placeholder": {
+    "message": "Select visibility..."
+  },
+  "select_playback_state_placeholder": {
+    "message": "Select playback state..."
+  },
+  "select_source_with_audio_placeholder": {
+    "message": "Select source with audio..."
+  },
+  "select_mute_state_placeholder": {
+    "message": "Select mute state..."
+  },
+  "select_macro_placeholder": {
+    "message": "Select macro..."
+  },
+  "select_media_state_placeholder": {
+    "message": "Select media state..."
+  },
+  "select_macro_state_placeholder": {
+    "message": "Select macro state..."
+  },
+  "edit_macro_name_placeholder": {
+    "message": "Enter macro name"
+  },
+  "disabled_trigger_display_name": {
+    "message": "(Disabled listener) %displayName%"
+  },
+  "trigger_display_name": {
+    "message": "%displayName%"
+  },
+  "new_action": {
+    "message": "New Action"
+  },
+  "trigger_display_name_manual_run": {
+    "message": "No event"
+  },
+  "trigger_display_name_on_key_press": {
+    "message": "On **%keyInput%**"
+  },
+  "trigger_display_name_every_interval": {
+    "message": "Every **%time%** ms"
+  },
+  "trigger_display_name_on_scheduled_time": {
+    "message": "At **%timeSchedule%**"
+  },
+  "trigger_display_name_on_scene_switch": {
+    "message": "On scene switch to **%scene%**"
+  },
+  "trigger_display_name_stream_source_state_change": {
+    "message": "When **%stream%** goes **%state%**"
+  },
+  "trigger_display_name_after_media_playback": {
+    "message": "When **%id%** stops"
+  },
+  "trigger_display_name_custom_function": {
+    "message": "Custom script"
+  },
+  "trigger_display_name_default_manual_run": {
+    "message": "No event"
+  },
+  "trigger_display_name_default_on_key_press": {
+    "message": "On key press [?]"
+  },
+  "trigger_display_name_default_every_interval": {
+    "message": "Every interval [?]"
+  },
+  "trigger_display_name_default_on_scheduled_time": {
+    "message": "On scheduled time [?]"
+  },
+  "trigger_display_name_default_on_scene_switch": {
+    "message": "On scene switch [?]"
+  },
+  "trigger_display_name_default_stream_source_state_change": {
+    "message": "When a stream source goes online/offline [?]"
+  },
+  "trigger_display_name_default_after_media_playback": {
+    "message": "When a media source stops [?]"
+  },
+  "trigger_display_name_default_custom_function": {
+    "message": "Custom Script [?]"
+  },
+  "trigger_option_display_manual_run": {
+    "message": "No event"
+  },
+  "trigger_option_display_on_key_press": {
+    "message": "On key press"
+  },
+  "trigger_option_display_every_interval": {
+    "message": "Every interval"
+  },
+  "trigger_option_display_on_scheduled_time": {
+    "message": "On scheduled time"
+  },
+  "trigger_option_display_on_scene_switch": {
+    "message": "On scene switch"
+  },
+  "trigger_option_display_stream_source_state_change": {
+    "message": "When a stream source goes online/offline"
+  },
+  "trigger_option_display_after_media_playback": {
+    "message": "When a media source stops"
+  },
+  "trigger_option_display_custom_function": {
+    "message": "Custom script"
+  },
+  "trigger_presets_time": {
+    "message": "time"
+  },
+  "trigger_presets_time_schedule": {
+    "message": "Schedule"
+  },
+  "trigger_presets_state_online": {
+    "message": "online"
+  },
+  "trigger_presets_state_offline": {
+    "message": "offline"
+  },
+  "trigger_presets_custom_function_placeholder": {
+    "message": "Type or paste your script here...[br]Scripts have these parameters (callFunctionArray, xjs).[br]Custom event script must return a function to clear/remove event listeners."
+  },
+  "action_display_name_wait": {
+    "message": "Wait for %time% ms"
+  },
+  "action_display_name_start_stop_broadcast": {
+    "message": "%broadcastState% broadcasting to %output%"
+  },
+  "action_display_name_scene_change": {
+    "message": "Switch to %scene%"
+  },
+  "action_display_name_scene_transition_change": {
+    "message": "Set scene transition to %transition%, %time% ms"
+  },
+  "action_display_name_set_source_visibilty": {
+    "message": "%visibility% %videoItem%"
+  },
+  "action_display_name_playback_media": {
+    "message": "%newPlaybackState% %id%"
+  },
+  "action_display_name_toggle_mute": {
+    "message": "%mute% %itemAudio%"
+  },
+  "action_display_name_run_macro": {
+    "message": "Run %macro%"
+  },
+  "action_display_name_stop_macro": {
+    "message": "Stop %stopMacroId%"
+  },
+  "action_display_name_push_to_live": {
+    "message": "Push to live"
+  },
+  "action_display_name_enable_disable_macro": {
+    "message": "%toggle% %macro% listener"
+  },
+  "action_display_name_go_to_action": {
+    "message": "Go to %action%"
+  },
+  "action_display_name_custom_function": {
+    "message": "Custom Script (%customFunctionAction% ...)"
+  },
+  "action_display_name_default_wait": {
+    "message": "Wait [?]"
+  },
+  "action_display_name_default_start_stop_broadcast": {
+    "message": "Start/stop broadcast [?]"
+  },
+  "action_display_name_default_scene_change": {
+    "message": "Switch to scene [?]"
+  },
+  "action_display_name_default_scene_transition_change": {
+    "message": "Set scene transition [?]"
+  },
+  "action_display_name_default_set_source_visibilty": {
+    "message": "Set source visibility [?]"
+  },
+  "action_display_name_default_playback_media": {
+    "message": "Set media source playback state [?]"
+  },
+  "action_display_name_default_toggle_mute": {
+    "message": "Set audio source state [?]"
+  },
+  "action_display_name_default_run_macro": {
+    "message": "Run macro [?]"
+  },
+  "action_display_name_default_stop_macro": {
+    "message": "Stop macro [?]"
+  },
+  "action_display_name_default_push_to_live": {
+    "message": "Push to live"
+  },
+  "action_display_name_default_enable_disable_macro": {
+    "message": "Enable/disable macro event listener [?]"
+  },
+  "action_display_name_default_go_to_action": {
+    "message": "Go to action [?]"
+  },
+  "action_display_name_default_custom_function": {
+    "message": "Custom Script [?]"
+  },
+  "action_option_display_wait": {
+    "message": "Wait"
+  },
+  "action_option_display_start_stop_broadcast": {
+    "message": "Start/stop broadcast"
+  },
+  "action_option_display_scene_change": {
+    "message": "Switch to scene"
+  },
+  "action_option_display_scene_transition_change": {
+    "message": "Set scene transition"
+  },
+  "action_option_display_set_source_visibilty": {
+    "message": "Set source visibility"
+  },
+  "action_option_display_playback_media": {
+    "message": "Set media source playback state"
+  },
+  "action_option_display_toggle_mute": {
+    "message": "Set source audio state"
+  },
+  "action_option_display_run_macro": {
+    "message": "Run macro"
+  },
+  "action_option_display_stop_macro": {
+    "message": "Stop macro"
+  },
+  "action_option_display_push_to_live": {
+    "message": "Push to live"
+  },
+  "action_option_display_enable_disable_macro": {
+    "message": "Enable/Disable macro event listener"
+  },
+  "action_option_display_go_to_action": {
+    "message": "Go to action"
+  },
+  "action_option_display_custom_function": {
+    "message": "Custom script"
+  },
+  "action_presets_time": {
+    "message": "time"
+  },
+  "action_presets_wait_until_done": {
+    "message": "wait until done"
+  },
+  "action_presets_custom_function_placeholder": {
+    "message": "Type or paste your script here...[br]Scripts have these parameters (resolve, reject, xjs).[br]Custom action script must either resolve or reject."
+  },
+  "action_presets_start": {
+    "message": "Start"
+  },
+  "action_presets_stop": {
+    "message": "Stop"
+  },
+  "action_presets_show": {
+    "message": "Show"
+  },
+  "action_presets_hide": {
+    "message": "Hide"
+  },
+  "action_presets_toggle_visibility": {
+    "message": "Toggle Visibility"
+  },
+  "action_presets_play": {
+    "message": "Play"
+  },
+  "action_presets_pause": {
+    "message": "Pause"
+  },
+  "action_presets_mute": {
+    "message": "Mute"
+  },
+  "action_presets_unmute": {
+    "message": "Unmute"
+  },
+  "action_presets_toggle_audio": {
+    "message": "Toggle audio state"
+  },
+  "action_presets_enable": {
+    "message": "Enable"
+  },
+  "action_presets_disable": {
+    "message": "Disable"
+  },
+  "condition_display_name_active_scene": {
+    "message": "If active scene is %scene%"
+  },
+  "condition_display_name_stream_source": {
+    "message": "If %stream% is %state%"
+  },
+  "condition_display_name_source_visibility": {
+    "message": "If %videoItem% is %visibility%"
+  },
+  "condition_display_name_media_state": {
+    "message": "If %id% is %mediaState%"
+  },
+  "condition_display_name_macro_state": {
+    "message": "If %macro% is %state%"
+  },
+  "condition_display_name_custom_function": {
+    "message": "Custom Condition (%customFunctionCondition%)"
+  },
+  "condition_display_name_default_active_scene": {
+    "message": "Check active scene [?]"
+  },
+  "condition_display_name_default_stream_source": {
+    "message": "Check stream source [?]"
+  },
+  "condition_display_name_default_source_visibility": {
+    "message": "Check source visibility [?]"
+  },
+  "condition_display_name_default_media_state": {
+    "message": "Check media state [?]"
+  },
+  "condition_display_name_default_macro_state": {
+    "message": "Check macro state [?]"
+  },
+  "condition_display_name_default_custom_function": {
+    "message": "Custom Condition [?]"
+  },
+  "condition_option_display_active_scene": {
+    "message": "Check active scene"
+  },
+  "condition_option_display_stream_source": {
+    "message": "Check stream source"
+  },
+  "condition_option_display_source_visibility": {
+    "message": "Check source visibility"
+  },
+  "condition_option_display_media_state": {
+    "message": "Check media state"
+  },
+  "condition_option_display_macro_state": {
+    "message": "Check macro state"
+  },
+  "condition_option_display_custom_function": {
+    "message": "Custom condition"
+  },
+  "condition_presets_online": {
+    "message": "online"
+  },
+  "condition_presets_offline": {
+    "message": "offline"
+  },
+  "condition_presets_visible": {
+    "message": "visible"
+  },
+  "condition_presets_hidden": {
+    "message": "hidden"
+  },
+  "condition_presets_playing": {
+    "message": "playing"
+  },
+  "condition_presets_not_playing": {
+    "message": "not playing"
+  },
+  "condition_presets_enabled": {
+    "message": "enabled"
+  },
+  "condition_presets_disabled": {
+    "message": "disabled"
+  },
+  "condition_presets_custom_function_placeholder": {
+    "message": "Type or paste your script here...[br]Scripts have these parameters (resolve, reject, xjs, args, callFunctionArray).[br]Custom condition script must always resolve."
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "facebook.chat.tabheader": {
+    "message": "crwdns14783:0crwdne14783:0"
+  },
+  "facebook.chat.source": {
+    "message": "crwdns14721:0crwdne14721:0"
+  },
+  "facebook.chat.account": {
+    "message": "crwdns14722:0crwdne14722:0"
+  },
+  "facebook.chat.automatic": {
+    "message": "crwdns18120:0crwdne18120:0"
+  },
+  "facebook.chat.authorize": {
+    "message": "crwdns14723:0crwdne14723:0"
+  },
+  "facebook.chat.remove_authorization": {
+    "message": "crwdns14805:0%api%crwdne14805:0"
+  },
+  "facebook.chat.switch_account": {
+    "message": "crwdns14806:0%api%crwdne14806:0"
+  },
+  "facebook.chat.error_auth": {
+    "message": "crwdns14726:0crwdne14726:0"
+  },
+  "facebook.chat.not_connected": {
+    "message": "crwdns14727:0crwdne14727:0"
+  },
+  "facebook.chat.connected": {
+    "message": "crwdns14728:0crwdne14728:0"
+  },
+  "facebook.chat.display": {
+    "message": "crwdns14729:0crwdne14729:0"
+  },
+  "facebook.chat.preview": {
+    "message": "crwdns14730:0crwdne14730:0"
+  },
+  "facebook.chat.chatbox": {
+    "message": "crwdns14731:0crwdne14731:0"
+  },
+  "facebook.chat.opacity": {
+    "message": "crwdns14732:0crwdne14732:0"
+  },
+  "facebook.chat.viewers": {
+    "message": "crwdns14733:0crwdne14733:0"
+  },
+  "facebook.chat.message": {
+    "message": "crwdns14734:0crwdne14734:0"
+  },
+  "facebook.chat.text_size": {
+    "message": "crwdns14735:0crwdne14735:0"
+  },
+  "facebook.chat.text_direction": {
+    "message": "crwdns14736:0crwdne14736:0"
+  },
+  "facebook.chat.hide_user_icons": {
+    "message": "crwdns14737:0crwdne14737:0"
+  },
+  "facebook.chat.one_line_entries": {
+    "message": "crwdns14738:0crwdne14738:0"
+  },
+  "facebook.chat.hide_timestamps": {
+    "message": "crwdns14739:0crwdne14739:0"
+  },
+  "facebook.chat.hide_chat_when_idle": {
+    "message": "crwdns14740:0crwdne14740:0"
+  },
+  "facebook.chat.blocking": {
+    "message": "crwdns63618:0crwdne63618:0"
+  },
+  "facebook.chat.blockedlist": {
+    "message": "crwdns63620:0crwdne63620:0"
+  },
+  "facebook.chat.block_help": {
+    "message": "crwdns63622:0[br]crwdnd63622:0[br]crwdne63622:0"
+  },
+  "facebook.chat.blocking_name": {
+    "message": "crwdns63624:0crwdne63624:0"
+  },
+  "facebook.chat.block_name": {
+    "message": "crwdns63626:0crwdne63626:0"
+  },
+  "facebook.chat.block_add": {
+    "message": "crwdns63628:0crwdne63628:0"
+  },
+  "facebook.chat.block_remove": {
+    "message": "crwdns63630:0crwdne63630:0"
+  },
+  "facebook.chat.hide_connection_message": {
+    "message": "crwdns63962:0crwdne63962:0"
+  },
+  "facebook.chat.not_seeing_videos": {
+    "message": "crwdns79222:0crwdne79222:0"
+  },
+  "facebook.chat.not_seeing_videos_help": {
+    "message": "crwdns81460:0crwdne81460:0"
+  },
+  "facebook.chat.not_seeing_videos_link": {
+    "message": "crwdns79226:0crwdne79226:0"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "spotify.tabheader": {
+    "message": "Spotify: กำลังเล่น"
+  },
+  "spotify.content": {
+    "message": "เนื้อหา"
+  },
+  "spotify.auth": {
+    "message": "เชื่อมต่อ XSplit เพื่อใช้ Spotify"
+  },
+  "spotify.log_out": {
+    "message": "ออกจากระบบ"
+  },
+  "spotify.appearance": {
+    "message": "รูปร่าง"
+  },
+  "spotify.dark_mode": {
+    "message": "โหมดมืด"
+  },
+  "spotify.light_mode": {
+    "message": "โหมดสว่าง"
+  },
+  "spotify.opacity": {
+    "message": "ความทึบแสง"
+  },
+  "spotify.show_album": {
+    "message": "แสดงภาพอัลบั้ม"
+  },
+  "spotify.now_playing": {
+    "message": "กำลังเล่น"
+  },
+  "spotify.not_connected": {
+    "message": "ไม่มีการเชื่อมต่อบัญชี Spotify"
+  },
+  "spotify.right_click_login": {
+    "message": "คลิกขวาเพื่อลงชื่อเข้าสู่ระบบ"
+  }
+}

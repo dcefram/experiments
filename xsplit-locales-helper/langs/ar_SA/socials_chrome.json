@@ -1,0 +1,287 @@
+{
+	"socials.stream.label": {
+		"message": "اختر بث لمشاركته"
+	},
+	"socials.facebook.tab": {
+		"message": "فيسبوك"
+	},
+	"socials.facebook.logged": {
+		"message": "التسجيل باسم%username%"
+	},
+	"socials.facebook.title": {
+		"message": "مشاركة بثك على الفيسبوك"
+	},
+	"socials.facebook.messagePlaceholder": {
+		"message": "Type your message here"
+	},
+	"socials.facebook.privacy.label": {
+		"message": "Privacy"
+	},
+	"socials.facebook.privacy.values.EVERYONE": {
+		"message": "Public"
+	},
+	"socials.facebook.privacy.values.ALL_FRIENDS": {
+		"message": "Friends"
+	},
+	"socials.facebook.privacy.values.FRIENDS_OF_FRIENDS": {
+		"message": "Friends of Friends"
+	},
+	"socials.facebook.privacy.values.SELF": {
+		"message": "Only Me"
+	},
+	"socials.facebook.share": {
+		"message": "Share"
+	},
+	"socials.facebook.cancel": {
+		"message": "Cancel"
+	},
+	"socials.facebook.authenticate": {
+		"message": "السماح بالنشر على الفيسبوك"
+	},
+	"socials.facebook.unauthenticated": {
+		"message": "عليك التسجيل للتتمكن من مشاركة بثك على الفيسبوك."
+	},
+	"socials.twitter.tab": {
+		"message": "تويتر"
+	},
+	"socials.twitter.logged": {
+		"message": "التسجيل باسم%username%"
+	},
+	"socials.twitter.title": {
+		"message": "مشاركة بثك على تويتر"
+	},
+	"socials.twitter.messagePlaceholder": {
+		"message": "Type your message here"
+	},
+	"socials.twitter.tweet": {
+		"message": "Share"
+	},
+	"socials.twitter.cancel": {
+		"message": "Cancel"
+	},
+	"socials.twitter.authenticate": {
+		"message": "السماح بالتغريد على تويتر"
+	},
+	"socials.twitter.unauthenticated": {
+		"message": "عليك التسجيل للتتمكن من مشاركة بثك على تويتر."
+	},
+	"socials.google.tab": {
+		"message": "جوجل"
+	},
+	"socials.google.logged": {
+		"message": "التسجيل باسم%username%"
+	},
+	"socials.google.title": {
+		"message": "مشاركة بثك على جوجل"
+	},
+	"socials.google.share": {
+		"message": "Share"
+	},
+	"socials.google.cancel": {
+		"message": "Cancel"
+	},
+	"socials.google.authenticate": {
+		"message": "السماح بالنشر على جوجل"
+	},
+	"socials.google.unauthenticated": {
+		"message": "عليك التسجيل لتتمكن من مشاركة بثك على جوجل."
+	},
+	"socials.processing": {
+		"message": "Processing"
+	},
+	"facebookShare.addMessage": {
+		"message": "Type your message here"
+	},
+	"facebookShare.shareVideoToFacebook": {
+		"message": "Share Video to Facebook"
+	},
+	"facebookShare.via": {
+		"message": "via XSplit Broadcaster"
+	},
+	"facebookShare.privacy": {
+		"message": "Privacy"
+	},
+	"facebookShare.privacyLookup.EVERYONE": {
+		"message": "Public"
+	},
+	"facebookShare.privacyLookup.ALL_FRIENDS": {
+		"message": "Friends"
+	},
+	"facebookShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "Friends of Friends"
+	},
+	"facebookShare.privacyLookup.SELF": {
+		"message": "Only Me"
+	},
+	"facebookShare.shareVideo": {
+		"message": "SHARE"
+	},
+	"facebookShare.cancel": {
+		"message": "CANCEL"
+	},
+	"facebookShare.processing": {
+		"message": "Processing"
+	},
+	"facebookShare.postAs": {
+		"message": "النشر على"
+	},
+	"facebookShare.timeline": {
+		"message": "Facebook Timeline"
+	},
+	"facebookShare.managePage": {
+		"message": "Pages you manage"
+	},
+	"twitterShare.addMessage": {
+		"message": "Type your message here"
+	},
+	"twitterShare.shareVideoToTwitter": {
+		"message": "Share Video to Twitter"
+	},
+	"twitterShare.privacy": {
+		"message": "Privacy"
+	},
+	"twitterShare.tweetVideo": {
+		"message": "SHARE"
+	},
+	"twitterShare.cancel": {
+		"message": "CANCEL"
+	},
+	"twitterShare.processing": {
+		"message": "Processing"
+	},
+	"googlePlusShare.addMessage": {
+		"message": "Type your message here"
+	},
+	"googlePlusShare.shareVideoToGooglePlus": {
+		"message": "Share Video to Google+"
+	},
+	"googlePlusShare.via": {
+		"message": "via XSplit Broadcaster"
+	},
+	"googlePlusShare.privacy": {
+		"message": "Privacy"
+	},
+	"googlePlusShare.privacyLookup.EVERYONE": {
+		"message": "Everyone"
+	},
+	"googlePlusShare.privacyLookup.ALL_FRIENDS": {
+		"message": "All Friends"
+	},
+	"googlePlusShare.privacyLookup.FRIENDS_OF_FRIENDS": {
+		"message": "Friends of Friends"
+	},
+	"googlePlusShare.privacyLookup.SELF": {
+		"message": "Self"
+	},
+	"googlePlusShare.shareVideo": {
+		"message": "SHARE"
+	},
+	"googlePlusShare.cancel": {
+		"message": "CANCEL"
+	},
+	"googlePlusShare.processing": {
+		"message": "Processing"
+	},
+	"vodShare.unauthorized": {
+		"message": "قبل نشر بثك، عليك تفويض حساب تواصل اجتماعي واحد على الاقل عن طريق الضغط على الايقونة بالاعلى."
+	},
+	"vodShare.shareVideoTitle": {
+		"message": "مشاركة البث "
+	},
+	"vodShare.processing": {
+		"message": "Processing"
+	},
+	"vodShare.addLink": {
+		"message": "إضافة رابط بث"
+	},
+	"vodShare.facebookPrivacy": {
+		"message": "اعدادات الخصوصية"
+	},
+	"vodShare.gameCheckin": {
+		"message": "Game Check In"
+	},
+	"vodShare.shareVideo": {
+		"message": "SHARE"
+	},
+	"vodShare.cancel": {
+		"message": "CANCEL"
+	},
+	"vodShare.shareTo.1": {
+		"message": "المشاركة على %service1%فقط"
+	},
+	"vodShare.shareTo.2": {
+		"message": "المشاركة على%service1% و%service2%"
+	},
+	"vodShare.shareTo.3": {
+		"message": "المشاركة على %service1%و%service2%و%service3%"
+	},
+	"vodShare.shareTo.4": {
+		"message": "المشاركة على %service1% و%service2% و %service3% و %service4%"
+	},
+	"vodShare.twitterCount.label": {
+		"message": "TWITTER MESSAGE COUNTER"
+	},
+	"vodShare.twitterCount.tooltip": {
+		"message": "Counts the character left that can be posted to Twitter. You will find the blue colored text in the message, which is the only text that will be posted to Twitter."
+	},
+	"vodShare.gameNameWarning": {
+		"message": "The game name does not exist in Player.me database. As a result, it will not show up on your post."
+	},
+	"vodShare.loadMore": {
+		"message": "تحميل المزيد..."
+	},
+	"vodStatus.title": {
+		"message": "مشاركة البث "
+	},
+	"vodStatus.facebook": {
+		"message": "فيسبوك"
+	},
+	"vodStatus.twitter": {
+		"message": "تويتر"
+	},
+	"vodStatus.playerme": {
+		"message": "Player.me"
+	},
+	"vodStatus.gplus": {
+		"message": "Google Plus"
+	},
+	"vodStatus.posting": {
+		"message": "Posting to %social%..."
+	},
+	"vodStatus.success": {
+		"message": "Successfully posted on %social%.[br][%message%](%url%)"
+	},
+	"vodStatus.message.facebook": {
+		"message": "View post"
+	},
+	"vodStatus.message.twitter": {
+		"message": "View tweet"
+	},
+	"vodStatus.message.playerme": {
+		"message": "View post"
+	},
+	"vodStatus.message.viewDetails": {
+		"message": "View details"
+	},
+	"vodStatus.error": {
+		"message": "Failed to post on %social%."
+	},
+	"vodStatus.failed": {
+		"message": "Failed to post on %social%.[br][%message%](%url%)"
+	},
+	"vodStatus.invalid": {
+		"message": "Cannot post to %social%."
+	},
+	"vodStatus.edit": {
+		"message": "تحرير"
+	},
+	"vodStatus.retry": {
+		"message": "Retry"
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "Looking for suggestions..."
+	},
+	"dialog.ok": {
+		"message": "CLOSE"
+	}
+}

@@ -1,0 +1,50 @@
+{
+  "whiteboard_overlay.drawing": {
+    "message": "Dessin"
+  },
+  "whiteboard_overlay.reminder": {
+    "message": "Pour commencer à dessiner, souvenez-vous toujours de cocher la case Verrouiller position dans l'onglet Disposition et de vous assurer que la source n'est pas pivotée."
+  },
+  "whiteboard_overlay.tool": {
+    "message": "Outil"
+  },
+  "whiteboard_overlay.size": {
+    "message": "Taille"
+  },
+  "whiteboard_overlay.color": {
+    "message": "Couleur"
+  },
+  "whiteboard_overlay.clear_whiteboard": {
+    "message": "Effacer tableau blanc"
+  },
+  "whiteboard_overlay.hotkeys": {
+    "message": "Effacer tableau blanc"
+  },
+  "whiteboard_overlay.hotkey_header": {
+    "message": "Utiliser ces raccourcis lorsque la source est sélectionnée :"
+  },
+  "whiteboard_overlay.hotkey_s": {
+    "message": "Appuyez sur &quot;**S**&quot; pour basculer entre les tailles (S\/M\/L)"
+  },
+  "whiteboard_overlay.hotkey_shift": {
+    "message": "Maintenez &quot;**Shift**&quot; pour utiliser l'outil alternatif [br]Formes : Forme libre -> Détection de forme (ligne, triangle, cercle, rectangle)"
+  },
+  "whiteboard_overlay.hotkey_d": {
+    "message": "Appuyez sur &quot;**D**&quot; pour enregistrer le dessin actuel"
+  },
+  "whiteboard_overlay.hotkey_esc": {
+    "message": "Appuyez sur &quot;**Esc**&quot; pour effacer le tableau blanc"
+  },
+  "whiteboard_overlay.tool_options_freehand": {
+    "message": "Main levée"
+  },
+  "whiteboard_overlay.size_options_thin": {
+    "message": "Fin"
+  },
+  "whiteboard_overlay.size_options_normal": {
+    "message": "Normal"
+  },
+  "whiteboard_overlay.size_options_thick": {
+    "message": "Épais"
+  }
+}

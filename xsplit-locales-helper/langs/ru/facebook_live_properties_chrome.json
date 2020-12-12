@@ -1,0 +1,95 @@
+{
+	"title": {
+		"message": "Свойства Facebook Live"
+	},
+	"save_close": {
+		"message": "Сохранить & Закрыть"
+	},
+	"start_streaming": {
+		"message": "Продолжить"
+	},
+	"logged_in_as": {
+		"message": "Вы вошли в систему как: %fullname%"
+	},
+	"switch_account": {
+		"message": "[Сменить аккаунт](switchAccount)"
+	},
+	"remove_auth": {
+		"message": "[Отозвать авторизацию](removeAuth)"
+	},
+	"stream_settings": {
+		"message": "Параметры стрима"
+	},
+	"stream_to.label": {
+		"message": "Стримить в: "
+	},
+	"stream_to.values.timeline": {
+		"message": "Ленту"
+	},
+	"stream_to.values.page": {
+		"message": "На страницу"
+	},
+	"stream_to.values.group": {
+		"message": "В группу"
+	},
+	"stream_to.values.event": {
+		"message": "Событие"
+	},
+	"stream_to.pageauth": {
+		"message": "Страница - требуется разрешение"
+	},
+	"stream_to.groupauth": {
+		"message": "Группа - требуется разрешение"
+	},
+	"stream_to.eventauth": {
+		"message": "Событие - требуется разрешение"
+	},
+	"page": {
+		"message": "Страница: "
+	},
+	"timeline": {
+		"message": "Лента: "
+	},
+	"group": {
+		"message": "Группа: "
+	},
+	"event": {
+		"message": "Событие: "
+	},
+	"format.label": {
+		"message": "Формат: "
+	},
+	"encoder.label": {
+		"message": "Кодировщик: "
+	},
+	"bitrate": {
+		"message": "Битрейт: "
+	},
+	"saveVideo": {
+		"message": "Сохранить видео в Мои Записи"
+	},
+	"resolutionWarning": {
+		"message": "При таком разрешении у вашего оборудования могут возникнуть проблемы с производительностью."
+	},
+	"bitrateWarning": {
+		"message": "Пропускной способности вашей сети может быть недостаточно для стриминга с таким битрейтом."
+	},
+	"streamingWarning": {
+		"message": "Тесты пропускной способности сети и производительности оборудования не могут быть выполнены в процессе стриминга или записи."
+	},
+	"checkAgain": {
+		"message": "[Протестировать ещё раз?](testAgain)"
+	},
+	"authorize": {
+		"message": "Кликните для того чтобы разрешить XSplit стримить в ваш аккаунт Facebook"
+	},
+	"configuring": {
+		"message": "Настройка параметров..."
+	},
+	"system_test": {
+		"message": "Последний тест системы: %timestamp% [Тестировать заново](testAgain)"
+	},
+	"advanced_settings": {
+		"message": "[Расширенные настройки](advancedSettings)"
+	}
+}

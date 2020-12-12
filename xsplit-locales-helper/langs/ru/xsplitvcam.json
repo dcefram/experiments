@@ -1,0 +1,146 @@
+{
+  "menu.language": {
+    "message": "Сменить язык"
+  },
+  "menu.calibrate": {
+    "message": "Калибровать"
+  },
+  "menu.account": {
+    "message": "Мой аккаунт"
+  },
+  "menu.help": {
+    "message": "Помощь"
+  },
+  "menu.signin": {
+    "message": "Войти с помощью"
+  },
+  "menu.logout": {
+    "message": "Выйти"
+  },
+  "menu.about": {
+    "message": "О программе"
+  },
+  "menu.source": {
+    "message": "Источник"
+  },
+  "menu.filter": {
+    "message": "Фильтр"
+  },
+  "menu.bgFilter.og": {
+    "message": "Оригинальный фон"
+  },
+  "menu.bgFilter.replace": {
+    "message": "Изменить фон"
+  },
+  "menu.bgFilter.remove": {
+    "message": "Убрать фон"
+  },
+  "menu.bgImage": {
+    "message": "Фоновое изображение"
+  },
+  "menu.bgBlur": {
+    "message": "Размыть фон"
+  },
+  "menu.filterMenu.automatic": {
+    "message": "Автоматически"
+  },
+  "menu.filterMenu.accel": {
+    "message": "Аппаратное ускорение"
+  },
+  "menu.filterMenu.quality": {
+    "message": "Управление качеством"
+  },
+  "menu.filterMenu.quality.low": {
+    "message": "Низкое"
+  },
+  "menu.filterMenu.quality.med": {
+    "message": "Стандартное"
+  },
+  "menu.filterMenu.quality.high": {
+    "message": "Высокое"
+  },
+  "menu.filterMenu.addtl": {
+    "message": "Дополнительные параметры"
+  },
+  "menu.filterMenu.addtl.chair": {
+    "message": "Убрать кресло"
+  },
+  "menu.browse.local": {
+    "message": "Просмотреть локальные файлы"
+  },
+  "menu.browse.online": {
+    "message": "Онлайн интернет-страница"
+  },
+  "calibrate.title": {
+    "message": "Калибровать XSplit VCam"
+  },
+  "calibrate.subtitle": {
+    "message": "Калибровка XSplit VCam позволяет нам повысить производительность вашей рабочей среды и камеры."
+  },
+  "calibrate.source": {
+    "message": "Выберите камеру-источник:"
+  },
+  "calibrate.vidConsent": {
+    "message": "Загрузить 15-секундное видео и данные для калибровки для улучшения производительности"
+  },
+  "calibrate.title2": {
+    "message": "Калибровка..."
+  },
+  "calibrate.subtitle2": {
+    "message": "Оставайтесь перед камерой на протяжении 15-ти секунд, посмотрите в разные стороны, поднимите руки или просто делайте то, что вы обычно делаете перед объективом."
+  },
+  "calibrate.title3": {
+    "message": "Готово!"
+  },
+  "calibrate.subtitle3": {
+    "message": "XSplit VCam готова к использованию. Просто выберите ”XSplit VCam”, в качестве камеры в вашем Skype, OBS, XSplit Broadcaster или в любом другом приложении, использующем камеру."
+  },
+  "calibrate.denyConsent": {
+    "message": "Вы уверены, что не хотите загрузить данные для калибровки? Мы используем ваши данные ТОЛЬКО для улучшения функции удаления фона AI, без чего просто не сможем улучшить работу приложения для вас."
+  },
+  "feedback.ask": {
+    "message": "Как вам нравится наше приложение?"
+  },
+  "feedback.rating.low": {
+    "message": "Нам жаль, что у вас возникли проблемы с использованием нашего приложения."
+  },
+  "feedback.rating.med": {
+    "message": "Как мы можем его улучшить"
+  },
+  "feedback.rating.high": {
+    "message": "Спасибо за 5 звёзд!"
+  },
+  "feedback.vidConsent": {
+    "message": "Я хочу записать образец видео"
+  },
+  "feedback.question": {
+    "message": "Есть ли ещё какие-то способы какими мы можем улучшить наше приложение? Возможно, какие-либо функции, которые нужно добавить?"
+  },
+  "feedback.comments": {
+    "message": "Комментарий (необязательно)"
+  },
+  "feedback.thanks": {
+    "message": "Спасибо за ваш отзыв!"
+  },
+  "feedback.assurance": {
+    "message": "Мы постараемся улучшить наше приложение для вас."
+  },
+  "purchase.buy": {
+    "message": "Купить сейчас!"
+  },
+  "window.continue": {
+    "message": "Продолжить"
+  },
+  "window.close": {
+    "message": "Закрыть"
+  },
+  "window.cancel": {
+    "message": "Отменить"
+  },
+  "window.redo": {
+    "message": "Повторить"
+  },
+  "window.submit": {
+    "message": "Отправить"
+  }
+}

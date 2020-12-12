@@ -1,0 +1,122 @@
+{
+  "textSource.tabheader_content": {
+    "message": "内容"
+  },
+  "textSource.tabheader_style": {
+    "message": "Styles"
+  },
+  "textSource.style_dropshadow": {
+    "message": "Drop shadow"
+  },
+  "textSource.style_dropshadow_color": {
+    "message": "色彩"
+  },
+  "textSource.style_dropshadow_distance": {
+    "message": "距离"
+  },
+  "textSource.style_dropshadow_angle": {
+    "message": "角度"
+  },
+  "textSource.style_dropshadow_blur": {
+    "message": "模糊"
+  },
+  "textSource.style_dropshadow_opacity": {
+    "message": "透明度"
+  },
+  "textSource.style_animation": {
+    "message": "动画"
+  },
+  "textSource.style_animation_scroll": {
+    "message": "滚动"
+  },
+  "textSource.style_animation_fade": {
+    "message": "淡出"
+  },
+  "textSource.style_animation_enable_60fps": {
+    "message": "启用高达 60 帧/秒"
+  },
+  "textSource.style_animation_fade_delimeter": {
+    "message": "限定符"
+  },
+  "textSource.style_animation_fade_interval": {
+    "message": "时间间隔"
+  },
+  "textSource.style_animation_scroll_direction": {
+    "message": "方向"
+  },
+  "textSource.style_animation_scroll_direction_rightToLeft": {
+    "message": "右到左"
+  },
+  "textSource.style_animation_scroll_direction_leftToRight": {
+    "message": "左到右"
+  },
+  "textSource.style_animation_scroll_direction_bottomToTop": {
+    "message": "底部到顶部"
+  },
+  "textSource.style_animation_scroll_direction_topToBottom": {
+    "message": "顶部到底部"
+  },
+  "textSource.style_animation_scroll_speed": {
+    "message": "速度"
+  },
+  "textSource.style_animation_scroll_lineLimit": {
+    "message": "行限制"
+  },
+  "textSource.content_text": {
+    "message": "Text/BBCode"
+  },
+  "textSource.content_textFile": {
+    "message": "Text file"
+  },
+  "textSource.content_script": {
+    "message": "脚本"
+  },
+  "textSource.content_script_clock": {
+    "message": "时钟"
+  },
+  "textSource.content_script_stopwatch": {
+    "message": "Stopwatch"
+  },
+  "textSource.content_script_timer": {
+    "message": "Timer"
+  },
+  "textSource.content_script_load_url": {
+    "message": "Load text from Remote URL"
+  },
+  "textSource.content_script_rss": {
+    "message": "RSS Feed Reader"
+  },
+  "textSource.content_script_videoList": {
+    "message": "Video List"
+  },
+  "textSource.content_script_custom": {
+    "message": "自定义脚本"
+  },
+  "textSource.content_header_formatting": {
+    "message": "Formatting"
+  },
+  "textSource.formatting_font": {
+    "message": "字体"
+  },
+  "textSource.formatting_outline": {
+    "message": "大纲"
+  },
+  "textSource.formatting_style": {
+    "message": "风格"
+  },
+  "textSource.formatting_align": {
+    "message": "对齐"
+  },
+  "textSource.formatting_sizing": {
+    "message": "Sizing"
+  },
+  "textSource.formatting_sizing_automatic": {
+    "message": "自动"
+  },
+  "textSource.formatting_sizing_fixed": {
+    "message": "Fixed"
+  },
+  "textSource.formatting_sizing_wordWrap": {
+    "message": "Word wrap"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "stinger.title": {
+        "message": "스팅어 제목 또는 전환 포인트 편집"
+    },
+    "stinger.name": {
+        "message": "스팅어 제목"
+    },
+    "stinger.transition": {
+        "message": "전환 포인트 (ms)"
+    },
+    "button.ok": {
+        "message": "OK"
+    },
+    "button.cancel": {
+        "message": "취소"
+    }
+}

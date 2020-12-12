@@ -1,0 +1,23 @@
+{
+  "dontShowAgain": {
+    "message": "Nicht mehr anzeigen"
+  },
+  "button.goToPluginStore": {
+    "message": "Zum Plugin-Verzeichnis"
+  },
+  "button.maybeLater": {
+    "message": "Vielleicht später"
+  },
+  "title": {
+    "message": "Peppen Sie Ihrem Stream mit Widgets auf!"
+  },
+  "facebook.description": {
+    "message": "Wir haben einige großartige Widgets für Ihre Broadcast-Ausgabe, die Ihren Live-Stream garantiert aufpeppen werden. Zeigen Sie Kommentare zum Stream an oder lassen Sie Reaktionen durch den Bildschirm fliegen![br][br]Jetzt im Plugin-Verzeichnis kostenlos herunterladen!"
+  },
+  "twitch.description": {
+    "message": "Wir haben einige großartige Widgets für die Broadcast-Ausgabe, die Ihren Live-Stream garantiert aufpeppen werden. Zeigen Sie Ihren Twitch-Chat auf dem Bildschirm an oder Pop-ups mit Warnungen bei einem Cheer![br][br]Jetzt im Plugin-Verzeichnis kostenlos herunterladen!"
+  },
+  "youtube.description": {
+    "message": "Wir haben einige großartige Widgets für die Broadcast-Ausgabe, die Ihren Live-Stream garantiert aufpeppen werden. Zeigen Sie Ihren Live-Chat auf dem Bildschirm an oder verwenden Sie in den Super Chats Pop-ups mit Warnungen![br][br]Jetzt im Plugin-Verzeichnis kostenlos herunterladen!"
+  }
+}

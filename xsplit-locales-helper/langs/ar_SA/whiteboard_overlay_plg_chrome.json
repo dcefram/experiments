@@ -1,0 +1,50 @@
+{
+  "whiteboard_overlay.drawing": {
+    "message": "رسم"
+  },
+  "whiteboard_overlay.reminder": {
+    "message": "لبدء الرسم ، تذكر دائمًا تحديد خانة الاختيار تأمين الموضع في علامة تبويب التخطيط والتأكد من عدم تدوير المصدر."
+  },
+  "whiteboard_overlay.tool": {
+    "message": "أداة"
+  },
+  "whiteboard_overlay.size": {
+    "message": "بحجم"
+  },
+  "whiteboard_overlay.color": {
+    "message": "Color"
+  },
+  "whiteboard_overlay.clear_whiteboard": {
+    "message": "مسح السبورة"
+  },
+  "whiteboard_overlay.hotkeys": {
+    "message": "Hotkeys"
+  },
+  "whiteboard_overlay.hotkey_header": {
+    "message": "Use these hotkeys when the source is selected:"
+  },
+  "whiteboard_overlay.hotkey_s": {
+    "message": "اضغط للتبديل بين الأحجام (S \/ M \/ L)"
+  },
+  "whiteboard_overlay.hotkey_shift": {
+    "message": "اضغط مع الاستمرار على Shift استخدام أداة بديلة [br] الأشكال: شكل حر -> كشف الشكل (خط ، مثلث ، دائرة ، مستطيل)"
+  },
+  "whiteboard_overlay.hotkey_d": {
+    "message": "اضغط D لحفظ الرسم الحالي"
+  },
+  "whiteboard_overlay.hotkey_esc": {
+    "message": "اضغط على Esc لمسح السبورة"
+  },
+  "whiteboard_overlay.tool_options_freehand": {
+    "message": "الحرية"
+  },
+  "whiteboard_overlay.size_options_thin": {
+    "message": "نحيف ضعيف"
+  },
+  "whiteboard_overlay.size_options_normal": {
+    "message": "عادي"
+  },
+  "whiteboard_overlay.size_options_thick": {
+    "message": "سميك"
+  }
+}

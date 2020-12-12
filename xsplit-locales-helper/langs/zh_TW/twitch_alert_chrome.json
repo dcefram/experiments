@@ -1,0 +1,95 @@
+{
+	"twitch.alert.tabheader": {
+		"message": "警報"
+	},
+	"twitch.alert.source": {
+		"message": "資源"
+	},
+	"twitch.alert.account": {
+		"message": "帳戶"
+	},
+	"twitch.alert.authorize": {
+		"message": "授權XSplit使用Twitch"
+	},
+	"twitch.alert.remove_authorization": {
+		"message": "**%api%** 刪除授權"
+	},
+	"twitch.alert.switch_account": {
+		"message": "**%api%** 切換帳戶"
+	},
+	"twitch.alert.not_connected": {
+		"message": "未連接"
+	},
+	"twitch.alert.connected": {
+		"message": "連接"
+	},
+	"twitch.alert.connect": {
+		"message": "連接"
+	},
+	"twitch.alert.disconnect": {
+		"message": "斷開連接"
+	},
+	"twitch.alert.alertLabel": {
+		"message": "警報"
+	},
+	"twitch.alert.animation_text": {
+		"message": "動畫"
+	},
+	"twitch.alert.duration": {
+		"message": "持續時間"
+	},
+	"twitch.alert.delay": {
+		"message": "顯示時間"
+	},
+	"twitch.alert.animateIn": {
+		"message": "動畫入場"
+	},
+	"twitch.alert.animateOut": {
+		"message": "動畫出場"
+	},
+	"twitch.alert.audio": {
+		"message": "音訊"
+	},
+	"twitch.alert.generalHeader": {
+		"message": "一般"
+	},
+	"twitch.alert.customizeHeader": {
+		"message": "自定義"
+	},
+	"twitch.alert.theme": {
+		"message": "主題"
+	},
+	"twitch.alert.minMonth": {
+		"message": "最低月份"
+	},
+	"twitch.alert.minViewers": {
+		"message": "最低觀眾量"
+	},
+	"twitch.alert.minCheer": {
+		"message": "最低喝彩"
+	},
+	"twitch.alert.type": {
+		"message": "類型"
+	},
+	"twitch.alert.nameStyleAndSettings": {
+		"message": "名稱風格和設置"
+	},
+	"twitch.alert.sound": {
+		"message": "聲音"
+	},
+	"twitch.alert.show_alert": {
+		"message": "預覽"
+	},
+	"twitch.alert.hide_alert": {
+		"message": "隱藏預覽"
+	},
+	"twitch.alert.test_alert": {
+		"message": "測試警報"
+	},
+	"twitch.alert.Color": {
+		"message": "顏色"
+	},
+	"twitch.alert.layout": {
+		"message": "佈局"
+	}
+}

@@ -1,0 +1,395 @@
+{
+    "home_newToStore": {
+        "message": "Discover our powerful plugins and boost your broadcast!"
+    },
+    "home_search": {
+        "message": "Click the icons above or below to start browsing."
+    },
+    "home_sourceTip": {
+        "message": "Show Sources"
+    },
+    "home_extensionTip": {
+        "message": "Show Extensions"
+    },
+    "home_outputTip": {
+        "message": "Show Outputs"
+    },
+    "home_libraryTip": {
+        "message": "Show My Plugins"
+    },
+    "home_sourceTipIn": {
+        "message": "Hide Sources"
+    },
+    "home_outputTipIn": {
+        "message": "Hide Outputs"
+    },
+    "home_extensionTipIn": {
+        "message": "Hide Extensions"
+    },
+    "home_tooltipToggle": {
+        "message": "You cannot toggle all icons off while in search mode."
+    },
+    "plugin_developer": {
+        "message": "Developer:"
+    },
+    "plugin_publicVersion": {
+        "message": "Public Version:"
+    },
+    "plugin_updated": {
+        "message": "Updated:"
+    },
+    "plugin_dllDownloadWarning": {
+        "message": "This download may include unsecure files that allow unrestricted access to your computer."
+    },
+    "plugin_install": {
+        "message": "INSTALL"
+    },
+    "plugin_uninstall": {
+        "message": "UNINSTALL"
+    },
+    "plugin_update": {
+        "message": "UPDATE"
+    },
+    "plugin_published": {
+        "message": "Published"
+    },
+    "plugin_size": {
+        "message": "Taille"
+    },
+    "plugin_currentVersion": {
+        "message": "Current Version"
+    },
+    "plugin_installs": {
+        "message": "Installs"
+    },
+    "plugin_minimumXBCLabel": {
+        "message": "Minimum XBC Required"
+    },
+    "plugin_minimumXBC": {
+        "message": "%version% or later versions"
+    },
+    "plugin_report": {
+        "message": "Report plugin"
+    },
+    "plugin_developerLabel": {
+        "message": "Developer"
+    },
+    "plugin_developerVisit": {
+        "message": "Visit website"
+    },
+    "plugin_developerMail": {
+        "message": "Send mail"
+    },
+    "plugin_readMore": {
+        "message": "Read more"
+    },
+    "plugin_rateThisplugin": {
+        "message": "RATE THIS PLUGIN"
+    },
+    "plugin_rating": {
+        "message": "You must install this plugin before submitting a review"
+    },
+    "plugin_reviews": {
+        "message": "Reviews"
+    },
+    "plugin_votes": {
+        "message": "Votes"
+    },
+    "plugin_filter-recent": {
+        "message": "Recent"
+    },
+    "plugin_filter-rating": {
+        "message": "Rating"
+    },
+    "plugin_viewAllReviews": {
+        "message": "View all reviews"
+    },
+    "plugin_warning": {
+        "message": "This plugin is not completely covered by the XSplit Privacy Policy as it utilizes external or third-party libraries and services. The plugin may include functions that collect personal information, including, but not limited to, details about your computer system and your usage of this software."
+    },
+    "plugin_myReview": {
+        "message": "MY REVIEW"
+    },
+    "plugin_empty-search": {
+        "message": "Your search result is empty. Please try another search or browse for plugins."
+    },
+    "plugin_back": {
+        "message": "< Back to plugin details"
+    },
+    "plugin_tag": {
+        "message": "Tags"
+    },
+    "plugin_minimum": {
+        "message": "Minimum OS required:"
+    },
+    "plugin_windows": {
+        "message": "Windows 10"
+    },
+    "plugin_windows-warning": {
+        "message": "Cannot install this plugin. Minimum OS required not met."
+    },
+    "plugin_local-recording": {
+        "message": "This plugin is required and cannot be uninstalled."
+    },
+    "myPlugins_myPlugins": {
+        "message": "Mes plugins"
+    },
+    "myPlugins_updateAll": {
+        "message": "Update All"
+    },
+    "myPlugins_cancelAll": {
+        "message": "Cancel All"
+    },
+    "myPlugins_update": {
+        "message": "Update"
+    },
+    "myPlugins_uninstall": {
+        "message": "Uninstall"
+    },
+    "myPlugins_size": {
+        "message": "Taille"
+    },
+    "search_results": {
+        "message": "Search Results for "
+    },
+    "search_searching": {
+        "message": "Searching..."
+    },
+    "search_zero-search1": {
+        "message": "We couldn't find anything for your search."
+    },
+    "search_zero-search2": {
+        "message": "Suggestions:"
+    },
+    "search_zero-search3": {
+        "message": "Make sure words are spelled correctly."
+    },
+    "search_zero-search4": {
+        "message": "Try different keywords."
+    },
+    "search_zero-search5": {
+        "message": "Try more general keywords."
+    },
+    "search_name": {
+        "message": "Nom"
+    },
+    "search_downloads": {
+        "message": "# of downloads"
+    },
+    "search_rating": {
+        "message": "Rating"
+    },
+    "search_updated": {
+        "message": "Date updated"
+    },
+    "search_installed": {
+        "message": "INSTALLED"
+    },
+    "search_clear-search": {
+        "message": "Clear Search"
+    },
+    "search_download-all": {
+        "message": "Download All"
+    },
+    "search_download": {
+        "message": "Download (%count%)"
+    },
+    "help_what": {
+        "message": "What are these plugins?"
+    },
+    "help_source": {
+        "message": "**SOURCES** are plugins placed on the stage. Right-clicking the source in the main window open its properties window."
+    },
+    "help_extension": {
+        "message": "**EXTENSIONS** are plugins on the global level that can control your scenes. They have all the capabilities of sources and more."
+    },
+    "help_output": {
+        "message": "**OUTPUTS** support the most popular streaming sites like Twitch, YouTube Live, Smashcast and Ustream."
+    },
+    "help_installed": {
+        "message": "You can view your installed plugins, update or uninstall them in My Plugins page. To open My Plugins, click the icon on the right of the search bar or go to Tools menu and click My Plugins."
+    },
+    "help_developer": {
+        "message": "Are you a developer?"
+    },
+    "help_buildYourOwn": {
+        "message": "You can build your own plugin for XSplit Broadcaster! We've got a number of ways to help you, just go [here.](https://xspl.it/developers)"
+    },
+    "overlay_uninstall": {
+        "message": "Uninstall complete!"
+    },
+    "overlay_uninstallMessage": {
+        "message": "%name% has been uninstalled. \n We'd love if you could give us some feedback and share your input"
+    },
+    "overlay_rateThisPlugin": {
+        "message": "RATE THIS PLUGIN"
+    },
+    "overlay_yourRating": {
+        "message": "Your rating: "
+    },
+    "overlay_rating-0": {
+        "message": "No Rating"
+    },
+    "overlay_rating-1": {
+        "message": "Needs Improvement"
+    },
+    "overlay_rating-2": {
+        "message": "Not Bad"
+    },
+    "overlay_rating-3": {
+        "message": "Okay"
+    },
+    "overlay_rating-4": {
+        "message": "Liked it"
+    },
+    "overlay_rating-5": {
+        "message": "Awesome"
+    },
+    "overlay_placeholder": {
+        "message": "Write a review (optional)"
+    },
+    "overlay_charlimit": {
+        "message": "%action% characters left"
+    },
+    "overlay_submit": {
+        "message": "ENVOYER"
+    },
+    "overlay_cancel": {
+        "message": "ANNULER"
+    },
+    "overlay_skip": {
+        "message": "SKIP THIS"
+    },
+    "overlay_ratingError": {
+        "message": "Oops! an error occured while submitting your rate and comment. Please try again."
+    },
+    "overlay_action-error": {
+        "message": "An error occurred during the %action%. Please try again or contact XSplit Support."
+    },
+    "overlay_action-error-download": {
+        "message": "Failed to download plugin_ You may need to check your internet connection and try again."
+    },
+    "overlay_action-error-multiple": {
+        "message": "%count% plugins needs updating"
+    },
+    "overlay_action-rating": {
+        "message": ""
+    },
+    "overlay_action-searching": {
+        "message": "Searching..."
+    },
+    "overlay_action-loading": {
+        "message": "Chargement..."
+    },
+    "overlay_action-downloading": {
+        "message": "Downloading..."
+    },
+    "overlay_action-installing": {
+        "message": "Installing..."
+    },
+    "overlay_action-updating": {
+        "message": "Updating..."
+    },
+    "overlay_action-uninstalling": {
+        "message": "Uninstalling..."
+    },
+    "overlay_action-updating-multiple": {
+        "message": "Downloading %count%/%total% plugins..."
+    },
+    "overlay_complete-installing": {
+        "message": "%name% has been added to your %type% menu and My Plugins."
+    },
+    "overlay_complete-updating": {
+        "message": "%name% has been updated."
+    },
+    "overlay_complete-updating-multiple": {
+        "message": "All plugins have been downloaded."
+    },
+    "overlay_complete-uninstalling": {
+        "message": "%name% has been uninstalled."
+    },
+    "overlay_title-complete-installing": {
+        "message": "Installation complete!"
+    },
+    "overlay_title-complete-uninstalling": {
+        "message": "Uninstall complete!"
+    },
+    "overlay_title-complete-updating": {
+        "message": "Update complete!"
+    },
+    "overlay_title-complete-updating-multiple": {
+        "message": "Downloads complete!"
+    },
+    "overlay_button-downloading": {
+        "message": "DOWNLOAD"
+    },
+    "overlay_button-installing": {
+        "message": "INSTALL"
+    },
+    "overlay_button-updating": {
+        "message": "UPDATE"
+    },
+    "overlay_button-updating-multiple": {
+        "message": "UPDATE ALL"
+    },
+    "overlay_button-uninstalling": {
+        "message": "UNINSTALL"
+    },
+    "overlay_button-ok": {
+        "message": "OK"
+    },
+    "overlay_button-loading": {
+        "message": "OK"
+    },
+    "overlay_toClose": {
+        "message": "Do you want to close the Plugin Store?"
+    },
+    "overlay_cancel-action": {
+        "message": "This will cancel %action%"
+    },
+    "overlay_generic-error-header": {
+        "message": "No data received!"
+    },
+    "overlay_generic-internet-fail": {
+        "message": "Oops! An error occured. You may need to check your internet connection and try again."
+    },
+    "overlay_generic-error-text": {
+        "message": "There was an error fetching data. Please try again"
+    },
+    "overlay_install-restart-now": {
+        "message": "RESTART NOW"
+    },
+    "overlay_install-restart-later": {
+        "message": "RESTART LATER"
+    },
+    "overlay_needs-restart-info": {
+        "message": "XSplit needs to restart for changes to take effect."
+    },
+    "extension_label": {
+        "message": "Extensions"
+    },
+    "source_label": {
+        "message": "Sources"
+    },
+    "output_label": {
+        "message": "Outputs"
+    },
+    "myPlugins_plugin_types": {
+        "message": "All plugin types"
+    },
+    "myPlugins_show_plugins_with_update": {
+        "message": "Show plugins with updates only"
+    },
+    "search_ascending": {
+        "message": "Croissant"
+    },
+    "search_descending": {
+        "message": "Décroissant"
+    },
+    "search_and_separator": {
+        "message": "and"
+    },
+    "home_search_placeholder": {
+        "message": "Search the store..."
+    }
+}

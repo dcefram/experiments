@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AvermediaHint" xml:space="preserve">
+    <value>AVerMedia H264 Encoder는 캡처 품질이 떨어지지 않게 비디오를 녹화합니다.</value>
+  </data>
+  <data name="chkForceCfr" xml:space="preserve">
+    <value>강제 프레임률 고정</value>
+  </data>
+  <data name="chkOptimizeYT" xml:space="preserve">
+    <value>YouTube 최적화</value>
+  </data>
+  <data name="CustomQualityHint" xml:space="preserve">
+    <value>[ ! ] 사용자 지정 품질 구성은 숙련된 사용자를 위한 것입니다. 사용하실때 설정 변경과 시스템 과부하를 주의하세요</value>
+  </data>
+  <data name="lblCuePoints" xml:space="preserve">
+    <value>큐 시점을 사용하여 하이라이트 클립을 제작하세요</value>
+  </data>
+  <data name="lblMinutes" xml:space="preserve">
+    <value>분</value>
+  </data>
+  <data name="lblNever" xml:space="preserve">
+    <value>비활성화</value>
+  </data>
+  <data name="lnkOptimizeYT" xml:space="preserve">
+    <value>YouTube 의  &lt;a href="https://xspl.it/a0tpuy"&gt;권장 설정&lt;/a&gt;으로 최적화 됩니다.</value>
+  </data>
+  <data name="NVENCHint" xml:space="preserve">
+    <value>GPU 인코더를 이용하는 NVIDIA Encoder (NVENC)는 사실상 품질이 떨어지지 않게 비디오를 녹화합니다.</value>
+  </data>
+  <data name="pbCuePoints_Tooltip" xml:space="preserve">
+    <value>녹화 도중에 큐 시점을 삽입할수 있습니다. 중요 부분을 기억할수 있도록 도와주는 기능입니다.
+Express 영상 편집기는 도구 → Express Video Editor 를 선택하시면 됩니다.
+큐 시점을 적용하려면 단축키 설정 (도구 → 단축키) 에서 지정할수 있습니다.
+방송 도중 '녹화본 저장' 이 적용 되었을시에도 큐 시점 기능을 활용할수 있습니다.</value>
+  </data>
+  <data name="QSHint" xml:space="preserve">
+    <value>iGPU 인코더를 이용하는 Quick Sync는 사실상 품질이 떨어지지 않게 비디오를 녹화합니다.</value>
+  </data>
+  <data name="QualityHint" xml:space="preserve">
+    <value>더 높은 품질의 녹화는 더 많은 용량을 필요로하는 것을 잊지마세요.</value>
+  </data>
+  <data name="VCEHint" xml:space="preserve">
+    <value>(i)GPU 인코더를 이용하는 Video Codec Engine은 사실상 품질이 떨어지지 않게 비디오를 녹화합니다.</value>
+  </data>
+  <data name="x264Hint" xml:space="preserve">
+    <value>CPU를 이용한 {0}는 비디오 녹화 품질을 높일 수 있습니다.</value>
+  </data>
+  <data name="lblNFileType" xml:space="preserve">
+    <value>파일 형식</value>
+  </data>
+  <data name="lblNSplitFilesAt" xml:space="preserve">
+    <value>파일이 나눠질 지점</value>
+  </data>
+  <data name="lblOutput" xml:space="preserve">
+    <value>녹화 파일</value>
+  </data>
+  <data name="Props" xml:space="preserve">
+    <value>로컬 영상녹화 구성요소</value>
+  </data>
+  <data name="customQuality" xml:space="preserve">
+    <value>커스텀</value>
+  </data>
+  <data name="highQuality" xml:space="preserve">
+    <value>높음</value>
+  </data>
+  <data name="standardQuality" xml:space="preserve">
+    <value>일반</value>
+  </data>
+  <data name="ultraHighQuality" xml:space="preserve">
+    <value>울트라</value>
+  </data>
+  <data name="veryHighQuality" xml:space="preserve">
+    <value>매우 높음</value>
+  </data>
+  <data name="lblRecordTarget" xml:space="preserve">
+    <value>녹화 경로</value>
+  </data>
+</root>

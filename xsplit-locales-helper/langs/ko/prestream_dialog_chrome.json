@@ -1,0 +1,314 @@
+{
+	"toptitle": {
+		"message": "예정된 생방송 동영상 관리"
+	},
+	"details": {
+		"message": "방송 정보"
+	},
+	"livevideo.label": {
+		"message": "라이브 스트리밍"
+	},
+	"livevideo.tooltip": {
+		"message": "송출 방식을 선택해주세요.[br][br]**신규 송출** - 새로운 라이브 방송을 당장 시작합니다.[br]**예약** - 예약된 라이브 방송 스케쥴에 송출합니다."
+	},
+	"livevideovalues.0": {
+		"message": "새로운 라이브"
+	},
+	"scheduledvideovalues.new": {
+		"message": "새로운 생방송 예정"
+	},
+	"delete": {
+		"message": "삭제"
+	},
+	"stop": {
+		"message": "정지"
+	},
+	"status.label": {
+		"message": "상태"
+	},
+	"status.tooltip": {
+		"message": "예약된 방송의 상태를 설정하세요.[br][br]**예정** - 미리 예정해둔 시간에 방송이 저절로 시작됩니다. 방송 시작과 송출 시간에 간격을 두어 방송 상태를 확인 할 수 있습니다.[br]**라이브** - 즉시 방송을 시작합니다.[br]**수동** - 방송이 송출된 화면을 미리보기 하고 이후 원하는 시간에 라이브로 진행 합니다. 이 방식은 방송 예정 시간에 문제 발생시 예정된 시간보다 일찍 라이브로 진행해야 할 경우에 '예정' 설정에서 '수동' 으로 변환하는 방법 입니다. 참고로 수동 방식은 다시 '예정' 모드로 변환할 수 없고 Facebook 에서 따로 새로운 방송을 예정하여야 합니다."
+	},
+	"statusvalues.scheduled": {
+		"message": "예정"
+	},
+	"statusvalues.live": {
+		"message": "라이브"
+	},
+	"statusvalues.manual": {
+		"message": "메뉴얼"
+	},
+	"title": {
+		"message": "제목"
+	},
+	"description": {
+		"message": "설명"
+	},
+	"tags.label": {
+		"message": "콘텐츠 태그"
+	},
+	"tags.tooltip": {
+		"message": "태그는 영상이 더 알려질수 있도록 도와줍니다. 태그는 공개되지 않습니다"
+	},
+	"videogame.label": {
+		"message": "비디오 게임"
+	},
+	"videogame.tooltip": {
+		"message": "페이스북 게이밍에 송출할 게임 제목을 태그 하세요."
+	},
+	"checkin.label": {
+		"message": "위치 확인"
+	},
+	"checkin.tooltip": {
+		"message": "방송하는 위치 또는 장소"
+	},
+	"privacy.label": {
+		"message": "개인 정보"
+	},
+	"privacy.tooltip": {
+		"message": "개인 정보 보호 범위는 Facebook Apps 에 등록된 엑스플릿에만 해당할수 있습니다. 사용중 개인 정보 보호 범위를 제어할수 있도록 Facebook Apps 에서 XSplit 을 **공개** 로 하시기 바랍니다. [자세히](https://xspl.it/fbxspriv)"
+	},
+	"privacyvalues.EVERYONE": {
+		"message": "공개"
+	},
+	"privacyvalues.ALL_FRIENDS": {
+		"message": "친구"
+	},
+	"privacyvalues.SELF": {
+		"message": "나에게만"
+	},
+	"pageaudience.label": {
+		"message": "페이지 대상"
+	},
+	"pageaudience.tooltip": {
+		"message": "연결하고자 하는 사용자들의 위치를 선택하세요."
+	},
+	"locations.label": {
+		"message": "위치"
+	},
+	"locations.tooltip": {
+		"message": "모든 위치를 기본값으로 하거나 특정 국가를 선택하여 원하는 장소 근처의 사람들과 연결할수 있도록 도와줍니다."
+	},
+	"support.label": {
+		"message": "지속적 생방송"
+	},
+	"support.tooltip": {
+		"message": "이 설정은 Facebook 방송을 4시간 이상으로 설정할수 있게하나 녹화 또는 기록이 되지 않습니다."
+	},
+	"manageschedule": {
+		"message": "예정된 생방송 동영상 관리"
+	},
+	"createschedule": {
+		"message": "예정된 라이브 생성"
+	},
+	"scheduledstart.label": {
+		"message": "예정 시작 시간"
+	},
+	"scheduledstart.tooltip": {
+		"message": "예정된 라이브 스트리밍은 현재 시간부터 11분 에서 7일 (168 시간) 사이어야 합니다."
+	},
+	"customimage.label": {
+		"message": "사용자 지정 이미지"
+	},
+	"customimage.tooltip": {
+		"message": "예정된 방송을 홍보하기 위한 사용자 지정 이미지를 사용 할 수 있습니다."
+	},
+	"scheduleerror": {
+		"message": "잘못 된 일정"
+	},
+	"uploadimage": {
+		"message": "이미지 업로드..."
+	},
+	"deleteimage": {
+		"message": "이미지 삭제"
+	},
+	"errormessage": {
+		"message": "예정된 라이브 스트리밍은 현재 시간부터 11분 에서 7일 (168 시간) 사이어야 합니다."
+	},
+	"addScheduleHeader": {
+		"message": "일정 추가"
+	},
+	"addSchedule": {
+		"message": "일정 추가"
+	},
+	"editSchedule": {
+		"message": "일정 편집"
+	},
+	"updateSchedule": {
+		"message": "일정 편집"
+	},
+	"start": {
+		"message": "방송 시작"
+	},
+	"resume": {
+		"message": "스트리밍 계속"
+	},
+	"ok": {
+		"message": "OK"
+	},
+	"cancel": {
+		"message": "취소"
+	},
+	"close": {
+		"message": "닫기"
+	},
+	"loading.create": {
+		"message": "예약해둔 라이브 영상 개설중..."
+	},
+	"loading.update": {
+		"message": "예약해둔 라이브 영상 업데이트중..."
+	},
+	"youtube.liveEvent.label": {
+		"message": "라이브 이벤트"
+	},
+	"youtube.liveEvent.tooltip": {
+		"message": "라이브 방송 방식을 선택하세요.[br][br]**신규 라이브 이벤트 -** 신규 실시간 스트리밍 이벤트 생성[br]**예약 -** 기존에 예정해둔 라이브 이벤트를 선택[br]**실시간 스트리밍 시작 -** 선택한 실시간 스트리밍 이벤트를 즉시 시작"
+	},
+	"youtube.tags.label": {
+		"message": "태그"
+	},
+	"youtube.tags.tooltip": {
+		"message": "태그는 콘텐츠를 간략히 설명할 수 있는 키워드이며 시청자들이 검색할 수 있는 단어들 입니다.[br][br]쉼표 를 사용하여 여러가지 태그를 사용하세요."
+	},
+	"youtube.category.label": {
+		"message": "카테고리"
+	},
+	"youtube.schedule": {
+		"message": "예정 일"
+	},
+	"youtube.noSchedule": {
+		"message": "등록된 방송 예정일이 없습니다."
+	},
+	"youtube.duration": {
+		"message": "기간"
+	},
+	"youtube.endSchedule": {
+		"message": "예정 마침 (선택 사항)"
+	},
+	"youtube.hours": {
+		"message": "시간"
+	},
+	"youtube.minutes": {
+		"message": "분"
+	},
+	"youtube.enable360.label": {
+		"message": "360도 동영상 활성화"
+	},
+	"youtube.enable360.title": {
+		"message": "360도 동영상 활성화"
+	},
+	"youtube.enable360.tooltip": {
+		"message": "사용자님의 방송을 360도 방송으로 설정 할 수 있습니다. 이 설정은 시청자들이 360도 카메라를 시청 할 수 있도록 합니다.[br][br] 최저 지연 방송은 360도 방송이 불가능 합니다."
+	},
+	"youtube.enableLowLatency": {
+		"message": "낮은 대역폭 활성화"
+	},
+	"youtube.enableDvr": {
+		"message": "DVR 활성화"
+	},
+	"youtube.allowEmbed": {
+		"message": "Embed 허용"
+	},
+	"youtube.useBackupServer": {
+		"message": "백업 서버 사용"
+	},
+	"youtube.manualTransition.label": {
+		"message": "수동 전환"
+	},
+	"youtube.manualTransition.tooltip": {
+		"message": "이 설정은 YouTube Live 대시보드에 있는 설정을 변경하는데 사용됩니다. 만약 체크를 비활성화 하신다면 송출을 시작할때 XSplit 에서 자동으로 \"생방송\" 으로 전환되며 수동으로 정지시 \"종료\" 되도록 설정 됩니다."
+	},
+	"youtube.liveEvent.values.scheduled": {
+		"message": "예정 일: 시작 %date% - %title%"
+	},
+	"youtube.liveEvent.values.liveNow": {
+		"message": "Live Now: 시작 %date% - %title%"
+	},
+	"youtube.liveEvent.defaults.new": {
+		"message": "새로운 라이브 이벤트"
+	},
+	"youtube.category.values.1": {
+		"message": "영화 & 애니메이션"
+	},
+	"youtube.category.values.2": {
+		"message": "자동차"
+	},
+	"youtube.category.values.10": {
+		"message": "음악"
+	},
+	"youtube.category.values.15": {
+		"message": "동물"
+	},
+	"youtube.category.values.17": {
+		"message": "스포츠"
+	},
+	"youtube.category.values.19": {
+		"message": "여행 & 이벤트"
+	},
+	"youtube.category.values.20": {
+		"message": "게임"
+	},
+	"youtube.category.values.22": {
+		"message": "인물 & 블로그"
+	},
+	"youtube.category.values.23": {
+		"message": "코미디"
+	},
+	"youtube.category.values.24": {
+		"message": "엔터테인먼트"
+	},
+	"youtube.category.values.25": {
+		"message": "뉴스 & 정치"
+	},
+	"youtube.category.values.26": {
+		"message": "노하우 & 스타일"
+	},
+	"youtube.category.values.27": {
+		"message": "교육"
+	},
+	"youtube.category.values.28": {
+		"message": "과학기술"
+	},
+	"youtube.category.values.29": {
+		"message": "비영리 & 사회운동"
+	},
+	"youtube.privacy.public": {
+		"message": "공개"
+	},
+	"youtube.privacy.unlisted": {
+		"message": "미등록"
+	},
+	"youtube.privacy.private": {
+		"message": "비공개"
+	},
+	"youtube.latency.label": {
+		"message": "지연"
+	},
+	"youtube.latency.tooltip": {
+		"message": "**일반 지연** - 최적 환경: 최고 품질의 시청 경험과 높은 해상도.[br]**낮은 지연** - 최적 환경: 방송자와 시청자의 빠른 소통 가능. 버퍼링 최소화.[br]**울트라 최저 지연** - 최적 환경: 실시간 소통 가능.[br]**지원 불가한 사양**: DVR, 자막, 1440p 와 4k 해상도."
+	},
+	"youtube.latency.values.normal": {
+		"message": "일반 지연"
+	},
+	"youtube.latency.values.low": {
+		"message": "낮은 지연"
+	},
+	"youtube.latency.values.ultraLow": {
+		"message": "울트라 낮은 지연"
+	},
+	"youtube.emptyTitle": {
+		"message": "제목은 비워둘 수 없습니다."
+	},
+	"youtube.noEndSchedule": {
+		"message": "예정 만료일 없음"
+	},
+	"youtube.endScheduleInvalid": {
+		"message": "예정 만료일이 유효하지 않습니다. 유효한 예정 종료 시간과 날짜를 입력해주세요."
+	},
+	"youtube.endScheduleFuture": {
+		"message": "추후에는 예정 종료일을 지정해주세요."
+	},
+	"dialog.lookingForSuggestions": {
+		"message": "제안을 찾는중..."
+	}
+}

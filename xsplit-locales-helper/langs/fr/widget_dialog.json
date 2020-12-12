@@ -1,0 +1,23 @@
+{
+  "dontShowAgain": {
+    "message": "Ne plus afficher ce message"
+  },
+  "button.goToPluginStore": {
+    "message": "Aller à la Boutique de Plugins"
+  },
+  "button.maybeLater": {
+    "message": "Peut-être plus tard"
+  },
+  "title": {
+    "message": "Améliorer votre stream avec des widgets!"
+  },
+  "facebook.description": {
+    "message": "Nous avons des widgets incroyables pour supplémenter votre stream et garantir une amélioration de votre live stream. Affichez vos commentaires de stream mais aussi les Réactions survolant votre écran![br][br]Télecharchez les gratuitements sur la Boutique de Plugins!"
+  },
+  "twitch.description": {
+    "message": "Nous avons des widgets incroyables pour supplémenter votre stream et garantir une amélioration de votre live stream. Affichez votre chat Twitch à l'écran ou avoir une alerte pop-up lors de chaque Cheers![br][br]Télecharchez les gratuitements sur la Boutique de Plugins!"
+  },
+  "youtube.description": {
+    "message": "Nous avons des widgets incroyables pour améliorer votre stream et garantir un meilleur live stream. Affichez votre chat Twitch à l'écran ou une alerte pop-up lors de chaque Cheers![br][br]Télecharchez les gratuitements sur la Boutique de Plugins!"
+  }
+}

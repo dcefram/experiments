@@ -1,0 +1,80 @@
+{
+  "facebook.reactions.counter.tabheader": {
+    "message": "反应"
+  },
+  "facebook.reactions.counter.source": {
+    "message": "资源"
+  },
+  "facebook.reactions.counter.account": {
+    "message": "帐户"
+  },
+  "facebook.reactions.counter.automatic": {
+    "message": "自动"
+  },
+  "facebook.reactions.counter.authorize": {
+    "message": "授权XSplit使用 Facebook Live"
+  },
+  "facebook.reactions.counter.remove_authorization": {
+    "message": "**%api%** 删除授权"
+  },
+  "facebook.reactions.counter.switch_account": {
+    "message": "**%api%** 切换帐户"
+  },
+  "facebook.reactions.counter.error_auth": {
+    "message": "请再次尝试授权, 并授予 XSplit 对此功能所需的所有权限的访问权限"
+  },
+  "facebook.reactions.counter.not_connected": {
+    "message": "当直播生效时反馈将自动加载"
+  },
+  "facebook.reactions.counter.connected": {
+    "message": "连接"
+  },
+  "facebook.reactions.counter.display": {
+    "message": "显示"
+  },
+  "facebook.reactions.counter.lock_components": {
+    "message": "锁定组件"
+  },
+  "facebook.reactions.counter.lock_components_text": {
+    "message": "选中此选项将禁用鼠标悬停，重新定位和调整组件大小。[br][br]如果您不想在组件上显示悬停效果，请检查此项，尤其是在流式传输或录制时。"
+  },
+  "facebook.reactions.counter.type": {
+    "message": "类型"
+  },
+  "facebook.reactions.counter.show_reactions_labels": {
+    "message": "显示反应和标签"
+  },
+  "facebook.reactions.counter.reset": {
+    "message": "重置"
+  },
+  "facebook.reactions.counter.counter_background": {
+    "message": "回馈 BG"
+  },
+  "facebook.reactions.counter.opacity": {
+    "message": "透明度"
+  },
+  "facebook.reactions.counter.counter": {
+    "message": "回馈"
+  },
+  "facebook.reactions.counter.label": {
+    "message": "標籤"
+  },
+  "facebook.reactions.counter.dropdown.type.poll": {
+    "message": "反应调查"
+  },
+  "facebook.reactions.counter.dropdown.type.counter": {
+    "message": "反应计数器"
+  },
+  "facebook.reactions.hide_connection_message": {
+    "message": "隐藏连接消息"
+  },
+  "facebook.reactions.not_seeing_videos": {
+    "message": "没有看到你的直播视频？"
+  },
+  "facebook.reactions.not_seeing_videos_help": {
+    "message": "我们可能没有权限访问您的某些网页的实时视频。"
+  },
+  "facebook.reactions.not_seeing_videos_link": {
+    "message": "点击这里重新授权"
+  }
+}

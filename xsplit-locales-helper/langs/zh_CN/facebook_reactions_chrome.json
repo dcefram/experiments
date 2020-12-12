@@ -1,0 +1,98 @@
+{
+  "title.source": {
+    "message": "资源"
+  },
+  "subtitle.account": {
+    "message": "帐户"
+  },
+  "link.authorize": {
+    "message": "授权XSplit使用 Facebook Live"
+  },
+  "subtitle2.authorize.error": {
+    "message": "请再次尝试授权, 并授予 XSplit 对此功能所需的所有权限的访问权限"
+  },
+  "subtitle.connect": {
+    "message": "发布 URL"
+  },
+  "chat.disconnected": {
+    "message": "未连接"
+  },
+  "chat.connected": {
+    "message": "连接"
+  },
+  "help.post.title": {
+    "message": "发布 URL"
+  },
+  "help.post.text": {
+    "message": "允许url 是公开的， 你管理的信息 (视频, 图像等) 在您的时间线, 或图片和视频的网页。"
+  },
+  "chat.connect": {
+    "message": "连接"
+  },
+  "chat.disconnect": {
+    "message": "断开连接"
+  },
+  "subtitle2.connect.error": {
+    "message": "请提供有效的视频或 URL。"
+  },
+  "title.display": {
+    "message": "显示"
+  },
+  "label.lock": {
+    "message": "锁定组件"
+  },
+  "help.lock.title": {
+    "message": "锁定组件"
+  },
+  "help.lock.text": {
+    "message": "选中此选项将禁用鼠标悬停，重新定位和调整组件大小。[br]如果您不想在组件上显示悬停效果，请检查此项，尤其是在流式传输或录制时。"
+  },
+  "label.reactions": {
+    "message": "显示反应和标签"
+  },
+  "button.reset": {
+    "message": "重置"
+  },
+  "label.bg": {
+    "message": "回馈 BG"
+  },
+  "label.counter": {
+    "message": "回馈"
+  },
+  "label.label": {
+    "message": "標籤"
+  },
+  "label.opacity": {
+    "message": "透明度"
+  },
+  "label.hide_connection_message": {
+    "message": "隐藏连接消息"
+  },
+  "authenticate.switch": {
+    "message": "**%user%** 切换帐户"
+  },
+  "authenticate.remove": {
+    "message": "**%user%** 删除授权"
+  },
+  "input.like": {
+    "message": "赞"
+  },
+  "input.love": {
+    "message": "喜爱"
+  },
+  "input.haha": {
+    "message": "哈哈"
+  },
+  "input.sad": {
+    "message": "伤心"
+  },
+  "input.wow": {
+    "message": "哇"
+  },
+  "input.angry": {
+    "message": "生气"
+  },
+  "tabheader.title": {
+    "message": "后期反应"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "dontShowAgain": {
+    "message": "No mostrar de nuevo"
+  },
+  "button.goToPluginStore": {
+    "message": "Ir a la Tienda de Plugins"
+  },
+  "button.maybeLater": {
+    "message": "Tal vez más tarde"
+  },
+  "title": {
+    "message": "¡Sube el nivel de tus transmisiones con widgets!"
+  },
+  "facebook.description": {
+    "message": "Tenemos algunos widgets increíbles que combinarán con tus transmisiones y que de forma garantizada subirán el nivel de tu transmisión en vivo. ¡Muestra todos los comentarios de tu stream o incluso haz que las reacciones vuelen a través de la pantalla![br][br]¡Descárgalos gratuitamente en la Tienda de Plugins!"
+  },
+  "twitch.description": {
+    "message": "Tenemos algunos widgets increíbles que combinarán con tus transmisiones y que de forma garantizada subirán el nivel de tu transmisión en vivo. ¡Muestra tu chat de Twitch en la pantalla o ve un mensaje de alerta cada vez que alguien te felicite![br][br]¡Descárgalos gratuitamente en la Tienda de Plugins!"
+  },
+  "youtube.description": {
+    "message": "Tenemos algunos widgets increíbles que combinarán con tus transmisiones y que de forma garantizada subirán el nivel de tu transmisión en vivo. ¡Muestra tu chat en vivo o tu pantalla, o ve un mensaje de alerta para cada Super Chat![br][br]¡Descárgalos gratuitamente en la Tienda de Plugins!"
+  }
+}
