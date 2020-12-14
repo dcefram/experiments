@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b951b399-4f08-4899-8f5e-1d751b4860a9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/audio.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/audio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/xjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/xjs.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +72,16 @@
       <workItem from="1607577125239" duration="3794000" />
       <workItem from="1607585692068" duration="4723000" />
       <workItem from="1607672068938" duration="14105000" />
-      <workItem from="1607942990317" duration="13675000" />
+      <workItem from="1607942990317" duration="13723000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: update fields renderer">
+      <created>1607961768175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607961768175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +103,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="feat: update fields renderer" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: update fields renderer" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
