@@ -24,7 +24,7 @@ export const set = (prop, value) =>
   new Promise((r) => {
     const id = external.CallHostFunc("setProperty", prop, value);
     console.log(
-      `external.CallHostFunc('setProperty', ${prop});`,
+      `external.CallHostFunc('setProperty', ${prop}, ${value});`,
       `async-id = ${id}`
     );
     callbacks[id] = (value) => {

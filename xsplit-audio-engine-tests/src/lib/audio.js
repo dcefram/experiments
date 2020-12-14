@@ -73,116 +73,177 @@ export const getAudioEffects = async (id) => {
     const name = node.getAttribute("name");
     const id = node.getAttribute("id");
     const config = node.getAttribute("config");
+    const details = { id, name, config };
 
-    let entry =
-      stack[id] && !Array.isArray(stack[id]) ? [stack[id]] : stack[id];
-
-    if (entry) {
-      entry.push({
-        id,
-        name,
-        config,
-      });
-    } else {
-      entry = {
-        id,
-        name,
-        config,
+    if (name === "webrtxns" || name === "nvrtxns") {
+      return {
+        ...stack,
+        noise_suppression: {
+          label: "Noise Suppression",
+          ...details,
+        },
       };
     }
 
-    return {
-      ...stack,
-      [id]: entry,
-    };
+    if (name === "gain") {
+      return {
+        ...stack,
+        noise_gate: {
+          label: "Noise Gate",
+          ...details,
+        },
+      };
+    }
+
+    if (name === "dmo:parameq") {
+      return {
+        ...stack,
+        parametric_equalizer: stack.parametric_equalizer
+          ? {
+              ...stack.parametric_equalizer,
+              data: [...stack.parametric_equalizer.data, details],
+            }
+          : {
+              label: "Parametric Equalizer",
+              data: [details],
+            },
+      };
+    }
+
+    if (name === "dmo:compressor") {
+      return {
+        ...stack,
+        compressor: {
+          label: "Compressor",
+          details,
+        },
+      };
+    }
+
+    return stack;
   }, {});
 
   // Check if the audio effects that we want to test out is present, if not, we'll just add it
-  if (!effects.webrtxns && !effects.nvrtxns) {
-    effects.webrtxns = {
-      id: "webrtxns",
+  if (!effects.noise_suppression) {
+    effects.noise_suppression = {
+      label: "Noise Suppression",
+      id: "noise_suppression",
       name: "webrtxns",
       config: "Enabled=0,IntensityRatio=1.0,Level=2",
     };
   }
 
-  if (!effects.gain) {
-    effects.gain = {
-      id: "gain",
+  if (!effects.noise_gate) {
+    effects.noise_gate = {
+      label: "Noise Gate",
+      id: "noise_gate",
       name: "gain",
       config: "enable:1&gain:0.02&latency:2000000",
     };
   }
 
-  if (!effects["dmo:parameq"]) {
-    effects["dmo:parameq"] = [
-      {
-        id: "dmo:parameq",
-        name: "dmo:parameq",
-        config: "Center:265&Bandwidth:16&Gain:7",
-      },
-      {
-        id: "dmo:parameq",
-        name: "dmo:parameq",
-        config: "Center:3200&Bandwidth:8&Gain:-7",
-      },
-      {
-        id: "dmo:parameq",
-        name: "dmo:parameq",
-        config: "Center:12800&Bandwidth:16&Gain:7",
-      },
-    ];
+  if (!effects.parametric_equalizer) {
+    effects.parametric_equalizer = {
+      label: "Parametric Equalizer",
+      data: [
+        {
+          id: "dmo:parameq:l",
+          name: "dmo:parameq",
+          config: "Center:265&Bandwidth:16&Gain:7",
+        },
+        {
+          id: "dmo:parameq:c",
+          name: "dmo:parameq",
+          config: "Center:3200&Bandwidth:8&Gain:-7",
+        },
+        {
+          id: "dmo:parameq:r",
+          name: "dmo:parameq",
+          config: "Center:12800&Bandwidth:16&Gain:7",
+        },
+      ],
+    };
   }
 
-  if (!effects["dmo:compressor"]) {
-    effects["dmo:compressor"] = {
+  if (!effects.compressor) {
+    effects.compressor = {
+      label: "Compressor",
       id: "dmo:compressor",
       name: "dmo:compressor",
       config: "Threshold:-16&Ratio:8&Attack:5&Release:100&Gain:4",
     };
   }
 
+  let params = {};
+  if (delay !== null) {
+    params = {
+      delay,
+    };
+  }
+
   return {
-    delay,
-    ...effects,
+    params,
+    effects,
   };
 };
 
-export const setAudioEffects = async (id, name, value, index) => {
+export const setAudioEffect = async (id, name, item) => {
   const ret = await get(`audiodev:${id}`);
   const dom = parser.parseFromString(ret, "application/xml");
 
-  if (name === "delay") {
-    const node = dom.querySelector("param");
-    node.setAttribute("delay", value);
-  } else if (typeof index !== "undefined") {
+  if (name === "noise_suppression") {
+    let key = item.name;
+    let node = dom.querySelector(`effect[name="${key}"]`);
+
+    if (!node) {
+      key = item.name === "webrtxns" ? "nvrtxns" : "webrtxns";
+      node = dom.querySelector(`effect[name="${key}"]`);
+    }
+
+    if (!node) {
+      node = dom.createElement("effect");
+      node.setAttribute("name", item.name);
+      node.setAttribute("id", item.name);
+
+      const obj = dom.querySelector("object");
+      obj.appendChild(node);
+    }
+
+    node.setAttribute("config", item.config);
+  } else if (name === "parametric_equalizer") {
+    // We ought to add all of the data points...
     const nodes = dom.querySelectorAll(`effect[name="${name}"]`);
-    let node = nodes[index];
+    let counter = 0;
+    nodes.forEach((node, index) => {
+      node.setAttribute("config", item.data[index]?.config || "");
+      counter++;
+    });
 
-    if (!node) {
-      node = dom.createElement("effect");
-      node.setAttribute("name", name);
-      node.setAttribute("id", name);
+    const obj = dom.querySelector("object");
+    while (counter < item.data.length) {
+      const node = dom.createElement("effect");
+      node.setAttribute("name", item.data[counter]?.name);
+      node.setAttribute("id", item.data[counter]?.name);
+      node.setAttribute("config", item.data[counter]?.config || "");
 
-      const obj = dom.querySelector("object");
       obj.appendChild(node);
+      counter++;
     }
-
-    node.setAttribute("config", value);
   } else {
-    let node = dom.querySelector(`effect[name="${name}"]`);
+    let node = dom.querySelector(`effect[name="${item.name}"]`);
 
     if (!node) {
       node = dom.createElement("effect");
-      node.setAttribute("name", name);
-      node.setAttribute("id", name);
+      node.setAttribute("name", item.name);
+      node.setAttribute("id", item.name);
 
       const obj = dom.querySelector("object");
       obj.appendChild(node);
     }
 
-    node.setAttribute("config", value);
+    node.setAttribute("config", item.config);
   }
 
+  console.log(dom.documentElement.outerHTML);
   await set(`audiodev:${id}`, dom.documentElement.outerHTML);
 };

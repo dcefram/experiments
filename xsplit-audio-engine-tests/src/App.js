@@ -6,10 +6,19 @@ import {
   getAudioDevices,
   getAudioEffects,
   setAudioDevices,
-  setAudioEffects,
+  setAudioEffect,
 } from "./lib/audio";
 
 import "./App.css";
+
+const objectIds = {
+  mic: "0",
+  speaker: "1",
+};
+
+function insertTo(arr, index, data) {
+  return [...arr.slice(0, index), data, ...arr.slice(index + 1, arr.length)];
+}
 
 function App() {
   const [mic, setMic] = useState("");
@@ -62,55 +71,82 @@ function App() {
               ))}
             </select>
           </div>
-          {Object.keys(speakerEffects).map((key) => {
-            const item = speakerEffects[key];
-
-            if (Array.isArray(item)) {
-              return item.map((_item, index) => (
-                <div key={`speaker-${_item.id}-${index}`}>
-                  <p>{key}</p>
+          {Object.entries(speakerEffects?.effects || {}).map(([key, item]) => {
+            return (
+              <div key={`speaker-${item.id}`}>
+                <p>{item.label}</p>
+                {key === "noise_suppression" ? (
                   <input
-                    value={_item.config}
+                    value={item.name}
                     onChange={(event) => {
-                      item[index].config = event.target.value;
                       setSpeakerEffects({
                         ...speakerEffects,
-                        [key]: item,
+                        effects: {
+                          ...speakerEffects.effects,
+                          [key]: {
+                            ...speakerEffects.effects[key],
+                            name: event.target.value,
+                          },
+                        },
                       });
                     }}
                     onBlur={() => {
-                      setAudioEffects("1", key, _item.config, index);
+                      if (item.name === "webrtxns" || item.name === "nvrtxns") {
+                        setAudioEffect(objectIds.speaker, key, item);
+                      }
                     }}
                   />
-                </div>
-              ));
-            }
-
-            return (
-              <div key={`speaker-${key}`}>
-                <p>{key}</p>
-                <input
-                  value={typeof item === "object" ? item.config : item}
-                  onChange={(event) => {
-                    setSpeakerEffects({
-                      ...speakerEffects,
-                      [key]:
-                        item === "object"
-                          ? {
-                              ...item,
-                              config: event.target.value,
-                            }
-                          : event.target.value,
-                    });
-                  }}
-                  onBlur={() => {
-                    setAudioEffects(
-                      "1",
-                      key,
-                      item === "object" ? item.config : item
-                    );
-                  }}
-                />
+                ) : null}
+                {item.data ? (
+                  item.data.map((entry, index) => (
+                    <div key={`speaker-${key}-${index}`}>
+                      <input
+                        value={entry.config}
+                        onChange={(event) => {
+                          setSpeakerEffects({
+                            ...speakerEffects,
+                            effects: {
+                              ...speakerEffects.effects,
+                              [key]: {
+                                ...speakerEffects.effects[key],
+                                data: insertTo(
+                                  speakerEffects.effects[key].data,
+                                  index,
+                                  {
+                                    ...speakerEffects.effects[key].data[index],
+                                    config: event.target.value,
+                                  }
+                                ),
+                              },
+                            },
+                          });
+                        }}
+                        onBlur={() => {
+                          setAudioEffect(objectIds.speaker, key, item);
+                        }}
+                      />
+                    </div>
+                  ))
+                ) : (
+                  <input
+                    value={item.config}
+                    onChange={(event) => {
+                      setSpeakerEffects({
+                        ...speakerEffects,
+                        effects: {
+                          ...speakerEffects.effects,
+                          [key]: {
+                            ...speakerEffects.effects[key],
+                            config: event.target.value,
+                          },
+                        },
+                      });
+                    }}
+                    onBlur={() => {
+                      setAudioEffect(objectIds.speaker, key, item);
+                    }}
+                  />
+                )}
               </div>
             );
           })}
@@ -123,7 +159,7 @@ function App() {
               value={mic}
               onChange={(value) => {
                 setMic(value.target.value);
-                setAudioDevices("0", value.target.value);
+                setAudioDevices(objectIds.mic, value.target.value);
               }}
             >
               {mics.map((item) => (
@@ -133,55 +169,82 @@ function App() {
               ))}
             </select>
           </div>
-          {Object.keys(micEffects).map((key) => {
-            const item = micEffects[key];
-
-            if (Array.isArray(item)) {
-              return item.map((_item, index) => (
-                <div key={`mic-${_item.id}-${index}`}>
-                  <p>{key}</p>
+          {Object.entries(micEffects?.effects || {}).map(([key, item]) => {
+            return (
+              <div key={`mic-${item.id}`}>
+                <p>{item.label}</p>
+                {key === "noise_suppression" ? (
                   <input
-                    value={_item.config}
+                    value={item.name}
                     onChange={(event) => {
-                      item[index].config = event.target.value;
                       setMicEffects({
                         ...micEffects,
-                        [key]: item,
+                        effects: {
+                          ...micEffects.effects,
+                          [key]: {
+                            ...micEffects.effects[key],
+                            name: event.target.value,
+                          },
+                        },
                       });
                     }}
                     onBlur={() => {
-                      setAudioEffects("0", key, _item.config, index);
+                      if (item.name === "webrtxns" || item.name === "nvrtxns") {
+                        setAudioEffect(objectIds.mic, key, item);
+                      }
                     }}
                   />
-                </div>
-              ));
-            }
-
-            return (
-              <div key={`mic-${key}`}>
-                <p>{key}</p>
-                <input
-                  value={typeof item === "object" ? item.config : item}
-                  onChange={(event) => {
-                    setMicEffects({
-                      ...micEffects,
-                      [key]:
-                        item === "object"
-                          ? {
-                              ...item,
-                              config: event.target.value,
-                            }
-                          : event.target.value,
-                    });
-                  }}
-                  onBlur={() => {
-                    setAudioEffects(
-                      "0",
-                      key,
-                      item === "object" ? item.config : item
-                    );
-                  }}
-                />
+                ) : null}
+                {item.data ? (
+                  item.data.map((entry, index) => (
+                    <div key={`mic-${item.id}-${index}`}>
+                      <input
+                        value={entry.config}
+                        onChange={(event) => {
+                          setMicEffects({
+                            ...micEffects,
+                            effects: {
+                              ...micEffects.effects,
+                              [key]: {
+                                ...micEffects.effects[key],
+                                data: insertTo(
+                                  micEffects.effects[key].data,
+                                  index,
+                                  {
+                                    ...micEffects.effects[key].data[index],
+                                    config: event.target.value,
+                                  }
+                                ),
+                              },
+                            },
+                          });
+                        }}
+                        onBlur={() => {
+                          setAudioEffect(objectIds.mic, key, item);
+                        }}
+                      />
+                    </div>
+                  ))
+                ) : (
+                  <input
+                    value={item.config}
+                    onChange={(event) => {
+                      setMicEffects({
+                        ...micEffects,
+                        effects: {
+                          ...micEffects.effects,
+                          [key]: {
+                            ...micEffects.effects[key],
+                            config: event.target.value,
+                          },
+                        },
+                      });
+                    }}
+                    onBlur={() => {
+                      setAudioEffect(objectIds.mic, key, item);
+                    }}
+                  />
+                )}
               </div>
             );
           })}
