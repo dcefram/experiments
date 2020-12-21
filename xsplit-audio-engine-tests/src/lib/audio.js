@@ -206,27 +206,31 @@ export const setAudioEffect = async (id, name, item) => {
       node.setAttribute("id", item.name);
 
       const obj = dom.querySelector("object");
-      obj.appendChild(node);
+      obj.prepend(node);
     }
 
     node.setAttribute("config", item.config);
   } else if (name === "parametric_equalizer") {
     // We ought to add all of the data points...
     const nodes = dom.querySelectorAll(`effect[name="${name}"]`);
+
+    if (!Array.isArray(item.data)) return;
+
+    const data = item.data.reverse();
     let counter = 0;
     nodes.forEach((node, index) => {
-      node.setAttribute("config", item.data[index]?.config || "");
+      node.setAttribute("config", data[index]?.config || "");
       counter++;
     });
 
     const obj = dom.querySelector("object");
-    while (counter < item.data.length) {
+    while (counter < data.length) {
       const node = dom.createElement("effect");
-      node.setAttribute("name", item.data[counter]?.name);
-      node.setAttribute("id", item.data[counter]?.name);
-      node.setAttribute("config", item.data[counter]?.config || "");
+      node.setAttribute("name", data[counter]?.name);
+      node.setAttribute("id", `${data[counter]?.name}-${counter}`);
+      node.setAttribute("config", data[counter]?.config || "");
 
-      obj.appendChild(node);
+      obj.prepend(node);
       counter++;
     }
   } else {
@@ -238,7 +242,7 @@ export const setAudioEffect = async (id, name, item) => {
       node.setAttribute("id", item.name);
 
       const obj = dom.querySelector("object");
-      obj.appendChild(node);
+      obj.prepend(node);
     }
 
     node.setAttribute("config", item.config);
