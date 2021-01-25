@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>XSplit VST Experiment</title>
+
+    <style>
+        body:not(input) {
+            user-select: none;
+            color: white;
+        }
+
+        body {
+            font-family: Arial, 'sans-serif';
+        }
+
+        ul li {
+            list-style: none;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <p>
+        <input type="text" value="" id="filepath"/>
+        <button id="browse">Select Folder</button>
+    </p>
+    <ul id="vst-files">
+    </ul>
+</div>
+<script src="xjs.umd.js"></script>
+<script>
+  const dspEffects = ['dmo:compressor', 'dmo:parameq', 'gain', 'webrtxns', 'nvrtxns'];
+  const filePathInput = document.getElementById('filepath');
+  const browseButton = document.getElementById('browse');
+  const vstFilesList = document.getElementById('vst-files');
+  const parser = new DOMParser();
+  const xjs = new window.Xjs();
+  let dllCallbacks = {};
+  let cachedXml;
+
+  window.OnDllCallback = (dll, id, value) => {
+    if (typeof dllCallbacks[id] === 'function') {
+      dllCallbacks[id](value);
+    }
+  }
+
+  async function CallDll(dll, value) {
+    const res = await xjs.internal.exec('CallDllEx', dll, value);
+
+    if (typeof res === 'string' && res.indexOf('async:') === 0) {
+      const [_, id] = res.split(':');
+      return new Promise((resolve, reject) => {
+        dllCallbacks[id] = (value) => {
+          if (typeof value === 'string' && value.indexOf('result:') === 0) {
+            reject(value.split(':')[1]);
+          } else {
+            resolve(value);
+          }
+        };
+      });
+    }
+
+    if (typeof res === 'string' && res.indexOf('result:') === 0) {
+      const [_, id] = res.split(':');
+      return Promise.reject(id);
+    }
+
+    return res;
+  }
+
+  async function listFiles() {
+    const path = filePathInput.getAttribute('value');
+    const doesExist = await xjs.internal.exec('CallDllEx', 'XSplit.File.Exists', path);
+
+    if (doesExist === '0') return [];
+
+    const files = await CallDll('XSplit.File.GetListOfFiles', path);
+
+    if (typeof files !== 'string') return [];
+
+    return files.split('|').filter((file) => /\.vst3$/.test(file));
+  }
+
+  async function generateVstFilesList() {
+    const files = await listFiles();
+    let nodes = [];
+    try {
+      const dom = parser.parseFromString(cachedXml, 'application/xml');
+      nodes = Array.from(dom.querySelectorAll('effect') || []);
+    } catch (e) {}
+    console.log(cachedXml)
+    files.forEach((file) => {
+      const li = document.createElement('li');
+      const label = document.createElement('label');
+      const checkbox = document.createElement('input');
+      const ident = `${Math.floor(Math.random() * 10000)}-${file}`
+
+      label.innerText = file;
+      label.setAttribute('for', ident);
+      checkbox.setAttribute('type', 'checkbox');
+      checkbox.setAttribute('id', ident);
+
+      checkbox.checked = nodes.find((node) => {
+        const segs = (node.getAttribute('name') || '').split('\\');
+        const _file = segs.length > 0 ? segs[segs.length - 1] : '';
+
+        return file === _file;
+      }) !== undefined;
+
+      li.appendChild(checkbox);
+      li.appendChild(label);
+      li.setAttribute('data-file', file);
+
+      vstFilesList.append(li);
+    })
+  }
+
+  function buildXml(dom, obj, nodes) {
+    obj.innerHTML = '';
+    nodes.forEach((node) => {
+      obj.append(node);
+    });
+
+    const finalXml = dom.documentElement.outerHTML;
+
+    console.log('debug...');
+    console.log(finalXml);
+    xjs.internal.exec('CallHostFunc', 'setProperty', 'audiodev:000', finalXml);
+
+    return finalXml;
+  }
+
+  (async () => {
+    await xjs.internal.exec('LoadDll', 'Scriptdlls\\SplitMediaLabs\\XjsEx.dll');
+
+    const doesExist = await CallDll('XSplit.File.Exists', 'C:\\Program Files\\VSTPlugins');
+
+    if (String(doesExist) === '0') {
+      filePathInput.setAttribute('value', 'C:\\');
+    } else {
+      filePathInput.setAttribute('value', 'C:\\Program Files\\VSTPlugins');
+    }
+
+    cachedXml = await xjs.internal.exec('CallHostFunc', 'getProperty', 'audiodev:000');
+
+    generateVstFilesList();
+
+    browseButton.addEventListener('click', async () => {
+      const _path = await xjs.internal.exec('OpenFolderDialogAsync');
+      filePathInput.setAttribute('value', _path);
+      generateVstFilesList();
+    });
+
+    vstFilesList.addEventListener('click', async (event) => {
+      event.stopPropagation();
+      event.preventDefault();
+
+      let li = event.target;
+      if (li.nodeName !== 'LI') {
+        const _target = li.closest('li');
+        if (_target === null) return;
+        li = _target;
+      }
+
+      const filename = li.dataset.file;
+      const path = filePathInput.getAttribute('value');
+      const fullPath = path.split('\\').concat([filename]).join('\\');
+
+      const audioDevString = await xjs.internal.exec('CallHostFunc', 'getProperty', 'audiodev:000');
+      const dom = parser.parseFromString(audioDevString || cachedXml, 'application/xml');
+      const obj = dom.querySelector('object');
+
+      if (!obj) {
+        console.error('missing microphone object node');
+        return;
+      }
+
+      const vstId = `vst_${filename.replace(/\s/g, '-')}`;
+      const nodes = Array.from(obj.children);
+      const checkbox = li.querySelector('input');
+
+      if (checkbox.checked) {
+        const idx = nodes.findIndex((node) => node.getAttribute('id') === vstId);
+
+        if (idx !== -1) {
+          nodes.splice(idx, 1);
+
+          cachedXml = buildXml(dom, obj, nodes);
+        }
+
+        checkbox.checked = false;
+        return;
+      }
+
+      const highestIndex = nodes.reduce((highest, node, index) => {
+        if (
+          (dspEffects.indexOf(node.getAttribute('name')) !== -1 || node.getAttribute('id') === 'meters_dsp') &&
+          index > highest
+        ) {
+          return index;
+        }
+
+        return highest;
+      }, -1);
+
+      const vstEffect = dom.createElement('effect');
+      vstEffect.setAttribute('id', vstId);
+      vstEffect.setAttribute('name', `vst:${fullPath}`);
+      vstEffect.setAttribute('config', '');
+      nodes.splice(highestIndex + 1, 0, vstEffect);
+      cachedXml = buildXml(dom, obj, nodes);
+
+      checkbox.checked = true;
+    });
+  })();
+</script>
+</body>
+</html>
