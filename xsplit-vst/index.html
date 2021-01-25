@@ -45,6 +45,10 @@
     }
   }
 
+  window.Setdlldogrant = () => {
+    location.reload();
+  }
+
   async function CallDll(dll, value) {
     const res = await xjs.internal.exec('CallDllEx', dll, value);
 
