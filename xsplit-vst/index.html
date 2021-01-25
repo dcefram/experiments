@@ -210,7 +210,7 @@
 
       const vstEffect = dom.createElement('effect');
       vstEffect.setAttribute('id', vstId);
-      vstEffect.setAttribute('name', `vst:${fullPath}`);
+      vstEffect.setAttribute('name', `vst3:${fullPath}`);
       vstEffect.setAttribute('config', '');
       nodes.splice(highestIndex + 1, 0, vstEffect);
       cachedXml = buildXml(dom, obj, nodes);
